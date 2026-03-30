@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>政治戰情儀表板（lxy）</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header>
+    <h1>政治戰情儀表板（lxy）</h1>
+    <p id="updated">更新中...</p>
+  </header>
+
+  <section class="panel" style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+    <strong>資料視窗：</strong>
+    <button id="mode24" type="button">24h</button>
+    <button id="mode7d" type="button">近7日</button>
+    <span id="modeHint" style="opacity:.8"></span>
+  </section>
+
+  <section class="cards">
+    <div class="card"><h3>24h 聲量</h3><div id="total24" class="num">-</div></div>
+    <div class="card"><h3>前 24h</h3><div id="prev24" class="num">-</div></div>
+    <div class="card"><h3>成長率</h3><div id="growth" class="num">-</div></div>
+    <div class="card"><h3>紅黃綠燈</h3><div id="light" class="num">-</div></div>
+    <div class="card"><h3>今日新聞量</h3><div id="news24" class="num">-</div></div>
+  </section>
+
+  <section class="panel">
+    <h2>24h 聲量趨勢</h2>
+    <canvas id="hourChart" height="120"></canvas>
+  </section>
+
+  <section class="panel two-col">
+    <div>
+      <h2>平台分佈（全資料24h）（含盧秀燕、秀燕、蔣萬安、萬安、陳其邁、其邁、蔡其昌、其昌等關鍵字）</h2>
+      <canvas id="platformChart" height="170"></canvas>
+      <ul id="platforms"></ul>
+    </div>
+    <div>
+      <h2>人物提及（24h）</h2>
+      <canvas id="mentionChart" height="170"></canvas>
+      <div id="compare"></div>
+    </div>
+  </section>
+
+  <section class="panel collapsible" id="panel-platform-detail">
+    <button class="panel-toggle" type="button" aria-expanded="true" aria-controls="platformDetailWrap">
+      <h2>平台分佈對應明細（24h）</h2>
+      <span class="chev">▾</span>
+    </button>
+    <div class="panel-content" id="platformDetailWrap">
+      <p class="hint">下方每個平台都是「平台分佈」圖中的實際資料清單。</p>
+      <div id="platformDetail"></div>
+    </div>
+  </section>
+
+  <section class="panel collapsible" id="panel-latest-news">
+    <button class="panel-toggle" type="button" aria-expanded="true" aria-controls="latestNewsWrap">
+      <h2>最新新聞（24h）</h2>
+      <span class="chev">▾</span>
+    </button>
+    <div class="panel-content" id="latestNewsWrap">
+      <ol id="news"></ol>
+    </div>
+  </section>
+
+  <section class="panel collapsible" id="panel-lu">
+    <button class="panel-toggle" type="button" aria-expanded="true" aria-controls="luWrap">
+      <h2>人物專區：盧秀燕</h2>
+      <span class="chev">▾</span>
+    </button>
+    <div class="panel-content" id="luWrap">
+      <div class="two-col">
+        <div><h3>盧秀燕 Facebook</h3><ol id="luFb"></ol></div>
+        <div><h3>盧秀燕 News</h3><ol id="luNews"></ol></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="panel collapsible" id="panel-chiang">
+    <button class="panel-toggle" type="button" aria-expanded="true" aria-controls="chiangWrap">
+      <h2>人物專區：蔣萬安</h2>
+      <span class="chev">▾</span>
+    </button>
+    <div class="panel-content" id="chiangWrap">
+      <div class="two-col">
+        <div><h3>蔣萬安 Facebook</h3><ol id="chiangFb"></ol></div>
+        <div><h3>蔣萬安 News</h3><ol id="chiangNews"></ol></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="panel collapsible" id="panel-chen">
+    <button class="panel-toggle" type="button" aria-expanded="true" aria-controls="chenWrap">
+      <h2>人物專區：陳其邁</h2>
+      <span class="chev">▾</span>
+    </button>
+    <div class="panel-content" id="chenWrap">
+      <div class="two-col">
+        <div><h3>陳其邁 Facebook</h3><ol id="chenFb"></ol></div>
+        <div><h3>陳其邁 News</h3><ol id="chenNews"></ol></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="panel collapsible" id="panel-tsai">
+    <button class="panel-toggle" type="button" aria-expanded="true" aria-controls="tsaiWrap">
+      <h2>人物專區：蔡其昌</h2>
+      <span class="chev">▾</span>
+    </button>
+    <div class="panel-content" id="tsaiWrap">
+      <div class="two-col">
+        <div><h3>蔡其昌 Facebook</h3><ol id="tsaiFb"></ol></div>
+        <div><h3>蔡其昌 News</h3><ol id="tsaiNews"></ol></div>
+      </div>
+    </div>
+  </section>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
