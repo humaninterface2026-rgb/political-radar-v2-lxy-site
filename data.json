@@ -1500,5 +1500,25 @@
         "time": "2026-03-29 12:40:04"
       }
     ]
+  },
+  "social_signals": {
+    "facebook": {
+      "total": 174,
+      "green": 90,
+      "yellow": 47,
+      "red": 37
+    },
+    "instagram": {
+      "total": 32,
+      "green": 15,
+      "yellow": 12,
+      "red": 5
+    },
+    "threads": {
+      "total": 88,
+      "green": 46,
+      "yellow": 27,
+      "red": 15
+    }
   }
 }

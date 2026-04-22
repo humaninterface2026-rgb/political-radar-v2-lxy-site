@@ -32,6 +32,14 @@
     <canvas id="hourChart" height="120"></canvas>
   </section>
 
+  <section class="panel">
+    <h2>燈號狀態與原因</h2>
+    <div id="lightStatus" class="num">-</div>
+    <div id="lightReasons" style="margin-top:8px;color:#b9c3f2"></div>
+    <div id="lightStreams" style="margin-top:8px"></div>
+    <div id="lightTrend" style="margin-top:8px"></div>
+  </section>
+
   <section class="panel two-col">
     <div>
       <h2>平台分佈（全資料24h）（含盧秀燕、秀燕、蔣萬安、萬安、陳其邁、其邁、蔡其昌、其昌等關鍵字）</h2>
@@ -43,6 +51,12 @@
       <canvas id="mentionChart" height="170"></canvas>
       <div id="compare"></div>
     </div>
+  </section>
+
+  <section class="panel" id="socialSignalPanel">
+    <h2>盧秀燕社群留言燈號分佈（FB / IG / Threads）</h2>
+    <div class="social-signal-grid" id="socialSignals"></div>
+    <p class="hint">來源：各平台爬取留言後之紅黃綠分燈結果（最新一輪）。</p>
   </section>
 
   <section class="panel collapsible" id="panel-platform-detail">
