@@ -4,6 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>政治戰情儀表板（lxy）</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
   <link rel="stylesheet" href="./style.css" />
 </head>
 <body>
@@ -11,6 +12,9 @@
     <h1>政治戰情儀表板（lxy）</h1>
     <p id="updated">更新中...</p>
   </header>
+
+  <!-- Red-ratio alert banner (shown dynamically by app.js) -->
+  <div id="alertBanner" class="alert-banner hidden" role="status" aria-live="polite"></div>
 
   <section class="panel" style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
     <strong>資料視窗：</strong>
@@ -55,8 +59,65 @@
 
   <section class="panel" id="socialSignalPanel">
     <h2>盧秀燕社群留言燈號分佈（FB / IG / Threads）</h2>
+    <p class="hint">點擊卡片查看該平台的實際留言明細；也可以切換上方 [🔴 紅 / 🟡 黃 / 🟢 綠] 篩選。</p>
     <div class="social-signal-grid" id="socialSignals"></div>
-    <p class="hint">來源：各平台爬取留言後之紅黃綠分燈結果（最新一輪）。</p>
+  </section>
+
+  <section class="panel" id="mapHotspotPanel">
+    <h2>議題地圖熱點（新聞 + 留言）</h2>
+    <p class="hint">以紅色亮點標示高風險事件位置；可點擊查看事件名稱、來源與說明。</p>
+    <div id="incidentMap"></div>
+  </section>
+
+  <section class="panel collapsible" id="panel-red-trend">
+    <button class="panel-toggle" type="button" aria-expanded="true" aria-controls="redTrendWrap">
+      <h2>紅燈比例趨勢</h2>
+      <span class="chev">▾</span>
+    </button>
+    <div class="panel-content" id="redTrendWrap">
+      <p class="hint">各平台歷次快照的紅燈比例 (%)，越高代表該時段負面言論比重越大。</p>
+      <canvas id="redTrendChart" height="140"></canvas>
+    </div>
+  </section>
+
+  <section class="panel collapsible" id="panel-topic-heat">
+    <button class="panel-toggle" type="button" aria-expanded="true" aria-controls="topicHeatWrap">
+      <h2>議題熱度追蹤</h2>
+      <span class="chev">▾</span>
+    </button>
+    <div class="panel-content" id="topicHeatWrap">
+      <div class="topic-controls">
+        <label for="topicSelect">選擇議題：</label>
+        <select id="topicSelect"></select>
+        <span class="topic-info" id="topicInfo"></span>
+      </div>
+
+      <h3 class="topic-section-title">Google Trends（過去 5 年，台灣）</h3>
+      <p class="hint">週頻率相對熱度（0–100，峰值 = 100）。資料透過後端 pytrends 每日一次抓取並快取於 <code>cache/google_trends/</code>；峰值代表該週搜尋量相對最高。</p>
+      <canvas id="topicTrendsChart" height="140"></canvas>
+      <div class="topic-trends-meta" id="topicTrendsMeta"></div>
+      <div class="topic-external-row">
+        <a id="topicTrendsLink" class="topic-external-btn" href="#" target="_blank" rel="noopener">
+          🔎 <span id="topicTrendsLinkLabel">在 Google Trends 查看互動版</span>
+        </a>
+        <span class="topic-external-hint">點此前往官方頁面查看互動式圖表</span>
+      </div>
+
+      <h3 class="topic-section-title">我方爬取之留言提及數（近期 snapshot 覆蓋範圍）</h3>
+      <p class="hint">將各平台 snapshot 中的相對時間（如「4天」「3小時」）換算回絕對日期後，按日彙整的提及筆數。涵蓋日期取決於最近幾次爬取的時間窗。</p>
+      <canvas id="topicOwnChart" height="120"></canvas>
+    </div>
+  </section>
+
+  <section class="panel collapsible" id="panel-red-comments">
+    <button class="panel-toggle" type="button" aria-expanded="true" aria-controls="redCommentsWrap">
+      <h2>紅燈留言清單（最新一輪，所有平台）</h2>
+      <span class="chev">▾</span>
+    </button>
+    <div class="panel-content" id="redCommentsWrap">
+      <p class="hint">依平台分組顯示所有被判為紅燈的留言；有原文連結的會以連結呈現。</p>
+      <div id="redComments"></div>
+    </div>
   </section>
 
   <section class="panel collapsible" id="panel-platform-detail">
@@ -132,7 +193,27 @@
     </div>
   </section>
 
+  <!-- Drilldown modal: per-platform comment viewer w/ light filter -->
+  <div id="commentsModal" class="modal hidden" aria-hidden="true">
+    <div class="modal-backdrop" data-close="1"></div>
+    <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <div class="modal-header">
+        <h2 id="modalTitle">留言清單</h2>
+        <button id="modalClose" class="modal-close" type="button" aria-label="關閉">✕</button>
+      </div>
+      <div class="modal-filters" id="modalFilters">
+        <button class="filter-btn active" data-filter="all">全部</button>
+        <button class="filter-btn" data-filter="red">🔴 紅</button>
+        <button class="filter-btn" data-filter="yellow">🟡 黃</button>
+        <button class="filter-btn" data-filter="green">🟢 綠</button>
+      </div>
+      <div class="modal-summary" id="modalSummary"></div>
+      <div class="modal-body" id="modalBody"></div>
+    </div>
+  </div>
+
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
   <script src="./app.js"></script>
 </body>
 </html>
