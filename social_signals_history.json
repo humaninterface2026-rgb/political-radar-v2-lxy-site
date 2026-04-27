@@ -1,0 +1,3408 @@
+{
+  "facebook": [
+    {
+      "ts": "2026-04-22T16:35:17",
+      "total": 0,
+      "red": 0,
+      "yellow": 0,
+      "green": 0,
+      "red_pct": 0.0,
+      "yellow_pct": 0.0,
+      "green_pct": 0.0
+    },
+    {
+      "ts": "2026-04-22T16:49:24",
+      "total": 174,
+      "red": 37,
+      "yellow": 47,
+      "green": 90,
+      "red_pct": 21.26,
+      "yellow_pct": 27.01,
+      "green_pct": 51.72
+    },
+    {
+      "ts": "2026-04-22T17:35:38",
+      "total": 179,
+      "red": 38,
+      "yellow": 50,
+      "green": 91,
+      "red_pct": 21.23,
+      "yellow_pct": 27.93,
+      "green_pct": 50.84
+    },
+    {
+      "ts": "2026-04-22T18:36:13",
+      "total": 86,
+      "red": 9,
+      "yellow": 23,
+      "green": 54,
+      "red_pct": 10.47,
+      "yellow_pct": 26.74,
+      "green_pct": 62.79
+    },
+    {
+      "ts": "2026-04-22T19:36:40",
+      "total": 190,
+      "red": 39,
+      "yellow": 53,
+      "green": 98,
+      "red_pct": 20.53,
+      "yellow_pct": 27.89,
+      "green_pct": 51.58
+    },
+    {
+      "ts": "2026-04-22T20:37:18",
+      "total": 191,
+      "red": 39,
+      "yellow": 53,
+      "green": 99,
+      "red_pct": 20.42,
+      "yellow_pct": 27.75,
+      "green_pct": 51.83
+    },
+    {
+      "ts": "2026-04-22T21:38:00",
+      "total": 186,
+      "red": 39,
+      "yellow": 49,
+      "green": 98,
+      "red_pct": 20.97,
+      "yellow_pct": 26.34,
+      "green_pct": 52.69
+    },
+    {
+      "ts": "2026-04-22T22:38:37",
+      "total": 193,
+      "red": 42,
+      "yellow": 51,
+      "green": 100,
+      "red_pct": 21.76,
+      "yellow_pct": 26.42,
+      "green_pct": 51.81
+    },
+    {
+      "ts": "2026-04-22T23:39:15",
+      "total": 199,
+      "red": 43,
+      "yellow": 52,
+      "green": 104,
+      "red_pct": 21.61,
+      "yellow_pct": 26.13,
+      "green_pct": 52.26
+    },
+    {
+      "ts": "2026-04-23T00:39:51",
+      "total": 202,
+      "red": 45,
+      "yellow": 53,
+      "green": 104,
+      "red_pct": 22.28,
+      "yellow_pct": 26.24,
+      "green_pct": 51.49
+    },
+    {
+      "ts": "2026-04-23T01:40:30",
+      "total": 208,
+      "red": 46,
+      "yellow": 54,
+      "green": 108,
+      "red_pct": 22.12,
+      "yellow_pct": 25.96,
+      "green_pct": 51.92
+    },
+    {
+      "ts": "2026-04-23T02:41:09",
+      "total": 211,
+      "red": 47,
+      "yellow": 54,
+      "green": 110,
+      "red_pct": 22.27,
+      "yellow_pct": 25.59,
+      "green_pct": 52.13
+    },
+    {
+      "ts": "2026-04-23T03:41:51",
+      "total": 211,
+      "red": 47,
+      "yellow": 54,
+      "green": 110,
+      "red_pct": 22.27,
+      "yellow_pct": 25.59,
+      "green_pct": 52.13
+    },
+    {
+      "ts": "2026-04-23T04:42:39",
+      "total": 211,
+      "red": 47,
+      "yellow": 54,
+      "green": 110,
+      "red_pct": 22.27,
+      "yellow_pct": 25.59,
+      "green_pct": 52.13
+    },
+    {
+      "ts": "2026-04-23T05:43:17",
+      "total": 106,
+      "red": 13,
+      "yellow": 26,
+      "green": 67,
+      "red_pct": 12.26,
+      "yellow_pct": 24.53,
+      "green_pct": 63.21
+    },
+    {
+      "ts": "2026-04-23T06:43:52",
+      "total": 213,
+      "red": 47,
+      "yellow": 55,
+      "green": 111,
+      "red_pct": 22.07,
+      "yellow_pct": 25.82,
+      "green_pct": 52.11
+    },
+    {
+      "ts": "2026-04-23T07:44:30",
+      "total": 219,
+      "red": 49,
+      "yellow": 58,
+      "green": 112,
+      "red_pct": 22.37,
+      "yellow_pct": 26.48,
+      "green_pct": 51.14
+    },
+    {
+      "ts": "2026-04-23T08:45:14",
+      "total": 232,
+      "red": 54,
+      "yellow": 63,
+      "green": 115,
+      "red_pct": 23.28,
+      "yellow_pct": 27.16,
+      "green_pct": 49.57
+    },
+    {
+      "ts": "2026-04-23T09:45:53",
+      "total": 245,
+      "red": 53,
+      "yellow": 72,
+      "green": 120,
+      "red_pct": 21.63,
+      "yellow_pct": 29.39,
+      "green_pct": 48.98
+    },
+    {
+      "ts": "2026-04-23T10:46:48",
+      "total": 255,
+      "red": 58,
+      "yellow": 75,
+      "green": 122,
+      "red_pct": 22.75,
+      "yellow_pct": 29.41,
+      "green_pct": 47.84
+    },
+    {
+      "ts": "2026-04-23T13:47:31",
+      "total": 282,
+      "red": 60,
+      "yellow": 85,
+      "green": 137,
+      "red_pct": 21.28,
+      "yellow_pct": 30.14,
+      "green_pct": 48.58
+    },
+    {
+      "ts": "2026-04-23T14:48:15",
+      "total": 298,
+      "red": 64,
+      "yellow": 90,
+      "green": 144,
+      "red_pct": 21.48,
+      "yellow_pct": 30.2,
+      "green_pct": 48.32
+    },
+    {
+      "ts": "2026-04-23T15:49:00",
+      "total": 303,
+      "red": 63,
+      "yellow": 92,
+      "green": 148,
+      "red_pct": 20.79,
+      "yellow_pct": 30.36,
+      "green_pct": 48.84
+    },
+    {
+      "ts": "2026-04-23T16:49:48",
+      "total": 310,
+      "red": 65,
+      "yellow": 94,
+      "green": 151,
+      "red_pct": 20.97,
+      "yellow_pct": 30.32,
+      "green_pct": 48.71
+    },
+    {
+      "ts": "2026-04-23T17:50:34",
+      "total": 326,
+      "red": 70,
+      "yellow": 96,
+      "green": 160,
+      "red_pct": 21.47,
+      "yellow_pct": 29.45,
+      "green_pct": 49.08
+    },
+    {
+      "ts": "2026-04-23T18:51:23",
+      "total": 335,
+      "red": 70,
+      "yellow": 101,
+      "green": 164,
+      "red_pct": 20.9,
+      "yellow_pct": 30.15,
+      "green_pct": 48.96
+    },
+    {
+      "ts": "2026-04-23T19:52:15",
+      "total": 21,
+      "red": 7,
+      "yellow": 4,
+      "green": 10,
+      "red_pct": 33.33,
+      "yellow_pct": 19.05,
+      "green_pct": 47.62
+    },
+    {
+      "ts": "2026-04-23T20:52:38",
+      "total": 41,
+      "red": 8,
+      "yellow": 10,
+      "green": 23,
+      "red_pct": 19.51,
+      "yellow_pct": 24.39,
+      "green_pct": 56.1
+    },
+    {
+      "ts": "2026-04-23T21:53:04",
+      "total": 81,
+      "red": 14,
+      "yellow": 21,
+      "green": 46,
+      "red_pct": 17.28,
+      "yellow_pct": 25.93,
+      "green_pct": 56.79
+    },
+    {
+      "ts": "2026-04-23T22:53:33",
+      "total": 96,
+      "red": 16,
+      "yellow": 26,
+      "green": 54,
+      "red_pct": 16.67,
+      "yellow_pct": 27.08,
+      "green_pct": 56.25
+    },
+    {
+      "ts": "2026-04-23T23:54:02",
+      "total": 106,
+      "red": 18,
+      "yellow": 32,
+      "green": 56,
+      "red_pct": 16.98,
+      "yellow_pct": 30.19,
+      "green_pct": 52.83
+    },
+    {
+      "ts": "2026-04-24T00:54:34",
+      "total": 125,
+      "red": 20,
+      "yellow": 38,
+      "green": 67,
+      "red_pct": 16.0,
+      "yellow_pct": 30.4,
+      "green_pct": 53.6
+    },
+    {
+      "ts": "2026-04-24T01:55:05",
+      "total": 134,
+      "red": 22,
+      "yellow": 40,
+      "green": 72,
+      "red_pct": 16.42,
+      "yellow_pct": 29.85,
+      "green_pct": 53.73
+    },
+    {
+      "ts": "2026-04-24T02:55:40",
+      "total": 140,
+      "red": 25,
+      "yellow": 43,
+      "green": 72,
+      "red_pct": 17.86,
+      "yellow_pct": 30.71,
+      "green_pct": 51.43
+    },
+    {
+      "ts": "2026-04-24T03:56:14",
+      "total": 141,
+      "red": 25,
+      "yellow": 43,
+      "green": 73,
+      "red_pct": 17.73,
+      "yellow_pct": 30.5,
+      "green_pct": 51.77
+    },
+    {
+      "ts": "2026-04-24T04:56:49",
+      "total": 142,
+      "red": 25,
+      "yellow": 43,
+      "green": 74,
+      "red_pct": 17.61,
+      "yellow_pct": 30.28,
+      "green_pct": 52.11
+    },
+    {
+      "ts": "2026-04-24T05:57:22",
+      "total": 144,
+      "red": 25,
+      "yellow": 43,
+      "green": 76,
+      "red_pct": 17.36,
+      "yellow_pct": 29.86,
+      "green_pct": 52.78
+    },
+    {
+      "ts": "2026-04-24T06:57:54",
+      "total": 148,
+      "red": 26,
+      "yellow": 44,
+      "green": 78,
+      "red_pct": 17.57,
+      "yellow_pct": 29.73,
+      "green_pct": 52.7
+    },
+    {
+      "ts": "2026-04-24T07:58:29",
+      "total": 153,
+      "red": 26,
+      "yellow": 46,
+      "green": 81,
+      "red_pct": 16.99,
+      "yellow_pct": 30.07,
+      "green_pct": 52.94
+    },
+    {
+      "ts": "2026-04-24T08:59:06",
+      "total": 163,
+      "red": 26,
+      "yellow": 49,
+      "green": 88,
+      "red_pct": 15.95,
+      "yellow_pct": 30.06,
+      "green_pct": 53.99
+    },
+    {
+      "ts": "2026-04-24T09:59:43",
+      "total": 171,
+      "red": 27,
+      "yellow": 52,
+      "green": 92,
+      "red_pct": 15.79,
+      "yellow_pct": 30.41,
+      "green_pct": 53.8
+    },
+    {
+      "ts": "2026-04-24T11:00:25",
+      "total": 183,
+      "red": 30,
+      "yellow": 56,
+      "green": 97,
+      "red_pct": 16.39,
+      "yellow_pct": 30.6,
+      "green_pct": 53.01
+    },
+    {
+      "ts": "2026-04-24T12:01:04",
+      "total": 42,
+      "red": 8,
+      "yellow": 4,
+      "green": 30,
+      "red_pct": 19.05,
+      "yellow_pct": 9.52,
+      "green_pct": 71.43
+    },
+    {
+      "ts": "2026-04-24T13:01:27",
+      "total": 107,
+      "red": 22,
+      "yellow": 19,
+      "green": 66,
+      "red_pct": 20.56,
+      "yellow_pct": 17.76,
+      "green_pct": 61.68
+    },
+    {
+      "ts": "2026-04-24T14:01:57",
+      "total": 148,
+      "red": 27,
+      "yellow": 30,
+      "green": 91,
+      "red_pct": 18.24,
+      "yellow_pct": 20.27,
+      "green_pct": 61.49
+    },
+    {
+      "ts": "2026-04-24T15:02:34",
+      "total": 178,
+      "red": 33,
+      "yellow": 39,
+      "green": 106,
+      "red_pct": 18.54,
+      "yellow_pct": 21.91,
+      "green_pct": 59.55
+    },
+    {
+      "ts": "2026-04-24T16:03:26",
+      "total": 214,
+      "red": 38,
+      "yellow": 42,
+      "green": 134,
+      "red_pct": 17.76,
+      "yellow_pct": 19.63,
+      "green_pct": 62.62
+    },
+    {
+      "ts": "2026-04-24T17:04:10",
+      "total": 232,
+      "red": 41,
+      "yellow": 46,
+      "green": 145,
+      "red_pct": 17.67,
+      "yellow_pct": 19.83,
+      "green_pct": 62.5
+    },
+    {
+      "ts": "2026-04-24T18:04:56",
+      "total": 265,
+      "red": 47,
+      "yellow": 53,
+      "green": 165,
+      "red_pct": 17.74,
+      "yellow_pct": 20.0,
+      "green_pct": 62.26
+    },
+    {
+      "ts": "2026-04-24T19:05:51",
+      "total": 280,
+      "red": 49,
+      "yellow": 58,
+      "green": 173,
+      "red_pct": 17.5,
+      "yellow_pct": 20.71,
+      "green_pct": 61.79
+    },
+    {
+      "ts": "2026-04-24T20:06:45",
+      "total": 222,
+      "red": 32,
+      "yellow": 55,
+      "green": 135,
+      "red_pct": 14.41,
+      "yellow_pct": 24.77,
+      "green_pct": 60.81
+    },
+    {
+      "ts": "2026-04-24T21:07:35",
+      "total": 301,
+      "red": 52,
+      "yellow": 68,
+      "green": 181,
+      "red_pct": 17.28,
+      "yellow_pct": 22.59,
+      "green_pct": 60.13
+    },
+    {
+      "ts": "2026-04-24T22:08:30",
+      "total": 29,
+      "red": 1,
+      "yellow": 4,
+      "green": 24,
+      "red_pct": 3.45,
+      "yellow_pct": 13.79,
+      "green_pct": 82.76
+    },
+    {
+      "ts": "2026-04-24T23:08:52",
+      "total": 74,
+      "red": 4,
+      "yellow": 17,
+      "green": 53,
+      "red_pct": 5.41,
+      "yellow_pct": 22.97,
+      "green_pct": 71.62
+    },
+    {
+      "ts": "2026-04-25T00:09:17",
+      "total": 85,
+      "red": 6,
+      "yellow": 19,
+      "green": 60,
+      "red_pct": 7.06,
+      "yellow_pct": 22.35,
+      "green_pct": 70.59
+    },
+    {
+      "ts": "2026-04-25T01:09:49",
+      "total": 60,
+      "red": 5,
+      "yellow": 11,
+      "green": 44,
+      "red_pct": 8.33,
+      "yellow_pct": 18.33,
+      "green_pct": 73.33
+    },
+    {
+      "ts": "2026-04-25T02:10:14",
+      "total": 104,
+      "red": 11,
+      "yellow": 24,
+      "green": 69,
+      "red_pct": 10.58,
+      "yellow_pct": 23.08,
+      "green_pct": 66.35
+    },
+    {
+      "ts": "2026-04-25T03:10:43",
+      "total": 108,
+      "red": 11,
+      "yellow": 25,
+      "green": 72,
+      "red_pct": 10.19,
+      "yellow_pct": 23.15,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-25T04:11:13",
+      "total": 112,
+      "red": 12,
+      "yellow": 27,
+      "green": 73,
+      "red_pct": 10.71,
+      "yellow_pct": 24.11,
+      "green_pct": 65.18
+    },
+    {
+      "ts": "2026-04-25T05:11:42",
+      "total": 113,
+      "red": 12,
+      "yellow": 27,
+      "green": 74,
+      "red_pct": 10.62,
+      "yellow_pct": 23.89,
+      "green_pct": 65.49
+    },
+    {
+      "ts": "2026-04-25T06:12:12",
+      "total": 115,
+      "red": 12,
+      "yellow": 27,
+      "green": 76,
+      "red_pct": 10.43,
+      "yellow_pct": 23.48,
+      "green_pct": 66.09
+    },
+    {
+      "ts": "2026-04-25T07:12:44",
+      "total": 129,
+      "red": 14,
+      "yellow": 29,
+      "green": 86,
+      "red_pct": 10.85,
+      "yellow_pct": 22.48,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-25T08:13:15",
+      "total": 141,
+      "red": 16,
+      "yellow": 34,
+      "green": 91,
+      "red_pct": 11.35,
+      "yellow_pct": 24.11,
+      "green_pct": 64.54
+    },
+    {
+      "ts": "2026-04-25T09:13:51",
+      "total": 162,
+      "red": 18,
+      "yellow": 41,
+      "green": 103,
+      "red_pct": 11.11,
+      "yellow_pct": 25.31,
+      "green_pct": 63.58
+    },
+    {
+      "ts": "2026-04-25T10:14:36",
+      "total": 171,
+      "red": 21,
+      "yellow": 43,
+      "green": 107,
+      "red_pct": 12.28,
+      "yellow_pct": 25.15,
+      "green_pct": 62.57
+    },
+    {
+      "ts": "2026-04-25T11:15:21",
+      "total": 192,
+      "red": 24,
+      "yellow": 46,
+      "green": 122,
+      "red_pct": 12.5,
+      "yellow_pct": 23.96,
+      "green_pct": 63.54
+    },
+    {
+      "ts": "2026-04-25T12:16:07",
+      "total": 211,
+      "red": 26,
+      "yellow": 49,
+      "green": 136,
+      "red_pct": 12.32,
+      "yellow_pct": 23.22,
+      "green_pct": 64.45
+    },
+    {
+      "ts": "2026-04-25T13:17:06",
+      "total": 236,
+      "red": 31,
+      "yellow": 54,
+      "green": 151,
+      "red_pct": 13.14,
+      "yellow_pct": 22.88,
+      "green_pct": 63.98
+    },
+    {
+      "ts": "2026-04-25T14:17:54",
+      "total": 138,
+      "red": 13,
+      "yellow": 29,
+      "green": 96,
+      "red_pct": 9.42,
+      "yellow_pct": 21.01,
+      "green_pct": 69.57
+    },
+    {
+      "ts": "2026-04-25T16:19:14",
+      "total": 283,
+      "red": 43,
+      "yellow": 64,
+      "green": 176,
+      "red_pct": 15.19,
+      "yellow_pct": 22.61,
+      "green_pct": 62.19
+    },
+    {
+      "ts": "2026-04-25T17:20:54",
+      "total": 292,
+      "red": 45,
+      "yellow": 67,
+      "green": 180,
+      "red_pct": 15.41,
+      "yellow_pct": 22.95,
+      "green_pct": 61.64
+    },
+    {
+      "ts": "2026-04-25T18:21:51",
+      "total": 311,
+      "red": 48,
+      "yellow": 72,
+      "green": 191,
+      "red_pct": 15.43,
+      "yellow_pct": 23.15,
+      "green_pct": 61.41
+    },
+    {
+      "ts": "2026-04-25T19:23:37",
+      "total": 322,
+      "red": 52,
+      "yellow": 74,
+      "green": 196,
+      "red_pct": 16.15,
+      "yellow_pct": 22.98,
+      "green_pct": 60.87
+    },
+    {
+      "ts": "2026-04-25T20:24:33",
+      "total": 56,
+      "red": 7,
+      "yellow": 10,
+      "green": 39,
+      "red_pct": 12.5,
+      "yellow_pct": 17.86,
+      "green_pct": 69.64
+    },
+    {
+      "ts": "2026-04-25T21:25:01",
+      "total": 128,
+      "red": 13,
+      "yellow": 24,
+      "green": 91,
+      "red_pct": 10.16,
+      "yellow_pct": 18.75,
+      "green_pct": 71.09
+    },
+    {
+      "ts": "2026-04-25T22:25:54",
+      "total": 120,
+      "red": 11,
+      "yellow": 21,
+      "green": 88,
+      "red_pct": 9.17,
+      "yellow_pct": 17.5,
+      "green_pct": 73.33
+    },
+    {
+      "ts": "2026-04-25T23:27:29",
+      "total": 159,
+      "red": 18,
+      "yellow": 27,
+      "green": 114,
+      "red_pct": 11.32,
+      "yellow_pct": 16.98,
+      "green_pct": 71.7
+    },
+    {
+      "ts": "2026-04-26T00:28:13",
+      "total": 170,
+      "red": 20,
+      "yellow": 29,
+      "green": 121,
+      "red_pct": 11.76,
+      "yellow_pct": 17.06,
+      "green_pct": 71.18
+    },
+    {
+      "ts": "2026-04-26T01:29:00",
+      "total": 180,
+      "red": 22,
+      "yellow": 30,
+      "green": 128,
+      "red_pct": 12.22,
+      "yellow_pct": 16.67,
+      "green_pct": 71.11
+    },
+    {
+      "ts": "2026-04-26T02:29:57",
+      "total": 185,
+      "red": 23,
+      "yellow": 30,
+      "green": 132,
+      "red_pct": 12.43,
+      "yellow_pct": 16.22,
+      "green_pct": 71.35
+    },
+    {
+      "ts": "2026-04-26T03:30:40",
+      "total": 189,
+      "red": 23,
+      "yellow": 30,
+      "green": 136,
+      "red_pct": 12.17,
+      "yellow_pct": 15.87,
+      "green_pct": 71.96
+    },
+    {
+      "ts": "2026-04-26T04:31:26",
+      "total": 191,
+      "red": 23,
+      "yellow": 30,
+      "green": 138,
+      "red_pct": 12.04,
+      "yellow_pct": 15.71,
+      "green_pct": 72.25
+    },
+    {
+      "ts": "2026-04-26T05:32:14",
+      "total": 195,
+      "red": 23,
+      "yellow": 31,
+      "green": 141,
+      "red_pct": 11.79,
+      "yellow_pct": 15.9,
+      "green_pct": 72.31
+    },
+    {
+      "ts": "2026-04-26T06:32:58",
+      "total": 196,
+      "red": 23,
+      "yellow": 31,
+      "green": 142,
+      "red_pct": 11.73,
+      "yellow_pct": 15.82,
+      "green_pct": 72.45
+    },
+    {
+      "ts": "2026-04-26T07:33:42",
+      "total": 204,
+      "red": 24,
+      "yellow": 35,
+      "green": 145,
+      "red_pct": 11.76,
+      "yellow_pct": 17.16,
+      "green_pct": 71.08
+    },
+    {
+      "ts": "2026-04-26T08:34:40",
+      "total": 207,
+      "red": 24,
+      "yellow": 36,
+      "green": 147,
+      "red_pct": 11.59,
+      "yellow_pct": 17.39,
+      "green_pct": 71.01
+    },
+    {
+      "ts": "2026-04-26T09:35:30",
+      "total": 210,
+      "red": 24,
+      "yellow": 37,
+      "green": 149,
+      "red_pct": 11.43,
+      "yellow_pct": 17.62,
+      "green_pct": 70.95
+    },
+    {
+      "ts": "2026-04-26T10:36:35",
+      "total": 218,
+      "red": 25,
+      "yellow": 36,
+      "green": 157,
+      "red_pct": 11.47,
+      "yellow_pct": 16.51,
+      "green_pct": 72.02
+    },
+    {
+      "ts": "2026-04-26T11:37:29",
+      "total": 226,
+      "red": 25,
+      "yellow": 39,
+      "green": 162,
+      "red_pct": 11.06,
+      "yellow_pct": 17.26,
+      "green_pct": 71.68
+    },
+    {
+      "ts": "2026-04-26T15:38:26",
+      "total": 255,
+      "red": 29,
+      "yellow": 47,
+      "green": 179,
+      "red_pct": 11.37,
+      "yellow_pct": 18.43,
+      "green_pct": 70.2
+    },
+    {
+      "ts": "2026-04-26T16:39:23",
+      "total": 184,
+      "red": 16,
+      "yellow": 26,
+      "green": 142,
+      "red_pct": 8.7,
+      "yellow_pct": 14.13,
+      "green_pct": 77.17
+    },
+    {
+      "ts": "2026-04-26T17:41:00",
+      "total": 272,
+      "red": 31,
+      "yellow": 49,
+      "green": 192,
+      "red_pct": 11.4,
+      "yellow_pct": 18.01,
+      "green_pct": 70.59
+    },
+    {
+      "ts": "2026-04-26T18:42:06",
+      "total": 28,
+      "red": 3,
+      "yellow": 5,
+      "green": 20,
+      "red_pct": 10.71,
+      "yellow_pct": 17.86,
+      "green_pct": 71.43
+    },
+    {
+      "ts": "2026-04-26T19:42:31",
+      "total": 131,
+      "red": 19,
+      "yellow": 30,
+      "green": 82,
+      "red_pct": 14.5,
+      "yellow_pct": 22.9,
+      "green_pct": 62.6
+    },
+    {
+      "ts": "2026-04-26T20:43:05",
+      "total": 194,
+      "red": 25,
+      "yellow": 51,
+      "green": 118,
+      "red_pct": 12.89,
+      "yellow_pct": 26.29,
+      "green_pct": 60.82
+    },
+    {
+      "ts": "2026-04-26T21:43:50",
+      "total": 261,
+      "red": 37,
+      "yellow": 74,
+      "green": 150,
+      "red_pct": 14.18,
+      "yellow_pct": 28.35,
+      "green_pct": 57.47
+    },
+    {
+      "ts": "2026-04-26T22:44:39",
+      "total": 319,
+      "red": 41,
+      "yellow": 90,
+      "green": 188,
+      "red_pct": 12.85,
+      "yellow_pct": 28.21,
+      "green_pct": 58.93
+    },
+    {
+      "ts": "2026-04-26T23:45:35",
+      "total": 365,
+      "red": 45,
+      "yellow": 106,
+      "green": 214,
+      "red_pct": 12.33,
+      "yellow_pct": 29.04,
+      "green_pct": 58.63
+    },
+    {
+      "ts": "2026-04-27T00:46:38",
+      "total": 389,
+      "red": 48,
+      "yellow": 114,
+      "green": 227,
+      "red_pct": 12.34,
+      "yellow_pct": 29.31,
+      "green_pct": 58.35
+    },
+    {
+      "ts": "2026-04-27T01:47:43",
+      "total": 403,
+      "red": 49,
+      "yellow": 118,
+      "green": 236,
+      "red_pct": 12.16,
+      "yellow_pct": 29.28,
+      "green_pct": 58.56
+    },
+    {
+      "ts": "2026-04-27T02:48:49",
+      "total": 414,
+      "red": 52,
+      "yellow": 121,
+      "green": 241,
+      "red_pct": 12.56,
+      "yellow_pct": 29.23,
+      "green_pct": 58.21
+    },
+    {
+      "ts": "2026-04-27T03:49:57",
+      "total": 419,
+      "red": 53,
+      "yellow": 122,
+      "green": 244,
+      "red_pct": 12.65,
+      "yellow_pct": 29.12,
+      "green_pct": 58.23
+    },
+    {
+      "ts": "2026-04-27T04:51:04",
+      "total": 273,
+      "red": 32,
+      "yellow": 85,
+      "green": 156,
+      "red_pct": 11.72,
+      "yellow_pct": 31.14,
+      "green_pct": 57.14
+    },
+    {
+      "ts": "2026-04-27T05:51:53",
+      "total": 428,
+      "red": 55,
+      "yellow": 124,
+      "green": 249,
+      "red_pct": 12.85,
+      "yellow_pct": 28.97,
+      "green_pct": 58.18
+    },
+    {
+      "ts": "2026-04-27T06:53:00",
+      "total": 439,
+      "red": 60,
+      "yellow": 124,
+      "green": 255,
+      "red_pct": 13.67,
+      "yellow_pct": 28.25,
+      "green_pct": 58.09
+    },
+    {
+      "ts": "2026-04-27T07:54:08",
+      "total": 451,
+      "red": 62,
+      "yellow": 129,
+      "green": 260,
+      "red_pct": 13.75,
+      "yellow_pct": 28.6,
+      "green_pct": 57.65
+    },
+    {
+      "ts": "2026-04-27T08:55:15",
+      "total": 467,
+      "red": 63,
+      "yellow": 134,
+      "green": 270,
+      "red_pct": 13.49,
+      "yellow_pct": 28.69,
+      "green_pct": 57.82
+    },
+    {
+      "ts": "2026-04-27T09:56:30",
+      "total": 482,
+      "red": 65,
+      "yellow": 138,
+      "green": 279,
+      "red_pct": 13.49,
+      "yellow_pct": 28.63,
+      "green_pct": 57.88
+    },
+    {
+      "ts": "2026-04-27T10:57:39",
+      "total": 500,
+      "red": 66,
+      "yellow": 142,
+      "green": 292,
+      "red_pct": 13.2,
+      "yellow_pct": 28.4,
+      "green_pct": 58.4
+    },
+    {
+      "ts": "2026-04-27T12:59:08",
+      "total": 341,
+      "red": 43,
+      "yellow": 103,
+      "green": 195,
+      "red_pct": 12.61,
+      "yellow_pct": 30.21,
+      "green_pct": 57.18
+    },
+    {
+      "ts": "2026-04-27T14:00:04",
+      "total": 549,
+      "red": 72,
+      "yellow": 154,
+      "green": 323,
+      "red_pct": 13.11,
+      "yellow_pct": 28.05,
+      "green_pct": 58.83
+    },
+    {
+      "ts": "2026-04-27T15:01:22",
+      "total": 542,
+      "red": 71,
+      "yellow": 158,
+      "green": 313,
+      "red_pct": 13.1,
+      "yellow_pct": 29.15,
+      "green_pct": 57.75
+    },
+    {
+      "ts": "2026-04-27T16:03:08",
+      "total": 575,
+      "red": 72,
+      "yellow": 167,
+      "green": 336,
+      "red_pct": 12.52,
+      "yellow_pct": 29.04,
+      "green_pct": 58.43
+    },
+    {
+      "ts": "2026-04-27T17:04:30",
+      "total": 585,
+      "red": 73,
+      "yellow": 169,
+      "green": 343,
+      "red_pct": 12.48,
+      "yellow_pct": 28.89,
+      "green_pct": 58.63
+    },
+    {
+      "ts": "2026-04-27T18:05:57",
+      "total": 549,
+      "red": 68,
+      "yellow": 164,
+      "green": 317,
+      "red_pct": 12.39,
+      "yellow_pct": 29.87,
+      "green_pct": 57.74
+    },
+    {
+      "ts": "2026-04-27T19:07:41",
+      "total": 387,
+      "red": 46,
+      "yellow": 116,
+      "green": 225,
+      "red_pct": 11.89,
+      "yellow_pct": 29.97,
+      "green_pct": 58.14
+    },
+    {
+      "ts": "2026-04-27T20:08:40",
+      "total": 14,
+      "red": 3,
+      "yellow": 3,
+      "green": 8,
+      "red_pct": 21.43,
+      "yellow_pct": 21.43,
+      "green_pct": 57.14
+    },
+    {
+      "ts": "2026-04-27T21:09:00",
+      "total": 22,
+      "red": 5,
+      "yellow": 4,
+      "green": 13,
+      "red_pct": 22.73,
+      "yellow_pct": 18.18,
+      "green_pct": 59.09
+    },
+    {
+      "ts": "2026-04-27T22:09:21",
+      "total": 37,
+      "red": 10,
+      "yellow": 6,
+      "green": 21,
+      "red_pct": 27.03,
+      "yellow_pct": 16.22,
+      "green_pct": 56.76
+    },
+    {
+      "ts": "2026-04-27T23:09:43",
+      "total": 44,
+      "red": 11,
+      "yellow": 9,
+      "green": 24,
+      "red_pct": 25.0,
+      "yellow_pct": 20.45,
+      "green_pct": 54.55
+    }
+  ],
+  "instagram": [
+    {
+      "ts": "2026-04-22T10:39:50",
+      "total": 32,
+      "red": 5,
+      "yellow": 12,
+      "green": 15,
+      "red_pct": 15.62,
+      "yellow_pct": 37.5,
+      "green_pct": 46.88
+    },
+    {
+      "ts": "2026-04-22T10:40:32",
+      "total": 32,
+      "red": 5,
+      "yellow": 12,
+      "green": 15,
+      "red_pct": 15.62,
+      "yellow_pct": 37.5,
+      "green_pct": 46.88
+    },
+    {
+      "ts": "2026-04-22T12:40:48",
+      "total": 32,
+      "red": 5,
+      "yellow": 12,
+      "green": 15,
+      "red_pct": 15.62,
+      "yellow_pct": 37.5,
+      "green_pct": 46.88
+    },
+    {
+      "ts": "2026-04-22T13:41:02",
+      "total": 32,
+      "red": 5,
+      "yellow": 12,
+      "green": 15,
+      "red_pct": 15.62,
+      "yellow_pct": 37.5,
+      "green_pct": 46.88
+    },
+    {
+      "ts": "2026-04-22T14:41:17",
+      "total": 32,
+      "red": 5,
+      "yellow": 12,
+      "green": 15,
+      "red_pct": 15.62,
+      "yellow_pct": 37.5,
+      "green_pct": 46.88
+    },
+    {
+      "ts": "2026-04-22T15:41:40",
+      "total": 32,
+      "red": 5,
+      "yellow": 12,
+      "green": 15,
+      "red_pct": 15.62,
+      "yellow_pct": 37.5,
+      "green_pct": 46.88
+    },
+    {
+      "ts": "2026-04-22T16:42:02",
+      "total": 32,
+      "red": 5,
+      "yellow": 12,
+      "green": 15,
+      "red_pct": 15.62,
+      "yellow_pct": 37.5,
+      "green_pct": 46.88
+    },
+    {
+      "ts": "2026-04-22T17:42:16",
+      "total": 32,
+      "red": 5,
+      "yellow": 12,
+      "green": 15,
+      "red_pct": 15.62,
+      "yellow_pct": 37.5,
+      "green_pct": 46.88
+    },
+    {
+      "ts": "2026-04-22T18:42:31",
+      "total": 33,
+      "red": 5,
+      "yellow": 12,
+      "green": 16,
+      "red_pct": 15.15,
+      "yellow_pct": 36.36,
+      "green_pct": 48.48
+    },
+    {
+      "ts": "2026-04-22T19:42:46",
+      "total": 40,
+      "red": 5,
+      "yellow": 16,
+      "green": 19,
+      "red_pct": 12.5,
+      "yellow_pct": 40.0,
+      "green_pct": 47.5
+    },
+    {
+      "ts": "2026-04-22T20:43:01",
+      "total": 46,
+      "red": 5,
+      "yellow": 18,
+      "green": 23,
+      "red_pct": 10.87,
+      "yellow_pct": 39.13,
+      "green_pct": 50.0
+    },
+    {
+      "ts": "2026-04-22T23:43:54",
+      "total": 46,
+      "red": 5,
+      "yellow": 18,
+      "green": 23,
+      "red_pct": 10.87,
+      "yellow_pct": 39.13,
+      "green_pct": 50.0
+    },
+    {
+      "ts": "2026-04-23T00:44:09",
+      "total": 46,
+      "red": 5,
+      "yellow": 18,
+      "green": 23,
+      "red_pct": 10.87,
+      "yellow_pct": 39.13,
+      "green_pct": 50.0
+    },
+    {
+      "ts": "2026-04-23T01:44:24",
+      "total": 46,
+      "red": 5,
+      "yellow": 18,
+      "green": 23,
+      "red_pct": 10.87,
+      "yellow_pct": 39.13,
+      "green_pct": 50.0
+    },
+    {
+      "ts": "2026-04-23T02:44:39",
+      "total": 46,
+      "red": 5,
+      "yellow": 18,
+      "green": 23,
+      "red_pct": 10.87,
+      "yellow_pct": 39.13,
+      "green_pct": 50.0
+    },
+    {
+      "ts": "2026-04-23T03:44:54",
+      "total": 46,
+      "red": 5,
+      "yellow": 18,
+      "green": 23,
+      "red_pct": 10.87,
+      "yellow_pct": 39.13,
+      "green_pct": 50.0
+    },
+    {
+      "ts": "2026-04-23T04:45:08",
+      "total": 46,
+      "red": 5,
+      "yellow": 18,
+      "green": 23,
+      "red_pct": 10.87,
+      "yellow_pct": 39.13,
+      "green_pct": 50.0
+    },
+    {
+      "ts": "2026-04-23T05:45:23",
+      "total": 47,
+      "red": 5,
+      "yellow": 19,
+      "green": 23,
+      "red_pct": 10.64,
+      "yellow_pct": 40.43,
+      "green_pct": 48.94
+    },
+    {
+      "ts": "2026-04-23T06:45:37",
+      "total": 47,
+      "red": 5,
+      "yellow": 19,
+      "green": 23,
+      "red_pct": 10.64,
+      "yellow_pct": 40.43,
+      "green_pct": 48.94
+    },
+    {
+      "ts": "2026-04-23T07:45:52",
+      "total": 47,
+      "red": 5,
+      "yellow": 19,
+      "green": 23,
+      "red_pct": 10.64,
+      "yellow_pct": 40.43,
+      "green_pct": 48.94
+    },
+    {
+      "ts": "2026-04-23T08:46:07",
+      "total": 47,
+      "red": 5,
+      "yellow": 19,
+      "green": 23,
+      "red_pct": 10.64,
+      "yellow_pct": 40.43,
+      "green_pct": 48.94
+    },
+    {
+      "ts": "2026-04-23T09:46:22",
+      "total": 52,
+      "red": 5,
+      "yellow": 21,
+      "green": 26,
+      "red_pct": 9.62,
+      "yellow_pct": 40.38,
+      "green_pct": 50.0
+    },
+    {
+      "ts": "2026-04-23T10:46:37",
+      "total": 52,
+      "red": 5,
+      "yellow": 21,
+      "green": 26,
+      "red_pct": 9.62,
+      "yellow_pct": 40.38,
+      "green_pct": 50.0
+    },
+    {
+      "ts": "2026-04-23T13:46:52",
+      "total": 52,
+      "red": 5,
+      "yellow": 21,
+      "green": 26,
+      "red_pct": 9.62,
+      "yellow_pct": 40.38,
+      "green_pct": 50.0
+    },
+    {
+      "ts": "2026-04-23T14:47:07",
+      "total": 52,
+      "red": 5,
+      "yellow": 21,
+      "green": 26,
+      "red_pct": 9.62,
+      "yellow_pct": 40.38,
+      "green_pct": 50.0
+    },
+    {
+      "ts": "2026-04-23T15:47:21",
+      "total": 52,
+      "red": 5,
+      "yellow": 21,
+      "green": 26,
+      "red_pct": 9.62,
+      "yellow_pct": 40.38,
+      "green_pct": 50.0
+    },
+    {
+      "ts": "2026-04-23T16:47:36",
+      "total": 53,
+      "red": 5,
+      "yellow": 21,
+      "green": 27,
+      "red_pct": 9.43,
+      "yellow_pct": 39.62,
+      "green_pct": 50.94
+    },
+    {
+      "ts": "2026-04-23T17:47:50",
+      "total": 52,
+      "red": 5,
+      "yellow": 20,
+      "green": 27,
+      "red_pct": 9.62,
+      "yellow_pct": 38.46,
+      "green_pct": 51.92
+    },
+    {
+      "ts": "2026-04-23T18:48:05",
+      "total": 52,
+      "red": 5,
+      "yellow": 20,
+      "green": 27,
+      "red_pct": 9.62,
+      "yellow_pct": 38.46,
+      "green_pct": 51.92
+    },
+    {
+      "ts": "2026-04-23T20:48:24",
+      "total": 0,
+      "red": 0,
+      "yellow": 0,
+      "green": 0,
+      "red_pct": 0.0,
+      "yellow_pct": 0.0,
+      "green_pct": 0.0
+    },
+    {
+      "ts": "2026-04-23T22:48:41",
+      "total": 1,
+      "red": 0,
+      "yellow": 1,
+      "green": 0,
+      "red_pct": 0.0,
+      "yellow_pct": 100.0,
+      "green_pct": 0.0
+    },
+    {
+      "ts": "2026-04-23T23:48:55",
+      "total": 1,
+      "red": 0,
+      "yellow": 1,
+      "green": 0,
+      "red_pct": 0.0,
+      "yellow_pct": 100.0,
+      "green_pct": 0.0
+    },
+    {
+      "ts": "2026-04-24T00:49:09",
+      "total": 3,
+      "red": 0,
+      "yellow": 2,
+      "green": 1,
+      "red_pct": 0.0,
+      "yellow_pct": 66.67,
+      "green_pct": 33.33
+    },
+    {
+      "ts": "2026-04-24T01:49:23",
+      "total": 5,
+      "red": 0,
+      "yellow": 2,
+      "green": 3,
+      "red_pct": 0.0,
+      "yellow_pct": 40.0,
+      "green_pct": 60.0
+    },
+    {
+      "ts": "2026-04-24T02:49:37",
+      "total": 5,
+      "red": 0,
+      "yellow": 2,
+      "green": 3,
+      "red_pct": 0.0,
+      "yellow_pct": 40.0,
+      "green_pct": 60.0
+    },
+    {
+      "ts": "2026-04-24T03:49:51",
+      "total": 5,
+      "red": 0,
+      "yellow": 2,
+      "green": 3,
+      "red_pct": 0.0,
+      "yellow_pct": 40.0,
+      "green_pct": 60.0
+    },
+    {
+      "ts": "2026-04-24T04:50:05",
+      "total": 5,
+      "red": 0,
+      "yellow": 2,
+      "green": 3,
+      "red_pct": 0.0,
+      "yellow_pct": 40.0,
+      "green_pct": 60.0
+    },
+    {
+      "ts": "2026-04-24T05:50:20",
+      "total": 5,
+      "red": 0,
+      "yellow": 2,
+      "green": 3,
+      "red_pct": 0.0,
+      "yellow_pct": 40.0,
+      "green_pct": 60.0
+    },
+    {
+      "ts": "2026-04-24T06:50:34",
+      "total": 5,
+      "red": 0,
+      "yellow": 2,
+      "green": 3,
+      "red_pct": 0.0,
+      "yellow_pct": 40.0,
+      "green_pct": 60.0
+    },
+    {
+      "ts": "2026-04-24T07:50:48",
+      "total": 6,
+      "red": 0,
+      "yellow": 2,
+      "green": 4,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-24T08:51:02",
+      "total": 6,
+      "red": 0,
+      "yellow": 2,
+      "green": 4,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-24T09:51:16",
+      "total": 6,
+      "red": 0,
+      "yellow": 2,
+      "green": 4,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-24T10:51:30",
+      "total": 6,
+      "red": 0,
+      "yellow": 2,
+      "green": 4,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-24T11:51:44",
+      "total": 6,
+      "red": 0,
+      "yellow": 2,
+      "green": 4,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-24T12:51:58",
+      "total": 6,
+      "red": 0,
+      "yellow": 2,
+      "green": 4,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-24T13:52:12",
+      "total": 6,
+      "red": 0,
+      "yellow": 2,
+      "green": 4,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-24T15:52:31",
+      "total": 7,
+      "red": 0,
+      "yellow": 2,
+      "green": 5,
+      "red_pct": 0.0,
+      "yellow_pct": 28.57,
+      "green_pct": 71.43
+    },
+    {
+      "ts": "2026-04-24T16:52:45",
+      "total": 8,
+      "red": 0,
+      "yellow": 2,
+      "green": 6,
+      "red_pct": 0.0,
+      "yellow_pct": 25.0,
+      "green_pct": 75.0
+    },
+    {
+      "ts": "2026-04-24T17:52:59",
+      "total": 8,
+      "red": 0,
+      "yellow": 2,
+      "green": 6,
+      "red_pct": 0.0,
+      "yellow_pct": 25.0,
+      "green_pct": 75.0
+    },
+    {
+      "ts": "2026-04-24T18:53:13",
+      "total": 9,
+      "red": 0,
+      "yellow": 2,
+      "green": 7,
+      "red_pct": 0.0,
+      "yellow_pct": 22.22,
+      "green_pct": 77.78
+    },
+    {
+      "ts": "2026-04-24T19:53:28",
+      "total": 9,
+      "red": 0,
+      "yellow": 2,
+      "green": 7,
+      "red_pct": 0.0,
+      "yellow_pct": 22.22,
+      "green_pct": 77.78
+    },
+    {
+      "ts": "2026-04-24T20:53:42",
+      "total": 9,
+      "red": 0,
+      "yellow": 2,
+      "green": 7,
+      "red_pct": 0.0,
+      "yellow_pct": 22.22,
+      "green_pct": 77.78
+    },
+    {
+      "ts": "2026-04-24T21:53:56",
+      "total": 9,
+      "red": 0,
+      "yellow": 2,
+      "green": 7,
+      "red_pct": 0.0,
+      "yellow_pct": 22.22,
+      "green_pct": 77.78
+    },
+    {
+      "ts": "2026-04-24T22:54:10",
+      "total": 10,
+      "red": 0,
+      "yellow": 2,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 20.0,
+      "green_pct": 80.0
+    },
+    {
+      "ts": "2026-04-24T23:54:25",
+      "total": 10,
+      "red": 0,
+      "yellow": 2,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 20.0,
+      "green_pct": 80.0
+    },
+    {
+      "ts": "2026-04-25T00:54:39",
+      "total": 10,
+      "red": 0,
+      "yellow": 2,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 20.0,
+      "green_pct": 80.0
+    },
+    {
+      "ts": "2026-04-25T01:54:54",
+      "total": 10,
+      "red": 0,
+      "yellow": 2,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 20.0,
+      "green_pct": 80.0
+    },
+    {
+      "ts": "2026-04-25T02:55:08",
+      "total": 10,
+      "red": 0,
+      "yellow": 2,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 20.0,
+      "green_pct": 80.0
+    },
+    {
+      "ts": "2026-04-25T03:55:22",
+      "total": 10,
+      "red": 0,
+      "yellow": 2,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 20.0,
+      "green_pct": 80.0
+    },
+    {
+      "ts": "2026-04-25T04:55:36",
+      "total": 10,
+      "red": 0,
+      "yellow": 2,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 20.0,
+      "green_pct": 80.0
+    },
+    {
+      "ts": "2026-04-25T05:55:50",
+      "total": 10,
+      "red": 0,
+      "yellow": 2,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 20.0,
+      "green_pct": 80.0
+    },
+    {
+      "ts": "2026-04-25T06:56:05",
+      "total": 10,
+      "red": 0,
+      "yellow": 2,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 20.0,
+      "green_pct": 80.0
+    },
+    {
+      "ts": "2026-04-25T07:56:19",
+      "total": 10,
+      "red": 0,
+      "yellow": 2,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 20.0,
+      "green_pct": 80.0
+    },
+    {
+      "ts": "2026-04-25T08:56:33",
+      "total": 10,
+      "red": 0,
+      "yellow": 2,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 20.0,
+      "green_pct": 80.0
+    },
+    {
+      "ts": "2026-04-25T09:56:47",
+      "total": 10,
+      "red": 0,
+      "yellow": 2,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 20.0,
+      "green_pct": 80.0
+    },
+    {
+      "ts": "2026-04-25T10:57:01",
+      "total": 10,
+      "red": 0,
+      "yellow": 2,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 20.0,
+      "green_pct": 80.0
+    },
+    {
+      "ts": "2026-04-25T12:57:19",
+      "total": 11,
+      "red": 0,
+      "yellow": 3,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 27.27,
+      "green_pct": 72.73
+    },
+    {
+      "ts": "2026-04-25T13:57:35",
+      "total": 11,
+      "red": 0,
+      "yellow": 3,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 27.27,
+      "green_pct": 72.73
+    },
+    {
+      "ts": "2026-04-25T17:57:54",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-25T18:58:09",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-25T19:58:23",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-25T20:58:38",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-25T21:58:52",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-25T22:59:07",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-25T23:59:22",
+      "total": 14,
+      "red": 0,
+      "yellow": 5,
+      "green": 9,
+      "red_pct": 0.0,
+      "yellow_pct": 35.71,
+      "green_pct": 64.29
+    },
+    {
+      "ts": "2026-04-26T00:59:36",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-26T01:59:51",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-26T03:00:05",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-26T04:00:20",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-26T05:00:34",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-26T06:00:49",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-26T07:01:03",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-26T08:01:18",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-26T09:01:32",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-26T10:01:47",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-26T11:02:01",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-26T12:02:16",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-26T16:02:32",
+      "total": 13,
+      "red": 0,
+      "yellow": 5,
+      "green": 8,
+      "red_pct": 0.0,
+      "yellow_pct": 38.46,
+      "green_pct": 61.54
+    },
+    {
+      "ts": "2026-04-26T17:02:46",
+      "total": 14,
+      "red": 0,
+      "yellow": 5,
+      "green": 9,
+      "red_pct": 0.0,
+      "yellow_pct": 35.71,
+      "green_pct": 64.29
+    },
+    {
+      "ts": "2026-04-26T18:03:01",
+      "total": 14,
+      "red": 0,
+      "yellow": 5,
+      "green": 9,
+      "red_pct": 0.0,
+      "yellow_pct": 35.71,
+      "green_pct": 64.29
+    },
+    {
+      "ts": "2026-04-26T19:03:16",
+      "total": 14,
+      "red": 0,
+      "yellow": 5,
+      "green": 9,
+      "red_pct": 0.0,
+      "yellow_pct": 35.71,
+      "green_pct": 64.29
+    },
+    {
+      "ts": "2026-04-26T20:03:34",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-26T21:03:50",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-26T22:04:04",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-26T23:04:19",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T00:04:34",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T01:04:49",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T02:05:03",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T03:05:18",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T04:05:32",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T05:05:47",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T06:06:02",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T07:06:16",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T08:06:30",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T09:06:45",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T10:06:59",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T11:07:14",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T13:07:29",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T14:07:44",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T15:07:58",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T16:08:18",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T17:08:33",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T18:08:48",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T19:09:03",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T20:09:17",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T21:09:32",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T22:09:47",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-27T23:10:02",
+      "total": 15,
+      "red": 0,
+      "yellow": 5,
+      "green": 10,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    }
+  ],
+  "threads": [
+    {
+      "ts": "2026-04-22T16:18:30",
+      "total": 186,
+      "red": 32,
+      "yellow": 57,
+      "green": 97,
+      "red_pct": 17.2,
+      "yellow_pct": 30.65,
+      "green_pct": 52.15
+    },
+    {
+      "ts": "2026-04-22T16:20:29",
+      "total": 88,
+      "red": 15,
+      "yellow": 27,
+      "green": 46,
+      "red_pct": 17.05,
+      "yellow_pct": 30.68,
+      "green_pct": 52.27
+    },
+    {
+      "ts": "2026-04-22T17:21:04",
+      "total": 91,
+      "red": 11,
+      "yellow": 30,
+      "green": 50,
+      "red_pct": 12.09,
+      "yellow_pct": 32.97,
+      "green_pct": 54.95
+    },
+    {
+      "ts": "2026-04-22T18:21:51",
+      "total": 94,
+      "red": 16,
+      "yellow": 27,
+      "green": 51,
+      "red_pct": 17.02,
+      "yellow_pct": 28.72,
+      "green_pct": 54.26
+    },
+    {
+      "ts": "2026-04-22T19:22:46",
+      "total": 49,
+      "red": 6,
+      "yellow": 17,
+      "green": 26,
+      "red_pct": 12.24,
+      "yellow_pct": 34.69,
+      "green_pct": 53.06
+    },
+    {
+      "ts": "2026-04-22T20:23:21",
+      "total": 27,
+      "red": 5,
+      "yellow": 7,
+      "green": 15,
+      "red_pct": 18.52,
+      "yellow_pct": 25.93,
+      "green_pct": 55.56
+    },
+    {
+      "ts": "2026-04-22T21:23:44",
+      "total": 69,
+      "red": 8,
+      "yellow": 21,
+      "green": 40,
+      "red_pct": 11.59,
+      "yellow_pct": 30.43,
+      "green_pct": 57.97
+    },
+    {
+      "ts": "2026-04-22T22:24:24",
+      "total": 117,
+      "red": 16,
+      "yellow": 38,
+      "green": 63,
+      "red_pct": 13.68,
+      "yellow_pct": 32.48,
+      "green_pct": 53.85
+    },
+    {
+      "ts": "2026-04-22T23:25:22",
+      "total": 187,
+      "red": 32,
+      "yellow": 56,
+      "green": 99,
+      "red_pct": 17.11,
+      "yellow_pct": 29.95,
+      "green_pct": 52.94
+    },
+    {
+      "ts": "2026-04-23T00:26:51",
+      "total": 140,
+      "red": 25,
+      "yellow": 38,
+      "green": 77,
+      "red_pct": 17.86,
+      "yellow_pct": 27.14,
+      "green_pct": 55.0
+    },
+    {
+      "ts": "2026-04-23T01:28:07",
+      "total": 185,
+      "red": 31,
+      "yellow": 55,
+      "green": 99,
+      "red_pct": 16.76,
+      "yellow_pct": 29.73,
+      "green_pct": 53.51
+    },
+    {
+      "ts": "2026-04-23T02:29:34",
+      "total": 186,
+      "red": 31,
+      "yellow": 56,
+      "green": 99,
+      "red_pct": 16.67,
+      "yellow_pct": 30.11,
+      "green_pct": 53.23
+    },
+    {
+      "ts": "2026-04-23T03:30:52",
+      "total": 153,
+      "red": 27,
+      "yellow": 46,
+      "green": 80,
+      "red_pct": 17.65,
+      "yellow_pct": 30.07,
+      "green_pct": 52.29
+    },
+    {
+      "ts": "2026-04-23T04:31:56",
+      "total": 186,
+      "red": 31,
+      "yellow": 56,
+      "green": 99,
+      "red_pct": 16.67,
+      "yellow_pct": 30.11,
+      "green_pct": 53.23
+    },
+    {
+      "ts": "2026-04-23T05:33:15",
+      "total": 186,
+      "red": 31,
+      "yellow": 56,
+      "green": 99,
+      "red_pct": 16.67,
+      "yellow_pct": 30.11,
+      "green_pct": 53.23
+    },
+    {
+      "ts": "2026-04-23T06:34:26",
+      "total": 188,
+      "red": 32,
+      "yellow": 56,
+      "green": 100,
+      "red_pct": 17.02,
+      "yellow_pct": 29.79,
+      "green_pct": 53.19
+    },
+    {
+      "ts": "2026-04-23T07:35:41",
+      "total": 188,
+      "red": 32,
+      "yellow": 56,
+      "green": 100,
+      "red_pct": 17.02,
+      "yellow_pct": 29.79,
+      "green_pct": 53.19
+    },
+    {
+      "ts": "2026-04-23T08:36:53",
+      "total": 193,
+      "red": 32,
+      "yellow": 56,
+      "green": 105,
+      "red_pct": 16.58,
+      "yellow_pct": 29.02,
+      "green_pct": 54.4
+    },
+    {
+      "ts": "2026-04-23T09:38:12",
+      "total": 192,
+      "red": 32,
+      "yellow": 56,
+      "green": 104,
+      "red_pct": 16.67,
+      "yellow_pct": 29.17,
+      "green_pct": 54.17
+    },
+    {
+      "ts": "2026-04-23T10:39:34",
+      "total": 77,
+      "red": 10,
+      "yellow": 24,
+      "green": 43,
+      "red_pct": 12.99,
+      "yellow_pct": 31.17,
+      "green_pct": 55.84
+    },
+    {
+      "ts": "2026-04-23T14:40:17",
+      "total": 123,
+      "red": 17,
+      "yellow": 37,
+      "green": 69,
+      "red_pct": 13.82,
+      "yellow_pct": 30.08,
+      "green_pct": 56.1
+    },
+    {
+      "ts": "2026-04-23T15:41:03",
+      "total": 74,
+      "red": 8,
+      "yellow": 27,
+      "green": 39,
+      "red_pct": 10.81,
+      "yellow_pct": 36.49,
+      "green_pct": 52.7
+    },
+    {
+      "ts": "2026-04-23T16:41:39",
+      "total": 123,
+      "red": 16,
+      "yellow": 38,
+      "green": 69,
+      "red_pct": 13.01,
+      "yellow_pct": 30.89,
+      "green_pct": 56.1
+    },
+    {
+      "ts": "2026-04-23T17:42:35",
+      "total": 46,
+      "red": 6,
+      "yellow": 18,
+      "green": 22,
+      "red_pct": 13.04,
+      "yellow_pct": 39.13,
+      "green_pct": 47.83
+    },
+    {
+      "ts": "2026-04-23T18:43:05",
+      "total": 126,
+      "red": 19,
+      "yellow": 32,
+      "green": 75,
+      "red_pct": 15.08,
+      "yellow_pct": 25.4,
+      "green_pct": 59.52
+    },
+    {
+      "ts": "2026-04-23T19:44:09",
+      "total": 28,
+      "red": 8,
+      "yellow": 8,
+      "green": 12,
+      "red_pct": 28.57,
+      "yellow_pct": 28.57,
+      "green_pct": 42.86
+    },
+    {
+      "ts": "2026-04-23T20:44:34",
+      "total": 101,
+      "red": 20,
+      "yellow": 33,
+      "green": 48,
+      "red_pct": 19.8,
+      "yellow_pct": 32.67,
+      "green_pct": 47.52
+    },
+    {
+      "ts": "2026-04-23T21:45:26",
+      "total": 254,
+      "red": 36,
+      "yellow": 88,
+      "green": 130,
+      "red_pct": 14.17,
+      "yellow_pct": 34.65,
+      "green_pct": 51.18
+    },
+    {
+      "ts": "2026-04-23T22:46:56",
+      "total": 118,
+      "red": 23,
+      "yellow": 29,
+      "green": 66,
+      "red_pct": 19.49,
+      "yellow_pct": 24.58,
+      "green_pct": 55.93
+    },
+    {
+      "ts": "2026-04-23T23:47:48",
+      "total": 33,
+      "red": 12,
+      "yellow": 8,
+      "green": 13,
+      "red_pct": 36.36,
+      "yellow_pct": 24.24,
+      "green_pct": 39.39
+    },
+    {
+      "ts": "2026-04-24T00:48:10",
+      "total": 256,
+      "red": 37,
+      "yellow": 82,
+      "green": 137,
+      "red_pct": 14.45,
+      "yellow_pct": 32.03,
+      "green_pct": 53.52
+    },
+    {
+      "ts": "2026-04-24T01:49:48",
+      "total": 364,
+      "red": 57,
+      "yellow": 122,
+      "green": 185,
+      "red_pct": 15.66,
+      "yellow_pct": 33.52,
+      "green_pct": 50.82
+    },
+    {
+      "ts": "2026-04-24T02:52:03",
+      "total": 426,
+      "red": 66,
+      "yellow": 138,
+      "green": 222,
+      "red_pct": 15.49,
+      "yellow_pct": 32.39,
+      "green_pct": 52.11
+    },
+    {
+      "ts": "2026-04-24T03:54:11",
+      "total": 429,
+      "red": 65,
+      "yellow": 140,
+      "green": 224,
+      "red_pct": 15.15,
+      "yellow_pct": 32.63,
+      "green_pct": 52.21
+    },
+    {
+      "ts": "2026-04-24T04:56:18",
+      "total": 434,
+      "red": 65,
+      "yellow": 143,
+      "green": 226,
+      "red_pct": 14.98,
+      "yellow_pct": 32.95,
+      "green_pct": 52.07
+    },
+    {
+      "ts": "2026-04-24T05:58:22",
+      "total": 444,
+      "red": 67,
+      "yellow": 148,
+      "green": 229,
+      "red_pct": 15.09,
+      "yellow_pct": 33.33,
+      "green_pct": 51.58
+    },
+    {
+      "ts": "2026-04-24T07:00:23",
+      "total": 388,
+      "red": 55,
+      "yellow": 134,
+      "green": 199,
+      "red_pct": 14.18,
+      "yellow_pct": 34.54,
+      "green_pct": 51.29
+    },
+    {
+      "ts": "2026-04-24T08:02:20",
+      "total": 471,
+      "red": 72,
+      "yellow": 153,
+      "green": 246,
+      "red_pct": 15.29,
+      "yellow_pct": 32.48,
+      "green_pct": 52.23
+    },
+    {
+      "ts": "2026-04-24T09:04:44",
+      "total": 55,
+      "red": 12,
+      "yellow": 12,
+      "green": 31,
+      "red_pct": 21.82,
+      "yellow_pct": 21.82,
+      "green_pct": 56.36
+    },
+    {
+      "ts": "2026-04-24T10:05:12",
+      "total": 478,
+      "red": 70,
+      "yellow": 153,
+      "green": 255,
+      "red_pct": 14.64,
+      "yellow_pct": 32.01,
+      "green_pct": 53.35
+    },
+    {
+      "ts": "2026-04-24T11:07:48",
+      "total": 423,
+      "red": 61,
+      "yellow": 141,
+      "green": 221,
+      "red_pct": 14.42,
+      "yellow_pct": 33.33,
+      "green_pct": 52.25
+    },
+    {
+      "ts": "2026-04-24T12:10:08",
+      "total": 134,
+      "red": 25,
+      "yellow": 44,
+      "green": 65,
+      "red_pct": 18.66,
+      "yellow_pct": 32.84,
+      "green_pct": 48.51
+    },
+    {
+      "ts": "2026-04-24T13:11:02",
+      "total": 453,
+      "red": 62,
+      "yellow": 151,
+      "green": 240,
+      "red_pct": 13.69,
+      "yellow_pct": 33.33,
+      "green_pct": 52.98
+    },
+    {
+      "ts": "2026-04-24T14:13:39",
+      "total": 409,
+      "red": 57,
+      "yellow": 138,
+      "green": 214,
+      "red_pct": 13.94,
+      "yellow_pct": 33.74,
+      "green_pct": 52.32
+    },
+    {
+      "ts": "2026-04-24T15:15:59",
+      "total": 294,
+      "red": 41,
+      "yellow": 98,
+      "green": 155,
+      "red_pct": 13.95,
+      "yellow_pct": 33.33,
+      "green_pct": 52.72
+    },
+    {
+      "ts": "2026-04-24T16:17:49",
+      "total": 70,
+      "red": 13,
+      "yellow": 18,
+      "green": 39,
+      "red_pct": 18.57,
+      "yellow_pct": 25.71,
+      "green_pct": 55.71
+    },
+    {
+      "ts": "2026-04-24T17:18:23",
+      "total": 464,
+      "red": 65,
+      "yellow": 149,
+      "green": 250,
+      "red_pct": 14.01,
+      "yellow_pct": 32.11,
+      "green_pct": 53.88
+    },
+    {
+      "ts": "2026-04-24T18:20:59",
+      "total": 88,
+      "red": 15,
+      "yellow": 23,
+      "green": 50,
+      "red_pct": 17.05,
+      "yellow_pct": 26.14,
+      "green_pct": 56.82
+    },
+    {
+      "ts": "2026-04-25T09:22:35",
+      "total": 133,
+      "red": 15,
+      "yellow": 40,
+      "green": 78,
+      "red_pct": 11.28,
+      "yellow_pct": 30.08,
+      "green_pct": 58.65
+    },
+    {
+      "ts": "2026-04-25T10:23:26",
+      "total": 366,
+      "red": 47,
+      "yellow": 107,
+      "green": 212,
+      "red_pct": 12.84,
+      "yellow_pct": 29.23,
+      "green_pct": 57.92
+    },
+    {
+      "ts": "2026-04-25T11:25:34",
+      "total": 121,
+      "red": 15,
+      "yellow": 36,
+      "green": 70,
+      "red_pct": 12.4,
+      "yellow_pct": 29.75,
+      "green_pct": 57.85
+    },
+    {
+      "ts": "2026-04-25T12:26:22",
+      "total": 168,
+      "red": 19,
+      "yellow": 47,
+      "green": 102,
+      "red_pct": 11.31,
+      "yellow_pct": 27.98,
+      "green_pct": 60.71
+    },
+    {
+      "ts": "2026-04-25T13:27:26",
+      "total": 57,
+      "red": 8,
+      "yellow": 22,
+      "green": 27,
+      "red_pct": 14.04,
+      "yellow_pct": 38.6,
+      "green_pct": 47.37
+    },
+    {
+      "ts": "2026-04-25T16:28:01",
+      "total": 333,
+      "red": 41,
+      "yellow": 93,
+      "green": 199,
+      "red_pct": 12.31,
+      "yellow_pct": 27.93,
+      "green_pct": 59.76
+    },
+    {
+      "ts": "2026-04-25T17:29:51",
+      "total": 46,
+      "red": 7,
+      "yellow": 21,
+      "green": 18,
+      "red_pct": 15.22,
+      "yellow_pct": 45.65,
+      "green_pct": 39.13
+    },
+    {
+      "ts": "2026-04-25T18:30:18",
+      "total": 93,
+      "red": 13,
+      "yellow": 29,
+      "green": 51,
+      "red_pct": 13.98,
+      "yellow_pct": 31.18,
+      "green_pct": 54.84
+    },
+    {
+      "ts": "2026-04-25T19:30:59",
+      "total": 34,
+      "red": 6,
+      "yellow": 14,
+      "green": 14,
+      "red_pct": 17.65,
+      "yellow_pct": 41.18,
+      "green_pct": 41.18
+    },
+    {
+      "ts": "2026-04-25T20:31:22",
+      "total": 258,
+      "red": 28,
+      "yellow": 77,
+      "green": 153,
+      "red_pct": 10.85,
+      "yellow_pct": 29.84,
+      "green_pct": 59.3
+    },
+    {
+      "ts": "2026-04-25T21:33:00",
+      "total": 465,
+      "red": 61,
+      "yellow": 127,
+      "green": 277,
+      "red_pct": 13.12,
+      "yellow_pct": 27.31,
+      "green_pct": 59.57
+    },
+    {
+      "ts": "2026-04-25T22:35:36",
+      "total": 63,
+      "red": 9,
+      "yellow": 23,
+      "green": 31,
+      "red_pct": 14.29,
+      "yellow_pct": 36.51,
+      "green_pct": 49.21
+    },
+    {
+      "ts": "2026-04-25T23:36:11",
+      "total": 470,
+      "red": 60,
+      "yellow": 130,
+      "green": 280,
+      "red_pct": 12.77,
+      "yellow_pct": 27.66,
+      "green_pct": 59.57
+    },
+    {
+      "ts": "2026-04-26T00:38:46",
+      "total": 59,
+      "red": 9,
+      "yellow": 24,
+      "green": 26,
+      "red_pct": 15.25,
+      "yellow_pct": 40.68,
+      "green_pct": 44.07
+    },
+    {
+      "ts": "2026-04-26T01:39:23",
+      "total": 455,
+      "red": 64,
+      "yellow": 128,
+      "green": 263,
+      "red_pct": 14.07,
+      "yellow_pct": 28.13,
+      "green_pct": 57.8
+    },
+    {
+      "ts": "2026-04-26T02:41:58",
+      "total": 496,
+      "red": 62,
+      "yellow": 135,
+      "green": 299,
+      "red_pct": 12.5,
+      "yellow_pct": 27.22,
+      "green_pct": 60.28
+    },
+    {
+      "ts": "2026-04-26T03:44:33",
+      "total": 520,
+      "red": 68,
+      "yellow": 141,
+      "green": 311,
+      "red_pct": 13.08,
+      "yellow_pct": 27.12,
+      "green_pct": 59.81
+    },
+    {
+      "ts": "2026-04-26T04:47:07",
+      "total": 473,
+      "red": 61,
+      "yellow": 126,
+      "green": 286,
+      "red_pct": 12.9,
+      "yellow_pct": 26.64,
+      "green_pct": 60.47
+    },
+    {
+      "ts": "2026-04-26T05:49:40",
+      "total": 253,
+      "red": 24,
+      "yellow": 74,
+      "green": 155,
+      "red_pct": 9.49,
+      "yellow_pct": 29.25,
+      "green_pct": 61.26
+    },
+    {
+      "ts": "2026-04-26T06:51:04",
+      "total": 474,
+      "red": 55,
+      "yellow": 131,
+      "green": 288,
+      "red_pct": 11.6,
+      "yellow_pct": 27.64,
+      "green_pct": 60.76
+    },
+    {
+      "ts": "2026-04-26T07:53:24",
+      "total": 556,
+      "red": 75,
+      "yellow": 145,
+      "green": 336,
+      "red_pct": 13.49,
+      "yellow_pct": 26.08,
+      "green_pct": 60.43
+    },
+    {
+      "ts": "2026-04-26T08:55:58",
+      "total": 128,
+      "red": 13,
+      "yellow": 39,
+      "green": 76,
+      "red_pct": 10.16,
+      "yellow_pct": 30.47,
+      "green_pct": 59.38
+    },
+    {
+      "ts": "2026-04-26T09:56:52",
+      "total": 37,
+      "red": 5,
+      "yellow": 15,
+      "green": 17,
+      "red_pct": 13.51,
+      "yellow_pct": 40.54,
+      "green_pct": 45.95
+    },
+    {
+      "ts": "2026-04-26T10:57:16",
+      "total": 0,
+      "red": 0,
+      "yellow": 0,
+      "green": 0,
+      "red_pct": 0.0,
+      "yellow_pct": 0.0,
+      "green_pct": 0.0
+    },
+    {
+      "ts": "2026-04-26T11:57:39",
+      "total": 24,
+      "red": 3,
+      "yellow": 10,
+      "green": 11,
+      "red_pct": 12.5,
+      "yellow_pct": 41.67,
+      "green_pct": 45.83
+    },
+    {
+      "ts": "2026-04-26T15:58:01",
+      "total": 461,
+      "red": 57,
+      "yellow": 124,
+      "green": 280,
+      "red_pct": 12.36,
+      "yellow_pct": 26.9,
+      "green_pct": 60.74
+    },
+    {
+      "ts": "2026-04-26T17:00:32",
+      "total": 462,
+      "red": 59,
+      "yellow": 125,
+      "green": 278,
+      "red_pct": 12.77,
+      "yellow_pct": 27.06,
+      "green_pct": 60.17
+    },
+    {
+      "ts": "2026-04-26T18:03:07",
+      "total": 6,
+      "red": 0,
+      "yellow": 2,
+      "green": 4,
+      "red_pct": 0.0,
+      "yellow_pct": 33.33,
+      "green_pct": 66.67
+    },
+    {
+      "ts": "2026-04-26T19:03:25",
+      "total": 26,
+      "red": 3,
+      "yellow": 11,
+      "green": 12,
+      "red_pct": 11.54,
+      "yellow_pct": 42.31,
+      "green_pct": 46.15
+    },
+    {
+      "ts": "2026-04-26T20:03:47",
+      "total": 95,
+      "red": 8,
+      "yellow": 32,
+      "green": 55,
+      "red_pct": 8.42,
+      "yellow_pct": 33.68,
+      "green_pct": 57.89
+    },
+    {
+      "ts": "2026-04-26T21:04:34",
+      "total": 273,
+      "red": 30,
+      "yellow": 72,
+      "green": 171,
+      "red_pct": 10.99,
+      "yellow_pct": 26.37,
+      "green_pct": 62.64
+    },
+    {
+      "ts": "2026-04-26T22:06:15",
+      "total": 230,
+      "red": 18,
+      "yellow": 68,
+      "green": 144,
+      "red_pct": 7.83,
+      "yellow_pct": 29.57,
+      "green_pct": 62.61
+    },
+    {
+      "ts": "2026-04-26T23:07:43",
+      "total": 429,
+      "red": 58,
+      "yellow": 118,
+      "green": 253,
+      "red_pct": 13.52,
+      "yellow_pct": 27.51,
+      "green_pct": 58.97
+    },
+    {
+      "ts": "2026-04-27T00:10:18",
+      "total": 80,
+      "red": 8,
+      "yellow": 29,
+      "green": 43,
+      "red_pct": 10.0,
+      "yellow_pct": 36.25,
+      "green_pct": 53.75
+    },
+    {
+      "ts": "2026-04-27T01:11:02",
+      "total": 431,
+      "red": 54,
+      "yellow": 119,
+      "green": 258,
+      "red_pct": 12.53,
+      "yellow_pct": 27.61,
+      "green_pct": 59.86
+    },
+    {
+      "ts": "2026-04-27T02:13:35",
+      "total": 453,
+      "red": 58,
+      "yellow": 124,
+      "green": 271,
+      "red_pct": 12.8,
+      "yellow_pct": 27.37,
+      "green_pct": 59.82
+    },
+    {
+      "ts": "2026-04-27T03:16:10",
+      "total": 62,
+      "red": 7,
+      "yellow": 23,
+      "green": 32,
+      "red_pct": 11.29,
+      "yellow_pct": 37.1,
+      "green_pct": 51.61
+    },
+    {
+      "ts": "2026-04-27T04:16:41",
+      "total": 517,
+      "red": 64,
+      "yellow": 141,
+      "green": 312,
+      "red_pct": 12.38,
+      "yellow_pct": 27.27,
+      "green_pct": 60.35
+    },
+    {
+      "ts": "2026-04-27T05:19:15",
+      "total": 507,
+      "red": 63,
+      "yellow": 137,
+      "green": 307,
+      "red_pct": 12.43,
+      "yellow_pct": 27.02,
+      "green_pct": 60.55
+    },
+    {
+      "ts": "2026-04-27T06:21:48",
+      "total": 529,
+      "red": 65,
+      "yellow": 143,
+      "green": 321,
+      "red_pct": 12.29,
+      "yellow_pct": 27.03,
+      "green_pct": 60.68
+    },
+    {
+      "ts": "2026-04-27T07:24:23",
+      "total": 378,
+      "red": 45,
+      "yellow": 106,
+      "green": 227,
+      "red_pct": 11.9,
+      "yellow_pct": 28.04,
+      "green_pct": 60.05
+    },
+    {
+      "ts": "2026-04-27T08:26:25",
+      "total": 5,
+      "red": 0,
+      "yellow": 2,
+      "green": 3,
+      "red_pct": 0.0,
+      "yellow_pct": 40.0,
+      "green_pct": 60.0
+    },
+    {
+      "ts": "2026-04-27T09:26:44",
+      "total": 219,
+      "red": 24,
+      "yellow": 67,
+      "green": 128,
+      "red_pct": 10.96,
+      "yellow_pct": 30.59,
+      "green_pct": 58.45
+    },
+    {
+      "ts": "2026-04-27T10:28:10",
+      "total": 128,
+      "red": 13,
+      "yellow": 43,
+      "green": 72,
+      "red_pct": 10.16,
+      "yellow_pct": 33.59,
+      "green_pct": 56.25
+    },
+    {
+      "ts": "2026-04-27T13:29:11",
+      "total": 471,
+      "red": 59,
+      "yellow": 132,
+      "green": 280,
+      "red_pct": 12.53,
+      "yellow_pct": 28.03,
+      "green_pct": 59.45
+    },
+    {
+      "ts": "2026-04-27T14:31:41",
+      "total": 437,
+      "red": 55,
+      "yellow": 123,
+      "green": 259,
+      "red_pct": 12.59,
+      "yellow_pct": 28.15,
+      "green_pct": 59.27
+    },
+    {
+      "ts": "2026-04-27T15:34:10",
+      "total": 0,
+      "red": 0,
+      "yellow": 0,
+      "green": 0,
+      "red_pct": 0.0,
+      "yellow_pct": 0.0,
+      "green_pct": 0.0
+    },
+    {
+      "ts": "2026-04-27T16:34:28",
+      "total": 165,
+      "red": 18,
+      "yellow": 49,
+      "green": 98,
+      "red_pct": 10.91,
+      "yellow_pct": 29.7,
+      "green_pct": 59.39
+    },
+    {
+      "ts": "2026-04-27T17:35:45",
+      "total": 5,
+      "red": 0,
+      "yellow": 2,
+      "green": 3,
+      "red_pct": 0.0,
+      "yellow_pct": 40.0,
+      "green_pct": 60.0
+    },
+    {
+      "ts": "2026-04-27T18:36:04",
+      "total": 5,
+      "red": 0,
+      "yellow": 2,
+      "green": 3,
+      "red_pct": 0.0,
+      "yellow_pct": 40.0,
+      "green_pct": 60.0
+    },
+    {
+      "ts": "2026-04-27T19:36:24",
+      "total": 302,
+      "red": 29,
+      "yellow": 86,
+      "green": 187,
+      "red_pct": 9.6,
+      "yellow_pct": 28.48,
+      "green_pct": 61.92
+    },
+    {
+      "ts": "2026-04-27T20:38:18",
+      "total": 61,
+      "red": 7,
+      "yellow": 23,
+      "green": 31,
+      "red_pct": 11.48,
+      "yellow_pct": 37.7,
+      "green_pct": 50.82
+    },
+    {
+      "ts": "2026-04-27T21:39:00",
+      "total": 281,
+      "red": 23,
+      "yellow": 79,
+      "green": 179,
+      "red_pct": 8.19,
+      "yellow_pct": 28.11,
+      "green_pct": 63.7
+    },
+    {
+      "ts": "2026-04-27T22:40:54",
+      "total": 46,
+      "red": 4,
+      "yellow": 18,
+      "green": 24,
+      "red_pct": 8.7,
+      "yellow_pct": 39.13,
+      "green_pct": 52.17
+    }
+  ]
+}
