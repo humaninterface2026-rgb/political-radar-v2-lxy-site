@@ -9345,7 +9345,7 @@
     },
     {
       "date": "2026-05-18",
-      "snapshot_at": "2026-05-18T12:24:37.359112+00:00",
+      "snapshot_at": "2026-05-18T12:47:26.634561+00:00",
       "hotspots": [
         {
           "title": "台北軍購爭議",
@@ -9357,30 +9357,6 @@
           "negativity_pct": 0,
           "is_urgent": false,
           "urgency_score": 1,
-          "sample_titles": []
-        },
-        {
-          "title": "盧秀燕訪美外交",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 0,
-          "comment_count": 1,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 3,
-          "sample_titles": []
-        },
-        {
-          "title": "藍營路線爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 0,
-          "comment_count": 1,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 3,
           "sample_titles": []
         },
         {
@@ -9454,20 +9430,6 @@
           ]
         },
         {
-          "title": "台北陳情/抗議",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "老舊公寓無法申請鼠類偵防師 小黨抗議怒批北市府"
-          ]
-        },
-        {
           "title": "苗栗陳情/抗議",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -9479,6 +9441,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "780銅鑼鄉西湖溪建太陽能光電場,九湖村民眾抗議有效,村長曾義男領導有方,村民大家歡歡喜喜快樂收場！"
+          ]
+        },
+        {
+          "title": "台北陳情/抗議",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "老舊公寓無法申請鼠類偵防師 小黨抗議怒批北市府"
           ]
         },
         {
@@ -9566,6 +9542,18 @@
           ]
         },
         {
+          "title": "垃圾山",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 0,
+          "comment_count": 2,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 6,
+          "sample_titles": []
+        },
+        {
           "title": "海線立委戰局",
           "city": "台中",
           "place": "台中市政府",
@@ -9579,6 +9567,18 @@
             "釋出1075個職缺！台中海線聯合徵才23日梧棲國中盛大登場",
             "海線5/23聯合徵才逾千職缺！ 中市勞工局首創「就業補助小講堂」助市民求職更給力"
           ]
+        },
+        {
+          "title": "藍營路線爭議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 0,
+          "comment_count": 2,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": []
         },
         {
           "title": "澎湖鼠患事件",
@@ -9627,18 +9627,46 @@
           ]
         },
         {
+          "title": "廚餘山",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 0,
+          "comment_count": 4,
+          "negativity_pct": 0,
+          "is_urgent": true,
+          "urgency_score": 12,
+          "sample_titles": []
+        },
+        {
           "title": "捷運藍線爭議",
           "city": "台中",
           "place": "台中市政府",
           "level": "green",
           "news_count": 2,
-          "comment_count": 3,
+          "comment_count": 2,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 8,
+          "sample_titles": [
+            "中捷藍線機廠用地現廢棄物　中市府將與國產署釐清清理責任",
+            "中捷藍線機廠用地現廢棄物 中市府將與國產署釐清清理責任"
+          ]
+        },
+        {
+          "title": "基隆地方動態",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "green",
+          "news_count": 7,
+          "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
           "urgency_score": 7,
           "sample_titles": [
-            "中捷藍線機廠用地現廢棄物　中市府將與國產署釐清清理責任",
-            "中捷藍線機廠用地現廢棄物 中市府將與國產署釐清清理責任"
+            "「潮嚮．山海基隆—青創市集」 週末海洋廣場登場",
+            "照顧他人也別忘了擁抱自己 基隆市衛生局陪伴照顧者的心理健康",
+            "慶安宮捐贈基隆市立醫院醫材 童子瑋承諾將強化市醫列重要政見"
           ]
         },
         {
@@ -9655,34 +9683,6 @@
             "小紅書瘋傳桃園機場必吃！「馬祖新村」爆漿車輪餅人氣口味一次看",
             "一週天氣預報 - 午後對流增強、馬祖風雨最明顯",
             "116年度連江縣多元就業開發方案提案申請至7/15止 要點需知一次看"
-          ]
-        },
-        {
-          "title": "垃圾山",
-          "city": "台中",
-          "place": "台中市大里區",
-          "level": "green",
-          "news_count": 0,
-          "comment_count": 9,
-          "negativity_pct": 0,
-          "is_urgent": true,
-          "urgency_score": 27,
-          "sample_titles": []
-        },
-        {
-          "title": "基隆地方動態",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "green",
-          "news_count": 9,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 9,
-          "sample_titles": [
-            "「潮嚮．山海基隆—青創市集」 週末海洋廣場登場",
-            "照顧他人也別忘了擁抱自己 基隆市衛生局陪伴照顧者的心理健康",
-            "慶安宮捐贈基隆市立醫院醫材 童子瑋承諾將強化市醫列重要政見"
           ]
         },
         {
@@ -9833,11 +9833,11 @@
           "city": "嘉義縣",
           "place": "嘉義縣政府",
           "level": "yellow",
-          "news_count": 20,
+          "news_count": 19,
           "comment_count": 0,
-          "negativity_pct": 10,
+          "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 26,
+          "urgency_score": 25,
           "sample_titles": [
             "台東南田塔瓦溪口鯨豚擱淺 海巡馳援 (圖)",
             "國民黨2026嘉義縣長派誰？人選傳是無黨籍的「她」",
@@ -9859,18 +9859,6 @@
             "澎湖縣長最新病況曝！陳光復將接受新療程 妻：動容又驕傲",
             "澎湖縣長病情進步！陳光復能轉頭了 進行5個月神經修復"
           ]
-        },
-        {
-          "title": "廚餘山",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 0,
-          "comment_count": 30,
-          "negativity_pct": 0,
-          "is_urgent": true,
-          "urgency_score": 76,
-          "sample_titles": []
         },
         {
           "title": "金門地方動態",
@@ -9905,35 +9893,35 @@
           ]
         },
         {
-          "title": "新竹市地方動態",
-          "city": "新竹市",
-          "place": "新竹市政府",
-          "level": "yellow",
-          "news_count": 53,
-          "comment_count": 0,
-          "negativity_pct": 9,
-          "is_urgent": false,
-          "urgency_score": 68,
-          "sample_titles": [
-            "九合一選戰進逼，新竹市長高虹安的司法案件進度，持續牽動地方政治板塊與朝野攻防。立法院內政委員會準備進行「公職人員選舉罷免",
-            "被民眾黨開除黨籍的前立委李貞秀昨日在直播中亂開砲，並點名新竹市長高虹安在鴻海開會時「根本是站在旁邊講不上話的人」，且所謂",
-            "距離正式啟用向前邁大步 竹市關埔慈雲空橋進行合龍"
-          ]
-        },
-        {
           "title": "台中市政動態",
           "city": "台中",
           "place": "台中市北屯區",
           "level": "yellow",
-          "news_count": 48,
-          "comment_count": 17,
+          "news_count": 47,
+          "comment_count": 4,
           "negativity_pct": 0,
-          "is_urgent": true,
-          "urgency_score": 71,
+          "is_urgent": false,
+          "urgency_score": 51,
           "sample_titles": [
             "張瀞分關心保險套缺貨問題 盧秀燕指示衛生與經發局密切掌握",
             "83歲「媽祖婆」女議員憂心：戰爭→保險套缺貨官方證實漲價30％！盧秀燕想這樣做| 醫藥健康",
             "83歲「媽祖婆」議員憂心：戰爭→保險套缺貨 官方證實漲價30％！盧秀燕想這樣做"
+          ]
+        },
+        {
+          "title": "新竹市地方動態",
+          "city": "新竹市",
+          "place": "新竹市政府",
+          "level": "yellow",
+          "news_count": 52,
+          "comment_count": 0,
+          "negativity_pct": 10,
+          "is_urgent": false,
+          "urgency_score": 67,
+          "sample_titles": [
+            "九合一選戰進逼，新竹市長高虹安的司法案件進度，持續牽動地方政治板塊與朝野攻防。立法院內政委員會準備進行「公職人員選舉罷免",
+            "被民眾黨開除黨籍的前立委李貞秀昨日在直播中亂開砲，並點名新竹市長高虹安在鴻海開會時「根本是站在旁邊講不上話的人」，且所謂",
+            "距離正式啟用向前邁大步 竹市關埔慈雲空橋進行合龍"
           ]
         },
         {
@@ -10005,11 +9993,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 45,
+          "news_count": 44,
           "comment_count": 0,
-          "negativity_pct": 4,
+          "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 51,
+          "urgency_score": 50,
           "sample_titles": [
             "臨機應變奪生涯首面個人金牌 台南薛秀霞全障運保齡球封后",
             "臺南鹽水地政受邀跨區前進高雄路竹高中 地政知識直送落實防詐教育向下紮根",
@@ -10037,11 +10025,11 @@
           "city": "雲林",
           "place": "雲林縣政府",
           "level": "red",
-          "news_count": 57,
+          "news_count": 55,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 60,
+          "urgency_score": 58,
           "sample_titles": [
             "影音／綠營困台北失效？蔣萬安奔雲林、宜蘭輔選",
             "《英國達人秀》金按鈕得主返台首演 「即將成真火舞團」點亮雲林夜空",
@@ -10069,11 +10057,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 109,
+          "news_count": 108,
           "comment_count": 0,
           "negativity_pct": 16,
           "is_urgent": false,
-          "urgency_score": 160,
+          "urgency_score": 159,
           "sample_titles": [
             "花蓮市重陽敬老禮金下修至65歲 擴大照顧長者福利",
             "花蓮「115年總預算」未違法！藍營花蓮議會黨團批少數議員癱瘓花蓮，強調捍衛縣民權益| 溫佳身| 地方新聞",
@@ -10085,11 +10073,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 118,
+          "news_count": 114,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 121,
+          "urgency_score": 117,
           "sample_titles": [
             "桃園YouBike站點六都最少！民眾通勤尖峰常遇「無車可借」",
             "桃園榮家帶長輩「蓋」皂香回憶 懷舊之旅暖人心",
@@ -10107,9 +10095,9 @@
           "is_urgent": false,
           "urgency_score": 221,
           "sample_titles": [
+            "帶動南部半導體S廊帶產業發展 陳其邁：極力爭取24小時國際機場 布局未來20年高雄城市發展",
             "亞資中心高雄專區試辦近1年！金管會主委南下視察 4成效顯現 | 產業動態 | 財經",
-            "影音／好可惜！高雄最強麻奶鍋「發式」傳歇業 業者親曝原因",
-            "視察高雄專區4業者 金管會：持續鬆綁法規接軌國際"
+            "影音／好可惜！高雄最強麻奶鍋「發式」傳歇業 業者親曝原因"
           ]
         },
         {
@@ -10117,11 +10105,11 @@
           "city": "台中",
           "place": "台中市大里區",
           "level": "red",
-          "news_count": 193,
+          "news_count": 192,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 205,
+          "urgency_score": 204,
           "sample_titles": [
             "台中火車站驚見吞雲吐霧 男站月台抽菸 煙蒂還丟鐵軌",
             "關心太平成長，肯定城市進步，期許市府改善基層量能，黃佳恬議員鼓勵台中往智慧幸福、環保永續城市邁進",
@@ -10133,11 +10121,11 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 223,
+          "news_count": 219,
           "comment_count": 0,
-          "negativity_pct": 4,
+          "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 253,
+          "urgency_score": 249,
           "sample_titles": [
             "新北市長藍綠陷熱戰　李四川、蘇巧慧民調拉鋸　雙方盼破同溫層",
             "北市「這2區」新舊屋每坪價差破50萬 買老屋現省1500萬",
