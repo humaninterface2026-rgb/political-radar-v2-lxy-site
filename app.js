@@ -10,6 +10,7 @@ const state = {
   history: { facebook: [], instagram: [], threads: [] },
   topicHeat: null,
   selectedTopicId: null,
+  mentionArticles: {},
 };
 
 const LIGHT_ICON = { '紅':'🔴', '黃':'🟡', '綠':'🟢' };
@@ -79,8 +80,67 @@ function lightLevelByCount(c, avg){
   return '綠';
 }
 
+// 結合「聲量 (volume)」與「該時段內負面新聞比例」— 取較嚴重者。
+// 解決外面綠燈裡面有負面新聞 的不一致，但用「比例 + 絕對數」雙門檻避免
+// 1 則負面新聞就把整天/整小時拉成黃 — 比例不夠不算。
+const LIGHT_RANK = { '綠': 0, '黃': 1, '紅': 2 };
+function severityOf(a){
+  return a.severity || (a.is_negative ? 'yellow' : null);
+}
+function severityLightOf(articles){
+  return severityLightWithReason(articles).level;
+}
+// 留言燈號：跨 FB/IG/Threads 彙總所有 comments 的 signal 計數
+// 用跟新聞同樣的門檻（紅/黃/綠 比例 + 絕對數）
+function commentLightWithReason(commentsState){
+  let total=0, reds=0, yellows=0;
+  for (const plat of ['facebook','instagram','threads']){
+    const arr = (commentsState && commentsState[plat]) || [];
+    for (const c of arr){
+      total++;
+      if (c.signal === 'red') reds++;
+      else if (c.signal === 'yellow') yellows++;
+    }
+  }
+  const neg = reds + yellows;
+  if (total === 0) return { level: '綠', reasons: ['尚無留言資料'], total };
+  if (reds >= 3) return { level: '紅', reasons: [`紅燈留言 ${reds} 則（≥3 即紅）`], total };
+  if (reds >= 1 && reds / total >= 0.10) return { level: '紅', reasons: [`紅燈留言佔比 ${(reds/total*100).toFixed(0)}%（${reds}/${total} 則 ≥10%）`], total };
+  if (neg >= 10) return { level: '黃', reasons: [`負面留言 ${neg} 則（${reds} 紅 + ${yellows} 黃 ≥ 10）`], total };
+  if (neg >= 1 && neg / total >= 0.30) return { level: '黃', reasons: [`負面留言佔比 ${(neg/total*100).toFixed(0)}%（${neg}/${total} 則 ≥ 30%）`], total };
+  return { level: '綠', reasons: [], total };
+}
+function commentLightOf(commentsState){ return commentLightWithReason(commentsState).level; }
+function severityLightWithReason(articles){
+  const arts = articles || [];
+  const total = arts.length;
+  let reds = 0, yellows = 0;
+  for (const a of arts){
+    const s = severityOf(a);
+    if (s === 'red') reds++;
+    else if (s === 'yellow') yellows++;
+  }
+  const neg = reds + yellows;
+  if (total === 0) return { level: '綠', reasons: [] };
+  // 紅
+  if (reds >= 3) return { level: '紅', reasons: [`紅燈新聞 ${reds} 則（≥3 即紅）`] };
+  if (reds >= 1 && reds / total >= 0.25) return { level: '紅', reasons: [`紅燈新聞佔比 ${(reds/total*100).toFixed(0)}%（${reds}/${total} 則 ≥ 25%）`] };
+  // 黃
+  if (neg >= 5) return { level: '黃', reasons: [`負面新聞 ${neg} 則（${reds} 紅 + ${yellows} 黃 ≥ 5）`] };
+  if (neg >= 1 && neg / total >= 0.30) return { level: '黃', reasons: [`負面新聞佔比 ${(neg/total*100).toFixed(0)}%（${neg}/${total} 則 ≥ 30%）`] };
+  return { level: '綠', reasons: [] };
+}
+function combineLights(volumeLight, articles){
+  const sevLight = severityLightOf(articles);
+  return LIGHT_RANK[volumeLight] >= LIGHT_RANK[sevLight] ? volumeLight : sevLight;
+}
+
 function upsertChart(instance, ctx, config){
-  if(instance){ instance.data=config.data; instance.options=config.options; instance.update(); return instance; }
+  // 若 type 變了（例如 line ↔ bar），必須 destroy + 重建；否則只更新 data/options。
+  if(instance && instance.config && instance.config.type === config.type){
+    instance.data=config.data; instance.options=config.options; instance.update(); return instance;
+  }
+  if(instance) instance.destroy();
   return new Chart(ctx, config);
 }
 
@@ -92,7 +152,7 @@ function darkTooltip(overrides){
     borderColor: '#5a79ff',
     borderWidth: 1,
     titleColor: '#d8e2ff',
-    bodyColor: '#e8ecff',
+    bodyColor: '#d8e2ff',
     padding: 10,
     cornerRadius: 8,
     titleFont: { weight: '600', size: 13 },
@@ -121,6 +181,288 @@ async function fetchJSON(path){
     return await r.json();
   } catch { return null; }
 }
+
+// --------- War-room ranking leaderboard ---------
+// 規則：把每位的「紅+黃」新聞數加總當戰情分數；分數越低戰情越佳。
+// 第 1 名 = 戰情最佳（負面+爭議最少）；最後一名 = 戰情最劣（負面+爭議最多）。
+const SELF_NAME = '盧秀燕';
+function renderWarRoomRanking(voiceBreakdown, mentionArticles){
+  const board = document.getElementById('warRoomRankBoard');
+  const verdict = document.getElementById('warRoomVerdict');
+  if (!board) return;
+  board.innerHTML = '';
+  if (verdict) verdict.textContent = '';
+
+  const articlesByName = mentionArticles || {};
+  const entries = Object.entries(voiceBreakdown || {})
+    .filter(([, v]) => v && (v.total || 0) > 0)
+    .map(([name, v]) => ({
+      name,
+      red: v.red || 0,
+      yellow: v.yellow || 0,
+      green: v.green || 0,
+      total: v.total || 0,
+      score: (v.red || 0) + (v.yellow || 0),  // 紅+黃 = 戰情分數
+      isSelf: name === SELF_NAME,
+      articles: articlesByName[name] || [],
+    }));
+
+  if (entries.length === 0) {
+    board.innerHTML = '<p class="hint">無資料</p>';
+    return;
+  }
+
+  // 改：按「總曝光量」由高至低排序 — 純客觀、無「誰戰情好」的暗示
+  // 之前用 (red+yellow) 越少越好 → 暗示 ranking 是好感度比較、有 sampling bias
+  entries.sort((a, b) => b.total - a.total);
+  const n = entries.length;
+
+  entries.forEach((e, idx) => {
+    const rank = idx + 1;
+    const row = document.createElement('div');
+    // 移除 rank-best / rank-worst class — 跟「不算分」原則衝突
+    row.className = 'rank-row' + (e.isSelf ? ' is-self' : '');
+    // 點 row → 打開該人物 24h 新聞 modal（盧秀燕 row 也帶今日留言）
+    if (e.articles && e.articles.length > 0) {
+      row.classList.add('rank-clickable');
+      row.title = `點擊查看 ${e.name} 24h 內 ${e.articles.length} 則新聞`;
+      row.addEventListener('click', () => {
+        // 我方（盧秀燕）才有留言可看；對手沒爬留言、留 empty
+        const todayComments = e.isSelf ? [
+          ...(state.comments.facebook || []).map(c => ({...c, platform: 'facebook'})),
+          ...(state.comments.instagram || []).map(c => ({...c, platform: 'instagram'})),
+          ...(state.comments.threads || []).map(c => ({...c, platform: 'threads'})),
+        ] : [];
+        const cmtNote = e.isSelf ? '' : '（對手無爬留言、僅有新聞）';
+        const note = `共 ${e.total} 則新聞 ｜ 🔴 ${e.red} ／ 🟡 ${e.yellow} ／ 🟢 ${e.green} ${cmtNote}`;
+        const titlePrefix = e.isSelf ? '盧秀燕（我方） 24h 新聞 + 留言' : `${e.name} 24h 新聞`;
+        openArticlesModal(titlePrefix, note, e.articles, todayComments);
+      });
+    }
+
+    // 不再標「最佳 🏆 / 最劣 🚨」— 跟「不評好感度」原則衝突
+    // 改顯示純粹的順序編號 + 紅黃比例（讓使用者自己判讀，不暗示誰戰情好）
+    const rankCol = document.createElement('div');
+    rankCol.className = 'rank-num';
+    rankCol.innerHTML = `${rank}.`;
+
+    // 名字 + breakdown
+    const nameCol = document.createElement('div');
+    nameCol.className = 'rank-name';
+    const selfTag = e.isSelf ? '<span class="self-tag">我方</span>' : '';
+    nameCol.innerHTML = `${e.name}${selfTag}<span class="breakdown">總 ${e.total} 則 ｜ 🔴 ${e.red} ／ 🟡 ${e.yellow} ／ 🟢 ${e.green}</span>`;
+
+    // 視覺長條（紅黃綠 比例）
+    const bar = document.createElement('div');
+    bar.className = 'rank-bar';
+    const segs = [
+      { cls: 'seg-red', val: e.red },
+      { cls: 'seg-yellow', val: e.yellow },
+      { cls: 'seg-green', val: e.green },
+    ];
+    segs.forEach(s => {
+      if (s.val > 0) {
+        const span = document.createElement('span');
+        span.className = s.cls;
+        span.style.flex = String(s.val);
+        span.textContent = s.val;
+        bar.appendChild(span);
+      }
+    });
+
+    // 改：不再顯示「戰情分數」— 改顯示總曝光量
+    // 原本 (red+yellow) 越低越好的 framing 有 sampling bias 問題（4 人媒體曝光不對等）
+    const total = document.createElement('div');
+    total.className = 'rank-score';
+    total.innerHTML = `${e.total}<span class="score-label">則</span>`;
+
+    row.append(rankCol, nameCol, bar, total);
+    board.appendChild(row);
+  });
+
+  // 改：不再說「排第幾名」(避免暗示 cross-person 排名是好感度比較)
+  if (verdict) {
+    const totalAll = entries.reduce((s, e) => s + e.total, 0);
+    const selfEntry = entries.find(e => e.isSelf);
+    const selfShare = selfEntry && totalAll ? (selfEntry.total / totalAll * 100).toFixed(0) : '0';
+    verdict.textContent = `📊 24h 曝光分布：盧秀燕 ${selfShare}%（${selfEntry?.total || 0}/${totalAll} 條）｜「曝光量本身不代表好感度，請以上方 7 天好感度趨勢為準」`;
+  }
+}
+
+// --------- Self favorability 7-day trend chart ---------
+let selfFavorabilityChart = null;
+function renderSelfFavorability(history){
+  const canvas = document.getElementById('selfFavorabilityChart');
+  if (!canvas) return;
+  if (!history || !history.length) {
+    canvas.style.display = 'none';
+    const meta = document.getElementById('selfFavorabilityMeta');
+    if (meta) meta.textContent = '資料準備中…';
+    return;
+  }
+  canvas.style.display = '';
+  const labels = history.map(h => h.date.slice(5));  // MM-DD
+  const scores = history.map(h => h.score);
+  // 點顏色：< 50 紅 / 50-70 黃 / 70+ 綠；樣本不足空心
+  const pointBg = history.map(h => {
+    if (h.samples_low) return 'rgba(255,255,255,0.3)';
+    if (h.score < 50) return '#c43344';
+    if (h.score < 70) return '#c08c12';
+    return '#1f8a4c';
+  });
+  selfFavorabilityChart = upsertChart(selfFavorabilityChart, canvas, {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [{
+        label: '好感度分數',
+        data: scores,
+        borderColor: '#2b7aa8',
+        backgroundColor: 'rgba(121,164,255,0.1)',
+        fill: true,
+        tension: 0.3,
+        pointBackgroundColor: pointBg,
+        pointBorderColor: '#fff',
+        pointRadius: 6,
+        pointHoverRadius: 8,
+      }],
+    },
+    options: {
+      interaction: INDEX_HOVER,
+      hover: INDEX_HOVER,
+      // 點擊任一資料點 → 開該日全部新聞 modal
+      onClick: (evt, elements) => {
+        if (!elements || !elements.length) return;
+        const idx = elements[0].index;
+        const h = history[idx];
+        if (!h) return;
+        const c = h.comments || {red:0, yellow:0, green:0, total:0};
+        const samples = h.comment_samples || [];  // 已按發布日期 group
+        // 顯示「當日真實抓到的 raw 留言數」(不是累計 state)
+        const cR = samples.filter(s => s.signal === 'red').length;
+        const cY = samples.filter(s => s.signal === 'yellow').length;
+        const cG = samples.filter(s => s.signal === 'green').length;
+        const stagnantNote = c.stagnant ? ' 🟫 信號降權' : '';
+        const note = `${h.date} ｜ 分數 ${h.score} ｜ 新聞 紅${h.red} 黃${h.yellow} 綠${h.green}（危機 ${h.crisis} 條） ｜ 當日留言 ${samples.length} 則（紅${cR} 黃${cY} 綠${cG}）${stagnantNote}`
+          + (h.samples_low ? ' ⚠️ 樣本不足' : '');
+        openArticlesModal(`📰 ${h.date} 盧秀燕新聞 + 留言`, note, h.articles || [], samples);
+      },
+      onHover: (evt, elements) => {
+        evt.native.target.style.cursor = elements && elements.length ? 'pointer' : 'default';
+      },
+      plugins: {
+        legend: { display: false },
+        tooltip: darkTooltip({
+          mode: 'index',
+          callbacks: {
+            label: (ctx) => {
+              const h = history[ctx.dataIndex];
+              const c = h.comments || {red:0, yellow:0, green:0, total:0};
+              const flag = h.samples_low ? ' ⚠️ 樣本不足' : '';
+              const stale = c.stagnant ? '（🟫 留言低、信號降權）' : '';
+              return [
+                `分數: ${h.score}${flag}`,
+                `📰 新聞 紅${h.red} 黃${h.yellow} 綠${h.green} (總${h.total}, 危機${h.crisis})`,
+                `💬 留言 紅${c.red} 黃${c.yellow} 綠${c.green} (總${c.total})${stale}`,
+                `👆 點此查看新聞 ${(h.articles || []).length} 則 + 留言`,
+              ];
+            },
+          },
+        }),
+      },
+      scales: {
+        y: { min: 0, max: 100, ticks: { color: '#b9c3f2' }, grid: { color: 'rgba(0,85,132,0.08)' } },
+        x: { ticks: { color: '#b9c3f2' }, grid: { color: 'rgba(0,85,132,0.08)' } },
+      },
+    },
+  });
+  // 摘要文字
+  const meta = document.getElementById('selfFavorabilityMeta');
+  if (meta) {
+    const today = history[history.length - 1];
+    const yesterday = history[history.length - 2];
+    let trendIcon = '➡️';
+    let trendText = '持平';
+    if (today && yesterday) {
+      const delta = today.score - yesterday.score;
+      if (delta > 5) { trendIcon = '⬆️'; trendText = `較昨日 +${delta.toFixed(1)}`; }
+      else if (delta < -5) { trendIcon = '⬇️'; trendText = `較昨日 ${delta.toFixed(1)}`; }
+      else trendText = `較昨日 ${delta >= 0 ? '+' : ''}${delta.toFixed(1)}`;
+    }
+    const sevenDayMin = Math.min(...history.map(h => h.score));
+    const sevenDayMax = Math.max(...history.map(h => h.score));
+    meta.innerHTML = `今日 <b>${today.score}</b> ${trendIcon} ${trendText} ｜ 7 天區間 ${sevenDayMin.toFixed(1)} - ${sevenDayMax.toFixed(1)}` +
+      (today.samples_low ? ' ｜ ⚠️ 今日樣本不足、信賴度低' : '');
+  }
+}
+
+
+// --------- Topic narrative 7-day arc rendering ---------
+function renderTopicNarrative(arcs){
+  const wrap = document.getElementById('topicNarrativeBoard');
+  if (!wrap) return;
+  wrap.innerHTML = '';
+  const topics = Object.entries(arcs || {});
+  if (!topics.length) {
+    wrap.innerHTML = '<p class="hint">過去 7 天無重點議題敘事資料</p>';
+    return;
+  }
+  // 按 7 天 total 紅燈比例排序、最先顯示「最危險」議題
+  topics.sort(([, a], [, b]) => {
+    const aRed = a.reduce((s, x) => s + x.red, 0);
+    const bRed = b.reduce((s, x) => s + x.red, 0);
+    if (aRed !== bRed) return bRed - aRed;
+    return b.reduce((s, x) => s + x.total, 0) - a.reduce((s, x) => s + x.total, 0);
+  });
+  for (const [topic, arc] of topics) {
+    const totalRed = arc.reduce((s, x) => s + x.red, 0);
+    const totalYellow = arc.reduce((s, x) => s + x.yellow, 0);
+    const totalGreen = arc.reduce((s, x) => s + x.green, 0);
+    const total = totalRed + totalYellow + totalGreen;
+
+    const row = document.createElement('div');
+    row.className = 'topic-arc-row';
+    // 標題列
+    const headerHtml = `<div class="topic-arc-header">
+      <span class="topic-arc-name">${topic}</span>
+      <span class="topic-arc-summary">7 天 ${total} 條 ｜ 🔴 ${totalRed} ／ 🟡 ${totalYellow} ／ 🟢 ${totalGreen}</span>
+    </div>`;
+    // 7 天 stacked bar — 每個 cell 點擊可看當日該議題新聞
+    const maxDay = Math.max(...arc.map(x => x.total), 1);
+    const cellsHtml = arc.map((x, dayIdx) => {
+      const heightPct = (x.total / maxDay) * 100;
+      const segs = [];
+      if (x.red > 0) segs.push(`<span class="seg-red" style="flex:${x.red}" title="紅 ${x.red}"></span>`);
+      if (x.yellow > 0) segs.push(`<span class="seg-yellow" style="flex:${x.yellow}" title="黃 ${x.yellow}"></span>`);
+      if (x.green > 0) segs.push(`<span class="seg-green" style="flex:${x.green}" title="綠 ${x.green}"></span>`);
+      const clickable = x.total > 0 ? ' topic-arc-cell-clickable' : '';
+      return `<div class="topic-arc-cell${clickable}" data-topic="${encodeURIComponent(topic)}" data-day="${dayIdx}" title="${x.date}: 紅${x.red}/黃${x.yellow}/綠${x.green}${x.total > 0 ? ' — 點擊看新聞' : ''}">
+        <div class="topic-arc-bar" style="height:${heightPct}%">${segs.join('')}</div>
+        <div class="topic-arc-date">${x.date.slice(5)}</div>
+      </div>`;
+    }).join('');
+    row.innerHTML = headerHtml + `<div class="topic-arc-cells">${cellsHtml}</div>`;
+    // 綁 cell click → 開 modal 顯示當日該議題新聞 + 該日留言（按 topic filter）
+    row.querySelectorAll('.topic-arc-cell-clickable').forEach((cell) => {
+      cell.addEventListener('click', () => {
+        const t = decodeURIComponent(cell.dataset.topic);
+        const dayIdx = parseInt(cell.dataset.day, 10);
+        const dayData = arc[dayIdx];
+        if (!dayData) return;
+        // 用 data.comments_by_date_7d 取該日留言、再 filter 含 topic 的
+        const dayComments = (state.commentsByDate || {})[dayData.date] || [];
+        const topicComments = dayComments.filter(c => (c.text || '').includes(t));
+        const cmtNote = topicComments.length === 0
+          ? `（${dayData.date} 留言中無命中此議題）`
+          : '';
+        const note = `${dayData.date} ｜ 議題「${t}」 ｜ 紅 ${dayData.red} ／ 黃 ${dayData.yellow} ／ 綠 ${dayData.green} ｜ 共 ${dayData.total} 條 ${cmtNote}`;
+        openArticlesModal(`🔥 ${t} — ${dayData.date} 新聞 + 留言`, note, dayData.articles || [], topicComments);
+      });
+    });
+    wrap.appendChild(row);
+  }
+}
+
 
 // --------- Social signal cards (clickable) ---------
 function renderSocialCards(){
@@ -209,9 +551,9 @@ function renderRedTrendChart(){
     threads: new Map((hist.threads||[]).map(x => [x.ts, x.red_pct])),
   };
   const datasets = [
-    { label: 'Facebook', color: '#4f8cff' },
+    { label: 'Facebook', color: '#5a79ff' },
     { label: 'Instagram', color: '#e83e8c' },
-    { label: 'Threads', color: '#ffc107' },
+    { label: 'Threads', color: '#c08c12' },
   ].map(({label, color}) => {
     const key = label.toLowerCase();
     return {
@@ -358,8 +700,8 @@ function renderTopicHeat(){
       datasets: [{
         label: `提及數（${topic.label}）`,
         data: counts,
-        backgroundColor: '#4f8cff',
-        hoverBackgroundColor: '#7fc0ff',
+        backgroundColor: '#5a79ff',
+        hoverBackgroundColor: '#5a79ff',
         borderRadius: 4,
       }],
     },
@@ -378,8 +720,8 @@ function renderTopicHeat(){
         }),
       },
       scales: {
-        x: { ticks: { color: '#b9c3f2' }, grid: { color: 'rgba(120,140,200,0.08)' } },
-        y: { ticks: { color: '#b9c3f2', precision: 0 }, beginAtZero: true, grid: { color: 'rgba(120,140,200,0.08)' } },
+        x: { ticks: { color: '#b9c3f2' }, grid: { color: 'rgba(0,85,132,0.08)' } },
+        y: { ticks: { color: '#b9c3f2', precision: 0 }, beginAtZero: true, grid: { color: 'rgba(0,85,132,0.08)' } },
       },
     },
   });
@@ -411,14 +753,14 @@ function renderTrendsChart(topic){
       datasets: [{
         label: `${topic.label} 熱度 (0–100)`,
         data: values,
-        borderColor: '#7fc0ff',
+        borderColor: '#5a79ff',
         backgroundColor: 'rgba(127,192,255,0.18)',
         fill: true,
         tension: 0.15,
         pointRadius: 0,           // baseline: dots hidden for a clean line
         pointHoverRadius: 5,      // highlight the point under the cursor
         pointHoverBackgroundColor: '#ffffff',
-        pointHoverBorderColor: '#7fc0ff',
+        pointHoverBorderColor: '#5a79ff',
         pointHoverBorderWidth: 2,
         borderWidth: 1.8,
       }],
@@ -437,7 +779,7 @@ function renderTrendsChart(topic){
           borderColor: '#5a79ff',
           borderWidth: 1,
           titleColor: '#d8e2ff',
-          bodyColor: '#e8ecff',
+          bodyColor: '#d8e2ff',
           padding: 10,
           cornerRadius: 8,
           titleFont: { weight: '600', size: 13 },
@@ -462,7 +804,7 @@ function renderTrendsChart(topic){
         y: {
           beginAtZero: true, suggestedMax: 100,
           ticks: { color: '#b9c3f2', stepSize: 25 },
-          grid: { color: 'rgba(120,140,200,0.08)' },
+          grid: { color: 'rgba(0,85,132,0.08)' },
         },
       },
     },
@@ -486,6 +828,135 @@ function initTopicHeat(){
       renderTopicHeat();
     });
   }
+  initCustomTrendQuery();
+}
+
+// --------- Custom keyword Google Trends query ---------
+const _CUSTOM_TREND_LS_KEY = 'lxy.dashboard.customTrendRecent.v1';
+
+function _loadRecentCustomTrends(){
+  try {
+    const raw = localStorage.getItem(_CUSTOM_TREND_LS_KEY);
+    return raw ? JSON.parse(raw) : [];
+  } catch { return []; }
+}
+
+function _saveRecentCustomTrends(list){
+  try {
+    localStorage.setItem(_CUSTOM_TREND_LS_KEY, JSON.stringify(list.slice(0, 10)));
+  } catch {}
+}
+
+function _renderRecentCustomTrends(){
+  const wrap = document.getElementById('topicCustomRecent');
+  if (!wrap) return;
+  const list = _loadRecentCustomTrends();
+  if (list.length === 0) { wrap.innerHTML = ''; return; }
+  wrap.innerHTML = '<span class="recent-label">最近查過：</span>' +
+    list.map((kw, i) => `<button type="button" class="recent-chip" data-kw="${encodeURIComponent(kw)}">${kw}</button>`).join('') +
+    '<button type="button" class="recent-clear" title="清除歷史">✕</button>';
+  wrap.querySelectorAll('.recent-chip').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const kw = decodeURIComponent(btn.dataset.kw || '');
+      const inp = document.getElementById('topicCustomInput');
+      if (inp) inp.value = kw;
+      _runCustomTrendQuery();
+    });
+  });
+  const clearBtn = wrap.querySelector('.recent-clear');
+  if (clearBtn) clearBtn.addEventListener('click', () => {
+    _saveRecentCustomTrends([]); _renderRecentCustomTrends();
+  });
+}
+
+function _runCustomTrendQuery(){
+  const inp = document.getElementById('topicCustomInput');
+  const geoSel = document.getElementById('topicCustomGeo');
+  const rangeSel = document.getElementById('topicCustomRange');
+  const kw = (inp?.value || '').trim();
+  if (!kw){
+    if (inp) { inp.focus(); inp.placeholder = '請先輸入關鍵字'; }
+    return;
+  }
+  const range = rangeSel?.value || 'today 12-m';
+  const geo = geoSel?.value || 'TW';
+
+  // 內嵌式 Google Trends widget — 用官方 embed URL（tz=-480 = UTC+8）
+  const req = {
+    comparisonItem: [{ keyword: kw, geo: geo, time: range }],
+    category: 0,
+    property: '',
+  };
+  const embedUrl = `https://trends.google.com/trends/embed/explore/TIMESERIES?req=${encodeURIComponent(JSON.stringify(req))}&tz=-480&hl=zh-TW`;
+  const exploreUrl = `https://trends.google.com/trends/explore?date=${encodeURIComponent(range)}&geo=${encodeURIComponent(geo)}&q=${encodeURIComponent(kw)}&hl=zh-TW`;
+
+  const embedWrap = document.getElementById('topicCustomEmbed');
+  if (embedWrap){
+    embedWrap.innerHTML = `
+      <div class="topic-custom-embed-header">
+        🔎 <b>「${_escapeHtml(kw)}」</b> ｜ ${_geoLabel(geo)} ｜ ${_rangeLabel(range)}
+        <span class="topic-custom-embed-hint" id="topicCustomEmbedHint">載入中… <span class="muted">（如數秒未顯示，可點右側「開新分頁」）</span></span>
+      </div>
+      <iframe class="topic-custom-embed-iframe"
+              src="${embedUrl}"
+              loading="lazy"
+              referrerpolicy="no-referrer"></iframe>
+    `;
+    const iframe = embedWrap.querySelector('iframe');
+    if (iframe){
+      iframe.addEventListener('load', () => {
+        const hint = document.getElementById('topicCustomEmbedHint');
+        if (hint) hint.textContent = '';
+      });
+    }
+  }
+
+  // 同時更新「外開新分頁」按鈕（萬一 iframe 被擋）
+  const extBtn = document.getElementById('topicCustomExternalBtn');
+  if (extBtn){
+    extBtn.href = exploreUrl;
+    extBtn.style.display = 'inline-flex';
+    extBtn.title = `在新分頁開啟 Google Trends：${kw}`;
+  }
+
+  // 寫入 localStorage 最近清單（最新在前、去重、最多 10 筆）
+  const list = _loadRecentCustomTrends().filter(x => x !== kw);
+  list.unshift(kw);
+  _saveRecentCustomTrends(list);
+  _renderRecentCustomTrends();
+}
+
+function _escapeHtml(s){
+  return String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function _geoLabel(g){ return g === 'TW' ? '台灣' : (g === '' ? '全球' : g); }
+
+function _rangeLabel(r){
+  return ({
+    'now 1-d': '過去 24 小時',
+    'now 7-d': '過去 7 天',
+    'today 1-m': '過去 30 天',
+    'today 3-m': '過去 90 天',
+    'today 12-m': '過去 1 年',
+    'today 5-y': '過去 5 年',
+  })[r] || r;
+}
+
+function initCustomTrendQuery(){
+  const btn = document.getElementById('topicCustomBtn');
+  const inp = document.getElementById('topicCustomInput');
+  if (btn && !btn.dataset.bound){
+    btn.dataset.bound = '1';
+    btn.addEventListener('click', _runCustomTrendQuery);
+  }
+  if (inp && !inp.dataset.bound){
+    inp.dataset.bound = '1';
+    inp.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter'){ e.preventDefault(); _runCustomTrendQuery(); }
+    });
+  }
+  _renderRecentCustomTrends();
 }
 
 // --------- Drilldown modal ---------
@@ -596,6 +1067,28 @@ function deriveCommentHotspots(){
   return out;
 }
 
+function formatLifetimeHint(h){
+  const newsCount = h.news_count || 0;
+  const commentCount = h.comment_count || 0;
+  const expiresIso = h.news_full_expires_at;
+
+  if (newsCount > 0 && expiresIso){
+    const expires = new Date(expiresIso).getTime();
+    const now = Date.now();
+    const hoursLeft = Math.max(0, (expires - now) / 3600000);
+    const hoursStr = hoursLeft >= 1 ? `${hoursLeft.toFixed(0)} 小時` : '不到 1 小時';
+    if (commentCount > 0){
+      return `預估新聞訊號 ${hoursStr}後完全退場（留言訊號可能延長壽命）`;
+    }
+    return `預估 ${hoursStr}後完全退場（新聞滑出 24h 窗）`;
+  }
+
+  if (commentCount > 0){
+    return `依粉專留言下一次抓取結果調整（每小時更新）`;
+  }
+  return '';
+}
+
 function renderIncidentMap(d){
   const mapEl = document.getElementById('incidentMap');
   if (!mapEl || typeof window.L === 'undefined') return;
@@ -638,11 +1131,12 @@ function renderIncidentMap(d){
 
   if (incidentMap._markerLayer) incidentMap.removeLayer(incidentMap._markerLayer);
   const layer = L.featureGroup();
+  const markersByTitle = {};
 
   hotspots.forEach(h => {
     if (h.lat == null || h.lng == null) return;
     const level = h.level || 'red';
-    const color = level === 'red' ? '#ff4d4f' : level === 'yellow' ? '#f7c948' : '#20c997';
+    const color = level === 'red' ? '#c43344' : level === 'yellow' ? '#f7c948' : '#1f8a4c';
     const marker = L.circleMarker([h.lat, h.lng], {
       radius: 9,
       color,
@@ -650,6 +1144,7 @@ function renderIncidentMap(d){
       fillColor: color,
       fillOpacity: 0.65
     });
+    const lifetime = formatLifetimeHint(h);
     marker.bindPopup(`
       <div class="map-popup">
         <strong>${escapeHtml(h.title || '事件')}</strong><br/>
@@ -658,8 +1153,10 @@ function renderIncidentMap(d){
         來源：${escapeHtml(h.source || '-') }<br/>
         平台：${escapeHtml(h.platform || '-') }<br/>
         備註：${escapeHtml(h.note || '-') }
+        ${lifetime ? `<br/><span class="lifetime-hint">⏳ ${escapeHtml(lifetime)}</span>` : ''}
       </div>
     `);
+    if (h.title) markersByTitle[h.title] = marker;
     layer.addLayer(marker);
   });
 
@@ -668,6 +1165,1334 @@ function renderIncidentMap(d){
 
   const bounds = layer.getBounds();
   if (bounds.isValid()) incidentMap.fitBounds(bounds.pad(0.25));
+
+  renderHotspotCards(hotspots, markersByTitle);
+}
+
+function renderHotspotCards(hotspots, markersByTitle){
+  const container = document.getElementById('hotspotList');
+  const summary = document.getElementById('hotspotSummary');
+  if (!container) return;
+  container.innerHTML = '';
+
+  const list = Array.isArray(hotspots) ? hotspots : [];
+
+  // 摘要列：🔴 X / 🟡 Y / 🟢 Z + 🚨 緊急 N
+  if (summary){
+    const counts = { red: 0, yellow: 0, green: 0 };
+    let urgent = 0;
+    list.forEach(h => {
+      if (counts[h.level] != null) counts[h.level] += 1;
+      if (h.is_urgent) urgent += 1;
+    });
+    const urgentPart = urgent > 0 ? `　🚨 緊急 ${urgent} 件` : '';
+    summary.textContent = `🔴 ${counts.red}　🟡 ${counts.yellow}　🟢 ${counts.green}${urgentPart}`;
+  }
+
+  if (!list.length){
+    container.innerHTML = '<p class="hint">目前沒有偵測到熱點事件。</p>';
+    return;
+  }
+
+  // 依城市分組
+  // 顯示順序：盧秀燕主場（台中）首位 → 6 都 → 3 省轄市 → 13 縣 → 其他
+  const CITY_ORDER = [
+    '台中',
+    '台北', '新北', '桃園', '台南', '高雄',
+    '基隆', '新竹市', '嘉義市',
+    '新竹縣', '苗栗', '彰化', '南投', '雲林', '嘉義縣',
+    '屏東', '宜蘭', '花蓮', '台東',
+    '澎湖', '金門', '連江',
+    '其他',
+  ];
+  const groups = {};
+  list.forEach(h => {
+    const city = h.city || '其他';
+    (groups[city] = groups[city] || []).push(h);
+  });
+
+  // 每城市內排序：緊急 > 級別（紅黃綠）> urgency_score 降冪
+  const levelOrder = { red: 0, yellow: 1, green: 2 };
+  const sortInCity = arr => arr.sort((a, b) => {
+    if (!!a.is_urgent !== !!b.is_urgent) return a.is_urgent ? -1 : 1;
+    const av = levelOrder[a.level] ?? 9;
+    const bv = levelOrder[b.level] ?? 9;
+    if (av !== bv) return av - bv;
+    return (b.urgency_score || 0) - (a.urgency_score || 0);
+  });
+
+  const renderCity = (city) => {
+    const arr = groups[city];
+    if (!arr || !arr.length) return;
+    sortInCity(arr);
+
+    const section = document.createElement('div');
+    section.className = 'hotspot-city-section';
+
+    const header = document.createElement('button');
+    header.type = 'button';
+    header.className = 'hotspot-city-header';
+    header.setAttribute('aria-expanded', 'true');
+    const counts = { red: 0, yellow: 0, green: 0 };
+    let urgent = 0;
+    arr.forEach(h => {
+      if (counts[h.level] != null) counts[h.level] += 1;
+      if (h.is_urgent) urgent += 1;
+    });
+    header.innerHTML = `
+      <span class="city-arrow">▾</span>
+      <h4>${escapeHtml(city)}</h4>
+      <span class="city-counts">
+        ${urgent ? `<span class="city-urgent">🚨 ${urgent} 件待處理</span>　` : ''}
+        🔴 ${counts.red}　🟡 ${counts.yellow}　🟢 ${counts.green}
+      </span>
+    `;
+    header.addEventListener('click', () => {
+      const collapsed = section.classList.toggle('collapsed');
+      header.setAttribute('aria-expanded', String(!collapsed));
+    });
+    section.appendChild(header);
+
+    const grid = document.createElement('div');
+    grid.className = 'hotspot-list';
+
+    arr.forEach(h => {
+      const level = h.level || 'green';
+      const isPlaceholder = !!h.is_placeholder;
+      const card = document.createElement('div');
+      card.className = `hotspot-card level-${level}${h.is_urgent ? ' urgent' : ''}${isPlaceholder ? ' placeholder' : ''}`;
+      card.dataset.title = h.title || '';
+      const total = (h.news_count || 0) + (h.comment_count || 0);
+      const lifetime = formatLifetimeHint(h);
+      const sourceTag = (h.news_count || 0) > 0 && (h.comment_count || 0) > 0 ? '混合'
+                      : (h.news_count || 0) > 0 ? '新聞主導'
+                      : '留言主導';
+      const negPart = (h.news_count || 0) > 0
+        ? `<span class="hc-negativity ${h.negativity_pct >= 50 ? 'high' : h.negativity_pct >= 25 ? 'mid' : 'low'}">${h.negativity_pct || 0}% 負面</span>`
+        : '';
+      const urgentBadge = h.is_urgent ? '<span class="hc-urgent-badge">🚨 緊急</span>' : '';
+      if (isPlaceholder) {
+        card.innerHTML = `
+          <div class="hc-row1">
+            <span class="hc-level-chip green">QUIET</span>
+            <span class="hc-title">${escapeHtml(h.title || '暫無動態')}</span>
+          </div>
+          <div class="hc-row2 hc-placeholder-msg">📭 24h 內未抓到該縣市相關新聞或留言</div>
+          <div class="hc-place">📍 ${escapeHtml(h.place || '-')}</div>
+        `;
+      } else {
+        card.innerHTML = `
+          <div class="hc-row1">
+            <span class="hc-level-chip ${level}">${level.toUpperCase()}</span>
+            <span class="hc-title">${escapeHtml(h.title || '事件')}</span>
+            ${urgentBadge}
+          </div>
+          <div class="hc-row2">
+            <span class="hc-count">${total} 則</span>
+            ${negPart}
+            <span class="hc-source-tag">${sourceTag}</span>
+          </div>
+          <div class="hc-place">📍 ${escapeHtml(h.place || '-')}</div>
+          <div class="hc-platform">${escapeHtml(h.platform || '')}</div>
+          ${lifetime ? `<div class="hc-lifetime">⏳ ${escapeHtml(lifetime)}</div>` : ''}
+        `;
+      }
+      card.addEventListener('click', () => {
+        if (isPlaceholder) return;  // 占位卡不打開 modal
+        openHotspotDetailModal(h, markersByTitle);
+      });
+      grid.appendChild(card);
+    });
+
+    section.appendChild(grid);
+    container.appendChild(section);
+  };
+
+  CITY_ORDER.forEach(renderCity);
+  // 任何沒在 CITY_ORDER 列出的城市
+  Object.keys(groups).forEach(city => {
+    if (!CITY_ORDER.includes(city)) renderCity(city);
+  });
+}
+
+// --------- Past events history ---------
+const PAST_EVENTS_DEFAULT_LIMIT = 14;  // 預設顯示近 14 天
+let _pastEventsAll = [];               // cached全部 days，分頁時用
+let _pastEventsShown = 0;
+
+async function renderPastEvents(){
+  const wrap = document.getElementById('pastEventsWrap');
+  const list = document.getElementById('pastEventsList');
+  const meta = document.getElementById('pastEventsMeta');
+  if (!wrap || !list) return;
+
+  const hist = await fetchJSON('./hotspot_history.json');
+  if (!hist || !Array.isArray(hist.days) || hist.days.length === 0){
+    if (meta) meta.textContent = '（暫無歷史資料）';
+    list.innerHTML = '';
+    return;
+  }
+
+  // 倒序：最新日期在最上
+  _pastEventsAll = [...hist.days].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+  _pastEventsShown = 0;
+  if (meta) meta.textContent = `（共 ${_pastEventsAll.length} 天紀錄，預設顯示近 ${PAST_EVENTS_DEFAULT_LIMIT} 天）`;
+
+  list.innerHTML = '';
+  appendPastEventsBatch(PAST_EVENTS_DEFAULT_LIMIT);
+}
+
+function appendPastEventsBatch(count){
+  const list = document.getElementById('pastEventsList');
+  if (!list) return;
+
+  // 如果之前有「載入更多」按鈕，先移除
+  list.querySelectorAll('.past-load-more').forEach(b => b.remove());
+
+  const end = Math.min(_pastEventsShown + count, _pastEventsAll.length);
+  const PAST_CITY_ORDER = [
+    '台中',
+    '台北', '新北', '桃園', '台南', '高雄',
+    '基隆', '新竹市', '嘉義市',
+    '新竹縣', '苗栗', '彰化', '南投', '雲林', '嘉義縣',
+    '屏東', '宜蘭', '花蓮', '台東',
+    '澎湖', '金門', '連江',
+    '其他',
+  ];
+
+  // 「今日」用台北時區判斷（後端 d.date 也是台北日期），避免 UTC vs +8 跨日誤標
+  const todayStr = new Date().toLocaleDateString('en-CA', { timeZone: 'Asia/Taipei' });
+
+  for (let i = _pastEventsShown; i < end; i++){
+    const d = _pastEventsAll[i];
+    const dayWrap = document.createElement('div');
+    dayWrap.className = 'past-day';
+
+    const hs = d.hotspots || [];
+    const counts = { red: 0, yellow: 0, green: 0 };
+    let urgent = 0;
+    hs.forEach(h => {
+      if (counts[h.level] != null) counts[h.level] += 1;
+      if (h.is_urgent) urgent += 1;
+    });
+
+    const isToday = d.date === todayStr;
+    const dateLabel = isToday ? `${d.date}（今日）` : d.date;
+    const dayHeader = document.createElement('button');
+    dayHeader.type = 'button';
+    dayHeader.className = 'past-day-header';
+    dayHeader.setAttribute('aria-expanded', 'true');
+    dayHeader.innerHTML = `
+      <span class="past-day-arrow">▾</span>
+      <span class="past-day-date">${escapeHtml(dateLabel)}</span>
+      <span class="past-day-counts">
+        ${urgent ? `<span class="past-urgent">🚨 ${urgent}</span>　` : ''}
+        🔴 ${counts.red}　🟡 ${counts.yellow}　🟢 ${counts.green}
+      </span>
+    `;
+    dayHeader.addEventListener('click', () => {
+      const collapsed = dayWrap.classList.toggle('collapsed');
+      dayHeader.setAttribute('aria-expanded', String(!collapsed));
+    });
+    dayWrap.appendChild(dayHeader);
+
+    // 依城市分組
+    const byCity = {};
+    hs.forEach(h => {
+      const city = h.city || '其他';
+      (byCity[city] = byCity[city] || []).push(h);
+    });
+
+    const renderPastCity = (city) => {
+      const arr = byCity[city];
+      if (!arr || !arr.length) return;
+      const cityCnts = { red: 0, yellow: 0, green: 0 };
+      let cityUrg = 0;
+      arr.forEach(h => {
+        if (cityCnts[h.level] != null) cityCnts[h.level] += 1;
+        if (h.is_urgent) cityUrg += 1;
+      });
+
+      const citySec = document.createElement('div');
+      citySec.className = 'past-city-section';
+      // 預設展開；點 header 可收合
+      const headerBtn = document.createElement('button');
+      headerBtn.type = 'button';
+      headerBtn.className = 'past-city-header';
+      headerBtn.setAttribute('aria-expanded', 'true');
+      headerBtn.innerHTML = `
+        <span class="past-city-arrow">▾</span>
+        <span class="past-city-name">${escapeHtml(city)}</span>
+        <span class="past-city-counts">
+          ${cityUrg ? `<span class="past-urgent">🚨 ${cityUrg}</span>　` : ''}
+          🔴 ${cityCnts.red}　🟡 ${cityCnts.yellow}　🟢 ${cityCnts.green}
+        </span>
+      `;
+      citySec.appendChild(headerBtn);
+
+      const ul = document.createElement('ul');
+      ul.className = 'past-day-events';
+      [...arr].sort((a, b) => (b.urgency_score || 0) - (a.urgency_score || 0)).forEach(h => {
+        const li = document.createElement('li');
+        li.className = 'past-event-item';
+        const level = h.level || 'green';
+        const total = (h.news_count || 0) + (h.comment_count || 0);
+        const urgentMark = h.is_urgent ? '🚨 ' : '';
+        const sample = (h.sample_titles || [])
+          .filter(t => t)
+          .slice(0, 2)
+          .map(t => `<div class="past-sample">・${escapeHtml(t)}</div>`)
+          .join('');
+        li.innerHTML = `
+          <div class="past-event-row">
+            <span class="hc-level-chip ${level}">${level.toUpperCase()}</span>
+            <span class="past-event-title">${urgentMark}${escapeHtml(h.title || '事件')}</span>
+            <span class="past-event-count">${total} 則${h.negativity_pct ? ` · ${h.negativity_pct}% 負面` : ''}</span>
+          </div>
+          ${sample}
+        `;
+        li.addEventListener('click', () => openPastEventModal(h, d.date));
+        ul.appendChild(li);
+      });
+      citySec.appendChild(ul);
+
+      // toggle：點 header 收合/展開
+      headerBtn.addEventListener('click', () => {
+        const collapsed = citySec.classList.toggle('collapsed');
+        headerBtn.setAttribute('aria-expanded', String(!collapsed));
+      });
+
+      dayWrap.appendChild(citySec);
+    };
+
+    PAST_CITY_ORDER.forEach(renderPastCity);
+    Object.keys(byCity).forEach(city => {
+      if (!PAST_CITY_ORDER.includes(city)) renderPastCity(city);
+    });
+
+    list.appendChild(dayWrap);
+  }
+  _pastEventsShown = end;
+
+  // 還有更多 → 加「載入更多」按鈕
+  if (_pastEventsShown < _pastEventsAll.length){
+    const remaining = _pastEventsAll.length - _pastEventsShown;
+    const btn = document.createElement('button');
+    btn.className = 'past-load-more';
+    btn.type = 'button';
+    btn.textContent = `▾ 顯示更多（還有 ${remaining} 天）`;
+    btn.addEventListener('click', () => appendPastEventsBatch(30));
+    list.appendChild(btn);
+  }
+}
+
+// 每天 archive 的記憶體 cache（避免重複 fetch 同一天）
+const _pastArchiveCache = {};
+
+// 把任意 articles 陣列開到既有 hotspot detail modal
+// 純清單用途（卡片/圖表 click），沒 level/place/壽命概念，meta 只顯示 note
+function openArticlesModal(title, note, articles, commentsList){
+  const news = (articles || []).map(a => ({
+    title: a.title || '（無標題）',
+    url: a.url || '',
+    time: a.time || '',
+    publisher: a.publisher || '',
+    is_negative: !!a.is_negative,
+    severity: a.severity || (a.is_negative ? 'yellow' : null),  // 沒 severity 的舊資料退回二級
+  }));
+  // commentsList 為可選 — 燈號 panel 點擊時會帶（綜合燈號要顯示留言）
+  const comments = (commentsList || []).map(c => ({
+    author: c.author || c.username || '',
+    text: c.text || '',
+    time_text: c.time_text || c.time || '',
+    url: c.url || '',
+    signal: c.signal || 'green',
+    platform: c.platform || '',
+  }));
+  openHotspotDetailModal({
+    title: title,
+    note: note,
+    news_count: news.length,
+    comment_count: comments.length,
+    news_articles: news,
+    comments: comments,
+  }, null);
+}
+
+// 在卡片上 bind click：開 modal 顯示資料
+// 卡片點擊綁定。重要：每次 run()（mode 切換）都會 re-call bindCardClick；
+// 早期版本用 dataset.clickBound 避免重綁、結果讓 title/note/articles 卡在第一次 bind 時的值（24h），
+// 改成把最新 config 存在 _cardBindings，handler 只綁一次但每次點擊讀最新 config。
+const _cardBindings = {};
+function bindCardClick(elemId, title, note, getArticlesFn){
+  const num = document.getElementById(elemId);
+  if (!num) return;
+  const card = num.closest('.card');
+  if (!card) return;
+  _cardBindings[elemId] = { title, note, getArticlesFn };
+  if (card.dataset.clickBound === '1') return;
+  card.dataset.clickBound = '1';
+  card.classList.add('card-clickable');
+  card.addEventListener('click', () => {
+    const cfg = _cardBindings[elemId];
+    if (!cfg) return;
+    const articles = cfg.getArticlesFn() || [];
+    openArticlesModal(cfg.title, cfg.note, articles);
+  });
+}
+
+async function openPastEventModal(h, dateStr){
+  // Lazy-load 該日完整 archive；不存在就 fallback 到 entry 內嵌的舊格式資料
+  let archiveEvents = _pastArchiveCache[dateStr];
+  if (archiveEvents === undefined){
+    const archive = await fetchJSON(`./hotspot_archive/${dateStr}.json`);
+    archiveEvents = (archive && Array.isArray(archive.hotspots)) ? archive.hotspots : null;
+    _pastArchiveCache[dateStr] = archiveEvents;
+  }
+  let news = [];
+  let comments = [];
+  // 給 modal 的 count：優先用 archive 真實值（backfill 後可能比 index 大）
+  let newsCount = h.news_count || 0;
+  let commentCount = h.comment_count || 0;
+  if (archiveEvents){
+    const found = archiveEvents.find(x => x.title === h.title);
+    if (found){
+      news = found.news_articles || [];
+      comments = found.comments || [];
+      // 用 archive 的實際數
+      if (typeof found.news_count === 'number') newsCount = found.news_count;
+      if (typeof found.comment_count === 'number') commentCount = found.comment_count;
+    }
+  } else {
+    // 沒 archive 檔 → 用舊版 index 自帶的資料
+    // 舊格式 1（split 之前）：news_articles_top + comments_top
+    // 舊格式 2（更早）：sample_titles（只剩標題沒 url）
+    if (Array.isArray(h.news_articles_top) && h.news_articles_top.length){
+      news = h.news_articles_top;
+    } else if (Array.isArray(h.sample_titles) && h.sample_titles.length){
+      news = h.sample_titles.map(t => ({ title: t, url: '', time: '' }));
+    }
+    if (Array.isArray(h.comments_top) && h.comments_top.length){
+      comments = h.comments_top;
+    }
+  }
+
+  const fakeHotspot = {
+    title: `[${dateStr}] ${h.title || '事件'}`,
+    place: h.place,
+    level: h.level,
+    source: (news.length ? 'news' : '') + (comments.length ? ((news.length ? ' + ' : '') + 'comment') : ''),
+    platform: '',
+    note: `${dateStr} 命中 ${newsCount + commentCount} 則（新聞 ${newsCount}、留言 ${commentCount}）`,
+    news_count: newsCount,
+    comment_count: commentCount,
+    news_articles: news,
+    comments: comments,
+    news_full_expires_at: null,  // 歷史不算壽命
+  };
+  openHotspotDetailModal(fakeHotspot, null);
+}
+
+// --------- Media framing matrix (city × candidate) ---------
+function renderMediaFraming(d){
+  const wrap = document.getElementById('mediaFramingMatrix');
+  const meta = document.getElementById('mediaFramingMeta');
+  if (!wrap) return;
+  wrap.innerHTML = '';
+
+  const data = d.media_framing_7d;
+  if (!data || !Array.isArray(data.cells) || data.cells.length === 0){
+    wrap.innerHTML = '<p class="hint">7 日內樣本不足，無法顯示矩陣。</p>';
+    if (meta) meta.textContent = '';
+    return;
+  }
+
+  const CANDIDATES = ['盧秀燕', '蔣萬安', '陳其邁', '蔡其昌'];
+  const CITY_ORDER = [
+    '台中', '台北', '新北', '桃園', '台南', '高雄',
+    '基隆', '新竹市', '嘉義市',
+    '新竹縣', '苗栗', '彰化', '南投', '雲林', '嘉義縣',
+    '屏東', '宜蘭', '花蓮', '台東',
+    '澎湖', '金門', '連江',
+  ];
+
+  // Build lookup: cells[(city,cand)] = cell
+  const lookup = {};
+  data.cells.forEach(c => { lookup[`${c.city}|${c.candidate}`] = c; });
+
+  // Only show cities that have at least one cell
+  const citiesWithData = CITY_ORDER.filter(city =>
+    CANDIDATES.some(cand => lookup[`${city}|${cand}`])
+  );
+
+  // Build table
+  const table = document.createElement('table');
+  table.className = 'mf-table';
+  // Header
+  const thead = document.createElement('thead');
+  const headRow = document.createElement('tr');
+  headRow.appendChild(Object.assign(document.createElement('th'), { textContent: '縣市', className: 'mf-col-city' }));
+  CANDIDATES.forEach(cand => {
+    const th = document.createElement('th');
+    th.textContent = cand;
+    headRow.appendChild(th);
+  });
+  thead.appendChild(headRow);
+  table.appendChild(thead);
+
+  // Body
+  const tbody = document.createElement('tbody');
+  citiesWithData.forEach(city => {
+    const tr = document.createElement('tr');
+    const cityTd = document.createElement('td');
+    cityTd.className = 'mf-cell-city';
+    cityTd.textContent = city;
+    tr.appendChild(cityTd);
+    CANDIDATES.forEach(cand => {
+      const td = document.createElement('td');
+      td.className = 'mf-cell';
+      const cell = lookup[`${city}|${cand}`];
+      if (!cell){
+        td.classList.add('mf-empty');
+        td.textContent = '—';
+      } else {
+        const pct = cell.negativity_pct;
+        const tone = pct <= 20 ? 'pos' : pct <= 40 ? 'mid' : pct <= 70 ? 'neg' : 'verybad';
+        td.classList.add(`mf-tone-${tone}`);
+        td.classList.add('mf-clickable');
+        td.innerHTML = `
+          <div class="mf-num">${cell.news_count} 篇</div>
+          <div class="mf-pct">負面 ${pct}%</div>
+        `;
+        td.title = `點擊查看 ${city} × ${cand} 相關新聞清單（news_count=${cell.news_count}, negative=${cell.negative_count}, sentiment=${cell.sentiment_score}）`;
+        td.addEventListener('click', () => {
+          const articles = Array.isArray(cell.articles) ? cell.articles : [];
+          const note = `近 7 日全國新聞中，標題同時提到「${city}」與「${cand}」的命中：${cell.news_count} 篇（負面 ${pct}%）`;
+          openArticlesModal(`${city} × ${cand} · 媒體 framing 樣本`, note, articles);
+        });
+      }
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+  table.appendChild(tbody);
+  wrap.appendChild(table);
+
+  if (meta){
+    meta.textContent = `樣本：7 日全國新聞共 ${data.sample_size} 篇 ｜ 顯示門檻：≥ ${data.min_sample} 篇 ｜ 共 ${data.cells.length} 個有效格。`;
+  }
+}
+
+// --------- Election village chloropleth map ---------
+let electionMap;
+let electionMapLayer;
+const _emGeoCache = {};   // code → GeoJSON
+const STRATEGY_COLORS = {
+  'A_LOCKED':            '#1d3a72',  // 深藍：鎖定區
+  'B_PURE_SWING':        '#ff7b1f',  // 橙：純搖擺主戰場
+  'C_FLIPPABLE':         '#f7c948',  // 黃：翻轉潛力
+  'D_LOW_TURNOUT':       '#1f8a4c',  // 綠：低投票率動員
+  'E_AGEING_SATURATED':  '#777777',  // 灰：飽和
+};
+const PERSISTENCE_MAP_COLORS = {
+  '永藍': '#1d3a72', '永綠': '#1a5031', '永白': '#bbbbbb',
+  '翻轉': '#f7c948', '搖擺': '#ff7b1f', '其他': '#444444',
+};
+// 總統得票/預測的政黨色 — 只用在 presidential_2024 / presidential_predict 兩個模式，
+// 比 PERSISTENCE_MAP_COLORS 亮，方便在地圖上一眼辨認。
+const PARTY_MAP_COLORS = {
+  KMT: '#5a79ff',  // 亮藍（Tailwind blue-500）
+  DPP: '#1f8a4c',  // 亮綠（green-500）
+  TPP: '#c0d0dd',  // 亮白（neutral-200，深底也看得見）
+  PFP: '#f97316',  // 橘（親民黨）
+};
+function presidentialColorByYear(v, year){
+  const r = (v.presidential_history || []).find(x => x.year === year);
+  if (!r) return '#444';
+  return PARTY_MAP_COLORS[r.winner] || '#444';
+}
+function presidentialColorByPrediction(v){
+  const pred = v.presidential_prediction;
+  if (!pred) return '#444';
+  return PARTY_MAP_COLORS[pred.predicted_winner] || '#444';
+}
+function presidentialColorByPredictionPolls(v){
+  const pred = v.presidential_prediction_polls;
+  if (!pred) return '#444';
+  return PARTY_MAP_COLORS[pred.predicted_winner] || '#444';
+}
+function priorityToColor(p){
+  // 0-100 → 淡藍 → 黃 → 紅
+  const x = Math.max(0, Math.min(100, p)) / 100;
+  if (x < 0.5){
+    // 淡藍 → 黃
+    const t = x * 2;
+    const r = Math.round(70 + (247-70)*t);
+    const g = Math.round(115 + (201-115)*t);
+    const b = Math.round(180 + (72-180)*t);
+    return `rgb(${r},${g},${b})`;
+  } else {
+    // 黃 → 紅
+    const t = (x - 0.5) * 2;
+    const r = Math.round(247 + (255-247)*t);
+    const g = Math.round(201 + (77-201)*t);
+    const b = Math.round(72 + (79-72)*t);
+    return `rgb(${r},${g},${b})`;
+  }
+}
+
+// --------- Election forecast aggregate (6 都/縣市總票數預測) ---------
+async function renderElectionForecast(){
+  const container = document.getElementById('forecastBody');
+  if (!container) return;
+  let data;
+  try {
+    data = await fetchJSON('./election_priority.json');
+  } catch (e) {
+    container.innerHTML = '<p class="hint">資料載入失敗。</p>';
+    return;
+  }
+  // 優先顯示全國 22 縣市加總；6 都加總當作備援（缺 country 才用）。
+  const country = data.country_aggregate;
+  const six = data.six_cities_aggregate;
+  const agg = country || six;
+  if (!agg || !agg.predicted){
+    container.innerHTML = '<p class="hint">沒有預測資料。</p>';
+    return;
+  }
+
+  const fmt = (n) => n.toLocaleString();
+  const pred = agg.predicted;
+  const a24 = agg.actual_2024;
+  const a20 = agg.actual_2020;
+  const isCountry = !!country;
+  const scopeLabel = isCountry ? '全國 22 縣市加總' : '6 都加總';
+  const totalKey = isCountry ? 'total_estimated_votes' : 'total_estimated_votes';
+
+  // Delta vs 2024 (預測 - 2024 實際) — 看模型認為哪一黨會漲跌
+  const deltaKMT = pred.kmt_pct - a24.kmt_pct;
+  const deltaDPP = pred.dpp_pct - a24.dpp_pct;
+  const deltaTPP = pred.tpp_pct - a24.tpp_pct;
+  const fmtDelta = (d) => (d > 0 ? '+' : '') + d.toFixed(1) + 'pt';
+  const arrow = (d) => d > 0.1 ? '▲' : d < -0.1 ? '▼' : '＝';
+
+  // 三黨橫條（一條長條，3 段）
+  const stackBar = (kmt, dpp, tpp) => `
+    <div class="forecast-stack-bar">
+      <div class="forecast-seg" style="width:${kmt}%;background:#3b82f6"  title="KMT ${kmt.toFixed(1)}%">${kmt >= 8 ? 'KMT ' + kmt.toFixed(1) + '%' : ''}</div>
+      <div class="forecast-seg" style="width:${dpp}%;background:#22c55e"  title="DPP ${dpp.toFixed(1)}%">${dpp >= 8 ? 'DPP ' + dpp.toFixed(1) + '%' : ''}</div>
+      <div class="forecast-seg" style="width:${tpp}%;background:#e5e7eb;color:#d8e2ff" title="TPP ${tpp.toFixed(1)}%">${tpp >= 8 ? 'TPP ' + tpp.toFixed(1) + '%' : ''}</div>
+    </div>`;
+
+  const partyClass = (p) => p === 'KMT' ? 'persist-blue' : p === 'DPP' ? 'persist-green' : p === 'TPP' ? 'persist-white' : 'persist-other';
+
+  // 全國 / 6 都 totals card
+  const villageCount = pred.total_villages || pred.sample_villages || '?';
+  const totalCard = `
+    <div class="forecast-six-card">
+      <div class="forecast-headline">
+        <span class="forecast-label">${scopeLabel}預測勝者</span>
+        <span class="ep-persist-pill ${partyClass(pred.predicted_winner)}" style="font-size:15px">${pred.predicted_winner}</span>
+        <span class="hint">　領先 ${pred.predicted_margin.toFixed(1)} 個百分點　涵蓋 ${villageCount} 里</span>
+      </div>
+      ${stackBar(pred.kmt_pct, pred.dpp_pct, pred.tpp_pct)}
+      <div class="forecast-vote-grid">
+        <div><span class="forecast-vote-label">KMT</span><span class="forecast-vote-num">${fmt(pred.kmt_votes)} 票</span></div>
+        <div><span class="forecast-vote-label">DPP</span><span class="forecast-vote-num">${fmt(pred.dpp_votes)} 票</span></div>
+        <div><span class="forecast-vote-label">TPP</span><span class="forecast-vote-num">${fmt(pred.tpp_votes)} 票</span></div>
+        <div><span class="forecast-vote-label">推估投票數</span><span class="forecast-vote-num">${fmt(pred.total_estimated_votes)} 票</span></div>
+      </div>
+
+      <div class="forecast-compare">
+        <div class="forecast-compare-title">vs 2024 實際得票</div>
+        <div class="forecast-compare-row"><span class="forecast-compare-cell">KMT　${a24.kmt_pct.toFixed(1)}%　→　${pred.kmt_pct.toFixed(1)}%　<span class="forecast-delta ${deltaKMT>=0?'pos':'neg'}">${arrow(deltaKMT)} ${fmtDelta(deltaKMT)}</span></span></div>
+        <div class="forecast-compare-row"><span class="forecast-compare-cell">DPP　${a24.dpp_pct.toFixed(1)}%　→　${pred.dpp_pct.toFixed(1)}%　<span class="forecast-delta ${deltaDPP>=0?'pos':'neg'}">${arrow(deltaDPP)} ${fmtDelta(deltaDPP)}</span></span></div>
+        <div class="forecast-compare-row"><span class="forecast-compare-cell">TPP　${a24.tpp_pct.toFixed(1)}%　→　${pred.tpp_pct.toFixed(1)}%　<span class="forecast-delta ${deltaTPP>=0?'pos':'neg'}">${arrow(deltaTPP)} ${fmtDelta(deltaTPP)}</span></span></div>
+      </div>
+      <p class="hint" style="margin-top:8px">
+        2020 對照：KMT ${a20 ? a20.kmt_pct.toFixed(1) : '—'}% / DPP ${a20 ? a20.dpp_pct.toFixed(1) : '—'}%
+        ｜${agg.note || ''}
+      </p>
+    </div>`;
+
+  // Per-city breakdown
+  const cityRows = (agg.by_city || []).map(c => {
+    const w = c.winner;
+    const confLabel = { high: '高', medium: '中', low: '低' }[c.confidence] || c.confidence;
+    return `
+      <div class="forecast-city-row">
+        <div class="forecast-city-name">${c.name}</div>
+        <div class="forecast-city-bar">${stackBar(c.kmt_pct, c.dpp_pct, c.tpp_pct)}</div>
+        <div class="forecast-city-meta">
+          <span class="ep-persist-pill ${partyClass(w)}">${w}</span>
+          <span class="hint">領先 ${c.margin.toFixed(1)}pt　信心 ${confLabel}</span>
+        </div>
+      </div>`;
+  }).join('');
+
+  // 民調校正版本
+  const polls = agg.predicted_with_polls;
+  const pollsMeta = agg.polls_meta;
+  let pollsCard = '';
+  if (polls && pollsMeta){
+    const swing = pollsMeta.swing || {};
+    const dKMT = polls.kmt_pct - pred.kmt_pct;
+    const dDPP = polls.dpp_pct - pred.dpp_pct;
+    const dTPP = polls.tpp_pct - pred.tpp_pct;
+    const sourceLine = (pollsMeta.sources || []).map(s =>
+      `${s.pollster}（${s.date}${s.n ? '，n=' + s.n : ''}）`
+    ).join('、') || '（未填入民調來源）';
+
+    // Staleness: 民調超過 30 天視為過期（顯示橘色警告）
+    let staleness = '';
+    const asOfStr = pollsMeta.as_of;
+    if (asOfStr){
+      const asOfTime = new Date(asOfStr).getTime();
+      const ageDays = Math.max(0, Math.floor((Date.now() - asOfTime) / 86400000));
+      if (ageDays > 60){
+        staleness = `<span style="color:#ef4444">⚠️ 民調已 ${ageDays} 天未更新（建議 ≤30 天）— 跑 scripts/fetch_polls.py 自動刷新</span>`;
+      } else if (ageDays > 30){
+        staleness = `<span style="color:#f59e0b">⚠️ 民調已 ${ageDays} 天未更新</span>`;
+      } else {
+        staleness = `<span style="color:#22c55e">✓ 民調 ${ageDays === 0 ? '今天' : ageDays + ' 天前'}更新</span>`;
+      }
+    }
+
+    pollsCard = `
+      <div class="forecast-six-card forecast-polls-card">
+        <div class="forecast-headline">
+          <span class="forecast-label">民調校正後預測勝者</span>
+          <span class="ep-persist-pill ${partyClass(polls.predicted_winner)}" style="font-size:15px">${polls.predicted_winner}</span>
+          <span class="hint">　領先 ${polls.predicted_margin.toFixed(1)} 個百分點　民調日期 ${pollsMeta.as_of || '—'}　${staleness}</span>
+        </div>
+        ${stackBar(polls.kmt_pct, polls.dpp_pct, polls.tpp_pct)}
+        <div class="forecast-vote-grid">
+          <div><span class="forecast-vote-label">KMT</span><span class="forecast-vote-num">${fmt(polls.kmt_votes)} 票</span></div>
+          <div><span class="forecast-vote-label">DPP</span><span class="forecast-vote-num">${fmt(polls.dpp_votes)} 票</span></div>
+          <div><span class="forecast-vote-label">TPP</span><span class="forecast-vote-num">${fmt(polls.tpp_votes)} 票</span></div>
+          <div><span class="forecast-vote-label">推估投票數</span><span class="forecast-vote-num">${fmt(polls.total_estimated_votes)} 票</span></div>
+        </div>
+        <div class="forecast-compare">
+          <div class="forecast-compare-title">vs 純基本面預測（民調 swing 套用後）</div>
+          <div class="forecast-compare-row"><span class="forecast-compare-cell">KMT　${pred.kmt_pct.toFixed(1)}%　→　${polls.kmt_pct.toFixed(1)}%　<span class="forecast-delta ${dKMT>=0?'pos':'neg'}">${arrow(dKMT)} ${fmtDelta(dKMT)}</span>　（民調 swing ${swing.KMT >= 0 ? '+' : ''}${swing.KMT}pt）</span></div>
+          <div class="forecast-compare-row"><span class="forecast-compare-cell">DPP　${pred.dpp_pct.toFixed(1)}%　→　${polls.dpp_pct.toFixed(1)}%　<span class="forecast-delta ${dDPP>=0?'pos':'neg'}">${arrow(dDPP)} ${fmtDelta(dDPP)}</span>　（民調 swing ${swing.DPP >= 0 ? '+' : ''}${swing.DPP}pt）</span></div>
+          <div class="forecast-compare-row"><span class="forecast-compare-cell">TPP　${pred.tpp_pct.toFixed(1)}%　→　${polls.tpp_pct.toFixed(1)}%　<span class="forecast-delta ${dTPP>=0?'pos':'neg'}">${arrow(dTPP)} ${fmtDelta(dTPP)}</span>　（民調 swing ${swing.TPP >= 0 ? '+' : ''}${swing.TPP}pt）</span></div>
+        </div>
+        <p class="hint" style="margin-top:8px">
+          <strong>民調來源</strong>：${sourceLine}<br>
+          <strong>方法</strong>：「政黨支持度 - 2024 實際得票」算 swing，每個里加上同一個 swing 後再正規化（uniform swing）。
+          <strong>限制</strong>：(1) uniform swing 假設全國均勻偏移，沒抓地域差異；
+          (2) 政黨支持度 ≠ 投票意向；(3) 民調抽樣誤差 ±3%；(4) 2028 候選人未定。
+          編輯 <code>dashboard/polls_config.json</code> 更新民調數字後，下次 build 會生效。
+        </p>
+      </div>`;
+  }
+
+  container.innerHTML = `
+    ${totalCard}
+    ${pollsCard}
+    <h3 style="margin-top:18px;color:#d8e2ff;font-size:14px">${isCountry ? '各縣市預測明細（22 個）' : '各都預測明細'}</h3>
+    <div class="forecast-city-list">${cityRows}</div>
+    <p class="hint" style="margin-top:12px">
+      <strong>模型方法</strong>：每個里計算下屆總統選舉預測（加權近 5 屆得票 + momentum 趨勢延伸 ×0.3），
+      再以該里 2024 投票數作權重加總到縣市 / 6 都。${polls ? '另出一份「民調校正後」版本：對基本面預測套上 uniform swing。' : ''}<br>
+      <strong>模型局限</strong>：${polls ? '即便有民調 swing，仍' : '純基本面，'}沒考慮現任效應、新政黨崛起、候選人組合差異、突發事件。<br>
+      <strong>backtest（用 2008-2020 預測 2024）</strong>：村里級勝者準確率 85.5%，
+      但 TPP 系統性低估 26pt（無法預測新政黨）、DPP 高估 20pt（過度延伸近期趨勢）。
+      <em>當作參考，不要當真值用</em>。
+    </p>
+  `;
+}
+
+async function renderElectionMap(){
+  const container = document.getElementById('electionMap');
+  if (!container || typeof window.L === 'undefined') return;
+
+  const citySelect = document.getElementById('emCitySelect');
+  const modeSelect = document.getElementById('emModeSelect');
+  const status = document.getElementById('emStatus');
+  const legendEl = document.getElementById('emLegend');
+
+  const TW_CENTERS = {
+    tpe: [25.05, 121.55], ntpc: [24.99, 121.55], tyc: [24.99, 121.30],
+    txg: [24.16, 120.65], tnn: [22.99, 120.21], khh: [22.62, 120.31],
+    kee: [25.13, 121.74], hsz: [24.81, 120.97], cyi: [23.48, 120.45],
+    hsq: [24.70, 121.10], mil: [24.49, 120.92], cha: [24.05, 120.51],
+    nan: [23.91, 120.96], yun: [23.71, 120.43], cyq: [23.45, 120.35],
+    pif: [22.55, 120.62], ila: [24.70, 121.74], hua: [23.83, 121.40],
+    ttt: [22.81, 121.10], peh: [23.57, 119.58],
+    kin: [24.43, 118.31], lja: [26.16, 119.95],
+  };
+  const SIX_CITIES = new Set(['tpe', 'ntpc', 'tyc', 'txg', 'tnn', 'khh']);
+
+  if (!electionMap){
+    electionMap = L.map('electionMap', { scrollWheelZoom: false }).setView([23.7, 121], 7);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                { maxZoom: 18, attribution: '&copy; OpenStreetMap' }).addTo(electionMap);
+  }
+
+  const renderLayer = async () => {
+    const code = citySelect.value;
+    const mode = modeSelect.value;
+
+    if (status) status.textContent = '載入中…';
+
+    let activeMode = mode;
+
+    // Lazy fetch geo + city data
+    if (!_emGeoCache[code]){
+      const geo = await fetchJSON(`./election_priority/geo/${code}.geo.json`);
+      _emGeoCache[code] = geo;
+    }
+    // 22 縣市現在都有 election_priority/{code}.json（完整 priority/strategy/總統 預測都齊）
+    const cityData = await loadEpCity(code);
+    if (!cityData || !_emGeoCache[code]){
+      if (status) status.textContent = '載入失敗。';
+      return;
+    }
+
+    // Lookup by (town, village). GeoJSON 來源 plotdb/pdmaptw 已用 2010 升格後新名，
+    // 直接和 priority 資料對齊。
+    const lookup = {};
+    cityData.villages.forEach(v => {
+      lookup[`${v.town}|${v.village}`] = v;
+    });
+    const lookupVillage = (town, village) => lookup[`${town}|${village}`];
+
+    if (electionMapLayer){
+      electionMap.removeLayer(electionMapLayer);
+    }
+
+    const styleFn = (feat) => {
+      const p = feat.properties || {};
+      const v = lookupVillage(p.TOWNNAME, p.VILLAGENAM);
+      let color = '#333';
+      if (v){
+        if (activeMode === 'priority') color = priorityToColor(v.priority);
+        else if (activeMode === 'strategy') color = STRATEGY_COLORS[v.strategy_type] || '#444';
+        else if (activeMode === 'persistence') color = PERSISTENCE_MAP_COLORS[v.persistence] || '#444';
+        else if (activeMode === 'presidential_2024') color = presidentialColorByYear(v, 2024);
+        else if (activeMode === 'presidential_predict') color = presidentialColorByPrediction(v);
+        else if (activeMode === 'presidential_predict_polls') color = presidentialColorByPredictionPolls(v);
+      }
+      return {
+        color: '#9fb0ea', weight: 0.4,
+        fillColor: color, fillOpacity: v ? 0.75 : 0.25,
+      };
+    };
+
+    electionMapLayer = L.geoJSON(_emGeoCache[code], {
+      style: styleFn,
+      onEachFeature: (feat, layer) => {
+        const p = feat.properties || {};
+        const v = lookupVillage(p.TOWNNAME, p.VILLAGENAM);
+        let tooltipHtml;
+        if (!v){
+          tooltipHtml = `<strong>${p.TOWNNAME} ${p.VILLAGENAM}</strong><br>（無資料）`;
+        } else if (activeMode === 'presidential_2024'){
+          const r = (v.presidential_history || []).find(x => x.year === 2024);
+          tooltipHtml = r
+            ? `<strong>${p.TOWNNAME} ${p.VILLAGENAM}</strong><br>2024 勝者：<strong>${r.winner}</strong><br>
+               KMT ${r.kmt_pct}%　DPP ${r.dpp_pct}%　TPP ${r.tpp_pct}%`
+            : `<strong>${p.TOWNNAME} ${p.VILLAGENAM}</strong><br>（總統選舉資料缺）`;
+        } else if (activeMode === 'presidential_predict'){
+          const pred = v.presidential_prediction;
+          tooltipHtml = pred
+            ? `<strong>${p.TOWNNAME} ${p.VILLAGENAM}</strong><br>
+               預測勝者：<strong>${pred.predicted_winner}</strong>（領先 ${pred.predicted_margin}pt，信心 ${pred.confidence}）<br>
+               KMT ${pred.kmt_pct}%　DPP ${pred.dpp_pct}%　TPP ${pred.tpp_pct}%`
+            : `<strong>${p.TOWNNAME} ${p.VILLAGENAM}</strong><br>（預測資料缺）`;
+        } else if (activeMode === 'presidential_predict_polls'){
+          const pred = v.presidential_prediction_polls;
+          tooltipHtml = pred
+            ? `<strong>${p.TOWNNAME} ${p.VILLAGENAM}</strong><br>
+               民調校正預測：<strong>${pred.predicted_winner}</strong>（領先 ${pred.predicted_margin}pt，信心 ${pred.confidence}）<br>
+               KMT ${pred.kmt_pct}%　DPP ${pred.dpp_pct}%　TPP ${pred.tpp_pct}%`
+            : `<strong>${p.TOWNNAME} ${p.VILLAGENAM}</strong><br>（民調校正預測缺）`;
+        } else {
+          tooltipHtml = `<strong>${p.TOWNNAME} ${p.VILLAGENAM}</strong><br>
+             priority: <strong>${v.priority}</strong><br>
+             ${v.strategy_label}<br>
+             ${v.persistence}　搖擺度 ${v.volatility}<br>
+             人口 ${v.pop.toLocaleString()}　投票率 ${v.turnout != null ? v.turnout + '%' : '—'}`;
+        }
+        layer.bindTooltip(tooltipHtml, { sticky: true, direction: 'top' });
+        layer.on('click', () => {
+          if (!v) return;
+          openVillageDetail({ ...v, city: code, cityName: cityData.name, source: cityData.source });
+        });
+        layer.on('mouseover', e => e.target.setStyle({ weight: 2, color: '#5a79ff' }));
+        layer.on('mouseout',  e => e.target.setStyle({ weight: 0.4, color: '#9fb0ea' }));
+      },
+    }).addTo(electionMap);
+
+    // Pan / zoom to city
+    const bounds = electionMapLayer.getBounds();
+    if (bounds.isValid()) electionMap.fitBounds(bounds, { padding: [10, 10] });
+
+    // Render legend
+    if (legendEl){
+      let html = '';
+      if (activeMode === 'priority'){
+        html = `<div class="em-legend-title">Priority 分數（高 = 主戰場）</div>
+          <div class="em-legend-gradient"></div>
+          <div class="em-legend-scale"><span>0（鎖定）</span><span>50</span><span>100（必爭）</span></div>`;
+      } else if (activeMode === 'strategy'){
+        html = `<div class="em-legend-title">策略類型</div>
+          ${Object.entries(STRATEGY_COLORS).map(([k, c]) => {
+            const labels = {A_LOCKED:'A 永○鎖定區', B_PURE_SWING:'B 純搖擺主戰場',
+                            C_FLIPPABLE:'C 翻轉潛力', D_LOW_TURNOUT:'D 低投票率動員',
+                            E_AGEING_SATURATED:'E 高齡飽和'};
+            return `<span class="em-legend-item"><span class="em-legend-swatch" style="background:${c}"></span>${labels[k]}</span>`;
+          }).join('')}`;
+      } else if (activeMode === 'presidential_2024'){
+        html = `<div class="em-legend-title">2024 總統得票（實際勝者）</div>
+          ${Object.entries(PARTY_MAP_COLORS).filter(([k]) => ['KMT','DPP','TPP'].includes(k)).map(([k, c]) =>
+            `<span class="em-legend-item"><span class="em-legend-swatch" style="background:${c}"></span>${k}</span>`
+          ).join('')}`;
+      } else if (activeMode === 'presidential_predict'){
+        html = `<div class="em-legend-title">下屆總統預測勝者（純基本面）</div>
+          ${Object.entries(PARTY_MAP_COLORS).filter(([k]) => ['KMT','DPP','TPP'].includes(k)).map(([k, c]) =>
+            `<span class="em-legend-item"><span class="em-legend-swatch" style="background:${c}"></span>${k}</span>`
+          ).join('')}
+          <div class="hint" style="margin-top:6px;font-size:11px">模型：加權近 5 屆得票（最近權重 0.55、上一屆 0.30）+ momentum 趨勢延伸 ×0.3。沒考慮民調與全國風向，只看歷史基本盤。</div>`;
+      } else if (activeMode === 'presidential_predict_polls'){
+        html = `<div class="em-legend-title">下屆總統預測勝者（民調校正後）</div>
+          ${Object.entries(PARTY_MAP_COLORS).filter(([k]) => ['KMT','DPP','TPP'].includes(k)).map(([k, c]) =>
+            `<span class="em-legend-item"><span class="em-legend-swatch" style="background:${c}"></span>${k}</span>`
+          ).join('')}
+          <div class="hint" style="margin-top:6px;font-size:11px">純基本面預測 + 全國 uniform swing（每個里都加上「民調 - 2024 實際」的差）。民調來源 / 數字編輯 dashboard/polls_config.json。</div>`;
+      } else {
+        html = `<div class="em-legend-title">政治屬性</div>
+          ${Object.entries(PERSISTENCE_MAP_COLORS).map(([k, c]) =>
+            `<span class="em-legend-item"><span class="em-legend-swatch" style="background:${c}"></span>${k}</span>`
+          ).join('')}`;
+      }
+      // 16 縣市用「縣市長」作為 priority 基礎，6 都用「直轄市長」
+      if (cityData.source === 'local_mayor'){
+        html += `<div class="hint" style="margin-top:6px;font-size:11px;color:#9fb0ea">ℹ️ 此縣市的 priority/策略/政治屬性 是基於 5 屆縣市長選舉（2005-2022）計算。獨立候選人（IND）在花蓮/臺東/金門等地常獲勝，會反映在 winner 與 volatility 上。</div>`;
+      } else if (cityData.source === 'presidential'){
+        html += `<div class="hint" style="margin-top:6px;font-size:11px;color:#9fb0ea">ℹ️ 此縣市的 priority/策略/政治屬性 是基於 5 屆總統選舉（2008-2024）計算（fallback 來源）。</div>`;
+      }
+      legendEl.innerHTML = html;
+    }
+
+    if (status) status.textContent = `${cityData.name} ${cityData.village_count} 里 · 顏色：${modeSelect.options[modeSelect.selectedIndex].text}`;
+  };
+
+  citySelect?.addEventListener('change', renderLayer);
+  modeSelect?.addEventListener('change', renderLayer);
+  await renderLayer();
+}
+
+// --------- Election priority map (黃金戰場版圖) ---------
+const _epIndexCache = { data: null };
+const _epCityCache = {};  // code → full city data
+const PERSISTENCE_COLORS = {
+  '永藍': 'persist-blue',
+  '永綠': 'persist-green',
+  '永白': 'persist-white',
+  '翻轉': 'persist-flip',
+  '搖擺': 'persist-swing',
+  '其他': 'persist-other',
+};
+// 動作（行動類別）對應的友善 label。第一個欄位是色塊文字，title 提供 hover 補充。
+const ACTION_LABELS = {
+  GOTV:       { short: 'GOTV · 催票',     full: 'GOTV（Get Out The Vote）｜把已支持的選民帶到投票所。手段：簡訊提醒、人工電話、志工挨家催票、長者接送。' },
+  persuasion: { short: 'persuasion · 說服', full: 'persuasion｜針對中間/未表態選民改變投票意向。手段：客製化議題傳單、家戶深度對談、KOL 背書、政策廣告。' },
+  mixed:      { short: 'mixed · 雙軌',     full: 'mixed｜對基本盤打 GOTV、對搖擺者打 persuasion，兩線並進。' },
+  maintain:   { short: 'maintain · 維護',  full: 'maintain｜不投放新資源，靠樁腳/節慶/宗親會維繫關係，不犯錯比拉票更重要。' },
+  skip:       { short: 'skip · 略過',      full: 'skip｜資源效益太低，不主動投放。' },
+};
+function actionLabel(action){
+  return ACTION_LABELS[action] || { short: action || '—', full: '' };
+}
+
+async function loadEpIndex(){
+  if (_epIndexCache.data) return _epIndexCache.data;
+  const d = await fetchJSON('./election_priority.json');
+  _epIndexCache.data = d;
+  return d;
+}
+
+async function loadEpCity(code){
+  if (_epCityCache[code]) return _epCityCache[code];
+  const d = await fetchJSON(`./election_priority/${code}.json`);
+  if (d) _epCityCache[code] = d;
+  return d;
+}
+
+
+async function renderElectionPriority(){
+  const wrap = document.getElementById('epTableWrap');
+  const stats = document.getElementById('epCityStats');
+  const status = document.getElementById('epStatus');
+  if (!wrap) return;
+
+  const idx = await loadEpIndex();
+  if (!idx){
+    wrap.innerHTML = '<p class="hint">尚未產生選舉版圖資料。</p>';
+    return;
+  }
+
+  const citySelect = document.getElementById('epCitySelect');
+  const limitSelect = document.getElementById('epLimitSelect');
+
+  const renderTable = async () => {
+    const cityCode = citySelect.value;
+    const limit = parseInt(limitSelect.value, 10) || 100;
+    if (status) status.textContent = '載入中…';
+
+    let villages = [];
+    if (cityCode === 'all'){
+      // Top N across all cities — 從 index 拿 top_villages 合併
+      idx.cities.forEach(c => {
+        c.top_villages.forEach(v => villages.push({ ...v, city: c.code, cityName: c.name }));
+      });
+      villages.sort((a, b) => b.priority - a.priority);
+    } else {
+      const cityData = await loadEpCity(cityCode);
+      if (!cityData){
+        wrap.innerHTML = '<p class="hint">找不到該縣市資料。</p>';
+        return;
+      }
+      villages = cityData.villages.map(v => ({ ...v, city: cityCode, cityName: cityData.name }));
+    }
+    const display = villages.slice(0, limit);
+
+    if (status) status.textContent = `顯示前 ${display.length} 名（總共 ${cityCode === 'all' ? idx.cities.reduce((s,c)=>s+c.village_count, 0) : villages.length} 里）`;
+
+    // Render city stats
+    if (stats){
+      stats.innerHTML = '';
+      idx.cities.forEach(c => {
+        if (cityCode !== 'all' && c.code !== cityCode) return;
+        const counts = c.persistence_counts || {};
+        const item = document.createElement('div');
+        item.className = 'ep-city-stat';
+        item.innerHTML = `
+          <strong>${escapeHtml(c.name)}</strong>（${c.village_count} 里）
+          <span class="ep-persist-pill persist-blue">永藍 ${counts['永藍']||0}</span>
+          <span class="ep-persist-pill persist-green">永綠 ${counts['永綠']||0}</span>
+          <span class="ep-persist-pill persist-flip">翻轉 ${counts['翻轉']||0}</span>
+          <span class="ep-persist-pill persist-swing">搖擺 ${counts['搖擺']||0}</span>
+        `;
+        stats.appendChild(item);
+      });
+    }
+
+    // Build table
+    wrap.innerHTML = '';
+    if (!display.length){
+      wrap.innerHTML = '<p class="hint">目前沒有資料。</p>';
+      return;
+    }
+    const table = document.createElement('table');
+    table.className = 'ep-table';
+    table.innerHTML = `
+      <thead><tr>
+        <th>排名</th>
+        <th>縣市</th>
+        <th>區 / 里</th>
+        <th>人口</th>
+        <th>屬性</th>
+        <th>策略</th>
+        <th title="GOTV=催票（已支持者）｜persuasion=說服（中間選民）｜mixed=雙軌｜maintain=維護">行動方式</th>
+        <th>預算</th>
+        <th>投票率</th>
+        <th>搖擺度</th>
+        <th>Priority</th>
+      </tr></thead>`;
+    const tbody = document.createElement('tbody');
+    display.forEach((v, i) => {
+      const tr = document.createElement('tr');
+      tr.className = 'ep-row';
+      const persistCls = PERSISTENCE_COLORS[v.persistence] || 'persist-other';
+      const stratCls = `strategy-${(v.strategy_type || '').toLowerCase().replace('_', '-')}`;
+      const actionCls = `action-${(v.action || '').toLowerCase()}`;
+      const budgetCls = `budget-${(v.budget_hint || '').toLowerCase()}`;
+      tr.innerHTML = `
+        <td class="ep-rank">${i + 1}</td>
+        <td class="ep-city">${escapeHtml(v.cityName)}</td>
+        <td class="ep-village"><strong>${escapeHtml(v.town)}</strong> ${escapeHtml(v.village)}</td>
+        <td class="ep-num">${v.pop.toLocaleString()}</td>
+        <td><span class="ep-persist-pill ${persistCls}">${escapeHtml(v.persistence)}</span></td>
+        <td><span class="ep-strategy-pill ${stratCls}" title="${escapeHtml((v.outreach || []).join('、'))}">${escapeHtml(v.strategy_label || '—')}</span></td>
+        <td><span class="ep-action-pill ${actionCls}" title="${escapeHtml(actionLabel(v.action).full)}">${escapeHtml(actionLabel(v.action).short)}</span></td>
+        <td><span class="ep-budget-pill ${budgetCls}">${escapeHtml(v.budget_hint || '—')}</span></td>
+        <td class="ep-num">${v.turnout != null ? v.turnout + '%' : '—'}</td>
+        <td class="ep-num">${v.volatility}</td>
+        <td class="ep-priority"><strong>${v.priority}</strong></td>
+      `;
+      tr.addEventListener('click', () => openVillageDetail(v));
+      tbody.appendChild(tr);
+    });
+    table.appendChild(tbody);
+    wrap.appendChild(table);
+  };
+
+  citySelect?.addEventListener('change', renderTable);
+  limitSelect?.addEventListener('change', renderTable);
+  await renderTable();
+}
+
+function renderPresidentialBlock(v){
+  const hist = v.presidential_history || [];
+  const pred = v.presidential_prediction;
+  if (!hist.length) return '';
+
+  const partyClass = (p) => p === 'KMT' ? 'persist-blue' : p === 'DPP' ? 'persist-green'
+                          : p === 'TPP' ? 'persist-white' : p === 'PFP' ? 'persist-flip' : 'persist-other';
+
+  const histRows = hist.map(r => `
+    <tr>
+      <td>${r.year}</td>
+      <td><span class="ep-persist-pill ${partyClass(r.winner)}">${r.winner || '—'}</span></td>
+      <td class="ep-num">${r.kmt_pct}%</td>
+      <td class="ep-num">${r.dpp_pct}%</td>
+      <td class="ep-num">${r.tpp_pct > 0 ? r.tpp_pct + '%' : '—'}</td>
+      <td class="ep-num">${r.pfp_pct > 0 ? r.pfp_pct + '%' : '—'}</td>
+      <td class="ep-num">${r.total.toLocaleString()}</td>
+    </tr>`).join('');
+
+  const renderPredCard = (p, label, extraNote='') => {
+    if (!p) return '';
+    const cls = partyClass(p.predicted_winner);
+    const confLabel = { high: '高（差距 ≥15pt）',
+                        medium: '中（差距 5-15pt）',
+                        low: '低（差距 <5pt 膠著）' }[p.confidence] || p.confidence;
+    return `
+      <div class="ep-prediction-box ${label === '民調校正後' ? 'ep-prediction-polls' : ''}">
+        <div class="ep-prediction-headline">
+          🔮 ${label}：
+          <span class="ep-persist-pill ${cls}" style="font-size:14px">${p.predicted_winner}</span>
+          <span class="hint">　領先 ${p.predicted_margin}pt　信心 ${confLabel}</span>
+        </div>
+        <div class="ep-prediction-bars">
+          <div class="ep-bar-row"><span class="ep-bar-label">KMT</span>
+            <div class="ep-bar"><div class="ep-bar-fill" style="width:${p.kmt_pct}%;background:#3b82f6"></div></div>
+            <span class="ep-bar-pct">${p.kmt_pct}%</span></div>
+          <div class="ep-bar-row"><span class="ep-bar-label">DPP</span>
+            <div class="ep-bar"><div class="ep-bar-fill" style="width:${p.dpp_pct}%;background:#22c55e"></div></div>
+            <span class="ep-bar-pct">${p.dpp_pct}%</span></div>
+          <div class="ep-bar-row"><span class="ep-bar-label">TPP</span>
+            <div class="ep-bar"><div class="ep-bar-fill" style="width:${p.tpp_pct}%;background:#e5e7eb"></div></div>
+            <span class="ep-bar-pct">${p.tpp_pct}%</span></div>
+        </div>
+        ${extraNote ? `<div class="hint" style="margin-top:8px">${extraNote}</div>` : ''}
+      </div>`;
+  };
+
+  const predBaselineNote = '模型：加權近 5 屆得票（最近 0.55、上一屆 0.30、再上一屆 0.10）+ momentum（最近 2 屆 vs 之前的趨勢延伸 ×0.3）。沒考慮民調 — 純歷史基本盤。';
+  const predBaseline = renderPredCard(pred, '下屆總統預測（純基本面）', predBaselineNote);
+
+  const predPolls = v.presidential_prediction_polls;
+  let predPollsBlock = '';
+  if (predPolls && pred){
+    const swing = predPolls.swing_applied || {};
+    const note = `對純基本面套上全國 uniform swing：KMT ${swing.KMT >= 0 ? '+' : ''}${swing.KMT}pt、DPP ${swing.DPP >= 0 ? '+' : ''}${swing.DPP}pt、TPP ${swing.TPP >= 0 ? '+' : ''}${swing.TPP}pt（民調 - 2024 實際）後再正規化。`;
+    predPollsBlock = renderPredCard(predPolls, '民調校正後', note);
+  }
+  const predBlock = predBaseline + predPollsBlock;
+
+  return `
+    <h3>🗳️ 歷年總統選舉（${hist[0].year}–${hist[hist.length-1].year}，全 ${hist.length} 屆）</h3>
+    <table class="ep-history-table">
+      <thead><tr>
+        <th>年</th><th>勝者</th><th>KMT</th><th>DPP</th><th>TPP</th><th>PFP</th><th>總票數</th>
+      </tr></thead>
+      <tbody>${histRows}</tbody>
+    </table>
+    ${predBlock}
+  `;
+}
+
+// 把里級地圖聚焦到指定里，加上閃爍高亮 + 開 tooltip
+function focusVillageOnMap({ city, town, village }){
+  if (!city || !town || !village) return;
+  const emCity = document.getElementById('emCitySelect');
+  if (!emCity) return;
+  const needsCityChange = emCity.value !== city;
+  if (needsCityChange){
+    emCity.value = city;
+    emCity.dispatchEvent(new Event('change'));
+  }
+
+  const tryFocus = (attempts = 0) => {
+    if (!electionMapLayer || electionMapLayer.getLayers().length < 2){
+      if (attempts < 30) return setTimeout(() => tryFocus(attempts + 1), 250);
+      console.warn('focusVillageOnMap: layer not loaded');
+      return;
+    }
+    let found = null;
+    electionMapLayer.eachLayer(layer => {
+      const p = (layer.feature && layer.feature.properties) || {};
+      if (p.TOWNNAME === town && p.VILLAGENAM === village){
+        found = layer;
+      }
+    });
+    // 找不到時試正規化（plotdb 偶有 鎮/鄉/市 vs 區、村 vs 里 的差）
+    if (!found){
+      electionMapLayer.eachLayer(layer => {
+        const p = (layer.feature && layer.feature.properties) || {};
+        const normTown = (p.TOWNNAME || '').replace(/[鎮鄉市]$/, '區');
+        const normVil  = (p.VILLAGENAM || '').replace(/村$/, '里');
+        if ((normTown === town || p.TOWNNAME === town) &&
+            (normVil === village || p.VILLAGENAM === village)){
+          found = layer;
+        }
+      });
+    }
+    if (!found){
+      console.warn(`focusVillageOnMap: ${town}|${village} 找不到對應 polygon`);
+      return;
+    }
+    // pan/zoom + 閃爍高亮
+    const bounds = found.getBounds();
+    if (bounds && bounds.isValid()){
+      electionMap.fitBounds(bounds, { maxZoom: 15, padding: [80, 80] });
+    }
+    // 高亮 — 黃色粗邊 3 秒後恢復
+    const origStyle = { weight: 0.4, color: '#9fb0ea' };
+    found.setStyle({ weight: 5, color: '#c08c12' });
+    setTimeout(() => { try { found.setStyle(origStyle); } catch(e){} }, 3000);
+    if (found.getTooltip()) found.openTooltip();
+    document.getElementById('electionMapPanel')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  };
+  setTimeout(tryFocus, needsCityChange ? 200 : 0);
+}
+
+// 全域 click handler 處理 .ep-maps-btn — 用 event delegation 因為按鈕在動態 modal 裡
+document.addEventListener('click', (e) => {
+  const btn = e.target.closest('.ep-maps-btn');
+  if (!btn) return;
+  const payload = btn.getAttribute('data-focus');
+  if (!payload) return;
+  try {
+    const v = JSON.parse(payload);
+    focusVillageOnMap(v);
+    // 關閉 modal
+    const modal = document.getElementById('hotspotDetailModal');
+    if (modal){
+      modal.classList.add('hidden');
+      document.body.style.overflow = '';
+    }
+  } catch(err){
+    console.warn('focus btn payload parse failed:', err);
+  }
+});
+
+function openVillageDetail(v){
+  // 重用既有 hotspotDetailModal — 把里資訊塞進去顯示
+  const years = v.years || [];
+  const histRows = years.map((y, i) => {
+    const kmt = v.kmt_rates?.[i] ?? 0;
+    const dpp = v.dpp_rates?.[i] ?? 0;
+    const tpp = v.tpp_rates?.[i] ?? 0;
+    const winner = v.winner_parties?.[i] || '';
+    const winnerCls = winner === 'KMT' ? 'persist-blue' : winner === 'DPP' ? 'persist-green' : winner === 'TPP' ? 'persist-white' : 'persist-other';
+    return `
+      <tr>
+        <td>${y}</td>
+        <td><span class="ep-persist-pill ${winnerCls}">${winner || '—'}</span></td>
+        <td class="ep-num">${kmt}%</td>
+        <td class="ep-num">${dpp}%</td>
+        <td class="ep-num">${tpp}%</td>
+      </tr>`;
+  }).join('');
+
+  const stratCls = `strategy-${(v.strategy_type || '').toLowerCase().replace('_', '-')}`;
+  const actionCls = `action-${(v.action || '').toLowerCase()}`;
+  const budgetCls = `budget-${(v.budget_hint || '').toLowerCase()}`;
+  const dp = v.demo_profile || {};
+  const ageMap = { young: '青年化', mid: '中壯年', senior: '高齡化', mixed: '混合' };
+  const eduMap = { high: '高教育', mid: '中等教育', low: '基礎教育' };
+  const genderMap = { male: '男性偏多', female: '女性偏多', balanced: '性別均衡' };
+
+  // 「在里級地圖上查看」— 切到該縣市的 Leaflet 地圖、聚焦該里、高亮並開 tooltip
+  const focusBtnPayload = JSON.stringify({ city: v.city, town: v.town, village: v.village });
+
+  const html = `
+    <div class="ep-detail-meta">
+      <div class="ep-detail-meta-headline">
+        <strong style="font-size:15px">${escapeHtml(v.cityName || '')} ${escapeHtml(v.town || '')} ${escapeHtml(v.village || '')}</strong>
+        <span class="ep-priority-tag">priority ${v.priority}</span>
+        <button class="ep-maps-btn" type="button" data-focus='${escapeHtml(focusBtnPayload)}' title="在上方「里級地理視覺化」地圖上聚焦此里">📍 在地圖上聚焦</button>
+      </div>
+      <div class="hint">人口 ${v.pop.toLocaleString()}（合格選舉人 ${v.voters.toLocaleString()}）　投票率 ${v.turnout != null ? v.turnout + '%' : '—'}　中位年齡 ${v.median_age || '—'} 歲</div>
+      <div class="hint">屬性：<span class="ep-persist-pill ${PERSISTENCE_COLORS[v.persistence] || 'persist-other'}">${escapeHtml(v.persistence)}</span>　搖擺度 ${v.volatility}　翻盤 ${v.flips} 次　最近差距 ${v.latest_margin}%　說服空間 ${v.persuadability}</div>
+    </div>
+
+    <h3>🎯 拉票策略建議（給幕僚操作用）</h3>
+    <div class="ep-strategy-box">
+      <div class="ep-strategy-headline">
+        <span class="ep-strategy-pill ${stratCls}">${escapeHtml(v.strategy_label || '—')}</span>
+        <span class="ep-action-pill ${actionCls}" title="${escapeHtml(actionLabel(v.action).full)}">${escapeHtml(actionLabel(v.action).short)}</span>
+        <span class="ep-budget-pill ${budgetCls}">預算：${escapeHtml(v.budget_hint || '—')}</span>
+      </div>
+      ${actionLabel(v.action).full ? `<p class="ep-action-explainer">${escapeHtml(actionLabel(v.action).full)}</p>` : ''}
+      ${v.strategy_reason ? `<p class="ep-strategy-reason">${escapeHtml(v.strategy_reason)}</p>` : ''}
+
+      <div class="ep-detail-list-title">建議接觸方式（${(v.outreach || []).length} 種）</div>
+      <ul class="ep-detail-list">
+        ${(v.outreach || []).map(o => `
+          <li>
+            <span class="ep-list-name">${escapeHtml(o)}</span>
+            <span class="ep-list-reason">${escapeHtml((_epIndexCache.data?.reasons?.outreach || {})[o] || '')}</span>
+          </li>`).join('')}
+      </ul>
+
+      <div class="ep-detail-list-title">議題優先序（${(v.topics || []).length} 個）</div>
+      <ul class="ep-detail-list">
+        ${(v.topics || []).map((t, i) => `
+          <li>
+            <span class="ep-list-num">${i + 1}.</span>
+            <span class="ep-list-name">${escapeHtml(t)}</span>
+            <span class="ep-list-reason">${escapeHtml((_epIndexCache.data?.reasons?.topics || {})[t] || '')}</span>
+          </li>`).join('')}
+      </ul>
+    </div>
+
+    <h3>👥 人口圖像</h3>
+    <div class="ep-demo-box">
+      <div class="ep-demo-row">
+        <span class="ep-demo-tag">${escapeHtml(ageMap[dp.age_skew] || dp.age_skew || '—')}</span>
+        <span class="ep-demo-tag">${escapeHtml(eduMap[dp.edu_skew] || dp.edu_skew || '—')}</span>
+        <span class="ep-demo-tag">${escapeHtml(genderMap[dp.gender_skew] || dp.gender_skew || '—')}</span>
+      </div>
+      <div class="hint">20-39 歲 ${v.a20_39_pct}%　60+ 歲 ${v.a60up_pct}%　大專以上 ${v.high_edu_pct}%（含研究所 ${v.graduate_pct}%）　男性比例 ${v.male_pct}%</div>
+    </div>
+
+    ${v.source === 'presidential' ? '' : `
+    <h3>📜 ${v.source === 'local_mayor' ? '歷次縣市長選舉' : '歷次直轄市長選舉'}</h3>
+    <table class="ep-history-table">
+      <thead><tr><th>年</th><th>勝者</th><th>KMT</th><th>DPP</th><th>TPP</th></tr></thead>
+      <tbody>${histRows}</tbody>
+    </table>
+    `}
+
+    ${renderPresidentialBlock(v)}
+  `;
+
+  const modal = document.getElementById('hotspotDetailModal');
+  if (!modal) return;
+  document.getElementById('hotspotDetailTitle').textContent =
+    `${v.cityName || ''} ${v.town || ''} ${v.village || ''}（priority ${v.priority}）`;
+  const body = document.getElementById('hotspotDetailBody');
+  body.innerHTML = html;
+  modal.classList.remove('hidden');
+  modal.setAttribute('aria-hidden', 'false');
+  document.body.style.overflow = 'hidden';
+}
+
+function initPastEventsToggle(){
+  const wrap = document.getElementById('pastEventsWrap');
+  const btn = document.getElementById('pastEventsToggle');
+  if (!btn || !wrap) return;
+  btn.addEventListener('click', () => {
+    const collapsed = wrap.classList.toggle('collapsed');
+    btn.setAttribute('aria-expanded', String(!collapsed));
+  });
 }
 
 function initModal(){
@@ -691,6 +2516,273 @@ function initModal(){
   });
 }
 
+// --------- Person-mention drilldown modal ---------
+function openMentionModal(name){
+  const modal = document.getElementById('mentionModal');
+  if (!modal) return;
+  const articles = (state.mentionArticles && state.mentionArticles[name]) || [];
+  const windowLabel = mode === '7d' ? '近 7 日' : '近 24h';
+  document.getElementById('mentionModalTitle').textContent = `${name}（${windowLabel} 提及 ${articles.length} 則）`;
+  const body = document.getElementById('mentionModalBody');
+  body.innerHTML = '';
+  if (articles.length === 0){
+    const p = document.createElement('p');
+    p.className = 'hint';
+    p.textContent = '此時段沒有提及紀錄。';
+    body.appendChild(p);
+  } else {
+    const ol = document.createElement('ol');
+    ol.className = 'mention-list';
+    articles.forEach(x => {
+      const li = document.createElement('li');
+      const co = Array.isArray(x.co_mentioned) ? x.co_mentioned : [];
+      if (co.length > 0) li.classList.add('co-mention');
+      // 燈號 badge：紅 / 黃 / 綠 — 用跟平台 modal 同一套 hd-news-badge 樣式（淡背景框＋文字）
+      const sev = x.severity;
+      const sevTier = sev === 'red' ? 'red' : (sev === 'yellow' ? 'yellow' : 'green');
+      li.classList.add('hd-news-' + sevTier);
+      const sevBadge = document.createElement('span');
+      sevBadge.className = 'hd-news-badge hd-news-badge-' + sevTier;
+      sevBadge.textContent = sevTier === 'red' ? '🔴 紅燈' : (sevTier === 'yellow' ? '🟡 黃燈' : '🟢 綠燈');
+      sevBadge.title = sevTier === 'red' ? '紅燈：負面/攻擊' : (sevTier === 'yellow' ? '黃燈：爭議/質疑' : '綠燈：正面/中性');
+      li.appendChild(sevBadge);
+      const meta = document.createElement('span');
+      meta.className = 'mention-meta';
+      const t = (x.time || '').slice(5, 16);
+      meta.textContent = `${t}　[${x.platform || '-'}]　`;
+      li.appendChild(meta);
+      if (x.publisher){
+        const pub = document.createElement('span');
+        pub.className = 'hd-news-publisher';
+        pub.textContent = x.publisher;
+        li.appendChild(pub);
+      }
+      if (co.length > 0) {
+        const chip = document.createElement('span');
+        chip.className = 'co-chip';
+        chip.textContent = `🔗 共現：${co.join('、')}`;
+        chip.title = '此篇同時提及多位市長';
+        li.appendChild(chip);
+        li.appendChild(document.createTextNode(' '));
+      }
+      const a = document.createElement('a');
+      a.href = x.url; a.target = '_blank'; a.rel = 'noopener';
+      a.textContent = (x.title || '').trim() || '（無標題）';
+      li.appendChild(a);
+      ol.appendChild(li);
+    });
+    body.appendChild(ol);
+    // 標題加上一行共現摘要
+    const coCount = articles.filter(x => Array.isArray(x.co_mentioned) && x.co_mentioned.length).length;
+    if (coCount > 0) {
+      const note = document.createElement('p');
+      note.className = 'mention-summary-note';
+      note.textContent = `※ 其中 ${coCount} 則同時提及其他市長（已標記🔗）`;
+      body.insertBefore(note, ol);
+    }
+  }
+  modal.classList.remove('hidden');
+  modal.setAttribute('aria-hidden', 'false');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeMentionModal(){
+  const modal = document.getElementById('mentionModal');
+  if (!modal) return;
+  modal.classList.add('hidden');
+  modal.setAttribute('aria-hidden', 'true');
+  document.body.style.overflow = '';
+}
+
+function initMentionModal(){
+  const modal = document.getElementById('mentionModal');
+  if (!modal) return;
+  document.getElementById('mentionModalClose')?.addEventListener('click', closeMentionModal);
+  modal.addEventListener('click', (e) => {
+    if (e.target?.dataset?.close === 'mention') closeMentionModal();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && !modal.classList.contains('hidden')) closeMentionModal();
+  });
+}
+
+// --------- Hotspot detail modal ---------
+const PLATFORM_CHIP_CLASS = { facebook: 'fb', instagram: 'ig', threads: 'th' };
+const PLATFORM_DISPLAY = { facebook: 'FB', instagram: 'IG', threads: 'Threads' };
+
+function openHotspotDetailModal(h, markersByTitle){
+  const modal = document.getElementById('hotspotDetailModal');
+  if (!modal) return;
+  const total = (h.news_count || 0) + (h.comment_count || 0);
+  document.getElementById('hotspotDetailTitle').textContent = `${h.title || '事件'}（${total} 則）`;
+
+  const body = document.getElementById('hotspotDetailBody');
+  body.innerHTML = '';
+
+  // 摘要列：等級 chip + 地點 + 平台 + 壽命
+  // 從卡片/圖表開的「純清單」modal 不需要 level/place（會傳 null/undefined），
+  // 此時整列只顯示 note 與 lifetime
+  const meta = document.createElement('div');
+  meta.className = 'hd-meta';
+  const lifetime = formatLifetimeHint(h);
+  const parts = [];
+  if (h.level) parts.push(`<span class="hc-level-chip ${h.level}">${h.level.toUpperCase()}</span>`);
+  if (h.place) parts.push(`<span class="hd-meta-place">📍 ${escapeHtml(h.place)}</span>`);
+  if (h.platform) parts.push(`<span class="hd-meta-platform">${escapeHtml(h.platform)}</span>`);
+  if (h.note) parts.push(`<span class="hd-meta-note">${escapeHtml(h.note)}</span>`);
+  if (lifetime) parts.push(`<span class="hd-meta-life">⏳ ${escapeHtml(lifetime)}</span>`);
+  meta.innerHTML = parts.join('');
+  if (parts.length) body.appendChild(meta);
+
+  // 「在地圖上定位」按鈕
+  if (markersByTitle && markersByTitle[h.title]){
+    const locateBtn = document.createElement('button');
+    locateBtn.className = 'hd-locate-btn';
+    locateBtn.type = 'button';
+    locateBtn.textContent = '🗺️ 在地圖上定位 →';
+    locateBtn.addEventListener('click', () => {
+      const m = markersByTitle[h.title];
+      if (m && incidentMap){
+        closeHotspotDetailModal();
+        incidentMap.setView(m.getLatLng(), 13, { animate: true });
+        m.openPopup();
+        document.getElementById('incidentMap')?.scrollIntoView({ block: 'center', behavior: 'smooth' });
+      }
+    });
+    body.appendChild(locateBtn);
+  }
+
+  const articles = Array.isArray(h.news_articles) ? h.news_articles : [];
+  const comments = Array.isArray(h.comments) ? h.comments : [];
+
+  // 新聞區塊
+  const newsSec = document.createElement('section');
+  newsSec.className = 'hd-section';
+  newsSec.innerHTML = `<h3>📰 相關新聞（${articles.length} 則）</h3>`;
+  if (articles.length === 0){
+    newsSec.insertAdjacentHTML('beforeend', '<p class="hint">此事件目前沒有對應的新聞報導。</p>');
+  } else {
+    const ol = document.createElement('ol');
+    ol.className = 'hd-news-list';
+    let redCount = 0, yellowCount = 0;
+    articles.forEach(x => {
+      const li = document.createElement('li');
+      // 嚴重度分級：red（公共安全/刑事）/ yellow（政治批評/環境）/ none
+      const sev = x.severity || (x.is_negative ? 'yellow' : null);
+      if (sev === 'red'){
+        li.classList.add('hd-news-red');
+        redCount += 1;
+        const badge = document.createElement('span');
+        badge.className = 'hd-news-badge hd-news-badge-red';
+        badge.textContent = '🔴 紅燈';
+        badge.title = '標題命中嚴重事件詞（刑事 / 公共安全 / 重大）';
+        li.appendChild(badge);
+      } else if (sev === 'yellow'){
+        li.classList.add('hd-news-yellow');
+        yellowCount += 1;
+        const badge = document.createElement('span');
+        badge.className = 'hd-news-badge hd-news-badge-yellow';
+        badge.textContent = '🟡 黃燈';
+        badge.title = '標題命中政治批評／環境問題詞';
+        li.appendChild(badge);
+      } else {
+        // 綠燈：正面 / 中性，仍要 badge 讓使用者一眼看出（避免「沒燈號 = 不知道」）
+        li.classList.add('hd-news-green');
+        const badge = document.createElement('span');
+        badge.className = 'hd-news-badge hd-news-badge-green';
+        badge.textContent = '🟢 綠燈';
+        badge.title = '正面 / 中性 / 利多';
+        li.appendChild(badge);
+      }
+      const meta = document.createElement('span');
+      meta.className = 'mention-meta';
+      meta.textContent = `${(x.time || '').slice(5, 16)}　`;
+      li.appendChild(meta);
+      if (x.publisher){
+        const pub = document.createElement('span');
+        pub.className = 'hd-news-publisher';
+        pub.textContent = x.publisher;
+        li.appendChild(pub);
+      }
+      const a = document.createElement('a');
+      a.href = x.url; a.target = '_blank'; a.rel = 'noopener';
+      a.textContent = (x.title || '').trim() || '（無標題）';
+      li.appendChild(a);
+      ol.appendChild(li);
+    });
+    if (redCount > 0 || yellowCount > 0){
+      const note = document.createElement('p');
+      note.className = 'hint hd-neg-note';
+      const parts = [];
+      if (redCount > 0) parts.push(`🔴 紅燈 ${redCount} 則（刑事 / 公共安全 / 重大事件）`);
+      if (yellowCount > 0) parts.push(`🟡 黃燈 ${yellowCount} 則（政治批評 / 環境問題）`);
+      note.textContent = `※ ${parts.join('，')}`;
+      newsSec.appendChild(note);
+    }
+    newsSec.appendChild(ol);
+  }
+  body.appendChild(newsSec);
+
+  // 留言區塊
+  const cmtSec = document.createElement('section');
+  cmtSec.className = 'hd-section';
+  cmtSec.innerHTML = `<h3>💬 相關留言（${comments.length} 則）</h3>`;
+  if (comments.length === 0){
+    cmtSec.insertAdjacentHTML('beforeend', '<p class="hint">此事件目前沒有對應的留言。</p>');
+  } else {
+    const ul = document.createElement('ul');
+    ul.className = 'hd-comment-list';
+    comments.forEach(c => {
+      const li = document.createElement('li');
+      li.className = 'hd-comment';
+      const platCls = PLATFORM_CHIP_CLASS[c.platform] || '';
+      const platName = PLATFORM_DISPLAY[c.platform] || c.platform;
+      const sigCls = c.signal === 'red' ? 'red' : c.signal === 'yellow' ? 'yellow' : c.signal === 'green' ? 'green' : '';
+      const time = c.time_text ? `<span class="hd-c-time">${escapeHtml(c.time_text)}</span>` : '';
+      const author = c.author ? `<span class="hd-c-author">${escapeHtml(c.author)}</span>` : '';
+      const sigChip = sigCls ? `<span class="light-chip ${sigCls}">${sigCls === 'red' ? '🔴' : sigCls === 'yellow' ? '🟡' : '🟢'}</span>` : '';
+      const link = c.url ? `<a class="hd-c-link" href="${escapeHtml(c.url)}" target="_blank" rel="noopener">原文 →</a>` : '';
+      li.innerHTML = `
+        <div class="hd-c-hdr">
+          <span class="hd-c-platform plat-${platCls}">${platName}</span>
+          ${sigChip}
+          ${author}
+          ${time}
+          ${link}
+        </div>
+        <div class="hd-c-text">${escapeHtml(c.text || '')}</div>
+      `;
+      ul.appendChild(li);
+    });
+    cmtSec.appendChild(ul);
+  }
+  body.appendChild(cmtSec);
+
+  modal.classList.remove('hidden');
+  modal.setAttribute('aria-hidden', 'false');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeHotspotDetailModal(){
+  const modal = document.getElementById('hotspotDetailModal');
+  if (!modal) return;
+  modal.classList.add('hidden');
+  modal.setAttribute('aria-hidden', 'true');
+  document.body.style.overflow = '';
+}
+
+function initHotspotDetailModal(){
+  const modal = document.getElementById('hotspotDetailModal');
+  if (!modal) return;
+  document.getElementById('hotspotDetailClose')?.addEventListener('click', closeHotspotDetailModal);
+  modal.addEventListener('click', (e) => {
+    if (e.target?.dataset?.close === 'hotspot') closeHotspotDetailModal();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && !modal.classList.contains('hidden')) closeHotspotDetailModal();
+  });
+}
+
 // --------- Main render ---------
 async function run(){
   const d = await fetchJSON('./data.json');
@@ -702,6 +2794,77 @@ async function run(){
   state.comments.facebook = await fetchJSON('./comments_facebook.json') || [];
   state.comments.instagram = await fetchJSON('./comments_instagram.json') || [];
   state.comments.threads = await fetchJSON('./comments_threads.json') || [];
+
+  // [Supabase Phase A] shadow read 或主動切換 — 不影響預設行為
+  //   - ?source=supabase  → 真的把 socialSignals 切到 Supabase（沒 dual-write 前會凍結）
+  //   - ?source=shadow    → 同時讀但只 console.log 比對（預設、零風險）
+  //   - 不帶 query        → shadow（預設）
+  //   無論哪個模式，window.__lxy_supabase 都會塞 Supabase 那邊的結果，供 debug
+  const SOURCE_MODE = new URLSearchParams(location.search).get('source') || 'shadow';
+  if (typeof LxyDB !== 'undefined') {
+    try {
+      const supaSignals = await LxyDB.signalsByPlatform();
+      window.__lxy_supabase = { signalsByPlatform: supaSignals };
+      const log = (label, obj) => {
+        console.groupCollapsed('%c[LxyDB] ' + label, 'color:#6bd');
+        console.log(obj); console.groupEnd();
+      };
+      log('signalsByPlatform (Supabase)', supaSignals);
+      log('signalsByPlatform (flat JSON)', state.socialSignals);
+      if (SOURCE_MODE === 'supabase') {
+        // 真切換：覆寫 state.socialSignals 成 Supabase shape
+        // social_signals.json 的 shape: { facebook: {red, yellow, green, total, *_pct}, ig:..., th:... }
+        // LxyDB.signalsByPlatform 已是同 shape，直接 assign
+        state.socialSignals = supaSignals;
+        console.warn('%c[LxyDB] socialSignals 已切到 Supabase。dual-write 還沒做，數字會凍結在 migration 時間點', 'color:#c08c12');
+      }
+    } catch (e) {
+      console.warn('[LxyDB] signalsByPlatform failed (shadow read 跳過):', e && e.message);
+    }
+
+    // [Migration 005] Tier 1 RPC shadow read — metrics / by_hour / top_news
+    // Default: 只 log 比對、UI 用 data.json
+    // ?source=supabase: 真切換、覆寫 d.metrics / d.by_hour / d.top_news
+    try {
+      const hours = (mode === '7d') ? 168 : 24;
+      const [rpcMetrics, rpcByHour, rpcTopNews] = await Promise.all([
+        LxyDB.dashboardMetrics(hours),
+        LxyDB.dashboardByHour(hours),
+        LxyDB.dashboardTopNews(hours, 20),
+      ]);
+      window.__lxy_supabase = Object.assign(window.__lxy_supabase || {}, {
+        metrics: rpcMetrics, byHour: rpcByHour, topNews: rpcTopNews,
+      });
+      const lg = (label, obj) => {
+        console.groupCollapsed('%c[LxyDB] ' + label, 'color:#6bd');
+        console.log(obj); console.groupEnd();
+      };
+      lg('metrics (Supabase RPC, ' + hours + 'h)', rpcMetrics);
+      lg('metrics (flat JSON)', pick(d, 'metrics', 'metrics_7d'));
+      lg('by_hour (Supabase RPC)', rpcByHour);
+      lg('by_hour (flat JSON, n=' + (pick(d, 'by_hour', 'by_hour_7d')||[]).length + ')',
+         pick(d, 'by_hour', 'by_hour_7d'));
+      lg('top_news (Supabase RPC, ' + rpcTopNews.length + ' rows)', rpcTopNews);
+
+      if (SOURCE_MODE === 'supabase') {
+        // 真切換：覆蓋 data.json 對應欄位
+        if (mode === '7d') {
+          d.metrics_7d = rpcMetrics;
+          d.by_hour_7d = rpcByHour;
+          d.top_news_7d = rpcTopNews;
+        } else {
+          d.metrics = rpcMetrics;
+          d.by_hour = rpcByHour;
+          d.top_news = rpcTopNews;
+        }
+        console.warn('%c[LxyDB] dashboard data 已切到 Supabase RPC (metrics/by_hour/top_news)', 'color:#c08c12');
+      }
+    } catch (e) {
+      console.warn('[LxyDB] dashboard RPC shadow read 失敗:', e && e.message);
+    }
+  }
+  // 留言按發布日期 group（給 topic arc click 用）— backend 已 parse 好
+  state.commentsByDate = d.comments_by_date_7d || {};
   state.topicHeat = await fetchJSON('./topic_heat.json') || null;
 
   const m = pick(d, 'metrics', 'metrics_7d') || {};
@@ -712,13 +2875,92 @@ async function run(){
   document.getElementById('growth').textContent = m.growth_pct==null ? '-' : `${m.growth_pct}%`;
   document.getElementById('news24').textContent = m.news ?? m.news_24h ?? '-';
 
-  const level = (m.anomaly||{}).level || '綠';
-  document.getElementById('light').innerHTML = `<span class="badge ${level}">${LIGHT_ICON[level]||'🟢'} ${level}</span>`;
+  // 卡片點擊 → 開 modal 顯示對應的新聞清單
+  state.articles24h = d.articles_24h || [];
+  state.articlesPrev24h = d.articles_prev_24h || [];
+  state.articles7d = d.articles_7d || [];
+  state.articlesPrev7d = d.articles_prev_7d || [];
+  const isWeekMode = mode === '7d';
+  const totalArticles  = () => isWeekMode ? state.articles7d : state.articles24h;
+  const prevArticles   = () => isWeekMode ? state.articlesPrev7d : state.articlesPrev24h;
+  const newsArticles   = () => totalArticles().filter(a => a.platform === 'news');
+  bindCardClick('total24', isWeekMode ? '近 7 日聲量明細'  : '24h 聲量明細',
+    isWeekMode ? '近 7 日所有與盧秀燕有關的事件' : '近 24 小時所有與盧秀燕有關的事件', totalArticles);
+  bindCardClick('prev24',  isWeekMode ? '前 7 日聲量明細'  : '前 24h 聲量明細',
+    isWeekMode ? '7-14 天前所有與盧秀燕有關的事件' : '24-48 小時前所有與盧秀燕有關的事件',
+    prevArticles);
+  bindCardClick('news24',  isWeekMode ? '7 日新聞量明細' : '今日新聞量明細',
+    isWeekMode ? '近 7 日所有與盧秀燕有關的新聞' : '近 24 小時所有與盧秀燕有關的新聞', newsArticles);
+
+  // 三盞燈：新聞燈號（純內容）/ 留言燈號（社群情緒）/ 綜合燈號（兩者取較嚴重）
+  const newsResult = severityLightWithReason(totalArticles());
+  const cmtResult = commentLightWithReason(state.comments);
+  const newsLevel = newsResult.level;
+  const cmtLevel = cmtResult.level;
+  const overallLevel = LIGHT_RANK[newsLevel] >= LIGHT_RANK[cmtLevel] ? newsLevel : cmtLevel;
+  const renderBadge = (lvl, tooltip) => `<span class="badge ${lvl}" style="cursor:pointer" title="${tooltip || ''}">${LIGHT_ICON[lvl]||'🟢'} ${lvl}</span>`;
+  document.getElementById('light').innerHTML = renderBadge(overallLevel, '點擊查看原因 + 相關新聞 + 留言（新聞 + 留言取較嚴重者）');
+  document.getElementById('lightNews').innerHTML = renderBadge(newsLevel, '點擊查看原因 + 相關新聞 — ' + ((newsResult.reasons||[]).join('; ') || '無紅黃新聞'));
+  document.getElementById('lightComments').innerHTML = renderBadge(cmtLevel, '點擊查看原因 + 紅/黃留言 — ' + ((cmtResult.reasons||[]).join('; ') || '無紅黃留言'));
+
+  // 紅+黃留言（跨 3 平台彙總）— 給綜合 / 留言燈號 modal 用
+  const allRedYellowComments = (() => {
+    const out = [];
+    for (const plat of ['facebook','instagram','threads']) {
+      for (const c of (state.comments[plat] || [])) {
+        if (c.signal === 'red' || c.signal === 'yellow') {
+          out.push({...c, platform: plat});
+        }
+      }
+    }
+    out.sort((a,b) => {
+      const ra = a.signal === 'red' ? 0 : 1;
+      const rb = b.signal === 'red' ? 0 : 1;
+      if (ra !== rb) return ra - rb;
+      return (b.time_text || '').localeCompare(a.time_text || '');
+    });
+    return out;
+  })();
+
+  // 三盞燈的 click handler
+  const lightClick = (lvl, kind) => {
+    const titleMap = { overall: '綜合燈號', news: '新聞燈號', comments: '留言燈號' };
+    const noteParts = [];
+    let arts = null, comments = null;
+    if (kind === 'overall') {
+      (newsResult.reasons||[]).forEach(r => noteParts.push(`📰 ${r}`));
+      (cmtResult.reasons||[]).forEach(r => noteParts.push(`💬 ${r}`));
+      arts = totalArticles();
+      comments = allRedYellowComments;
+    } else if (kind === 'news') {
+      (newsResult.reasons||[]).forEach(r => noteParts.push(`📰 ${r}`));
+      arts = totalArticles();
+      comments = null;
+    } else if (kind === 'comments') {
+      (cmtResult.reasons||[]).forEach(r => noteParts.push(`💬 ${r}`));
+      arts = null;
+      comments = allRedYellowComments;
+    }
+    const note = noteParts.length ? `觸發原因：${noteParts.join('；')}` : '無觸發原因（綠燈）';
+    openArticlesModal(`${titleMap[kind]}：${lvl}`, note, arts, comments);
+  };
+  document.getElementById('light').onclick = () => lightClick(overallLevel, 'overall');
+  document.getElementById('lightNews').onclick = () => lightClick(newsLevel, 'news');
+  document.getElementById('lightComments').onclick = () => lightClick(cmtLevel, 'comments');
 
   const cmp = pick(d, 'mention_compare_24h', 'mention_compare_7d') || {};
   const names = Object.keys(cmp);
   const vals = names.map(n => cmp[n] || 0);
   document.getElementById('compare').textContent = names.map(n => `${n}：${cmp[n]||0}`).join(' ｜ ');
+  state.mentionArticles = pick(d, 'mention_articles_24h', 'mention_articles_7d') || {};
+
+  // 戰情排名（24h）：用 voice_breakdown_24h 渲染 leaderboard，
+  // 並把 mention_articles_24h 一起傳進去做「排名 row 可點擊看新聞」
+  renderWarRoomRanking(d.voice_breakdown_24h || {}, d.mention_articles_24h || {});
+
+  // 同人縱向追蹤 — 比跨人比較務實
+  renderSelfFavorability(d.self_favorability_history_7d || []);
+  renderTopicNarrative(d.topic_narrative_arc_7d || {});
 
   const byPlatform = pick(d, 'by_platform', 'by_platform_7d') || [];
   const ul = document.getElementById('platforms'); ul.innerHTML='';
@@ -731,6 +2973,11 @@ async function run(){
   renderRedCommentsPanel();
   renderTopicHeat();
   renderIncidentMap(d);
+  renderPastEvents();
+  renderMediaFraming(d);
+  renderElectionPriority();
+  renderElectionForecast();
+  renderElectionMap();
   // If modal is open, re-render its body with fresh data
   const modal = document.getElementById('commentsModal');
   if (modal && !modal.classList.contains('hidden')) renderModalBody();
@@ -750,6 +2997,18 @@ async function run(){
     li.appendChild(a); news.appendChild(li);
   });
 
+  // 共用：給 li 加上 hd-news-{red/yellow/green} class + 對應的 hd-news-badge pill
+  // 跟 hotspot modal / 平台 modal 用同一套樣式，視覺一致
+  const attachSeverityBadge = (li, sev) => {
+    const tier = sev === 'red' ? 'red' : (sev === 'yellow' ? 'yellow' : 'green');
+    li.classList.add('hd-news-' + tier);
+    const badge = document.createElement('span');
+    badge.className = 'hd-news-badge hd-news-badge-' + tier;
+    badge.textContent = tier === 'red' ? '🔴 紅燈' : (tier === 'yellow' ? '🟡 黃燈' : '🟢 綠燈');
+    badge.title = tier === 'red' ? '紅燈：負面/攻擊' : (tier === 'yellow' ? '黃燈：爭議/質疑' : '綠燈：正面/中性');
+    li.appendChild(badge);
+  };
+
   const detailMap = pick(d, 'latest_by_platform_24h', 'latest_by_platform_7d') || {};
   const platformDetail = document.getElementById('platformDetail');
   if(platformDetail){
@@ -760,6 +3019,11 @@ async function run(){
       const ol=document.createElement('ol');
       (detailMap[p]||[]).forEach(x=>{
         const li=document.createElement('li');
+        attachSeverityBadge(li, x.severity);
+        if (x.publisher){
+          const pub=document.createElement('span'); pub.className='hd-news-publisher';
+          pub.textContent=x.publisher; li.appendChild(pub);
+        }
         const a=document.createElement('a'); a.href=x.url; a.target='_blank'; a.rel='noopener';
         a.textContent=displayText(x) + (x.time ? `（${x.time.slice(5,16)}）` : '');
         li.appendChild(a); ol.appendChild(li);
@@ -770,7 +3034,17 @@ async function run(){
 
   function renderList(elId, arr){
     const el=document.getElementById(elId); if(!el) return; el.innerHTML='';
-    (arr||[]).forEach(x=>{ const li=document.createElement('li'); const a=document.createElement('a'); a.href=x.url; a.target='_blank'; a.rel='noopener'; a.textContent=displayText(x)+(x.time?`（${x.time.slice(5,16)}）`:'' ); li.appendChild(a); el.appendChild(li); });
+    (arr||[]).forEach(x=>{
+      const li=document.createElement('li');
+      attachSeverityBadge(li, x.severity);
+      if (x.publisher){
+        const pub=document.createElement('span'); pub.className='hd-news-publisher';
+        pub.textContent=x.publisher; li.appendChild(pub);
+      }
+      const a=document.createElement('a'); a.href=x.url; a.target='_blank'; a.rel='noopener';
+      a.textContent=displayText(x)+(x.time?`（${x.time.slice(5,16)}）`:'' );
+      li.appendChild(a); el.appendChild(li);
+    });
   }
   const ps = d.person_sections || {};
   renderList('luFb', (ps['盧秀燕']||{}).facebook || []);
@@ -782,36 +3056,201 @@ async function run(){
   renderList('tsaiFb', (ps['蔡其昌']||{}).facebook || []);
   renderList('tsaiNews', (ps['蔡其昌']||{}).news || []);
 
-  const byHour = pick(d, 'by_hour', 'by_hour_7d') || [];
+  const byHourRaw = pick(d, 'by_hour', 'by_hour_7d') || [];
+  // 7d 模式聚合到「日」（過去 7 天的週幾）；24h 模式維持小時級
+  const isWeek = mode === '7d';
+  const dayWeekdayLabel = (d) => {
+    // d = "2026-04-30"
+    const t = new Date(d + 'T00:00+08:00');  // 假設 Asia/Taipei
+    const wd = ['日','一','二','三','四','五','六'][t.getDay()];
+    return `${d.slice(5)}（週${wd}）`;
+  };
+  let byHour;
+  if (isWeek){
+    // Aggregate by_hour_7d to per-day counts; ensure all 7 days present (zero-fill)
+    const dayCounts = {};
+    byHourRaw.forEach(h => {
+      const day = (h.hour||'').slice(0, 10);
+      if (!day) return;
+      dayCounts[day] = (dayCounts[day] || 0) + (h.count || 0);
+    });
+    // Generate last 7 days in order
+    const today = new Date(); today.setHours(0,0,0,0);
+    const days = [];
+    for (let i = 6; i >= 0; i--){
+      const d2 = new Date(today.getTime() - i*86400000);
+      const ymd = d2.toLocaleDateString('en-CA', { timeZone: 'Asia/Taipei' });
+      days.push(ymd);
+    }
+    byHour = days.map(d => ({ hour: d, day: d, count: dayCounts[d] || 0 }));
+  } else {
+    byHour = byHourRaw;
+  }
 
   // 燈號狀態與原因（可視化）
   const an = m.anomaly || {};
   const reasons = an.reasons || [];
-  const es = d.event_stream || {};
-  const streamTxt = `分鐘級 ${ (es.minute||[]).length }｜小時級 ${ (es.hour||[]).length }｜日級 ${ (es.day||[]).length }`;
+  // 7d 模式優先用 event_stream_7d；fallback 到 24h（資料還沒重新生成時）
+  const es = (mode === '7d' && d.event_stream_7d) ? d.event_stream_7d : (d.event_stream || {});
+  state.eventStream = es;  // 給點擊 handler 用
+  const minuteN = (es.minute || []).length;
+  const hourN = (es.hour || []).length;
+  const dayN = (es.day || []).length;
+  const totalN = minuteN + hourN + dayN;
   const ls = document.getElementById('lightStatus');
-  if(ls){ ls.innerHTML = `<span class="badge ${level}">${LIGHT_ICON[level]||'🟢'} 今日燈號：${level}</span>`; }
+  if(ls){
+    // 兩盞燈：今日綜合 vs 昨日綜合（新聞 + 留言皆來自 DB 時序快取）
+    const todayArts = isWeek ? (state.articles7d || []) : (state.articles24h || []);
+    const prevArts  = isWeek ? (state.articlesPrev7d || []) : (state.articlesPrev24h || []);
+    const prevNewsResult = severityLightWithReason(prevArts);
+    // 昨日留言：用 data.json 內 comments_history.yesterday aggregate（從 social_comments DB 撈）
+    const yh = (d.comments_history || {}).yesterday || {total:0, red:0, yellow:0, green:0};
+    const prevCmtResult = (function(h){
+      // 跟 commentLightWithReason 同公式：紅 ≥3 或 ≥10%；黃 neg ≥10 或 ≥30%
+      const total = h.total || 0;
+      const red = h.red || 0;
+      const yellow = h.yellow || 0;
+      const neg = red + yellow;
+      if (total === 0) return { level: '綠', reasons: ['昨日尚無留言時序資料（DB cache 累積中）'], total };
+      if (red >= 3) return { level: '紅', reasons: [`昨日紅燈留言 ${red} 則（≥3 即紅）`], total };
+      if (red >= 1 && red/total >= 0.10) return { level: '紅', reasons: [`昨日紅燈留言佔比 ${(red/total*100).toFixed(0)}%（${red}/${total} ≥ 10%）`], total };
+      if (neg >= 10) return { level: '黃', reasons: [`昨日負面留言 ${neg} 則（${red} 紅 + ${yellow} 黃 ≥ 10）`], total };
+      if (neg >= 1 && neg/total >= 0.30) return { level: '黃', reasons: [`昨日負面留言佔比 ${(neg/total*100).toFixed(0)}%（${neg}/${total} ≥ 30%）`], total };
+      return { level: '綠', reasons: [], total };
+    })(yh);
+    const prevCmtLevel = prevCmtResult.level;
+    const prevLevel = LIGHT_RANK[prevNewsResult.level] >= LIGHT_RANK[prevCmtLevel] ? prevNewsResult.level : prevCmtLevel;
+    const todayLabel = isWeek ? '7 日燈號' : '今日燈號';
+    const prevLabel  = isWeek ? '前 7 日燈號' : '昨日燈號';
+
+    ls.innerHTML = `
+      <span class="badge ${overallLevel} ls-clickable" data-which="today" style="cursor:pointer" title="點擊查看今日燈號的觸發原因 + 相關新聞 + 留言">${LIGHT_ICON[overallLevel]||'🟢'} ${todayLabel}：${overallLevel}</span>
+      <span class="badge ${prevLevel} ls-clickable" data-which="prev" style="cursor:pointer;margin-left:10px" title="點擊查看${prevLabel}的觸發原因 + 相關新聞 + 留言">${LIGHT_ICON[prevLevel]||'🟢'} ${prevLabel}：${prevLevel}</span>
+    `;
+
+    ls.querySelectorAll('.ls-clickable').forEach(el => {
+      el.addEventListener('click', () => {
+        const which = el.dataset.which;
+        const arts = which === 'today' ? todayArts : prevArts;
+        const noteParts = [];
+        let commentsForModal = null;
+        let modalLevel;
+        if (which === 'today') {
+          // 含新聞 + 留言原因 + 把今日紅/黃留言帶進 modal
+          const todayNews = severityLightWithReason(todayArts);
+          (todayNews.reasons || []).forEach(r => noteParts.push(`📰 ${r}`));
+          const cmt = commentLightWithReason(state.comments);
+          (cmt.reasons || []).forEach(r => noteParts.push(`💬 ${r}`));
+          commentsForModal = [];
+          for (const plat of ['facebook','instagram','threads']) {
+            for (const c of (state.comments[plat] || [])) {
+              if (c.signal === 'red' || c.signal === 'yellow') {
+                commentsForModal.push({...c, platform: plat});
+              }
+            }
+          }
+          commentsForModal.sort((a,b) => {
+            const ra = a.signal === 'red' ? 0 : 1;
+            const rb = b.signal === 'red' ? 0 : 1;
+            if (ra !== rb) return ra - rb;
+            return (b.time_text || '').localeCompare(a.time_text || '');
+          });
+          modalLevel = overallLevel;
+        } else {
+          // 昨日：新聞 reason + 留言 reason（DB 時序撈出來）+ DB 撈昨日紅黃留言
+          (prevNewsResult.reasons || []).forEach(r => noteParts.push(`📰 ${r}`));
+          (prevCmtResult.reasons || []).forEach(r => noteParts.push(`💬 ${r}`));
+          commentsForModal = ((d.comments_history || {}).yesterday_redyellow || []);
+          modalLevel = prevLevel;
+        }
+        const note = noteParts.length ? `觸發原因：${noteParts.join('；')}` : '無觸發原因（綠燈）';
+        const title = `${which === 'today' ? todayLabel : prevLabel}：${modalLevel}`;
+        openArticlesModal(title, note, arts, commentsForModal);
+      });
+    });
+  }
   const lr = document.getElementById('lightReasons');
-  if(lr){ lr.textContent = reasons.length ? `觸發原因：${reasons.join('；')}` : '觸發原因：無（目前屬常態）'; }
+  if(lr){
+    // 合併 volume-based reasons (聲量 anomaly) 與 severity-based reasons (新聞嚴重度)
+    const combined = [];
+    const sevReasons = (mode === '7d'
+      ? severityLightWithReason(state.articles7d || []).reasons
+      : severityLightWithReason(state.articles24h || []).reasons);
+    sevReasons.forEach(r => combined.push(`📰 ${r}`));
+    reasons.forEach(r => combined.push(`📈 ${r}`));
+    lr.textContent = combined.length ? `觸發原因：${combined.join('；')}` : '觸發原因：無（目前屬常態 — 聲量未異常 + 無紅黃燈新聞）';
+  }
   const lstream = document.getElementById('lightStreams');
-  if(lstream){ lstream.innerHTML = `<span class="badge 綠">${streamTxt}</span>`; }
+  if(lstream){
+    if (totalN === 0){
+      lstream.innerHTML = `<span class="badge 綠">✓ 24h 內無事件需處理（資料尚未抓到，或目前確實無新聞）</span>`;
+    } else {
+      // 每個分流級別都做成可點按鈕（count > 0 才可點）
+      const btn = (icon, label, kind, n, color) => n > 0
+        ? `<button type="button" class="stream-btn" data-stream="${kind}" style="border-color:${color};color:${color}">${icon} ${label} ${n}</button>`
+        : `<span class="stream-btn-empty">${icon} ${label} ${n}</span>`;
+      const buttons = `
+        ${btn('🚨', '分鐘級', 'minute', minuteN, '#c43344')}
+        ${btn('⚠️', '小時級', 'hour', hourN, '#ffb84d')}
+        ${btn('📅', '日級', 'day', dayN, '#9fb0ea')}
+      `;
+      const explainer = `
+        <div class="hint" style="margin-top:6px;font-size:11px;line-height:1.7">
+          <strong>分流邏輯</strong>：依新聞 severity 分到不同響應級別（點 badge 看該級別所有新聞）。
+          <span style="color:#ff8a8a">🚨 分鐘級 = 紅燈事件</span>（刑事 / 公共安全 / 重大 — 候選人 / 服務處應在 30 分鐘內回應）；
+          <span style="color:#ffb84d">⚠️ 小時級 = 黃燈事件</span>（政治批評 / 環境問題 — 當小時內擬好回應稿）；
+          <span style="color:#9fb0ea">📅 日級 = 中性事件</span>（常態露出 — 日結時掃過即可，不必個別回應）。
+        </div>`;
+      lstream.innerHTML = `<div class="stream-row">${buttons}</div>${explainer}`;
+    }
+  }
   const lt = document.getElementById('lightTrend');
   if(lt){
     const avg = byHour.length ? byHour.reduce((a,b)=>a+(b.count||0),0)/byHour.length : 0;
-    const last = byHour.slice(-12).map(x => ({ h:(x.hour||'').slice(11,16), lv: lightLevelByCount(x.count||0, avg) }));
-    lt.innerHTML = '近12小時：' + last.map(x=>`${x.h} ${LIGHT_ICON[x.lv]}${x.lv}`).join(' ｜ ');
+    const renderClickable = (label, key, count, lv, kind /* 'hour' | 'day' */) => {
+      const inner = `${label} ${LIGHT_ICON[lv]}${lv}（${count} 則）`;
+      if (count > 0){
+        return `<button type="button" class="light-item" data-${kind}="${escapeHtml(key)}" title="點擊查看當${kind === 'day' ? '日' : '小時'}新聞">${inner}</button>`;
+      }
+      return `<span class="light-item-empty" title="該${kind === 'day' ? '日' : '小時'}沒有新聞">${inner}</span>`;
+    };
+    // 燈號邏輯：純依該時段內負面新聞分布（severity），不混入 volume —
+    // 避免「高聲量但 0 負面」也被標黃。聲量資訊由 chart 柱高 + 旁邊 N 則 數字呈現。
+    if (isWeek){
+      const items = byHour.map(x => {
+        const dayArticles = (state.articles7d || []).filter(a => a.day === x.day);
+        const lv = severityLightOf(dayArticles);
+        return renderClickable(dayWeekdayLabel(x.day), x.day, x.count || 0, lv, 'day');
+      });
+      lt.innerHTML = '近 7 日：' + items.join(' ｜ ');
+    } else {
+      const last = byHour.slice(-12);
+      const items = last.map(x => {
+        const hourArticles = (state.articles24h || []).filter(a => a.hour === x.hour);
+        const lv = severityLightOf(hourArticles);
+        const hourLabel = (x.hour || '').slice(11, 16);
+        return renderClickable(hourLabel, x.hour, x.count || 0, lv, 'hour');
+      });
+      lt.innerHTML = '近 12 小時：' + items.join(' ｜ ');
+    }
   }
 
   hourChart = upsertChart(hourChart, document.getElementById('hourChart'), {
-    type:'line',
+    type: isWeek ? 'bar' : 'line',
     data:{
-      labels:byHour.map(x=>(x.hour||'').slice(5,16)),
+      labels: isWeek
+        ? byHour.map(x => dayWeekdayLabel(x.day))
+        : byHour.map(x => (x.hour||'').slice(5, 16)),
       datasets:[{
         label:'聲量', data:byHour.map(x=>x.count||0),
-        borderColor:'#7fc0ff', backgroundColor:'rgba(127,192,255,0.2)',
-        tension:0.25, fill:true,
-        pointRadius:0, pointHoverRadius:5,
-        pointHoverBackgroundColor:'#fff', pointHoverBorderColor:'#7fc0ff',
+        borderColor:'#5a79ff', backgroundColor:isWeek ? '#5a79ff' : 'rgba(127,192,255,0.2)',
+        tension:0.25, fill:!isWeek,
+        pointRadius: isWeek ? 0 : 4,
+        pointHoverRadius: isWeek ? 0 : 7,
+        pointBackgroundColor:'rgba(127,192,255,0.4)',
+        pointBorderColor:'#5a79ff',
+        pointHoverBackgroundColor:'#fff', pointHoverBorderColor:'#5a79ff',
+        borderRadius: isWeek ? 6 : 0,
       }],
     },
     options:{
@@ -822,16 +3261,36 @@ async function run(){
         tooltip: darkTooltip({
           mode: 'index',
           displayColors: false,
-          callbacks: { label: (ctx) => `聲量：${ctx.parsed.y}` },
+          callbacks: { label: (ctx) => `聲量：${ctx.parsed.y}（點擊查看清單）` },
         }),
       },
-      scales:{x:{ticks:{color:'#b9c3f2'}}, y:{ticks:{color:'#b9c3f2'}, beginAtZero:true}}
+      scales:{x:{ticks:{color:'#b9c3f2'}}, y:{ticks:{color:'#b9c3f2'}, beginAtZero:true}},
+      onHover: (evt, els) => {
+        const target = evt?.native?.target;
+        if (target) target.style.cursor = els.length ? 'pointer' : 'default';
+      },
+      onClick: (evt, els) => {
+        if (!els.length) return;
+        const idx = els[0].index;
+        if (isWeek){
+          const dayKey = byHour[idx]?.day;
+          if (!dayKey) return;
+          const dayArticles = (state.articles7d || []).filter(a => a.day === dayKey);
+          openArticlesModal(`${dayWeekdayLabel(dayKey)} 聲量明細`, `當日所有與盧秀燕有關的事件`, dayArticles);
+        } else {
+          const hourFull = byHour[idx]?.hour;
+          if (!hourFull) return;
+          const hourArticles = (state.articles24h || []).filter(a => a.hour === hourFull);
+          const hourLabel = hourFull.slice(5, 16);
+          openArticlesModal(`${hourLabel} 聲量明細`, `該小時內所有與盧秀燕有關的事件`, hourArticles);
+        }
+      },
     }
   });
 
   platformChart = upsertChart(platformChart, document.getElementById('platformChart'), {
     type:'doughnut',
-    data:{ labels:byPlatform.map(x=>x.platform), datasets:[{data:byPlatform.map(x=>x.count), backgroundColor:['#4f8cff','#20c997','#ffc107','#e83e8c','#fd7e14','#6f42c1','#adb5bd']}] },
+    data:{ labels:byPlatform.map(x=>x.platform), datasets:[{data:byPlatform.map(x=>x.count), backgroundColor:['#5a79ff','#1f8a4c','#c08c12','#e83e8c','#fd7e14','#6f42c1','#adb5bd']}] },
     options:{
       plugins:{
         legend:{labels:{color:'#b9c3f2'}},
@@ -840,10 +3299,29 @@ async function run(){
             label: (ctx) => {
               const total = ctx.dataset.data.reduce((a,b)=>a+b, 0);
               const pct = total ? (ctx.parsed / total * 100).toFixed(1) : 0;
-              return ` ${ctx.label}：${ctx.parsed}（${pct}%）`;
+              return ` ${ctx.label}：${ctx.parsed}（${pct}%）（點擊查看清單）`;
             },
           },
         }),
+      },
+      onHover: (evt, els) => {
+        const target = evt?.native?.target;
+        if (target) target.style.cursor = els.length ? 'pointer' : 'default';
+      },
+      onClick: (evt, els) => {
+        if (!els.length) return;
+        const idx = els[0].index;
+        const plat = byPlatform[idx]?.platform;
+        if (!plat) return;
+        const map = pick(d, 'latest_by_platform_24h', 'latest_by_platform_7d') || {};
+        const items = (map[plat] || []).map(x => ({
+          title: x.title, url: x.url, time: x.time, publisher: x.publisher,
+          severity: x.severity,  // 燈號 badge
+        }));
+        const modeLabel = mode === '7d' ? '近 7 日' : '近 24h';
+        openArticlesModal(`平台分佈 — ${plat}（${modeLabel}）`,
+                          `命中 4 位市長關鍵字，平台 = ${plat}`,
+                          items);
       },
     }
   });
@@ -854,12 +3332,14 @@ async function run(){
       labels:names,
       datasets:[{
         label:'提及數', data:vals,
-        backgroundColor:['#20c997','#4f8cff','#ffc107','#e83e8c','#fd7e14'],
+        backgroundColor:['#1f8a4c','#5a79ff','#c08c12','#e83e8c','#fd7e14'],
         borderRadius:4,
         hoverBackgroundColor:'#ffffff40',
       }],
     },
     options:{
+      responsive:true,
+      maintainAspectRatio:false,
       interaction: INDEX_HOVER,
       hover: INDEX_HOVER,
       plugins:{
@@ -867,10 +3347,20 @@ async function run(){
         tooltip: darkTooltip({
           mode: 'index',
           displayColors: false,
-          callbacks: { label: (ctx) => `提及：${ctx.parsed.y} 則` },
+          callbacks: { label: (ctx) => `提及：${ctx.parsed.y} 則（點擊查看清單）` },
         }),
       },
-      scales:{x:{ticks:{color:'#b9c3f2'}}, y:{ticks:{color:'#b9c3f2'}, beginAtZero:true}}
+      scales:{x:{ticks:{color:'#b9c3f2'}}, y:{ticks:{color:'#b9c3f2'}, beginAtZero:true}},
+      onHover: (evt, els) => {
+        const target = evt?.native?.target;
+        if (target) target.style.cursor = els.length ? 'pointer' : 'default';
+      },
+      onClick: (evt, els) => {
+        if (!els.length) return;
+        const idx = els[0].index;
+        const name = names[idx];
+        if (name) openMentionModal(name);
+      },
     }
   });
 }
@@ -888,16 +3378,93 @@ function initCollapsibles(){
   });
 }
 
+function applyModeLabels(){
+  const isWeek = mode === '7d';
+  // Active button highlight
+  document.getElementById('mode24')?.classList.toggle('is-active', !isWeek);
+  document.getElementById('mode7d')?.classList.toggle('is-active', isWeek);
+  // 標題裡的 24h/24小時 文字統一替換成 7日
+  document.querySelectorAll('[data-window-label]').forEach(el => {
+    if (!el.dataset.origText) el.dataset.origText = el.textContent;
+    if (isWeek){
+      el.textContent = el.dataset.origText.replaceAll('24h', '7日').replaceAll('24小時', '7日');
+    } else {
+      el.textContent = el.dataset.origText;
+    }
+  });
+  // 「前 24h」card 比較期間 — 7d 模式下要說「前 7 日」
+  document.querySelectorAll('[data-window-label-prev]').forEach(el => {
+    if (!el.dataset.origText) el.dataset.origText = el.textContent;
+    el.textContent = isWeek ? '前 7 日聲量' : el.dataset.origText;
+  });
+  // 「今日新聞量」card 標題 — 7d 顯示「7 日新聞量」
+  document.querySelectorAll('[data-window-label-news]').forEach(el => {
+    if (!el.dataset.origText) el.dataset.origText = el.textContent;
+    el.textContent = isWeek ? '7 日新聞量' : el.dataset.origText;
+  });
+}
+
+function initStreamClicks(){
+  // 全域 event delegation — 處理「分鐘級 / 小時級 / 日級」按鈕點擊
+  document.addEventListener('click', (e) => {
+    const btn = e.target.closest('button.stream-btn');
+    if (!btn) return;
+    const kind = btn.dataset.stream;
+    const es = state.eventStream || {};
+    const arts = es[kind] || [];
+    const titles = {
+      minute: '🚨 分鐘級事件（紅燈 — 30 分鐘內回應）',
+      hour:   '⚠️ 小時級事件（黃燈 — 當小時內擬回應）',
+      day:    '📅 日級事件（綠燈 / 中性 — 日結時掃過）',
+    };
+    const notes = {
+      minute: '刑事 / 公共安全 / 重大事件詞觸發 — 候選人或服務處主任應 30 分鐘內回應',
+      hour:   '政治批評 / 環境問題詞觸發 — 當小時內擬好回應稿、決定要不要主動發',
+      day:    '一般露出，不必個別回應 — 日結時掃過確認沒有遺漏即可',
+    };
+    openArticlesModal(titles[kind] || kind, notes[kind] || '', arts);
+  });
+}
+
+function initLightTrendClicks(){
+  const lt = document.getElementById('lightTrend');
+  if (!lt || lt.dataset.boundClicks === '1') return;
+  lt.dataset.boundClicks = '1';
+  lt.addEventListener('click', (e) => {
+    const btn = e.target.closest('button.light-item');
+    if (!btn) return;
+    const day = btn.dataset.day;
+    const hour = btn.dataset.hour;
+    if (day){
+      const arts = (state.articles7d || []).filter(a => a.day === day);
+      // dayWeekdayLabel 在 run() scope；這裡 inline 算一次
+      const t = new Date(day + 'T00:00+08:00');
+      const wd = ['日','一','二','三','四','五','六'][t.getDay()];
+      openArticlesModal(`${day.slice(5)}（週${wd}） 燈號明細`, `當日所有與盧秀燕有關的事件`, arts);
+    } else if (hour){
+      const arts = (state.articles24h || []).filter(a => a.hour === hour);
+      openArticlesModal(`${hour.slice(5, 16)} 燈號明細`, `該小時內所有與盧秀燕有關的事件`, arts);
+    }
+  });
+}
+
 function initModes(){
   const b24 = document.getElementById('mode24');
   const b7 = document.getElementById('mode7d');
-  if(b24) b24.onclick = async ()=>{ mode='24h'; await run(); };
-  if(b7) b7.onclick = async ()=>{ mode='7d'; await run(); };
+  if(b24) b24.onclick = async ()=>{ mode='24h'; applyModeLabels(); await run(); };
+  if(b7) b7.onclick = async ()=>{ mode='7d'; applyModeLabels(); await run(); };
+  applyModeLabels();  // initial
 }
 
 initCollapsibles();
+initLightTrendClicks();
+initStreamClicks();
+initMentionModal();
+initHotspotDetailModal();
+initPastEventsToggle();
 initModes();
 initModal();
 initTopicHeat();
-run();
-setInterval(run,60000);
+// run() 失敗時 console.error，避免再發生 silent failure
+run().catch(e => console.error('run() failed:', e));
+setInterval(() => run().catch(e => console.error('run() interval failed:', e)), 60000);
