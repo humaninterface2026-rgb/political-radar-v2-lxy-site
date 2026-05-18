@@ -1,6 +1,6 @@
 {
   "date": "2026-05-18",
-  "snapshot_at": "2026-05-18T13:10:15.577872+00:00",
+  "snapshot_at": "2026-05-18T13:19:52.924711+00:00",
   "hotspots": [
     {
       "title": "台北軍購爭議",
@@ -23,6 +23,27 @@
           "signal": "yellow"
         }
       ]
+    },
+    {
+      "title": "新北鼠患事件",
+      "city": "新北",
+      "place": "新北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "新北議會談鼠患防治 綠營送直笛籲侯友宜強化治理",
+          "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E8%AD%B0%E6%9C%83%E8%AB%87%E9%BC%A0%E6%82%A3%E9%98%B2%E6%B2%BB-%E7%B6%A0%E7%87%9F%E9%80%81%E7%9B%B4%E7%AC%9B%E7%B1%B2%E4%BE%AF%E5%8F%8B%E5%AE%9C%E5%BC%B7%E5%8C%96%E6%B2%BB%E7%90%86-061656268.html",
+          "time": "2026-05-18 14:16:56",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
     },
     {
       "title": "桃園公廁議題",
@@ -88,27 +109,6 @@
       "comments": []
     },
     {
-      "title": "金門車禍事件",
-      "city": "金門",
-      "place": "金門縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "行車未保持距離 金湖車禍騎士擦挫傷",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdzYxWjlNWHJnZGYtM2xUMEY1cHFPMFNjYi1tV29acjN2em1qVlJvLWl0M08wemhBT3JxTFhIbmhKRVFTZXgyV1lfcWRxeU9GY0R2V1N5eTJ5ZTQ5cjZ6ZVFzM3dUQzA1LUo0S21HUThYUl8xbGl2dURXMFlfZFU0UkdYbDBJMmRSZkhPWWtjVkkwdHJ6b2Z1aDR6TWl6dFpYYXZKLUlQeGk5c3AwcHNmcmUyMk9hUldOWDZxQ3p0LU16aDRqeTZZV2N2cmtxdXpGZmtmcnlVM1JhUQ?oc=5",
-          "time": "2026-05-18 16:29:16",
-          "publisher": "Google News→金門GO資訊網",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "高雄車禍事件",
       "city": "高雄",
       "place": "高雄市政府",
@@ -130,9 +130,9 @@
       "comments": []
     },
     {
-      "title": "台北陳情/抗議",
-      "city": "台北",
-      "place": "台北市政府",
+      "title": "金門車禍事件",
+      "city": "金門",
+      "place": "金門縣政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -141,31 +141,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "老舊公寓無法申請鼠類偵防師 小黨抗議怒批北市府",
-          "url": "https://tw.news.yahoo.com/%E8%80%81%E8%88%8A%E5%85%AC%E5%AF%93%E7%84%A1%E6%B3%95%E7%94%B3%E8%AB%8B%E9%BC%A0%E9%A1%9E%E5%81%B5%E9%98%B2%E5%B8%AB-%E5%B0%8F%E9%BB%A8%E6%8A%97%E8%AD%B0%E6%80%92%E6%89%B9%E5%8C%97%E5%B8%82%E5%BA%9C-075216640.html",
-          "time": "2026-05-18 15:52:16",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "苗栗陳情/抗議",
-      "city": "苗栗",
-      "place": "苗栗縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "780銅鑼鄉西湖溪建太陽能光電場,九湖村民眾抗議有效,村長曾義男領導有方,村民大家歡歡喜喜快樂收場！",
-          "url": "https://more-news.tw/618172/",
-          "time": "2026-05-18 10:50:26",
-          "publisher": "墨新聞",
+          "title": "行車未保持距離 金湖車禍騎士擦挫傷",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdzYxWjlNWHJnZGYtM2xUMEY1cHFPMFNjYi1tV29acjN2em1qVlJvLWl0M08wemhBT3JxTFhIbmhKRVFTZXgyV1lfcWRxeU9GY0R2V1N5eTJ5ZTQ5cjZ6ZVFzM3dUQzA1LUo0S21HUThYUl8xbGl2dURXMFlfZFU0UkdYbDBJMmRSZkhPWWtjVkkwdHJ6b2Z1aDR6TWl6dFpYYXZKLUlQeGk5c3AwcHNmcmUyMk9hUldOWDZxQ3p0LU16aDRqeTZZV2N2cmtxdXpGZmtmcnlVM1JhUQ?oc=5",
+          "time": "2026-05-18 16:29:16",
+          "publisher": "Google News→金門GO資訊網",
           "severity": "yellow"
         }
       ],
@@ -193,6 +172,48 @@
       "comments": []
     },
     {
+      "title": "苗栗陳情/抗議",
+      "city": "苗栗",
+      "place": "苗栗縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "780銅鑼鄉西湖溪建太陽能光電場,九湖村民眾抗議有效,村長曾義男領導有方,村民大家歡歡喜喜快樂收場！",
+          "url": "https://more-news.tw/618172/",
+          "time": "2026-05-18 10:50:26",
+          "publisher": "墨新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台北陳情/抗議",
+      "city": "台北",
+      "place": "台北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "老舊公寓無法申請鼠類偵防師 小黨抗議怒批北市府",
+          "url": "https://tw.news.yahoo.com/%E8%80%81%E8%88%8A%E5%85%AC%E5%AF%93%E7%84%A1%E6%B3%95%E7%94%B3%E8%AB%8B%E9%BC%A0%E9%A1%9E%E5%81%B5%E9%98%B2%E5%B8%AB-%E5%B0%8F%E9%BB%A8%E6%8A%97%E8%AD%B0%E6%80%92%E6%89%B9%E5%8C%97%E5%B8%82%E5%BA%9C-075216640.html",
+          "time": "2026-05-18 15:52:16",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "台北弊案爭議",
       "city": "台北",
       "place": "台北市政府",
@@ -208,6 +229,27 @@
           "url": "https://udn.com/news/story/124652/9509577?from=udn-ch1_breaknews-1-cate1-news",
           "time": "2026-05-18 12:22:13",
           "publisher": "聯合新聞網",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台東詐騙案",
+      "city": "台東",
+      "place": "台東縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "詐騙簡訊釣出神作 沈文程李英宏合體「Nina來台東」",
+          "url": "https://tw.news.yahoo.com/%E8%A9%90%E9%A8%99%E7%B0%A1%E8%A8%8A%E9%87%A3%E5%87%BA%E7%A5%9E%E4%BD%9C-%E6%B2%88%E6%96%87%E7%A8%8B%E6%9D%8E%E8%8B%B1%E5%AE%8F%E5%90%88%E9%AB%94-nina%E4%BE%86%E5%8F%B0%E6%9D%B1-100940987.html",
+          "time": "2026-05-18 18:09:40",
+          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -249,27 +291,6 @@
           "title": "詐騙橫行警訊升高 西螺警社區座談築起防護網",
           "url": "https://tw.news.yahoo.com/%E8%A9%90%E9%A8%99%E6%A9%AB%E8%A1%8C%E8%AD%A6%E8%A8%8A%E5%8D%87%E9%AB%98-%E8%A5%BF%E8%9E%BA%E8%AD%A6%E7%A4%BE%E5%8D%80%E5%BA%A7%E8%AB%87%E7%AF%89%E8%B5%B7%E9%98%B2%E8%AD%B7%E7%B6%B2-071609946.html",
           "time": "2026-05-18 07:16:09",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "台東詐騙案",
-      "city": "台東",
-      "place": "台東縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "詐騙簡訊釣出神作 沈文程李英宏合體「Nina來台東」",
-          "url": "https://tw.news.yahoo.com/%E8%A9%90%E9%A8%99%E7%B0%A1%E8%A8%8A%E9%87%A3%E5%87%BA%E7%A5%9E%E4%BD%9C-%E6%B2%88%E6%96%87%E7%A8%8B%E6%9D%8E%E8%8B%B1%E5%AE%8F%E5%90%88%E9%AB%94-nina%E4%BE%86%E5%8F%B0%E6%9D%B1-100940987.html",
-          "time": "2026-05-18 18:09:40",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
@@ -939,62 +960,6 @@
           "title": "台中廢床墊一床床堆如萬里長城 議員憂成老鼠躲藏處",
           "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%BB%A2%E5%BA%8A%E5%A2%8A%E4%B8%80%E5%BA%8A%E5%BA%8A%E5%A0%86%E5%A6%82%E8%90%AC%E9%87%8C%E9%95%B7%E5%9F%8E-%E8%AD%B0%E5%93%A1%E6%86%82%E6%88%90%E8%80%81%E9%BC%A0%E8%BA%B2%E8%97%8F%E8%99%95-064314970.html",
           "time": "2026-05-18 14:43:14",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "新北鼠患事件",
-      "city": "新北",
-      "place": "新北市政府",
-      "level": "yellow",
-      "news_count": 6,
-      "comment_count": 0,
-      "negativity_pct": 67,
-      "is_urgent": true,
-      "urgency_score": 18,
-      "news_articles": [
-        {
-          "title": "3千張廢床墊堆成萬里長城 台中市議員憂鼠患：可學苗栗引進設備 | 鏡新聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xbWhCa2tLSlB5UW83WnJqRHJqeFpjVHo0aU9mc0UweUIxcEY1bGR5aWVfSEM3Q3dBRUI2S3AzcERKRDVuX1JVQXJ5a200SVZPVXBTZ0VR?oc=5",
-          "time": "2026-05-18 17:37:04",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "3千張廢床墊堆成萬里長城 台中市議員憂鼠患：可學苗栗引進設備",
-          "url": "https://tw.news.yahoo.com/3%E5%8D%83%E5%BC%B5%E5%BB%A2%E5%BA%8A%E5%A2%8A%E5%A0%86%E6%88%90%E8%90%AC%E9%87%8C%E9%95%B7%E5%9F%8E-%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%AD%B0%E5%93%A1%E6%86%82%E9%BC%A0%E6%82%A3-%E5%8F%AF%E5%AD%B8%E8%8B%97%E6%A0%97%E5%BC%95%E9%80%B2%E8%A8%AD%E5%82%99-085700047.html",
-          "time": "2026-05-18 16:57:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "潭子3千張床墊近1年沒人清運 疊成「萬里長城」 議員批：恐成鼠患溫床",
-          "url": "https://tw.news.yahoo.com/%E6%BD%AD%E5%AD%903%E5%8D%83%E5%BC%B5%E5%BA%8A%E5%A2%8A%E8%BF%911%E5%B9%B4%E6%B2%92%E4%BA%BA%E6%B8%85%E9%81%8B-%E7%96%8A%E6%88%90-%E8%90%AC%E9%87%8C%E9%95%B7%E5%9F%8E-%E8%AD%B0%E5%93%A1%E6%89%B9-%E6%81%90%E6%88%90%E9%BC%A0%E6%82%A3%E6%BA%AB%E5%BA%8A-075700822.html",
-          "time": "2026-05-18 15:57:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "台中潭子堆滿棄床墊如萬里山城 民眾擔心成老鼠跳床要求快處理",
-          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5440931",
-          "time": "2026-05-18 15:13:23",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "台中廢床墊一床床堆如萬里長城 議員憂成老鼠躲藏處",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%BB%A2%E5%BA%8A%E5%A2%8A%E4%B8%80%E5%BA%8A%E5%BA%8A%E5%A0%86%E5%A6%82%E8%90%AC%E9%87%8C%E9%95%B7%E5%9F%8E-%E8%AD%B0%E5%93%A1%E6%86%82%E6%88%90%E8%80%81%E9%BC%A0%E8%BA%B2%E8%97%8F%E8%99%95-064314970.html",
-          "time": "2026-05-18 14:43:14",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "新北議會談鼠患防治 綠營送直笛籲侯友宜強化治理",
-          "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E8%AD%B0%E6%9C%83%E8%AB%87%E9%BC%A0%E6%82%A3%E9%98%B2%E6%B2%BB-%E7%B6%A0%E7%87%9F%E9%80%81%E7%9B%B4%E7%AC%9B%E7%B1%B2%E4%BE%AF%E5%8F%8B%E5%AE%9C%E5%BC%B7%E5%8C%96%E6%B2%BB%E7%90%86-061656268.html",
-          "time": "2026-05-18 14:16:56",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
@@ -2154,11 +2119,11 @@
       "city": "新竹市",
       "place": "新竹市政府",
       "level": "yellow",
-      "news_count": 51,
+      "news_count": 47,
       "comment_count": 0,
-      "negativity_pct": 10,
+      "negativity_pct": 11,
       "is_urgent": false,
-      "urgency_score": 66,
+      "urgency_score": 62,
       "news_articles": [
         {
           "title": "九合一選戰進逼，新竹市長高虹安的司法案件進度，持續牽動地方政治板塊與朝野攻防。立法院內政委員會準備進行「公職人員選舉罷免法」朝野協商時，民眾黨擬提出再修正動議，放寬「易刑處分者」的參選資格，引發綠營反彈，質疑民眾黨意圖透過修法為高虹安清除司法障礙，民進黨立院黨團副幹事長陳培瑜更批評，此舉糟糕至極。",
@@ -2488,34 +2453,6 @@
           "time": "2026-05-17 23:46:37",
           "publisher": "Google News→LINE TODAY",
           "severity": null
-        },
-        {
-          "title": "銀髮好歌聲決賽x志願服務博覽會 竹市府展現高齡友善與世代共融豐碩成果",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3NiNUkyRUJQLW5fSF9sOXR5NVFhMGpIQ3ZEQWx2ZGpUQU52aEtfazV3RnUwUUp6UG81ZS1ybkNZTHgyVmN4QVBydmROck9KLV9ld2RacjhIZkVvWjBtUW9kTFB5MDlSSjlwS2ZRQVRRTDQ1b0tVcnQ2M0ZfYnk2OHh3d3ptLTBRaG9MNm85VQ?oc=5",
-          "time": "2026-05-17 21:13:22",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "竹市銀髮好歌聲決賽揭曉 志願服務博覽會29攤位涵蓋社福等多元服務",
-          "url": "https://focus.586.com.tw/2026/05/17/p387861/",
-          "time": "2026-05-17 21:13:06",
-          "publisher": "焦點時報",
-          "severity": null
-        },
-        {
-          "title": "竹市銀髮好歌聲決賽揭曉志願服務博覽會29攤位涵蓋社福等多元服務- 社會新聞- PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeW5OYU5OWkc3d0oyMGtyWVJhZTNtZXI3OUtrQW9xUjBxTWpSLUQ1TEVpQVFaamwzV1JQS3RqSFM1SFVnOHJPSndMSUVub1B2dUZ2V0E3ZVhhaWF0clZncVpFWlR1dHZvWmRmZm9FWGdtRjJvUVNQRFFhcmhIVmJtTFdKdmEtOFd1dm9wbw?oc=5",
-          "time": "2026-05-17 21:13:06",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "銀髮好歌聲決賽x志願服務博覽會 竹市府展現高齡友善與世代共融豐碩成果",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UMzFLcFdpZERzcEhkT2o2ZFV0UE9IM3hZRDFKdDZsSkJ0UENaWVNSdDN0TkVOcEJLcEpzUHhMYjhwX2htLTRTQTFtcGFqeHlZMFE?oc=5",
-          "time": "2026-05-17 21:13:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -2523,13 +2460,13 @@
     {
       "title": "台中市政動態",
       "city": "台中",
-      "place": "台中市北屯區",
+      "place": "台中市政府",
       "level": "yellow",
-      "news_count": 47,
+      "news_count": 46,
       "comment_count": 4,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 51,
+      "urgency_score": 50,
       "news_articles": [
         {
           "title": "張瀞分關心保險套缺貨問題 盧秀燕指示衛生與經發局密切掌握",
@@ -2851,13 +2788,6 @@
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Tbm1iWmttVXBJdWFCUGZCZE5mV2lZUW5rMXUxWGVmUnlUU044dktSZXdiaUh2SE1GdUJDd1lsM1p1eGk2TGV6MWNJTmlPTXNnT1N4bFZ6Ykc?oc=5",
           "time": "2026-05-17 21:25:00",
           "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "北屯松竹寺香火綿延近兩世紀 盧秀燕贈匾「慈悲濟世」感謝護佑地方",
-          "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1jSXNsc1pGMTh3RGFMb24tZDFWZ3RHOUNBRThTZ2plM0drbWJnTVljY2FSSnhhYkdOVUE?oc=5",
-          "time": "2026-05-17 21:11:10",
-          "publisher": "Google News→ENN台灣電報",
           "severity": null
         }
       ],
@@ -5421,11 +5351,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 95,
+      "news_count": 82,
       "comment_count": 0,
-      "negativity_pct": 6,
+      "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 113,
+      "urgency_score": 94,
       "news_articles": [
         {
           "title": "新北小吃店開「20張同號發票」！發文求救沒追回 5/25恐慘賠2億 | 生活",
@@ -5449,39 +5379,11 @@
           "severity": null
         },
         {
-          "title": "台中驚見「床墊萬里長城」3千張廢床墊堆8個月 環保局：去化發包作業中",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E9%A9%9A%E8%A6%8B-%E5%BA%8A%E5%A2%8A%E8%90%AC%E9%87%8C%E9%95%B7%E5%9F%8E-3%E5%8D%83%E5%BC%B5%E5%BB%A2%E5%BA%8A%E5%A2%8A%E5%A0%868%E5%80%8B%E6%9C%88-%E7%92%B0%E4%BF%9D%E5%B1%80-%E5%8E%BB%E5%8C%96%E7%99%BC%E5%8C%85%E4%BD%9C%E6%A5%AD%E4%B8%AD-113634591.html",
-          "time": "2026-05-18 19:36:34",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
           "title": "新北鼓藝節20週年震鼓爍今 震撼全場",
           "url": "https://taiwanreports.com/archives/987023",
           "time": "2026-05-18 19:24:31",
           "publisher": "臺灣導報",
           "severity": null
-        },
-        {
-          "title": "台中廢床墊堆成「萬里長城」挨轟 市府：1年去化3萬張",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%BB%A2%E5%BA%8A%E5%A2%8A%E5%A0%86%E6%88%90-%E8%90%AC%E9%87%8C%E9%95%B7%E5%9F%8E-%E6%8C%A8%E8%BD%9F-%E5%B8%82%E5%BA%9C-1%E5%B9%B4%E5%8E%BB%E5%8C%963%E8%90%AC%E5%BC%B5-102900792.html",
-          "time": "2026-05-18 18:29:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "台中驚見「床墊萬里長城」堆3千張 環保局：去化發包作業中",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEMDJpOE5OcVNsWU1OQTFvc0JUQ0JsMkV6ZFlDZFJ5MnZQY1lJTGlnQzVZUHNndU4wVUJYWUxtckx4RWd5dzB1U05OaEFrbzl0TkRYRGxVbFF4YmlURGR5WFUyUGNodlNWbnU0?oc=5",
-          "time": "2026-05-18 18:17:00",
-          "publisher": "Google News→翻爆",
-          "severity": "yellow"
-        },
-        {
-          "title": "台中潭子廢床墊堆成「萬里長城」！議員轟手工拆解太慢",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E6%BD%AD%E5%AD%90%E5%BB%A2%E5%BA%8A%E5%A2%8A%E5%A0%86%E6%88%90-%E8%90%AC%E9%87%8C%E9%95%B7%E5%9F%8E-%E8%AD%B0%E5%93%A1%E8%BD%9F%E6%89%8B%E5%B7%A5%E6%8B%86%E8%A7%A3%E5%A4%AA%E6%85%A2-100701877.html",
-          "time": "2026-05-18 18:07:01",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         },
         {
           "title": "發票開錯虧大了！新北小麵店誤開多張「同號發票」 20張找不回恐賠付2億獎金",
@@ -5491,24 +5393,10 @@
           "severity": null
         },
         {
-          "title": "3千張廢床墊堆成萬里長城 台中市議員憂鼠患：可學苗栗引進設備 | 鏡新聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xbWhCa2tLSlB5UW83WnJqRHJqeFpjVHo0aU9mc0UweUIxcEY1bGR5aWVfSEM3Q3dBRUI2S3AzcERKRDVuX1JVQXJ5a200SVZPVXBTZ0VR?oc=5",
-          "time": "2026-05-18 17:37:04",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
           "title": "新北3964處熱區漢他病毒風險升高 綠議員憂第一線清潔人員承受高風險",
           "url": "https://cnews.com.tw/248260518a05/",
           "time": "2026-05-18 17:34:14",
           "publisher": "匯流新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "台中驚見「床墊萬里長城」堆3千張 環保局：去化發包作業中",
-          "url": "https://www.chinatimes.com/realtimenews/20260518003065-260405",
-          "time": "2026-05-18 17:25:40",
-          "publisher": "中時新聞網",
           "severity": "yellow"
         },
         {
@@ -5554,13 +5442,6 @@
           "severity": null
         },
         {
-          "title": "3千張廢床墊堆成萬里長城 台中市議員憂鼠患：可學苗栗引進設備",
-          "url": "https://tw.news.yahoo.com/3%E5%8D%83%E5%BC%B5%E5%BB%A2%E5%BA%8A%E5%A2%8A%E5%A0%86%E6%88%90%E8%90%AC%E9%87%8C%E9%95%B7%E5%9F%8E-%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%AD%B0%E5%93%A1%E6%86%82%E9%BC%A0%E6%82%A3-%E5%8F%AF%E5%AD%B8%E8%8B%97%E6%A0%97%E5%BC%95%E9%80%B2%E8%A8%AD%E5%82%99-085700047.html",
-          "time": "2026-05-18 16:57:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
           "title": "國民黨新北市長參選人李四川今天上午至三峽谷芳茶園，與第七屆百大青農暨新北市績優農民李昌峻對談，李四川強調，當選後將以42年的行政經驗讓市府做青農最堅實的後盾，導入科技轉型走精緻化路線，用實際行動擦亮新北茶產業的品牌。",
           "url": "https://udn.com/news/story/124652/9509950?from=udn-ch1_breaknews-1-cate1-news",
           "time": "2026-05-18 16:12:35",
@@ -5589,13 +5470,6 @@
           "severity": "yellow"
         },
         {
-          "title": "台中潭子堆滿棄床墊如萬里山城 民眾擔心成老鼠跳床要求快處理",
-          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5440931",
-          "time": "2026-05-18 15:13:23",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
           "title": "李四川拋樹林、鶯歌鐵路地下化 盼板橋延伸至桃園帶動發展 | CTWANT",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WUEV0cWdPOGtwY05FYnRfTnNvVHVLNTd6SnZEek5ySFVTV1M2NWhEOFIwZXdobVFLR2lZT3Awb2MwZ29iZExzT3NqRWJzRGNGRHl2Vjdn?oc=5",
           "time": "2026-05-18 15:13:08",
@@ -5606,13 +5480,6 @@
           "title": "新北榮服處永和分區座談會 傾聽榮民心聲廣納建言",
           "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E6%A6%AE%E6%9C%8D%E8%99%95%E6%B0%B8%E5%92%8C%E5%88%86%E5%8D%80%E5%BA%A7%E8%AB%87%E6%9C%83-%E5%82%BE%E8%81%BD%E6%A6%AE%E6%B0%91%E5%BF%83%E8%81%B2%E5%BB%A3%E7%B4%8D%E5%BB%BA%E8%A8%80-070000829.html",
           "time": "2026-05-18 15:00:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "潭子廢床墊像萬里長城！ 中市府︰已辦發包作業盡速處理完畢",
-          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPSVNuNXFEbVZJSC1pOWtBWXdvNTlpeUxJZjcxWTVndzVONl9XQVE1Umk4QW0yQ0V1WGJud24xdy13REppU3pwUnlCSzhSTGRFam9xRFFERktiRXlYNVBtai1WWjd4cDRQV21RZFhKS2lKV2RlV0ZFMlZvZzcyOUZ0Y1c2VHZxUXc4UnlUTkJJR2ZCVkhha3NhUFc2MWtHX3VpTmFlcFRfbWlFLUk5aExhTHVYQnRpbks2ZGViNDRCaV9rVHpsY3pJYkxQdWhnWFF6ck9DQ1BZclpYV0xVdEN0TGlXLTJRanZJVEgtMUNLbTVGSHg1V212RHkxN2EzNGFTbkdtbmJIeHpwcTJZODRBSENTUGdwcHdKTkdoZnU5RWJPWEJYbGZLOGlBa29yUW5oUHZTakhPZTMwSHpBWV9xeEwteWJwN3hyM3NydWtldGc4SHphbUFySnpBSnRJNTR4X3lpU3RlWTlGMG55SXBXRUpreXdVa3VsV2t1WUFkZF9wdw?oc=5",
-          "time": "2026-05-18 14:58:58",
           "publisher": "Yahoo新聞",
           "severity": null
         },
@@ -5638,13 +5505,6 @@
           "severity": null
         },
         {
-          "title": "台中廢床墊一床床堆如萬里長城 議員憂成老鼠躲藏處",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%BB%A2%E5%BA%8A%E5%A2%8A%E4%B8%80%E5%BA%8A%E5%BA%8A%E5%A0%86%E5%A6%82%E8%90%AC%E9%87%8C%E9%95%B7%E5%9F%8E-%E8%AD%B0%E5%93%A1%E6%86%82%E6%88%90%E8%80%81%E9%BC%A0%E8%BA%B2%E8%97%8F%E8%99%95-064314970.html",
-          "time": "2026-05-18 14:43:14",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
           "title": "新北學生國際力UP 「培力昂揚2.0」最高享全額補助",
           "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E5%AD%B8%E7%94%9F%E5%9C%8B%E9%9A%9B%E5%8A%9Bup-%E5%9F%B9%E5%8A%9B%E6%98%82%E6%8F%9A2-0-%E6%9C%80%E9%AB%98%E4%BA%AB%E5%85%A8%E9%A1%8D%E8%A3%9C%E5%8A%A9-063318068.html",
           "time": "2026-05-18 14:33:18",
@@ -5664,13 +5524,6 @@
           "time": "2026-05-18 14:18:13",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "台中廢床墊堆成萬里長城 議員憂鼠害批大清消白忙",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%BB%A2%E5%BA%8A%E5%A2%8A%E5%A0%86%E6%88%90%E8%90%AC%E9%87%8C%E9%95%B7%E5%9F%8E-%E8%AD%B0%E5%93%A1%E6%86%82%E9%BC%A0%E5%AE%B3%E6%89%B9%E5%A4%A7%E6%B8%85%E6%B6%88%E7%99%BD%E5%BF%99-061737091.html",
-          "time": "2026-05-18 14:17:37",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         },
         {
           "title": "新北打擊「拖吊蟑螂」道路救援新規範3大指引護車主",
@@ -5727,13 +5580,6 @@
           "time": "2026-05-18 13:36:41",
           "publisher": "中時新聞網",
           "severity": null
-        },
-        {
-          "title": "台中3千張廢床墊堆成「萬里長城」 議員籲引進破碎機加速去化",
-          "url": "https://news.nextapple.com/life/20260518/C2E1A9C211B854872358E39597E62482",
-          "time": "2026-05-18 13:34:49",
-          "publisher": "壹蘋新聞網",
-          "severity": "yellow"
         },
         {
           "title": "新北警「共植三一廉政安定樹」有獎徵答起跑 邀您反貪倡廉抽好禮",
@@ -6083,13 +5929,6 @@
           "url": "https://www.nownews.com/news/6837198",
           "time": "2026-05-17 21:26:49",
           "publisher": "NOWnews今日新聞",
-          "severity": null
-        },
-        {
-          "title": "淡江大橋通車首週末 新北交通局：車多緩行順暢",
-          "url": "https://www.cna.com.tw/news/aloc/202605170228.aspx",
-          "time": "2026-05-17 21:15:09",
-          "publisher": "中央社",
           "severity": null
         }
       ],
@@ -6814,11 +6653,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 111,
+      "news_count": 110,
       "comment_count": 0,
       "negativity_pct": 1,
       "is_urgent": false,
-      "urgency_score": 114,
+      "urgency_score": 113,
       "news_articles": [
         {
           "title": "桃園YouBike站點六都最少！民眾通勤尖峰常遇「無車可借」",
@@ -7528,11 +7367,11 @@
       "city": "高雄",
       "place": "高雄市左營區",
       "level": "red",
-      "news_count": 160,
+      "news_count": 159,
       "comment_count": 0,
-      "negativity_pct": 12,
+      "negativity_pct": 13,
       "is_urgent": false,
-      "urgency_score": 220,
+      "urgency_score": 219,
       "news_articles": [
         {
           "title": "帶動南部半導體S廊帶產業發展 陳其邁：極力爭取24小時國際機場 布局未來20年高雄城市發展",
@@ -8242,11 +8081,11 @@
       "city": "台中",
       "place": "台中市大里區",
       "level": "red",
-      "news_count": 191,
+      "news_count": 189,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 203,
+      "urgency_score": 201,
       "news_articles": [
         {
           "title": "台中火車站驚見吞雲吐霧 男站月台抽菸 煙蒂還丟鐵軌",
@@ -8958,10 +8797,17 @@
       "level": "red",
       "news_count": 223,
       "comment_count": 0,
-      "negativity_pct": 4,
+      "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 253,
+      "urgency_score": 256,
       "news_articles": [
+        {
+          "title": "北市亂象多！市府慢半拍只會推中央？范世平揭蔣萬安危機！",
+          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNRm9XTWxOb0txYVZTbHpady1qTURpeGMzS3FOcjRaeE1mc2ZOb0lkdkMwcHk3RmNlMDlUNmcydzVnd004bXdSb2ZXWWtaa3FzbWt6MTFnTHNxQmx2aUR1TWdRMnpicnNabWZ0SFNNRHAtem5WVFhIQ0o5V3JEeWw5UWx0d3lmZGRjYmYyc196b0RJQ2NCVnRpLWdURVppR1VyVkNLWFBIZ0EzcVpTSGZ5NWFBcnhXOEpLajcyM056TlVnRVBtRV81ZXVidUVIMFZvTzlDa1RJci1WNUtfUmZQU0Q4d1U3NmVYRWYzejdDTDdUeXN0bzh1QzFWZFRjZlNWdy1NSTZtUDJxTEFUYnVGVC13TDZ3S1VNVTI3WWFzWXVmTmJ4V3ZDb1RLZi12c0pOb0xVS09ZX1c4anc4RjZuT3NLMFdUQV80Tk94Y3dVMlQ0ZDVPSVI4SWFqMTRLY3JSRE9RWGJlXzRucGJEM0FvY0pFdzJJZw?oc=5",
+          "time": "2026-05-18 21:00:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
         {
           "title": "聲量逆轉超車蔣萬安 粉專：沈伯洋正改寫台北選戰節奏",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16OVJyYkx3YVV2aC1Cb3Mza0hzdmRReFNvOWNjRUQtY0xhT3N2SU11RWVVamlGY05xOWRyV3prdUM3b0ttTEVjUk1WNW00TlVRbjhaam5hLW5qaVdrV21hONIBZkFVX3lxTFBjQzBlalM0MlIyNzNGU2xjelQtUzFGLVVTdEpqVmJLTTViS3VHRnk1MW05Q2pjc3NjRmZZazZxbWpDelNKdzRCdjBDR0pDR2VRemROOHdRazN5cktCSC1hdk03blA0QQ?oc=5",
@@ -9653,13 +9499,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fS1RJVVh2MVlKUG51YXJENWF0T1pMd04tR2wwcW9zcUVjWVdRX2YzRllqNnYyRGhWcUcwclQwajktM0VTMmFpWWpDWW14RGEtOUZFcW1B?oc=5",
           "time": "2026-05-18 13:31:51",
           "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "全台輔選？蔣萬安訪雲林看花生、鰻魚、鯛魚產業",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPSTJnLVdkbG53YVlrRlJWMWFFTFhseE5meXM2V3U0OFc4SEVPd09LVUR4Q0VJZWpZYlhiQlRLTWFFdjItWG5xdXFGclhpMVpwcm55bHFDWDE2YVdLUkhIblFRbFVvVmpuZ3lVTUxNTUZGUHdKUTAzZkJrRFRhZzVMWk9xb1plbWlUYzlFMEdYaGFvZjcwR00tMy1HOS1ZcHpUbHRhTjhtaDhiRUF2c0VjUmRSSkVBTExFa09DLWxUU0VXaG1pOEhZaDA3T3BJaGp0UmZWYjhhSEcwdjVNaW1QREdmOTdkV0FKeHk1aW5iRm5wZFdpeXBOUGxzS3FuRUlBY0V3SW1vYXVNR1lFU2dVRHNNLUJ5OUFwNXQ2cFNwRnlGX3hiVnU2MGVINWl3TWl0MW9JbzVaUFdPSlk?oc=5",
-          "time": "2026-05-18 13:25:43",
-          "publisher": "Yahoo新聞",
           "severity": null
         }
       ],

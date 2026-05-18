@@ -9345,7 +9345,7 @@
     },
     {
       "date": "2026-05-18",
-      "snapshot_at": "2026-05-18T13:10:15.577872+00:00",
+      "snapshot_at": "2026-05-18T13:19:52.924711+00:00",
       "hotspots": [
         {
           "title": "台北軍購爭議",
@@ -9358,6 +9358,20 @@
           "is_urgent": false,
           "urgency_score": 1,
           "sample_titles": []
+        },
+        {
+          "title": "新北鼠患事件",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "新北議會談鼠患防治 綠營送直笛籲侯友宜強化治理"
+          ]
         },
         {
           "title": "桃園公廁議題",
@@ -9402,20 +9416,6 @@
           ]
         },
         {
-          "title": "金門車禍事件",
-          "city": "金門",
-          "place": "金門縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "行車未保持距離 金湖車禍騎士擦挫傷"
-          ]
-        },
-        {
           "title": "高雄車禍事件",
           "city": "高雄",
           "place": "高雄市政府",
@@ -9430,9 +9430,9 @@
           ]
         },
         {
-          "title": "台北陳情/抗議",
-          "city": "台北",
-          "place": "台北市政府",
+          "title": "金門車禍事件",
+          "city": "金門",
+          "place": "金門縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -9440,21 +9440,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "老舊公寓無法申請鼠類偵防師 小黨抗議怒批北市府"
-          ]
-        },
-        {
-          "title": "苗栗陳情/抗議",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "780銅鑼鄉西湖溪建太陽能光電場,九湖村民眾抗議有效,村長曾義男領導有方,村民大家歡歡喜喜快樂收場！"
+            "行車未保持距離 金湖車禍騎士擦挫傷"
           ]
         },
         {
@@ -9472,6 +9458,34 @@
           ]
         },
         {
+          "title": "苗栗陳情/抗議",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "780銅鑼鄉西湖溪建太陽能光電場,九湖村民眾抗議有效,村長曾義男領導有方,村民大家歡歡喜喜快樂收場！"
+          ]
+        },
+        {
+          "title": "台北陳情/抗議",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "老舊公寓無法申請鼠類偵防師 小黨抗議怒批北市府"
+          ]
+        },
+        {
           "title": "台北弊案爭議",
           "city": "台北",
           "place": "台北市政府",
@@ -9483,6 +9497,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "2024年大選期間北市41位里長赴陸旅遊遭調查，最後都不起訴處分。民進黨北市長參選人沈伯洋日前稱不能因警方調一個案件、詢"
+          ]
+        },
+        {
+          "title": "台東詐騙案",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "詐騙簡訊釣出神作 沈文程李英宏合體「Nina來台東」"
           ]
         },
         {
@@ -9511,20 +9539,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "詐騙橫行警訊升高 西螺警社區座談築起防護網"
-          ]
-        },
-        {
-          "title": "台東詐騙案",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "詐騙簡訊釣出神作 沈文程李英宏合體「Nina來台東」"
           ]
         },
         {
@@ -9765,22 +9779,6 @@
           ]
         },
         {
-          "title": "新北鼠患事件",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "yellow",
-          "news_count": 6,
-          "comment_count": 0,
-          "negativity_pct": 67,
-          "is_urgent": true,
-          "urgency_score": 18,
-          "sample_titles": [
-            "3千張廢床墊堆成萬里長城 台中市議員憂鼠患：可學苗栗引進設備 | 鏡新聞",
-            "3千張廢床墊堆成萬里長城 台中市議員憂鼠患：可學苗栗引進設備",
-            "潭子3千張床墊近1年沒人清運 疊成「萬里長城」 議員批：恐成鼠患溫床"
-          ]
-        },
-        {
           "title": "新竹縣地方動態",
           "city": "新竹縣",
           "place": "新竹縣政府",
@@ -9897,11 +9895,11 @@
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "yellow",
-          "news_count": 51,
+          "news_count": 47,
           "comment_count": 0,
-          "negativity_pct": 10,
+          "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 66,
+          "urgency_score": 62,
           "sample_titles": [
             "九合一選戰進逼，新竹市長高虹安的司法案件進度，持續牽動地方政治板塊與朝野攻防。立法院內政委員會準備進行「公職人員選舉罷免",
             "被民眾黨開除黨籍的前立委李貞秀昨日在直播中亂開砲，並點名新竹市長高虹安在鴻海開會時「根本是站在旁邊講不上話的人」，且所謂",
@@ -9911,13 +9909,13 @@
         {
           "title": "台中市政動態",
           "city": "台中",
-          "place": "台中市北屯區",
+          "place": "台中市政府",
           "level": "yellow",
-          "news_count": 47,
+          "news_count": 46,
           "comment_count": 4,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 51,
+          "urgency_score": 50,
           "sample_titles": [
             "張瀞分關心保險套缺貨問題 盧秀燕指示衛生與經發局密切掌握",
             "83歲「媽祖婆」女議員憂心：戰爭→保險套缺貨官方證實漲價30％！盧秀燕想這樣做| 醫藥健康",
@@ -10041,11 +10039,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 95,
+          "news_count": 82,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 113,
+          "urgency_score": 94,
           "sample_titles": [
             "新北小吃店開「20張同號發票」！發文求救沒追回 5/25恐慘賠2億 | 生活",
             "新北市長藍綠陷熱戰　李四川、蘇巧慧民調拉鋸　雙方盼破同溫層",
@@ -10073,11 +10071,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 111,
+          "news_count": 110,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 114,
+          "urgency_score": 113,
           "sample_titles": [
             "桃園YouBike站點六都最少！民眾通勤尖峰常遇「無車可借」",
             "桃園榮家帶長輩「蓋」皂香回憶 懷舊之旅暖人心",
@@ -10089,11 +10087,11 @@
           "city": "高雄",
           "place": "高雄市左營區",
           "level": "red",
-          "news_count": 160,
+          "news_count": 159,
           "comment_count": 0,
-          "negativity_pct": 12,
+          "negativity_pct": 13,
           "is_urgent": false,
-          "urgency_score": 220,
+          "urgency_score": 219,
           "sample_titles": [
             "帶動南部半導體S廊帶產業發展 陳其邁：極力爭取24小時國際機場 布局未來20年高雄城市發展",
             "亞資中心高雄專區試辦近1年！金管會主委南下視察 4成效顯現 | 產業動態 | 財經",
@@ -10105,11 +10103,11 @@
           "city": "台中",
           "place": "台中市大里區",
           "level": "red",
-          "news_count": 191,
+          "news_count": 189,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 203,
+          "urgency_score": 201,
           "sample_titles": [
             "台中火車站驚見吞雲吐霧 男站月台抽菸 煙蒂還丟鐵軌",
             "關心太平成長，肯定城市進步，期許市府改善基層量能，黃佳恬議員鼓勵台中往智慧幸福、環保永續城市邁進",
@@ -10123,13 +10121,13 @@
           "level": "red",
           "news_count": 223,
           "comment_count": 0,
-          "negativity_pct": 4,
+          "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 253,
+          "urgency_score": 256,
           "sample_titles": [
+            "北市亂象多！市府慢半拍只會推中央？范世平揭蔣萬安危機！",
             "聲量逆轉超車蔣萬安 粉專：沈伯洋正改寫台北選戰節奏",
-            "聲量逆轉超車蔣萬安 粉專：沈伯洋正改寫台北選戰節奏",
-            "攜北農北漁推廣雲林優質農漁產品 蔣萬安赴雲林考察營養午餐食材 | 政經焦點 | 要聞"
+            "聲量逆轉超車蔣萬安 粉專：沈伯洋正改寫台北選戰節奏"
           ]
         }
       ]
