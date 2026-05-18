@@ -9345,7 +9345,7 @@
     },
     {
       "date": "2026-05-18",
-      "snapshot_at": "2026-05-18T12:47:26.634561+00:00",
+      "snapshot_at": "2026-05-18T12:55:02.872854+00:00",
       "hotspots": [
         {
           "title": "台北軍購爭議",
@@ -9402,20 +9402,6 @@
           ]
         },
         {
-          "title": "高雄車禍事件",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "高雄岡山1死5傷車禍死亡駕駛相驗 胸腹部重擊致死"
-          ]
-        },
-        {
           "title": "金門車禍事件",
           "city": "金門",
           "place": "金門縣政府",
@@ -9427,6 +9413,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "行車未保持距離 金湖車禍騎士擦挫傷"
+          ]
+        },
+        {
+          "title": "高雄車禍事件",
+          "city": "高雄",
+          "place": "高雄市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "高雄岡山1死5傷車禍死亡駕駛相驗 胸腹部重擊致死"
           ]
         },
         {
@@ -9486,6 +9486,20 @@
           ]
         },
         {
+          "title": "屏東詐騙案",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "房地產詐騙風險升高 屏東推雙地政士防交易陷阱"
+          ]
+        },
+        {
           "title": "雲林詐騙案",
           "city": "雲林",
           "place": "雲林縣政府",
@@ -9511,20 +9525,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "桃園計程車司機「春節計費」詐騙外地客遭議員點名：是慣犯"
-          ]
-        },
-        {
-          "title": "屏東詐騙案",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "房地產詐騙風險升高 屏東推雙地政士防交易陷阱"
           ]
         },
         {
@@ -9881,11 +9881,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "yellow",
-          "news_count": 42,
+          "news_count": 41,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 42,
+          "urgency_score": 41,
           "sample_titles": [
             "影音/展現學習成果與藝文能量 彰化市社會學園藝文研習成果展精彩登場",
             "醫美偷拍連環爆 南投縣議員林友友要求啟動「反針孔」",
@@ -10025,15 +10025,15 @@
           "city": "雲林",
           "place": "雲林縣政府",
           "level": "red",
-          "news_count": 55,
+          "news_count": 57,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 58,
+          "urgency_score": 60,
           "sample_titles": [
-            "影音／綠營困台北失效？蔣萬安奔雲林、宜蘭輔選",
-            "《英國達人秀》金按鈕得主返台首演 「即將成真火舞團」點亮雲林夜空",
-            "《雲林開拍：極限3000》徵件活動開跑 冠軍20萬獎金等您來挑戰！"
+            "攜北農北漁推廣雲林優質農漁產品 蔣萬安赴雲林考察營養午餐食材 | 政經焦點 | 要聞",
+            "北市免費營養午餐將上路 蔣萬安考察雲林農漁食材與食安",
+            "影音／綠營困台北失效？蔣萬安奔雲林、宜蘭輔選"
           ]
         },
         {
@@ -10041,11 +10041,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 96,
+          "news_count": 95,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 114,
+          "urgency_score": 113,
           "sample_titles": [
             "新北小吃店開「20張同號發票」！發文求救沒追回 5/25恐慘賠2億 | 生活",
             "新北市長藍綠陷熱戰　李四川、蘇巧慧民調拉鋸　雙方盼破同溫層",
@@ -10089,11 +10089,11 @@
           "city": "高雄",
           "place": "高雄市左營區",
           "level": "red",
-          "news_count": 161,
+          "news_count": 160,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 221,
+          "urgency_score": 220,
           "sample_titles": [
             "帶動南部半導體S廊帶產業發展 陳其邁：極力爭取24小時國際機場 布局未來20年高雄城市發展",
             "亞資中心高雄專區試辦近1年！金管會主委南下視察 4成效顯現 | 產業動態 | 財經",
@@ -10105,11 +10105,11 @@
           "city": "台中",
           "place": "台中市大里區",
           "level": "red",
-          "news_count": 192,
+          "news_count": 191,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 204,
+          "urgency_score": 203,
           "sample_titles": [
             "台中火車站驚見吞雲吐霧 男站月台抽菸 煙蒂還丟鐵軌",
             "關心太平成長，肯定城市進步，期許市府改善基層量能，黃佳恬議員鼓勵台中往智慧幸福、環保永續城市邁進",
@@ -10121,15 +10121,15 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 219,
+          "news_count": 222,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 249,
+          "urgency_score": 252,
           "sample_titles": [
-            "新北市長藍綠陷熱戰　李四川、蘇巧慧民調拉鋸　雙方盼破同溫層",
-            "北市「這2區」新舊屋每坪價差破50萬 買老屋現省1500萬",
-            "新北市政府「淡水海都祭」活動 宏泰人壽海都廣場舉辦成功"
+            "聲量逆轉超車蔣萬安 粉專：沈伯洋正改寫台北選戰節奏",
+            "攜北農北漁推廣雲林優質農漁產品 蔣萬安赴雲林考察營養午餐食材 | 政經焦點 | 要聞",
+            "北市免費營養午餐將上路 蔣萬安考察雲林農漁食材與食安"
           ]
         }
       ]

@@ -1,6 +1,6 @@
 {
   "date": "2026-05-18",
-  "snapshot_at": "2026-05-18T12:47:26.634561+00:00",
+  "snapshot_at": "2026-05-18T12:55:02.872854+00:00",
   "hotspots": [
     {
       "title": "台北軍購爭議",
@@ -88,27 +88,6 @@
       "comments": []
     },
     {
-      "title": "高雄車禍事件",
-      "city": "高雄",
-      "place": "高雄市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "高雄岡山1死5傷車禍死亡駕駛相驗 胸腹部重擊致死",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5441013",
-          "time": "2026-05-18 15:39:58",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "金門車禍事件",
       "city": "金門",
       "place": "金門縣政府",
@@ -124,6 +103,27 @@
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdzYxWjlNWHJnZGYtM2xUMEY1cHFPMFNjYi1tV29acjN2em1qVlJvLWl0M08wemhBT3JxTFhIbmhKRVFTZXgyV1lfcWRxeU9GY0R2V1N5eTJ5ZTQ5cjZ6ZVFzM3dUQzA1LUo0S21HUThYUl8xbGl2dURXMFlfZFU0UkdYbDBJMmRSZkhPWWtjVkkwdHJ6b2Z1aDR6TWl6dFpYYXZKLUlQeGk5c3AwcHNmcmUyMk9hUldOWDZxQ3p0LU16aDRqeTZZV2N2cmtxdXpGZmtmcnlVM1JhUQ?oc=5",
           "time": "2026-05-18 16:29:16",
           "publisher": "Google News→金門GO資訊網",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄車禍事件",
+      "city": "高雄",
+      "place": "高雄市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "高雄岡山1死5傷車禍死亡駕駛相驗 胸腹部重擊致死",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5441013",
+          "time": "2026-05-18 15:39:58",
+          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -214,6 +214,27 @@
       "comments": []
     },
     {
+      "title": "屏東詐騙案",
+      "city": "屏東",
+      "place": "屏東縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "房地產詐騙風險升高 屏東推雙地政士防交易陷阱",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVlNRTRlR3ltSzhWOV9MN21XZ1RvYWhPSU45TkN3ZUlBNFFYTi00WnhLUnZOSExrUFBxRElERXVfT1AySFBSdU1IVW8tVXI3VEpram5JRHZyU1hGay10enItLXdPR3B4OGtFQkwzZVRiOUFGSVlOdjlzaHF6WkZDZklfWTFzQUhYeDVjMG9odEY?oc=5",
+          "time": "2026-05-18 09:05:00",
+          "publisher": "Google News→新住民全球新聞網",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "雲林詐騙案",
       "city": "雲林",
       "place": "雲林縣政府",
@@ -250,27 +271,6 @@
           "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E8%A8%88%E7%A8%8B%E8%BB%8A%E5%8F%B8%E6%A9%9F-%E6%98%A5%E7%AF%80%E8%A8%88%E8%B2%BB-%E8%A9%90%E9%A8%99%E5%A4%96%E5%9C%B0%E5%AE%A2%E9%81%AD%E8%AD%B0%E5%93%A1%E9%BB%9E%E5%90%8D-%E6%98%AF%E6%85%A3%E7%8A%AF-052622570.html",
           "time": "2026-05-18 13:26:22",
           "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "屏東詐騙案",
-      "city": "屏東",
-      "place": "屏東縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "房地產詐騙風險升高 屏東推雙地政士防交易陷阱",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVlNRTRlR3ltSzhWOV9MN21XZ1RvYWhPSU45TkN3ZUlBNFFYTi00WnhLUnZOSExrUFBxRElERXVfT1AySFBSdU1IVW8tVXI3VEpram5JRHZyU1hGay10enItLXdPR3B4OGtFQkwzZVRiOUFGSVlOdjlzaHF6WkZDZklfWTFzQUhYeDVjMG9odEY?oc=5",
-          "time": "2026-05-18 09:05:00",
-          "publisher": "Google News→新住民全球新聞網",
           "severity": "yellow"
         }
       ],
@@ -1860,11 +1860,11 @@
       "city": "彰化",
       "place": "彰化縣政府",
       "level": "yellow",
-      "news_count": 42,
+      "news_count": 41,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 42,
+      "urgency_score": 41,
       "news_articles": [
         {
           "title": "影音/展現學習成果與藝文能量 彰化市社會學園藝文研習成果展精彩登場",
@@ -2152,13 +2152,6 @@
           "time": "2026-05-17 21:24:19",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "彰化人口恐年底跌破120萬 近5年4.8萬人遷往台中",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E4%BA%BA%E5%8F%A3%E6%81%90%E5%B9%B4%E5%BA%95%E8%B7%8C%E7%A0%B4120%E8%90%AC-%E8%BF%915%E5%B9%B44-8%E8%90%AC%E4%BA%BA%E9%81%B7%E5%BE%80%E5%8F%B0%E4%B8%AD-125258198.html",
-          "time": "2026-05-17 20:52:58",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -5036,12 +5029,26 @@
       "city": "雲林",
       "place": "雲林縣政府",
       "level": "red",
-      "news_count": 55,
+      "news_count": 57,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 58,
+      "urgency_score": 60,
       "news_articles": [
+        {
+          "title": "攜北農北漁推廣雲林優質農漁產品 蔣萬安赴雲林考察營養午餐食材 | 政經焦點 | 要聞",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMjlmQ1ZSNVFtYk55SWk2NWZEU1JOaU50TWRVYlhlYXJEd0RFaGJyTWpkUkZDaHd2MXR2LWFWTm9CLXZuQzFON2ZNbFFaSkhuQ1hzZU9QeE5iakRUZUZpWTdPNFNsUTJiWDBWSmtxRXNjaWtwT1FST2xQQWVia01HbA?oc=5",
+          "time": "2026-05-18 20:38:27",
+          "publisher": "Google News→經濟日報",
+          "severity": null
+        },
+        {
+          "title": "北市免費營養午餐將上路 蔣萬安考察雲林農漁食材與食安",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9Nd05QSGdhTi1QXzdGekZVMy1vV0JXcVphYkZHVS1Lek82UjNnOURxWHdfbUR0TFV0ei1ZblM5N2NQZw?oc=5",
+          "time": "2026-05-18 20:32:11",
+          "publisher": "Google News→墨新聞-MORE News",
+          "severity": null
+        },
         {
           "title": "影音／綠營困台北失效？蔣萬安奔雲林、宜蘭輔選",
           "url": "https://news.tvbs.com.tw/politics/3207333",
@@ -5435,11 +5442,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 96,
+      "news_count": 95,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 114,
+      "urgency_score": 113,
       "news_articles": [
         {
           "title": "新北小吃店開「20張同號發票」！發文求救沒追回 5/25恐慘賠2億 | 生活",
@@ -6104,13 +6111,6 @@
           "url": "https://www.cna.com.tw/news/aloc/202605170228.aspx",
           "time": "2026-05-17 21:15:09",
           "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "蘇巧慧拋毛孩長照 再秀新北五大30分鐘交通政績",
-          "url": "https://tw.news.yahoo.com/%E8%98%87%E5%B7%A7%E6%85%A7%E6%8B%8B%E6%AF%9B%E5%AD%A9%E9%95%B7%E7%85%A7-%E5%86%8D%E7%A7%80%E6%96%B0%E5%8C%97%E4%BA%94%E5%A4%A730%E5%88%86%E9%90%98%E4%BA%A4%E9%80%9A%E6%94%BF%E7%B8%BE-125155543.html",
-          "time": "2026-05-17 20:51:55",
-          "publisher": "Yahoo新聞",
           "severity": null
         }
       ],
@@ -7549,11 +7549,11 @@
       "city": "高雄",
       "place": "高雄市左營區",
       "level": "red",
-      "news_count": 161,
+      "news_count": 160,
       "comment_count": 0,
       "negativity_pct": 12,
       "is_urgent": false,
-      "urgency_score": 221,
+      "urgency_score": 220,
       "news_articles": [
         {
           "title": "帶動南部半導體S廊帶產業發展 陳其邁：極力爭取24小時國際機場 布局未來20年高雄城市發展",
@@ -8263,11 +8263,11 @@
       "city": "台中",
       "place": "台中市大里區",
       "level": "red",
-      "news_count": 192,
+      "news_count": 191,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 204,
+      "urgency_score": 203,
       "news_articles": [
         {
           "title": "台中火車站驚見吞雲吐霧 男站月台抽菸 煙蒂還丟鐵軌",
@@ -8977,12 +8977,33 @@
       "city": "台北",
       "place": "台北市信義區",
       "level": "red",
-      "news_count": 219,
+      "news_count": 222,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 249,
+      "urgency_score": 252,
       "news_articles": [
+        {
+          "title": "聲量逆轉超車蔣萬安 粉專：沈伯洋正改寫台北選戰節奏",
+          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPZ182UkpFcDdlMkZSZ0xXaFp5aEt5Y2ZsTU5jWkdCVHgzWVk1eWpZaVNkbWFrS0JUOWdoTm15VmE3WlNpS1VueXJYc044bXQ3Tk9xNGNyekFLQ2lKN0xMbXE3ZXZGLThsSFV3VmpBeVNpM2wtUDFKYmJWNVluWGh2VGtrelktbUh0TWNaZHZlMF9DZXJDVWVUN2lOclpVWEN3TDEwUFJBcTRTeHFDZTdWdF9CYUFQQ2VkSWFtTE8tRnd3a2VUS29HQkY5bHpkNFZxWmN5emNGZWxaU1c4bkRRaEUzUGpDVmQ3d1NWOFo1dEZHaV9LUG45Rk91NVBLZEh2ajdlcUktWHVjOFI2NzQyT1h0eTdTWjViMzBhRlF2QUdNMHJyeml4WUtyUTdRRWJQVE5ObFk0WkMxUU5RQXp5bjFRenlVMXd0ZHAzSzltVmE5UFNrSkpoRjhIbDJ4TEF0WnhTTF9wdEhNVVU?oc=5",
+          "time": "2026-05-18 20:42:58",
+          "publisher": "Google News→台灣大紀元",
+          "severity": null
+        },
+        {
+          "title": "攜北農北漁推廣雲林優質農漁產品 蔣萬安赴雲林考察營養午餐食材 | 政經焦點 | 要聞",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMjlmQ1ZSNVFtYk55SWk2NWZEU1JOaU50TWRVYlhlYXJEd0RFaGJyTWpkUkZDaHd2MXR2LWFWTm9CLXZuQzFON2ZNbFFaSkhuQ1hzZU9QeE5iakRUZUZpWTdPNFNsUTJiWDBWSmtxRXNjaWtwT1FST2xQQWVia01HbA?oc=5",
+          "time": "2026-05-18 20:38:27",
+          "publisher": "Google News→經濟日報",
+          "severity": null
+        },
+        {
+          "title": "北市免費營養午餐將上路 蔣萬安考察雲林農漁食材與食安",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9Nd05QSGdhTi1QXzdGekZVMy1vV0JXcVphYkZHVS1Lek82UjNnOURxWHdfbUR0TFV0ei1ZblM5N2NQZw?oc=5",
+          "time": "2026-05-18 20:32:11",
+          "publisher": "Google News→墨新聞-MORE News",
+          "severity": null
+        },
         {
           "title": "新北市長藍綠陷熱戰　李四川、蘇巧慧民調拉鋸　雙方盼破同溫層",
           "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-05-18/2349496.html",
@@ -9660,27 +9681,6 @@
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pLVM0Y2F1NGkzd2g4YS0wTmJCTExIU21uQWF3T2M5Y0F3QlRsTy14VTlYb21wT2lHM1QwQUU0a1lEdkZzc2luYTVMNXoweUxVS2Z2dUp5M3dQaGZFcWw2UVppaDd2Yy1XcDRYZXlGV184QQ?oc=5",
           "time": "2026-05-18 13:21:15",
           "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "影／南下雲林被問開始輔選？蔣萬安笑：來看土豆、台灣鯛和鰻魚",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50TS0waEVUbGxBYnZEQnFvRHVILVlwQXJ3ZUVmTU9uNm11MmtBNmctaUpsWl9TNVVrRWh5ajRhWWNONnlrZkktdXdEZDQyRnlp0gFWQVVfeXFMTktMU051ejFYTTh3TnhKSHRtMkdseHo0bU5ZTjVXOHBndkRhV2Q2Z3hRaXBSTjFEaklkakVsVEpKOHJsWFZITzJ6RWc1ZU5xRUpSWm03QlE?oc=5",
-          "time": "2026-05-18 13:21:15",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "影／南下雲林被問開始輔選？蔣萬安笑：來看土豆、台灣鯛和鰻魚",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43RC1JT2RxMTIxVzNIaF9Ra29UUDN5bEc3YzRkSGdxSjVYZnF4WlFlZU1mQ05lVUtpbXNzcGNyRUtMOTc0Z1FJeXNRSGRuVlBUcDVZ0gFYQVVfeXFMTktxOGtKR1QwM0d5cE9ZOXdoS1FlWU1OZ2xqRGZIYlFXZ1FVT1hMRlQ3YkxTODg3Qi1QQmlnVHhiOGktbFJ3ajIzMTM1LU5DV1ZYVERFcEdjYg?oc=5",
-          "time": "2026-05-18 13:21:15",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "新北市樂心關懷協會 捐贈嘉義縣弱勢家庭兒少200張鞋券",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41SENEY0Q3UUFBR2owMk91ZlBvNUhOUHZNRWc2d1M0TFpZYlNxSWZQVkRvTW9Ra2Z3OFMxSUFxeDB6U1dWcU5oOVJnaWxmLUI5dWc?oc=5",
-          "time": "2026-05-18 13:20:00",
-          "publisher": "Google News→蕃新聞",
           "severity": null
         }
       ],
