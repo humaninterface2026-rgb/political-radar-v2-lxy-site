@@ -12624,7 +12624,7 @@
     },
     {
       "date": "2026-05-20",
-      "snapshot_at": "2026-05-19T16:22:02.292590+00:00",
+      "snapshot_at": "2026-05-19T16:31:18.255797+00:00",
       "hotspots": [
         {
           "title": "台中狼師事件",
@@ -12697,20 +12697,6 @@
           ]
         },
         {
-          "title": "台北詐騙案",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "集資150萬投資靈骨塔位 北市男代辦買賣險淪詐騙車手"
-          ]
-        },
-        {
           "title": "台南詐騙案",
           "city": "台南",
           "place": "台南市政府",
@@ -12722,6 +12708,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "遭冒名投放廣告詐騙 台南教育局呼籲民眾提高警覺"
+          ]
+        },
+        {
+          "title": "台北詐騙案",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "集資150萬投資靈骨塔位 北市男代辦買賣險淪詐騙車手"
           ]
         },
         {
@@ -12950,11 +12950,11 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
-          "news_count": 8,
+          "news_count": 7,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 32,
+          "urgency_score": 28,
           "sample_titles": [
             "台中嚴重車禍 81歲女駕駛連撞32輛「整排全倒」",
             "台中女騎士車禍倒地 後車閃避不及再輾過 雙腿骨折送醫救命",
@@ -13360,11 +13360,11 @@
           "city": "基隆",
           "place": "基隆市政府",
           "level": "red",
-          "news_count": 83,
+          "news_count": 82,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 332,
+          "urgency_score": 328,
           "sample_titles": [
             "基隆爆漢他病毒！清潔員遭鼠咬潛伏1月發病 市府急拋「3大作為」",
             "基隆確診漢他病毒個案恢復良好 無需過度恐慌",
@@ -13376,11 +13376,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 87,
+          "news_count": 86,
           "comment_count": 0,
           "negativity_pct": 37,
           "is_urgent": false,
-          "urgency_score": 183,
+          "urgency_score": 182,
           "sample_titles": [
             "5/19 今彩539頭獎開2注！800萬獎落台北、新北",
             "新北小吃店系統出包「誤開多張同號發票」！20張追不回 最慘恐賠2億 2026-05-19 08:03",
@@ -13388,35 +13388,35 @@
           ]
         },
         {
-          "title": "基隆地方動態",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "red",
-          "news_count": 98,
-          "comment_count": 0,
-          "negativity_pct": 84,
-          "is_urgent": true,
-          "urgency_score": 344,
-          "sample_titles": [
-            "記憶體三雄迎質變轉機！華邦電搶吃利基市場、南亞科強攻高規DDR5 卡位伺服器利潤大噴發",
-            "基隆爆漢他病毒！清潔員遭鼠咬潛伏1月發病 市府急拋「3大作為」",
-            "基隆確診漢他病毒個案恢復良好 無需過度恐慌"
-          ]
-        },
-        {
           "title": "花蓮地方動態",
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 98,
+          "news_count": 97,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 128,
+          "urgency_score": 127,
           "sample_titles": [
             "中職》李凱威原以為自己只是「斗六王」 沒想到還是「花蓮王」",
             "中職》本季聯盟花蓮首戰 李凱威一棒定江山！",
             "坎南上周落枕跳過先發 花蓮行中繼待命"
+          ]
+        },
+        {
+          "title": "基隆地方動態",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "red",
+          "news_count": 97,
+          "comment_count": 0,
+          "negativity_pct": 84,
+          "is_urgent": true,
+          "urgency_score": 340,
+          "sample_titles": [
+            "記憶體三雄迎質變轉機！華邦電搶吃利基市場、南亞科強攻高規DDR5 卡位伺服器利潤大噴發",
+            "基隆爆漢他病毒！清潔員遭鼠咬潛伏1月發病 市府急拋「3大作為」",
+            "基隆確診漢他病毒個案恢復良好 無需過度恐慌"
           ]
         },
         {
@@ -13456,11 +13456,11 @@
           "city": "台中",
           "place": "台中市大里區",
           "level": "red",
-          "news_count": 194,
+          "news_count": 193,
           "comment_count": 0,
-          "negativity_pct": 10,
+          "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 251,
+          "urgency_score": 247,
           "sample_titles": [
             "記得儲水！5/20桃園、台中、高雄12縣市停水 影響時間範圍一次看 | 生活",
             "台中百貨櫃位監視器疑對更衣室 警扣主機、檢偵辦",
