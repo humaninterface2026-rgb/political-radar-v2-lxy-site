@@ -16003,6 +16003,16 @@
       "red_pct": 30.77,
       "yellow_pct": 69.23,
       "green_pct": 0.0
+    },
+    {
+      "ts": "2026-05-20T01:43:07",
+      "total": 428,
+      "red": 139,
+      "yellow": 287,
+      "green": 2,
+      "red_pct": 32.48,
+      "yellow_pct": 67.06,
+      "green_pct": 0.47
     }
   ]
 }
