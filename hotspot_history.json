@@ -12624,7 +12624,7 @@
     },
     {
       "date": "2026-05-20",
-      "snapshot_at": "2026-05-19T17:38:27.950983+00:00",
+      "snapshot_at": "2026-05-20T15:55:41.242791+00:00",
       "hotspots": [
         {
           "title": "台北軍購爭議",
@@ -12639,75 +12639,7 @@
           "sample_titles": []
         },
         {
-          "title": "藍營路線爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 0,
-          "comment_count": 1,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 1,
-          "sample_titles": []
-        },
-        {
-          "title": "台中狼師事件",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "「不想去移民署就跟我睡」 台中男假冒移民官性侵逃逸移工"
-          ]
-        },
-        {
-          "title": "屏東車禍事件",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "屏東30歲女不熟網路...申請車禍初判表受阻 內埔警耐心協助"
-          ]
-        },
-        {
-          "title": "台北陳情/抗議",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "民進黨北市長參選人沈伯洋上周正式徵召，鏡週刊今報導，犯罪學背景的沈伯洋善用ＡＩ助攻選戰，團隊內部打造一套「市民之槌」，用"
-          ]
-        },
-        {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "大甲媽遶境彰化打傷3警 警界人士：7落網1羈押5起訴有指標意義"
-          ]
-        },
-        {
-          "title": "台南詐騙案",
+          "title": "台南鼠患事件",
           "city": "台南",
           "place": "台南市政府",
           "level": "green",
@@ -12717,11 +12649,67 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "遭冒名投放廣告詐騙 台南教育局呼籲民眾提高警覺"
+            "台南啟動漢他病毒防治專案 全面加強滅鼠"
           ]
         },
         {
-          "title": "台北詐騙案",
+          "title": "新北鼠患事件",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "新北防堵鼠患 擬監測鼠類密度"
+          ]
+        },
+        {
+          "title": "彰化鼠患事件",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "彰化縣府研擬跨局處防治鼠患計畫 掌握3不原則"
+          ]
+        },
+        {
+          "title": "台中鼠患事件",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "10 . 3千張廢床墊堆成萬里長城 台中市議員憂鼠患：可學苗栗引進設備"
+          ]
+        },
+        {
+          "title": "桃園車禍事件",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "尷尬！桃園軍卡疑為閃避車禍 竟擦撞路邊行道樹"
+          ]
+        },
+        {
+          "title": "台北車禍事件",
           "city": "台北",
           "place": "台北市政府",
           "level": "green",
@@ -12731,13 +12719,84 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "集資150萬投資靈骨塔位 北市男代辦買賣險淪詐騙車手"
+            "北市中山死亡車禍！無照男持影本租車撞死騎士 還是違規大戶積欠40張罰單"
           ]
         },
         {
-          "title": "金門火災事件",
+          "title": "台中陳情/抗議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "民眾投訴清潔隊只回收玻璃瓶 台中市環保局這麼說…"
+          ]
+        },
+        {
+          "title": "嘉義市詐騙案",
+          "city": "嘉義市",
+          "place": "嘉義市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "嘉市教博會遭冒名詐騙 警追查"
+          ]
+        },
+        {
+          "title": "苗栗詐騙案",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "假粉專現蹤！盜圖、疑用AI合成影像 苗栗竹南公所籲慎防詐騙"
+          ]
+        },
+        {
+          "title": "金門詐騙案",
           "city": "金門",
           "place": "金門縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "金門退休師誤信「美金穩賺不賠」話術 險遭詐騙19萬元"
+          ]
+        },
+        {
+          "title": "藍營路線爭議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 2,
+          "sample_titles": [
+            "盧秀燕要民進黨廢「台獨黨綱」！林俊憲嗆假議題：藍黨綱反共如今卻舔共",
+            "盧秀燕要民進黨廢「台獨黨綱」！林俊憲嗆假議題：藍黨綱反共如今卻舔共"
+          ]
+        },
+        {
+          "title": "花蓮鼠患事件",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
           "level": "green",
           "news_count": 2,
           "comment_count": 0,
@@ -12745,22 +12804,39 @@
           "is_urgent": true,
           "urgency_score": 8,
           "sample_titles": [
-            "金門攜手南山推微型火災與癌症險 強化弱勢保障",
-            "金門推微型火災與防癌險 強化社會弱勢安全防護保障"
+            "防蚊蟲、鼠患強化環境衛生 花蓮市持續環境清消",
+            "防蚊蟲、鼠患強化環境衛生 花蓮市持續環境清消"
           ]
         },
         {
-          "title": "海線立委戰局",
-          "city": "台中",
-          "place": "台中市政府",
+          "title": "台北弊案爭議",
+          "city": "台北",
+          "place": "台北市政府",
           "level": "green",
-          "news_count": 1,
-          "comment_count": 3,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 4,
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
           "sample_titles": [
-            "何欣純 在中市海線地區提前宣傳及布局"
+            "上班推廣直銷商品 北市聯醫2醫護挨告詐獎勵金獲不起訴",
+            "上班推銷直銷營養品 北市聯醫告兩醫護「涉詐獎勵金」 這原因不起訴"
+          ]
+        },
+        {
+          "title": "台南漢他病毒",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "green",
+          "news_count": 3,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 12,
+          "sample_titles": [
+            "南市啟動跨局處聯防「從源頭強化環境管理、防堵漢他病毒」",
+            "南市府成立「漢他病毒防治專案推動小組」防安「鼠」之亂",
+            "台南啟動漢他病毒防治專案 全面加強滅鼠"
           ]
         },
         {
@@ -12769,42 +12845,42 @@
           "place": "台中市政府",
           "level": "green",
           "news_count": 0,
-          "comment_count": 6,
+          "comment_count": 5,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 10,
+          "urgency_score": 5,
           "sample_titles": []
-        },
-        {
-          "title": "新竹縣地方動態",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "green",
-          "news_count": 15,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 15,
-          "sample_titles": [
-            "新竹縣1999專線大升級 前5分鐘免通話費24小時服務不打烊",
-            "新竹縣1999專線大升級 前5分鐘免通話費24小時服務不打烊 - 社會新聞 - PChome Online 新聞",
-            "新竹縣免費營養午餐再升級 116年起每生每餐增10元、推五大方案"
-          ]
         },
         {
           "title": "連江地方動態",
           "city": "連江",
           "place": "連江縣（馬祖）",
           "level": "green",
-          "news_count": 16,
+          "news_count": 6,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 16,
+          "urgency_score": 6,
           "sample_titles": [
-            "高馬航線助攻買氣 高雄國際旅展馬祖館業績破百萬",
-            "高馬航線助攻買氣高雄國際旅展馬祖館業績破百萬| 旅遊",
-            "連江地檢聯手縣府盼提升公務員廉潔法治觀念| 地方"
+            "2026馬祖藍眼淚攻略｜最佳觀賞時間是何時？觀淚景點推薦、注意4件事追淚成功機率大增！",
+            "「北竿酒季」再度回歸！ 續推馬祖酒季觀光體驗 展現馬祖獨特酒香文化",
+            "連江縣政府啟動大坵防護超前預防 「萊姆病」審慎面對、超前防範"
+          ]
+        },
+        {
+          "title": "嘉義縣地方動態",
+          "city": "嘉義縣",
+          "place": "嘉義縣政府",
+          "level": "green",
+          "news_count": 11,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 11,
+          "sample_titles": [
+            "嘉義縣地方型SBIR徵件啟動 最高補助100萬元助攻企業創新升級",
+            "嘉義縣地方型SBIR最高補助100萬元 7月10日前開放申請",
+            "嘉義縣地方型SBIR最高補助100萬元7月10日前開放申請- 政府消息新聞"
           ]
         },
         {
@@ -12818,7 +12894,21 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "女童「用力推腳」反抗仍被硬摸 新北才藝班狼師詭辯：她沒拒絕！遭判9年2月定讞"
+            "新北淫狼公公！工寮與警局旁2度性侵兒媳 判決出爐8年徒刑"
+          ]
+        },
+        {
+          "title": "台南弊案爭議",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "獨家/雲林縣副議長之子遭收押以「勸架」提抗告 台南高院駁回繼續關押"
           ]
         },
         {
@@ -12832,55 +12922,51 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "悚！南投埔里爆當街尋仇 莽男糾眾刺死人收押"
+            "南投驚兇殺案！約仇家談判…拿刀當街把人刺倒送醫不治、嫌遭拘提收押"
           ]
         },
         {
-          "title": "台中公廁議題",
-          "city": "台中",
-          "place": "台中市政府",
+          "title": "彰化弊案爭議",
+          "city": "彰化",
+          "place": "彰化縣政府",
           "level": "yellow",
-          "news_count": 3,
+          "news_count": 1,
           "comment_count": 0,
-          "negativity_pct": 0,
+          "negativity_pct": 100,
           "is_urgent": false,
-          "urgency_score": 3,
+          "urgency_score": 4,
           "sample_titles": [
-            "獨角仙生態公園公廁內飲料杯等垃圾堆滿地 中市府：「垃圾不落地」呼籲民眾自己帶回家",
-            "獨角仙生態公園公廁內飲料杯等垃圾堆滿地 中市府：「垃圾不落地」呼籲民眾自己帶回家",
-            "獨角仙生態公園公廁內飲料杯等垃圾堆滿地 中市府：「垃圾不落地」呼籲民眾自己帶回家"
+            "緩起訴期間又酒駕撞死人 彰化地院判6年"
           ]
         },
         {
-          "title": "台中詐騙案",
-          "city": "台中",
-          "place": "台中市政府",
+          "title": "新北漢他病毒",
+          "city": "新北",
+          "place": "新北市政府",
           "level": "yellow",
-          "news_count": 4,
+          "news_count": 2,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 16,
+          "urgency_score": 8,
           "sample_titles": [
-            "詐騙持續猖獗嚴重影響國安​ 中市議員謝志忠促修法「詐騙致死」加重刑責",
-            "詐騙持續猖獗嚴重影響國安 中市議員謝志忠促修法「詐騙致死」加重刑責",
-            "打擊詐騙 民進黨台中市議員謝志忠、王立任、張玉嬿、黃守達等呼籲從重量刑、加重結果犯納入「詐騙致死」 中市府：跨局處強化防"
+            "全國第三例》新北男基隆染漢他病毒 北北基警戒",
+            "新北民眾外縣市染漢他病毒衛生局籲加強防鼠清消"
           ]
         },
         {
-          "title": "台中鼠患事件",
-          "city": "台中",
-          "place": "台中市政府",
+          "title": "台北漢他病毒",
+          "city": "台北",
+          "place": "台北市政府",
           "level": "yellow",
-          "news_count": 5,
+          "news_count": 2,
           "comment_count": 0,
-          "negativity_pct": 80,
+          "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 17,
+          "urgency_score": 8,
           "sample_titles": [
-            "10 . 3千張廢床墊堆成萬里長城 台中市議員憂鼠患：可學苗栗引進設備",
-            "台中潭子驚見廢棄床墊「萬里長城」 民眾憂成鼠患溫床",
-            "台中驚見「床墊萬里長城」！ 3千張廢棄床墊恐成老鼠溫床"
+            "漢他病毒擴大至北北基！她轟蔣萬安「老鼠不分藍綠」：好意思到處輔選？",
+            "漢他病毒擴大至北北基！她轟蔣萬安「老鼠不分藍綠」：好意思到處輔選？"
           ]
         },
         {
@@ -12894,121 +12980,41 @@
           "is_urgent": true,
           "urgency_score": 20,
           "sample_titles": [
-            "三峽3死車禍1年了 女童母淚控：等嘸道歉",
-            "三峽車禍一年了！罹癌母「等不到道歉」救護員曝內心傷痕",
-            "影/新北樹林重機擦撞車禍 2騎士噴飛慘摔送醫"
+            "三峽車禍周年等無道歉　家屬控駕駛兒「疑鑽漏洞」壓低賠償金額",
+            "三峽車禍1週年 罹難女童母怒批等無家屬道歉、狂砍賠償金",
+            "三峽4死車禍一週年 喪女母親走不出傷痛「好想抱抱妳」嘆肇事家屬仍未道歉"
           ]
         },
         {
-          "title": "苗栗車禍事件",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
+          "title": "高雄陳情/抗議",
+          "city": "高雄",
+          "place": "高雄市政府",
           "level": "yellow",
-          "news_count": 5,
+          "news_count": 7,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 20,
+          "urgency_score": 28,
           "sample_titles": [
-            "苗栗暗夜車禍9旬婦橫越馬路遭撞送醫不治- 社會",
-            "苗栗暗夜車禍9旬婦橫越馬路遭撞送醫不治| 社會",
-            "苗栗深夜車禍奪命 90歲老翁橫越馬路遭撞彈飛倒地亡"
+            "高雄近百計程車陳情籲調運價 市府：成立諮詢委員會",
+            "百名運將上街陳情 陳其邁成立計程車諮詢委員會",
+            "高雄百輛計程車集結抗議 喊話調整運價、保障司機生存權"
           ]
         },
         {
-          "title": "桃園鼠患事件",
-          "city": "桃園",
-          "place": "桃園市政府",
+          "title": "南投地方動態",
+          "city": "南投",
+          "place": "南投縣政府",
           "level": "yellow",
-          "news_count": 6,
+          "news_count": 19,
           "comment_count": 0,
-          "negativity_pct": 83,
-          "is_urgent": true,
-          "urgency_score": 21,
-          "sample_titles": [
-            "夏季防疫總動員 桃園全面防堵登革熱與鼠患 | 觀傳媒",
-            "夏季防疫總動員 桃園全面防堵登革熱與鼠患",
-            "桃園動員10萬人滅鼠、防登革熱 2波清消期程曝"
-          ]
-        },
-        {
-          "title": "台中車禍事件",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 6,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 24,
-          "sample_titles": [
-            "台中嚴重車禍 81歲女駕駛連撞32輛「整排全倒」",
-            "台中女騎士車禍倒地 後車閃避不及再輾過 雙腿骨折送醫救命",
-            "新／台中驚悚車禍！80歲嬤慘遭輾斷雙腿"
-          ]
-        },
-        {
-          "title": "嘉義市地方動態",
-          "city": "嘉義市",
-          "place": "嘉義市政府",
-          "level": "yellow",
-          "news_count": 10,
-          "comment_count": 0,
-          "negativity_pct": 20,
+          "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 16,
+          "urgency_score": 22,
           "sample_titles": [
-            "鄭英耀視察嘉義市學校需求 允諾補助改善 (圖)",
-            "鄭英耀視察嘉義市學校需求 允諾補助逾千萬改善",
-            "教長訪視嘉義市學校 王美惠爭取逾千萬教育經費"
-          ]
-        },
-        {
-          "title": "台東地方動態",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "yellow",
-          "news_count": 12,
-          "comment_count": 0,
-          "negativity_pct": 8,
-          "is_urgent": false,
-          "urgency_score": 15,
-          "sample_titles": [
-            "王貞治盃許庭愷超前轟 台東苦戰13局搶勝晉4強",
-            "台東縣衛生局6/1起下鄉服務 食品業者就近登錄以免受罰",
-            "水稻台東30號抗病強韌 納入農糧署契作優質品種"
-          ]
-        },
-        {
-          "title": "台北鼠患事件",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "yellow",
-          "news_count": 17,
-          "comment_count": 0,
-          "negativity_pct": 94,
-          "is_urgent": true,
-          "urgency_score": 65,
-          "sample_titles": [
-            "《社論》北市府解決鼠患 更要補足制度缺口",
-            "清潔工遭鼠咬確診漢他病毒！鼠患擴散「北北基桃」 詹凌瑀嗆蔣萬安：還在作秀",
-            "蔣萬安滅鼠也要問沈伯洋？洪健益揭蔣誓師大會：根本作秀！｜#頭家來開講"
-          ]
-        },
-        {
-          "title": "嘉義縣地方動態",
-          "city": "嘉義縣",
-          "place": "嘉義縣政府",
-          "level": "yellow",
-          "news_count": 18,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 18,
-          "sample_titles": [
-            "嘉義縣番路蜜桃魅力爆發！ 「紅玉水蜜桃」掀採購熱潮 初夏限定甜蜜滋味吸引民眾搶購！",
-            "福樂善行相映 鄭嘉龍偕嘉義縣家長會長協會贈麵傳愛",
-            "嘉義縣撿菸蒂換回饋 村里競賽拼獎金！ - 健康新聞 - PChome Online 新聞"
+            "智慧南投GO幸福！三大政策齊發 打造全齡科技宜居城",
+            "南投中興新村推動活化 民代提議蓋養生村引發討論",
+            "「南投幸福GO」埔里即起試營運 全預約共乘7月底前免費搭"
           ]
         },
         {
@@ -13016,30 +13022,15 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
-          "news_count": 2,
-          "comment_count": 19,
+          "news_count": 3,
+          "comment_count": 23,
           "negativity_pct": 0,
           "is_urgent": true,
-          "urgency_score": 59,
+          "urgency_score": 72,
           "sample_titles": [
-            "大甲「米奇妙妙屋」被抄 10多年垃圾山消失",
-            "大甲「米奇妙妙屋」被抄了！10多年垃圾山消失 網驚：只剩這陣仗"
-          ]
-        },
-        {
-          "title": "新竹市地方動態",
-          "city": "新竹市",
-          "place": "新竹市政府",
-          "level": "yellow",
-          "news_count": 36,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 36,
-          "sample_titles": [
-            "敏實科大師生參訪竹市消防教育訓練基地 深化青年防災與安全意識",
-            "「115年度竹市SBIR計畫啟動」高虹安市長：中小企業每家最高補助100萬元",
-            "竹市115年度SBIR計畫啟動！高虹安：中小企業每家最高補助100萬元"
+            "台中市議會民進黨團總召周永鴻：盧市府垃圾廚餘治理失能 廚餘湖、床墊山、垃圾山取代青山綠水「台中尋奇」 中市府：守護市容 ",
+            "垃圾山、廚餘湖、床墊牆 綠酸3大「台中尋奇」取代青山綠水 | 政治快訊 | 要聞",
+            "垃圾山、廚餘湖、床墊牆 綠酸「台中尋奇」"
           ]
         },
         {
@@ -13047,31 +13038,47 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "yellow",
-          "news_count": 38,
+          "news_count": 51,
           "comment_count": 0,
-          "negativity_pct": 5,
+          "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 44,
+          "urgency_score": 54,
           "sample_titles": [
-            "廉政志工特殊訓練提升金門話應用與廉政宣導 | 勁報",
-            "金門行動旅服短影音訓練6月23日開課 邀在地業者掌握社群流量新趨勢",
-            "-慈濟跨海義診6/12起連兩日登場 守護金門鄉親健康"
+            "金門「陳顯墓」遭破壞11天破案 修復11天完工",
+            "臺北市政府端節敬軍 慰問金門官兵辛勞 | 青年日報",
+            "金聲不凡・青春開唱 國立金門大學熱血登場 用音樂點燃校園青春能量"
           ]
         },
         {
-          "title": "雲林地方動態",
-          "city": "雲林",
-          "place": "雲林縣政府",
+          "title": "屏東地方動態",
+          "city": "屏東",
+          "place": "屏東縣政府",
           "level": "yellow",
-          "news_count": 44,
+          "news_count": 62,
           "comment_count": 0,
-          "negativity_pct": 18,
+          "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 68,
+          "urgency_score": 62,
           "sample_titles": [
-            "迎端午! 虎尾\"花生肉粽\".西螺\"黃金米粽\" 雲林農會粽子熱銷",
-            "中職》李凱威原以為自己只是「斗六王」 沒想到還是「花蓮王」",
-            "融合土庫溪環境 中市府斥資打造南區新公園"
+            "屏東鳳凰花大道超火紅 綻放美景綿延一公里",
+            "泰國旅行業者與媒體走訪屏東 深度之旅強化屏東旅遊印象",
+            "屏東監理站將在恆春加開道路交通安全講習班 減少民眾到枋寮上課的舟車勞頓"
+          ]
+        },
+        {
+          "title": "新竹市地方動態",
+          "city": "新竹市",
+          "place": "新竹市政府",
+          "level": "yellow",
+          "news_count": 76,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 76,
+          "sample_titles": [
+            "520大方放閃！莊競程曬婚紗照感謝老婆支持參選新竹市長",
+            "邱臣遠參選竹北市長 請辭新竹市副市長全力備戰",
+            "新竹市長高虹安赴議會施政報告 打造「安居科技城」幸福實景！"
           ]
         },
         {
@@ -13079,49 +13086,37 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
-          "news_count": 0,
-          "comment_count": 64,
+          "news_count": 3,
+          "comment_count": 82,
           "negativity_pct": 0,
           "is_urgent": true,
-          "urgency_score": 142,
-          "sample_titles": []
+          "urgency_score": 189,
+          "sample_titles": [
+            "台中市議會民進黨團總召周永鴻：盧市府垃圾廚餘治理失能 廚餘湖、床墊山、垃圾山取代青山綠水「台中尋奇」 中市府：守護市容 ",
+            "垃圾山、廚餘湖、床墊牆 綠酸3大「台中尋奇」取代青山綠水 | 政治快訊 | 要聞",
+            "垃圾山、廚餘湖、床墊牆 綠酸「台中尋奇」"
+          ]
         },
         {
-          "title": "澎湖地方動態",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
+          "title": "花蓮地方動態",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
           "level": "yellow",
-          "news_count": 65,
+          "news_count": 88,
           "comment_count": 0,
-          "negativity_pct": 2,
+          "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 68,
+          "urgency_score": 103,
           "sample_titles": [
-            "完整苗栗醫療網 白沙屯媽祖醫院開工動土 | 客家電視",
-            "澎湖無人島大批海膽遭挖空 禁捕期遭濫採農業局將追查",
-            "完整苗栗醫療網 白沙屯媽祖醫院開工動土"
+            "深化雙城情誼桃園市大園區老人會走訪吉安",
+            "蔣少宏敲生涯花蓮棒球場首轟 (圖)",
+            "花蓮榮家慶生會 精采表演祝福長輩福壽安康"
           ]
         },
         {
-          "title": "台中市政動態",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 185,
-          "comment_count": 8,
-          "negativity_pct": 5,
-          "is_urgent": false,
-          "urgency_score": 222,
-          "sample_titles": [
-            "喊話總統！盧秀燕籲賴清德表態「台灣不會宣布獨立」",
-            "盧秀燕改建文山焚化爐比林佳龍貴9倍零動工 「超級爛攤子給丟下任」",
-            "盧秀燕改建文山焚化爐比林佳龍貴9倍零動工 「超級爛攤子給丟下任」"
-          ]
-        },
-        {
-          "title": "桃園弊案爭議",
-          "city": "桃園",
-          "place": "桃園市政府",
+          "title": "苗栗槍擊事件",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
           "level": "red",
           "news_count": 2,
           "comment_count": 0,
@@ -13129,14 +13124,29 @@
           "is_urgent": true,
           "urgency_score": 8,
           "sample_titles": [
-            "平鎮山峰市地重劃爆千萬弊案桃園地政局說明了| 社會萬象| 社會",
-            "平鎮山峰市地重劃爆千萬弊案 桃園地政局說明了"
+            "查黑幫槍擊案涉包庇放任頂罪 竹南警遭判刑6年",
+            "黑幫槍擊案竟「警察喬定」 竹南分局偵查隊小隊長包庇持槍判6年"
           ]
         },
         {
-          "title": "屏東弊案爭議",
-          "city": "屏東",
-          "place": "屏東縣政府",
+          "title": "新北弊案爭議",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "新北拖吊蟑螂案8人起訴 2主嫌移審交保限制住居",
+            "替兒子曾煥嘉撇貪污！新北老議員認了聘「假員工真助理」 被質疑違法回這句"
+          ]
+        },
+        {
+          "title": "苗栗弊案爭議",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
           "level": "red",
           "news_count": 3,
           "comment_count": 0,
@@ -13144,185 +13154,57 @@
           "is_urgent": true,
           "urgency_score": 12,
           "sample_titles": [
-            "毒咖啡包工廠藏屏東鐵皮屋！中警飛象過河抄5千萬毒品 3製毒師遭起訴 | CTWANT",
-            "毒咖啡包工廠藏屏東鐵皮屋！中警飛象過河抄5千萬毒品 3製毒師遭起訴",
-            "毒咖啡包工廠藏屏東鐵皮屋！中警飛象過河抄5千萬毒品 3製毒師遭起訴 | 社會 | CTWANT"
+            "苗栗幫派老大派少年頂罪 2偵查小隊長配合送辦遭判刑",
+            "查黑幫槍擊案涉包庇放任頂罪 竹南警遭判刑6年",
+            "苗栗竹南分局偵查小隊包庇持槍 涉貪判刑6年"
           ]
         },
         {
-          "title": "花蓮車禍事件",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
+          "title": "台東車禍事件",
+          "city": "台東",
+          "place": "台東縣政府",
           "level": "red",
-          "news_count": 7,
+          "news_count": 5,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 28,
+          "urgency_score": 20,
           "sample_titles": [
-            "驚悚瞬間曝光！花蓮台9線死亡車禍 21歲男自撞翻車「送醫不治」",
-            "快新聞／驚悚瞬間曝光！花蓮台9線死亡車禍 21歲男自撞翻車「送醫不治」",
-            "花蓮台9線奪命車禍 21歲男「撞斷路樹」受困送醫不治身亡"
+            "台東夫妻夜市買晚餐出車禍！自撞電信工程車不治",
+            "台9線恐怖車禍！雙載機車撞路邊工程車 台東夫妻送醫不治",
+            "台東台9線大武路段嚴重車禍 騎車雙載撞路邊汽車2命危"
           ]
         },
         {
-          "title": "新北鼠患事件",
-          "city": "新北",
-          "place": "新北市政府",
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
           "level": "red",
-          "news_count": 9,
-          "comment_count": 0,
-          "negativity_pct": 78,
-          "is_urgent": true,
-          "urgency_score": 30,
-          "sample_titles": [
-            "林口男工作時遭老鼠咬傷 疾管署證實：漢他病毒累計3例",
-            "基隆工作遭老鼠咬傷！ 新北40歲男確診「漢他病毒」",
-            "新北執行第2次全市清消作業 落實環境清潔與滅鼠措施"
-          ]
-        },
-        {
-          "title": "高雄漢他病毒",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "red",
-          "news_count": 10,
+          "news_count": 5,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 40,
+          "urgency_score": 20,
           "sample_titles": [
-            "「Wetalk高雄」散布漢他病毒假訊息 高雄市調處追查約談 管理員10萬元交保",
-            "「高雄漢他病例為雙北5倍」假訊息引恐慌 調查局溯源查到「Wetalk高雄」",
-            "假消息「高雄漢他病毒是雙北5倍」 犯嫌交保"
+            "國民法官還沒審…台中男酒駕撞死老婦被起訴 1個月後也過世",
+            "盧秀燕指商購委製列年度預算是防弊 綠反譏藍執政縣市光電弊案多",
+            "盧秀燕指商購委製列年度預算是防弊 綠反譏藍執政縣市光電弊案多"
           ]
         },
         {
-          "title": "高雄弊案爭議",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "red",
-          "news_count": 13,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 52,
-          "sample_titles": [
-            "高雄警逼脫衣拍照「揭發6女受害」 吹哨者Y女案件卻不起訴",
-            "女子控遭員警誘騙拍照卻不起訴 高市警局：會持續關懷被害人",
-            "高雄大樹廢衣偷倒堆積成山 民代批起訴2年至今尚未清理"
-          ]
-        },
-        {
-          "title": "台北漢他病毒",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "red",
-          "news_count": 14,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 56,
-          "sample_titles": [
-            "清潔工遭鼠咬確診漢他病毒！鼠患擴散「北北基桃」 詹凌瑀嗆蔣萬安：還在作秀",
-            "狠狠抖內幕-北部再爆漢他病例 蔣萬安擺爛市政忙輔選 0519",
-            "基隆驚傳漢他病毒個案！她轟蔣萬安：鼠患成災還跑去雲林作秀 北北基桃生活圈呢？"
-          ]
-        },
-        {
-          "title": "南投地方動態",
-          "city": "南投",
-          "place": "南投縣政府",
-          "level": "red",
-          "news_count": 23,
-          "comment_count": 0,
-          "negativity_pct": 9,
-          "is_urgent": false,
-          "urgency_score": 29,
-          "sample_titles": [
-            "南投縣學前暨國民教育特殊教育學生繪畫比賽 「投心畫藝」頒獎典禮",
-            "縣府表揚榮獲台新青少年志工菁英獎4位得主及南投高商",
-            "南投縣第66屆科展頒獎典禮"
-          ]
-        },
-        {
-          "title": "新北漢他病毒",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "red",
-          "news_count": 33,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 132,
-          "sample_titles": [
-            "第3例漢他病毒足跡跨新北基隆 兩地環保單位加強清消",
-            "林口男基隆工作遭鼠咬傷染漢他病毒 區公所全力加強清消",
-            "醫院美食街抓鼠染漢他 林口男出院了1／40歲男抓鼠遭咬傷染漢他 疾管署：確認是首爾型病毒"
-          ]
-        },
-        {
-          "title": "基隆鼠患事件",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "red",
-          "news_count": 34,
-          "comment_count": 0,
-          "negativity_pct": 91,
-          "is_urgent": true,
-          "urgency_score": 127,
-          "sample_titles": [
-            "基隆爆漢他疫情！市府20日上午發老鼠藥 擬「動預備金」捕鼠",
-            "基隆爆漢他病毒! 男工作遭老鼠咬傷確診 11人匡列接觸者",
-            "基隆爆漢他病毒個案！市府急發老鼠藥 研議動用預備金防疫"
-          ]
-        },
-        {
-          "title": "彰化地方動態",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "red",
-          "news_count": 53,
-          "comment_count": 0,
-          "negativity_pct": 4,
-          "is_urgent": false,
-          "urgency_score": 59,
-          "sample_titles": [
-            "藝術傳情憶親恩 彰化榮家陪伴失智長輩溫馨迎母親節",
-            "大樂透5/19貳獎一注獨得！悲情幸運兒在彰化誕生：獎金只有160萬 | 生活",
-            "魏平政自許成為「彰化設計師」 蕭景田：他若敗選也不選立委！"
-          ]
-        },
-        {
-          "title": "苗栗地方動態",
+          "title": "苗栗墜樓事件",
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 76,
+          "news_count": 6,
           "comment_count": 0,
-          "negativity_pct": 8,
-          "is_urgent": false,
-          "urgency_score": 94,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 24,
           "sample_titles": [
-            "10 . 3千張廢床墊堆成萬里長城 台中市議員憂鼠患：可學苗栗引進設備",
-            "鏡頭：苗栗後龍江西正天府 建於乾隆年間",
-            "完整苗栗醫療網 白沙屯媽祖醫院開工動土 | 客家電視"
-          ]
-        },
-        {
-          "title": "屏東地方動態",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "red",
-          "news_count": 80,
-          "comment_count": 0,
-          "negativity_pct": 8,
-          "is_urgent": false,
-          "urgency_score": 98,
-          "sample_titles": [
-            "屏東榮服處陪伴榮民參訪岡山榮家關懷入住需求– 資訊總分類",
-            "巨無霸16吋漢堡！風田、朵拉、立東吃高雄/屏東美食｜5/19店家資訊",
-            "屏東國際棒球場工程新里程碑! 廉政平臺把關更周全"
+            "苗栗頭份為恭醫院發生墜樓意外 32歲男子OHCA搶救中",
+            "快訊／頭份為恭醫院墜樓意外！32歲男突從頂樓墜落 撞破雨遮身亡",
+            "苗栗為恭醫院驚傳墜樓意外 32歲男頂樓徘徊近2小時後墜下命危"
           ]
         },
         {
@@ -13330,47 +13212,111 @@
           "city": "基隆",
           "place": "基隆市政府",
           "level": "red",
-          "news_count": 82,
+          "news_count": 7,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 328,
+          "urgency_score": 28,
           "sample_titles": [
-            "基隆爆漢他病毒！清潔員遭鼠咬潛伏1月發病 市府急拋「3大作為」",
-            "基隆確診漢他病毒個案恢復良好 無需過度恐慌",
-            "基隆爆漢他病毒 市府掌握清消"
+            "基隆出現漢他病毒案例 專家到民宅協助滅鼠",
+            "基隆爆漢他病例！ 開放領取「滅鼠誘餌」 基市府急聘滅鼠專家",
+            "漢他病毒病例足跡橫跨2縣市 基隆市今起發老鼠藥"
           ]
         },
         {
-          "title": "新北地方動態",
-          "city": "新北",
-          "place": "新北市政府",
+          "title": "高雄漢他病毒",
+          "city": "高雄",
+          "place": "高雄市政府",
           "level": "red",
-          "news_count": 85,
+          "news_count": 7,
           "comment_count": 0,
-          "negativity_pct": 36,
-          "is_urgent": false,
-          "urgency_score": 178,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 28,
           "sample_titles": [
-            "雙北福利落差大 黃淑君促新北補助全面升級",
-            "兒少心理資源覆蓋率低 山田摩衣促新北擴大補助",
-            "5/19 今彩539頭獎開2注！800萬獎落台北、新北"
+            "粉專瞎編高雄20例漢他病毒 陳其邁震怒：散播不實訊息「非常不應該」",
+            "粉專造謠高雄漢他病例遭檢調查緝 陳其邁：一定追究、非常不應該",
+            "粉專造謠高雄漢他病例遭檢調查緝 陳其邁：一定追究、非常不應該"
           ]
         },
         {
-          "title": "台南地方動態",
-          "city": "台南",
-          "place": "台南市政府",
+          "title": "基隆鼠患事件",
+          "city": "基隆",
+          "place": "基隆市政府",
           "level": "red",
-          "news_count": 88,
+          "news_count": 9,
           "comment_count": 0,
-          "negativity_pct": 6,
-          "is_urgent": false,
-          "urgency_score": 103,
+          "negativity_pct": 67,
+          "is_urgent": true,
+          "urgency_score": 27,
           "sample_titles": [
-            "臭氣沖天受不了! 台南黃昏市場店家自力救濟塑膠墊遮水溝",
-            "降雨不如預期！南化水庫蓄水率跌破30％ 重啟高雄越域引水",
-            "台南東區關帝殿誠徵廟祝"
+            "基隆出現漢他病毒案例 專家到民宅協助滅鼠",
+            "基隆爆漢他病例！ 開放領取「滅鼠誘餌」 基市府急聘滅鼠專家",
+            "謝國樑啟動3箭滅鼠行動 基隆建立中長期環境優化任務"
+          ]
+        },
+        {
+          "title": "台中詐騙案",
+          "city": "台中",
+          "place": "台中市豐原區",
+          "level": "red",
+          "news_count": 12,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 48,
+          "sample_titles": [
+            "團購主詐騙逼死豐原5口判11年 家屬：不符期待",
+            "1條命才判2年多？豐原5口命案一審判11年 老鄰居怒批：難怪台灣詐騙猖",
+            "豐原五口案判決！議員拋「詐騙致死」修法 專業律師揭露兩大攻防難題"
+          ]
+        },
+        {
+          "title": "嘉義市地方動態",
+          "city": "嘉義市",
+          "place": "嘉義市政府",
+          "level": "red",
+          "news_count": 14,
+          "comment_count": 0,
+          "negativity_pct": 7,
+          "is_urgent": false,
+          "urgency_score": 17,
+          "sample_titles": [
+            "見證520浪漫結婚登記 嘉義市加碼好禮鼓勵樂婚生養",
+            "浪漫520嘉市府好禮鼓勵樂婚願生",
+            "嘉義市首創校園小尖兵2.0 任務突破5萬筆！黃敏惠喊：打造壞人最討厭城市"
+          ]
+        },
+        {
+          "title": "海線立委戰局",
+          "city": "台中",
+          "place": "台中市北屯區",
+          "level": "red",
+          "news_count": 12,
+          "comment_count": 7,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 19,
+          "sample_titles": [
+            "海線輔具中心員工辦公室身亡 曾嘆工作做不完 盧秀燕說話了",
+            "台中海線建設與民生議題齊發聲 陳廷秀總質詢促市府加速推動地方建設",
+            "房市驚見跳車潮！預售屋連4季「解約」破4百件 台中北屯、海線壓力最大"
+          ]
+        },
+        {
+          "title": "台北鼠患事件",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "red",
+          "news_count": 21,
+          "comment_count": 0,
+          "negativity_pct": 62,
+          "is_urgent": true,
+          "urgency_score": 60,
+          "sample_titles": [
+            "(影) 店內驚見老鼠！女生崩潰抓捕 還取名萬安弟「Andy」",
+            "行銷沈伯洋大法遭蔣萬安酸亂丟垃圾 吳沛憶反擊「掉在地上最多是老鼠」",
+            "綠提姓名貼丟捷運遭蔣萬安喊別亂丟垃圾沈伯洋：鼠患問題更重要| 政治"
           ]
         },
         {
@@ -13378,31 +13324,159 @@
           "city": "基隆",
           "place": "基隆市政府",
           "level": "red",
-          "news_count": 97,
+          "news_count": 28,
           "comment_count": 0,
-          "negativity_pct": 84,
-          "is_urgent": true,
-          "urgency_score": 340,
+          "negativity_pct": 32,
+          "is_urgent": false,
+          "urgency_score": 55,
           "sample_titles": [
-            "記憶體三雄迎質變轉機！華邦電搶吃利基市場、南亞科強攻高規DDR5 卡位伺服器利潤大噴發",
-            "基隆爆漢他病毒！清潔員遭鼠咬潛伏1月發病 市府急拋「3大作為」",
-            "基隆確診漢他病毒個案恢復良好 無需過度恐慌"
+            "基隆青年實習媒合計畫全面升級 薪資加碼補助最高1.2萬",
+            "基隆市府廉政志工又來說故事 廉潔誠信扎根基隆",
+            "基隆二信高中師生獲國際工程創新發明展"
           ]
         },
         {
-          "title": "花蓮地方動態",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
+          "title": "雲林地方動態",
+          "city": "雲林",
+          "place": "雲林縣政府",
           "level": "red",
-          "news_count": 102,
+          "news_count": 39,
+          "comment_count": 0,
+          "negativity_pct": 5,
+          "is_urgent": false,
+          "urgency_score": 45,
+          "sample_titles": [
+            "雲林「微冊食光漫遊」啟航 跨界演繹地方故事",
+            "崇文國小「雲林采風」藝術展北港登場 展現科技與全人教育成果",
+            "雲林啟動微冊食光漫遊 邀民眾體驗"
+          ]
+        },
+        {
+          "title": "台東地方動態",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "red",
+          "news_count": 43,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 138,
+          "urgency_score": 58,
           "sample_titles": [
-            "花蓮115年度總預算爭議定案 內政部正式打臉張峻 國民黨議會黨團強烈譴責少數議員濫權行為 呼籲專注災後重建與民生福祉",
-            "花蓮市重陽敬老禮金下修至65歲 符合資格逾2萬人",
-            "花蓮115年度總預算爭議定案內政部正式打臉張峻國民黨議會黨團強烈譴責少數議員濫權行為呼籲專注災後重建與民生福祉"
+            "新／買晚餐自撞汽車 台東夫妻魂斷回家路",
+            "台東近海2起規模4.8地震 氣象署初判為群震",
+            "台東夫妻夜市買晚餐出車禍！自撞電信工程車不治"
+          ]
+        },
+        {
+          "title": "彰化地方動態",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "red",
+          "news_count": 45,
+          "comment_count": 0,
+          "negativity_pct": 4,
+          "is_urgent": false,
+          "urgency_score": 51,
+          "sample_titles": [
+            "彰化更保舉辦志工座談 粘月琴分享30年輔導心法！",
+            "兼具國際視野及法治素養 魏平政注入新思維 成為「彰化縣的設計師」",
+            "獨家／彰化男花1280萬買新房 主臥地板竟是斜的"
+          ]
+        },
+        {
+          "title": "澎湖地方動態",
+          "city": "澎湖",
+          "place": "澎湖縣政府",
+          "level": "red",
+          "news_count": 57,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 57,
+          "sample_titles": [
+            "澎湖早療補助新制上路 補助全面升級 減輕家庭負擔 打造全國最優早療照護政策",
+            "澎湖馬糞海膽開採期未到金嶼無人島驚見\"非法獵捕屠宰場\"－民視新聞- 民視新聞網",
+            "澎湖馬糞海膽開採期未到 金嶼無人島驚現非法獵捕屠宰場"
+          ]
+        },
+        {
+          "title": "台南地方動態",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "red",
+          "news_count": 78,
+          "comment_count": 0,
+          "negativity_pct": 8,
+          "is_urgent": false,
+          "urgency_score": 96,
+          "sample_titles": [
+            "貨梯驚悚夾斷清潔婦頭 台南眼科診所：致最深歉意、休診至5/25",
+            "沿路塞千元鈔　台南「投鈔怪客」到案稱耳邊有聲音指示",
+            "週一、二別去台南？遊客怨常吃「閉門羹」 觀旅局：避開假日更好玩"
+          ]
+        },
+        {
+          "title": "新竹縣地方動態",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "red",
+          "news_count": 86,
+          "comment_count": 0,
+          "negativity_pct": 1,
+          "is_urgent": false,
+          "urgency_score": 89,
+          "sample_titles": [
+            "白營邱臣遠參選竹北市長",
+            "2026竹北市長選戰 民眾黨先發制人徵召邱臣遠出線 | 台灣好新聞",
+            "2026竹北市長選戰 民眾黨先發制人徵召邱臣遠出線 - 政治新聞 - PChome Online 新聞"
+          ]
+        },
+        {
+          "title": "苗栗地方動態",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "red",
+          "news_count": 92,
+          "comment_count": 0,
+          "negativity_pct": 12,
+          "is_urgent": false,
+          "urgency_score": 125,
+          "sample_titles": [
+            "苗栗頭份為恭醫院發生墜樓意外 32歲男子OHCA搶救中",
+            "快訊/晚間嚇壞！苗栗驚傳恐怖噩耗",
+            "苗栗為恭醫院驚傳墜樓意外 32歲男頂樓徘徊近2小時後墜下命危"
+          ]
+        },
+        {
+          "title": "高雄地方動態",
+          "city": "高雄",
+          "place": "高雄市楠梓區",
+          "level": "red",
+          "news_count": 113,
+          "comment_count": 0,
+          "negativity_pct": 12,
+          "is_urgent": false,
+          "urgency_score": 152,
+          "sample_titles": [
+            "高市議會總質詢聚焦高齡、交通與城市轉型陳其邁：擴大敬老福利、推動智慧醫療| 徐炳文 | 地方新聞",
+            "長榮航空滿足南部旅客需求 A330-300廣體客機飛航高雄東京",
+            "柯志恩擬邀台船溝通潛艦預算！高雄綠營嗆柯做一套、說一套"
+          ]
+        },
+        {
+          "title": "台中市政動態",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "red",
+          "news_count": 108,
+          "comment_count": 6,
+          "negativity_pct": 6,
+          "is_urgent": false,
+          "urgency_score": 134,
+          "sample_titles": [
+            "盧秀燕宣佈22日起清查百貨防偷拍 挨批「打草驚蛇」",
+            "盧秀燕宣佈22日起清查百貨防偷拍 挨批「打草驚蛇」",
+            "盧秀燕宣布22日起清查百貨防偷拍 挨批「打草驚蛇」"
           ]
         },
         {
@@ -13410,15 +13484,31 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 104,
+          "news_count": 116,
           "comment_count": 0,
-          "negativity_pct": 12,
+          "negativity_pct": 7,
           "is_urgent": false,
           "urgency_score": 140,
           "sample_titles": [
-            "吳宗憲宜蘭首場大造勢 蔣萬安站台、鄭麗文未現身",
-            "吳宗憲宜蘭首場大造勢 蔣萬安站台.鄭麗文未現身",
-            "影音／宜蘭女婿助陣！蔣萬安點吳宗憲「兩點比我強」 笑喊：他有女兒！"
+            "台北、宜蘭近山區防較大雨勢 週六天氣回穩",
+            "雪隧塞爆有解？宜蘭交通牛肉不只北宜高鐵 林國漳：「這新公路」將帶動產業進駐",
+            "不只靠賴清德欽點？林國漳揭「橫空出世」真相：深耕宜蘭多年，有信心過半"
+          ]
+        },
+        {
+          "title": "新北地方動態",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "red",
+          "news_count": 137,
+          "comment_count": 0,
+          "negativity_pct": 9,
+          "is_urgent": false,
+          "urgency_score": 173,
+          "sample_titles": [
+            "淡江大橋假日人車爆量 新北啟動交通管制分流人車",
+            "新北TOD3.0上路 淨零碳排納入規範",
+            "新北高中課程發展中心 十年有成"
           ]
         },
         {
@@ -13426,63 +13516,47 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 135,
+          "news_count": 151,
           "comment_count": 0,
-          "negativity_pct": 7,
+          "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 165,
+          "urgency_score": 154,
           "sample_titles": [
-            "「看表演」到「說感受」！桃園「牽手進劇場」 7000師生參與",
-            "記得儲水！5/20桃園、台中、高雄12縣市停水 影響時間範圍一次看 | 生活",
-            "桃園非法托嬰中心另起爐灶 市府加重開罰"
+            "北市私立復興高中小學部疑傳食安 衛生局啟動調查",
+            "中職》新桃園王！李勛傑生涯6轟都在主場 隊友虧「兩支起跳」",
+            "深化雙城情誼桃園市大園區老人會走訪吉安"
           ]
         },
         {
           "title": "台中地方動態",
           "city": "台中",
-          "place": "台中市大里區",
+          "place": "台中市北屯區",
           "level": "red",
-          "news_count": 189,
+          "news_count": 198,
           "comment_count": 0,
-          "negativity_pct": 10,
+          "negativity_pct": 8,
           "is_urgent": false,
           "urgency_score": 243,
           "sample_titles": [
-            "10 . 3千張廢床墊堆成萬里長城 台中市議員憂鼠患：可學苗栗引進設備",
-            "台中LaLaport爆偷拍 運動品牌UA\"監視器拍更衣室\"",
-            "記得儲水！5/20桃園、台中、高雄12縣市停水 影響時間範圍一次看 | 生活"
+            "台中輔具中心員工陳屍辦公室 盧秀燕：不知情",
+            "不認同黨內霸凌文化！楊寶楨宣布退黨 將獨立參選台中市議員 | 政治快訊 | 要聞",
+            "民眾黨前發言人楊寶楨有意角逐台中市東南區市議員，她日前稱若黨中央不提名她，將考慮脫黨參選。楊寶楨今天發文宣布退黨，她說，"
           ]
         },
         {
           "title": "台北地方動態",
           "city": "台北",
-          "place": "台北市南港區",
+          "place": "台北市松山區",
           "level": "red",
-          "news_count": 201,
+          "news_count": 313,
           "comment_count": 0,
-          "negativity_pct": 13,
+          "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 279,
+          "urgency_score": 373,
           "sample_titles": [
-            "吳宗憲宜蘭首場大造勢 蔣萬安站台、鄭麗文未現身",
-            "吳宗憲宜蘭首場大造勢 蔣萬安站台.鄭麗文未現身",
-            "北市後備旅志願射擊訓練 厚植總體防衛韌性"
-          ]
-        },
-        {
-          "title": "高雄地方動態",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "red",
-          "news_count": 210,
-          "comment_count": 0,
-          "negativity_pct": 20,
-          "is_urgent": false,
-          "urgency_score": 336,
-          "sample_titles": [
-            "高雄重機騎士未避讓救護車 遭撞飛還要吞罰款、吊銷駕照",
-            "降雨不如預期！南化水庫蓄水率跌破30％ 重啟高雄越域引水",
-            "【高雄色警逼女「拍私密照還滅證」 陳其邁震怒要求警局重查】 （#大表哥）"
+            "北市私立復興高中小學部疑傳食安 衛生局啟動調查",
+            "台北、宜蘭近山區防較大雨勢 週六天氣回穩",
+            "影/北市醉男餐廳鬧事脫序咆哮 屢勸不聽遭警壓制管束"
           ]
         }
       ]
