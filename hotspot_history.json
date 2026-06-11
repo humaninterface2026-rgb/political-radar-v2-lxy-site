@@ -29432,7 +29432,7 @@
     },
     {
       "date": "2026-06-11",
-      "snapshot_at": "2026-06-11T14:45:10.386574+00:00",
+      "snapshot_at": "2026-06-11T14:52:34.800740+00:00",
       "hotspots": [
         {
           "title": "高雄公廁議題",
@@ -29473,8 +29473,8 @@
           "is_urgent": false,
           "urgency_score": 2,
           "sample_titles": [
-            "台中大雨操場變水池 海線14萬戶停電",
-            "這次不是小動物闖禍！台中海線逾14萬戶大停電 台電曝原因"
+            "[TaichungBun] [新聞] 台中海線14萬戶大停電原因曝光網傻眼 台",
+            "台中大雨操場變水池 海線14萬戶停電"
           ]
         },
         {
@@ -29524,20 +29524,6 @@
           ]
         },
         {
-          "title": "台南狼師事件",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台南女聚餐喝醉遭同事性侵 DNA比對定罪判賠150萬"
-          ]
-        },
-        {
           "title": "高雄狼師事件",
           "city": "高雄",
           "place": "高雄市政府",
@@ -29552,9 +29538,9 @@
           ]
         },
         {
-          "title": "屏東弊案爭議",
-          "city": "屏東",
-          "place": "屏東縣政府",
+          "title": "台南狼師事件",
+          "city": "台南",
+          "place": "台南市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -29562,21 +29548,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "屏東洗車場變詐團據點！虛擬幣洗錢637萬 11人遭起訴求重刑"
-          ]
-        },
-        {
-          "title": "雲林弊案爭議",
-          "city": "雲林",
-          "place": "雲林縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "雲林50歲男仲介非法移工 低薪剝削遭起訴"
+            "台南女聚餐喝醉遭同事性侵 DNA比對定罪判賠150萬"
           ]
         },
         {
@@ -29594,19 +29566,31 @@
           ]
         },
         {
-          "title": "台中狼師事件",
-          "city": "台中",
-          "place": "台中市政府",
+          "title": "雲林弊案爭議",
+          "city": "雲林",
+          "place": "雲林縣政府",
           "level": "yellow",
-          "news_count": 3,
+          "news_count": 1,
           "comment_count": 0,
           "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 12,
+          "is_urgent": false,
+          "urgency_score": 4,
           "sample_titles": [
-            "夜店門口公主抱撿屍！台中2狼接力性侵泥醉妹 她當庭崩潰痛哭",
-            "台中夜店門口泥醉女遭撿屍、性侵 2色男被判刑3年10月再賠百萬",
-            "台中女夜店外遭2男撿屍「輪流性侵」崩潰怒告獲賠百萬"
+            "雲林50歲男仲介非法移工 低薪剝削遭起訴"
+          ]
+        },
+        {
+          "title": "屏東弊案爭議",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "屏東洗車場變詐團據點！虛擬幣洗錢637萬 11人遭起訴求重刑"
           ]
         },
         {
@@ -29722,11 +29706,11 @@
           "city": "台東",
           "place": "台東縣政府",
           "level": "yellow",
-          "news_count": 22,
+          "news_count": 21,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 25,
+          "urgency_score": 24,
           "sample_titles": [
             "台東榮服處企業徵才說明會 退役士官兵「穩定、耐操」廠商超愛",
             "東博【紅土之上】棒球特展 台北松菸狂吸2萬人次 7/3移展台東 回歸棒球原鄉再續熱血！",
@@ -29826,6 +29810,22 @@
           ]
         },
         {
+          "title": "台中狼師事件",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "red",
+          "news_count": 5,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 20,
+          "sample_titles": [
+            "夜店門口公主抱撿屍！台中2狼接力性侵泥醉妹 她當庭崩潰痛哭",
+            "台中夜店門口泥醉女遭撿屍、性侵 2色男被判刑3年10月再賠百萬",
+            "台中女夜店外遭2男撿屍「輪流性侵」崩潰怒告獲賠百萬"
+          ]
+        },
+        {
           "title": "桃園弊案爭議",
           "city": "桃園",
           "place": "桃園市政府",
@@ -29846,11 +29846,11 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "red",
-          "news_count": 10,
+          "news_count": 11,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 40,
+          "urgency_score": 44,
           "sample_titles": [
             "台中梧棲車禍 小客車自撞路樹釀2死1傷",
             "台中嚴重車禍！猛撞路樹1人拋飛 釀2死1傷",
@@ -30022,11 +30022,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 94,
+          "news_count": 93,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 94,
+          "urgency_score": 93,
           "sample_titles": [
             "新北要變天了？周玉蔻揭政治學者預測「蘇巧慧有機會贏」 | 要聞",
             "出席中和宮廟平安餐會受熱烈歡迎 李四川：攜手基層建設新北",
@@ -30070,11 +30070,11 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 158,
+          "news_count": 157,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 173,
+          "urgency_score": 172,
           "sample_titles": [
             "北市公車雨傘怪客「戳傷女高中生」 男辯「下車心急」：她擋路",
             "信義線東延段尚未取得消防核可履勘遭拒 北市捷運局：持續改善",
@@ -30102,11 +30102,11 @@
           "city": "台中",
           "place": "台中市清水區",
           "level": "red",
-          "news_count": 163,
+          "news_count": 167,
           "comment_count": 0,
-          "negativity_pct": 10,
+          "negativity_pct": 13,
           "is_urgent": false,
-          "urgency_score": 214,
+          "urgency_score": 233,
           "sample_titles": [
             "征戰3週「只贏1個妹妹」 自嘲在台中快走不下去",
             "台中梧棲車禍 小客車自撞路樹釀2死1傷",
