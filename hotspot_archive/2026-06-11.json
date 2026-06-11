@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "snapshot_at": "2026-06-11T15:17:22.558929+00:00",
+  "snapshot_at": "2026-06-11T15:18:45.470338+00:00",
   "hotspots": [
     {
       "title": "高雄公廁議題",
@@ -311,6 +311,27 @@
       "comments": []
     },
     {
+      "title": "台中弊案爭議",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "台中夜店門口泥醉女遭撿屍、性侵 2色男被判刑3年10月再賠百萬",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%A4%9C%E5%BA%97%E9%96%80%E5%8F%A3%E6%B3%A5%E9%86%89%E5%A5%B3%E9%81%AD%E6%92%BF%E5%B1%8D-%E6%80%A7%E4%BE%B5-2%E8%89%B2%E7%94%B7%E8%A2%AB%E5%88%A4%E5%88%913%E5%B9%B410%E6%9C%88%E5%86%8D%E8%B3%A0%E7%99%BE%E8%90%AC-034000903.html",
+          "time": "2026-06-11 11:40:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "屏東弊案爭議",
       "city": "屏東",
       "place": "屏東縣政府",
@@ -346,27 +367,6 @@
           "title": "雲林50歲男仲介非法移工 低薪剝削遭起訴",
           "url": "https://tw.news.yahoo.com/%E9%9B%B2%E6%9E%9750%E6%AD%B2%E7%94%B7%E4%BB%B2%E4%BB%8B%E9%9D%9E%E6%B3%95%E7%A7%BB%E5%B7%A5-%E4%BD%8E%E8%96%AA%E5%89%9D%E5%89%8A%E9%81%AD%E8%B5%B7%E8%A8%B4-101700221.html",
           "time": "2026-06-11 18:17:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "台中弊案爭議",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "台中夜店門口泥醉女遭撿屍、性侵 2色男被判刑3年10月再賠百萬",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%A4%9C%E5%BA%97%E9%96%80%E5%8F%A3%E6%B3%A5%E9%86%89%E5%A5%B3%E9%81%AD%E6%92%BF%E5%B1%8D-%E6%80%A7%E4%BE%B5-2%E8%89%B2%E7%94%B7%E8%A2%AB%E5%88%A4%E5%88%913%E5%B9%B410%E6%9C%88%E5%86%8D%E8%B3%A0%E7%99%BE%E8%90%AC-034000903.html",
-          "time": "2026-06-11 11:40:00",
           "publisher": "Yahoo新聞",
           "severity": "red"
         }
@@ -1577,11 +1577,11 @@
       "city": "新竹縣",
       "place": "新竹縣政府",
       "level": "yellow",
-      "news_count": 29,
+      "news_count": 28,
       "comment_count": 0,
-      "negativity_pct": 3,
+      "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 32,
+      "urgency_score": 31,
       "news_articles": [
         {
           "title": "新竹縣轄內高中在頂尖大學錄取率亮眼 學子躋身理工科技生醫領域",
@@ -1778,13 +1778,6 @@
           "time": "2026-06-10 23:29:12",
           "publisher": "Google News→dpp.org.tw",
           "severity": null
-        },
-        {
-          "title": "回顧／鄭朝方捲土再戰新竹縣長 提名峰迴路轉「連選對會都看不下去」",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pMDBWQjZOVzFjMnJjbXBuM2MzOU9FR1lmTENENXNNTW1td1hTeUZXci1CWEV2aEFlOE1DQW9wV19CTl9EVEw1WVZUODBabzA2U2c?oc=5",
-          "time": "2026-06-10 23:17:44",
-          "publisher": "Google News→鏡報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -10278,11 +10271,11 @@
       "city": "台中",
       "place": "台中市清水區",
       "level": "red",
-      "news_count": 167,
+      "news_count": 168,
       "comment_count": 0,
       "negativity_pct": 13,
       "is_urgent": false,
-      "urgency_score": 233,
+      "urgency_score": 234,
       "news_articles": [
         {
           "title": "征戰3週「只贏1個妹妹」 自嘲在台中快走不下去",
@@ -10611,6 +10604,13 @@
           "url": "https://www.ptt.cc/bbs/TaichungBun/M.1781169961.A.A6F.html",
           "time": "2026-06-11 17:26:01",
           "publisher": null,
+          "severity": null
+        },
+        {
+          "title": "中市打造「人本安全、車流順暢」交通新典範 行人優先號誌累計千處、行車號誌6,658處全國最多",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xazFxcUQ0cWR2bWhqSDZ0RUNNdVcza0NUYmpQOTByRFFHUVdubGVsRXlCOHd4NXZRUVZncG9FS3ZFS3hMdGNMNGRKUEZFVDFacnc?oc=5",
+          "time": "2026-06-11 17:16:58",
+          "publisher": "Google News→taichung.gov.tw",
           "severity": null
         },
         {
