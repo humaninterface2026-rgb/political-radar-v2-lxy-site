@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "snapshot_at": "2026-06-11T13:59:03.941563+00:00",
+  "snapshot_at": "2026-06-11T14:10:21.494185+00:00",
   "hotspots": [
     {
       "title": "盧秀燕訪美外交",
@@ -126,11 +126,11 @@
       "city": "連江",
       "place": "連江縣（馬祖）",
       "level": "green",
-      "news_count": 18,
+      "news_count": 17,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 18,
+      "urgency_score": 17,
       "news_articles": [
         {
           "title": "民航局出動四架次軍機 天晴疏運馬祖279人",
@@ -250,13 +250,6 @@
           "time": "2026-06-10 22:16:40",
           "publisher": "Google News→勁報",
           "severity": null
-        },
-        {
-          "title": "「藝術游擊」馬祖駐村徵選線上報名 增長進駐時間深度體驗在地特色",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94RGNCbWVxMk05M1BCZzh6VFVUY0U0UVJKVFgxUEtvWjdTRW0xeERDQmZfQlRlVUZIZXZZSGpxUUt6LTJwbzRWMTVBMzRFd1ZPZFE?oc=5",
-          "time": "2026-06-10 22:09:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -304,27 +297,6 @@
       "comments": []
     },
     {
-      "title": "雲林弊案爭議",
-      "city": "雲林",
-      "place": "雲林縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "雲林50歲男仲介非法移工 低薪剝削遭起訴",
-          "url": "https://tw.news.yahoo.com/%E9%9B%B2%E6%9E%9750%E6%AD%B2%E7%94%B7%E4%BB%B2%E4%BB%8B%E9%9D%9E%E6%B3%95%E7%A7%BB%E5%B7%A5-%E4%BD%8E%E8%96%AA%E5%89%9D%E5%89%8A%E9%81%AD%E8%B5%B7%E8%A8%B4-101700221.html",
-          "time": "2026-06-11 18:17:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台中弊案爭議",
       "city": "台中",
       "place": "台中市政府",
@@ -339,6 +311,27 @@
           "title": "台中夜店門口泥醉女遭撿屍、性侵 2色男被判刑3年10月再賠百萬",
           "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%A4%9C%E5%BA%97%E9%96%80%E5%8F%A3%E6%B3%A5%E9%86%89%E5%A5%B3%E9%81%AD%E6%92%BF%E5%B1%8D-%E6%80%A7%E4%BE%B5-2%E8%89%B2%E7%94%B7%E8%A2%AB%E5%88%A4%E5%88%913%E5%B9%B410%E6%9C%88%E5%86%8D%E8%B3%A0%E7%99%BE%E8%90%AC-034000903.html",
           "time": "2026-06-11 11:40:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "雲林弊案爭議",
+      "city": "雲林",
+      "place": "雲林縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "雲林50歲男仲介非法移工 低薪剝削遭起訴",
+          "url": "https://tw.news.yahoo.com/%E9%9B%B2%E6%9E%9750%E6%AD%B2%E7%94%B7%E4%BB%B2%E4%BB%8B%E9%9D%9E%E6%B3%95%E7%A7%BB%E5%B7%A5-%E4%BD%8E%E8%96%AA%E5%89%9D%E5%89%8A%E9%81%AD%E8%B5%B7%E8%A8%B4-101700221.html",
+          "time": "2026-06-11 18:17:00",
           "publisher": "Yahoo新聞",
           "severity": "red"
         }
@@ -599,11 +592,11 @@
       "city": "嘉義市",
       "place": "嘉義市政府",
       "level": "yellow",
-      "news_count": 17,
+      "news_count": 16,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 17,
+      "urgency_score": 16,
       "news_articles": [
         {
           "title": "嘉義市區域設計中心正式揭牌啟用！首屆嘉義市設計週同步登場",
@@ -715,13 +708,6 @@
           "url": "https://tw.news.yahoo.com/%E5%85%A8%E5%9C%8B%E6%AD%A3%E5%89%AF%E8%AD%B0%E9%95%B7%E5%BA%A7%E8%AB%87%E6%9C%83%E5%98%89%E7%BE%A9%E5%B8%82%E7%99%BB%E5%A0%B4-%E8%AD%B0%E9%95%B7%E9%99%B3%E5%A7%BF%E5%A6%8F-%E4%BA%A4%E6%B5%81%E6%8F%90%E5%8D%87%E8%AD%B0%E6%94%BF%E6%95%88%E7%9B%8A-160058138.html",
           "time": "2026-06-11 00:00:58",
           "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "全國正副議長聯誼會嘉義市登場 交流議政經驗",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5468035",
-          "time": "2026-06-10 21:59:59",
-          "publisher": "自由時報",
           "severity": null
         }
       ],
@@ -2335,12 +2321,19 @@
       "city": "台中",
       "place": "台中市大里區",
       "level": "yellow",
-      "news_count": 58,
+      "news_count": 59,
       "comment_count": 4,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 66,
+      "urgency_score": 67,
       "news_articles": [
+        {
+          "title": "路人批盧秀燕赴歐被抓包？江和樹揭身分：綠民代服務處主任假冒",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uZE5Vb21mR1ZHMmdHZ3UwOEk2dmR1dVNtUS1HNUFhOFhPY0R2UzRFSEVQNUY1ZXIyLUgzR3Q4bmlZWHlVcXpWSHQzME9BejhaNTJiT0VfdEVBTzg1Y0HSAWhBVV95cUxQWmlTbFVVeXY5bjIxQWg0U0IxcWxlR2RoSExnU3NjZmFRcnI1QTE5N20ySXk0anhmNGdOcjJRanVrczlFakRHX0Q1TWc4QVNVTzdaOGQtY2dTQ1lMZnBWSXVmbDBqZHRSZQ?oc=5",
+          "time": "2026-06-11 21:57:00",
+          "publisher": "ETtoday",
+          "severity": "yellow"
+        },
         {
           "title": "街訪安插樁腳？2路人批評盧秀燕赴歐…江和樹：竟是綠民代服務處主任假冒",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MSDh4S2NoOVZDU3hlUlZpZzBodDVpR212cUc4MUhoWm52VFA4REtoLW9hRDNnMzNnZ01yMVF4dURGUk5oV05hbEhndTUyc204Y1htZlY3djZvZzFMaEwtTC1QbEVFSnlTczJOWWI2bHVVVzQ2XzlqS2VKa9IBVkFVX3lxTE5tRndrMm0wVVZXWG9JaFNnTTUyaklGMTF3SDQwdERoZDFvdU82dlFLMHBCcE1wMjBOeERJWjdBdmt4azBQM3IzdUZVWjJJOEFtNVFKMnNR?oc=5",
@@ -3257,11 +3250,11 @@
       "city": "雲林",
       "place": "雲林縣政府",
       "level": "red",
-      "news_count": 22,
+      "news_count": 21,
       "comment_count": 0,
       "negativity_pct": 14,
       "is_urgent": false,
-      "urgency_score": 31,
+      "urgency_score": 30,
       "news_articles": [
         {
           "title": "張麗善縣長、蔣萬安市長同框行銷雲林良品豬和榮意、錢都強強聯手展現產地直達的自然鮮嫩Q彈",
@@ -3408,13 +3401,6 @@
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcjJZYlZqUlJhNkF5WWlUdXI1Tmd5UUhDTDJlcUhYY05jTkZ4UmE1YWxuZUQyUFdzeU9vQ3didFo4SjZxX05SQVlhTmh2ZEVhNl9TSUxsOWZoSUcyOUw2ckxkTnhabkJEU19rdlRZclZ3LVAwZ3VVTHNOa0lidlA3ME1kRm4?oc=5",
           "time": "2026-06-10 22:26:48",
           "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "張麗善北上推銷台灣豬 攜手「雲林外孫」蔣萬安讓雲林良品豬攻占餐桌",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KSW5kOUo1bnRLZTFzZ3BYU3h6QktaYy1DZGU2bFBNTG9lV1U1UUYyRzdZUk5YeVRwWUR0SVY3TUdqZzRPTmtYZ0pXRzRETnpITUJYUUNIWnhGQkwtS1NSUTQ3T1BaZ1pD?oc=5",
-          "time": "2026-06-10 22:08:22",
-          "publisher": "Google News→元丰傳媒",
           "severity": null
         }
       ],
@@ -4692,11 +4678,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "red",
-      "news_count": 61,
+      "news_count": 59,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 67,
+      "urgency_score": 65,
       "news_articles": [
         {
           "title": "屏東縣「銀閃志在改造王」徵件開跑 最高補助6萬元 打造高齡友善志工環境",
@@ -5109,20 +5095,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43akV5MWFPMUhEOHM4UHFieVdVOGJPRzZFejBZQ3k1TzJFR0x4d2V3akdLQ2d5WGM4Slg3UTRKRkJ1WnZ0OXBVeW9qTzRhWHUyYkpQQw?oc=5",
           "time": "2026-06-10 23:44:00",
           "publisher": "東森新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "屏東縣政府表揚115年模範公務人員",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFa2YxQl9Wa09icS1YN1d1b2lKd21fM0JTdUtEWTlFejhqZHZKZm80cW04ZDZTMTM5a0JhZUNld2FUTm1OUFIzQTV4TDlaXzN3dXc?oc=5",
-          "time": "2026-06-10 22:09:30",
-          "publisher": "Google News→【飛揚新聞】",
-          "severity": null
-        },
-        {
-          "title": "連日大雨！ 屏東半導體供應鏈專區工地積水、車拋錨",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-06-10/2373699.html",
-          "time": "2026-06-10 21:59:00",
-          "publisher": "壹電視",
           "severity": "yellow"
         }
       ],
@@ -8703,11 +8675,11 @@
       "city": "台北",
       "place": "台北市士林區",
       "level": "red",
-      "news_count": 154,
+      "news_count": 152,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 169,
+      "urgency_score": 167,
       "news_articles": [
         {
           "title": "驚見中共建黨紅歌！北市幼兒園畢典選曲惹議 陸委會態度曝 | 要聞",
@@ -9772,20 +9744,6 @@
           "time": "2026-06-10 22:10:43",
           "publisher": "中央社",
           "severity": null
-        },
-        {
-          "title": "張麗善北上推銷台灣豬 攜手「雲林外孫」蔣萬安讓雲林良品豬攻占餐桌",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KSW5kOUo1bnRLZTFzZ3BYU3h6QktaYy1DZGU2bFBNTG9lV1U1UUYyRzdZUk5YeVRwWUR0SVY3TUdqZzRPTmtYZ0pXRzRETnpITUJYUUNIWnhGQkwtS1NSUTQ3T1BaZ1pD?oc=5",
-          "time": "2026-06-10 22:08:22",
-          "publisher": "Google News→元丰傳媒",
-          "severity": null
-        },
-        {
-          "title": "北市吸菸區竟設幼兒園旁　議員批市府為KPI走過場",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-06-10/2373630.html",
-          "time": "2026-06-10 21:58:59",
-          "publisher": "壹電視",
-          "severity": "yellow"
         }
       ],
       "comments": []
