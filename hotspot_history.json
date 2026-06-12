@@ -30117,7 +30117,7 @@
     },
     {
       "date": "2026-06-12",
-      "snapshot_at": "2026-06-12T15:16:21.549890+00:00",
+      "snapshot_at": "2026-06-12T15:26:33.251731+00:00",
       "hotspots": [
         {
           "title": "台中槍擊事件",
@@ -30230,20 +30230,6 @@
           ]
         },
         {
-          "title": "台北弊案爭議",
-          "city": "台北",
-          "place": "台北市萬華區",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "北市萬華租客殺死二房東 判刑19年定讞"
-          ]
-        },
-        {
           "title": "嘉義縣弊案爭議",
           "city": "嘉義縣",
           "place": "嘉義縣政府",
@@ -30255,6 +30241,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "太保市代表林淑勉涉罷免法遭判刑將上訴 吳宏哲再徵證人出庭作證"
+          ]
+        },
+        {
+          "title": "台北弊案爭議",
+          "city": "台北",
+          "place": "台北市萬華區",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "北市萬華租客殺死二房東 判刑19年定讞"
           ]
         },
         {
@@ -30374,11 +30374,11 @@
           "city": "新竹縣",
           "place": "新竹縣政府",
           "level": "yellow",
-          "news_count": 28,
+          "news_count": 27,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 28,
+          "urgency_score": 27,
           "sample_titles": [
             "共組大新竹勝利「方」「程」式 鄭朝方：新竹縣市是共同成長的夥伴 | 自由電子報",
             "共組大新竹勝利「方」「程」式 鄭朝方：新竹縣市是共同成長的夥伴",
@@ -30527,6 +30527,22 @@
           ]
         },
         {
+          "title": "桃園車禍事件",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "red",
+          "news_count": 7,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 28,
+          "sample_titles": [
+            "桃園毒駕撞死侯姓行人 相驗結果係車禍造中樞神經休克死亡",
+            "桃園楊梅軍用車車禍！巨大聲響驚動住戶撞爛路邊5汽車現場曝光| 三立新聞網",
+            "桃園楊梅軍用車車禍！巨大聲響驚動住戶 撞爛路邊5汽車現場曝光"
+          ]
+        },
+        {
           "title": "台中車禍事件",
           "city": "台中",
           "place": "台中市政府",
@@ -30540,22 +30556,6 @@
             "梧棲2死車禍搜出K他命 高大成揭毒駕恐怖真相",
             "梧棲深夜驚傳死亡車禍 轎車疑競速失控撞樹釀2死1傷",
             "台中恐怖車禍增至2死 駕駛、乘客雙雙喪命"
-          ]
-        },
-        {
-          "title": "桃園車禍事件",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "red",
-          "news_count": 9,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 36,
-          "sample_titles": [
-            "桃園毒駕撞死侯姓行人 相驗結果係車禍造中樞神經休克死亡",
-            "桃園楊梅軍用車車禍！巨大聲響驚動住戶撞爛路邊5汽車現場曝光| 三立新聞網",
-            "桃園楊梅軍用車車禍！巨大聲響驚動住戶 撞爛路邊5汽車現場曝光"
           ]
         },
         {
@@ -30835,11 +30835,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 250,
+          "news_count": 244,
           "comment_count": 0,
-          "negativity_pct": 15,
+          "negativity_pct": 14,
           "is_urgent": false,
-          "urgency_score": 361,
+          "urgency_score": 346,
           "sample_titles": [
             "移動式炸彈奪命 桃園狂男毒駕9度闖紅燈 撞碎兩家庭後傷重不治",
             "御前上茶桃園旗艦店開幕啟動餐食新布局 美國第二店落腳舊金山灣區",

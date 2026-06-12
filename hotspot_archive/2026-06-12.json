@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "snapshot_at": "2026-06-12T15:16:21.549890+00:00",
+  "snapshot_at": "2026-06-12T15:26:33.251731+00:00",
   "hotspots": [
     {
       "title": "台中槍擊事件",
@@ -289,27 +289,6 @@
       "comments": []
     },
     {
-      "title": "台北弊案爭議",
-      "city": "台北",
-      "place": "台北市萬華區",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "北市萬華租客殺死二房東 判刑19年定讞",
-          "url": "https://www.cna.com.tw/news/asoc/202606120116.aspx",
-          "time": "2026-06-12 11:42:43",
-          "publisher": "中央社",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "嘉義縣弊案爭議",
       "city": "嘉義縣",
       "place": "嘉義縣政府",
@@ -325,6 +304,27 @@
           "url": "https://tw.news.yahoo.com/%E5%A4%AA%E4%BF%9D%E5%B8%82%E4%BB%A3%E8%A1%A8%E6%9E%97%E6%B7%91%E5%8B%89%E6%B6%89%E7%BD%B7%E5%85%8D%E6%B3%95%E9%81%AD%E5%88%A4%E5%88%91%E5%B0%87%E4%B8%8A%E8%A8%B4-%E5%90%B3%E5%AE%8F%E5%93%B2%E5%86%8D%E5%BE%B5%E8%AD%89%E4%BA%BA%E5%87%BA%E5%BA%AD%E4%BD%9C%E8%AD%89-093920283.html",
           "time": "2026-06-12 09:39:20",
           "publisher": "Yahoo新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台北弊案爭議",
+      "city": "台北",
+      "place": "台北市萬華區",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "北市萬華租客殺死二房東 判刑19年定讞",
+          "url": "https://www.cna.com.tw/news/asoc/202606120116.aspx",
+          "time": "2026-06-12 11:42:43",
+          "publisher": "中央社",
           "severity": "red"
         }
       ],
@@ -919,11 +919,11 @@
       "city": "新竹縣",
       "place": "新竹縣政府",
       "level": "yellow",
-      "news_count": 28,
+      "news_count": 27,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 28,
+      "urgency_score": 27,
       "news_articles": [
         {
           "title": "共組大新竹勝利「方」「程」式 鄭朝方：新竹縣市是共同成長的夥伴 | 自由電子報",
@@ -1112,13 +1112,6 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZNi1IWjRyRlo0N3E0OWdyUXAtZWJUUmlMVnBhOHpzT0ZpRDhkeUNkSTdfbTFuaGt0RFkxYTJJQWgzMlc5LVVtbFJ3aWo0RV9ZSEEwc0dyMUxzaUZIeENraC1RWmg1TzlXV0pmWW9B?oc=5",
           "time": "2026-06-11 23:55:51",
           "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "全少跆拳賽》新竹縣3金奪男團第一 沈信村橫掃完成三連霸",
-          "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQWE9wdTZVS3ZmUUFUTW1YclgxSlNXNGd6bmpMWkdCb3RMUzRELXpnLVpYaHFWTTh4cXM1ZXVXRnQ5UGUzd2VVSjJsbWN3YlF3UDJKMGkwQjJoODNSTlZZLWMydVRGUzNpN1JheXFucVNSZ3hiUkNBZkFZN3d4NVIwbzJNMkpUVFNURHNISDYwYnZrUlotX3F6SUZJbjhRMnI2dWlnSFNobVNFZHhUbXNOSmNRRnUtZXBZdWJMbGd5WlZnRF9BT1FrQlZ0NWwyRjV5ZXJlMEM0V3dacUtpMElHNjBQOEp5Q3dEOEVjVUJCNXFsR0hCdVAwVnhhT2ltRVRoemYwOHd5TE5aOEVCWG5lTHJsaFhHZmF0V0dXQmVET0k2ZzluVXBlOGZtOExvZnJhanpMZVFsbURYUmliSy0tcjZSSEFld0RpRVY0S3IyS0J3SkxNMTJZNzNqYThqT21VVmZ1ZEpXN1REOFc3TXFWWlVKTW8?oc=5",
-          "time": "2026-06-11 23:20:21",
-          "publisher": "Yahoo新聞",
           "severity": null
         }
       ],
@@ -2476,6 +2469,69 @@
       "comments": []
     },
     {
+      "title": "桃園車禍事件",
+      "city": "桃園",
+      "place": "桃園市政府",
+      "level": "red",
+      "news_count": 7,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 28,
+      "news_articles": [
+        {
+          "title": "桃園毒駕撞死侯姓行人 相驗結果係車禍造中樞神經休克死亡",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5469975",
+          "time": "2026-06-12 14:08:25",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "桃園楊梅軍用車車禍！巨大聲響驚動住戶撞爛路邊5汽車現場曝光| 三立新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4S2R5OUFpcV80TFY0bTJTS0dpd19LUDR0cGxUYjNuWXdTWjhZczhkMXdzQmgtYjkyV1ZyN293eFptNUJ6REtBbkVHb2loR250U0tyWVV3?oc=5",
+          "time": "2026-06-12 10:09:52",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園楊梅軍用車車禍！巨大聲響驚動住戶 撞爛路邊5汽車現場曝光",
+          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOWVdtLW1WYUJpM0t6TjNHWDlKa1o5NHFRUTJDZ3dXU0RpbGgtM05vaWtBcm12cHl5TndrNjdDWWk4dC1sYjhEbGszWHYxNlRicmR2T1ZxVUhTaFgtQzFaTUNzYzEyM01xa001UVhXSXdGalg4M212R3Z5Q0Z4RGEwV3BCbTMyaDdjWWRGaGp6N24zcEEteHV3dEpRdW5USXlZbmRQNHQyVWM2OEw2ekpWOFFkQWt5WWRHMk11LTZjYTFUMW9FM0tBTGRhYlduTXZleWdvSFFGdHNHYWcxOEM5eFpteDJHMjg0UU1OVk4ycjB6UTlTb3NqZzNsUnpuVUlqWWZGU2pFUTdPRmlPOTRTa25lX3VZVEctd25mdTN3U25ybGRsTFQzcnJKaDYtdXpFbTlvN2ZNZV9kTGRCNTVFeVFMTjg4REd6dUNtQWtoeUYtZzVnanNYZ2ZmN05PQ2ZqcDRGV0pvWUNYTXdFUk9qZC1jY1h6M2FJalZfME04QmN3Z0RESDRsdkZwTHAtMUFsQzB2Mk1xUlBsM0k?oc=5",
+          "time": "2026-06-12 09:10:56",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園楊梅軍用車車禍！巨大聲響驚動住戶 撞爛路邊5汽車現場曝光",
+          "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E6%A5%8A%E6%A2%85%E8%BB%8D%E7%94%A8%E8%BB%8A%E8%BB%8A%E7%A6%8D-%E5%B7%A8%E5%A4%A7%E8%81%B2%E9%9F%BF%E9%A9%9A%E5%8B%95%E4%BD%8F%E6%88%B6-%E6%92%9E%E7%88%9B%E8%B7%AF%E9%82%8A5%E6%B1%BD%E8%BB%8A%E7%8F%BE%E5%A0%B4%E6%9B%9D%E5%85%89-010400931.html",
+          "time": "2026-06-12 09:04:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園軍用車車禍！撞爛路邊5汽車現場曝光",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yZS1yazdZOV9FRjVzNE0yeU5ibDJzQ3lqVjNDdC11eXFndm1iM2pLckQ0V1phYXc3VWN3a3RjZ04xTTdaY0loZVJYQjJlUG9ibEVKM3RfaTJhaU9C0gFiQVVfeXFMT2VGSVZ4NEZrQW9zQ3c5RVF1MjRMcGNud1Jzc2phNkptZEpoSkhUcU1IT0llU3RUTkVod1Y2aFRoSVNKbmRKb2dGU1RXZnZrZkpIYWZiMDQ0cThVbzdrNjNPckE?oc=5",
+          "time": "2026-06-12 08:59:00",
+          "publisher": "Google News→鏡週刊Mirror Media",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園警抓嫌犯釀車禍！2路人頭部重創",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBGZk9VWkZ5NlZ6azFrazFBWHIzODhyZVFXRDNtaFRSQlgwRm4zUnpiQnM5YlMyNDVjaDdoTzRoR2dIVXFtMmc?oc=5",
+          "time": "2026-06-12 08:15:25",
+          "publisher": "三立新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園警匪追逐重大車禍釀2死 市府跨局處趕赴醫院：全力協助家屬",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Rc0VyMUVLdFU5bUY1eV9MdnlETHRfYVdnWWJVRzhQcXlPU29fVXlpSHBVZndqVThBS3ZxaWF5b0I1NU15OUxEem96bEdFU1p60gFWQVVfeXFMTl9DcjhmWGkxbk5GTFM4ZXFkalNFaTlKWXJFZzhyOGJCRlFlblBuYjQtTVZaemhqZnJfZ3NFaEFlQmZkWkpwcUZOeEtkTGItV1FNUE1OUHc?oc=5",
+          "time": "2026-06-11 23:46:31",
+          "publisher": "Google News→UDN",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "台中車禍事件",
       "city": "台中",
       "place": "台中市政府",
@@ -2533,83 +2589,6 @@
           "url": "https://www.chinatimes.com/realtimenews/20260612001708-260402",
           "time": "2026-06-12 00:17:08",
           "publisher": "中時新聞網",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "桃園車禍事件",
-      "city": "桃園",
-      "place": "桃園市政府",
-      "level": "red",
-      "news_count": 9,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 36,
-      "news_articles": [
-        {
-          "title": "桃園毒駕撞死侯姓行人 相驗結果係車禍造中樞神經休克死亡",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5469975",
-          "time": "2026-06-12 14:08:25",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "桃園楊梅軍用車車禍！巨大聲響驚動住戶撞爛路邊5汽車現場曝光| 三立新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4S2R5OUFpcV80TFY0bTJTS0dpd19LUDR0cGxUYjNuWXdTWjhZczhkMXdzQmgtYjkyV1ZyN293eFptNUJ6REtBbkVHb2loR250U0tyWVV3?oc=5",
-          "time": "2026-06-12 10:09:52",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園楊梅軍用車車禍！巨大聲響驚動住戶 撞爛路邊5汽車現場曝光",
-          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOWVdtLW1WYUJpM0t6TjNHWDlKa1o5NHFRUTJDZ3dXU0RpbGgtM05vaWtBcm12cHl5TndrNjdDWWk4dC1sYjhEbGszWHYxNlRicmR2T1ZxVUhTaFgtQzFaTUNzYzEyM01xa001UVhXSXdGalg4M212R3Z5Q0Z4RGEwV3BCbTMyaDdjWWRGaGp6N24zcEEteHV3dEpRdW5USXlZbmRQNHQyVWM2OEw2ekpWOFFkQWt5WWRHMk11LTZjYTFUMW9FM0tBTGRhYlduTXZleWdvSFFGdHNHYWcxOEM5eFpteDJHMjg0UU1OVk4ycjB6UTlTb3NqZzNsUnpuVUlqWWZGU2pFUTdPRmlPOTRTa25lX3VZVEctd25mdTN3U25ybGRsTFQzcnJKaDYtdXpFbTlvN2ZNZV9kTGRCNTVFeVFMTjg4REd6dUNtQWtoeUYtZzVnanNYZ2ZmN05PQ2ZqcDRGV0pvWUNYTXdFUk9qZC1jY1h6M2FJalZfME04QmN3Z0RESDRsdkZwTHAtMUFsQzB2Mk1xUlBsM0k?oc=5",
-          "time": "2026-06-12 09:10:56",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園楊梅軍用車車禍！巨大聲響驚動住戶 撞爛路邊5汽車現場曝光",
-          "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E6%A5%8A%E6%A2%85%E8%BB%8D%E7%94%A8%E8%BB%8A%E8%BB%8A%E7%A6%8D-%E5%B7%A8%E5%A4%A7%E8%81%B2%E9%9F%BF%E9%A9%9A%E5%8B%95%E4%BD%8F%E6%88%B6-%E6%92%9E%E7%88%9B%E8%B7%AF%E9%82%8A5%E6%B1%BD%E8%BB%8A%E7%8F%BE%E5%A0%B4%E6%9B%9D%E5%85%89-010400931.html",
-          "time": "2026-06-12 09:04:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園軍用車車禍！撞爛路邊5汽車現場曝光",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yZS1yazdZOV9FRjVzNE0yeU5ibDJzQ3lqVjNDdC11eXFndm1iM2pLckQ0V1phYXc3VWN3a3RjZ04xTTdaY0loZVJYQjJlUG9ibEVKM3RfaTJhaU9C0gFiQVVfeXFMT2VGSVZ4NEZrQW9zQ3c5RVF1MjRMcGNud1Jzc2phNkptZEpoSkhUcU1IT0llU3RUTkVod1Y2aFRoSVNKbmRKb2dGU1RXZnZrZkpIYWZiMDQ0cThVbzdrNjNPckE?oc=5",
-          "time": "2026-06-12 08:59:00",
-          "publisher": "Google News→鏡週刊Mirror Media",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園警抓嫌犯釀車禍！2路人頭部重創",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBGZk9VWkZ5NlZ6azFrazFBWHIzODhyZVFXRDNtaFRSQlgwRm4zUnpiQnM5YlMyNDVjaDdoTzRoR2dIVXFtMmc?oc=5",
-          "time": "2026-06-12 08:15:25",
-          "publisher": "三立新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園警匪追逐重大車禍釀2死 市府跨局處趕赴醫院：全力協助家屬",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Rc0VyMUVLdFU5bUY1eV9MdnlETHRfYVdnWWJVRzhQcXlPU29fVXlpSHBVZndqVThBS3ZxaWF5b0I1NU15OUxEem96bEdFU1p60gFWQVVfeXFMTl9DcjhmWGkxbk5GTFM4ZXFkalNFaTlKWXJFZzhyOGJCRlFlblBuYjQtTVZaemhqZnJfZ3NFaEFlQmZkWkpwcUZOeEtkTGItV1FNUE1OUHc?oc=5",
-          "time": "2026-06-11 23:46:31",
-          "publisher": "Google News→UDN",
-          "severity": "red"
-        },
-        {
-          "title": "桃園嚴重車禍！30歲男涉毒駕撞死2人 張善政下令徹查毒品來源",
-          "url": "https://www.mirrormedia.mg/story/20260611edi091",
-          "time": "2026-06-11 23:23:00",
-          "publisher": "鏡週刊",
-          "severity": "red"
-        },
-        {
-          "title": "撞擊畫面曝光！桃園警抓毒犯釀重大車禍…2路人挨撞頭部重創慘死 | 三立新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jclowRV9wY2dNM0h5NHBIVXlKZUJaMHJ4NlhTZUFPSjNoRmJtX2JhMTlnOThjR1I5MFVya21OSnBXVmRUN1dXd2h2T0x5NGZteWNGd2dR?oc=5",
-          "time": "2026-06-11 23:20:56",
-          "publisher": "Google News→LINE TODAY",
           "severity": "red"
         }
       ],
@@ -11842,7 +11821,7 @@
           "severity": "yellow"
         },
         {
-          "title": "讚沈伯洋可能當選市長！蔡其昌叮囑：要記得台北大巨蛋是棒球場",
+          "title": "影／讚沈伯洋可能當選市長！蔡其昌叮囑：記得台北大巨蛋是棒球場",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3bG50NEdhaGtVemdFTTBCdTloaVlLRXZEQi16X2RoTWJyU21KX1Q2VkpsLVBKdl9QSzExcWlFMlFGZ2dYZHZadElXUkrSAVJBVV95cUxONEdfV2lDcFVIV2c5SWpYelFHNy0tMXZNLTI2Q29oU1RpQlpEb2NNV0VJSWI4QWJQLVJJNU1uMGkzUDRZMnVGUno4eU0wUkxIRU1B?oc=5",
           "time": "2026-06-12 11:23:21",
           "publisher": "Google News→NOWnews今日新聞",
@@ -12346,11 +12325,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 250,
+      "news_count": 244,
       "comment_count": 0,
-      "negativity_pct": 15,
+      "negativity_pct": 14,
       "is_urgent": false,
-      "urgency_score": 361,
+      "urgency_score": 346,
       "news_articles": [
         {
           "title": "移動式炸彈奪命 桃園狂男毒駕9度闖紅燈 撞碎兩家庭後傷重不治",
@@ -14059,48 +14038,6 @@
           "time": "2026-06-11 23:27:00",
           "publisher": "ETtoday",
           "severity": "red"
-        },
-        {
-          "title": "【快訊／桃園毒蟲拒檢「市區狂飆逃竄」 失控自撞害死2路人】 （圖／記者沈繼昌翻攝）",
-          "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQWFVDd2VPV1VIb1ZOWG1rUzV6UWY3OXBfZjdFcWZHbmM1REFQamthN0dSRFlGbGJMa2FMLWN1dEluVDBKZzBKb2RyWkdlanBkLXZaTk13N3gwTU9ZZlViaURBa3YtRmRmMzVDOWdGdHJORzEyVnBKRFVtejhBUE40bFBCUU5KZmk4M2lhYjU4Wkt6MXMxQm1hTlcxUVpKN3F5VjNmTFZHRTgyaTdwU2tvMW9WZ2MyUnFtYThNbExlTEFhQnMtbjRkQVBSQzBMMExaalRLVi11VXNDaXBVd2NMZUpyUy1ncWl5cTNIUHBsWmdTNHYyZjE4MzFLSDB0VFE0eWgxaHlqZ0UxOFpxQjVBS2ZuR0JMUWo4UE5JM0t5SzN0cWV4TFU1bkc4eGdOTG9Nel9uVmlfWTc2T2dYdS1UYno2SDU3M0V6eWVsVHBvSGo1NGg5YXNacGMwVkE0LWJhSUc3b3M0ZWMxdUktMnZBSEl3NlNWQ0JESzdZcVR5VGR4MUNGS3dLVEw3TlRPVzFXdUNRSDl1T3Y3T05FQ0ZQSzA4RDV1V1pzOENGcVoyNjdITTZYZWxHSmtrRDBDQnR5ZjBscS1TUkdtbEVhcVVSMVoySQ?oc=5",
-          "time": "2026-06-11 23:24:32",
-          "publisher": "Google News→facebook.com",
-          "severity": "red"
-        },
-        {
-          "title": "又是毒駕？桃園轎車躲警盤查狂逃 撞2路人命危、駕駛陷入昏迷",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sdXhqU2x5N1VJRWdpbl84ZWcyX3JpU2VOM1lqdnVCRTRveGR1Y18yb2wzWWNxSFU2elRCNUtFZWpXdm92cFVZMnpLeXpVRXFaaS1BMDA3X24yYm_SAWBBVV95cUxQZk5DdVVXWURtVHVBVlNGdlFyRlpCcWRXWFdnaEZWc09JLTVudVRfSG0zTXRZMTZPclp2RjZuNVBOX2RGLTQ0Z0RFMDV6b2J1SURfOWJsY2FmM090bE5QN2Y?oc=5",
-          "time": "2026-06-11 23:23:00",
-          "publisher": "Google News→鏡週刊Mirror Media",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園嚴重車禍！30歲男涉毒駕撞死2人 張善政下令徹查毒品來源",
-          "url": "https://www.mirrormedia.mg/story/20260611edi091",
-          "time": "2026-06-11 23:23:00",
-          "publisher": "鏡週刊",
-          "severity": "red"
-        },
-        {
-          "title": "撞擊畫面曝光！桃園警抓毒犯釀重大車禍…2路人挨撞頭部重創慘死 | 三立新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jclowRV9wY2dNM0h5NHBIVXlKZUJaMHJ4NlhTZUFPSjNoRmJtX2JhMTlnOThjR1I5MFVya21OSnBXVmRUN1dXd2h2T0x5NGZteWNGd2dR?oc=5",
-          "time": "2026-06-11 23:20:56",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "red"
-        },
-        {
-          "title": "又是毒駕！桃園毒蟲撞死2無辜路人 現場驚悚畫面曝",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44X3p6YjdTYUxxM3NSckFKS3JQNTdscmZ4b2xPTVIyd2wwN2dneGxuMDVlZmxxWHRtYjV6X0F3WmVkb3l1RDN5a2thdWs4ZGlSazQxeDNtZldNYzgyb1RTOA?oc=5",
-          "time": "2026-06-11 23:18:02",
-          "publisher": "Google News→民視新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "毒駕逃竄撞死2路人！車內搜出毒品 桃園市長張善政怒了：究責到底",
-          "url": "https://tw.news.yahoo.com/%E6%AF%92%E9%A7%95%E9%80%83%E7%AB%84%E6%92%9E%E6%AD%BB2%E8%B7%AF%E4%BA%BA-%E8%BB%8A%E5%85%A7%E6%90%9C%E5%87%BA%E6%AF%92%E5%93%81-%E6%A1%83%E5%9C%92%E5%B8%82%E9%95%B7%E5%BC%B5%E5%96%84%E6%94%BF%E6%80%92%E4%BA%86-%E7%A9%B6%E8%B2%AC%E5%88%B0%E5%BA%95-151620135.html",
-          "time": "2026-06-11 23:16:20",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
