@@ -30878,7 +30878,7 @@
     },
     {
       "date": "2026-06-13",
-      "snapshot_at": "2026-06-12T16:35:14.949505+00:00",
+      "snapshot_at": "2026-06-12T16:38:37.305606+00:00",
       "hotspots": [
         {
           "title": "行人地獄討論",
@@ -31176,21 +31176,6 @@
           ]
         },
         {
-          "title": "桃園弊案爭議",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "桃園毒蟲害2命！3月才判刑 吸毒法官「輕判4個月」：對他人無明顯實害",
-            "桃園奪命毒蟲3月才判刑！法官竟認「吸毒對他人無重大明顯實害」"
-          ]
-        },
-        {
           "title": "台南弊案爭議",
           "city": "台南",
           "place": "台南市政府",
@@ -31203,6 +31188,21 @@
           "sample_titles": [
             "鄭男酒駕撞死23歲清潔員 台南國民法官一審判刑7年9月",
             "台南市調處破獲製毒工廠 3人遭逮收押起訴"
+          ]
+        },
+        {
+          "title": "桃園弊案爭議",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "桃園毒蟲害2命！3月才判刑 吸毒法官「輕判4個月」：對他人無明顯實害",
+            "桃園奪命毒蟲3月才判刑！法官竟認「吸毒對他人無重大明顯實害」"
           ]
         },
         {
@@ -31513,11 +31513,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 83,
+          "news_count": 82,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 89,
+          "urgency_score": 88,
           "sample_titles": [
             "地方 2026/06/12 22:33 蘇巧慧沈伯洋串聯雙北共好 李四川允助產業根留新北",
             "社會 2026/06/12 21:06 新北三重男開車撞電線桿 恍惚倒地驗出毒品遭逮",
@@ -31545,11 +31545,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 132,
+          "news_count": 131,
           "comment_count": 0,
           "negativity_pct": 34,
           "is_urgent": false,
-          "urgency_score": 267,
+          "urgency_score": 266,
           "sample_titles": [
             "砂輪機破壞功德箱 花蓮警以車追人逮涉竊男",
             "6/12 今彩539頭獎開2注！800萬獎落新北、花蓮 端午加碼開12組",
