@@ -30117,7 +30117,7 @@
     },
     {
       "date": "2026-06-12",
-      "snapshot_at": "2026-06-12T15:49:01.740019+00:00",
+      "snapshot_at": "2026-06-12T15:59:34.777693+00:00",
       "hotspots": [
         {
           "title": "行人地獄討論",
@@ -30223,10 +30223,10 @@
           "place": "台中市大里區",
           "level": "green",
           "news_count": 0,
-          "comment_count": 7,
+          "comment_count": 8,
           "negativity_pct": 0,
           "is_urgent": true,
-          "urgency_score": 21,
+          "urgency_score": 24,
           "sample_titles": []
         },
         {
@@ -30370,11 +30370,11 @@
           "city": "新竹縣",
           "place": "新竹縣政府",
           "level": "yellow",
-          "news_count": 27,
+          "news_count": 26,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 27,
+          "urgency_score": 26,
           "sample_titles": [
             "共組大新竹勝利「方」「程」式 鄭朝方：新竹縣市是共同成長的夥伴 | 自由電子報",
             "共組大新竹勝利「方」「程」式 鄭朝方：新竹縣市是共同成長的夥伴",
@@ -30402,11 +30402,11 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "yellow",
-          "news_count": 42,
+          "news_count": 41,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 42,
+          "urgency_score": 41,
           "sample_titles": [
             "澎檢邀集澎湖地區查賄團隊辦理「115年地方公職人員選舉查察及反滲透法教育訓練」強化選舉查察專業知能",
             "會考澎湖20學生成績5A以上 其中3人5A10+滿級分",
@@ -30427,6 +30427,21 @@
             "蔣萬安站台南投巧克力咖啡節 讚咖啡產業商機上看1400億元",
             "南投巧咖節 19日盛大登場",
             "南投巧咖節 許淑華、蔣萬安聯手代言 | 中華日報"
+          ]
+        },
+        {
+          "title": "屏東弊案爭議",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "公園掏鳥自慰2女目擊嚇壞！屏東厚臉皮阿北慘了 判刑6月",
+            "7度酒駕判刑不肯改！屏東阿北騎電動車又超標 收押送進看守所"
           ]
         },
         {
@@ -30457,21 +30472,6 @@
           "sample_titles": [
             "桃園毒蟲害2命！3月才判刑 吸毒法官「輕判4個月」：對他人無明顯實害",
             "桃園奪命毒蟲3月才判刑！法官竟認「吸毒對他人無重大明顯實害」"
-          ]
-        },
-        {
-          "title": "屏東弊案爭議",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "公園掏鳥自慰2女目擊嚇壞！屏東厚臉皮阿北慘了 判刑6月",
-            "7度酒駕判刑不肯改！屏東阿北騎電動車又超標 收押送進看守所"
           ]
         },
         {
@@ -30614,8 +30614,8 @@
           "urgency_score": 29,
           "sample_titles": [
             "赴歐洲民主聖地布拉格 盧秀燕訪捷克：感謝國際友人相挺中華民國",
-            "獅子禮物藏玄機？捷克「最挺台議長」韋德齊贈盧秀燕一句話成焦點 | 政治快訊 | 要聞",
-            "訪德不公開行程惹關注 盧秀燕轉到捷克交流國際局勢"
+            "盧秀燕訪捷克國會與布拉格市府交流民主和城市治理- 政治",
+            "獅子禮物藏玄機？捷克「最挺台議長」韋德齊贈盧秀燕一句話成焦點 | 政治快訊 | 要聞"
           ]
         },
         {
@@ -30687,11 +30687,11 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "red",
-          "news_count": 47,
+          "news_count": 44,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 47,
+          "urgency_score": 44,
           "sample_titles": [
             "廈門翔安機場曝光！預留金門航站樓用地 抗17級強風全程「刷臉」進站",
             "金門消防攜手中央地方建立職安區域聯防機制",
@@ -30719,11 +30719,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 68,
+          "news_count": 67,
           "comment_count": 0,
-          "negativity_pct": 3,
+          "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 74,
+          "urgency_score": 70,
           "sample_titles": [
             "115年度苗栗縣原住民部落大學開學典禮  與興大、聯大簽署MOU強化學術支持體系",
             "苗栗苑裡大貨車疑煞車失靈衝進廟宇 駕駛、乘客雙雙受傷送醫",
@@ -30751,11 +30751,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 81,
+          "news_count": 80,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 87,
+          "urgency_score": 86,
           "sample_titles": [
             "蔣萬安站台南投巧克力咖啡節 讚咖啡產業商機上看1400億元",
             "台南警瓦解竹聯幫聖堂據點 「鴻圖大展」匾額藏高仿衝鋒槍",
@@ -30799,11 +30799,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 148,
+          "news_count": 146,
           "comment_count": 0,
-          "negativity_pct": 36,
+          "negativity_pct": 37,
           "is_urgent": false,
-          "urgency_score": 310,
+          "urgency_score": 308,
           "sample_titles": [
             "砂輪機破壞功德箱 花蓮警以車追人逮涉竊男",
             "6/12 今彩539頭獎開2注！800萬獎落新北、花蓮 端午加碼開12組",
@@ -30831,11 +30831,11 @@
           "city": "高雄",
           "place": "高雄市左營區",
           "level": "red",
-          "news_count": 202,
+          "news_count": 200,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 226,
+          "urgency_score": 224,
           "sample_titles": [
             "影／高雄化學材料工廠爆炸起火全面燃燒畫面驚人 消防搶救中",
             "高雄驚傳爆炸聲！火災濃煙滾滾如地獄場景 市府出手了重罰工廠500萬",
@@ -30847,11 +30847,11 @@
           "city": "台北",
           "place": "台北市松山區",
           "level": "red",
-          "news_count": 230,
+          "news_count": 226,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 269,
+          "urgency_score": 265,
           "sample_titles": [
             "餐飲創業黑馬！「火岩堂」炙燒香氣重新定義雞排市場　參展台北連鎖加盟展大秀爆單",
             "蔣萬安站台南投巧克力咖啡節 讚咖啡產業商機上看1400億元",
@@ -30863,11 +30863,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 235,
+          "news_count": 231,
           "comment_count": 0,
           "negativity_pct": 14,
           "is_urgent": false,
-          "urgency_score": 331,
+          "urgency_score": 327,
           "sample_titles": [
             "案情大逆轉？桃園毒駕撞死人另有隱情…警方坦承：事發前1秒有擦撞",
             "移動式炸彈奪命 桃園狂男毒駕9度闖紅燈 撞碎兩家庭後傷重不治",
