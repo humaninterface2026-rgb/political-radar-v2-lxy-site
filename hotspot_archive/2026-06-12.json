@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "snapshot_at": "2026-06-12T07:56:06.695882+00:00",
+  "snapshot_at": "2026-06-12T08:04:54.269393+00:00",
   "hotspots": [
     {
       "title": "行人地獄討論",
@@ -237,27 +237,6 @@
       "comments": []
     },
     {
-      "title": "台南弊案爭議",
-      "city": "台南",
-      "place": "台南市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "台南市調處破獲製毒工廠 3人遭逮收押起訴",
-          "url": "https://www.cna.com.tw/news/asoc/202606120202.aspx",
-          "time": "2026-06-12 14:23:49",
-          "publisher": "中央社",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台北弊案爭議",
       "city": "台北",
       "place": "台北市萬華區",
@@ -272,6 +251,27 @@
           "title": "北市萬華租客殺死二房東 判刑19年定讞",
           "url": "https://www.cna.com.tw/news/asoc/202606120116.aspx",
           "time": "2026-06-12 11:42:43",
+          "publisher": "中央社",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台南弊案爭議",
+      "city": "台南",
+      "place": "台南市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "台南市調處破獲製毒工廠 3人遭逮收押起訴",
+          "url": "https://www.cna.com.tw/news/asoc/202606120202.aspx",
+          "time": "2026-06-12 14:23:49",
           "publisher": "中央社",
           "severity": "red"
         }
@@ -353,11 +353,11 @@
       "city": "台中",
       "place": "台中市政府",
       "level": "yellow",
-      "news_count": 17,
+      "news_count": 18,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 17,
+      "urgency_score": 18,
       "news_articles": [
         {
           "title": "盧秀燕出訪挨批竟是「找人演民意」？江和樹爆：受訪者是綠營議員助理 | 戴祺修 | 新聞",
@@ -413,6 +413,13 @@
           "url": "https://newtalk.tw/news/view/2026-06-12/1040821",
           "time": "2026-06-12 10:56:09",
           "publisher": "新頭殼",
+          "severity": "yellow"
+        },
+        {
+          "title": "盧秀燕出訪挨批竟是「找人演民意」？江和樹爆：受訪者是綠營議員助理",
+          "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQOEJ5d3VCT1AtUGQtaVJ3dnBMNUhsWUlnMjZTeFpLNEtlUXRTVldJVDRyZy1XSWt0dXdHSzdUYjJXTVRyYzhTdWlQLU1CMVQydzhXN2dmeFhXelBXSWljZllkTGpRLTJrNS1tMk5NSHYzdFI1WkNaUWR3ajNkMW8wN21XNEh6T0ZEa1JXZ0UtQWRvZjFDMFFnY2NKWDlKWlN6ei12c0tkZTNHSzVqRkxHQkY5QjdqRERkYUVMU0UyZ2RmX2pneHlsaTZrdGxheHpnWU9XUkRsa2h1Tm1TbG1XVkFIMEJDSGFUOGxURk9PR3pYdjZsTm03Z2Y2R0dKdFZ3Ri13aHhJZDMyal9zWUowaGY5Vzl4allZaGFYWkNsOFltN0JPRVBRbE02V01SOGx1a0JPRWhqU3pUMHFfLWZaQlFqSGpOOXBXaUc0UGlfSk15RFNmZ0QtU0VWcE1iNVN3SU5sTElmWjhoNERFS3JxU2dSQjQzTWZXS0I3aWdZQ2hXNkNPVjgxUXpKd2RGSVVZeV9QcFp0SmQ5Z1VROTFrSWdQYnM5Ykk?oc=5",
+          "time": "2026-06-12 10:31:48",
+          "publisher": "Yahoo新聞",
           "severity": "yellow"
         },
         {
@@ -1344,6 +1351,13 @@
           "severity": "yellow"
         },
         {
+          "title": "南投巧咖節6月19日登場 許淑華、蔣萬安「聯手代言」熱熱鬧鬧",
+          "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQUXpDTlNPaHFUZkNtaEk2aXdkSHI3N2tvcEZOM1l1NGZCTkh6SDZZUGozMkszcTdrUXE1dG9peE01UkVqdVAwOE5PSHBFTHFwdFFqY1RkTEt4c1czNEY3WExKN051c3ozalZXalZUTlJ6c0k0LTZiX3BrRmgyb1N1SXVBeTlTbm5YOVp2VktVTEkycExwUUMtaGdrTWw0SUUtZFN3ZWFOU2JoeERaOHU3RGw1b2VwaEUxWlBvbHRiQWoxVXBHNXhYSTJmdVlKbVpUQ0UyNGI5alFwN2ZTZEYwVFE1V0xXYlg1UEN0THJQcEtXU2NncEhVc0NHRmxOOXctVE1LbDFpUFUyNTl2eVRUQTFLck1xOFRhX1N0SmlscVp6dkNTUGxNU3ZtYXNtbEw2aXBkYkJpb0JKb2dBaWhlbnYwdjIyTW05VVQ0c2pxU1ZnZTZMOXY2YmEtS28xSExJczhDN3hsSjVfeXZIUU11eg?oc=5",
+          "time": "2026-06-12 15:33:55",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
           "title": "南投巧咖節6月19日登場 許淑華、蔣萬安「聯手代言」超熱鬧",
           "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPNUkxZjVVYnJ6MnFZc0NQWm9ZOURtWVdBZEYxaTM0LVo0VHU4Q2NlU2pnQTBkcV9HMFAwdEJOa2RMdnAxdE43bGY2eklEUjRCVHM3MlB6eVBQQmtpSzdnMGJzWlBaR1o2NFYzSDhqRkExRjhPZVNoTHF3eG1ONElNQnlpVHQ5ajRVUmFENnhFR2dSX29oMm9aaEFmbHV0RDJsalpMQ0Vnd3hLdFZnNE9hbnVUR1FuMXNKWlM0TktoVzJ1djVxQmlhS1o1YkZyY0dKQmFaUEh2RWNaSUw0ME8yVmgwZEF3dVdVRDZLYjBSU2tsd3RCcmNKanprWUNqazFZekQzM1dVUGJWUklWNjVuZkxDY2xrdG1lcXNGdWpPOEQtS2kwQW55ZWk4M3RHVEVBSFBqcUpTSnVSY0U2WXZKN1F4aFA2SHJ3VXNWR3dQZy1XOU5PVkstOWFsclFKLWZEYlI5NQ?oc=5",
           "time": "2026-06-12 15:07:30",
@@ -1628,13 +1642,6 @@
           "url": "https://tw.news.yahoo.com/%E8%90%BD%E5%AF%A6%E6%84%9F%E5%8B%95%E6%9C%8D%E5%8B%99-%E5%8D%97%E6%8A%95%E6%A6%AE%E6%9C%8D%E8%99%95%E6%85%B0%E5%95%8F%E4%BD%8F%E9%99%A2%E6%A6%AE%E6%B0%91-082400555.html",
           "time": "2026-06-11 16:24:00",
           "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "南投縣首座樂活運動館開工動土 打造全齡健康新地標",
-          "url": "https://more-news.tw/639535/",
-          "time": "2026-06-11 15:58:59",
-          "publisher": "墨新聞",
           "severity": null
         }
       ],
@@ -2621,6 +2628,34 @@
       ]
     },
     {
+      "title": "雲林弊案爭議",
+      "city": "雲林",
+      "place": "雲林縣政府",
+      "level": "red",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "雲林50歲男仲介非法移工 低薪剝削遭起訴",
+          "url": "https://tw.news.yahoo.com/%E9%9B%B2%E6%9E%9750%E6%AD%B2%E7%94%B7%E4%BB%B2%E4%BB%8B%E9%9D%9E%E6%B3%95%E7%A7%BB%E5%B7%A5-%E4%BD%8E%E8%96%AA%E5%89%9D%E5%89%8A%E9%81%AD%E8%B5%B7%E8%A8%B4-101700221.html",
+          "time": "2026-06-11 18:17:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "雲林50歲男仲介非法移工 低薪剝削遭起訴",
+          "url": "https://news.ebc.net.tw/news/society/556083",
+          "time": "2026-06-11 18:17:00",
+          "publisher": "東森新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "屏東弊案爭議",
       "city": "屏東",
       "place": "屏東縣政府",
@@ -2671,34 +2706,6 @@
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UYUpVV0dJa0dKQXY0QXl1bXV6UGpEdTRlWFg0UnU0MGlQTjZ5cHE3RGNWRXczT3REQWdFakN5a3hsbUFrVkpRYWt1TTJRSGhhakRJanl2ME92UVpCeHfSAWhBVV95cUxNWk8zQjExLVNkUHVERkhUakFYbjRmTm03bmZleWo5eF93WWx4SktheWFueTAtdFlXTTNKWFpMUXllRm1mV3R6SjYtbUZnWjBHWGdPcE1WcUZFRVZXdENlYlZwRk12aDBpcg?oc=5",
           "time": "2026-06-12 11:18:00",
           "publisher": "ETtoday",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "雲林弊案爭議",
-      "city": "雲林",
-      "place": "雲林縣政府",
-      "level": "red",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "雲林50歲男仲介非法移工 低薪剝削遭起訴",
-          "url": "https://tw.news.yahoo.com/%E9%9B%B2%E6%9E%9750%E6%AD%B2%E7%94%B7%E4%BB%B2%E4%BB%8B%E9%9D%9E%E6%B3%95%E7%A7%BB%E5%B7%A5-%E4%BD%8E%E8%96%AA%E5%89%9D%E5%89%8A%E9%81%AD%E8%B5%B7%E8%A8%B4-101700221.html",
-          "time": "2026-06-11 18:17:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "雲林50歲男仲介非法移工 低薪剝削遭起訴",
-          "url": "https://news.ebc.net.tw/news/society/556083",
-          "time": "2026-06-11 18:17:00",
-          "publisher": "東森新聞",
           "severity": "red"
         }
       ],
@@ -3745,11 +3752,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "red",
-      "news_count": 40,
+      "news_count": 38,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 40,
+      "urgency_score": 38,
       "news_articles": [
         {
           "title": "宜蘭榮服處感謝陸海空軍協會捐贈愛心米關懷榮民眷 | 勁報",
@@ -4016,20 +4023,6 @@
           "time": "2026-06-11 16:31:57",
           "publisher": "Google News→LINE TODAY",
           "severity": "yellow"
-        },
-        {
-          "title": "醫美偷拍已查1761家 累計開罰21家 新增宜蘭光澤診所遭罰50萬元",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tWnFTazlheHlPM2xGVGV4TVV5UE4yeVcyZGRmcEpyY05YUlBuaGRRTzZsOHZ4Qlp1b1RWc1ZsUktZbUFxWVpoZWtkNE40SUNW0gFWQVVfeXFMTmZIbGQwVE03QTRRNHJRNXp1aGxBWko1LWhJTVhEbWpGQlJnaDRyb2lHWWpwTjAzejEwYjRCUHVpRXlKZEtLSkIzRF9wbXNUTlMxRWpkUkE?oc=5",
-          "time": "2026-06-11 15:57:35",
-          "publisher": "Google News→UDN",
-          "severity": "red"
-        },
-        {
-          "title": "撞臉「Faker」? 時力劉仲書參選宜蘭議員 黨主席王婉諭站台力挺",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxU3lDWHV5YVlXbngxOEhXUUpnZEtIM2dfZGVuMmNmbjFqWUVrczA3SFFCQTk4ZEpBai1EVlYyc3RXM2tCejRoNUtELS1fYXZa0gFWQVVfeXFMT2k2R1JDV25STjBmc01kLWE0V2JqYnVrS2ZhZUl1U0hLU1B4Q2UwM0NGT1NEaGc3cC1rc0JBNTZIZTRIUWpkMV9wXzdTSl9zUTBPUlVkQ1E?oc=5",
-          "time": "2026-06-11 15:56:25",
-          "publisher": "Google News→UDN",
-          "severity": null
         }
       ],
       "comments": []
@@ -4039,11 +4032,11 @@
       "city": "彰化",
       "place": "彰化縣政府",
       "level": "red",
-      "news_count": 45,
+      "news_count": 44,
       "comment_count": 0,
-      "negativity_pct": 4,
+      "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 51,
+      "urgency_score": 50,
       "news_articles": [
         {
           "title": "台中福華攜手西螺福興宮端午粽傳愛關懷弱勢",
@@ -4352,13 +4345,6 @@
           "time": "2026-06-11 17:21:52",
           "publisher": "中央社",
           "severity": "red"
-        },
-        {
-          "title": "彰化蛋雞場芬普尼全面採樣結果:全部未檢出",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E8%9B%8B%E9%9B%9E%E5%A0%B4%E8%8A%AC%E6%99%AE%E5%B0%BC%E5%85%A8%E9%9D%A2%E6%8E%A1%E6%A8%A3%E7%B5%90%E6%9E%9C-%E5%85%A8%E9%83%A8%E6%9C%AA%E6%AA%A2%E5%87%BA-075739441.html",
-          "time": "2026-06-11 15:57:39",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -4368,11 +4354,11 @@
       "city": "金門",
       "place": "金門縣政府",
       "level": "red",
-      "news_count": 49,
+      "news_count": 48,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 49,
+      "urgency_score": 48,
       "news_articles": [
         {
           "title": "玉山盃／楊騏嘉客座指導金門投手蕭仲威收穫多| 棒球 | 運動",
@@ -4709,13 +4695,6 @@
           "time": "2026-06-11 16:13:00",
           "publisher": "ETtoday",
           "severity": null
-        },
-        {
-          "title": "金門酒廠攜手近20個國際社團 「品・純粹」餐酒會締造高粱新體驗 | 熱門亮點 | 商情",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxb3ZXQ29TZlRDMEtXbVNRUXhLV1NWSVRyR0RDMW9pQ3Back1EcTVxakFycUVqbm5YcTdMUnAyazExdTVDaVJScDV5VUNMck4xNjdaRk9mM3hSZw?oc=5",
-          "time": "2026-06-11 16:03:43",
-          "publisher": "Google News→經濟日報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -4725,11 +4704,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 58,
+      "news_count": 57,
       "comment_count": 0,
       "negativity_pct": 100,
       "is_urgent": true,
-      "urgency_score": 232,
+      "urgency_score": 228,
       "news_articles": [
         {
           "title": "花蓮營養午餐弊案延燒 籲徹查真相、守護公務體系與人民信任",
@@ -5129,13 +5108,6 @@
           "time": "2026-06-11 16:36:45",
           "publisher": "Google News→LINE TODAY",
           "severity": "red"
-        },
-        {
-          "title": "花蓮爆營養午餐弊案！「傅崐萁防火牆」副縣長顏新章深夜地檢署複訊",
-          "url": "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE%E7%88%86%E7%87%9F%E9%A4%8A%E5%8D%88%E9%A4%90%E5%BC%8A%E6%A1%88-%E5%82%85%E5%B4%90%E8%90%81%E9%98%B2%E7%81%AB%E7%89%86-%E5%89%AF%E7%B8%A3%E9%95%B7%E9%A1%8F%E6%96%B0%E7%AB%A0%E6%B7%B1%E5%A4%9C%E5%9C%B0%E6%AA%A2%E7%BD%B2%E8%A4%87%E8%A8%8A-155741686.html",
-          "time": "2026-06-11 15:57:41",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -5145,11 +5117,11 @@
       "city": "台中",
       "place": "台中市大里區",
       "level": "red",
-      "news_count": 54,
+      "news_count": 53,
       "comment_count": 4,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 62,
+      "urgency_score": 61,
       "news_articles": [
         {
           "title": "[Gossiping] [新聞] 民進黨演很大？路人轟盧秀燕訪歐　江和",
@@ -5520,13 +5492,6 @@
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KTUZqN1FaUGZUTFE0VHFqNEdLdHhpQk0wZXJkc1dzbFNUb21YMFc3Nk5zU29WWlcwMW93VjdxVUZUUkdrTFE5akFfZTl4TVdYUnc?oc=5",
           "time": "2026-06-11 16:07:00",
           "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "[Gossiping] [新聞] 盧秀燕訪德國會 傳達捍衛國家決心",
-          "url": "https://www.ptt.cc/bbs/Gossiping/M.1781164935.A.22E.html",
-          "time": "2026-06-11 16:02:15",
-          "publisher": null,
           "severity": null
         }
       ],
@@ -7089,11 +7054,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "red",
-      "news_count": 85,
+      "news_count": 83,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 91,
+      "urgency_score": 89,
       "news_articles": [
         {
           "title": "台積電供應鏈進駐屏科專區聯合動土 賴清德恭喜屏東未來可期",
@@ -7674,20 +7639,6 @@
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oVG1peUkwVXpFNjNYNVYwdXQzanZPcWtIOWpGOFJLbWpic1d0Q2hZQ3BOVE9nTHVzT1dMVWRRSF9kQ3ZhZ0w5SjRtdWZfVmEtM2c?oc=5",
           "time": "2026-06-11 16:05:17",
           "publisher": "Google News→民眾新聞網",
-          "severity": null
-        },
-        {
-          "title": "端午粽香飄溢 屏東縣警友會慰勞員警",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XQk5BNlpvMEcyRTJlQnlyY1p0Y0FnalNjU3czNUF0dXV5S0lsRC1uSTBQenlnYkFzZjZfekJBSU5hNC1hU1BhSg?oc=5",
-          "time": "2026-06-11 16:00:42",
-          "publisher": "Google News→台灣民眾電子報",
-          "severity": null
-        },
-        {
-          "title": "何曉玫舞團攜手青年共舞陣頭美學 ６／２０屏東王船文化館登場",
-          "url": "https://www.cdns.com.tw/articles/1414134",
-          "time": "2026-06-11 15:56:43",
-          "publisher": "中華日報",
           "severity": null
         }
       ],
@@ -8510,12 +8461,26 @@
       "city": "台中",
       "place": "台中市西屯區",
       "level": "red",
-      "news_count": 152,
+      "news_count": 151,
       "comment_count": 0,
       "negativity_pct": 14,
       "is_urgent": false,
-      "urgency_score": 215,
+      "urgency_score": 214,
       "news_articles": [
+        {
+          "title": "斥資2.4億打通台中榮總交通斷點！ 中市建設局推動福順路延伸工程7月開工",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BNUdscHZHVWZTUlNBT1ZpU2hJVGp6WGhJYmM4WEdUQ0JILXVzOTNvYzFITUpnR3ZZZWw1OE0xTF9EQQ?oc=5",
+          "time": "2026-06-12 15:49:35",
+          "publisher": "Google News→墨新聞-MORE News",
+          "severity": null
+        },
+        {
+          "title": "6年省下近9千萬元！ 跨機關資源共享 中市府「財物交流平台」媒合逾5千件閒置財物",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5XU1ZmSTgxWmpuQndsMXVDVzZpMlZWQnZDSDNHY2FjcDh5NHd2UmYtazBCaTdQY0ZWamhNbE9Ub01LZw?oc=5",
+          "time": "2026-06-12 15:41:46",
+          "publisher": "Google News→墨新聞-MORE News",
+          "severity": null
+        },
         {
           "title": "台中神岡工廠驚傳工安事故 男員工操作沖壓機「頭部遭夾重傷」送醫不治",
           "url": "https://www.ctwant.com/article/484979/",
@@ -9558,27 +9523,6 @@
           "time": "2026-06-11 16:11:39",
           "publisher": "鏡新聞",
           "severity": null
-        },
-        {
-          "title": "盧秀燕訪德勒斯登 助台中企業開拓非美市場",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Ld0RCQUJRUGk3YlpkNTMtUE9KcENwWnI3WkZOeVREcDJBZU9Ja1ZyODliS21oNWh3eFJWQW1MWEhHV2o0Um1XY0hRNGXSAVJBVV95cUxOa2ZTSWpRLXZfV2xZMWdPNGRtWU9JUklTZFZlM2pLekhBRmNfV0RNT0xlODNGY21sdmhzX1Y0T2RNbVM1cmxyWk1Hem1vcE1SSkxB?oc=5",
-          "time": "2026-06-11 16:01:00",
-          "publisher": "Google News→NOWnews今日新聞",
-          "severity": null
-        },
-        {
-          "title": "盧秀燕訪德勒斯登 助台中企業開拓非美市場",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rZlNJalEtdl9XbFkxZ080ZG1ZT0lSSVNkVmUzakt6SEFGY19XRE1PTGU4M0ZjbWx2aHNfVjRPZE1tUzVybHJaTUd6bW9wTVJKTEHSAVJBVV95cUxOa2ZTSWpRLXZfV2xZMWdPNGRtWU9JUklTZFZlM2pLekhBRmNfV0RNT0xlODNGY21sdmhzX1Y0T2RNbVM1cmxyWk1Hem1vcE1SSkxB?oc=5",
-          "time": "2026-06-11 16:01:00",
-          "publisher": "Google News→NOWnews今日新聞",
-          "severity": null
-        },
-        {
-          "title": "盧秀燕訪德勒斯登 助台中企業開拓非美市場 - 政府消息新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDFDZm05cjR4SVhLTXBwWkNsYmNjMkdzanBPb1RnRVFSR0VZT0tWdFI4N3lUS2pKV1FuOFNNZjFmS3VVeEpGNjYzYklSTDk2UUZEWDU2dWNFVExxcXpicDFqNmlTbU96bko4dll5eHh4NF9rRDloTXNQMmttVTk4aVBRVUtBWEozb3c?oc=5",
-          "time": "2026-06-11 16:01:00",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -9588,11 +9532,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 171,
+      "news_count": 169,
       "comment_count": 0,
       "negativity_pct": 37,
       "is_urgent": false,
-      "urgency_score": 363,
+      "urgency_score": 358,
       "news_articles": [
         {
           "title": "民進黨花蓮縣黨部 : 顏新章黑歷史一大串 應自請下台",
@@ -10776,20 +10720,6 @@
           "time": "2026-06-11 16:08:51",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "花蓮爆營養午餐弊案！「傅崐萁防火牆」副縣長顏新章深夜地檢署複訊",
-          "url": "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE%E7%88%86%E7%87%9F%E9%A4%8A%E5%8D%88%E9%A4%90%E5%BC%8A%E6%A1%88-%E5%82%85%E5%B4%90%E8%90%81%E9%98%B2%E7%81%AB%E7%89%86-%E5%89%AF%E7%B8%A3%E9%95%B7%E9%A1%8F%E6%96%B0%E7%AB%A0%E6%B7%B1%E5%A4%9C%E5%9C%B0%E6%AA%A2%E7%BD%B2%E8%A4%87%E8%A8%8A-155741686.html",
-          "time": "2026-06-11 15:57:41",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "樹木碳匯公民科學家 花蓮推動淨零綠校園",
-          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQd05VdU1JNFpVVVdROW1hbFo5V2Zmb2l5MU90RzlRV0NkY1gzSlowREh4QjIySVFfS0pHWmZ0aVZFV0tDblltbmhkR0VEdGVhVnRqeVNyaDlWY3ZoSWp2VHNKRFJHaWdTd3Zya2ZINGxwVVp5eGtQZGZ5QVJ0OGdOaUs5SG96T3JzemdOSGVaZWJpcTgyemMyZXlqWUZ0emRiTktXMjZkYlBZazNzMHdVa1NycjFERG1TeXdkUnlrdlRueWQtTGFaU2Jia2dGRDBGTlhMenptY0NFeEotWmhzMUVpb2FOZXJBc2ZQc3dRcXprai1JS25CekYwRjJza0RnVm1wZUtRYmRldlRFbVBER3d6XzdfMzBtMVVtSjNDLVNOa1lmUDVjQmdaOUo?oc=5",
-          "time": "2026-06-11 15:57:29",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -10799,11 +10729,11 @@
       "city": "台北",
       "place": "台北市信義區",
       "level": "red",
-      "news_count": 178,
+      "news_count": 179,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 205,
+      "urgency_score": 206,
       "news_articles": [
         {
           "title": "台北國際連鎖加盟創業夏季展 隆重開幕",
@@ -10825,6 +10755,13 @@
           "time": "2026-06-12 15:38:56",
           "publisher": "聯合新聞網",
           "severity": "yellow"
+        },
+        {
+          "title": "南投巧咖節6月19日登場 許淑華、蔣萬安「聯手代言」熱熱鬧鬧",
+          "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQUXpDTlNPaHFUZkNtaEk2aXdkSHI3N2tvcEZOM1l1NGZCTkh6SDZZUGozMkszcTdrUXE1dG9peE01UkVqdVAwOE5PSHBFTHFwdFFqY1RkTEt4c1czNEY3WExKN051c3ozalZXalZUTlJ6c0k0LTZiX3BrRmgyb1N1SXVBeTlTbm5YOVp2VktVTEkycExwUUMtaGdrTWw0SUUtZFN3ZWFOU2JoeERaOHU3RGw1b2VwaEUxWlBvbHRiQWoxVXBHNXhYSTJmdVlKbVpUQ0UyNGI5alFwN2ZTZEYwVFE1V0xXYlg1UEN0THJQcEtXU2NncEhVc0NHRmxOOXctVE1LbDFpUFUyNTl2eVRUQTFLck1xOFRhX1N0SmlscVp6dkNTUGxNU3ZtYXNtbEw2aXBkYkJpb0JKb2dBaWhlbnYwdjIyTW05VVQ0c2pxU1ZnZTZMOXY2YmEtS28xSExJczhDN3hsSjVfeXZIUU11eg?oc=5",
+          "time": "2026-06-12 15:33:55",
+          "publisher": "Yahoo新聞",
+          "severity": null
         },
         {
           "title": "老四川首度攻佔台北101！個人麻辣鍋開吃 川味涼粉、滷味加菜",
