@@ -30878,7 +30878,7 @@
     },
     {
       "date": "2026-06-13",
-      "snapshot_at": "2026-06-12T17:06:00.735661+00:00",
+      "snapshot_at": "2026-06-12T17:17:04.442481+00:00",
       "hotspots": [
         {
           "title": "行人地獄討論",
@@ -31163,6 +31163,21 @@
           ]
         },
         {
+          "title": "屏東弊案爭議",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "公園掏鳥自慰2女目擊嚇壞！屏東厚臉皮阿北慘了 判刑6月",
+            "7度酒駕判刑不肯改！屏東阿北騎電動車又超標 收押送進看守所"
+          ]
+        },
+        {
           "title": "台南弊案爭議",
           "city": "台南",
           "place": "台南市政府",
@@ -31205,21 +31220,6 @@
           "sample_titles": [
             "桃園毒蟲害2命！3月才判刑 吸毒法官「輕判4個月」：對他人無明顯實害",
             "桃園奪命毒蟲3月才判刑！法官竟認「吸毒對他人無重大明顯實害」"
-          ]
-        },
-        {
-          "title": "屏東弊案爭議",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "公園掏鳥自慰2女目擊嚇壞！屏東厚臉皮阿北慘了 判刑6月",
-            "7度酒駕判刑不肯改！屏東阿北騎電動車又超標 收押送進看守所"
           ]
         },
         {
@@ -31547,11 +31547,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 132,
+          "news_count": 129,
           "comment_count": 0,
           "negativity_pct": 36,
           "is_urgent": false,
-          "urgency_score": 273,
+          "urgency_score": 270,
           "sample_titles": [
             "花蓮營養午餐弊案延燒 副縣長百萬交保",
             "來電指示修選罷法？市長這麼囂張？ 花蓮再爆弊案！營養午餐成大油水？2026.06.12【台灣向前行 Part3】",
@@ -31595,11 +31595,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 228,
+          "news_count": 225,
           "comment_count": 0,
           "negativity_pct": 13,
           "is_urgent": false,
-          "urgency_score": 318,
+          "urgency_score": 312,
           "sample_titles": [
             "桃園毒駕拒檢！2路人遭撞身亡｜志祺七七 Shorts #daily",
             "桃園毒駕3死！藍髮毒蟲正臉曝 曾拍片介紹「奪命車」",
@@ -31611,11 +31611,11 @@
           "city": "台北",
           "place": "台北市松山區",
           "level": "red",
-          "news_count": 232,
+          "news_count": 229,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 277,
+          "urgency_score": 274,
           "sample_titles": [
             "蔣萬安出席「2026南投巧克力咖啡節」活動",
             "蔣萬安南投合體許淑華凝聚藍營士氣| 縣市長議員選戰| 要聞",
