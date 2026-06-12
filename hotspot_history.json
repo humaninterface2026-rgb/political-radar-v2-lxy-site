@@ -30117,7 +30117,7 @@
     },
     {
       "date": "2026-06-12",
-      "snapshot_at": "2026-06-12T14:28:06.254655+00:00",
+      "snapshot_at": "2026-06-12T14:30:13.739720+00:00",
       "hotspots": [
         {
           "title": "廚餘山",
@@ -30418,21 +30418,6 @@
           ]
         },
         {
-          "title": "台南弊案爭議",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "鄭男酒駕撞死23歲清潔員 台南國民法官一審判刑7年9月",
-            "台南市調處破獲製毒工廠 3人遭逮收押起訴"
-          ]
-        },
-        {
           "title": "桃園弊案爭議",
           "city": "桃園",
           "place": "桃園市政府",
@@ -30460,6 +30445,21 @@
           "sample_titles": [
             "公園掏鳥自慰2女目擊嚇壞！屏東厚臉皮阿北慘了 判刑6月",
             "7度酒駕判刑不肯改！屏東阿北騎電動車又超標 收押送進看守所"
+          ]
+        },
+        {
+          "title": "台南弊案爭議",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "鄭男酒駕撞死23歲清潔員 台南國民法官一審判刑7年9月",
+            "台南市調處破獲製毒工廠 3人遭逮收押起訴"
           ]
         },
         {
@@ -30819,11 +30819,11 @@
           "city": "台北",
           "place": "台北市松山區",
           "level": "red",
-          "news_count": 224,
+          "news_count": 223,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 263,
+          "urgency_score": 262,
           "sample_titles": [
             "民進黨雙北市長參選人沈伯洋、蘇巧慧今晚第一次在新北市合體造勢，一起幫尋求連任的市議員林秉宥站台。蘇、沈2人受訪時皆提及未",
             "北市酒店槍響！主嫌被逮羈押禁見 1共犯30萬交保",
@@ -30835,11 +30835,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 289,
+          "news_count": 286,
           "comment_count": 0,
           "negativity_pct": 16,
           "is_urgent": false,
-          "urgency_score": 430,
+          "urgency_score": 427,
           "sample_titles": [
             "移動式炸彈奪命 桃園狂男毒駕9度闖紅燈 撞碎兩家庭後傷重不治",
             "御前上茶桃園旗艦店開幕啟動餐食新布局 美國第二店落腳舊金山灣區",
