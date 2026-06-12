@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "snapshot_at": "2026-06-12T16:43:56.886625+00:00",
+  "snapshot_at": "2026-06-12T16:50:37.911580+00:00",
   "hotspots": [
     {
       "title": "行人地獄討論",
@@ -1932,34 +1932,6 @@
       "comments": []
     },
     {
-      "title": "台北弊案爭議",
-      "city": "台北",
-      "place": "台北市萬華區",
-      "level": "red",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "不管市政管國政？蔣萬安砸神主牌？ 花蓮縣府爆弊案！營養午餐水很深？【台灣向前行】2026.06.12",
-          "url": "https://www.youtube.com/watch?v=LIDEVbId29E",
-          "time": "2026-06-12 23:41:03",
-          "publisher": null,
-          "severity": "red"
-        },
-        {
-          "title": "北市萬華租客殺死二房東 判刑19年定讞",
-          "url": "https://www.cna.com.tw/news/asoc/202606120116.aspx",
-          "time": "2026-06-12 11:42:43",
-          "publisher": "中央社",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台南弊案爭議",
       "city": "台南",
       "place": "台南市政府",
@@ -1982,6 +1954,34 @@
           "url": "https://www.cna.com.tw/news/asoc/202606120202.aspx",
           "time": "2026-06-12 14:23:49",
           "publisher": "中央社",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "桃園弊案爭議",
+      "city": "桃園",
+      "place": "桃園市政府",
+      "level": "red",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "桃園毒蟲害2命！3月才判刑 吸毒法官「輕判4個月」：對他人無明顯實害",
+          "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNUWFQc0JyaHFpSjlySExEbHB4bXJhWnJIcHlMVlpid3BCS1kyMW4tdVpqWkctMHlYSVhZUVk3OEZOX0hMMEhXUzRBdFo4cW55OWx0WVdKbngya0p4YnhZYm9kRmdSa2U5OEUtcVVKd0hyRjRfeldkaW8yWjBpTjVEN2RiTEE1ZUJxeUlZemNHWXhRWjRqLWpUNVpVU0d5aUNCT194bFl1ZHh3RWFIVVM0TUNxVFNNRnZPeGVUcUhBNWwzTjdjSXJGVTc5N2ZmbTdVeFRyQmZLMmRXdWNpVlN3cTV3NFF4dFdNZExPNlBnRXhWWFlwdlh0X3VUdDlpTmxpbUxQeHFpOVBEZXQ2RVo4cU1UdUVyd0gyMk5UeDU2Rl96aHloUTJ6aDZVZnpYdFFOWG1qaFMwZzAtMmwxbzNTOVRzZ2tjQTQ0SnZ5QWdSTkFsUHlyM0JJeTV1WG11b2JRdFpsT1RQY1BLZ2tFd1lldUc5Q0hPQ1djX2Z1WFdTNTg2TkwzdlZobTRNd21fN1FnXzhJTA?oc=5",
+          "time": "2026-06-12 13:00:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "桃園奪命毒蟲3月才判刑！法官竟認「吸毒對他人無重大明顯實害」",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UYUpVV0dJa0dKQXY0QXl1bXV6UGpEdTRlWFg0UnU0MGlQTjZ5cHE3RGNWRXczT3REQWdFakN5a3hsbUFrVkpRYWt1TTJRSGhhakRJanl2ME92UVpCeHfSAWhBVV95cUxNWk8zQjExLVNkUHVERkhUakFYbjRmTm03bmZleWo5eF93WWx4SktheWFueTAtdFlXTTNKWFpMUXllRm1mV3R6SjYtbUZnWjBHWGdPcE1WcUZFRVZXdENlYlZwRk12aDBpcg?oc=5",
+          "time": "2026-06-12 11:18:00",
+          "publisher": "ETtoday",
           "severity": "red"
         }
       ],
@@ -2016,9 +2016,9 @@
       "comments": []
     },
     {
-      "title": "桃園弊案爭議",
-      "city": "桃園",
-      "place": "桃園市政府",
+      "title": "台北弊案爭議",
+      "city": "台北",
+      "place": "台北市萬華區",
       "level": "red",
       "news_count": 2,
       "comment_count": 0,
@@ -2027,17 +2027,17 @@
       "urgency_score": 8,
       "news_articles": [
         {
-          "title": "桃園毒蟲害2命！3月才判刑 吸毒法官「輕判4個月」：對他人無明顯實害",
-          "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNUWFQc0JyaHFpSjlySExEbHB4bXJhWnJIcHlMVlpid3BCS1kyMW4tdVpqWkctMHlYSVhZUVk3OEZOX0hMMEhXUzRBdFo4cW55OWx0WVdKbngya0p4YnhZYm9kRmdSa2U5OEUtcVVKd0hyRjRfeldkaW8yWjBpTjVEN2RiTEE1ZUJxeUlZemNHWXhRWjRqLWpUNVpVU0d5aUNCT194bFl1ZHh3RWFIVVM0TUNxVFNNRnZPeGVUcUhBNWwzTjdjSXJGVTc5N2ZmbTdVeFRyQmZLMmRXdWNpVlN3cTV3NFF4dFdNZExPNlBnRXhWWFlwdlh0X3VUdDlpTmxpbUxQeHFpOVBEZXQ2RVo4cU1UdUVyd0gyMk5UeDU2Rl96aHloUTJ6aDZVZnpYdFFOWG1qaFMwZzAtMmwxbzNTOVRzZ2tjQTQ0SnZ5QWdSTkFsUHlyM0JJeTV1WG11b2JRdFpsT1RQY1BLZ2tFd1lldUc5Q0hPQ1djX2Z1WFdTNTg2TkwzdlZobTRNd21fN1FnXzhJTA?oc=5",
-          "time": "2026-06-12 13:00:00",
-          "publisher": "Yahoo新聞",
+          "title": "不管市政管國政？蔣萬安砸神主牌？ 花蓮縣府爆弊案！營養午餐水很深？【台灣向前行】2026.06.12",
+          "url": "https://www.youtube.com/watch?v=LIDEVbId29E",
+          "time": "2026-06-12 23:41:03",
+          "publisher": null,
           "severity": "red"
         },
         {
-          "title": "桃園奪命毒蟲3月才判刑！法官竟認「吸毒對他人無重大明顯實害」",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UYUpVV0dJa0dKQXY0QXl1bXV6UGpEdTRlWFg0UnU0MGlQTjZ5cHE3RGNWRXczT3REQWdFakN5a3hsbUFrVkpRYWt1TTJRSGhhakRJanl2ME92UVpCeHfSAWhBVV95cUxNWk8zQjExLVNkUHVERkhUakFYbjRmTm03bmZleWo5eF93WWx4SktheWFueTAtdFlXTTNKWFpMUXllRm1mV3R6SjYtbUZnWjBHWGdPcE1WcUZFRVZXdENlYlZwRk12aDBpcg?oc=5",
-          "time": "2026-06-12 11:18:00",
-          "publisher": "ETtoday",
+          "title": "北市萬華租客殺死二房東 判刑19年定讞",
+          "url": "https://www.cna.com.tw/news/asoc/202606120116.aspx",
+          "time": "2026-06-12 11:42:43",
+          "publisher": "中央社",
           "severity": "red"
         }
       ],
@@ -2199,7 +2199,7 @@
           "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%A6%99%E9%BD%A1%E5%A5%B3%E6%AC%A010%E8%90%AC%E8%A2%AB%E9%80%BC%E6%85%98%E9%81%AD%E6%80%A7%E4%BE%B5-%E5%80%9F%E6%93%9A%E9%A9%9A%E8%A6%8B-%E9%96%8B%E7%99%BC%E5%B0%8F%E8%8F%8A%E8%8A%B1-%E8%AE%8A%E6%85%8B%E6%A2%9D%E6%AC%BE-041823155.html",
           "time": "2026-06-12 12:18:23",
           "publisher": "Yahoo新聞",
-          "severity": "red"
+          "severity": "yellow"
         },
         {
           "title": "台中妙齡女借10萬慘遭性侵！借據驚見「開發小菊花」變態條款…判賠百萬",
@@ -3441,7 +3441,7 @@
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXMzJpOE1McG1HbXdmYmtRc0MxVUxvLXVCajBraDRzdEdjNDdObHN0X1BRV2VYQ0JyTUxEMDVxTTNPUy00Xzg0cHplM3A3WHZramV4VlpnS0pVcnlqbkdRbzFRX0FNZ9IBa0FVX3lxTE1MY1E3TDJva2k5TGNLdjNaczZaeXg1TDJVb25hVjVDcnJfZUJTVldfWlRNUzUtZm5JS2tWNmFWWF80TnlxcU9tZGlSdmZieXpIQVhCdlVkT0Z0TFdzalpzTzdCYVFicWI1OFZj?oc=5",
           "time": "2026-06-12 12:53:29",
           "publisher": "自由時報",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "宜蘭發錢了！1鄉鎮「普發3000元」 2.7萬人領紅包",
@@ -4165,11 +4165,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 47,
+      "news_count": 46,
       "comment_count": 0,
       "negativity_pct": 100,
       "is_urgent": true,
-      "urgency_score": 188,
+      "urgency_score": 184,
       "news_articles": [
         {
           "title": "花蓮營養午餐弊案延燒 副縣長百萬交保",
@@ -4492,13 +4492,6 @@
           "time": "2026-06-12 01:00:00",
           "publisher": "Google News→鉅聞天下",
           "severity": "yellow"
-        },
-        {
-          "title": "營養午餐弊案 花蓮代理秘書長饒忠複訊後請回 (圖)",
-          "url": "https://tw.news.yahoo.com/%E7%87%9F%E9%A4%8A%E5%8D%88%E9%A4%90%E5%BC%8A%E6%A1%88-%E8%8A%B1%E8%93%AE%E4%BB%A3%E7%90%86%E7%A7%98%E6%9B%B8%E9%95%B7%E9%A5%92%E5%BF%A0%E8%A4%87%E8%A8%8A%E5%BE%8C%E8%AB%8B%E5%9B%9E-%E5%9C%96-164713671.html",
-          "time": "2026-06-12 00:47:13",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -5247,7 +5240,7 @@
           "url": "https://tw.news.yahoo.com/%E8%97%8D%E5%BD%B0%E5%8C%96%E5%B8%82%E9%95%B7%E6%8F%90%E5%90%8D%E5%83%B5%E5%B1%80%E6%9C%AA%E8%A7%A3-%E8%95%AD%E6%99%AF%E7%94%B0%E7%84%A1%E5%A5%88%E6%8B%8D%E6%9D%BF-%E4%B8%9F%E5%9B%9E%E9%BB%A8%E4%B8%AD%E5%A4%AE-150000971.html",
           "time": "2026-06-12 15:00:00",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "彰化地方法院日前針對毒駕案件裁定無保請回，引發社會譁然。台北市長蔣萬安、南投縣長許淑華今天一同出席南投巧克力咖啡節活動受訪時，雙雙強調對毒駕「零容忍」，許淑華更直言，若司法沒有零容忍意識，即使提高刑責，未來仍可能發生類似情況。",
@@ -5863,7 +5856,7 @@
           "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E5%A5%B3%E9%AB%98%E4%B8%AD%E7%94%9F%E9%81%AD%E5%BC%B7%E6%93%84-%E8%A6%8B%E7%BE%A9%E5%8B%87%E7%82%BA%E6%B0%91%E7%9C%BE%E7%8D%B2%E8%AD%A6%E6%96%B9%E8%A1%A8%E6%8F%9A-042518514.html",
           "time": "2026-06-12 12:25:18",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "給出門看電影最強理由！新光影城「杜比頂級聲光雙廳」進駐台中台南 重塑大銀幕感官體驗",
@@ -6703,35 +6696,35 @@
           "url": "https://news.ltn.com.tw/news/society/breakingnews/5470611",
           "time": "2026-06-12 23:58:25",
           "publisher": "自由時報",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "撞倒單車竟未報案？屏東來義鄉清潔隊長涉肇逃 單車騎士疑摔落水溝亡",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pempFLWwzQXBaaGtsRlZfVnVSWG1BeG5pNDc3YzF0ZDNTTDl6WkJfM21HMWgxb3BnOWhVSzlJckxWaUhYT3V4eTlXR0NPcTky0gFWQVVfeXFMTmt5Y3Ztd25Mc1E5U1AzZWRZOHphbFZ4emNqYk1STldZajgtUVdMbFRVQ0FTUUtYUzlNeUtlLUgyZ0xlWFBTOUl6NXJVd3N6ZTJBSm1UQWc?oc=5",
           "time": "2026-06-12 23:47:18",
           "publisher": "Google News→UDN",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "屏東清潔隊長疑肇逃 警方循線調查 (圖)",
           "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E6%B8%85%E6%BD%94%E9%9A%8A%E9%95%B7%E7%96%91%E8%82%87%E9%80%83-%E8%AD%A6%E6%96%B9%E5%BE%AA%E7%B7%9A%E8%AA%BF%E6%9F%A5-%E5%9C%96-153531399.html",
           "time": "2026-06-12 23:35:31",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "屏東清潔隊長撞人疑肇逃 50歲男摔落水溝亡",
           "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E6%B8%85%E6%BD%94%E9%9A%8A%E9%95%B7%E6%92%9E%E4%BA%BA%E7%96%91%E8%82%87%E9%80%83-50%E6%AD%B2%E7%94%B7%E6%91%94%E8%90%BD%E6%B0%B4%E6%BA%9D%E4%BA%A1-153409653.html",
           "time": "2026-06-12 23:34:09",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "屏東清潔隊長撞人疑肇逃50歲男摔落水溝亡| 社會",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92b1pHdThDRzMtYVBocktoYkF2VXo4MEhPbVpobktrVGdQd0hLTHAxbkVybEpoYXdPU1VtT0F1My1ONWRwUDlFUER1ekRSMVBjSF82Yms0Z2FyS3pmOTk0?oc=5",
           "time": "2026-06-12 23:34:00",
           "publisher": "中央社",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "臺韓觀光交流會議圓滿落幕 屏東魅力獲韓國業界肯定 期待帶動送客與媒體曝光效益",
@@ -7602,11 +7595,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 137,
+      "news_count": 134,
       "comment_count": 0,
       "negativity_pct": 36,
       "is_urgent": false,
-      "urgency_score": 284,
+      "urgency_score": 278,
       "news_articles": [
         {
           "title": "花蓮營養午餐弊案延燒 副縣長百萬交保",
@@ -7977,7 +7970,7 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mZTlLRnBTRHlyLUxnOFNoTHhMNDd6U25hbmVmN3IwbHZXMnJvZDFCZGxkM25sM29mLWF3VnJlTTIwaER4NUZuYzE4cndUc0ds?oc=5",
           "time": "2026-06-12 11:57:36",
           "publisher": "Google News→UDN",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "豪雨特報 新竹以南、宜蘭及花蓮山區有局部大雨 - 生活新聞 - PChome Online 新聞",
@@ -8040,7 +8033,7 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XTHZjZFZFRXROcXZkVEFlOTJMaDdVVm5mUl9PWDItZVY4b2F2Rno3ODNCdkUxNTVpYjdrYk5Cd3QwbXhSczdvTHJOajRpSU5sTC0wU0M4aHhwVzFCa2NnNUdmdHRfUnc5eEHSAW9BVV95cUxPdXM5dEV3TnRvTV9DTmtYcGMxcmcxbDFsZ09Ud000akZrYkdob1Z6OHRTOV9QOGxzSlhYeExmRWFjRUhMVXQ0RFNzTjdZRHE5V1duMjRGUzN4eUhEYUpDYmh4dHNzaDk4RUpEZG8zTm8?oc=5",
           "time": "2026-06-12 11:23:29",
           "publisher": "自由時報",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "營養午餐爆弊案！花蓮副縣長百萬交保 傅崐萁當年這1句超諷刺",
@@ -8229,7 +8222,7 @@
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTSnM4alRyOV9KcTl6cGFpSDVwSDJVbTYyXzdGNnpoQlBVR2JGMWR1dHJmRUV4Q1dCalp1aXJrX0NNTXFMNjNNUUV2S1h3d2ZkR1M5R0hqS010NHpLM3lvMmpXbUJHSkFv0gFuQVVfeXFMT1hRcnc5TVFZMFY0RlcwNDdxSnhjN09UWlRxQS14cUU5YklkUXZVVzZpSThWMTNFZk00My1BV0VUOWhEV1RhYkhUandybjRRNTI2eEdQeFdKUHBicVVfYkpMSGt4UWExOXBzVUx6bHc?oc=5",
           "time": "2026-06-12 09:29:15",
           "publisher": "自由時報",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "快訊/花蓮副縣長顏新章100萬元交保",
@@ -8545,27 +8538,6 @@
           "time": "2026-06-12 01:00:00",
           "publisher": "Google News→鉅聞天下",
           "severity": "yellow"
-        },
-        {
-          "title": "營養午餐弊案 花蓮代理秘書長饒忠複訊後請回 (圖)",
-          "url": "https://tw.news.yahoo.com/%E7%87%9F%E9%A4%8A%E5%8D%88%E9%A4%90%E5%BC%8A%E6%A1%88-%E8%8A%B1%E8%93%AE%E4%BB%A3%E7%90%86%E7%A7%98%E6%9B%B8%E9%95%B7%E9%A5%92%E5%BF%A0%E8%A4%87%E8%A8%8A%E5%BE%8C%E8%AB%8B%E5%9B%9E-%E5%9C%96-164713671.html",
-          "time": "2026-06-12 00:47:13",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "花蓮副縣長顏新章涉嫌圖利廠商 移送地檢署複訊 (圖)",
-          "url": "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE%E5%89%AF%E7%B8%A3%E9%95%B7%E9%A1%8F%E6%96%B0%E7%AB%A0%E6%B6%89%E5%AB%8C%E5%9C%96%E5%88%A9%E5%BB%A0%E5%95%86-%E7%A7%BB%E9%80%81%E5%9C%B0%E6%AA%A2%E7%BD%B2%E8%A4%87%E8%A8%8A-%E5%9C%96-164711479.html",
-          "time": "2026-06-12 00:47:11",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "花蓮副縣長顏新章涉嫌圖利廠商 移送地檢署複訊 (圖)",
-          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNZWl3MXdqRFlMOGVzS0lOMWVYZHAxYS0tZlY1c2dqVXRsdS1SaEhlVWJYZzNPMVF6X3FjSk1HT2V5a29HazZ2UGUzTG5FNEdwUmI5cDZHZVVHTkEyc28wQ0oyWkVzWkotaDRQVmdqNnVtWVJ3Z0tsaVBZaHkzb2lsNmdWYUU4UEFLanhibW9teWdxZ0F2ZEhmYUtROGp4RGJCMm01VF8xWkNnZ2pzejF4QnFYa0tBLWE3ZEZVZm8ybDFiOVIzdFhIMDR0TjJVRWRmZEZ4dHA5TngybDB4d1Faa0w4XzE1bHd2N01panRwMF9pQTZuX1JqMllIOVh1ODZTNkNfRElYMGFPR2RmdEtXNnRrRUp5Q3FWMlZhQkxvc1MyNEpheGhvU0Z3QllQaFR3d0REckhDSG5MZTd5ZFg0T3cyc0RlcFRCSExJaUU4ZkxVZFY5eXVWcmdhd2lpdw?oc=5",
-          "time": "2026-06-12 00:47:11",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -9223,7 +9195,7 @@
           "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%A6%99%E9%BD%A1%E5%A5%B3%E6%AC%A010%E8%90%AC%E8%A2%AB%E9%80%BC%E6%85%98%E9%81%AD%E6%80%A7%E4%BE%B5-%E5%80%9F%E6%93%9A%E9%A9%9A%E8%A6%8B-%E9%96%8B%E7%99%BC%E5%B0%8F%E8%8F%8A%E8%8A%B1-%E8%AE%8A%E6%85%8B%E6%A2%9D%E6%AC%BE-041823155.html",
           "time": "2026-06-12 12:18:23",
           "publisher": "Yahoo新聞",
-          "severity": "red"
+          "severity": "yellow"
         },
         {
           "title": "又是毒駕？台中街頭競速2死1傷 倖存者有毒品反應",
@@ -9709,11 +9681,11 @@
       "city": "高雄",
       "place": "高雄市左營區",
       "level": "red",
-      "news_count": 198,
+      "news_count": 197,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 222,
+      "urgency_score": 221,
       "news_articles": [
         {
           "title": "高雄空大攜手原民部落大學 深化交流共創教育合作新里程",
@@ -9727,7 +9699,7 @@
           "url": "https://news.tvbs.com.tw/politics/3229610",
           "time": "2026-06-13 00:42:15",
           "publisher": "TVBS",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "高雄左營果貿地段推都更 副市長林欽榮北上招商",
@@ -9741,7 +9713,7 @@
           "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%B2%A1%E5%B1%B1%E6%9C%AC%E5%B7%9E%E5%B7%A5%E6%A5%AD%E5%8D%80%E5%A4%A7%E7%81%AB-%E5%B8%82%E5%BA%9C%E7%A8%AE%E7%BD%B0500%E8%90%AC-%E5%8B%92%E4%BB%A4%E5%81%9C%E5%B7%A5-155929808.html",
           "time": "2026-06-12 23:59:29",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "影／高雄化學材料工廠爆炸起火全面燃燒畫面驚人 消防搶救中",
@@ -9755,7 +9727,7 @@
           "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%B2%A1%E5%B1%B1%E5%B7%A5%E6%A5%AD%E5%8D%80%E5%A4%A7%E7%81%AB%E9%87%80%E7%81%BD-%E7%92%B0%E4%BF%9D%E5%B1%80%E9%96%8B%E7%BD%B0500%E8%90%AC%E4%B8%A6%E5%8B%92%E4%BB%A4%E5%81%9C%E5%B7%A5-151500330.html",
           "time": "2026-06-12 23:15:00",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "高雄驚傳爆炸聲！火災濃煙滾滾如地獄場景 市府出手了重罰工廠500萬",
@@ -11093,13 +11065,6 @@
           "time": "2026-06-12 01:41:35",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "高市政權促成53年歷史突破 「日華懇」正式更名「日台友好議連」",
-          "url": "https://tw.news.yahoo.com/%E9%AB%98%E5%B8%82%E6%94%BF%E6%AC%8A%E4%BF%83%E6%88%9053%E5%B9%B4%E6%AD%B7%E5%8F%B2%E7%AA%81%E7%A0%B4-%E6%97%A5%E8%8F%AF%E6%87%87-%E6%AD%A3%E5%BC%8F%E6%9B%B4%E5%90%8D-%E6%97%A5%E5%8F%B0%E5%8F%8B%E5%A5%BD%E8%AD%B0%E9%80%A3-004500787.html",
-          "time": "2026-06-12 00:45:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -11109,11 +11074,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 231,
+      "news_count": 229,
       "comment_count": 0,
-      "negativity_pct": 13,
+      "negativity_pct": 14,
       "is_urgent": false,
-      "urgency_score": 324,
+      "urgency_score": 322,
       "news_articles": [
         {
           "title": "桃園毒駕拒檢！2路人遭撞身亡｜志祺七七 Shorts #daily",
@@ -11127,7 +11092,7 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80WlZYRVY0dldLd1l4OFY3aDRmLU5lR0dzWHJnRWlYaDZTZkRMVUtNbWctQUJGcFRJaU5qN29FNHo1UTR0UXlNUzdUOUdzYjFFLWJfNEVR?oc=5",
           "time": "2026-06-12 23:45:00",
           "publisher": "東森新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "桃園霧茫茫！西半部留意濃霧",
@@ -11148,7 +11113,7 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5R1ptREE1X0dnNDFWaHZDSkxDeUZBY1hobjNwNWRKTlc2NHhxSjVUQ2dlbnBqQjNtZXREUm5mMllNLTdKbm8zNmNHdV9XcnFITTMzZGN3?oc=5",
           "time": "2026-06-12 22:36:34",
           "publisher": "Google News→LINE TODAY",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "案情大逆轉？桃園毒駕撞死人另有隱情…警方坦承：事發前1秒有擦撞",
@@ -12086,7 +12051,7 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qNVNkbkFTUkNTUUFuR2JaS0ZKWmdCQ0RUN1BDdjlaUHlTTTNpRnpSZ251VG9vY3RaREV6WHU3YkZxODhQcHpyaGVmaVZLSjNy0gFWQVVfeXFMTVJNSXhvZldaeEYyY2M2Tmxsc0VRRWM3ZlVJcnFpdHZmODEwckVGZk95YUZLY2NfTU1ETHY2WVE4OXlsQThPM0p4MXpxS2hSbVBLQWplTkE?oc=5",
           "time": "2026-06-12 11:23:04",
           "publisher": "Google News→UDN",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "桃園奪命毒蟲3月才判刑！法官竟認「吸毒對他人無重大明顯實害」",
@@ -12716,20 +12681,6 @@
           "url": "https://tw.news.yahoo.com/%E5%8F%88%E6%98%AF%E6%AF%92%E9%A7%95-%E6%A1%83%E5%9C%92%E8%AD%A6%E5%8C%AA%E8%BF%BD%E9%80%90-%E8%BD%8E%E8%BB%8A%E5%A4%B1%E6%8E%A7%E7%8C%9B%E6%92%9E%E8%B7%AF%E4%BA%BA-2%E4%BA%BA%E5%A4%B1%E5%8E%BB%E5%91%BC%E5%90%B8%E5%BF%83%E8%B7%B3-170326102.html",
           "time": "2026-06-12 01:03:26",
           "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "桃園涉毒嫌犯駕車逃警撞死2人 張善政：究責到底",
-          "url": "https://www.cna.com.tw/news/asoc/202606120003.aspx",
-          "time": "2026-06-12 00:48:31",
-          "publisher": "中央社",
-          "severity": "red"
-        },
-        {
-          "title": "桃園涉毒嫌犯駕車逃警撞死2人張善政：究責到底| 社會",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OYjdvMUxIUjBxSDctM2VVZmhGV1U2TVVMRTNEVU45OXFudVM0N0F4REZiMktXYzVqNDE1OFBmV3dKUnk2eUhqM0NRcXU2ZXcwUGNNWDBSWDEyNTVvRTd3?oc=5",
-          "time": "2026-06-12 00:48:00",
-          "publisher": "中央社",
           "severity": "red"
         }
       ],
