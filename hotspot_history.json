@@ -31563,7 +31563,7 @@
     },
     {
       "date": "2026-06-14",
-      "snapshot_at": "2026-06-13T16:43:11.368517+00:00",
+      "snapshot_at": "2026-06-13T16:44:04.687619+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -31776,9 +31776,9 @@
           ]
         },
         {
-          "title": "彰化弊案爭議",
-          "city": "彰化",
-          "place": "彰化縣政府",
+          "title": "基隆弊案爭議",
+          "city": "基隆",
+          "place": "基隆市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -31786,7 +31786,21 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "彰化毒駕男撞警無保請回 遭更裁收押"
+            "「謝國樑清清白白啦！」許忠信遭抓包修法黨團協商時接到\"市長\"來電 竟辯稱台灣很多市長 王義川搞笑反串狠酸:全台灣還有哪個"
+          ]
+        },
+        {
+          "title": "嘉義市弊案爭議",
+          "city": "嘉義市",
+          "place": "嘉義市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "不明財產逾千萬 嘉市警分隊長涉貪收押"
           ]
         },
         {
@@ -31804,9 +31818,9 @@
           ]
         },
         {
-          "title": "基隆弊案爭議",
-          "city": "基隆",
-          "place": "基隆市政府",
+          "title": "彰化弊案爭議",
+          "city": "彰化",
+          "place": "彰化縣政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -31814,7 +31828,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "「謝國樑清清白白啦！」許忠信遭抓包修法黨團協商時接到\"市長\"來電 竟辯稱台灣很多市長 王義川搞笑反串狠酸:全台灣還有哪個"
+            "彰化毒駕男撞警無保請回 遭更裁收押"
           ]
         },
         {
@@ -31829,20 +31843,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "桃園男扮律師「幫寫訴狀」11年騙255萬 慘被起訴求刑4年"
-          ]
-        },
-        {
-          "title": "嘉義市弊案爭議",
-          "city": "嘉義市",
-          "place": "嘉義市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "不明財產逾千萬 嘉市警分隊長涉貪收押"
           ]
         },
         {

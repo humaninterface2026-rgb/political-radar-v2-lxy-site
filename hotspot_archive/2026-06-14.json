@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "snapshot_at": "2026-06-13T16:43:11.368517+00:00",
+  "snapshot_at": "2026-06-13T16:44:04.687619+00:00",
   "hotspots": [
     {
       "title": "捷運藍線爭議",
@@ -663,9 +663,9 @@
       "comments": []
     },
     {
-      "title": "彰化弊案爭議",
-      "city": "彰化",
-      "place": "彰化縣政府",
+      "title": "基隆弊案爭議",
+      "city": "基隆",
+      "place": "基隆市政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -674,8 +674,29 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "彰化毒駕男撞警無保請回 遭更裁收押",
-          "url": "https://news.ltn.com.tw/news/society/paper/1758606",
+          "title": "「謝國樑清清白白啦！」許忠信遭抓包修法黨團協商時接到\"市長\"來電 竟辯稱台灣很多市長 王義川搞笑反串狠酸:全台灣還有哪個市長有被判刑│【新台派上線 精彩】20260613│三立新聞台",
+          "url": "https://www.youtube.com/watch?v=99DbSFpqDXI",
+          "time": "2026-06-13 10:54:41",
+          "publisher": null,
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "嘉義市弊案爭議",
+      "city": "嘉義市",
+      "place": "嘉義市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "不明財產逾千萬 嘉市警分隊長涉貪收押",
+          "url": "https://news.ltn.com.tw/news/society/paper/1758659",
           "time": "2026-06-13 05:30:00",
           "publisher": "自由時報",
           "severity": "red"
@@ -705,9 +726,9 @@
       "comments": []
     },
     {
-      "title": "基隆弊案爭議",
-      "city": "基隆",
-      "place": "基隆市政府",
+      "title": "彰化弊案爭議",
+      "city": "彰化",
+      "place": "彰化縣政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -716,10 +737,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "「謝國樑清清白白啦！」許忠信遭抓包修法黨團協商時接到\"市長\"來電 竟辯稱台灣很多市長 王義川搞笑反串狠酸:全台灣還有哪個市長有被判刑│【新台派上線 精彩】20260613│三立新聞台",
-          "url": "https://www.youtube.com/watch?v=99DbSFpqDXI",
-          "time": "2026-06-13 10:54:41",
-          "publisher": null,
+          "title": "彰化毒駕男撞警無保請回 遭更裁收押",
+          "url": "https://news.ltn.com.tw/news/society/paper/1758606",
+          "time": "2026-06-13 05:30:00",
+          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -741,27 +762,6 @@
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEaFNacFVmenhUZFVaWjZaR1ZuSWlGSkdYSDhqd0Q0ejVOWWRiWk5lTFVLZkY2QTRJU3dtV1RlVldFMC02WElqeHFkdTJhcW9fdnJXUW9LaFRuak9OakHSAWhBVV95cUxNa0xqUDhGdklqNnk3UFlWVEVTbE94cTFzMjU1VDR3bTN2U0lHenlZa29PcEx4T21qclRhb193RVVGVzgzSG9EeTZUSFItQzE4VDNidUYzQkprakhORnZWdDhWeW5qc243cw?oc=5",
           "time": "2026-06-13 16:06:00",
           "publisher": "ETtoday",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "嘉義市弊案爭議",
-      "city": "嘉義市",
-      "place": "嘉義市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "不明財產逾千萬 嘉市警分隊長涉貪收押",
-          "url": "https://news.ltn.com.tw/news/society/paper/1758659",
-          "time": "2026-06-13 05:30:00",
-          "publisher": "自由時報",
           "severity": "red"
         }
       ],
