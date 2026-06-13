@@ -30878,7 +30878,7 @@
     },
     {
       "date": "2026-06-13",
-      "snapshot_at": "2026-06-13T04:12:23.931665+00:00",
+      "snapshot_at": "2026-06-13T04:13:47.425012+00:00",
       "hotspots": [
         {
           "title": "台中槍擊事件",
@@ -30909,20 +30909,6 @@
           ]
         },
         {
-          "title": "新竹縣車禍事件",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "新竹湖口車禍涉找人頂替 失聯移工到案坦承肇事"
-          ]
-        },
-        {
           "title": "新北車禍事件",
           "city": "新北",
           "place": "新北市政府",
@@ -30934,6 +30920,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "新北三重自撞車禍揪出毒駕！車毀駕駛「精神恍惚軟倒」嚇壞路人 快篩K他命陽性遭逮"
+          ]
+        },
+        {
+          "title": "新竹縣車禍事件",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "新竹湖口車禍涉找人頂替 失聯移工到案坦承肇事"
           ]
         },
         {
@@ -31099,20 +31099,6 @@
           ]
         },
         {
-          "title": "桃園弊案爭議",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "桃園毒蟲害2命！3月才判刑 吸毒法官「輕判4個月」：對他人無明顯實害"
-          ]
-        },
-        {
           "title": "基隆弊案爭議",
           "city": "基隆",
           "place": "基隆市政府",
@@ -31138,6 +31124,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "不明財產逾千萬 嘉市警分隊長涉貪收押"
+          ]
+        },
+        {
+          "title": "桃園弊案爭議",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "桃園毒蟲害2命！3月才判刑 吸毒法官「輕判4個月」：對他人無明顯實害"
           ]
         },
         {
@@ -31175,11 +31175,11 @@
           "city": "新竹縣",
           "place": "新竹縣政府",
           "level": "yellow",
-          "news_count": 17,
+          "news_count": 15,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 17,
+          "urgency_score": 15,
           "sample_titles": [
             "隨著2026年地方大選腳步漸近，各政黨選戰佈局陸續開跑。針對外界關注的竹北市長選戰，以及與國民黨之間的初選與協調進度，台",
             "小改變大幸福！新竹縣府前公園 煥然一新 成為市民散步歇腳的新寵兒",
@@ -31298,21 +31298,6 @@
           ]
         },
         {
-          "title": "台北弊案爭議",
-          "city": "台北",
-          "place": "台北市萬華區",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "不管市政管國政？蔣萬安砸神主牌？ 花蓮縣府爆弊案！營養午餐水很深？【台灣向前行】2026.06.12",
-            "北市萬華租客殺死二房東 判刑19年定讞"
-          ]
-        },
-        {
           "title": "彰化弊案爭議",
           "city": "彰化",
           "place": "彰化縣政府",
@@ -31325,6 +31310,21 @@
           "sample_titles": [
             "彰化毒駕男撞警無保請回 遭更裁收押",
             "彰化毒駕撞警男收押 檢方「這份報告」成逆轉關鍵"
+          ]
+        },
+        {
+          "title": "台北弊案爭議",
+          "city": "台北",
+          "place": "台北市萬華區",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "不管市政管國政？蔣萬安砸神主牌？ 花蓮縣府爆弊案！營養午餐水很深？【台灣向前行】2026.06.12",
+            "北市萬華租客殺死二房東 判刑19年定讞"
           ]
         },
         {
@@ -31428,11 +31428,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 33,
+          "news_count": 32,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 33,
+          "urgency_score": 32,
           "sample_titles": [
             "被問雞腿便當憑啥賣120元 宜蘭老闆逐項成本大公開 反問網友13字",
             "中國頻入侵「台灣海域」！2男宜蘭「舉五星旗喊歡迎祖國」下秒慘被鐵拳",
@@ -31492,11 +31492,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 65,
+          "news_count": 64,
           "comment_count": 0,
           "negativity_pct": 20,
           "is_urgent": false,
-          "urgency_score": 104,
+          "urgency_score": 103,
           "sample_titles": [
             "車禍撞毀百年神社鳥居！花蓮豐田神社鳥居修好了",
             "傅氏王朝被連根拔起！花蓮營養午餐驚爆京華城案翻版？陳財能精準剖析對應角色..曝傅崐萁政治版圖哼哈大將都被抓！花蓮王完蛋了",
@@ -31572,11 +31572,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 176,
+          "news_count": 175,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 227,
+          "urgency_score": 226,
           "sample_titles": [
             "吹8級強風！新北、桃園、台中等12縣市「強風特報」 最新警戒區 | 生活",
             "桃園勇敢築夢 黃世杰：打造青年宜居桃花源",

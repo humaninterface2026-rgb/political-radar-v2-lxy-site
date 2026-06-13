@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "snapshot_at": "2026-06-13T04:12:23.931665+00:00",
+  "snapshot_at": "2026-06-13T04:13:47.425012+00:00",
   "hotspots": [
     {
       "title": "台中槍擊事件",
@@ -45,27 +45,6 @@
       "comments": []
     },
     {
-      "title": "新竹縣車禍事件",
-      "city": "新竹縣",
-      "place": "新竹縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "新竹湖口車禍涉找人頂替 失聯移工到案坦承肇事",
-          "url": "https://www.cna.com.tw/news/asoc/202606120312.aspx",
-          "time": "2026-06-12 18:04:44",
-          "publisher": "中央社",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "新北車禍事件",
       "city": "新北",
       "place": "新北市政府",
@@ -81,6 +60,27 @@
           "url": "https://www.ctwant.com/article/485063/",
           "time": "2026-06-13 11:06:05",
           "publisher": "CTWANT",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新竹縣車禍事件",
+      "city": "新竹縣",
+      "place": "新竹縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "新竹湖口車禍涉找人頂替 失聯移工到案坦承肇事",
+          "url": "https://www.cna.com.tw/news/asoc/202606120312.aspx",
+          "time": "2026-06-12 18:04:44",
+          "publisher": "中央社",
           "severity": "yellow"
         }
       ],
@@ -793,27 +793,6 @@
       "comments": []
     },
     {
-      "title": "桃園弊案爭議",
-      "city": "桃園",
-      "place": "桃園市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "桃園毒蟲害2命！3月才判刑 吸毒法官「輕判4個月」：對他人無明顯實害",
-          "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNUWFQc0JyaHFpSjlySExEbHB4bXJhWnJIcHlMVlpid3BCS1kyMW4tdVpqWkctMHlYSVhZUVk3OEZOX0hMMEhXUzRBdFo4cW55OWx0WVdKbngya0p4YnhZYm9kRmdSa2U5OEUtcVVKd0hyRjRfeldkaW8yWjBpTjVEN2RiTEE1ZUJxeUlZemNHWXhRWjRqLWpUNVpVU0d5aUNCT194bFl1ZHh3RWFIVVM0TUNxVFNNRnZPeGVUcUhBNWwzTjdjSXJGVTc5N2ZmbTdVeFRyQmZLMmRXdWNpVlN3cTV3NFF4dFdNZExPNlBnRXhWWFlwdlh0X3VUdDlpTmxpbUxQeHFpOVBEZXQ2RVo4cU1UdUVyd0gyMk5UeDU2Rl96aHloUTJ6aDZVZnpYdFFOWG1qaFMwZzAtMmwxbzNTOVRzZ2tjQTQ0SnZ5QWdSTkFsUHlyM0JJeTV1WG11b2JRdFpsT1RQY1BLZ2tFd1lldUc5Q0hPQ1djX2Z1WFdTNTg2TkwzdlZobTRNd21fN1FnXzhJTA?oc=5",
-          "time": "2026-06-12 13:00:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "基隆弊案爭議",
       "city": "基隆",
       "place": "基隆市政府",
@@ -850,6 +829,27 @@
           "url": "https://news.ltn.com.tw/news/society/paper/1758659",
           "time": "2026-06-13 05:30:00",
           "publisher": "自由時報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "桃園弊案爭議",
+      "city": "桃園",
+      "place": "桃園市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "桃園毒蟲害2命！3月才判刑 吸毒法官「輕判4個月」：對他人無明顯實害",
+          "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNUWFQc0JyaHFpSjlySExEbHB4bXJhWnJIcHlMVlpid3BCS1kyMW4tdVpqWkctMHlYSVhZUVk3OEZOX0hMMEhXUzRBdFo4cW55OWx0WVdKbngya0p4YnhZYm9kRmdSa2U5OEUtcVVKd0hyRjRfeldkaW8yWjBpTjVEN2RiTEE1ZUJxeUlZemNHWXhRWjRqLWpUNVpVU0d5aUNCT194bFl1ZHh3RWFIVVM0TUNxVFNNRnZPeGVUcUhBNWwzTjdjSXJGVTc5N2ZmbTdVeFRyQmZLMmRXdWNpVlN3cTV3NFF4dFdNZExPNlBnRXhWWFlwdlh0X3VUdDlpTmxpbUxQeHFpOVBEZXQ2RVo4cU1UdUVyd0gyMk5UeDU2Rl96aHloUTJ6aDZVZnpYdFFOWG1qaFMwZzAtMmwxbzNTOVRzZ2tjQTQ0SnZ5QWdSTkFsUHlyM0JJeTV1WG11b2JRdFpsT1RQY1BLZ2tFd1lldUc5Q0hPQ1djX2Z1WFdTNTg2TkwzdlZobTRNd21fN1FnXzhJTA?oc=5",
+          "time": "2026-06-12 13:00:00",
+          "publisher": "Yahoo新聞",
           "severity": "red"
         }
       ],
@@ -944,11 +944,11 @@
       "city": "新竹縣",
       "place": "新竹縣政府",
       "level": "yellow",
-      "news_count": 17,
+      "news_count": 15,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 17,
+      "urgency_score": 15,
       "news_articles": [
         {
           "title": "隨著2026年地方大選腳步漸近，各政黨選戰佈局陸續開跑。針對外界關注的竹北市長選戰，以及與國民黨之間的初選與協調進度，台灣民眾黨今天強調，大戰略目標從未改變，將由邱臣遠出戰竹北市，與新竹市、新竹縣連動，打造新竹地區最強的「鐵三角」。",
@@ -1053,20 +1053,6 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlSHl2MjFxa1VLQ0xfa3dyNXd5WFF2RkhCa29INWgxOFFRYVU1dVNVRjZqemRWTjJZLXlYa2FKU01tZDJWXzJUOVhzZ1djM3c?oc=5",
           "time": "2026-06-12 12:43:55",
           "publisher": "Google News→news.cnyes.com",
-          "severity": null
-        },
-        {
-          "title": "新竹縣優化校園環境 今年砸1.1億助攻72校改善",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hOHFndExld0NoY2RjbEZGMEZ3aHVUSFhRVE9YSTZWdjZ3NzVyaVlfa0RQZWRxcHNfY1dwYUxiZEx2Y2p6Q2YzYjRNTFRzbDhmTFM2SFVnRmFJU2dxcVJ0NmF0UjDSAWpBVV95cUxOdmRkZWlPb3FDSkdxZFFRYzFLTFRuQTc1Z1h1ODRQMFVvdERlTEE0eDJBVV9pSkhnM3lFYzhzQ19vTlRBUThFQXI1M3J5MmJRNHF6WFRrNnI0NW1US243UVp3LWcyY0dNOFRB?oc=5",
-          "time": "2026-06-12 12:13:21",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "新竹縣優化校園環境 今年砸1.1億助攻72校改善",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHejFSOVdzZlpUQUctWU10MmNxZUVkSUNfdVQ0SE9POFA5MTVhV3pOLUptel92a1Zsb1ZDcDJUWnVuOHBSNW1UTUJuYmhidVktbUlaX3d5STNMdndoM0lOVk1pdmZMMHZxaGstWE9xb0nSAXZBVV95cUxOdVFfZ3pSZmpSVWhXV3lBRG5DRzV5d1FFQ2ZaQTJVaFZUaHpXX0RKc3cxWm94V3p3WUVmQ0ZuaEhzVExhNV93REVKcVNjSGJZOVY2MkZmRHVuTmVWVjZYSkoycXI0QXN6WjBCMFFEMGxzUnoxbFFB?oc=5",
-          "time": "2026-06-12 12:13:21",
-          "publisher": "自由時報",
           "severity": null
         }
       ],
@@ -2814,34 +2800,6 @@
       "comments": []
     },
     {
-      "title": "台北弊案爭議",
-      "city": "台北",
-      "place": "台北市萬華區",
-      "level": "red",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "不管市政管國政？蔣萬安砸神主牌？ 花蓮縣府爆弊案！營養午餐水很深？【台灣向前行】2026.06.12",
-          "url": "https://www.youtube.com/watch?v=LIDEVbId29E",
-          "time": "2026-06-12 23:41:03",
-          "publisher": null,
-          "severity": "red"
-        },
-        {
-          "title": "北市萬華租客殺死二房東 判刑19年定讞",
-          "url": "https://news.ebc.net.tw/news/society/556200",
-          "time": "2026-06-12 12:44:00",
-          "publisher": "東森新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "彰化弊案爭議",
       "city": "彰化",
       "place": "彰化縣政府",
@@ -2864,6 +2822,34 @@
           "url": "https://news.ltn.com.tw/news/society/breakingnews/5470347",
           "time": "2026-06-12 18:24:22",
           "publisher": "自由時報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台北弊案爭議",
+      "city": "台北",
+      "place": "台北市萬華區",
+      "level": "red",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "不管市政管國政？蔣萬安砸神主牌？ 花蓮縣府爆弊案！營養午餐水很深？【台灣向前行】2026.06.12",
+          "url": "https://www.youtube.com/watch?v=LIDEVbId29E",
+          "time": "2026-06-12 23:41:03",
+          "publisher": null,
+          "severity": "red"
+        },
+        {
+          "title": "北市萬華租客殺死二房東 判刑19年定讞",
+          "url": "https://news.ebc.net.tw/news/society/556200",
+          "time": "2026-06-12 12:44:00",
+          "publisher": "東森新聞",
           "severity": "red"
         }
       ],
@@ -3357,11 +3343,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "red",
-      "news_count": 33,
+      "news_count": 32,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 33,
+      "urgency_score": 32,
       "news_articles": [
         {
           "title": "被問雞腿便當憑啥賣120元 宜蘭老闆逐項成本大公開 反問網友13字",
@@ -3586,13 +3572,6 @@
           "time": "2026-06-12 12:38:26",
           "publisher": "Google News→LINE TODAY",
           "severity": "yellow"
-        },
-        {
-          "title": "豪雨特報 新竹以南、宜蘭及花蓮山區有局部大雨",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iUmVrNjBrdFlzVUlqM05NVmYxMndZbmt3Vy0yR3BYc3F3RDl0NkY0SUpMWE1vWlVxdTBRTnRwTXhERmVtQlplQ2VDMVh4c0xmbDVJaDVjVklwVDlNcGJZOFE3TTE3UGx0cXVIQjhRdXgwaWtjZGtaLVhn0gFiQVVfeXFMTkNYUHhDb3JBSXByS3NLeVhPV2pJT3dzYk9wWUJ3aXozZTdpakxxcmNUVzlGZnNpXzdaekNtempKUzU0ZG92ZldqVXdHLVN3dGVuRG1fOXlYVnBJSzRSWUlrYmc?oc=5",
-          "time": "2026-06-12 12:12:28",
-          "publisher": "Google News→經濟日報",
-          "severity": null
         }
       ],
       "comments": []
@@ -4596,11 +4575,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 65,
+      "news_count": 64,
       "comment_count": 0,
       "negativity_pct": 20,
       "is_urgent": false,
-      "urgency_score": 104,
+      "urgency_score": 103,
       "news_articles": [
         {
           "title": "車禍撞毀百年神社鳥居！花蓮豐田神社鳥居修好了",
@@ -5049,13 +5028,6 @@
           "time": "2026-06-12 12:20:26",
           "publisher": "Google News→台視新聞網",
           "severity": "red"
-        },
-        {
-          "title": "豪雨特報 新竹以南、宜蘭及花蓮山區有局部大雨",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iUmVrNjBrdFlzVUlqM05NVmYxMndZbmt3Vy0yR3BYc3F3RDl0NkY0SUpMWE1vWlVxdTBRTnRwTXhERmVtQlplQ2VDMVh4c0xmbDVJaDVjVklwVDlNcGJZOFE3TTE3UGx0cXVIQjhRdXgwaWtjZGtaLVhn0gFiQVVfeXFMTkNYUHhDb3JBSXByS3NLeVhPV2pJT3dzYk9wWUJ3aXozZTdpakxxcmNUVzlGZnNpXzdaekNtempKUzU0ZG92ZldqVXdHLVN3dGVuRG1fOXlYVnBJSzRSWUlrYmc?oc=5",
-          "time": "2026-06-12 12:12:28",
-          "publisher": "Google News→經濟日報",
-          "severity": null
         }
       ],
       "comments": []
@@ -8005,11 +7977,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 176,
+      "news_count": 175,
       "comment_count": 0,
       "negativity_pct": 10,
       "is_urgent": false,
-      "urgency_score": 227,
+      "urgency_score": 226,
       "news_articles": [
         {
           "title": "吹8級強風！新北、桃園、台中等12縣市「強風特報」 最新警戒區 | 生活",
@@ -9234,13 +9206,6 @@
           "url": "https://tw.news.yahoo.com/%E5%89%8D%E7%A7%91%E5%85%A8%E6%98%AF%E6%AF%92-1%E9%97%9C%E9%8D%B5%E6%B8%9B%E5%88%91-%E6%A1%83%E5%9C%92%E6%AF%92%E9%A7%95-%E6%92%9E%E5%A5%AA3%E5%91%BD-%E5%A6%BB%E7%8F%BE%E8%BA%AB%E8%AA%8D%E5%B1%8D-042637583.html",
           "time": "2026-06-12 12:26:37",
           "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "毒駕釀三死！桃園毒駕撞死兩行人 駕駛傷重不治",
-          "url": "https://www.thehubnews.net/archives/634137",
-          "time": "2026-06-12 12:13:00",
-          "publisher": "新頭條",
           "severity": "red"
         }
       ],
