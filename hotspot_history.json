@@ -33136,7 +33136,7 @@
     },
     {
       "date": "2026-06-16",
-      "snapshot_at": "2026-06-16T01:03:23.269178+00:00",
+      "snapshot_at": "2026-06-16T01:08:09.767586+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -33247,21 +33247,6 @@
           "sample_titles": []
         },
         {
-          "title": "台中詐騙案",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "玉荷包網購差點變詐騙受害者 台中女匯款718元後驚覺有異",
-            "台中民眾網購玉荷包荔枝 險遭詐騙個資"
-          ]
-        },
-        {
           "title": "高雄詐騙案",
           "city": "高雄",
           "place": "高雄市政府",
@@ -33274,6 +33259,21 @@
           "sample_titles": [
             "獨家》詐騙新法鎖定學校！高雄傳12校遭假捐款索帳戶意圖洗錢",
             "防少年淪為詐騙車手 高市警攜觀護協會培訓百名反詐種子"
+          ]
+        },
+        {
+          "title": "台中詐騙案",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "玉荷包網購差點變詐騙受害者 台中女匯款718元後驚覺有異",
+            "台中民眾網購玉荷包荔枝 險遭詐騙個資"
           ]
         },
         {
@@ -33711,11 +33711,11 @@
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "red",
-          "news_count": 37,
+          "news_count": 36,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 37,
+          "urgency_score": 36,
           "sample_titles": [
             "竹市115年第3期市政公報出刊！高虹安市長：持續精進法制建設 提升城市治理效能",
             "國民黨新竹縣黨部今晚公布竹北市長內參民調結果，由縣議員吳旭智勝出，將代表國民黨爭取藍白共推參選資格。民眾黨部分則已徵召新",
@@ -33759,11 +33759,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 65,
+          "news_count": 64,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 71,
+          "urgency_score": 70,
           "sample_titles": [
             "《產業》助力振興花蓮災後經濟 經濟部商業署四大行動出招",
             "告五人金曲戰前先衝花蓮！親揭最大心願 喊話粉絲一起做這件事",
@@ -33823,11 +33823,11 @@
           "city": "高雄",
           "place": "高雄市三民區",
           "level": "red",
-          "news_count": 127,
+          "news_count": 125,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 160,
+          "urgency_score": 158,
           "sample_titles": [
             "高雄市政府社會局響應飢餓三十 連續15年不間斷傳遞人道關懷",
             "第7屆「2026 KFA高雄時尚大賞」徵件開跑",

@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "snapshot_at": "2026-06-16T01:03:23.269178+00:00",
+  "snapshot_at": "2026-06-16T01:08:09.767586+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -181,34 +181,6 @@
       ]
     },
     {
-      "title": "台中詐騙案",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "green",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "玉荷包網購差點變詐騙受害者 台中女匯款718元後驚覺有異",
-          "url": "https://www.thehubnews.net/archives/635228",
-          "time": "2026-06-15 20:28:00",
-          "publisher": "新頭條",
-          "severity": "yellow"
-        },
-        {
-          "title": "台中民眾網購玉荷包荔枝 險遭詐騙個資",
-          "url": "https://news.pts.org.tw/article/813037",
-          "time": "2026-06-15 16:09:57",
-          "publisher": "公視 即時",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "高雄詐騙案",
       "city": "高雄",
       "place": "高雄市政府",
@@ -231,6 +203,34 @@
           "url": "https://tw.news.yahoo.com/%E9%98%B2%E5%B0%91%E5%B9%B4%E6%B7%AA%E7%82%BA%E8%A9%90%E9%A8%99%E8%BB%8A%E6%89%8B-%E9%AB%98%E5%B8%82%E8%AD%A6%E6%94%9C%E8%A7%80%E8%AD%B7%E5%8D%94%E6%9C%83%E5%9F%B9%E8%A8%93%E7%99%BE%E5%90%8D%E5%8F%8D%E8%A9%90%E7%A8%AE%E5%AD%90-041642163.html",
           "time": "2026-06-15 12:16:42",
           "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台中詐騙案",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "green",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "玉荷包網購差點變詐騙受害者 台中女匯款718元後驚覺有異",
+          "url": "https://www.thehubnews.net/archives/635228",
+          "time": "2026-06-15 20:28:00",
+          "publisher": "新頭條",
+          "severity": "yellow"
+        },
+        {
+          "title": "台中民眾網購玉荷包荔枝 險遭詐騙個資",
+          "url": "https://news.pts.org.tw/article/813037",
+          "time": "2026-06-15 16:09:57",
+          "publisher": "公視 即時",
           "severity": "yellow"
         }
       ],
@@ -4821,11 +4821,11 @@
       "city": "新竹市",
       "place": "新竹市政府",
       "level": "red",
-      "news_count": 37,
+      "news_count": 36,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 37,
+      "urgency_score": 36,
       "news_articles": [
         {
           "title": "竹市115年第3期市政公報出刊！高虹安市長：持續精進法制建設 提升城市治理效能",
@@ -5077,13 +5077,6 @@
           "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNbUwxT0VkSnJ2ZS1FUEJxOWdjQzdhdG9lZlNFdGFvYnFhdF83WFpUb1ZwRFhzY2huWDBxcVNEMWw5YUd2WS1RZTRFZUVwODRFTzY4c1NZYnlOTUd5QnR6Nm5naUZIME9VVHJfc0czdW1DYXluU3Fsd3FWcEZtdnAzbzh2aVFPYjFmZ1dTMW5ial9sOTMyLVVfT3FmNG1pbGo5QU55NklLLUY4NmdxdExaeVJ3WThOajNfVkZHQ0pmaS01MjFrTlVBeDB6ZUFiLXhiNHAwWmRBMmtfaEFfbE9zeGgzRklLWWdTYnpQSUFLaG5RS19LdXBYOWhzUDdYSEpMaEVkdm90WTRkNUtfT2UxSXp1clBaY1RXTVJqWkJZemowVy03VVVhRG5LVTFvenRKaVJIS2k0YTlNbWRiWUVCV1NmMm5sOTRjSGRNOXBn?oc=5",
           "time": "2026-06-15 09:26:32",
           "publisher": "Google News→yesmedia.com.tw",
-          "severity": null
-        },
-        {
-          "title": "新竹市生育津貼擬翻倍至6萬元 明年再推好孕補助2萬元",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdVFOdXB6dUx0QzB6Y0xFd3N4aGpoZ3N3Q1NmV1FneE4weENFQXBXYzdQM1VQaGc4aHA3UlhXUmZ2VzFaM2ZrdDFhd3Q5d3hwNlBRZDhEMWE3Z0pEUEJPb3BERldfM09od3BuWFNwYS1VX2J2UURyZnZOaWQ5eFNucUxPYTRDX1BpeHg2dmVwR00?oc=5",
-          "time": "2026-06-15 09:05:00",
-          "publisher": "Google News→新住民全球新聞網",
           "severity": null
         }
       ],
@@ -5885,11 +5878,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 65,
+      "news_count": 64,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 71,
+      "urgency_score": 70,
       "news_articles": [
         {
           "title": "《產業》助力振興花蓮災後經濟 經濟部商業署四大行動出招",
@@ -6338,13 +6331,6 @@
           "time": "2026-06-15 09:49:00",
           "publisher": "中央社",
           "severity": "red"
-        },
-        {
-          "title": "獨家》我首架F-16 Block70近期返國橫跨太平洋飛抵花蓮基地- 軍事",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DVUFpTFNjT0FKdk95ZE1oZVU5d2dmUE9FYi1vOVhrOWNqeDBiTndnLXRLLXY4LTd2eDNPYTNVbEUyb0ZOVklCRHdfc1dIb1FUaF9DMERTeklNYVUtb3V1VzkySTJVU21TOUNtanNn?oc=5",
-          "time": "2026-06-15 09:06:20",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -8265,11 +8251,11 @@
       "city": "高雄",
       "place": "高雄市三民區",
       "level": "red",
-      "news_count": 127,
+      "news_count": 125,
       "comment_count": 0,
       "negativity_pct": 9,
       "is_urgent": false,
-      "urgency_score": 160,
+      "urgency_score": 158,
       "news_articles": [
         {
           "title": "高雄市政府社會局響應飢餓三十 連續15年不間斷傳遞人道關懷",
@@ -9144,20 +9130,6 @@
           "url": "https://newtalk.tw/news/view/2026-06-15/1041335",
           "time": "2026-06-15 09:33:18",
           "publisher": "新頭殼",
-          "severity": null
-        },
-        {
-          "title": "三度走訪哈囉市場 薛兆基：傳統市場升級攸關北高雄競爭力",
-          "url": "https://www.thehubnews.net/archives/634858",
-          "time": "2026-06-15 09:05:20",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "捷運動工利多 高雄房貸鑑估值鳥松區逾1900萬元居冠",
-          "url": "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5472345",
-          "time": "2026-06-15 09:04:25",
-          "publisher": "自由時報",
           "severity": null
         }
       ],
