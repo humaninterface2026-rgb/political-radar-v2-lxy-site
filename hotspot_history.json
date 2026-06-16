@@ -33136,7 +33136,7 @@
     },
     {
       "date": "2026-06-16",
-      "snapshot_at": "2026-06-16T00:56:42.462399+00:00",
+      "snapshot_at": "2026-06-16T01:03:23.269178+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -33381,6 +33381,21 @@
           ]
         },
         {
+          "title": "花蓮弊案爭議",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
+          "level": "yellow",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "混吸兩毒狂飆逆撞兩車 花蓮毒駕男收押",
+            "吸安又抽喪屍煙彈！花蓮毒蟲逆向連環撞被收押"
+          ]
+        },
+        {
           "title": "台北陳情/抗議",
           "city": "台北",
           "place": "台北市政府",
@@ -33541,22 +33556,6 @@
           ]
         },
         {
-          "title": "南投地方動態",
-          "city": "南投",
-          "place": "南投縣政府",
-          "level": "yellow",
-          "news_count": 28,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 28,
-          "sample_titles": [
-            "打造智慧觀光首都！全新「南投即時交通資訊網」上線",
-            "「南投即時交通資訊網」全新上線 交通旅遊一指掌握",
-            "南投即時交通資訊網全新上線 八大主題景區資訊一手掌握"
-          ]
-        },
-        {
           "title": "宜蘭地方動態",
           "city": "宜蘭",
           "place": "宜蘭縣政府",
@@ -33573,15 +33572,31 @@
           ]
         },
         {
+          "title": "南投地方動態",
+          "city": "南投",
+          "place": "南投縣政府",
+          "level": "yellow",
+          "news_count": 28,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 28,
+          "sample_titles": [
+            "打造智慧觀光首都！全新「南投即時交通資訊網」上線",
+            "「南投即時交通資訊網」全新上線 交通旅遊一指掌握",
+            "南投即時交通資訊網全新上線 八大主題景區資訊一手掌握"
+          ]
+        },
+        {
           "title": "金門地方動態",
           "city": "金門",
           "place": "金門縣政府",
           "level": "yellow",
-          "news_count": 43,
+          "news_count": 41,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 43,
+          "urgency_score": 41,
           "sample_titles": [
             "全金門揪團最強解壓「泡泡足球」6/27激爽登場 | 勁報",
             "全金門揪團最強解壓「泡泡足球」6/27激爽登場",
@@ -33676,31 +33691,15 @@
           ]
         },
         {
-          "title": "花蓮弊案爭議",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "red",
-          "news_count": 4,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 16,
-          "sample_titles": [
-            "混吸兩毒狂飆逆撞兩車 花蓮毒駕男收押",
-            "吸安又抽喪屍煙彈！花蓮毒蟲逆向連環撞被收押",
-            "好痛！急診怒拍醫師雙手 花蓮男醫療暴力判刑"
-          ]
-        },
-        {
           "title": "彰化地方動態",
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "red",
-          "news_count": 18,
+          "news_count": 17,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 21,
+          "urgency_score": 20,
           "sample_titles": [
             "彰化北斗汽車修配廠火警！ 火勢猛濃煙沖天",
             "彰化縣勇奪2026建築園冶獎4項大獎 展現公園綠地與社造新亮點",
@@ -33760,15 +33759,31 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 67,
+          "news_count": 65,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 79,
+          "urgency_score": 71,
           "sample_titles": [
             "《產業》助力振興花蓮災後經濟 經濟部商業署四大行動出招",
             "告五人金曲戰前先衝花蓮！親揭最大心願 喊話粉絲一起做這件事",
             "混吸兩毒狂飆逆撞兩車 花蓮毒駕男收押"
+          ]
+        },
+        {
+          "title": "桃園地方動態",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "red",
+          "news_count": 73,
+          "comment_count": 0,
+          "negativity_pct": 3,
+          "is_urgent": false,
+          "urgency_score": 79,
+          "sample_titles": [
+            "亞太智慧商業物流展6/23-25在桃園會展中心登場 展現AI冷鏈物流趨勢",
+            "桃園「國小狼師」偷拍少女還討裸照 女友告發反被檢方嗆",
+            "桃園市114學年度第2學期「失業勞工子女助學補助」開跑囉"
           ]
         },
         {
@@ -33785,22 +33800,6 @@
             "端午假期 新北路邊停車格暫停收費",
             "《傳產》新北預售屋這區跌破8字頭 新店竟狂飆3成",
             "65歲以上領200元！新北長輩免費做1檢測還送禮券 揪出失智、肌少症風險"
-          ]
-        },
-        {
-          "title": "桃園地方動態",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "red",
-          "news_count": 74,
-          "comment_count": 0,
-          "negativity_pct": 3,
-          "is_urgent": false,
-          "urgency_score": 80,
-          "sample_titles": [
-            "亞太智慧商業物流展6/23-25在桃園會展中心登場 展現AI冷鏈物流趨勢",
-            "桃園「國小狼師」偷拍少女還討裸照 女友告發反被檢方嗆",
-            "桃園市114學年度第2學期「失業勞工子女助學補助」開跑囉"
           ]
         },
         {
