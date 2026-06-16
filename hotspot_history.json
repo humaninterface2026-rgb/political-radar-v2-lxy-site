@@ -33136,7 +33136,7 @@
     },
     {
       "date": "2026-06-16",
-      "snapshot_at": "2026-06-16T10:22:47.388170+00:00",
+      "snapshot_at": "2026-06-16T10:23:35.264299+00:00",
       "hotspots": [
         {
           "title": "行人地獄討論",
@@ -33209,48 +33209,6 @@
           ]
         },
         {
-          "title": "澎湖詐騙案",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "澎湖縣政府稅務局辦理115年「粽情稅悅．端午飄香～端陽稅務闖關樂宣導活動」 宣導租稅暨反貪反賄選反詐騙"
-          ]
-        },
-        {
-          "title": "彰化詐騙案",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "被拐到中國當詐騙！彰化鹹粥嬤愛孫「返台半年」現況曝光：等兵單入伍"
-          ]
-        },
-        {
-          "title": "高雄詐騙案",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "高雄6校接獲假捐款詐騙電話 均未受騙已報警查辦"
-          ]
-        },
-        {
           "title": "台東詐騙案",
           "city": "台東",
           "place": "台東縣政府",
@@ -33276,6 +33234,48 @@
           "urgency_score": 4,
           "sample_titles": [
             "玉荷包網購差點變詐騙受害者 台中女匯款718元後驚覺有異"
+          ]
+        },
+        {
+          "title": "澎湖詐騙案",
+          "city": "澎湖",
+          "place": "澎湖縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "澎湖縣政府稅務局辦理115年「粽情稅悅．端午飄香～端陽稅務闖關樂宣導活動」 宣導租稅暨反貪反賄選反詐騙"
+          ]
+        },
+        {
+          "title": "高雄詐騙案",
+          "city": "高雄",
+          "place": "高雄市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "高雄6校接獲假捐款詐騙電話 均未受騙已報警查辦"
+          ]
+        },
+        {
+          "title": "彰化詐騙案",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "被拐到中國當詐騙！彰化鹹粥嬤愛孫「返台半年」現況曝光：等兵單入伍"
           ]
         },
         {
@@ -33411,22 +33411,6 @@
           ]
         },
         {
-          "title": "基隆詐騙案",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "yellow",
-          "news_count": 3,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 12,
-          "sample_titles": [
-            "謝國樑LINE帳號遭詐團冒用 基警證實境外詐騙電話",
-            "趁市長出國來亂？ 有人假冒謝國樑名義組詐騙群組 本尊有最新回應",
-            "假冒基隆市長名義設群組詐騙 謝國樑證實「籲國人提高警覺」"
-          ]
-        },
-        {
           "title": "屏東詐騙案",
           "city": "屏東",
           "place": "屏東縣政府",
@@ -33440,6 +33424,22 @@
             "假投資+假交友詐騙多 屏東執行分署籲牢記3不原則」",
             "屏東愛文芒果外銷法國！疑遭盜圖淪詐騙工具 警方介入",
             "港灣新聞網／守護部落長輩不落入詐騙陷阱 屏東執行分署深入百合園區推廣法治教育"
+          ]
+        },
+        {
+          "title": "基隆詐騙案",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "yellow",
+          "news_count": 3,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 12,
+          "sample_titles": [
+            "謝國樑LINE帳號遭詐團冒用 基警證實境外詐騙電話",
+            "趁市長出國來亂？ 有人假冒謝國樑名義組詐騙群組 本尊有最新回應",
+            "假冒基隆市長名義設群組詐騙 謝國樑證實「籲國人提高警覺」"
           ]
         },
         {
@@ -33877,11 +33877,11 @@
           "city": "高雄",
           "place": "高雄市左營區",
           "level": "red",
-          "news_count": 145,
+          "news_count": 144,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 163,
+          "urgency_score": 162,
           "sample_titles": [
             "彭金隆：高雄專區試辦再延1年 家辦顧問業務擬落地全台",
             "Rain下月高雄開唱要驗收成果 預告把啤酒節變派對現場",

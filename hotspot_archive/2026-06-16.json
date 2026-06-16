@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "snapshot_at": "2026-06-16T10:22:47.388170+00:00",
+  "snapshot_at": "2026-06-16T10:23:35.264299+00:00",
   "hotspots": [
     {
       "title": "行人地獄討論",
@@ -108,69 +108,6 @@
       "comments": []
     },
     {
-      "title": "澎湖詐騙案",
-      "city": "澎湖",
-      "place": "澎湖縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "澎湖縣政府稅務局辦理115年「粽情稅悅．端午飄香～端陽稅務闖關樂宣導活動」 宣導租稅暨反貪反賄選反詐騙",
-          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNdk1peUdPRzF3S1V4MDVZZU1QZnpKaVIyT3RMVlRiRFpXRFpkcWpJM2xqM0t0MjBlSGFuZEtGa0dwTWJiOWRGeGx6ZFhQOEpoSFlBZ1lBRUgyMDhIRzZTMmZGbklCbG03dlgzXy1PRENYZkExenBvSlpSQWJoU2lBSXlxQmh5dVJaMWNJRFVoclhLb3E0WjBLWnM4RmNHUlVCblJXUk1hX2hjaTZRdFo0ZFRtUi14UTJEbDIwb0VMUzFXdllpSExnS0RZSC1kcFFrMDlFbXFmVjhGeWVWZVk0SEFqbm91aTFOU2pucVd2ZUh0QWZMQTl2Sng4UXJsWnhfOHloTEhaVkhnSlozSTRVZDBzUjFLblMzQmZpQVpQTjA4ejVlT3phSFRlTWdCeVFZbkVQS3h4bnZ5UQ?oc=5",
-          "time": "2026-06-15 19:58:15",
-          "publisher": "Google News→澎湖e傳媒",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "彰化詐騙案",
-      "city": "彰化",
-      "place": "彰化縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "被拐到中國當詐騙！彰化鹹粥嬤愛孫「返台半年」現況曝光：等兵單入伍",
-          "url": "https://tw.news.yahoo.com/%E8%A2%AB%E6%8B%90%E5%88%B0%E4%B8%AD%E5%9C%8B%E7%95%B6%E8%A9%90%E9%A8%99-%E5%BD%B0%E5%8C%96%E9%B9%B9%E7%B2%A5%E5%AC%A4%E6%84%9B%E5%AD%AB-%E8%BF%94%E5%8F%B0%E5%8D%8A%E5%B9%B4-%E7%8F%BE%E6%B3%81%E6%9B%9D%E5%85%89-%E7%AD%89%E5%85%B5%E5%96%AE%E5%85%A5%E4%BC%8D-060800117.html",
-          "time": "2026-06-16 06:08:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "高雄詐騙案",
-      "city": "高雄",
-      "place": "高雄市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "高雄6校接獲假捐款詐騙電話 均未受騙已報警查辦",
-          "url": "https://www.cna.com.tw/news/aloc/202606160166.aspx",
-          "time": "2026-06-16 14:38:51",
-          "publisher": "中央社",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台東詐騙案",
       "city": "台東",
       "place": "台東縣政府",
@@ -207,6 +144,69 @@
           "url": "https://www.thehubnews.net/archives/635228",
           "time": "2026-06-15 20:28:00",
           "publisher": "新頭條",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "澎湖詐騙案",
+      "city": "澎湖",
+      "place": "澎湖縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "澎湖縣政府稅務局辦理115年「粽情稅悅．端午飄香～端陽稅務闖關樂宣導活動」 宣導租稅暨反貪反賄選反詐騙",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNdk1peUdPRzF3S1V4MDVZZU1QZnpKaVIyT3RMVlRiRFpXRFpkcWpJM2xqM0t0MjBlSGFuZEtGa0dwTWJiOWRGeGx6ZFhQOEpoSFlBZ1lBRUgyMDhIRzZTMmZGbklCbG03dlgzXy1PRENYZkExenBvSlpSQWJoU2lBSXlxQmh5dVJaMWNJRFVoclhLb3E0WjBLWnM4RmNHUlVCblJXUk1hX2hjaTZRdFo0ZFRtUi14UTJEbDIwb0VMUzFXdllpSExnS0RZSC1kcFFrMDlFbXFmVjhGeWVWZVk0SEFqbm91aTFOU2pucVd2ZUh0QWZMQTl2Sng4UXJsWnhfOHloTEhaVkhnSlozSTRVZDBzUjFLblMzQmZpQVpQTjA4ejVlT3phSFRlTWdCeVFZbkVQS3h4bnZ5UQ?oc=5",
+          "time": "2026-06-15 19:58:15",
+          "publisher": "Google News→澎湖e傳媒",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄詐騙案",
+      "city": "高雄",
+      "place": "高雄市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "高雄6校接獲假捐款詐騙電話 均未受騙已報警查辦",
+          "url": "https://www.cna.com.tw/news/aloc/202606160166.aspx",
+          "time": "2026-06-16 14:38:51",
+          "publisher": "中央社",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "彰化詐騙案",
+      "city": "彰化",
+      "place": "彰化縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "被拐到中國當詐騙！彰化鹹粥嬤愛孫「返台半年」現況曝光：等兵單入伍",
+          "url": "https://tw.news.yahoo.com/%E8%A2%AB%E6%8B%90%E5%88%B0%E4%B8%AD%E5%9C%8B%E7%95%B6%E8%A9%90%E9%A8%99-%E5%BD%B0%E5%8C%96%E9%B9%B9%E7%B2%A5%E5%AC%A4%E6%84%9B%E5%AD%AB-%E8%BF%94%E5%8F%B0%E5%8D%8A%E5%B9%B4-%E7%8F%BE%E6%B3%81%E6%9B%9D%E5%85%89-%E7%AD%89%E5%85%B5%E5%96%AE%E5%85%A5%E4%BC%8D-060800117.html",
+          "time": "2026-06-16 06:08:00",
+          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -712,41 +712,6 @@
       "comments": []
     },
     {
-      "title": "基隆詐騙案",
-      "city": "基隆",
-      "place": "基隆市政府",
-      "level": "yellow",
-      "news_count": 3,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 12,
-      "news_articles": [
-        {
-          "title": "謝國樑LINE帳號遭詐團冒用 基警證實境外詐騙電話",
-          "url": "https://tw.news.yahoo.com/%E8%AC%9D%E5%9C%8B%E6%A8%91line%E5%B8%B3%E8%99%9F%E9%81%AD%E8%A9%90%E5%9C%98%E5%86%92%E7%94%A8-%E5%9F%BA%E8%AD%A6%E8%AD%89%E5%AF%A6%E5%A2%83%E5%A4%96%E8%A9%90%E9%A8%99%E9%9B%BB%E8%A9%B1-085705175.html",
-          "time": "2026-06-16 16:57:05",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "趁市長出國來亂？ 有人假冒謝國樑名義組詐騙群組 本尊有最新回應",
-          "url": "https://newtalk.tw/news/view/2026-06-16/1041620",
-          "time": "2026-06-16 11:53:53",
-          "publisher": "新頭殼",
-          "severity": "yellow"
-        },
-        {
-          "title": "假冒基隆市長名義設群組詐騙 謝國樑證實「籲國人提高警覺」",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5473506",
-          "time": "2026-06-16 10:39:03",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "屏東詐騙案",
       "city": "屏東",
       "place": "屏東縣政府",
@@ -776,6 +741,41 @@
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhX20yMmdzZGw4Q3NUWnktMVBvSE1NMHVHeTl4Y19mWGZlalJJNzluMEpxaUVRVGhQeUYycDdFT2Joem9qNmc?oc=5",
           "time": "2026-06-16 04:41:09",
           "publisher": "Google News→台灣新聞雲報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "基隆詐騙案",
+      "city": "基隆",
+      "place": "基隆市政府",
+      "level": "yellow",
+      "news_count": 3,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 12,
+      "news_articles": [
+        {
+          "title": "謝國樑LINE帳號遭詐團冒用 基警證實境外詐騙電話",
+          "url": "https://tw.news.yahoo.com/%E8%AC%9D%E5%9C%8B%E6%A8%91line%E5%B8%B3%E8%99%9F%E9%81%AD%E8%A9%90%E5%9C%98%E5%86%92%E7%94%A8-%E5%9F%BA%E8%AD%A6%E8%AD%89%E5%AF%A6%E5%A2%83%E5%A4%96%E8%A9%90%E9%A8%99%E9%9B%BB%E8%A9%B1-085705175.html",
+          "time": "2026-06-16 16:57:05",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "趁市長出國來亂？ 有人假冒謝國樑名義組詐騙群組 本尊有最新回應",
+          "url": "https://newtalk.tw/news/view/2026-06-16/1041620",
+          "time": "2026-06-16 11:53:53",
+          "publisher": "新頭殼",
+          "severity": "yellow"
+        },
+        {
+          "title": "假冒基隆市長名義設群組詐騙 謝國樑證實「籲國人提高警覺」",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5473506",
+          "time": "2026-06-16 10:39:03",
+          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -8452,11 +8452,11 @@
       "city": "高雄",
       "place": "高雄市左營區",
       "level": "red",
-      "news_count": 145,
+      "news_count": 144,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 163,
+      "urgency_score": 162,
       "news_articles": [
         {
           "title": "彭金隆：高雄專區試辦再延1年 家辦顧問業務擬落地全台",
@@ -9465,13 +9465,6 @@
           "time": "2026-06-15 18:25:00",
           "publisher": "Google News→鏡新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "高雄教育局推校事會議改革 「溝通先行」增第3方專業調處機制",
-          "url": "https://cnews.com.tw/242260615a01/",
-          "time": "2026-06-15 18:22:59",
-          "publisher": "匯流新聞網",
-          "severity": null
         }
       ],
       "comments": []
