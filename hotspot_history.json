@@ -33136,7 +33136,7 @@
     },
     {
       "date": "2026-06-16",
-      "snapshot_at": "2026-06-16T00:52:46.943367+00:00",
+      "snapshot_at": "2026-06-16T00:56:42.462399+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -33247,21 +33247,6 @@
           "sample_titles": []
         },
         {
-          "title": "高雄詐騙案",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "green",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "獨家》詐騙新法鎖定學校！高雄傳12校遭假捐款索帳戶意圖洗錢",
-            "防少年淪為詐騙車手 高市警攜觀護協會培訓百名反詐種子"
-          ]
-        },
-        {
           "title": "台中詐騙案",
           "city": "台中",
           "place": "台中市政府",
@@ -33274,6 +33259,21 @@
           "sample_titles": [
             "玉荷包網購差點變詐騙受害者 台中女匯款718元後驚覺有異",
             "台中民眾網購玉荷包荔枝 險遭詐騙個資"
+          ]
+        },
+        {
+          "title": "高雄詐騙案",
+          "city": "高雄",
+          "place": "高雄市政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "獨家》詐騙新法鎖定學校！高雄傳12校遭假捐款索帳戶意圖洗錢",
+            "防少年淪為詐騙車手 高市警攜觀護協會培訓百名反詐種子"
           ]
         },
         {
@@ -33325,20 +33325,6 @@
           ]
         },
         {
-          "title": "台中狼師事件",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "[HatePolitics] Re: [討論] 柯文哲條款最先受益的是台中愛滋性侵狼"
-          ]
-        },
-        {
           "title": "桃園狼師事件",
           "city": "桃園",
           "place": "桃園市政府",
@@ -33353,9 +33339,9 @@
           ]
         },
         {
-          "title": "屏東弊案爭議",
-          "city": "屏東",
-          "place": "屏東縣政府",
+          "title": "台中狼師事件",
+          "city": "台中",
+          "place": "台中市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -33363,7 +33349,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "毆打未滿週歲嬰兒成傷 屏東男子判刑2年定讞"
+            "[HatePolitics] Re: [討論] 柯文哲條款最先受益的是台中愛滋性侵狼"
           ]
         },
         {
@@ -33378,6 +33364,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "喪屍煙彈製毒工廠藏身桃園民宅、廢棄工廠 2男遭檢方起訴"
+          ]
+        },
+        {
+          "title": "屏東弊案爭議",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "毆打未滿週歲嬰兒成傷 屏東男子判刑2年定讞"
           ]
         },
         {
@@ -33541,22 +33541,6 @@
           ]
         },
         {
-          "title": "宜蘭地方動態",
-          "city": "宜蘭",
-          "place": "宜蘭縣政府",
-          "level": "yellow",
-          "news_count": 28,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 28,
-          "sample_titles": [
-            "獨家／江振誠卸下名廚光環 陪母姊聚餐2小時再返宜蘭",
-            "雪隧通車20年 林國漳許3願翻轉宜蘭",
-            "宜蘭縣長選舉 藍綠白大混戰"
-          ]
-        },
-        {
           "title": "南投地方動態",
           "city": "南投",
           "place": "南投縣政府",
@@ -33570,6 +33554,22 @@
             "打造智慧觀光首都！全新「南投即時交通資訊網」上線",
             "「南投即時交通資訊網」全新上線 交通旅遊一指掌握",
             "南投即時交通資訊網全新上線 八大主題景區資訊一手掌握"
+          ]
+        },
+        {
+          "title": "宜蘭地方動態",
+          "city": "宜蘭",
+          "place": "宜蘭縣政府",
+          "level": "yellow",
+          "news_count": 28,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 28,
+          "sample_titles": [
+            "獨家／江振誠卸下名廚光環 陪母姊聚餐2小時再返宜蘭",
+            "雪隧通車20年 林國漳許3願翻轉宜蘭",
+            "宜蘭縣長選舉 藍綠白大混戰"
           ]
         },
         {
@@ -33772,22 +33772,6 @@
           ]
         },
         {
-          "title": "桃園地方動態",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "red",
-          "news_count": 74,
-          "comment_count": 0,
-          "negativity_pct": 3,
-          "is_urgent": false,
-          "urgency_score": 80,
-          "sample_titles": [
-            "亞太智慧商業物流展6/23-25在桃園會展中心登場 展現AI冷鏈物流趨勢",
-            "桃園「國小狼師」偷拍少女還討裸照 女友告發反被檢方嗆",
-            "桃園市114學年度第2學期「失業勞工子女助學補助」開跑囉"
-          ]
-        },
-        {
           "title": "新北地方動態",
           "city": "新北",
           "place": "新北市政府",
@@ -33804,15 +33788,31 @@
           ]
         },
         {
+          "title": "桃園地方動態",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "red",
+          "news_count": 74,
+          "comment_count": 0,
+          "negativity_pct": 3,
+          "is_urgent": false,
+          "urgency_score": 80,
+          "sample_titles": [
+            "亞太智慧商業物流展6/23-25在桃園會展中心登場 展現AI冷鏈物流趨勢",
+            "桃園「國小狼師」偷拍少女還討裸照 女友告發反被檢方嗆",
+            "桃園市114學年度第2學期「失業勞工子女助學補助」開跑囉"
+          ]
+        },
+        {
           "title": "台中地方動態",
           "city": "台中",
           "place": "台中市清水區",
           "level": "red",
-          "news_count": 122,
+          "news_count": 120,
           "comment_count": 0,
-          "negativity_pct": 9,
+          "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 155,
+          "urgency_score": 150,
           "sample_titles": [
             "台中清水知名宵夜小吃部遭砸！3醉漢吃不到豬腦湯暴怒毀桌",
             "《台中市長選舉》躺著就贏？ 江啟臣︰戰戰兢兢",
