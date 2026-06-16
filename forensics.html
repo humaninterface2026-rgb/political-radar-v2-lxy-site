@@ -639,6 +639,14 @@ function evLevel(e){const nr=e.n_red||0,nt=e.n_total||e.n||1; if(nr===0)return'g
 let incidentMap, _mapReg={}, _mapId=0;
 function selectEventByName(nm){const i=DATA.events.findIndex(e=>e.name===nm); if(i<0)return; CUR=i; renderList(DATA.events); renderDetail(DATA.events[CUR]); const el=$('detail'); if(el)el.scrollIntoView({behavior:'smooth',block:'start'});}
 function selectEventByMapId(id){selectEventByName(_mapReg[id]); if(incidentMap)incidentMap.closePopup();}
+// 預警 marker → 連到「預警雷達」對應卡片：展開該卡（全部報導＋預防/應對＋客製研判）並捲過去
+function selectWatchByName(nm){
+  const i=DATA.watchlist.findIndex(w=>w.name===nm); if(i<0)return;
+  WATCH_OPEN=i; renderWatch(DATA.watchlist);
+  const card=document.querySelectorAll('#watchStrip .watch-card')[i];
+  const el=card||$('watchDetail')||$('watchStrip'); if(el)el.scrollIntoView({behavior:'smooth',block:'center'});
+}
+function selectWatchByMapId(id){selectWatchByName(_mapReg[id]); if(incidentMap)incidentMap.closePopup();}
 function renderIncidentMap(d){
   const el=document.getElementById('incidentMap'); if(!el||typeof L==='undefined')return;
   if(!incidentMap){
@@ -667,7 +675,8 @@ function renderIncidentMap(d){
     const ig=(item.phases&&item.phases.ignition)||'';
     const meta=isWatch?`${esc(item.topic||'')}｜預警雷達｜首見 ${(item.first_seen||'').slice(5)}｜${item.n} 則（紅 ${item.n_red}）`
                       :`${esc(item.topic||'')}｜引爆 ${(ig||'').slice(5)}｜${nt} 篇（紅 ${item.n_red}）`;
-    const btn=isWatch?'':`<a class="mp-go" onclick="selectEventByMapId(${id})">查看完整解構 →</a>`;
+    const btn=isWatch?`<a class="mp-go" onclick="selectWatchByMapId(${id})">展開預警訊號（全部報導＋應對）→</a>`
+                     :`<a class="mp-go" onclick="selectEventByMapId(${id})">查看完整解構 →</a>`;
     m.bindPopup(`<div class="map-popup"><b>${esc(item.name)}</b>${isWatch?' <span style="color:#b06a00">⚠預警</span>':''}<div class="mp-meta">📍 ${esc(g.place)}${g.generic?'（區未定）':''}</div><div class="mp-meta">${meta}</div>${btn}</div>`);
     layer.addLayer(m);
   }
