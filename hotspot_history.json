@@ -34012,7 +34012,7 @@
     },
     {
       "date": "2026-06-17",
-      "snapshot_at": "2026-06-17T01:13:47.441313+00:00",
+      "snapshot_at": "2026-06-17T01:28:39.109349+00:00",
       "hotspots": [
         {
           "title": "行人地獄討論",
@@ -34041,20 +34041,6 @@
           "sample_titles": []
         },
         {
-          "title": "台南狼師事件",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台南女喝醉被男同事「載到摩鐵性侵」 就醫急裝避孕器"
-          ]
-        },
-        {
           "title": "南投狼師事件",
           "city": "南投",
           "place": "南投縣政府",
@@ -34066,6 +34052,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "扯！南投12歲女童遭同居人父親性侵 母控「說謊」還陪加害者出庭"
+          ]
+        },
+        {
+          "title": "台南狼師事件",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "台南女喝醉被男同事「載到摩鐵性侵」 就醫急裝避孕器"
           ]
         },
         {
@@ -34097,9 +34097,9 @@
           ]
         },
         {
-          "title": "台東詐騙案",
-          "city": "台東",
-          "place": "台東縣政府",
+          "title": "宜蘭詐騙案",
+          "city": "宜蘭",
+          "place": "宜蘭縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -34107,7 +34107,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "台東縣長饒慶鈴日前以預錄影片參與海峽論壇，但有匿名官員卻向媒體表示將交主管機關查處。國民黨立委牛煦庭今批評，賴清德政府是"
+            "穩賺不賠都是詐騙 宜蘭2 個月攔下20件"
           ]
         },
         {
@@ -34125,9 +34125,9 @@
           ]
         },
         {
-          "title": "宜蘭詐騙案",
-          "city": "宜蘭",
-          "place": "宜蘭縣政府",
+          "title": "台東詐騙案",
+          "city": "台東",
+          "place": "台東縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -34135,7 +34135,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "穩賺不賠都是詐騙 宜蘭2 個月攔下20件"
+            "台東縣長饒慶鈴日前以預錄影片參與海峽論壇，但有匿名官員卻向媒體表示將交主管機關查處。國民黨立委牛煦庭今批評，賴清德政府是"
           ]
         },
         {
@@ -34655,11 +34655,11 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "red",
-          "news_count": 59,
+          "news_count": 58,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 62,
+          "urgency_score": 61,
           "sample_titles": [
             "金門榮服處×榮民榮眷基金會端節包粽送暖關懷榮民眷 | 勁報",
             "2026大專盃金門美食短片競賽正式開跑，邀你一起把金門拍給全世界看",
@@ -34671,15 +34671,31 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 62,
+          "news_count": 61,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 62,
+          "urgency_score": 61,
           "sample_titles": [
             "快訊／驚險！苗栗男童翹課抱保麗龍海上漂流 釣客急通報",
             "苗栗大矽谷 就學需求增1.2萬人",
             "表態選頭份市長！曾玟學有贏面？ 綠營逆風前行！搶灘苗栗非夢事！ 2026.06.16【台灣向前行 Part4】"
+          ]
+        },
+        {
+          "title": "台南地方動態",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "red",
+          "news_count": 63,
+          "comment_count": 0,
+          "negativity_pct": 3,
+          "is_urgent": false,
+          "urgency_score": 69,
+          "sample_titles": [
+            "台南北區甜品 寒天豆花口感Q彈 吃起來更有層次",
+            "端午連假去哪玩？台南藏金閣2館送限量粽子零錢包",
+            "中職》亞太OT案季末評估 台南市府盼與統一獅雙贏"
           ]
         },
         {
@@ -34699,31 +34715,15 @@
           ]
         },
         {
-          "title": "台南地方動態",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "red",
-          "news_count": 65,
-          "comment_count": 0,
-          "negativity_pct": 3,
-          "is_urgent": false,
-          "urgency_score": 71,
-          "sample_titles": [
-            "台南北區甜品 寒天豆花口感Q彈 吃起來更有層次",
-            "端午連假去哪玩？台南藏金閣2館送限量粽子零錢包",
-            "中職》亞太OT案季末評估 台南市府盼與統一獅雙贏"
-          ]
-        },
-        {
           "title": "屏東地方動態",
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 87,
+          "news_count": 85,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 105,
+          "urgency_score": 103,
           "sample_titles": [
             "屏東愛文首度巴黎上架 一顆1180元",
             "高鐵屏東站 民代憂淪蚊子館",
@@ -34735,11 +34735,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 99,
+          "news_count": 98,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 117,
+          "urgency_score": 116,
           "sample_titles": [
             "新北工地意外！貨車不明原因滑動猛撞 男工人送醫不治",
             "失去2條腿仍展生命韌性 新北「袋鼠跳」小狗在板橋動物之家等領養",
@@ -34783,11 +34783,11 @@
           "city": "台北",
           "place": "台北市內湖區",
           "level": "red",
-          "news_count": 141,
+          "news_count": 140,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 177,
+          "urgency_score": 176,
           "sample_titles": [
             "台北中山九昱希爾頓逸林酒店「逸起廢到炸」住房專案 大啖「廢到炸物拼盤」再贈精品酒店優惠住宿券",
             "入住抽獎中獎率99.9％！台北艾麗酒店「艾世足」住房專案 彈性房價92折",
@@ -34799,11 +34799,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 154,
+          "news_count": 153,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 154,
+          "urgency_score": 153,
           "sample_titles": [
             "花蓮馬太鞍溪暴漲 工地負責人受困16小時凌晨脫困",
             "花蓮慈濟名醫屢遭仿冒 皮膚科洪崧壬遭AI變造賣狐臭藥",
@@ -34815,11 +34815,11 @@
           "city": "高雄",
           "place": "高雄市三民區",
           "level": "red",
-          "news_count": 155,
+          "news_count": 154,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 170,
+          "urgency_score": 169,
           "sample_titles": [
             "高雄市專勤隊破案外案再擒跨國人販集團 查扣47本護照 救出5名被害人",
             "女巡官頂樓日光浴遭拍曝光 高市警認行為不妥將檢討",
@@ -34831,11 +34831,11 @@
           "city": "台中",
           "place": "台中市西屯區",
           "level": "red",
-          "news_count": 166,
+          "news_count": 165,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 214,
+          "urgency_score": 213,
           "sample_titles": [
             "利特、安孝燮愛用品牌降臨台中：三大話題品牌聯手，一站式解鎖韓系水光肌祕密",
             "快訊／松鼠碰觸電線 台中大雅130戶停電逾1小時",

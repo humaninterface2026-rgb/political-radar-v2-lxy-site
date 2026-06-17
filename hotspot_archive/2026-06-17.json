@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "snapshot_at": "2026-06-17T01:13:47.441313+00:00",
+  "snapshot_at": "2026-06-17T01:28:39.109349+00:00",
   "hotspots": [
     {
       "title": "行人地獄討論",
@@ -46,27 +46,6 @@
       ]
     },
     {
-      "title": "台南狼師事件",
-      "city": "台南",
-      "place": "台南市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "台南女喝醉被男同事「載到摩鐵性侵」 就醫急裝避孕器",
-          "url": "https://news.ebc.net.tw/news/society/556730",
-          "time": "2026-06-16 11:20:00",
-          "publisher": "東森新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "南投狼師事件",
       "city": "南投",
       "place": "南投縣政府",
@@ -82,6 +61,27 @@
           "url": "https://news.ltn.com.tw/news/society/breakingnews/5474298",
           "time": "2026-06-16 18:58:18",
           "publisher": "自由時報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台南狼師事件",
+      "city": "台南",
+      "place": "台南市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "台南女喝醉被男同事「載到摩鐵性侵」 就醫急裝避孕器",
+          "url": "https://news.ebc.net.tw/news/society/556730",
+          "time": "2026-06-16 11:20:00",
+          "publisher": "東森新聞",
           "severity": "yellow"
         }
       ],
@@ -130,9 +130,9 @@
       "comments": []
     },
     {
-      "title": "台東詐騙案",
-      "city": "台東",
-      "place": "台東縣政府",
+      "title": "宜蘭詐騙案",
+      "city": "宜蘭",
+      "place": "宜蘭縣政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -141,10 +141,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "台東縣長饒慶鈴日前以預錄影片參與海峽論壇，但有匿名官員卻向媒體表示將交主管機關查處。國民黨立委牛煦庭今批評，賴清德政府是濫權的「巨嬰政府」，見不得藍營執政縣市有好成績，籲國民黨別再因綠營「抗中保台」等詐騙話術而患「創傷後壓力症候群」（PTSD），應勇敢講述兩岸交流主張。",
-          "url": "https://udn.com/news/story/6656/9568949?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-06-16 11:05:21",
-          "publisher": "聯合新聞網",
+          "title": "穩賺不賠都是詐騙 宜蘭2 個月攔下20件",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQd0pfQmVYWXhxN0xXekZRNFpGSVdQdnctNXhJM3pQelVMeU9GNWwyVTAySTh3VlhVTDNlY3J2MGxKLTAzSk15QzdZSEFxeXRIa0ZoMVI2WW5mUHluTFRtbkdjcFJPY1RyUkpxa2xmZWFTRXBvQVlYN3VJQjFYWklxUTlBd3E4dnllbHl4YkRvSjNSNlJlV3RxYlNUZmM1Wk9tODBtLU0yN3ZPSlZVVXlMT1FzU1ZyMUxfVWxhaVlFM25TcGhJZ0dsTE9UM0NkMFNvOUFPbnJaYkdBb3YtNF82NVhoWjNlWHYyeHJiamZPS2JSRm5QRzR3cl92UWFEQ2gzSzJWNVg0eGpmdkhi?oc=5",
+          "time": "2026-06-16 10:29:48",
+          "publisher": "Google News→宜蘭新聞網",
           "severity": "yellow"
         }
       ],
@@ -172,9 +172,9 @@
       "comments": []
     },
     {
-      "title": "宜蘭詐騙案",
-      "city": "宜蘭",
-      "place": "宜蘭縣政府",
+      "title": "台東詐騙案",
+      "city": "台東",
+      "place": "台東縣政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -183,10 +183,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "穩賺不賠都是詐騙 宜蘭2 個月攔下20件",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQd0pfQmVYWXhxN0xXekZRNFpGSVdQdnctNXhJM3pQelVMeU9GNWwyVTAySTh3VlhVTDNlY3J2MGxKLTAzSk15QzdZSEFxeXRIa0ZoMVI2WW5mUHluTFRtbkdjcFJPY1RyUkpxa2xmZWFTRXBvQVlYN3VJQjFYWklxUTlBd3E4dnllbHl4YkRvSjNSNlJlV3RxYlNUZmM1Wk9tODBtLU0yN3ZPSlZVVXlMT1FzU1ZyMUxfVWxhaVlFM25TcGhJZ0dsTE9UM0NkMFNvOUFPbnJaYkdBb3YtNF82NVhoWjNlWHYyeHJiamZPS2JSRm5QRzR3cl92UWFEQ2gzSzJWNVg0eGpmdkhi?oc=5",
-          "time": "2026-06-16 10:29:48",
-          "publisher": "Google News→宜蘭新聞網",
+          "title": "台東縣長饒慶鈴日前以預錄影片參與海峽論壇，但有匿名官員卻向媒體表示將交主管機關查處。國民黨立委牛煦庭今批評，賴清德政府是濫權的「巨嬰政府」，見不得藍營執政縣市有好成績，籲國民黨別再因綠營「抗中保台」等詐騙話術而患「創傷後壓力症候群」（PTSD），應勇敢講述兩岸交流主張。",
+          "url": "https://udn.com/news/story/6656/9568949?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-06-16 11:05:21",
+          "publisher": "聯合新聞網",
           "severity": "yellow"
         }
       ],
@@ -1543,7 +1543,7 @@
           "severity": null
         },
         {
-          "title": "「美方認為鄭麗文太親共了！」前央視記者：見到的人比盧秀燕級別低很多",
+          "title": "前央視記者：鄭麗文見到的人「比盧秀燕級別低很多」！關鍵1原因曝光",
           "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOWlU4QTFyeU03OVpBZm02MUFMeTF3UER1ODlZQTlwYndSZmlEd0pEOGdDdjd3SHEtZGwwQkxwUHhyRUs4SkN5RzMycUlXWnJxOXh6Q3h4a0ZidVBwYkJGaDg2cld6cWJMX0ZIZXAxdldYcGpySjVBemRINTlaenh0Q1dXMFJnRFZnWWFock1UenJPSl9YNGZvR1o3bzk1MEVfV3FUeGRqNUJHdUk5YzY3WlRGNl8ybW9IcFVVbkhpcHk0LXFYLXFuMW9JczFiVkh0M2VyZWo2N2V3NkVoNE9EM3FJRk9NZkw2TTNQODB5TU42ZUUwQzlaVFc3NzZRQmdKQjB5Ty02djNWNXdNaU5SUXpxdl9fXzRZZW1LV0pFVmpILWVoZ0p5SHhvUk1XYlJHQ25hbl9OVXJGX3ZhenNGVUlDNGhBbW5ZcVF1U0ZuaTNxQlgzbzRrTi1MRS05d3Zsa2NBeVVwcnYzd2ZpelhyOXJZN0hrRURwWlBQenUtUC1CeWtEUTVpQkFiYWNmWDc4NUtzRWRteFJPTTFEbTJ0UEd0RUhZRndiZGxXNW1qZ0gzZw?oc=5",
           "time": "2026-06-16 22:43:18",
           "publisher": "Yahoo新聞",
@@ -3452,11 +3452,11 @@
       "city": "金門",
       "place": "金門縣政府",
       "level": "red",
-      "news_count": 59,
+      "news_count": 58,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 62,
+      "urgency_score": 61,
       "news_articles": [
         {
           "title": "金門榮服處×榮民榮眷基金會端節包粽送暖關懷榮民眷 | 勁報",
@@ -3863,13 +3863,6 @@
           "time": "2026-06-16 10:31:00",
           "publisher": "ETtoday",
           "severity": "yellow"
-        },
-        {
-          "title": "陳玉珍拋觀光新藍圖 盼打造金門成「國際星光娛樂海島」",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGbC15M0c2dmlhbElZRGhXUEE0eGx6NTFoQzcwSmZ0SjFzejRqczBseFY2MGt1a3ZvWEFYaTRRc0c0WUwyRktMTWp2SkVPUTlPZFQtbWd5ZlV1X0VSc0HSAWhBVV95cUxPV2NWaTV5cnRWNkUxSTZyUWlLR21lalg3Y284dlJCeGxfNjZHZ2dtZllsamtWczkzQ3dkTlpqbEwxcVVDNDQ3UTJtV2JSMWFoTnA0b24yaFB5dVg3NVVURmtGZEhXRmJoeA?oc=5",
-          "time": "2026-06-16 09:23:00",
-          "publisher": "ETtoday",
-          "severity": null
         }
       ],
       "comments": []
@@ -3879,11 +3872,11 @@
       "city": "苗栗",
       "place": "苗栗縣政府",
       "level": "red",
-      "news_count": 62,
+      "news_count": 61,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 62,
+      "urgency_score": 61,
       "news_articles": [
         {
           "title": "快訊／驚險！苗栗男童翹課抱保麗龍海上漂流 釣客急通報",
@@ -4311,13 +4304,461 @@
           "time": "2026-06-16 09:34:15",
           "publisher": "Google News→PChome Online 新聞",
           "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台南地方動態",
+      "city": "台南",
+      "place": "台南市政府",
+      "level": "red",
+      "news_count": 63,
+      "comment_count": 0,
+      "negativity_pct": 3,
+      "is_urgent": false,
+      "urgency_score": 69,
+      "news_articles": [
+        {
+          "title": "台南北區甜品 寒天豆花口感Q彈 吃起來更有層次",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E5%8C%97%E5%8D%80%E7%94%9C%E5%93%81-%E5%AF%92%E5%A4%A9%E8%B1%86%E8%8A%B1%E5%8F%A3%E6%84%9Fq%E5%BD%88-%E5%90%83%E8%B5%B7%E4%BE%86%E6%9B%B4%E6%9C%89%E5%B1%A4%E6%AC%A1-005614835.html",
+          "time": "2026-06-17 08:56:14",
+          "publisher": "Yahoo新聞",
+          "severity": null
         },
         {
-          "title": "苗栗58％老屋待改善 老宅延壽補助6／15起受理",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZREtrVVN2QTUtMmY0ZkdkOGNJVnNuOE1lVUxFOHVuNjNIc0FndERLZnFJdVpOTFpYMWFaUHhBN28wblZZQWdreXpOMlhVbXFBc1REQzJ0X01IVGNERGJN?oc=5",
-          "time": "2026-06-16 09:26:15",
+          "title": "端午連假去哪玩？台南藏金閣2館送限量粽子零錢包",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5474633",
+          "time": "2026-06-17 08:40:28",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "中職》亞太OT案季末評估 台南市府盼與統一獅雙贏",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5UFVJMm16Z0RLMXhoUl9zalJnSGJtOVVUaHNhUGhMQXVkb25fcVlwNzM5dWVSNDZQanByTnRBMFUwU2hkM0lvb09IcG9QMktxUVRnTFRyNlFia202bWM1MTk0bkVoN21PSXNJYzBn?oc=5",
+          "time": "2026-06-17 06:35:30",
           "publisher": "中時新聞網",
           "severity": null
+        },
+        {
+          "title": "芒果輸韓關稅優惠 台南爭取延至8月底",
+          "url": "https://news.ltn.com.tw/news/Tainan/paper/1759169",
+          "time": "2026-06-17 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "家居賣場展店衝擊交通 南市府擬設智慧號誌",
+          "url": "https://news.ltn.com.tw/news/Tainan/paper/1759171",
+          "time": "2026-06-17 05:30:00",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "台南小黃公車增2線 就醫轉乘更便利",
+          "url": "https://news.ltn.com.tw/news/Tainan/paper/1759170",
+          "time": "2026-06-17 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "黃偉哲宣布IKEA確定進駐台南南紡購物中心，終結六都唯一缺席局面，最快年底開幕",
+          "url": "https://www.fountmedia.io/article/392537",
+          "time": "2026-06-17 00:02:32",
+          "publisher": "放言Fount Media",
+          "severity": null
+        },
+        {
+          "title": "中職》亞太OT案季末評估 台南市府盼與統一獅雙贏",
+          "url": "https://www.chinatimes.com/realtimenews/20260617000155-260403",
+          "time": "2026-06-17 00:01:55",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "運動 2026/06/16 18:42 中職台南獅猿戰因雨延到7/1 逼近下半季開打",
+          "url": "https://news.cts.com.tw/cna/sports/202606/202606163044604.html",
+          "time": "2026-06-16 20:16:35",
+          "publisher": "華視新聞網",
+          "severity": null
+        },
+        {
+          "title": "端午返鄉包粽祭祖順手查「祖產榜單」台南逾50億未繼承土地等待認領",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5474189",
+          "time": "2026-06-16 20:03:19",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "中職台南獅猿戰因雨延到7/1 逼近下半季開打",
+          "url": "https://newtalk.tw/news/view/2026-06-16/1041744",
+          "time": "2026-06-16 20:00:20",
+          "publisher": "新頭殼",
+          "severity": null
+        },
+        {
+          "title": "端午取百年古井午時水除穢 台南善化慶安宮送艾草及造型香包",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5474333",
+          "time": "2026-06-16 19:28:17",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "影響牡蠣養殖！台南將軍溪布袋蓮 已清除1700噸",
+          "url": "https://news.ltn.com.tw/news/Tainan/breakingnews/5474250",
+          "time": "2026-06-16 18:52:12",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "從台灣製機能布料出發 台南設計師服飾品牌重塑亞洲機能時裝風貌",
+          "url": "https://tw.news.yahoo.com/%E5%BE%9E%E5%8F%B0%E7%81%A3%E8%A3%BD%E6%A9%9F%E8%83%BD%E5%B8%83%E6%96%99%E5%87%BA%E7%99%BC-%E5%8F%B0%E5%8D%97%E8%A8%AD%E8%A8%88%E5%B8%AB%E6%9C%8D%E9%A3%BE%E5%93%81%E7%89%8C%E9%87%8D%E5%A1%91%E4%BA%9E%E6%B4%B2%E6%A9%9F%E8%83%BD%E6%99%82%E8%A3%9D%E9%A2%A8%E8%B2%8C-100641411.html",
+          "time": "2026-06-16 18:06:41",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "台南建置全國首座心理健康教育館 (圖)",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E5%BB%BA%E7%BD%AE%E5%85%A8%E5%9C%8B%E9%A6%96%E5%BA%A7%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E6%95%99%E8%82%B2%E9%A4%A8-%E5%9C%96-100516560.html",
+          "time": "2026-06-16 18:05:16",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "以鉛筆刺童、孤立在角落 台南某幼兒園、老師判賠31萬給男童",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5474235",
+          "time": "2026-06-16 18:01:08",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "台南設全國首座心理健康教育館 將開放社區學校參訪",
+          "url": "https://www.cna.com.tw/news/aloc/202606160272.aspx",
+          "time": "2026-06-16 17:27:37",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "台南市政府想比照高雄設資產管理專區 金管會：須以「招商」角度進行",
+          "url": "https://money.udn.com/money/story/5613/9570135",
+          "time": "2026-06-16 17:26:50",
+          "publisher": "經濟日報",
+          "severity": null
+        },
+        {
+          "title": "落實社會安全網！台南市72社區齊心防暴 推動「暴力不進門」行動",
+          "url": "https://www.ctee.com.tw/news/20260616701320-431208",
+          "time": "2026-06-16 17:26:42",
+          "publisher": "工商時報",
+          "severity": null
+        },
+        {
+          "title": "南市教局辦校園性別事件防治教育培訓 培力專業師資強化行為人教育處遇",
+          "url": "https://tw.news.yahoo.com/%E5%8D%97%E5%B8%82%E6%95%99%E5%B1%80%E8%BE%A6%E6%A0%A1%E5%9C%92%E6%80%A7%E5%88%A5%E4%BA%8B%E4%BB%B6%E9%98%B2%E6%B2%BB%E6%95%99%E8%82%B2%E5%9F%B9%E8%A8%93-%E5%9F%B9%E5%8A%9B%E5%B0%88%E6%A5%AD%E5%B8%AB%E8%B3%87%E5%BC%B7%E5%8C%96%E8%A1%8C%E7%82%BA%E4%BA%BA%E6%95%99%E8%82%B2%E8%99%95%E9%81%87-091630648.html",
+          "time": "2026-06-16 17:16:30",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "IKEA將在台南展店 讓台南消費者也能就近體驗產品與居家佈置靈感",
+          "url": "https://www.cdns.com.tw/articles/1416459",
+          "time": "2026-06-16 17:05:20",
+          "publisher": "中華日報",
+          "severity": null
+        },
+        {
+          "title": "超逼真！台南實境模擬救災 強化水域觀光安全",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5474082",
+          "time": "2026-06-16 16:54:09",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "陳亭妃化身「叫賣姊」 上電視行銷台南愛文芒果",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5474125",
+          "time": "2026-06-16 16:47:23",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "祖產榜單「粽」了嗎？臺南市公告逾50億未辦繼承不動產，等你來查！",
+          "url": "https://focus.586.com.tw/2026/06/16/p391626/",
+          "time": "2026-06-16 16:35:33",
+          "publisher": "焦點時報",
+          "severity": null
+        },
+        {
+          "title": "不怕被AI取代！南市圖暑期開設數位技能課助市民升級",
+          "url": "https://more-news.tw/643834/",
+          "time": "2026-06-16 16:31:32",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "不用再跑高雄！ 黃偉哲宣布IKEA將在台南展店 落腳地點也曝光",
+          "url": "https://newtalk.tw/news/view/2026-06-16/1041684",
+          "time": "2026-06-16 16:29:55",
+          "publisher": "新頭殼",
+          "severity": null
+        },
+        {
+          "title": "陳亭妃親上電視行銷台南芒果 拚外銷通路目標銷售萬斤",
+          "url": "https://cnews.com.tw/174260616a04/",
+          "time": "2026-06-16 16:06:10",
+          "publisher": "匯流新聞網",
+          "severity": null
+        },
+        {
+          "title": "南市府授予72個防暴社區獎牌 齊心推動「暴力不進門」行動",
+          "url": "https://more-news.tw/643773/",
+          "time": "2026-06-16 16:05:33",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "南市勞工局辦理「職工福利業務研習座談會」 分享如何打造幸福職場",
+          "url": "https://www.cdns.com.tw/articles/1416383",
+          "time": "2026-06-16 16:03:07",
+          "publisher": "中華日報",
+          "severity": null
+        },
+        {
+          "title": "南部旱象解除！台南3大水庫補水逾2億噸 最新水況一圖看",
+          "url": "https://newtalk.tw/news/view/2026-06-16/1041642",
+          "time": "2026-06-16 16:00:47",
+          "publisher": "新頭殼",
+          "severity": null
+        },
+        {
+          "title": "台南館進駐台北國際食品展 黃偉哲率隊北上拚億元商機",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5474003",
+          "time": "2026-06-16 15:40:47",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "IKEA將進駐台南南紡 市議員憂周遭交通更塞",
+          "url": "https://tw.news.yahoo.com/ikea%E5%B0%87%E9%80%B2%E9%A7%90%E5%8F%B0%E5%8D%97%E5%8D%97%E7%B4%A1-%E5%B8%82%E8%AD%B0%E5%93%A1%E6%86%82%E5%91%A8%E9%81%AD%E4%BA%A4%E9%80%9A%E6%9B%B4%E5%A1%9E-073547297.html",
+          "time": "2026-06-16 15:35:47",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "台南阿伯大鬧好市多！嗆聲拆倉庫 網轟：別嘴秋唷",
+          "url": "https://newtalk.tw/news/view/2026-06-16/1041585",
+          "time": "2026-06-16 15:29:40",
+          "publisher": "新頭殼",
+          "severity": "yellow"
+        },
+        {
+          "title": "軍友保險公司敬軍團端節前 慰勞台南國軍部隊",
+          "url": "https://tw.news.yahoo.com/%E8%BB%8D%E5%8F%8B%E4%BF%9D%E9%9A%AA%E5%85%AC%E5%8F%B8%E6%95%AC%E8%BB%8D%E5%9C%98%E7%AB%AF%E7%AF%80%E5%89%8D-%E6%85%B0%E5%8B%9E%E5%8F%B0%E5%8D%97%E5%9C%8B%E8%BB%8D%E9%83%A8%E9%9A%8A-152900409.html",
+          "time": "2026-06-16 15:29:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "台南芒果產季 全國最大檨仔市湧現人潮",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5473988",
+          "time": "2026-06-16 15:27:19",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "氣象署大雷雨警戒／雲林、嘉義、台南轟炸1小時！嚴防淹水、強風 | 天氣預報 | 生活",
+          "url": "https://www.nownews.com/news/6847225",
+          "time": "2026-06-16 14:44:51",
+          "publisher": "NOWnews今日新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "總統賴清德在行政院長任內的「功德說」引發爭議，不過，台南市殯葬管理所最近的遺體接運服務標案出現「0元標」，而且還要抽籤，看起來像是業者搶做功德，但議員質疑恐為爭取後續殯葬商機，導致市場競爭失衡；官員則稱0元標並未違反政府採購法，其他縣市也有這種情況。官員說法令人感歎，市府作為顯已失能。",
+          "url": "https://udn.com/news/story/6656/9569513?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-06-16 14:44:39",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "IKEA湊齊六都！台南店選址敲定 市府200億招商計畫同步啟動",
+          "url": "https://www.mirrormedia.mg/story/20260616edi026",
+          "time": "2026-06-16 14:32:00",
+          "publisher": "鏡週刊",
+          "severity": null
+        },
+        {
+          "title": "IKEA降落台南夢成真！將進駐南紡購物2館B1 今年底前開幕",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5473884",
+          "time": "2026-06-16 14:29:34",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "叫你買一組就爆氣？台南好市多阿伯嗆推銷員：我能把你倉庫拆下來",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5473786",
+          "time": "2026-06-16 14:24:03",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "台南終於有了！IKEA進駐南紡購物中心 網憂：千萬別變這款",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E7%B5%82%E6%96%BC%E6%9C%89%E4%BA%86-ikea%E9%80%B2%E9%A7%90%E5%8D%97%E7%B4%A1%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83-%E7%B6%B2%E6%86%82-%E5%8D%83%E8%90%AC%E5%88%A5%E8%AE%8A%E9%80%99%E6%AC%BE-061900794.html",
+          "time": "2026-06-16 14:19:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "台南終於有了！IKEA進駐南紡購物中心 網憂：千萬別變這款",
+          "url": "https://news.ebc.net.tw/news/living/556783",
+          "time": "2026-06-16 14:19:00",
+          "publisher": "東森新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "選址落定！IKEA進駐台南民憂衝擊交通 議員提解方",
+          "url": "https://news.ltn.com.tw/news/Tainan/breakingnews/5473816",
+          "time": "2026-06-16 13:42:56",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "台南人等到了！IKEA確定進軍台南 徵才網開始招人了",
+          "url": "https://www.thehubnews.net/archives/635327",
+          "time": "2026-06-16 13:26:00",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "綠台南黨部主委改選有鬼？藍議員自爆：林俊憲子弟兵拜託我拉票 | 政治快訊 | 要聞",
+          "url": "https://www.nownews.com/news/6847165",
+          "time": "2026-06-16 12:20:50",
+          "publisher": "NOWnews今日新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "全家都靠他養！台南孝子上班途中遭養豬車撞死 雙親淚崩：以後怎麼活",
+          "url": "https://www.taisounds.com/news/content/96/262572",
+          "time": "2026-06-16 12:20:38",
+          "publisher": "太報",
+          "severity": "yellow"
+        },
+        {
+          "title": "IKEA台南展店確定了！進駐南紡購物中心徵才中",
+          "url": "https://www.taisounds.com/news/content/94/262593",
+          "time": "2026-06-16 12:20:38",
+          "publisher": "太報",
+          "severity": null
+        },
+        {
+          "title": "先問藥師再用藥 台南新增社區健康服務據點",
+          "url": "https://tw.news.yahoo.com/%E5%85%88%E5%95%8F%E8%97%A5%E5%B8%AB%E5%86%8D%E7%94%A8%E8%97%A5-%E5%8F%B0%E5%8D%97%E6%96%B0%E5%A2%9E%E7%A4%BE%E5%8D%80%E5%81%A5%E5%BA%B7%E6%9C%8D%E5%8B%99%E6%93%9A%E9%BB%9E-040448581.html",
+          "time": "2026-06-16 12:04:48",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "好市多、家樂福同押南台南 昌益南青山卡位副都心軸線",
+          "url": "https://more-news.tw/643347/",
+          "time": "2026-06-16 12:00:24",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "臺南市議員林美燕攜手葉翰勳媒合善舉 愛心物資助弱勢安心過節",
+          "url": "https://n.yam.com/Article/20260616985852",
+          "time": "2026-06-16 12:00:00",
+          "publisher": "蕃新聞→勁報",
+          "severity": null
+        },
+        {
+          "title": "強化在地照顧網絡 南市府建構雙核心社區培力系統",
+          "url": "https://n.yam.com/Article/20260616300189",
+          "time": "2026-06-16 12:00:00",
+          "publisher": "蕃新聞→台灣好新聞",
+          "severity": null
+        },
+        {
+          "title": "議員陳昆和建議捷運深綠線延伸至溪北　南市府回應：屬遠期路網建構",
+          "url": "https://n.yam.com/Article/20260616393605",
+          "time": "2026-06-16 12:00:00",
+          "publisher": "蕃新聞→台灣好新聞",
+          "severity": null
+        },
+        {
+          "title": "連日降雨助台南水情 南化水庫蓄水率突破8成",
+          "url": "https://tw.news.yahoo.com/%E9%80%A3%E6%97%A5%E9%99%8D%E9%9B%A8%E5%8A%A9%E5%8F%B0%E5%8D%97%E6%B0%B4%E6%83%85-%E5%8D%97%E5%8C%96%E6%B0%B4%E5%BA%AB%E8%93%84%E6%B0%B4%E7%8E%87%E7%AA%81%E7%A0%B48%E6%88%90-035902597.html",
+          "time": "2026-06-16 11:59:02",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "終於等到你！IKEA確定進駐台南 在地人1原因失望了",
+          "url": "https://tw.news.yahoo.com/%E7%B5%82%E6%96%BC%E7%AD%89%E5%88%B0%E4%BD%A0-ikea%E7%A2%BA%E5%AE%9A%E9%80%B2%E9%A7%90%E5%8F%B0%E5%8D%97-%E5%9C%A8%E5%9C%B0%E4%BA%BA1%E5%8E%9F%E5%9B%A0%E5%A4%B1%E6%9C%9B%E4%BA%86-035200087.html",
+          "time": "2026-06-16 11:52:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "IKEA 終於來台南！選址曝光、預計年底問世",
+          "url": "https://tw.news.yahoo.com/ikea-%E7%B5%82%E6%96%BC%E4%BE%86%E5%8F%B0%E5%8D%97-%E9%81%B8%E5%9D%80%E6%9B%9D%E5%85%89-%E9%A0%90%E8%A8%88%E5%B9%B4%E5%BA%95%E5%95%8F%E4%B8%96-034834280.html",
+          "time": "2026-06-16 11:48:34",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "台南女喝醉被男同事「載到摩鐵性侵」 就醫急裝避孕器",
+          "url": "https://news.ebc.net.tw/news/society/556730",
+          "time": "2026-06-16 11:20:00",
+          "publisher": "東森新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "好市多、家樂福同押南台南 昌益南青山卡位副都心軸線",
+          "url": "https://www.ctee.com.tw/news/20260616700676-431206",
+          "time": "2026-06-16 11:05:23",
+          "publisher": "工商時報",
+          "severity": null
+        },
+        {
+          "title": "許願成真！日本「惡魔偶像」ano參戰浪人祭 報喜11月台南開唱",
+          "url": "https://news.tvbs.com.tw/entertainment/3231986",
+          "time": "2026-06-16 11:05:17",
+          "publisher": "TVBS",
+          "severity": null
+        },
+        {
+          "title": "IKEA湊齊六都！台南人敲碗成功 南紡店即日起招募",
+          "url": "https://news.nextapple.com/life/20260616/100483D05EBFB233851B20A620BAD793",
+          "time": "2026-06-16 10:45:43",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "南市府攜手社區響應家庭暴力防治宣導月 黃偉哲：打造零暴力城市",
+          "url": "https://tw.news.yahoo.com/%E5%8D%97%E5%B8%82%E5%BA%9C%E6%94%9C%E6%89%8B%E7%A4%BE%E5%8D%80%E9%9F%BF%E6%87%89%E5%AE%B6%E5%BA%AD%E6%9A%B4%E5%8A%9B%E9%98%B2%E6%B2%BB%E5%AE%A3%E5%B0%8E%E6%9C%88-%E9%BB%83%E5%81%89%E5%93%B2-%E6%89%93%E9%80%A0%E9%9B%B6%E6%9A%B4%E5%8A%9B%E5%9F%8E%E5%B8%82-102304235.html",
+          "time": "2026-06-16 10:23:04",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "想撿便宜看過來！執行署台南分署7/7法拍小遊艇、3挖土機還先帶看",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5473469",
+          "time": "2026-06-16 10:06:23",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "全國電子台南佳里店開幕 家電9折 燦坤台中屏東雙店開幕 全館下殺5折起",
+          "url": "https://n.yam.com/Article/20260616411598",
+          "time": "2026-06-16 09:53:21",
+          "publisher": "蕃新聞→品傳媒",
+          "severity": null
+        },
+        {
+          "title": "台南運豬車疑煞車失靈「撞等紅燈機車」 孝子慘死",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-06-16/2378593.html",
+          "time": "2026-06-16 09:53:07",
+          "publisher": "壹電視",
+          "severity": "red"
         }
       ],
       "comments": []
@@ -4792,484 +5233,15 @@
       "comments": []
     },
     {
-      "title": "台南地方動態",
-      "city": "台南",
-      "place": "台南市政府",
-      "level": "red",
-      "news_count": 65,
-      "comment_count": 0,
-      "negativity_pct": 3,
-      "is_urgent": false,
-      "urgency_score": 71,
-      "news_articles": [
-        {
-          "title": "台南北區甜品 寒天豆花口感Q彈 吃起來更有層次",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E5%8C%97%E5%8D%80%E7%94%9C%E5%93%81-%E5%AF%92%E5%A4%A9%E8%B1%86%E8%8A%B1%E5%8F%A3%E6%84%9Fq%E5%BD%88-%E5%90%83%E8%B5%B7%E4%BE%86%E6%9B%B4%E6%9C%89%E5%B1%A4%E6%AC%A1-005614835.html",
-          "time": "2026-06-17 08:56:14",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "端午連假去哪玩？台南藏金閣2館送限量粽子零錢包",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5474633",
-          "time": "2026-06-17 08:40:28",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "中職》亞太OT案季末評估 台南市府盼與統一獅雙贏",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5UFVJMm16Z0RLMXhoUl9zalJnSGJtOVVUaHNhUGhMQXVkb25fcVlwNzM5dWVSNDZQanByTnRBMFUwU2hkM0lvb09IcG9QMktxUVRnTFRyNlFia202bWM1MTk0bkVoN21PSXNJYzBn?oc=5",
-          "time": "2026-06-17 06:35:30",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "芒果輸韓關稅優惠 台南爭取延至8月底",
-          "url": "https://news.ltn.com.tw/news/Tainan/paper/1759169",
-          "time": "2026-06-17 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "家居賣場展店衝擊交通 南市府擬設智慧號誌",
-          "url": "https://news.ltn.com.tw/news/Tainan/paper/1759171",
-          "time": "2026-06-17 05:30:00",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "台南小黃公車增2線 就醫轉乘更便利",
-          "url": "https://news.ltn.com.tw/news/Tainan/paper/1759170",
-          "time": "2026-06-17 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "黃偉哲宣布IKEA確定進駐台南南紡購物中心，終結六都唯一缺席局面，最快年底開幕",
-          "url": "https://www.fountmedia.io/article/392537",
-          "time": "2026-06-17 00:02:32",
-          "publisher": "放言Fount Media",
-          "severity": null
-        },
-        {
-          "title": "中職》亞太OT案季末評估 台南市府盼與統一獅雙贏",
-          "url": "https://www.chinatimes.com/realtimenews/20260617000155-260403",
-          "time": "2026-06-17 00:01:55",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "運動 2026/06/16 18:42 中職台南獅猿戰因雨延到7/1 逼近下半季開打",
-          "url": "https://news.cts.com.tw/cna/sports/202606/202606163044604.html",
-          "time": "2026-06-16 20:16:35",
-          "publisher": "華視新聞網",
-          "severity": null
-        },
-        {
-          "title": "端午返鄉包粽祭祖順手查「祖產榜單」台南逾50億未繼承土地等待認領",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5474189",
-          "time": "2026-06-16 20:03:19",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "中職台南獅猿戰因雨延到7/1 逼近下半季開打",
-          "url": "https://newtalk.tw/news/view/2026-06-16/1041744",
-          "time": "2026-06-16 20:00:20",
-          "publisher": "新頭殼",
-          "severity": null
-        },
-        {
-          "title": "端午取百年古井午時水除穢 台南善化慶安宮送艾草及造型香包",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5474333",
-          "time": "2026-06-16 19:28:17",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "影響牡蠣養殖！台南將軍溪布袋蓮 已清除1700噸",
-          "url": "https://news.ltn.com.tw/news/Tainan/breakingnews/5474250",
-          "time": "2026-06-16 18:52:12",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "從台灣製機能布料出發 台南設計師服飾品牌重塑亞洲機能時裝風貌",
-          "url": "https://tw.news.yahoo.com/%E5%BE%9E%E5%8F%B0%E7%81%A3%E8%A3%BD%E6%A9%9F%E8%83%BD%E5%B8%83%E6%96%99%E5%87%BA%E7%99%BC-%E5%8F%B0%E5%8D%97%E8%A8%AD%E8%A8%88%E5%B8%AB%E6%9C%8D%E9%A3%BE%E5%93%81%E7%89%8C%E9%87%8D%E5%A1%91%E4%BA%9E%E6%B4%B2%E6%A9%9F%E8%83%BD%E6%99%82%E8%A3%9D%E9%A2%A8%E8%B2%8C-100641411.html",
-          "time": "2026-06-16 18:06:41",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台南建置全國首座心理健康教育館 (圖)",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E5%BB%BA%E7%BD%AE%E5%85%A8%E5%9C%8B%E9%A6%96%E5%BA%A7%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E6%95%99%E8%82%B2%E9%A4%A8-%E5%9C%96-100516560.html",
-          "time": "2026-06-16 18:05:16",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "以鉛筆刺童、孤立在角落 台南某幼兒園、老師判賠31萬給男童",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5474235",
-          "time": "2026-06-16 18:01:08",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "台南設全國首座心理健康教育館 將開放社區學校參訪",
-          "url": "https://www.cna.com.tw/news/aloc/202606160272.aspx",
-          "time": "2026-06-16 17:27:37",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "台南市政府想比照高雄設資產管理專區 金管會：須以「招商」角度進行",
-          "url": "https://money.udn.com/money/story/5613/9570135",
-          "time": "2026-06-16 17:26:50",
-          "publisher": "經濟日報",
-          "severity": null
-        },
-        {
-          "title": "落實社會安全網！台南市72社區齊心防暴 推動「暴力不進門」行動",
-          "url": "https://www.ctee.com.tw/news/20260616701320-431208",
-          "time": "2026-06-16 17:26:42",
-          "publisher": "工商時報",
-          "severity": null
-        },
-        {
-          "title": "南市教局辦校園性別事件防治教育培訓 培力專業師資強化行為人教育處遇",
-          "url": "https://tw.news.yahoo.com/%E5%8D%97%E5%B8%82%E6%95%99%E5%B1%80%E8%BE%A6%E6%A0%A1%E5%9C%92%E6%80%A7%E5%88%A5%E4%BA%8B%E4%BB%B6%E9%98%B2%E6%B2%BB%E6%95%99%E8%82%B2%E5%9F%B9%E8%A8%93-%E5%9F%B9%E5%8A%9B%E5%B0%88%E6%A5%AD%E5%B8%AB%E8%B3%87%E5%BC%B7%E5%8C%96%E8%A1%8C%E7%82%BA%E4%BA%BA%E6%95%99%E8%82%B2%E8%99%95%E9%81%87-091630648.html",
-          "time": "2026-06-16 17:16:30",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "IKEA將在台南展店 讓台南消費者也能就近體驗產品與居家佈置靈感",
-          "url": "https://www.cdns.com.tw/articles/1416459",
-          "time": "2026-06-16 17:05:20",
-          "publisher": "中華日報",
-          "severity": null
-        },
-        {
-          "title": "超逼真！台南實境模擬救災 強化水域觀光安全",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5474082",
-          "time": "2026-06-16 16:54:09",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "陳亭妃化身「叫賣姊」 上電視行銷台南愛文芒果",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5474125",
-          "time": "2026-06-16 16:47:23",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "祖產榜單「粽」了嗎？臺南市公告逾50億未辦繼承不動產，等你來查！",
-          "url": "https://focus.586.com.tw/2026/06/16/p391626/",
-          "time": "2026-06-16 16:35:33",
-          "publisher": "焦點時報",
-          "severity": null
-        },
-        {
-          "title": "不怕被AI取代！南市圖暑期開設數位技能課助市民升級",
-          "url": "https://more-news.tw/643834/",
-          "time": "2026-06-16 16:31:32",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "不用再跑高雄！ 黃偉哲宣布IKEA將在台南展店 落腳地點也曝光",
-          "url": "https://newtalk.tw/news/view/2026-06-16/1041684",
-          "time": "2026-06-16 16:29:55",
-          "publisher": "新頭殼",
-          "severity": null
-        },
-        {
-          "title": "陳亭妃親上電視行銷台南芒果 拚外銷通路目標銷售萬斤",
-          "url": "https://cnews.com.tw/174260616a04/",
-          "time": "2026-06-16 16:06:10",
-          "publisher": "匯流新聞網",
-          "severity": null
-        },
-        {
-          "title": "南市府授予72個防暴社區獎牌 齊心推動「暴力不進門」行動",
-          "url": "https://more-news.tw/643773/",
-          "time": "2026-06-16 16:05:33",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "南市勞工局辦理「職工福利業務研習座談會」 分享如何打造幸福職場",
-          "url": "https://www.cdns.com.tw/articles/1416383",
-          "time": "2026-06-16 16:03:07",
-          "publisher": "中華日報",
-          "severity": null
-        },
-        {
-          "title": "南部旱象解除！台南3大水庫補水逾2億噸 最新水況一圖看",
-          "url": "https://newtalk.tw/news/view/2026-06-16/1041642",
-          "time": "2026-06-16 16:00:47",
-          "publisher": "新頭殼",
-          "severity": null
-        },
-        {
-          "title": "台南館進駐台北國際食品展 黃偉哲率隊北上拚億元商機",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5474003",
-          "time": "2026-06-16 15:40:47",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "IKEA將進駐台南南紡 市議員憂周遭交通更塞",
-          "url": "https://tw.news.yahoo.com/ikea%E5%B0%87%E9%80%B2%E9%A7%90%E5%8F%B0%E5%8D%97%E5%8D%97%E7%B4%A1-%E5%B8%82%E8%AD%B0%E5%93%A1%E6%86%82%E5%91%A8%E9%81%AD%E4%BA%A4%E9%80%9A%E6%9B%B4%E5%A1%9E-073547297.html",
-          "time": "2026-06-16 15:35:47",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "台南阿伯大鬧好市多！嗆聲拆倉庫 網轟：別嘴秋唷",
-          "url": "https://newtalk.tw/news/view/2026-06-16/1041585",
-          "time": "2026-06-16 15:29:40",
-          "publisher": "新頭殼",
-          "severity": "yellow"
-        },
-        {
-          "title": "軍友保險公司敬軍團端節前 慰勞台南國軍部隊",
-          "url": "https://tw.news.yahoo.com/%E8%BB%8D%E5%8F%8B%E4%BF%9D%E9%9A%AA%E5%85%AC%E5%8F%B8%E6%95%AC%E8%BB%8D%E5%9C%98%E7%AB%AF%E7%AF%80%E5%89%8D-%E6%85%B0%E5%8B%9E%E5%8F%B0%E5%8D%97%E5%9C%8B%E8%BB%8D%E9%83%A8%E9%9A%8A-152900409.html",
-          "time": "2026-06-16 15:29:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台南芒果產季 全國最大檨仔市湧現人潮",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5473988",
-          "time": "2026-06-16 15:27:19",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "氣象署大雷雨警戒／雲林、嘉義、台南轟炸1小時！嚴防淹水、強風 | 天氣預報 | 生活",
-          "url": "https://www.nownews.com/news/6847225",
-          "time": "2026-06-16 14:44:51",
-          "publisher": "NOWnews今日新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "總統賴清德在行政院長任內的「功德說」引發爭議，不過，台南市殯葬管理所最近的遺體接運服務標案出現「0元標」，而且還要抽籤，看起來像是業者搶做功德，但議員質疑恐為爭取後續殯葬商機，導致市場競爭失衡；官員則稱0元標並未違反政府採購法，其他縣市也有這種情況。官員說法令人感歎，市府作為顯已失能。",
-          "url": "https://udn.com/news/story/6656/9569513?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-06-16 14:44:39",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "IKEA湊齊六都！台南店選址敲定 市府200億招商計畫同步啟動",
-          "url": "https://www.mirrormedia.mg/story/20260616edi026",
-          "time": "2026-06-16 14:32:00",
-          "publisher": "鏡週刊",
-          "severity": null
-        },
-        {
-          "title": "IKEA降落台南夢成真！將進駐南紡購物2館B1 今年底前開幕",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5473884",
-          "time": "2026-06-16 14:29:34",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "叫你買一組就爆氣？台南好市多阿伯嗆推銷員：我能把你倉庫拆下來",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5473786",
-          "time": "2026-06-16 14:24:03",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "台南終於有了！IKEA進駐南紡購物中心 網憂：千萬別變這款",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E7%B5%82%E6%96%BC%E6%9C%89%E4%BA%86-ikea%E9%80%B2%E9%A7%90%E5%8D%97%E7%B4%A1%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83-%E7%B6%B2%E6%86%82-%E5%8D%83%E8%90%AC%E5%88%A5%E8%AE%8A%E9%80%99%E6%AC%BE-061900794.html",
-          "time": "2026-06-16 14:19:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "台南終於有了！IKEA進駐南紡購物中心 網憂：千萬別變這款",
-          "url": "https://news.ebc.net.tw/news/living/556783",
-          "time": "2026-06-16 14:19:00",
-          "publisher": "東森新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "選址落定！IKEA進駐台南民憂衝擊交通 議員提解方",
-          "url": "https://news.ltn.com.tw/news/Tainan/breakingnews/5473816",
-          "time": "2026-06-16 13:42:56",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "台南人等到了！IKEA確定進軍台南 徵才網開始招人了",
-          "url": "https://www.thehubnews.net/archives/635327",
-          "time": "2026-06-16 13:26:00",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "綠台南黨部主委改選有鬼？藍議員自爆：林俊憲子弟兵拜託我拉票 | 政治快訊 | 要聞",
-          "url": "https://www.nownews.com/news/6847165",
-          "time": "2026-06-16 12:20:50",
-          "publisher": "NOWnews今日新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "全家都靠他養！台南孝子上班途中遭養豬車撞死 雙親淚崩：以後怎麼活",
-          "url": "https://www.taisounds.com/news/content/96/262572",
-          "time": "2026-06-16 12:20:38",
-          "publisher": "太報",
-          "severity": "yellow"
-        },
-        {
-          "title": "IKEA台南展店確定了！進駐南紡購物中心徵才中",
-          "url": "https://www.taisounds.com/news/content/94/262593",
-          "time": "2026-06-16 12:20:38",
-          "publisher": "太報",
-          "severity": null
-        },
-        {
-          "title": "先問藥師再用藥 台南新增社區健康服務據點",
-          "url": "https://tw.news.yahoo.com/%E5%85%88%E5%95%8F%E8%97%A5%E5%B8%AB%E5%86%8D%E7%94%A8%E8%97%A5-%E5%8F%B0%E5%8D%97%E6%96%B0%E5%A2%9E%E7%A4%BE%E5%8D%80%E5%81%A5%E5%BA%B7%E6%9C%8D%E5%8B%99%E6%93%9A%E9%BB%9E-040448581.html",
-          "time": "2026-06-16 12:04:48",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "好市多、家樂福同押南台南 昌益南青山卡位副都心軸線",
-          "url": "https://more-news.tw/643347/",
-          "time": "2026-06-16 12:00:24",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "臺南市議員林美燕攜手葉翰勳媒合善舉 愛心物資助弱勢安心過節",
-          "url": "https://n.yam.com/Article/20260616985852",
-          "time": "2026-06-16 12:00:00",
-          "publisher": "蕃新聞→勁報",
-          "severity": null
-        },
-        {
-          "title": "強化在地照顧網絡 南市府建構雙核心社區培力系統",
-          "url": "https://n.yam.com/Article/20260616300189",
-          "time": "2026-06-16 12:00:00",
-          "publisher": "蕃新聞→台灣好新聞",
-          "severity": null
-        },
-        {
-          "title": "議員陳昆和建議捷運深綠線延伸至溪北　南市府回應：屬遠期路網建構",
-          "url": "https://n.yam.com/Article/20260616393605",
-          "time": "2026-06-16 12:00:00",
-          "publisher": "蕃新聞→台灣好新聞",
-          "severity": null
-        },
-        {
-          "title": "連日降雨助台南水情 南化水庫蓄水率突破8成",
-          "url": "https://tw.news.yahoo.com/%E9%80%A3%E6%97%A5%E9%99%8D%E9%9B%A8%E5%8A%A9%E5%8F%B0%E5%8D%97%E6%B0%B4%E6%83%85-%E5%8D%97%E5%8C%96%E6%B0%B4%E5%BA%AB%E8%93%84%E6%B0%B4%E7%8E%87%E7%AA%81%E7%A0%B48%E6%88%90-035902597.html",
-          "time": "2026-06-16 11:59:02",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "終於等到你！IKEA確定進駐台南 在地人1原因失望了",
-          "url": "https://tw.news.yahoo.com/%E7%B5%82%E6%96%BC%E7%AD%89%E5%88%B0%E4%BD%A0-ikea%E7%A2%BA%E5%AE%9A%E9%80%B2%E9%A7%90%E5%8F%B0%E5%8D%97-%E5%9C%A8%E5%9C%B0%E4%BA%BA1%E5%8E%9F%E5%9B%A0%E5%A4%B1%E6%9C%9B%E4%BA%86-035200087.html",
-          "time": "2026-06-16 11:52:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "IKEA 終於來台南！選址曝光、預計年底問世",
-          "url": "https://tw.news.yahoo.com/ikea-%E7%B5%82%E6%96%BC%E4%BE%86%E5%8F%B0%E5%8D%97-%E9%81%B8%E5%9D%80%E6%9B%9D%E5%85%89-%E9%A0%90%E8%A8%88%E5%B9%B4%E5%BA%95%E5%95%8F%E4%B8%96-034834280.html",
-          "time": "2026-06-16 11:48:34",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台南女喝醉被男同事「載到摩鐵性侵」 就醫急裝避孕器",
-          "url": "https://news.ebc.net.tw/news/society/556730",
-          "time": "2026-06-16 11:20:00",
-          "publisher": "東森新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "好市多、家樂福同押南台南 昌益南青山卡位副都心軸線",
-          "url": "https://www.ctee.com.tw/news/20260616700676-431206",
-          "time": "2026-06-16 11:05:23",
-          "publisher": "工商時報",
-          "severity": null
-        },
-        {
-          "title": "許願成真！日本「惡魔偶像」ano參戰浪人祭 報喜11月台南開唱",
-          "url": "https://news.tvbs.com.tw/entertainment/3231986",
-          "time": "2026-06-16 11:05:17",
-          "publisher": "TVBS",
-          "severity": null
-        },
-        {
-          "title": "IKEA湊齊六都！台南人敲碗成功 南紡店即日起招募",
-          "url": "https://news.nextapple.com/life/20260616/100483D05EBFB233851B20A620BAD793",
-          "time": "2026-06-16 10:45:43",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "南市府攜手社區響應家庭暴力防治宣導月 黃偉哲：打造零暴力城市",
-          "url": "https://tw.news.yahoo.com/%E5%8D%97%E5%B8%82%E5%BA%9C%E6%94%9C%E6%89%8B%E7%A4%BE%E5%8D%80%E9%9F%BF%E6%87%89%E5%AE%B6%E5%BA%AD%E6%9A%B4%E5%8A%9B%E9%98%B2%E6%B2%BB%E5%AE%A3%E5%B0%8E%E6%9C%88-%E9%BB%83%E5%81%89%E5%93%B2-%E6%89%93%E9%80%A0%E9%9B%B6%E6%9A%B4%E5%8A%9B%E5%9F%8E%E5%B8%82-102304235.html",
-          "time": "2026-06-16 10:23:04",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "想撿便宜看過來！執行署台南分署7/7法拍小遊艇、3挖土機還先帶看",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5473469",
-          "time": "2026-06-16 10:06:23",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "全國電子台南佳里店開幕 家電9折 燦坤台中屏東雙店開幕 全館下殺5折起",
-          "url": "https://n.yam.com/Article/20260616411598",
-          "time": "2026-06-16 09:53:21",
-          "publisher": "蕃新聞→品傳媒",
-          "severity": null
-        },
-        {
-          "title": "台南運豬車疑煞車失靈「撞等紅燈機車」 孝子慘死",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-06-16/2378593.html",
-          "time": "2026-06-16 09:53:07",
-          "publisher": "壹電視",
-          "severity": "red"
-        },
-        {
-          "title": "喜歡買1組⋯台南翁「爆氣狂輸出」好市多試吃員：把倉庫拆了！全網看傻",
-          "url": "https://tw.news.yahoo.com/%E5%96%9C%E6%AD%A1%E8%B2%B71%E7%B5%84-%E5%8F%B0%E5%8D%97%E7%BF%81-%E7%88%86%E6%B0%A3%E7%8B%82%E8%BC%B8%E5%87%BA-%E5%A5%BD%E5%B8%82%E5%A4%9A%E8%A9%A6%E5%90%83%E5%93%A1-%E6%8A%8A%E5%80%89%E5%BA%AB%E6%8B%86%E4%BA%86-012200787.html",
-          "time": "2026-06-16 09:22:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "上班遭運豬車撞死！台南孝子昔扛全家生計 父母慟：以後日子怎麼過？",
-          "url": "https://tw.news.yahoo.com/%E4%B8%8A%E7%8F%AD%E9%81%AD%E9%81%8B%E8%B1%AC%E8%BB%8A%E6%92%9E%E6%AD%BB-%E5%8F%B0%E5%8D%97%E5%AD%9D%E5%AD%90%E6%98%94%E6%89%9B%E5%85%A8%E5%AE%B6%E7%94%9F%E8%A8%88-%E7%88%B6%E6%AF%8D%E6%85%9F-%E4%BB%A5%E5%BE%8C%E6%97%A5%E5%AD%90%E6%80%8E%E9%BA%BC%E9%81%8E-012025380.html",
-          "time": "2026-06-16 09:20:25",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "屏東地方動態",
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "red",
-      "news_count": 87,
+      "news_count": 85,
       "comment_count": 0,
       "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 105,
+      "urgency_score": 103,
       "news_articles": [
         {
           "title": "屏東愛文首度巴黎上架 一顆1180元",
@@ -5865,20 +5837,6 @@
           "time": "2026-06-16 09:47:21",
           "publisher": "Google News→yesmedia.com.tw",
           "severity": null
-        },
-        {
-          "title": "成為長輩的類家人 屏東倡導關懷服務讓需求被看見",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Ea3Y3a2l4WTBTdkNmOFdtMDFGcHFxM2J1eFhDUDNKZHlUUTlTcXRoNnF5NXlpcWlNaWo0UVlRbnQxWjdna0kwQXVEUW9IeVEx0gFWQVVfeXFMTllZSENObTEzTldJYWV0ZGxEOE1COTN4SG9NS0o3dlZiLW5LbDV2VjFFaklGUjlNSmJEejFSRXQxOUd1ZE1Yal9yNkp5cjFSMEJVUDNiT0E?oc=5",
-          "time": "2026-06-16 09:27:47",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "屏東愛文芒果搶攻國際高端市場法國超市一顆要價1180元台幣- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ONkJHTGpucDlqLTdlRFl4VzVEWHBBTnRRc3VOQjFIMnpPamYyXzhTNWNTWE55V0w5eUNLRmJPRzFWV3ZfWVN3dERLVGRPaDdJT0h5M1daSDc?oc=5",
-          "time": "2026-06-16 09:26:55",
-          "publisher": "Google News→CMoney",
-          "severity": null
         }
       ],
       "comments": []
@@ -5888,11 +5846,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 99,
+      "news_count": 98,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 117,
+      "urgency_score": 116,
       "news_articles": [
         {
           "title": "新北工地意外！貨車不明原因滑動猛撞 男工人送醫不治",
@@ -6579,13 +6537,6 @@
           "time": "2026-06-16 09:54:29",
           "publisher": "自由時報",
           "severity": "red"
-        },
-        {
-          "title": "端午防疫不鬆懈 新北重大豬病兵推建構跨局處防護網",
-          "url": "https://tw.news.yahoo.com/%E7%AB%AF%E5%8D%88%E9%98%B2%E7%96%AB%E4%B8%8D%E9%AC%86%E6%87%88-%E6%96%B0%E5%8C%97%E9%87%8D%E5%A4%A7%E8%B1%AC%E7%97%85%E5%85%B5%E6%8E%A8%E5%BB%BA%E6%A7%8B%E8%B7%A8%E5%B1%80%E8%99%95%E9%98%B2%E8%AD%B7%E7%B6%B2-092006500.html",
-          "time": "2026-06-16 09:20:06",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -8195,11 +8146,11 @@
       "city": "台北",
       "place": "台北市內湖區",
       "level": "red",
-      "news_count": 141,
+      "news_count": 140,
       "comment_count": 0,
       "negativity_pct": 9,
       "is_urgent": false,
-      "urgency_score": 177,
+      "urgency_score": 176,
       "news_articles": [
         {
           "title": "台北中山九昱希爾頓逸林酒店「逸起廢到炸」住房專案 大啖「廢到炸物拼盤」再贈精品酒店優惠住宿券",
@@ -9180,13 +9131,6 @@
           "time": "2026-06-16 09:31:17",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "台北市獲頒「李光耀世界城市獎」 蔣萬安代表領獎- 國際",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5VXU2bG9MREJLWTdtQVZnSkRaWEc3LXJnRm0yNjByNkJIcFpVRjNLQTRxMVpGSTJZX1J5Y3o2TExXeFRxU2N3VDh4WDNRN2FoMzVQb2Jfc0RPcndVdktwdFJzOWVVZDNPUWdFOUxPMXZJckpOUlZPUQ?oc=5",
-          "time": "2026-06-16 09:15:00",
-          "publisher": "Google News→華視新聞網",
-          "severity": null
         }
       ],
       "comments": []
@@ -9196,11 +9140,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 154,
+      "news_count": 153,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 154,
+      "urgency_score": 153,
       "news_articles": [
         {
           "title": "花蓮馬太鞍溪暴漲 工地負責人受困16小時凌晨脫困",
@@ -10272,13 +10216,6 @@
           "time": "2026-06-16 09:46:40",
           "publisher": "Google News→PChome Online 股市",
           "severity": null
-        },
-        {
-          "title": "從臥床到重拾行動力 花蓮慈院與部花PAC團隊復能不中斷",
-          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQY1pWVk9tX2RyNGtYNmdNQ09TbmlBM2VRdmZEWnNJdllTbm5wdG1vU21CM3pUQkMyTF9wR05aZFF6ZzQ3cENUemFsTURlOFQyWl9uSW5fWEhpQlpFbzd2WTJMS2t3dHJLN2FBLTVGSzlER1pvbk5fcDNPZmdEeWlucE81T0hhZDM5T3dxV042aFpmWlVucTA0WFMzUTlybEZoa2djR19sMGh0X2JCVzhSd0dqNGZHR1NSNURmRHlfajFIeW1ZMFBtZ3dIOTFtdHRTYzJNNlpGSllkTXloWkRMTTJUS3kycl8taEZvakR6bU8zeEROeENqTWZEaXNzMmlnN2l1YXBTT0Q1NWlqYTdVeGJJWnpxRDA1Mi1mVTVILXM4UTRiS2F4czUzU2JiYjdlOWRKdUJIc0ZSNjhiZ1JRdl9mSE1UWTlvY25TRGZwWnFnNk1COTZjRGJHRWR6bXhETkExSEN2c1g2UVFj?oc=5",
-          "time": "2026-06-16 09:18:45",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -10288,11 +10225,11 @@
       "city": "高雄",
       "place": "高雄市三民區",
       "level": "red",
-      "news_count": 155,
+      "news_count": 154,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 170,
+      "urgency_score": 169,
       "news_articles": [
         {
           "title": "高雄市專勤隊破案外案再擒跨國人販集團 查扣47本護照 救出5名被害人",
@@ -11371,13 +11308,6 @@
           "time": "2026-06-16 09:34:00",
           "publisher": "Google News→yesmedia.com.tw",
           "severity": null
-        },
-        {
-          "title": "KFA高雄時尚大賞徵件開跑 新設2獎鼓勵邁向國際",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5473416",
-          "time": "2026-06-16 09:16:42",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []
@@ -11387,11 +11317,11 @@
       "city": "台中",
       "place": "台中市西屯區",
       "level": "red",
-      "news_count": 166,
+      "news_count": 165,
       "comment_count": 0,
       "negativity_pct": 10,
       "is_urgent": false,
-      "urgency_score": 214,
+      "urgency_score": 213,
       "news_articles": [
         {
           "title": "利特、安孝燮愛用品牌降臨台中：三大話題品牌聯手，一站式解鎖韓系水光肌祕密",
@@ -11478,7 +11408,7 @@
           "severity": null
         },
         {
-          "title": "中央考評全國第一！ 中市智慧食安精準守護健康 盧秀燕期做市民最堅實的靠山",
+          "title": "中央考評全國第一！ 中市智慧食安精準守護健康   盧秀燕期做市民最堅實的靠山",
           "url": "https://n.yam.com/Article/20260617175203",
           "time": "2026-06-17 02:23:03",
           "publisher": "蕃新聞→大成報",
@@ -12545,13 +12475,6 @@
           "title": "快訊／台中南屯社區墜樓！23歲男「猛撞電線桿」爆頭亡…管理員嚇壞報案",
           "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%8F%B0%E4%B8%AD%E5%8D%97%E5%B1%AF%E7%A4%BE%E5%8D%80%E5%A2%9C%E6%A8%93-23%E6%AD%B2%E7%94%B7-%E7%8C%9B%E6%92%9E%E9%9B%BB%E7%B7%9A%E6%A1%BF-%E7%88%86%E9%A0%AD%E4%BA%A1-012900765.html",
           "time": "2026-06-16 09:29:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "台中男開庭竟偷錄音8分16秒！當場原告變被告 判拘役30日手機也沒收",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%94%B7%E9%96%8B%E5%BA%AD%E7%AB%9F%E5%81%B7%E9%8C%84%E9%9F%B38%E5%88%8616%E7%A7%92-%E7%95%B6%E5%A0%B4%E5%8E%9F%E5%91%8A%E8%AE%8A%E8%A2%AB%E5%91%8A-%E5%88%A4%E6%8B%98%E5%BD%B930%E6%97%A5%E6%89%8B%E6%A9%9F%E4%B9%9F%E6%B2%92%E6%94%B6-011600160.html",
-          "time": "2026-06-16 09:16:00",
           "publisher": "Yahoo新聞",
           "severity": "red"
         }
