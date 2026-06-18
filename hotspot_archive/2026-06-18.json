@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "snapshot_at": "2026-06-18T01:13:21.952074+00:00",
+  "snapshot_at": "2026-06-18T01:20:41.858984+00:00",
   "hotspots": [
     {
       "title": "台北軍購爭議",
@@ -46,27 +46,6 @@
       "comments": []
     },
     {
-      "title": "台北車禍事件",
-      "city": "台北",
-      "place": "台北市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "北市慘烈車禍 狂飆200米「保桿噴飛」連撞4車",
-          "url": "https://today.line.me/tw/v2/article/283094087",
-          "time": "2026-06-18 00:04:26",
-          "publisher": "Line Today",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台中車禍事件",
       "city": "台中",
       "place": "台中市政府",
@@ -82,6 +61,27 @@
           "url": "https://n.yam.com/Article/20260617635359",
           "time": "2026-06-17 12:00:00",
           "publisher": "蕃新聞→旅食樂",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台北車禍事件",
+      "city": "台北",
+      "place": "台北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "北市慘烈車禍 狂飆200米「保桿噴飛」連撞4車",
+          "url": "https://today.line.me/tw/v2/article/283094087",
+          "time": "2026-06-18 00:04:26",
+          "publisher": "Line Today",
           "severity": "yellow"
         }
       ],
@@ -4476,11 +4476,11 @@
       "city": "台南",
       "place": "台南市政府",
       "level": "red",
-      "news_count": 50,
+      "news_count": 49,
       "comment_count": 0,
       "negativity_pct": 10,
       "is_urgent": false,
-      "urgency_score": 65,
+      "urgency_score": 64,
       "news_articles": [
         {
           "title": "台南首座自建社宅 宜居小東入厝",
@@ -4822,13 +4822,6 @@
           "title": "台南蒸熱「夏日紅寶石」上市 外銷規格拚內需通路",
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5474752",
           "time": "2026-06-17 10:06:52",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "安平大封路！台南龍舟賽登場 交管停車一次看",
-          "url": "https://news.ltn.com.tw/news/Tainan/breakingnews/5474683",
-          "time": "2026-06-17 09:15:21",
           "publisher": "自由時報",
           "severity": null
         }
@@ -8599,11 +8592,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 145,
+      "news_count": 143,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 166,
+      "urgency_score": 164,
       "news_articles": [
         {
           "title": "1968年6月18日，愛好集郵的人士在台北市郵局及各支局前大排長龍，爭購交通部郵政總局發行的「清明上河圖」郵票。交通部郵政總局，為配合推行中華文化復興運動，將選用故宮博物院珍藏之「清明上河圖」古畫為題材，以複合彩色影寫版印製故宮古畫「清明上河圖」郵票全套7枚。",
@@ -9604,20 +9597,6 @@
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5akptQWx6d2N4dElBb1NlUkZxcjBDd0d2ZlJkbmJXMEt4UDJhMnpoM2pqWVhOMmNjSjZlTUJaT3BFR2hKQ3N4bk1OaEVvNnJ0TGlyZXBZd2hnU2F3UWc?oc=5",
           "time": "2026-06-17 09:22:00",
           "publisher": "Google News→上報Up Media",
-          "severity": null
-        },
-        {
-          "title": "限額300人！桃園11校暑假舉辦SDGs育樂營 亮點搶先看",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LNTMtelRsc1A2Y2t4bS10SDIwc0NHZG5Qc1BtcjNfcnlhZk5lTEJCY3pseUNvYXRpbjZVNlo5RlBwZWEzcFFRYkY0QWo?oc=5",
-          "time": "2026-06-17 09:20:15",
-          "publisher": "Google News→桃園電子報",
-          "severity": null
-        },
-        {
-          "title": "限額300人！桃園11校暑假舉辦SDGs育樂營 亮點搶先看 - 社會新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcll5LWZiekNxNFI2azF3dms2Nmx2cUNsNzY0dmIxZWtGVmFrZkJCMDNDa05HUUNvMDZuZ1VGREgxN01uemdvaFdhbm9FZkpVTHlJeEZIMUhpRllfY00zRHFfcTRkVkgzUGJUTF9xNUEzNjRxS1FvTmttWnRGdzdPQ2h6Q0ZjcWFMQVB3?oc=5",
-          "time": "2026-06-17 09:20:15",
-          "publisher": "Google News→PChome Online 新聞",
           "severity": null
         }
       ],
@@ -12001,11 +11980,11 @@
       "city": "台北",
       "place": "台北市南港區",
       "level": "red",
-      "news_count": 205,
+      "news_count": 198,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 241,
+      "urgency_score": 234,
       "news_articles": [
         {
           "title": "沈伯洋專訪6-1》稱台北應升級首都2.0 酸蔣萬安沒做什麼：要重蹈他覆轍也難",
@@ -13391,55 +13370,6 @@
           "url": "https://www.ettoday.net/news/20260617/3184882.htm",
           "time": "2026-06-17 09:28:00",
           "publisher": "ETtoday",
-          "severity": "yellow"
-        },
-        {
-          "title": "端午出遊不卡關 北市警重點路段疏導",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5474673",
-          "time": "2026-06-17 09:16:08",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "台北像「剉冰」多過「火鍋」 沈伯洋：都可以吵要不要放芋頭",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zR3VzYVh2WUhFR18xdXJkTzE3Wkl2UmVmbElLbFJ1bXNFRkJBZmVUUkdSOXBvWlVMRHpaekVoTXZkTmJtREx1Tlk0dzhwM002T2hnZGxFNHpkZHdDQlFkeVhORDIwZU5mYnfSAW9BVV95cUxOcFBSZkFZZzBTZl94T2JlMEJQYk9YajV1bmxxQW1OU2wteEwxazRJNTQzQ1FidzNBZG9fclNwcTR5M0g1c1JaM24xSGMwRjRfY3lidTMwMXlVYVRrSmhTVjFiOTV6eEdxVXhGYzd1Rk0?oc=5",
-          "time": "2026-06-17 09:14:31",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "台北像「剉冰」多過「火鍋」 沈伯洋：都可以吵要不要放芋頭",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5474658",
-          "time": "2026-06-17 09:14:31",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "台北像「剉冰」多過「火鍋」 沈伯洋：可能蔣萬安真的很愛火鍋",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORzF3dzdVa1hNRERHajlNQWo4Q0JUbzAtOU9SWDFYNjhIcmpuVUlGRHZsb0trUjhLRlZDcG51a25lclhQUTBJRUpUVVY1YzIwQzZ4RHl6VUN6WXNPMFNzSTZYMnUxNm9ncTN3MWt0M09ObmxIR2RlOWNRbW9yUlZJdktZeHVlZw?oc=5",
-          "time": "2026-06-17 09:14:00",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "台北像「剉冰」多過「火鍋」 沈伯洋：可能蔣萬安真的很愛火鍋",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcC12YVhOLXpKMGM0R1RLLXhWbHpKQkVfS1RfdGJDOFg4ZzQ1UkVmandlRWtlY285R21EQmR6UHRxVE9mOTBUTFpVM1ktLXVIVi1TaUE5NEVTWVBxa1ppX1l0bGVJdDlsSUVLeXFsLVh2SzBtMHozQnNIclJKdVJnVy1CRlZsQQ?oc=5",
-          "time": "2026-06-17 09:14:00",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "台北像「剉冰」多過「火鍋」 沈伯洋：可能蔣萬安真的很愛火鍋",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVGZEaVJjLVR2enViblZNaUdTZ3pFTXNJcy1Zc09ucm4yeTdzTGdseHM2a3FqVWhqdU81V1NqeEJGOHFOckxxb21VbFgtN3dhMDdnTEE0S01rVThOWVRaakxRdHAwYllad0ZtTmtmb3AwM1VDekhjRGZuX1ZxODRNV1BmWnVCQQ?oc=5",
-          "time": "2026-06-17 09:14:00",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "台北像「剉冰」多過「火鍋」 沈伯洋：可能蔣萬安真的很愛火鍋",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT2Z5anZNOEhFR0ptRzUwcnlkREtES254SmFONVNZbkV4S1VSUUpqU1dfUjlLUGtuZ0ZneFRETXFjUXFOQ2dCTlU5Vld0RElHbHJvSFpVODNsYmZ0VHM3S1dZSmdlaGZtUl9TNDRQVW10cHlzeVgzaVhrVGFPd2U4bkd4Z2tHUQ?oc=5",
-          "time": "2026-06-17 09:14:00",
-          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],

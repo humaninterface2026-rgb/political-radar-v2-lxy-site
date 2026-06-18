@@ -34758,7 +34758,7 @@
     },
     {
       "date": "2026-06-18",
-      "snapshot_at": "2026-06-18T01:13:21.952074+00:00",
+      "snapshot_at": "2026-06-18T01:20:41.858984+00:00",
       "hotspots": [
         {
           "title": "台北軍購爭議",
@@ -34787,20 +34787,6 @@
           ]
         },
         {
-          "title": "台北車禍事件",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "北市慘烈車禍 狂飆200米「保桿噴飛」連撞4車"
-          ]
-        },
-        {
           "title": "台中車禍事件",
           "city": "台中",
           "place": "台中市政府",
@@ -34812,6 +34798,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "台中大雅深夜死亡車禍　酒駕男肇事逃逸1小時後落網"
+          ]
+        },
+        {
+          "title": "台北車禍事件",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "北市慘烈車禍 狂飆200米「保桿噴飛」連撞4車"
           ]
         },
         {
@@ -35332,11 +35332,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 50,
+          "news_count": 49,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 65,
+          "urgency_score": 64,
           "sample_titles": [
             "台南首座自建社宅 宜居小東入厝",
             "南市龍舟賽開幕 4057人參賽創新高",
@@ -35428,11 +35428,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 145,
+          "news_count": 143,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 166,
+          "urgency_score": 164,
           "sample_titles": [
             "1968年6月18日，愛好集郵的人士在台北市郵局及各支局前大排長龍，爭購交通部郵政總局發行的「清明上河圖」郵票。交通部郵",
             "桃園變身全球AI新重鎮！台達電、台光電、英業達…兆元宴7成台廠集結在此，拆解AI伺服器魔毯之旅- 上市櫃",
@@ -35476,11 +35476,11 @@
           "city": "台北",
           "place": "台北市南港區",
           "level": "red",
-          "news_count": 205,
+          "news_count": 198,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 241,
+          "urgency_score": 234,
           "sample_titles": [
             "沈伯洋專訪6-1》稱台北應升級首都2.0 酸蔣萬安沒做什麼：要重蹈他覆轍也難",
             "台北凱達暑假住房餐飲優惠登場 入住送千元創樂多磁力片、學生嗑Buffe 8折",
