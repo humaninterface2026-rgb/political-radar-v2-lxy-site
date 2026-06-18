@@ -34758,7 +34758,7 @@
     },
     {
       "date": "2026-06-18",
-      "snapshot_at": "2026-06-18T10:18:06.761439+00:00",
+      "snapshot_at": "2026-06-18T10:28:00.079782+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -35253,30 +35253,15 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "yellow",
-          "news_count": 81,
+          "news_count": 79,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 81,
+          "urgency_score": 79,
           "sample_titles": [
             "全台訂房率不到5成！澎湖綠的旅店逆勢滿到8月 業者揭經營關鍵",
             "退而不休 76歲大姐返鄉澎湖重回職場 銀髮中心助逐夢",
             "退而不休 76歲大姐返鄉澎湖重回職場 銀髮中心助逐夢 - 生活新聞 - PChome Online 新聞"
-          ]
-        },
-        {
-          "title": "屏東弊案爭議",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "酒駕判刑，再拒酒測被裁罰 屏東女分期未繳，家人急帶現金繳清",
-            "酒駕遭判刑又拒酒測！屏東女欠18萬罰鍰 母急籌7萬一次繳清"
           ]
         },
         {
@@ -35292,6 +35277,21 @@
           "sample_titles": [
             "嘉市議員助理誹謗王美惠等人 判刑3月定讞",
             "嘉義市議員林煒軒助理指王美惠小三挨告 判刑3月定讞"
+          ]
+        },
+        {
+          "title": "屏東弊案爭議",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "酒駕判刑，再拒酒測被裁罰 屏東女分期未繳，家人急帶現金繳清",
+            "酒駕遭判刑又拒酒測！屏東女欠18萬罰鍰 母急籌7萬一次繳清"
           ]
         },
         {
@@ -35443,11 +35443,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 106,
+          "news_count": 102,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 118,
+          "urgency_score": 114,
           "sample_titles": [
             "花蓮市幼迎端午 多元活動傳承傳統文化",
             "暑假第一站！花蓮知卡宣玩水趣7／4登場 4大主題日天天精彩",
@@ -35523,11 +35523,11 @@
           "city": "台北",
           "place": "台北市中正區",
           "level": "red",
-          "news_count": 219,
+          "news_count": 215,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 258,
+          "urgency_score": 254,
           "sample_titles": [
             "北市警銀聯手阻詐逾3.6億元 蔣萬安頒感謝狀表揚金融機構",
             "北市警銀聯手阻詐逾3.6億元蔣萬安頒感謝狀表揚金融機構- 臺北市",
