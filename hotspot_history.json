@@ -35617,7 +35617,7 @@
     },
     {
       "date": "2026-06-19",
-      "snapshot_at": "2026-06-19T10:08:08.169527+00:00",
+      "snapshot_at": "2026-06-19T10:19:52.368885+00:00",
       "hotspots": [
         {
           "title": "台北軍購爭議",
@@ -35702,20 +35702,6 @@
           ]
         },
         {
-          "title": "新竹市詐騙案",
-          "city": "新竹市",
-          "place": "新竹市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "竹市「移動防詐網」正式啟動 明湖社區齊響應防堵AI詐騙"
-          ]
-        },
-        {
           "title": "新北詐騙案",
           "city": "新北",
           "place": "新北市政府",
@@ -35727,6 +35713,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "板橋警5天破3起虛擬貨幣假投資詐騙案 公園、超商埋伏逮車手"
+          ]
+        },
+        {
+          "title": "新竹市詐騙案",
+          "city": "新竹市",
+          "place": "新竹市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "竹市「移動防詐網」正式啟動 明湖社區齊響應防堵AI詐騙"
           ]
         },
         {
@@ -35842,20 +35842,6 @@
           ]
         },
         {
-          "title": "台中車禍事件",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "西濱台中段端午節驚傳死亡車禍 砂石車「折甘蔗」駕駛臟器外露身亡"
-          ]
-        },
-        {
           "title": "新北車禍事件",
           "city": "新北",
           "place": "新北市政府",
@@ -35867,6 +35853,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "快訊》新北大橋嚴重車禍！ 騎士當場無生命跡象送醫搶救"
+          ]
+        },
+        {
+          "title": "台中車禍事件",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "西濱台中段端午節驚傳死亡車禍 砂石車「折甘蔗」駕駛臟器外露身亡"
           ]
         },
         {
@@ -35931,22 +35931,6 @@
           ]
         },
         {
-          "title": "雲林地方動態",
-          "city": "雲林",
-          "place": "雲林縣政府",
-          "level": "yellow",
-          "news_count": 16,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 16,
-          "sample_titles": [
-            "節慶溫暖與社會關懷 民進黨雲林縣黨部攜 x 立委劉建國服務處捐贈5000顆肉粽",
-            "雲林縣榮獲ICF完整智慧城市社群認證 全臺第二",
-            "民進黨雲林縣黨部攜手立委劉建國服務處捐近五千顆肉粽 傳遞節慶溫暖與社會關懷"
-          ]
-        },
-        {
           "title": "新竹縣地方動態",
           "city": "新竹縣",
           "place": "新竹縣政府",
@@ -35960,6 +35944,22 @@
             "民眾黨主席黃國昌今天率黨籍新北市議員陳世軒與市議員參選人參加新北市議會議長盃龍舟錦標賽，對於年底選戰黃國昌表示還早，黨中",
             "徐欣瑩出席新竹縣長盃龍舟賽 獲民眾高喊凍蒜 期許縣政大船乘風破",
             "新竹縣長盃龍舟賽登場 徐欣瑩勉勵「同舟共濟、勇奪第一」"
+          ]
+        },
+        {
+          "title": "雲林地方動態",
+          "city": "雲林",
+          "place": "雲林縣政府",
+          "level": "yellow",
+          "news_count": 16,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 16,
+          "sample_titles": [
+            "節慶溫暖與社會關懷 民進黨雲林縣黨部攜 x 立委劉建國服務處捐贈5000顆肉粽",
+            "雲林縣榮獲ICF完整智慧城市社群認證 全臺第二",
+            "民進黨雲林縣黨部攜手立委劉建國服務處捐近五千顆肉粽 傳遞節慶溫暖與社會關懷"
           ]
         },
         {
@@ -35983,11 +35983,11 @@
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "yellow",
-          "news_count": 27,
+          "news_count": 26,
           "comment_count": 0,
           "negativity_pct": 15,
           "is_urgent": false,
-          "urgency_score": 39,
+          "urgency_score": 38,
           "sample_titles": [
             "竹市道安成果獲交通部肯定 高虹安市長：中央地方攜手打造人本交通城市",
             "國家級警力支援守護交通安全 竹市警配合警政署全國同步擴大取締毒酒駕",
@@ -36031,31 +36031,15 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "yellow",
-          "news_count": 63,
+          "news_count": 61,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 63,
+          "urgency_score": 61,
           "sample_titles": [
             "當魯夫駛進花蓮：一場關於重生、希望與地方未來的觀光實驗",
             "當魯夫駛進花蓮：一場關於重生、希望與地方未來的觀光實驗- 政府消息新聞- PChome Online 新聞",
             "暑假玩花蓮一次收藏 理想大地結合湖畔遊船市集與親子住宿體驗"
-          ]
-        },
-        {
-          "title": "台中市政動態",
-          "city": "台中",
-          "place": "台中市大里區",
-          "level": "yellow",
-          "news_count": 106,
-          "comment_count": 10,
-          "negativity_pct": 0,
-          "is_urgent": true,
-          "urgency_score": 124,
-          "sample_titles": [
-            "盧秀燕送張啓楷「藍白槳」勉「同舟共濟」 同聲爭取嘉義輕軌",
-            "不只韓國瑜、柯文哲 蔡正元曝「盧秀燕到北監會見」",
-            "盧秀燕旋風！合體黃敏惠助陣張啓楷 百年東市場飄「媽媽味」"
           ]
         },
         {
@@ -36095,11 +36079,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 8,
+          "news_count": 6,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 32,
+          "urgency_score": 24,
           "sample_titles": [
             "南庄民宅遭槍擊 外掛苗縣議員陳光軒選舉看板",
             "鐵門被射穿！租屋處疑遭槍擊 苗栗議員陳光軒自曝這2年頻遇跟蹤恐嚇 | 太報",
@@ -36139,6 +36123,22 @@
           ]
         },
         {
+          "title": "苗栗地方動態",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "red",
+          "news_count": 36,
+          "comment_count": 0,
+          "negativity_pct": 19,
+          "is_urgent": false,
+          "urgency_score": 57,
+          "sample_titles": [
+            "40隊800人決戰中港溪！苗栗竹南龍舟錦標賽登場",
+            "苗栗民宅懸掛議員看板遭開槍 警方初步排除與選舉有關",
+            "苗栗街頭爆槍戰?! \"連開21槍\"擊穿2戶民宅鐵門?!│中視新聞 20260619"
+          ]
+        },
+        {
           "title": "台東地方動態",
           "city": "台東",
           "place": "台東縣政府",
@@ -36152,22 +36152,6 @@
             "台東縣長饒慶鈴以預錄影片方式參與海峽論壇餘波盪漾，陸委會副主委梁文傑昨說「台灣人幾乎不吃鳳梨釋迦，是仰賴中共鼻息的農產品",
             "立蛋34顆抱走2萬！台東女鹿野端午賽奪冠 領先百人還刷新去年紀錄",
             "陸委會「鳳梨釋迦仰中共鼻息台灣人不吃」 台東立委痛斥賴清德渣男"
-          ]
-        },
-        {
-          "title": "苗栗地方動態",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "red",
-          "news_count": 38,
-          "comment_count": 0,
-          "negativity_pct": 24,
-          "is_urgent": false,
-          "urgency_score": 65,
-          "sample_titles": [
-            "40隊800人決戰中港溪！苗栗竹南龍舟錦標賽登場",
-            "苗栗民宅懸掛議員看板遭開槍 警方初步排除與選舉有關",
-            "苗栗街頭爆槍戰?! \"連開21槍\"擊穿2戶民宅鐵門?!│中視新聞 20260619"
           ]
         },
         {
@@ -36315,15 +36299,31 @@
           ]
         },
         {
+          "title": "台中市政動態",
+          "city": "台中",
+          "place": "台中市大里區",
+          "level": "red",
+          "news_count": 108,
+          "comment_count": 10,
+          "negativity_pct": 0,
+          "is_urgent": true,
+          "urgency_score": 126,
+          "sample_titles": [
+            "農會赴海峽論壇簽約要被查 盧秀燕酸：賴清德想跟習近平喝珍奶也要查？",
+            "獄中點名感謝名單曝！蔡正元入監滿兩月 盧秀燕親赴北監探視",
+            "盧秀燕送張啓楷「藍白槳」勉「同舟共濟」 同聲爭取嘉義輕軌"
+          ]
+        },
+        {
           "title": "台北地方動態",
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 163,
+          "news_count": 161,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 175,
+          "urgency_score": 173,
           "sample_titles": [
             "民眾黨主席黃國昌今天與6名市議員參選人組隊參加新北市議長盃龍舟賽，賽前受訪被問到最近他和前主席柯文哲較少去幫黨籍嘉義市長",
             "未來一週台北「熱到紫爆」 第7號颱風米克拉明形成",
