@@ -35617,7 +35617,7 @@
     },
     {
       "date": "2026-06-19",
-      "snapshot_at": "2026-06-19T10:04:28.869242+00:00",
+      "snapshot_at": "2026-06-19T10:08:08.169527+00:00",
       "hotspots": [
         {
           "title": "台北軍購爭議",
@@ -35800,11 +35800,11 @@
           "city": "嘉義縣",
           "place": "嘉義縣政府",
           "level": "green",
-          "news_count": 12,
+          "news_count": 11,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 12,
+          "urgency_score": 11,
           "sample_titles": [
             "唐突結束...VTuber「人偶・薩賓娜」與嘉義縣警局終止合作",
             "嘉義縣龍舟競賽42支隊伍熱情開划",
@@ -35899,22 +35899,6 @@
           ]
         },
         {
-          "title": "連江陳情/抗議",
-          "city": "連江",
-          "place": "連江縣（馬祖）",
-          "level": "yellow",
-          "news_count": 3,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 12,
-          "sample_titles": [
-            "反對小船營運東引航線 民眾遞交陳情書 (圖)",
-            "反對小船營運東引航線 民眾至連江縣議會抗議 (圖)",
-            "反對小船營運東引航線 民眾至連江縣議會抗議 (圖)"
-          ]
-        },
-        {
           "title": "台中陳情/抗議",
           "city": "台中",
           "place": "台中市政府",
@@ -35935,31 +35919,15 @@
           "city": "連江",
           "place": "連江縣（馬祖）",
           "level": "yellow",
-          "news_count": 12,
+          "news_count": 10,
           "comment_count": 0,
-          "negativity_pct": 17,
+          "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 18,
+          "urgency_score": 10,
           "sample_titles": [
             "澎湖海巡取締越界中國漁船 中方海警船騷擾、我連江艦對應監控 | 自由電子報",
             "澎湖海巡取締越界中國漁船 中方海警船騷擾、我連江艦對應監控",
             "一週天氣預報 - 晴到多雲炎熱上看36°C，西南風強、馬祖6級以上"
-          ]
-        },
-        {
-          "title": "新竹縣地方動態",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "yellow",
-          "news_count": 16,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 16,
-          "sample_titles": [
-            "民眾黨主席黃國昌今天率黨籍新北市議員陳世軒與市議員參選人參加新北市議會議長盃龍舟錦標賽，對於年底選戰黃國昌表示還早，黨中",
-            "徐欣瑩出席新竹縣長盃龍舟賽 獲民眾高喊凍蒜 期許縣政大船乘風破",
-            "新竹縣長盃龍舟賽登場 徐欣瑩勉勵「同舟共濟、勇奪第一」"
           ]
         },
         {
@@ -35979,15 +35947,31 @@
           ]
         },
         {
+          "title": "新竹縣地方動態",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "yellow",
+          "news_count": 16,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 16,
+          "sample_titles": [
+            "民眾黨主席黃國昌今天率黨籍新北市議員陳世軒與市議員參選人參加新北市議會議長盃龍舟錦標賽，對於年底選戰黃國昌表示還早，黨中",
+            "徐欣瑩出席新竹縣長盃龍舟賽 獲民眾高喊凍蒜 期許縣政大船乘風破",
+            "新竹縣長盃龍舟賽登場 徐欣瑩勉勵「同舟共濟、勇奪第一」"
+          ]
+        },
+        {
           "title": "南投地方動態",
           "city": "南投",
           "place": "南投縣政府",
           "level": "yellow",
-          "news_count": 23,
+          "news_count": 22,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 23,
+          "urgency_score": 22,
           "sample_titles": [
             "4小時掃蕩！南投警雷霆出擊 毒駕上路如「隨機殺人」遭活逮",
             "2026南投巧克力咖啡節「品味南投館」6/19盛大開幕！ 狂撒20萬點數、首創LINE AI導覽 打造智慧農遊新體驗",
@@ -36175,11 +36159,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 40,
+          "news_count": 38,
           "comment_count": 0,
-          "negativity_pct": 22,
+          "negativity_pct": 24,
           "is_urgent": false,
-          "urgency_score": 67,
+          "urgency_score": 65,
           "sample_titles": [
             "40隊800人決戰中港溪！苗栗竹南龍舟錦標賽登場",
             "苗栗民宅懸掛議員看板遭開槍 警方初步排除與選舉有關",
@@ -36223,11 +36207,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 51,
+          "news_count": 50,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 54,
+          "urgency_score": 53,
           "sample_titles": [
             "台南好果季 台北登場 黃偉哲力推",
             "端午連假前夕 台南警逮毒駕19人酒駕10人送辦",
@@ -36255,11 +36239,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 78,
+          "news_count": 77,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 84,
+          "urgency_score": 83,
           "sample_titles": [
             "桃園警聯手保一掃蕩毒駕...1夜查獲10案 連假前夕重磅出擊",
             "都會原民童聲擄獲歐洲人心 桃園僑愛國小國際合唱大賽奪銀",
@@ -36271,15 +36255,31 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 81,
+          "news_count": 80,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 93,
+          "urgency_score": 92,
           "sample_titles": [
             "豪雨重創屏東農業 蘇清泉籲提高災損補助",
             "屏東佳冬端午奇景 千人齊立大西瓜超壯觀",
             "屏東佳冬鄉端午封街立瓜 千顆大西瓜齊立超壯觀"
+          ]
+        },
+        {
+          "title": "高雄地方動態",
+          "city": "高雄",
+          "place": "高雄市鼓山區",
+          "level": "red",
+          "news_count": 96,
+          "comment_count": 0,
+          "negativity_pct": 11,
+          "is_urgent": false,
+          "urgency_score": 129,
+          "sample_titles": [
+            "高市早苗與各國領袖交談甚歡？ 驚人真相讓這張照狂吸520萬流量",
+            "美加青年領袖訪高雄 高餐大學生陪同導覽亞灣港區",
+            "《世界古文明沉浸體驗展》 高雄駁二開幕"
           ]
         },
         {
@@ -36299,31 +36299,15 @@
           ]
         },
         {
-          "title": "高雄地方動態",
-          "city": "高雄",
-          "place": "高雄市鼓山區",
-          "level": "red",
-          "news_count": 97,
-          "comment_count": 0,
-          "negativity_pct": 11,
-          "is_urgent": false,
-          "urgency_score": 130,
-          "sample_titles": [
-            "高市早苗與各國領袖交談甚歡？ 驚人真相讓這張照狂吸520萬流量",
-            "美加青年領袖訪高雄 高餐大學生陪同導覽亞灣港區",
-            "《世界古文明沉浸體驗展》 高雄駁二開幕"
-          ]
-        },
-        {
           "title": "台中地方動態",
           "city": "台中",
           "place": "台中市清水區",
           "level": "red",
-          "news_count": 100,
+          "news_count": 99,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 130,
+          "urgency_score": 129,
           "sample_titles": [
             "食育力城市大調查揭曉 台中首度登上五星城市、六都第一 全國第三榮耀",
             "北中南串連掃蕩毒駕 市警動員500名警力鐵腕執法 中市府慰勉第一線同仁",
