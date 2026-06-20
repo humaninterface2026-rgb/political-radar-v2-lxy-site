@@ -36321,7 +36321,7 @@
     },
     {
       "date": "2026-06-20",
-      "snapshot_at": "2026-06-20T01:06:26.027496+00:00",
+      "snapshot_at": "2026-06-20T01:08:16.136957+00:00",
       "hotspots": [
         {
           "title": "台北軍購爭議",
@@ -36392,20 +36392,6 @@
           ]
         },
         {
-          "title": "雲林陳情/抗議",
-          "city": "雲林",
-          "place": "雲林縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "影片曝光！大雨重創雲林陳情竟遭刁難 老農淚喊：民進黨根本在滅農"
-          ]
-        },
-        {
           "title": "新北陳情/抗議",
           "city": "新北",
           "place": "新北市政府",
@@ -36417,6 +36403,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "三峽廚餘廠臭翻天！居民怒抗議數月終停工 卓冠廷提3大要求"
+          ]
+        },
+        {
+          "title": "雲林陳情/抗議",
+          "city": "雲林",
+          "place": "雲林縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "影片曝光！大雨重創雲林陳情竟遭刁難 老農淚喊：民進黨根本在滅農"
           ]
         },
         {
