@@ -36321,7 +36321,7 @@
     },
     {
       "date": "2026-06-20",
-      "snapshot_at": "2026-06-20T09:54:48.550039+00:00",
+      "snapshot_at": "2026-06-20T10:06:19.499454+00:00",
       "hotspots": [
         {
           "title": "台北軍購爭議",
@@ -36336,20 +36336,6 @@
           "sample_titles": []
         },
         {
-          "title": "台南鼠患事件",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "加強消毒、巡查防鼠患 南市府提醒「乾掃」恐增感染風險"
-          ]
-        },
-        {
           "title": "台北鼠患事件",
           "city": "台北",
           "place": "台北市政府",
@@ -36361,6 +36347,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "颱風季還沒到就出包？ 暴雨一下「台北真的變火鍋城」鼠蟑地獄誰要負責？ 何孟樺開嗆：鼠患就是蔣萬安和李四川創造的人禍！│許"
+          ]
+        },
+        {
+          "title": "台南鼠患事件",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "加強消毒、巡查防鼠患 南市府提醒「乾掃」恐增感染風險"
           ]
         },
         {
@@ -36378,20 +36378,6 @@
           ]
         },
         {
-          "title": "台南車禍事件",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "國3新化段深夜車禍！兩小貨車翻落邊坡釀1傷"
-          ]
-        },
-        {
           "title": "台北車禍事件",
           "city": "台北",
           "place": "台北市政府",
@@ -36403,6 +36389,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "北市麥帥一橋車禍！汽車自撞分隔島變廢鐵...肇事男酒測值0.07慘了"
+          ]
+        },
+        {
+          "title": "台南車禍事件",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "國3新化段深夜車禍！兩小貨車翻落邊坡釀1傷"
           ]
         },
         {
@@ -36577,6 +36577,20 @@
           ]
         },
         {
+          "title": "桃園弊案爭議",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "桃園女遭「免費安非他命」引誘 成大麻包裹收件人被起訴"
+          ]
+        },
+        {
           "title": "高雄弊案爭議",
           "city": "高雄",
           "place": "高雄市政府",
@@ -36588,20 +36602,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "有夠忙！修車、選里長還有空幫詐團洗錢 高雄男遭判刑還要賠千萬損失"
-          ]
-        },
-        {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台中養護所爆凌虐致死？女如廁遭拖行、噎死 3人起訴"
           ]
         },
         {
@@ -36619,9 +36619,9 @@
           ]
         },
         {
-          "title": "桃園弊案爭議",
-          "city": "桃園",
-          "place": "桃園市政府",
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -36629,7 +36629,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "桃園女遭「免費安非他命」引誘 成大麻包裹收件人被起訴"
+            "台中養護所爆凌虐致死？女如廁遭拖行、噎死 3人起訴"
           ]
         },
         {
@@ -36669,11 +36669,11 @@
           "city": "雲林",
           "place": "雲林縣政府",
           "level": "yellow",
-          "news_count": 10,
+          "news_count": 8,
           "comment_count": 0,
-          "negativity_pct": 10,
+          "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 13,
+          "urgency_score": 11,
           "sample_titles": [
             "雲林取經歐洲大科學治理 借鏡愛因斯坦望遠鏡布局智慧城市發展",
             "輕航機墜毀雲林農田！駕駛無操作證 民航局開罰30萬",
@@ -36717,11 +36717,11 @@
           "city": "南投",
           "place": "南投縣政府",
           "level": "yellow",
-          "news_count": 20,
+          "news_count": 19,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 23,
+          "urgency_score": 22,
           "sample_titles": [
             "南投水里溪上藝術節 火舞團震撼演出吸2萬人",
             "比跨年狂！神級火舞炸裂水上舞台 南投水里溪創舉破萬人爭睹",
@@ -36765,11 +36765,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "yellow",
-          "news_count": 38,
+          "news_count": 36,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 38,
+          "urgency_score": 36,
           "sample_titles": [
             "親手做烘焙好好玩 「大小樂齡烘焙體驗班」花蓮開課歡樂多",
             "濃煙火舌狂竄！花蓮吉安鄉民宅2樓陷火海 6人驚險逃生",
@@ -36777,15 +36777,31 @@
           ]
         },
         {
+          "title": "台中市政動態",
+          "city": "台中",
+          "place": "台中市大里區",
+          "level": "yellow",
+          "news_count": 35,
+          "comment_count": 10,
+          "negativity_pct": 0,
+          "is_urgent": true,
+          "urgency_score": 53,
+          "sample_titles": [
+            "盧秀燕、黃敏惠兩位媽媽市長力挺張啓楷",
+            "農會赴陸遭調查 盧秀燕請教賴清德標準何在",
+            "農會赴陸遭調查 盧秀燕請教賴清德標準何在"
+          ]
+        },
+        {
           "title": "台東地方動態",
           "city": "台東",
           "place": "台東縣政府",
           "level": "yellow",
-          "news_count": 56,
+          "news_count": 54,
           "comment_count": 0,
-          "negativity_pct": 16,
+          "negativity_pct": 17,
           "is_urgent": false,
-          "urgency_score": 83,
+          "urgency_score": 81,
           "sample_titles": [
             "陸委會副主委梁文傑稱台灣人幾乎不吃「鳳梨釋迦」，其為仰賴中共鼻息的農產品，引發台東農民與地方政府反彈，盼勿讓政治力傷害釋",
             "陸委會副主委梁文傑近日的一番高論，讓人們深刻見識到，原來不只人，連農產品也會被抹紅。他將銷往中國大陸的鳳梨釋迦形容為「台",
@@ -36861,11 +36877,11 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "red",
-          "news_count": 43,
+          "news_count": 42,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 43,
+          "urgency_score": 42,
           "sample_titles": [
             "離島首座 金門縣立游泳池導入AI防溺監測系統",
             "金門陸上龍舟趣味賽登場！35隊同場競速 體驗同舟共濟精神",
@@ -36893,11 +36909,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 46,
+          "news_count": 45,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 52,
+          "urgency_score": 51,
           "sample_titles": [
             "再越界阿!中國漁船頻挑釁 海巡霸氣登檢扣押回港！中國海警船闖限制水域叫囂　海巡台南艦對峙狠嗆「中華民國台灣是主權獨立的國",
             "排隊搶爆！台南「菜奇鴨」授權商品 27款西市場限量開賣了",
@@ -36905,31 +36921,15 @@
           ]
         },
         {
-          "title": "台中市政動態",
-          "city": "台中",
-          "place": "台中市大里區",
-          "level": "red",
-          "news_count": 38,
-          "comment_count": 10,
-          "negativity_pct": 0,
-          "is_urgent": true,
-          "urgency_score": 56,
-          "sample_titles": [
-            "盧秀燕、黃敏惠兩位媽媽市長力挺張啓楷",
-            "農會赴陸遭調查 盧秀燕請教賴清德標準何在",
-            "農會赴陸遭調查 盧秀燕請教賴清德標準何在"
-          ]
-        },
-        {
           "title": "桃園地方動態",
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 54,
+          "news_count": 51,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 57,
+          "urgency_score": 54,
           "sample_titles": [
             "桃園火車後站周邊道路改造有成 人本交通成果獲肯定",
             "狂捲7.75億！《陽光女子》何曼希閃亮回鄉 出任桃園電影節大使 | TVBS",
@@ -36941,11 +36941,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 68,
+          "news_count": 66,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 86,
+          "urgency_score": 84,
           "sample_titles": [
             "端午節遇上白娘子！絕美白化雨傘節現蹤新北 遇蛇3不5要原則快記 | 生活",
             "新北三貂嶺夫妻登山遭蜂螫 男子恢復意識送醫",
@@ -36957,11 +36957,11 @@
           "city": "台中",
           "place": "台中市霧峰區",
           "level": "red",
-          "news_count": 70,
+          "news_count": 68,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 73,
+          "urgency_score": 71,
           "sample_titles": [
             "一拳定勝負　端午連假台中百貨車位難求、2駕駛猜拳拚車位",
             "重點培訓 台中加開公寓大廈管理人員防災士班",
@@ -36989,11 +36989,11 @@
           "city": "台北",
           "place": "台北市內湖區",
           "level": "red",
-          "news_count": 140,
+          "news_count": 138,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 164,
+          "urgency_score": 162,
           "sample_titles": [
             "沈伯洋批北市應改善防洪 蔣萬安舉數據反擊",
             "盯雷雨轟炸北市淹水災情 蔣萬安喊續拼降雨容受力韌性",
