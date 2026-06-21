@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "snapshot_at": "2026-06-21T10:13:01.294402+00:00",
+  "snapshot_at": "2026-06-21T10:15:13.664625+00:00",
   "hotspots": [
     {
       "title": "台南公廁議題",
@@ -24,9 +24,9 @@
       "comments": []
     },
     {
-      "title": "台中狼師事件",
-      "city": "台中",
-      "place": "台中市政府",
+      "title": "彰化狼師事件",
+      "city": "彰化",
+      "place": "彰化縣政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -35,10 +35,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "盧秀燕終於回國？ 請好好面對市政❤️把爛攤子通通丟包給台中市民❤️也讓大家再次檢視：台中的治理，到底出了什麼問題？ 💢台中勤美商圈巨型招牌砸落💢台中柳川驚傳命案💢台中車站移工酒後鬥毆💢台中補習班爆性侵案💢台中大雅鐵錘怪客出沒",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55M1FuNldBWThBYllnQWRNdkFuUVZoUjVrbUNTWkVYUWdlLVR0MWhWMG93bnVEbFczVHNPTDJrajJiWUh3X0htcUdZX2pNQWo2QzhBUkVjVDlKMFhCd0lpa3VhLThqcTQ?oc=5",
-          "time": "2026-06-21 12:10:34",
-          "publisher": "Google News→Mobile01",
+          "title": "禽獸不如！彰化狼外公性侵2孫女逞慾9次…嬤反怪她「害慘全家」逼和解",
+          "url": "https://tw.news.yahoo.com/%E7%A6%BD%E7%8D%B8%E4%B8%8D%E5%A6%82-%E5%BD%B0%E5%8C%96%E7%8B%BC%E5%A4%96%E5%85%AC%E6%80%A7%E4%BE%B52%E5%AD%AB%E5%A5%B3%E9%80%9E%E6%85%BE9%E6%AC%A1-%E5%AC%A4%E5%8F%8D%E6%80%AA%E5%A5%B9-%E5%AE%B3%E6%85%98%E5%85%A8%E5%AE%B6-%E9%80%BC%E5%92%8C%E8%A7%A3-034400373.html",
+          "time": "2026-06-21 11:44:00",
+          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -66,9 +66,9 @@
       "comments": []
     },
     {
-      "title": "彰化狼師事件",
-      "city": "彰化",
-      "place": "彰化縣政府",
+      "title": "台中狼師事件",
+      "city": "台中",
+      "place": "台中市政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -77,10 +77,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "禽獸不如！彰化狼外公性侵2孫女逞慾9次…嬤反怪她「害慘全家」逼和解",
-          "url": "https://tw.news.yahoo.com/%E7%A6%BD%E7%8D%B8%E4%B8%8D%E5%A6%82-%E5%BD%B0%E5%8C%96%E7%8B%BC%E5%A4%96%E5%85%AC%E6%80%A7%E4%BE%B52%E5%AD%AB%E5%A5%B3%E9%80%9E%E6%85%BE9%E6%AC%A1-%E5%AC%A4%E5%8F%8D%E6%80%AA%E5%A5%B9-%E5%AE%B3%E6%85%98%E5%85%A8%E5%AE%B6-%E9%80%BC%E5%92%8C%E8%A7%A3-034400373.html",
-          "time": "2026-06-21 11:44:00",
-          "publisher": "Yahoo新聞",
+          "title": "盧秀燕終於回國？ 請好好面對市政❤️把爛攤子通通丟包給台中市民❤️也讓大家再次檢視：台中的治理，到底出了什麼問題？ 💢台中勤美商圈巨型招牌砸落💢台中柳川驚傳命案💢台中車站移工酒後鬥毆💢台中補習班爆性侵案💢台中大雅鐵錘怪客出沒",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55M1FuNldBWThBYllnQWRNdkFuUVZoUjVrbUNTWkVYUWdlLVR0MWhWMG93bnVEbFczVHNPTDJrajJiWUh3X0htcUdZX2pNQWo2QzhBUkVjVDlKMFhCd0lpa3VhLThqcTQ?oc=5",
+          "time": "2026-06-21 12:10:34",
+          "publisher": "Google News→Mobile01",
           "severity": "yellow"
         }
       ],
