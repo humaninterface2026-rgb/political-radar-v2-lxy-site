@@ -37695,7 +37695,7 @@
     },
     {
       "date": "2026-06-22",
-      "snapshot_at": "2026-06-22T10:25:32.728055+00:00",
+      "snapshot_at": "2026-06-22T10:36:09.470510+00:00",
       "hotspots": [
         {
           "title": "行人地獄討論",
@@ -37781,22 +37781,6 @@
           "sample_titles": []
         },
         {
-          "title": "嘉義縣地方動態",
-          "city": "嘉義縣",
-          "place": "嘉義縣政府",
-          "level": "green",
-          "news_count": 6,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 6,
-          "sample_titles": [
-            "嘉義縣環保局推動許可整合制度 提升環境治理效能",
-            "嘉義縣環保局推動許可整合制度，提升環境治理效能",
-            "飼主惡意放養大型犬咬死家犬 嘉義縣家畜所開罰5萬3千元送辦"
-          ]
-        },
-        {
           "title": "新竹縣地方動態",
           "city": "新竹縣",
           "place": "新竹縣政府",
@@ -37813,19 +37797,19 @@
           ]
         },
         {
-          "title": "基隆地方動態",
-          "city": "基隆",
-          "place": "基隆市政府",
+          "title": "嘉義縣地方動態",
+          "city": "嘉義縣",
+          "place": "嘉義縣政府",
           "level": "green",
-          "news_count": 8,
+          "news_count": 6,
           "comment_count": 0,
-          "negativity_pct": 12,
+          "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 11,
+          "urgency_score": 6,
           "sample_titles": [
-            "基隆市立田徑場AI智能運動中心 國家認證9月試營運",
-            "基隆幼兒園疑虐童 謝國樑今視察園所 召開跨局處會議從嚴究責",
-            "「基隆鎖管季」擴大推出「鎖管月」 首度規劃「海釣王賽」拚獎金"
+            "嘉義縣環保局推動許可整合制度 提升環境治理效能",
+            "嘉義縣環保局推動許可整合制度，提升環境治理效能",
+            "飼主惡意放養大型犬咬死家犬 嘉義縣家畜所開罰5萬3千元送辦"
           ]
         },
         {
@@ -37842,6 +37826,22 @@
             "2026嘉義市購物節7月開跑 登錄發票抽百萬現金、139萬汽車大獎",
             "全嘉義起購 2026嘉義市購物節7月開跑！百萬豪車、百萬現金大獎滿額抽",
             "500元變百萬？嘉義市購物節抽豪車、現金 住宿再送600元"
+          ]
+        },
+        {
+          "title": "基隆地方動態",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "green",
+          "news_count": 8,
+          "comment_count": 0,
+          "negativity_pct": 12,
+          "is_urgent": false,
+          "urgency_score": 11,
+          "sample_titles": [
+            "基隆市立田徑場AI智能運動中心 國家認證9月試營運",
+            "基隆幼兒園疑虐童 謝國樑今視察園所 召開跨局處會議從嚴究責",
+            "「基隆鎖管季」擴大推出「鎖管月」 首度規劃「海釣王賽」拚獎金"
           ]
         },
         {
@@ -37889,6 +37889,20 @@
           ]
         },
         {
+          "title": "台北弊案爭議",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "控中配直播「狂拍小學生」！北市議員許淑華挨告誹謗、侵害個資 北檢不起訴"
+          ]
+        },
+        {
           "title": "桃園弊案爭議",
           "city": "桃園",
           "place": "桃園市政府",
@@ -37914,20 +37928,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "又是你! 高雄騎士違規遭攔檢 \"3度毒駕上路\"終於收押"
-          ]
-        },
-        {
-          "title": "台北弊案爭議",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "控中配直播「狂拍小學生」！北市議員許淑華挨告誹謗、侵害個資 北檢不起訴"
           ]
         },
         {
@@ -38134,11 +38134,11 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "yellow",
-          "news_count": 33,
+          "news_count": 32,
           "comment_count": 27,
           "negativity_pct": 0,
           "is_urgent": true,
-          "urgency_score": 76,
+          "urgency_score": 75,
           "sample_titles": [
             "盧秀燕分享鳳梨釋迦私房吃法 力挺在地農產品 | 政治 | CTWANT",
             "盧秀燕分享鳳梨釋迦私房吃法 力挺在地農產品",
@@ -38341,11 +38341,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 117,
+          "news_count": 115,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 144,
+          "urgency_score": 142,
           "sample_titles": [
             "桃園觀旅局取經羅托魯瓦夜遊與毛利文化 打造原鄉觀光國際新亮點",
             "搶特殊車牌注意 桃園監理站6/26~6/30辦理公開標售",

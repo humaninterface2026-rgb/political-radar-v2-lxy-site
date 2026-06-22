@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "snapshot_at": "2026-06-22T10:25:32.728055+00:00",
+  "snapshot_at": "2026-06-22T10:36:09.470510+00:00",
   "hotspots": [
     {
       "title": "行人地獄討論",
@@ -184,62 +184,6 @@
       ]
     },
     {
-      "title": "嘉義縣地方動態",
-      "city": "嘉義縣",
-      "place": "嘉義縣政府",
-      "level": "green",
-      "news_count": 6,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 6,
-      "news_articles": [
-        {
-          "title": "嘉義縣環保局推動許可整合制度 提升環境治理效能",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wUldpc2phRHBQNE1JRzc2R1dZdmtVOTVIX2M2ZldUZkVTY3VIQzNXbVNOTUtpU2cydGZPaDRpcVVLa093aHRKNE1RZE16b1h0clE?oc=5",
-          "time": "2026-06-22 17:15:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣環保局推動許可整合制度，提升環境治理效能",
-          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=255339",
-          "time": "2026-06-22 13:02:04",
-          "publisher": "嘉義縣政府",
-          "severity": null
-        },
-        {
-          "title": "飼主惡意放養大型犬咬死家犬 嘉義縣家畜所開罰5萬3千元送辦",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JU016NlN0OW5LamhqRF9NQ1FvSUFuSUhBdkV5OEZCZmlVZ3AyT3lab0VmeHFQQ3F5T0tOQmJUdUJZbXgtdncwVXFGQXdvbEtS0gFWQVVfeXFMT2V1QXl3amVJUDdBalpybkFXYUZBQVp3dmRXWVA0V1o4RUpabW82Z1BFVFYteXFCVk9vaTdIc2RPTHR5dHpRTmp0NGNJak1ZNzNCcm5pM0E?oc=5",
-          "time": "2026-06-22 12:20:49",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "嘉義縣大阿里山清香烏龍茶製茶競賽 黃昶升奪冠",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRGYtRVlrYTZpOWpHR1YtT3B1OENaR0RPUE9HWnZmak9ObmxTZkVGdEVDOThOZ2ZkbS1xTFhBNlVUNGlLQWs2MU9LOFQwNUVlTGlNTUZ4bnA5X1pCeHg4dV81SWpOSTJtdmdoaFhZYlRlOThYYnFaTzZ6TURjMll3WG1tdUlIZGZDVktDRDZTWWFnWVBBN3hZQnp3?oc=5",
-          "time": "2026-06-22 12:06:28",
-          "publisher": "Google News→idn.com.tw",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣「2026東石海之夏」",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zV3EtX0xDZDdYWXdMcnJjd1dJU0FkYTVlVDNjbnA4UzZ4MU1JaFZQSHZBY01LQnQ3a0lyTEpHS0dWNUpfbGpWNWRpS3dMTXc2QzFvMVVVYU9XMm8?oc=5",
-          "time": "2026-06-22 08:42:51",
-          "publisher": "Google News→新北市觀光旅遊網",
-          "severity": null
-        },
-        {
-          "title": "高跟鞋教堂夏日派對登場6組樂團接力開唱千人嗨翻- 嘉義縣",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTeVRTY0pET01DTWtRcWFNenRPcEEwaGVsbERYYkg0TjV5M3dYdDRra19WSzVtMF9VMTM0UEdLZ1NkOW5TTlVRRUc1MEdoR2R1SGN0azFLb1I5OUZ5VjRqbTJKN012U1BLYUJtbG9xcw?oc=5",
-          "time": "2026-06-21 22:38:26",
-          "publisher": "自由時報",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "新竹縣地方動態",
       "city": "新竹縣",
       "place": "新竹縣政府",
@@ -296,70 +240,56 @@
       "comments": []
     },
     {
-      "title": "基隆地方動態",
-      "city": "基隆",
-      "place": "基隆市政府",
+      "title": "嘉義縣地方動態",
+      "city": "嘉義縣",
+      "place": "嘉義縣政府",
       "level": "green",
-      "news_count": 8,
+      "news_count": 6,
       "comment_count": 0,
-      "negativity_pct": 12,
+      "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 11,
+      "urgency_score": 6,
       "news_articles": [
         {
-          "title": "基隆市立田徑場AI智能運動中心 國家認證9月試營運",
-          "url": "https://more-news.tw/647824/",
-          "time": "2026-06-22 17:25:37",
-          "publisher": "墨新聞",
+          "title": "嘉義縣環保局推動許可整合制度 提升環境治理效能",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wUldpc2phRHBQNE1JRzc2R1dZdmtVOTVIX2M2ZldUZkVTY3VIQzNXbVNOTUtpU2cydGZPaDRpcVVLa093aHRKNE1RZE16b1h0clE?oc=5",
+          "time": "2026-06-22 17:15:00",
+          "publisher": "Google News→蕃新聞",
           "severity": null
         },
         {
-          "title": "基隆幼兒園疑虐童 謝國樑今視察園所 召開跨局處會議從嚴究責",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5480203",
-          "time": "2026-06-22 17:09:11",
-          "publisher": "自由時報",
+          "title": "嘉義縣環保局推動許可整合制度，提升環境治理效能",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=255339",
+          "time": "2026-06-22 13:02:04",
+          "publisher": "嘉義縣政府",
+          "severity": null
+        },
+        {
+          "title": "飼主惡意放養大型犬咬死家犬 嘉義縣家畜所開罰5萬3千元送辦",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JU016NlN0OW5LamhqRF9NQ1FvSUFuSUhBdkV5OEZCZmlVZ3AyT3lab0VmeHFQQ3F5T0tOQmJUdUJZbXgtdncwVXFGQXdvbEtS0gFWQVVfeXFMT2V1QXl3amVJUDdBalpybkFXYUZBQVp3dmRXWVA0V1o4RUpabW82Z1BFVFYteXFCVk9vaTdIc2RPTHR5dHpRTmp0NGNJak1ZNzNCcm5pM0E?oc=5",
+          "time": "2026-06-22 12:20:49",
+          "publisher": "Google News→UDN",
           "severity": "yellow"
         },
         {
-          "title": "「基隆鎖管季」擴大推出「鎖管月」 首度規劃「海釣王賽」拚獎金",
-          "url": "https://news.ltn.com.tw/news/Keelung/breakingnews/5480083",
-          "time": "2026-06-22 15:31:14",
+          "title": "嘉義縣大阿里山清香烏龍茶製茶競賽 黃昶升奪冠",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRGYtRVlrYTZpOWpHR1YtT3B1OENaR0RPUE9HWnZmak9ObmxTZkVGdEVDOThOZ2ZkbS1xTFhBNlVUNGlLQWs2MU9LOFQwNUVlTGlNTUZ4bnA5X1pCeHg4dV81SWpOSTJtdmdoaFhZYlRlOThYYnFaTzZ6TURjMll3WG1tdUlIZGZDVktDRDZTWWFnWVBBN3hZQnp3?oc=5",
+          "time": "2026-06-22 12:06:28",
+          "publisher": "Google News→idn.com.tw",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣「2026東石海之夏」",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zV3EtX0xDZDdYWXdMcnJjd1dJU0FkYTVlVDNjbnA4UzZ4MU1JaFZQSHZBY01LQnQ3a0lyTEpHS0dWNUpfbGpWNWRpS3dMTXc2QzFvMVVVYU9XMm8?oc=5",
+          "time": "2026-06-22 08:42:51",
+          "publisher": "Google News→新北市觀光旅遊網",
+          "severity": null
+        },
+        {
+          "title": "高跟鞋教堂夏日派對登場6組樂團接力開唱千人嗨翻- 嘉義縣",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTeVRTY0pET01DTWtRcWFNenRPcEEwaGVsbERYYkg0TjV5M3dYdDRra19WSzVtMF9VMTM0UEdLZ1NkOW5TTlVRRUc1MEdoR2R1SGN0azFLb1I5OUZ5VjRqbTJKN012U1BLYUJtbG9xcw?oc=5",
+          "time": "2026-06-21 22:38:26",
           "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "汶汶遭狂粉攻擊… 楊寶楨嘆「在基隆和新竹都被跟騷過」曝女生自救1關鍵",
-          "url": "https://tw.news.yahoo.com/%E6%B1%B6%E6%B1%B6%E9%81%AD%E7%8B%82%E7%B2%89%E6%94%BB%E6%93%8A-%E6%A5%8A%E5%AF%B6%E6%A5%A8%E5%98%86-%E5%9C%A8%E5%9F%BA%E9%9A%86%E5%92%8C%E6%96%B0%E7%AB%B9%E9%83%BD%E8%A2%AB%E8%B7%9F%E9%A8%B7%E9%81%8E-%E6%9B%9D%E5%A5%B3%E7%94%9F%E8%87%AA%E6%95%911%E9%97%9C%E9%8D%B5-044000164.html",
-          "time": "2026-06-22 12:40:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "2026基隆鎖管季升級「鎖管月」登場 首推海釣王競賽打造夏季海洋嘉年華",
-          "url": "https://n.yam.com/Article/20260622493861",
-          "time": "2026-06-22 12:00:00",
-          "publisher": "蕃新聞→民生好報",
-          "severity": null
-        },
-        {
-          "title": "FUN暑假不無聊 基市兒少處推街舞、熱音、賞鯨體驗",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5479619",
-          "time": "2026-06-22 09:59:08",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "基隆運動新地標亮相 謝國樑拋喜訊：明年首辦「全國小學田徑錦標賽」",
-          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E9%81%8B%E5%8B%95%E6%96%B0%E5%9C%B0%E6%A8%99%E4%BA%AE%E7%9B%B8-%E8%AC%9D%E5%9C%8B%E6%A8%91%E6%8B%8B%E5%96%9C%E8%A8%8A-%E6%98%8E%E5%B9%B4%E9%A6%96%E8%BE%A6-%E5%85%A8%E5%9C%8B%E5%B0%8F%E5%AD%B8%E7%94%B0%E5%BE%91%E9%8C%A6%E6%A8%99%E8%B3%BD-070706306.html",
-          "time": "2026-06-22 07:07:06",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "基隆市立田徑場改建 9月試營運 (圖)",
-          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E5%B8%82%E7%AB%8B%E7%94%B0%E5%BE%91%E5%A0%B4%E6%94%B9%E5%BB%BA-9%E6%9C%88%E8%A9%A6%E7%87%9F%E9%81%8B-%E5%9C%96-065640548.html",
-          "time": "2026-06-22 06:56:40",
-          "publisher": "Yahoo新聞",
           "severity": null
         }
       ],
@@ -429,6 +359,76 @@
           "title": "「嘉義風味」雙展齊發 嘉義市好店閃耀南北",
           "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E9%A2%A8%E5%91%B3-%E9%9B%99%E5%B1%95%E9%BD%8A%E7%99%BC-%E5%98%89%E7%BE%A9%E5%B8%82%E5%A5%BD%E5%BA%97%E9%96%83%E8%80%80%E5%8D%97%E5%8C%97-110117300.html",
           "time": "2026-06-21 19:01:17",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "基隆地方動態",
+      "city": "基隆",
+      "place": "基隆市政府",
+      "level": "green",
+      "news_count": 8,
+      "comment_count": 0,
+      "negativity_pct": 12,
+      "is_urgent": false,
+      "urgency_score": 11,
+      "news_articles": [
+        {
+          "title": "基隆市立田徑場AI智能運動中心 國家認證9月試營運",
+          "url": "https://more-news.tw/647824/",
+          "time": "2026-06-22 17:25:37",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "基隆幼兒園疑虐童 謝國樑今視察園所 召開跨局處會議從嚴究責",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5480203",
+          "time": "2026-06-22 17:09:11",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "「基隆鎖管季」擴大推出「鎖管月」 首度規劃「海釣王賽」拚獎金",
+          "url": "https://news.ltn.com.tw/news/Keelung/breakingnews/5480083",
+          "time": "2026-06-22 15:31:14",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "汶汶遭狂粉攻擊… 楊寶楨嘆「在基隆和新竹都被跟騷過」曝女生自救1關鍵",
+          "url": "https://tw.news.yahoo.com/%E6%B1%B6%E6%B1%B6%E9%81%AD%E7%8B%82%E7%B2%89%E6%94%BB%E6%93%8A-%E6%A5%8A%E5%AF%B6%E6%A5%A8%E5%98%86-%E5%9C%A8%E5%9F%BA%E9%9A%86%E5%92%8C%E6%96%B0%E7%AB%B9%E9%83%BD%E8%A2%AB%E8%B7%9F%E9%A8%B7%E9%81%8E-%E6%9B%9D%E5%A5%B3%E7%94%9F%E8%87%AA%E6%95%911%E9%97%9C%E9%8D%B5-044000164.html",
+          "time": "2026-06-22 12:40:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "2026基隆鎖管季升級「鎖管月」登場 首推海釣王競賽打造夏季海洋嘉年華",
+          "url": "https://n.yam.com/Article/20260622493861",
+          "time": "2026-06-22 12:00:00",
+          "publisher": "蕃新聞→民生好報",
+          "severity": null
+        },
+        {
+          "title": "FUN暑假不無聊 基市兒少處推街舞、熱音、賞鯨體驗",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5479619",
+          "time": "2026-06-22 09:59:08",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "基隆運動新地標亮相 謝國樑拋喜訊：明年首辦「全國小學田徑錦標賽」",
+          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E9%81%8B%E5%8B%95%E6%96%B0%E5%9C%B0%E6%A8%99%E4%BA%AE%E7%9B%B8-%E8%AC%9D%E5%9C%8B%E6%A8%91%E6%8B%8B%E5%96%9C%E8%A8%8A-%E6%98%8E%E5%B9%B4%E9%A6%96%E8%BE%A6-%E5%85%A8%E5%9C%8B%E5%B0%8F%E5%AD%B8%E7%94%B0%E5%BE%91%E9%8C%A6%E6%A8%99%E8%B3%BD-070706306.html",
+          "time": "2026-06-22 07:07:06",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "基隆市立田徑場改建 9月試營運 (圖)",
+          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E5%B8%82%E7%AB%8B%E7%94%B0%E5%BE%91%E5%A0%B4%E6%94%B9%E5%BB%BA-9%E6%9C%88%E8%A9%A6%E7%87%9F%E9%81%8B-%E5%9C%96-065640548.html",
+          "time": "2026-06-22 06:56:40",
           "publisher": "Yahoo新聞",
           "severity": null
         }
@@ -604,6 +604,27 @@
       "comments": []
     },
     {
+      "title": "台北弊案爭議",
+      "city": "台北",
+      "place": "台北市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "控中配直播「狂拍小學生」！北市議員許淑華挨告誹謗、侵害個資 北檢不起訴",
+          "url": "https://www.taisounds.com/news/content/71/263556",
+          "time": "2026-06-22 11:49:06",
+          "publisher": "太報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "桃園弊案爭議",
       "city": "桃園",
       "place": "桃園市政府",
@@ -640,27 +661,6 @@
           "url": "https://tw.news.yahoo.com/%E5%8F%88%E6%98%AF%E4%BD%A0-%E9%AB%98%E9%9B%84%E9%A8%8E%E5%A3%AB%E9%81%95%E8%A6%8F%E9%81%AD%E6%94%94%E6%AA%A2-3%E5%BA%A6%E6%AF%92%E9%A7%95%E4%B8%8A%E8%B7%AF-%E7%B5%82%E6%96%BC%E6%94%B6%E6%8A%BC-051824349.html",
           "time": "2026-06-22 05:18:24",
           "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "台北弊案爭議",
-      "city": "台北",
-      "place": "台北市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "控中配直播「狂拍小學生」！北市議員許淑華挨告誹謗、侵害個資 北檢不起訴",
-          "url": "https://www.taisounds.com/news/content/71/263556",
-          "time": "2026-06-22 11:49:06",
-          "publisher": "太報",
           "severity": "red"
         }
       ],
@@ -2929,11 +2929,11 @@
       "city": "台中",
       "place": "台中市北屯區",
       "level": "yellow",
-      "news_count": 33,
+      "news_count": 32,
       "comment_count": 27,
       "negativity_pct": 0,
       "is_urgent": true,
-      "urgency_score": 76,
+      "urgency_score": 75,
       "news_articles": [
         {
           "title": "盧秀燕分享鳳梨釋迦私房吃法 力挺在地農產品 | 政治 | CTWANT",
@@ -3157,13 +3157,6 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JQ2dJT05zdmlKN21PeEU5RlJOOS1HNW1zdm90dHZEdkVCMUFwcGF2RExZZVhKVTk0d182anFnU0ttOG8wblBveW11bXFGMUc3Mkl3X0sxaUlEOUFyMk9aMVd2SEZsUmxzbGRUODNn?oc=5",
           "time": "2026-06-21 21:06:53",
           "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "盧秀燕黃敏惠合體挺啓楷 吹響陸戰號角",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81NzgzckZnOHlpaTA0R1pmc1p0OFFWMGlzcWUzdWMtdnFxcUMtN2JzcmFaaE5qNlJPdVdPUHo5Zno4ZUZtM3RQMGtGT1dNdTlPZWJR?oc=5",
-          "time": "2026-06-21 18:31:14",
-          "publisher": "Google News→臺灣導報",
           "severity": null
         }
       ],
@@ -6205,11 +6198,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 117,
+      "news_count": 115,
       "comment_count": 0,
       "negativity_pct": 8,
       "is_urgent": false,
-      "urgency_score": 144,
+      "urgency_score": 142,
       "news_articles": [
         {
           "title": "桃園觀旅局取經羅托魯瓦夜遊與毛利文化 打造原鄉觀光國際新亮點",
@@ -7015,20 +7008,6 @@
           "time": "2026-06-21 18:46:26",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "盤點桃園5大野餐地點 浪漫湖景陪你享受悠閒假日時光",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mMG80alVObEFQNlptT3VNRzRyVWV4VEhPdTlmZHN6Z2xIN2VZZnI2SXZRNlh6QjhMXy13aG9MMkdmZE0ydVFsVEcyelN6Vm9HSlE?oc=5",
-          "time": "2026-06-21 18:26:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園10萬志工逾半65歲以上 蘇俊賓肯定長輩是城市最有力的支持",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vSmtleUhZXzEtOVRHbkV2U0pzcVdrUXZObG9xeUw3Wm50WHhXX1dSUWVYVjZJTktwd0lwVDF6S0JnV3pEam1reEVlVWJ4S05H0gFWQVVfeXFMT0pUQXNadmk5ZkhsckpZelJvUkdHQ1d4T0ZPLUowcHVYbzM0WkRqV3lJT0NsSzVEUmRmSFBuYlh2MXdWUkdEZnU4LW5kMHBhVU1pZVFjVnc?oc=5",
-          "time": "2026-06-21 18:25:42",
-          "publisher": "Google News→UDN",
-          "severity": null
         }
       ],
       "comments": []
@@ -7273,7 +7252,7 @@
           "url": "https://n.yam.com/Article/20260622407832",
           "time": "2026-06-22 12:00:00",
           "publisher": "蕃新聞→台灣新聞網",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "上任不到一年民調亮紅燈！爆料醜聞重傷日高市內閣支持率跌至新低 | 國際要聞 | 全球",
@@ -7994,7 +7973,7 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxM1FCSWRKa1ZtVUFqX1FwOG5XUWZuaTQ3a0w4U0VIOF9uQTdGaG95dENSaGJBSWVScHpiX2ZDWGRGYnJUNmotbHVsdGF6Yk5zakJrWUNR?oc=5",
           "time": "2026-06-22 17:56:20",
           "publisher": "Google News→LINE TODAY",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "國民黨潛在總統競爭者近日紛紛出國訪問！包括國民黨主席鄭麗文訪美、台中市長盧秀燕訪歐，台北市長蔣萬安訪新加坡與立法院長韓國瑜率團訪美。顯然4人都盼以出國訪問作為起手式，以增加能見度，但最終誰能出線，仍要看黨內機制與誰能獲得最多民意的肯定…",
