@@ -37695,7 +37695,7 @@
     },
     {
       "date": "2026-06-22",
-      "snapshot_at": "2026-06-22T01:36:09.630996+00:00",
+      "snapshot_at": "2026-06-22T01:36:39.436413+00:00",
       "hotspots": [
         {
           "title": "行人地獄討論",
@@ -37752,20 +37752,6 @@
           ]
         },
         {
-          "title": "桃園狼師事件",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "桃園男給200元性侵「小隻女」 還誘她和阿嬤要錢投資"
-          ]
-        },
-        {
           "title": "台中狼師事件",
           "city": "台中",
           "place": "台中市政府",
@@ -37780,7 +37766,7 @@
           ]
         },
         {
-          "title": "桃園車禍事件",
+          "title": "桃園狼師事件",
           "city": "桃園",
           "place": "桃園市政府",
           "level": "green",
@@ -37790,7 +37776,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "-桃園路盤果路口車禍1人送醫"
+            "桃園男給200元性侵「小隻女」 還誘她和阿嬤要錢投資"
           ]
         },
         {
@@ -37805,6 +37791,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "台中南京路離奇車禍！76歲翁騎車自摔送醫亡 頭部無出血"
+          ]
+        },
+        {
+          "title": "桃園車禍事件",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "-桃園路盤果路口車禍1人送醫"
           ]
         },
         {
@@ -37924,22 +37924,6 @@
           ]
         },
         {
-          "title": "新竹縣地方動態",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "green",
-          "news_count": 10,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 10,
-          "sample_titles": [
-            "[外稿新聞]-澎澎湖口開唱掀熱潮！陳美仁攜手文教獅子會推客家文化百位鄉親做泡菜樂翻天",
-            "澎澎湖口開唱掀熱潮！陳美仁攜手文教獅子會推客家文化 百位鄉親做泡菜樂翻天",
-            "從心動到運動 新竹縣陪伴障礙女性走進運動場域"
-          ]
-        },
-        {
           "title": "嘉義市地方動態",
           "city": "嘉義市",
           "place": "嘉義市政府",
@@ -37953,6 +37937,22 @@
             "「嘉義風味」雙展齊發 嘉義市好店閃耀南北",
             "在台中市長盧秀燕與嘉義市長黃敏惠日前同台力挺後，獲藍白共推的嘉義市長參選人張啓楷隨即展開基層陸戰行程，偕同市議員及里長深",
             "嘉市好店進軍大型展會 南北同步開展搶人氣拚買氣"
+          ]
+        },
+        {
+          "title": "新竹縣地方動態",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "green",
+          "news_count": 10,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 10,
+          "sample_titles": [
+            "[外稿新聞]-澎澎湖口開唱掀熱潮！陳美仁攜手文教獅子會推客家文化百位鄉親做泡菜樂翻天",
+            "澎澎湖口開唱掀熱潮！陳美仁攜手文教獅子會推客家文化 百位鄉親做泡菜樂翻天",
+            "從心動到運動 新竹縣陪伴障礙女性走進運動場域"
           ]
         },
         {
@@ -38016,20 +38016,6 @@
           ]
         },
         {
-          "title": "桃園弊案爭議",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "不滿主任管理員管教 桃園女監受刑人揮拳傷人致腦震盪判刑"
-          ]
-        },
-        {
           "title": "高雄弊案爭議",
           "city": "高雄",
           "place": "高雄市政府",
@@ -38041,6 +38027,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "網銀約定密碼全給！高雄女淪洗錢幫兇被判刑 民事再判賠200萬"
+          ]
+        },
+        {
+          "title": "桃園弊案爭議",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "不滿主任管理員管教 桃園女監受刑人揮拳傷人致腦震盪判刑"
           ]
         },
         {
@@ -38311,11 +38311,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 71,
+          "news_count": 72,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 80,
+          "urgency_score": 81,
           "sample_titles": [
             "桃園巧聖先師廟祝壽活動 黃世杰：當選市長攜手產業推動進步",
             "不滿主任管理員管教 桃園女監受刑人揮拳傷人致腦震盪判刑",
@@ -38343,11 +38343,11 @@
           "city": "高雄",
           "place": "高雄市苓雅區",
           "level": "red",
-          "news_count": 105,
+          "news_count": 106,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 117,
+          "urgency_score": 118,
           "sample_titles": [
             "陳其邁領軍奪冠！李洋打頭槳、安芝儇擊鼓 高雄隊勇奪國際友誼賽第一",
             "2026高雄龍舟國際友誼賽熱血開槳 陳其邁率高雄隊奪冠 展現高雄城市外交及活力",
