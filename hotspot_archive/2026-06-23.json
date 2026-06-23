@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "snapshot_at": "2026-06-23T10:10:47.026362+00:00",
+  "snapshot_at": "2026-06-23T10:17:49.094691+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -18,27 +18,6 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uc0JuMEItb2NpRmZEVmZaTHVLQ0I2ZXZOc0laWV8zYzhSVFV2WXl0b1F4SFpmYmtXX2ZpMG0wWFpUSWgwMDdaT1dKWTFQN3NKRmJz?oc=5",
           "time": "2026-06-22 18:23:00",
           "publisher": "TVBS",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "桃園鼠患事件",
-      "city": "桃園",
-      "place": "桃園市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "嚴防登革熱與鼠患 桃園動員逾2.6萬志工巡檢社區積水容器",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRV9uN0x6cmZOdktnZTJKWUJtVmNZclh0WjMydXJRXzFRcDJ4dUVWemhmRk1HalUwaHVvZzZDZkpkV0xyejFrNFNieWlaRlFxckRmWXBCa1pTVTRzZ3fSAWhBVV95cUxPeTMzRUlYZDBzd2REYVVBYnUtLTlReXNHOTJBRUQxV015QTh2TjZCTTJMNlgwMEU4ZU1VTjlrMDZpcnBzdXc1Zy1jbUdZeXduS1FfSUZMdVAtUU53TTVHYmZsZ2Nnc255Zw?oc=5",
-          "time": "2026-06-22 18:14:00",
-          "publisher": "ETtoday",
           "severity": "yellow"
         }
       ],
@@ -478,104 +457,6 @@
       "comments": []
     },
     {
-      "title": "嘉義縣地方動態",
-      "city": "嘉義縣",
-      "place": "嘉義縣政府",
-      "level": "green",
-      "news_count": 12,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 12,
-      "news_articles": [
-        {
-          "title": "嘉義縣毒品危害防制交流研討會，跨區強化防制體系",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XX3p1Y3ZBQU9wclBXd0pDQmpGSHhQZERra0ktRVlhaE45NXctMGduSkNYM25MTkowU2d2UXFXbF92UW9iYks2cHBqNzZNRm5qTkNNVXNqSFZYZC1FdXhsVWpvd25fOEJSUk9Z?oc=5",
-          "time": "2026-06-23 17:10:31",
-          "publisher": "Google News→高雄市淡江大學校友會",
-          "severity": "yellow"
-        },
-        {
-          "title": "嘉義縣深耕食育成果亮眼 蟬連五星城市六連霸",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fV2hJUWhOa1o5OHdGcWJ5VjFoRlRnMDd1UU9teTZTQzBtQnZwblZWbUlzc0REZ3NtR0JESndiUkN4cWhiUmM4czdTRnRsRkZ1TWc?oc=5",
-          "time": "2026-06-23 16:24:53",
-          "publisher": "Google News→中華新聞雲／中華日報",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣蟬連食育力五星城市6連霸！深耕食安成果亮眼",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yTF9zVlRVUl9rZ3Z2U3ZvSnFYUWRPYW1rVWVycjdYMkx2WDFTaEM4X1NMOERoa3g3VFlvM3lUWGxLZjhtR3ZlZnFaNzcyeW9tUjRyc2lB?oc=5",
-          "time": "2026-06-23 15:53:30",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣新住民慶端午：透過美食與花藝，共創多元共融生活圈",
-          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=255381",
-          "time": "2026-06-23 15:43:14",
-          "publisher": "嘉義縣政府",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣響應全民愛滋篩檢日，號召年輕族群為愛篩檢",
-          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=255380",
-          "time": "2026-06-23 15:43:14",
-          "publisher": "嘉義縣政府",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣食育力五星城市六連霸 食安衛生全國第2名",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hRDJldDR3cUhsR2FpUEUtMDhFSm9xWXlIeXRvYi1HeWtPRVZTVVF0TUFBUEdjYUVDamw5eTUyX3N5YktSRWpDUlJiVGg?oc=5",
-          "time": "2026-06-23 14:41:55",
-          "publisher": "Google News→樂上新聞網",
-          "severity": null
-        },
-        {
-          "title": "翻轉愛滋迷思！嘉義縣衛生局號召年輕族群為愛篩檢",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PZFhvUk9ZNjJzWDNaMDk5RVE0UmZySVRvLU5qak80UHp4UkpLZlBjWUpDLTJjbldtc2hHRjJvOHhLMUg5YjVScGZXUFRPaDMwczloeUhqWVEzbDVtcFhvZTRBSVrSAWpBVV95cUxNVHF4b0JKdmk3dE9kSFJ4UWdRV285c0FMSWcwV2FWWXUtQ3dzX2xnVkZtcVJkSHU0ay12X1cyX1hmaG94MXdMZEdmdTh1dGZlWFE1SGZZNzRITGgxUjlCcU95S3Y4eGJhdGdR?oc=5",
-          "time": "2026-06-23 14:40:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣蟬連食育力五星城市六連霸",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTFB4cEJSTFhGaFVoYjhQczFqMXFOWkgxZllPSXdGT1RsNmNGZGg5a1lydGZ6bzRpV004R3AyNkpDQ2g0NGZja3R5RmdjMUgzY0paVzg2ckphNEFRSXJoczZTUnJTRzJjWGQ1bzNzOVg3VkNzTHdoSHhQdDg3b2otZmNYbFlSQlNqUU9OQnBGWGVtNU5zc09rSlV3?oc=5",
-          "time": "2026-06-23 13:47:18",
-          "publisher": "Google News→idn.com.tw",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣蟬連食育力五星城市六連霸！深耕食安成果亮眼",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hbHlEc0ltV1R0RGFPcElaNEhaNGsyLXc4YVd4R0tKQThhOUhzZk1iMExSS1k2Qi1EYUZoTWNXNDVhRzMzTWZ4NERpYnFoQU9hNGd1Rm9xOTZwc2pLVS1JOW1GNVVTX0xnemxz?oc=5",
-          "time": "2026-06-23 11:21:18",
-          "publisher": "Google News→高雄市淡江大學校友會",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣「無毒嘉園」AI四格漫畫競賽開跑 最高可獲5,000元禮券",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKWlhaY2xhVWVtZW9PZXB6TEc0N19JeWxPckNFY0JPc3RQXzdpN3FnTkl2emJiZjlWZFVIclN3ZVpmbU9Sai1lRTllZEQxMHUtUEl0SExR?oc=5",
-          "time": "2026-06-23 11:21:13",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣大阿里山清香烏龍茶製茶競賽 黃昶升奪冠 - 政府消息新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWnNFZVY4RThjaEJpTlk4RDktdnFMa09FbVp6Q3NLd2g0M29Vam1ZU25uTlNrSURCOFk3MzUtRzFsSEdfMDV6akdYZTViT2QwUFpIY2s2OFJfdVVmck43M0ZBRUEwZGNkRWZQQ2lRbnZUVmE4ajdiRlBWNUdvUk9JcE9JVXo?oc=5",
-          "time": "2026-06-22 18:54:52",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣大阿里山清香烏龍茶製茶競賽 黃昶升奪冠",
-          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNLUZnUHVmN1pxYi1Fam9YV1ZmVGZqZ2FOdWdxU2J2R25HRnR2UEhWYnBhMXpZWkhfTmRqbFYxdXBwVmVyNlRsbFB5Vlk2cWVNWE1OR1M0eGZ5RDZpczNjZEVRWjI2X2UyS2hrODFxOVh6R1lqbjR6N3FPZW4tSGczVmVyanRIRy1Tc3VybTRlSWpPMzRxMlJJVXdvdUR2Z3ZtaWp3cnp6U1g0ZGVCZmRwRlEyaEFIV2xTaTZidGtvdllFMUNUekp3bV9QMDNZUWk1dENVbHdPT2FFWXFZd1duaEdKT3dPc3pDRmdidXBfbzlyS0VpNWJMN2lhb2VTQTBpb0pwUUpCV05XaDRwdi0yYzdOaW5scUtHSGV5b2lzb0tZNDZoR1VITnZTaVdMUHlsZ3VmOExaSWR3eW1RNmE3cm5IMnFhX2ZIRHRucXZIZ1I?oc=5",
-          "time": "2026-06-22 18:54:52",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "嘉義市地方動態",
       "city": "嘉義市",
       "place": "嘉義市政府",
@@ -674,22 +555,99 @@
       "comments": []
     },
     {
-      "title": "台中狼師事件",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "yellow",
-      "news_count": 1,
+      "title": "嘉義縣地方動態",
+      "city": "嘉義縣",
+      "place": "嘉義縣政府",
+      "level": "green",
+      "news_count": 12,
       "comment_count": 0,
-      "negativity_pct": 100,
+      "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 4,
+      "urgency_score": 12,
       "news_articles": [
         {
-          "title": "「玩玩我身體就丟了」國中妹哭被騙第一次 台中渣男3度愛愛後秒提分手挨告性侵",
-          "url": "https://www.mirrormedia.mg/story/20260623edi028",
-          "time": "2026-06-23 17:07:00",
-          "publisher": "鏡週刊",
-          "severity": "red"
+          "title": "嘉義縣毒品危害防制交流研討會，跨區強化防制體系",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XX3p1Y3ZBQU9wclBXd0pDQmpGSHhQZERra0ktRVlhaE45NXctMGduSkNYM25MTkowU2d2UXFXbF92UW9iYks2cHBqNzZNRm5qTkNNVXNqSFZYZC1FdXhsVWpvd25fOEJSUk9Z?oc=5",
+          "time": "2026-06-23 17:10:31",
+          "publisher": "Google News→高雄市淡江大學校友會",
+          "severity": "yellow"
+        },
+        {
+          "title": "嘉義縣深耕食育成果亮眼 蟬連五星城市六連霸",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fV2hJUWhOa1o5OHdGcWJ5VjFoRlRnMDd1UU9teTZTQzBtQnZwblZWbUlzc0REZ3NtR0JESndiUkN4cWhiUmM4czdTRnRsRkZ1TWc?oc=5",
+          "time": "2026-06-23 16:24:53",
+          "publisher": "Google News→中華新聞雲／中華日報",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣蟬連食育力五星城市6連霸！深耕食安成果亮眼",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yTF9zVlRVUl9rZ3Z2U3ZvSnFYUWRPYW1rVWVycjdYMkx2WDFTaEM4X1NMOERoa3g3VFlvM3lUWGxLZjhtR3ZlZnFaNzcyeW9tUjRyc2lB?oc=5",
+          "time": "2026-06-23 15:53:30",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣新住民慶端午：透過美食與花藝，共創多元共融生活圈",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=255381",
+          "time": "2026-06-23 15:43:14",
+          "publisher": "嘉義縣政府",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣響應全民愛滋篩檢日，號召年輕族群為愛篩檢",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=255380",
+          "time": "2026-06-23 15:43:14",
+          "publisher": "嘉義縣政府",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣食育力五星城市六連霸 食安衛生全國第2名",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hRDJldDR3cUhsR2FpUEUtMDhFSm9xWXlIeXRvYi1HeWtPRVZTVVF0TUFBUEdjYUVDamw5eTUyX3N5YktSRWpDUlJiVGg?oc=5",
+          "time": "2026-06-23 14:41:55",
+          "publisher": "Google News→樂上新聞網",
+          "severity": null
+        },
+        {
+          "title": "翻轉愛滋迷思！嘉義縣衛生局號召年輕族群為愛篩檢",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PZFhvUk9ZNjJzWDNaMDk5RVE0UmZySVRvLU5qak80UHp4UkpLZlBjWUpDLTJjbldtc2hHRjJvOHhLMUg5YjVScGZXUFRPaDMwczloeUhqWVEzbDVtcFhvZTRBSVrSAWpBVV95cUxNVHF4b0JKdmk3dE9kSFJ4UWdRV285c0FMSWcwV2FWWXUtQ3dzX2xnVkZtcVJkSHU0ay12X1cyX1hmaG94MXdMZEdmdTh1dGZlWFE1SGZZNzRITGgxUjlCcU95S3Y4eGJhdGdR?oc=5",
+          "time": "2026-06-23 14:40:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣蟬連食育力五星城市六連霸",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTFB4cEJSTFhGaFVoYjhQczFqMXFOWkgxZllPSXdGT1RsNmNGZGg5a1lydGZ6bzRpV004R3AyNkpDQ2g0NGZja3R5RmdjMUgzY0paVzg2ckphNEFRSXJoczZTUnJTRzJjWGQ1bzNzOVg3VkNzTHdoSHhQdDg3b2otZmNYbFlSQlNqUU9OQnBGWGVtNU5zc09rSlV3?oc=5",
+          "time": "2026-06-23 13:47:18",
+          "publisher": "Google News→idn.com.tw",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣蟬連食育力五星城市六連霸！深耕食安成果亮眼",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hbHlEc0ltV1R0RGFPcElaNEhaNGsyLXc4YVd4R0tKQThhOUhzZk1iMExSS1k2Qi1EYUZoTWNXNDVhRzMzTWZ4NERpYnFoQU9hNGd1Rm9xOTZwc2pLVS1JOW1GNVVTX0xnemxz?oc=5",
+          "time": "2026-06-23 11:21:18",
+          "publisher": "Google News→高雄市淡江大學校友會",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣「無毒嘉園」AI四格漫畫競賽開跑 最高可獲5,000元禮券",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKWlhaY2xhVWVtZW9PZXB6TEc0N19JeWxPckNFY0JPc3RQXzdpN3FnTkl2emJiZjlWZFVIclN3ZVpmbU9Sai1lRTllZEQxMHUtUEl0SExR?oc=5",
+          "time": "2026-06-23 11:21:13",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣大阿里山清香烏龍茶製茶競賽 黃昶升奪冠 - 政府消息新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWnNFZVY4RThjaEJpTlk4RDktdnFMa09FbVp6Q3NLd2g0M29Vam1ZU25uTlNrSURCOFk3MzUtRzFsSEdfMDV6akdYZTViT2QwUFpIY2s2OFJfdVVmck43M0ZBRUEwZGNkRWZQQ2lRbnZUVmE4ajdiRlBWNUdvUk9JcE9JVXo?oc=5",
+          "time": "2026-06-22 18:54:52",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣大阿里山清香烏龍茶製茶競賽 黃昶升奪冠",
+          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNLUZnUHVmN1pxYi1Fam9YV1ZmVGZqZ2FOdWdxU2J2R25HRnR2UEhWYnBhMXpZWkhfTmRqbFYxdXBwVmVyNlRsbFB5Vlk2cWVNWE1OR1M0eGZ5RDZpczNjZEVRWjI2X2UyS2hrODFxOVh6R1lqbjR6N3FPZW4tSGczVmVyanRIRy1Tc3VybTRlSWpPMzRxMlJJVXdvdUR2Z3ZtaWp3cnp6U1g0ZGVCZmRwRlEyaEFIV2xTaTZidGtvdllFMUNUekp3bV9QMDNZUWk1dENVbHdPT2FFWXFZd1duaEdKT3dPc3pDRmdidXBfbzlyS0VpNWJMN2lhb2VTQTBpb0pwUUpCV05XaDRwdi0yYzdOaW5scUtHSGV5b2lzb0tZNDZoR1VITnZTaVdMUHlsZ3VmOExaSWR3eW1RNmE3cm5IMnFhX2ZIRHRucXZIZ1I?oc=5",
+          "time": "2026-06-22 18:54:52",
+          "publisher": "Yahoo新聞",
+          "severity": null
         }
       ],
       "comments": []
@@ -710,6 +668,27 @@
           "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97-%E8%97%89%E7%B5%A6%E7%B4%85%E5%88%A9%E6%80%A7%E4%BE%B5%E8%BA%AB%E9%9A%9C%E5%A5%B3-%E6%83%A1%E7%8B%BC%E5%88%A4%E5%88%91-201000424.html",
           "time": "2026-06-23 04:10:00",
           "publisher": "Yahoo新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台中狼師事件",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "「玩玩我身體就丟了」國中妹哭被騙第一次 台中渣男3度愛愛後秒提分手挨告性侵",
+          "url": "https://www.mirrormedia.mg/story/20260623edi028",
+          "time": "2026-06-23 17:07:00",
+          "publisher": "鏡週刊",
           "severity": "red"
         }
       ],
@@ -877,85 +856,15 @@
       "comments": []
     },
     {
-      "title": "盧秀燕訪美外交",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "yellow",
-      "news_count": 8,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "盧秀燕卸任前「頻頻出訪」 何欣純：背後意圖不言而喻",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iZElQUXRDYXcyZnU2ZThiUzVyeWV5dUFodVg3SE43U19XWl90X2ZsRTdndXFxNm5laGthckUzQmJoN1Nmb3AxcVVPMzNBZm5na0RkZVBYWjlRbTd3eEhERw?oc=5",
-          "time": "2026-06-23 17:40:30",
-          "publisher": "Google News→民視新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "本報專訪美國在台協會（AIT）處長谷立言，谷透露，台灣有發展無人機的產業基礎，他將在7月2日和台中市長盧秀燕共同主持無人機論壇。台中市政府今天證實，7月2日會和AIT及產業公協會在市政府舉辦「2026台中無人機產業與海外商機論壇」，拓展海外市場。",
-          "url": "https://udn.com/news/story/124924/9583450?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-06-23 17:28:18",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "（影）盧秀燕連續出訪歐美何欣純：市民更關心生活有沒有照顧好| 政治",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TMGJWSXljeF93cE1pVTRMenFZU2xDSUsxenZTd3RycU54UjBKWEdoQlJyQ3FVajlFdy00dmdnc2ExSDYxLUQzWlRoOE9sVGx5Sk1ORTJ2WWptcDg?oc=5",
-          "time": "2026-06-23 17:00:56",
-          "publisher": "Google News→Newtalk新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "（影）盧秀燕連續出訪歐美 何欣純：市民更關心生活有沒有照顧好",
-          "url": "https://newtalk.tw/news/view/2026-06-23/1042906",
-          "time": "2026-06-23 17:00:56",
-          "publisher": "新頭殼",
-          "severity": "yellow"
-        },
-        {
-          "title": "盧秀燕頻出訪「畢業旅行」 何欣純：大家都知道要幹嘛",
-          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNdjdZVGtLY3Q2NWJPWFRyVVFianV2OTFZOUVGNDNkdVhTWjBpeGlfSk5ucUwzT3BBSktPZXN3Smd5WmVqcElXSGNjcURpM1l6S1V1VGR1dmFQcjNHajRkNWZEMHE2TUstSml6V042aWkwWEI1RUpiMXRKVHhrUUNBNGxBLXVLa3F4cjlJZFpzYkp3cl94anlmY2RhemRndUxtQkFGR0lESGNKVkNSVDllUVpTaWctQ1Iwb1FQTjdic1ZkVTVhanNyclM4Mk1Fbm9YYkFUdVA4VE9ib01qLVdFUlZiVXROdng2OF9yNUo0cmhxdFFHY3lubV8zQmt4Q2pwdnRMcUtzaGlTV1F0cFk2UEJ5NzBCTHZVQjMxWVkzRUFRejhkYXdGSWJyckY4NlRSMVd3bkh1TVozWVZnNWNFRDYtSGlmekNMMFhfZTVDNmMwOHc?oc=5",
-          "time": "2026-06-23 11:36:17",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "盧秀燕頻出訪「畢業旅行」 何欣純：大家都知道要幹嘛",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PWU42QW1rdGZraFNiR3NZeDc3OGtna3FMVFJQUk1xenU0SmNCd1NwS2JXUWVkSm5vMG5MVlNWNVE2QmFRc1hDNGw2Wi1vMmtoY0tZbDhBNTdMbWFZU1ZXZVhQbi1vZEpOZlHSAW9BVV95cUxOcWZWSm9XT3BBY3RWUUtvcHlEMFV2cTNRRGtrUE5JU2Uxc1BWSUczSDlBa256aDRJTGFseXVXN3o3bWt0SG5UYkRwVDRETFh6SjliMjdZZTJ3M0dTV25FdEk1VE9KWTJnQ2pNVGlRRUU?oc=5",
-          "time": "2026-06-23 11:16:47",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "盧秀燕頻出訪「畢業旅行」 何欣純：大家都知道要幹嘛",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5480879",
-          "time": "2026-06-23 11:16:47",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "《#亞股 全面大漲!#台積電 看到2500!#韓國瑜 出發訪美!#鄭麗文 稱要提無人機法案#國民黨 版本!》【年代向錢看】2026.06.22  #美國 #盧秀燕 #蔣萬安",
-          "url": "https://www.youtube.com/watch?v=EvLnMbOiYkg",
-          "time": "2026-06-22 21:00:37",
-          "publisher": null,
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "新竹縣地方動態",
       "city": "新竹縣",
       "place": "新竹縣政府",
       "level": "yellow",
-      "news_count": 8,
+      "news_count": 7,
       "comment_count": 0,
-      "negativity_pct": 12,
+      "negativity_pct": 14,
       "is_urgent": false,
-      "urgency_score": 11,
+      "urgency_score": 10,
       "news_articles": [
         {
           "title": "2026國慶煙火確定落腳新竹縣 楊文科坦言選址具挑戰",
@@ -1005,12 +914,82 @@
           "time": "2026-06-22 18:18:23",
           "publisher": "Google News→LINE TODAY",
           "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "盧秀燕訪美外交",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "yellow",
+      "news_count": 9,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 9,
+      "news_articles": [
+        {
+          "title": "盧秀燕卸任前「頻頻出訪」 何欣純：背後意圖不言而喻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iZElQUXRDYXcyZnU2ZThiUzVyeWV5dUFodVg3SE43U19XWl90X2ZsRTdndXFxNm5laGthckUzQmJoN1Nmb3AxcVVPMzNBZm5na0RkZVBYWjlRbTd3eEhERw?oc=5",
+          "time": "2026-06-23 17:40:30",
+          "publisher": "Google News→民視新聞網",
+          "severity": "yellow"
         },
         {
-          "title": "皮皮獅藝遊新竹縣大冒險6/26開跑 任務集章抽iPhone 17 Pro",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMb2wzekI3VHI1ZHJUeV9PaUJYaUVfZklHYXYyWTE4TDB5dERUTnNlUzl5Rzcxb2pDRllrS211SWxOc1R5S0ZmSXNjblNMLUtG?oc=5",
-          "time": "2026-06-22 18:16:21",
-          "publisher": "Google News→客新聞 HakkaNews",
+          "title": "本報專訪美國在台協會（AIT）處長谷立言，谷透露，台灣有發展無人機的產業基礎，他將在7月2日和台中市長盧秀燕共同主持無人機論壇。台中市政府今天證實，7月2日會和AIT及產業公協會在市政府舉辦「2026台中無人機產業與海外商機論壇」，拓展海外市場。",
+          "url": "https://udn.com/news/story/124924/9583450?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-06-23 17:28:18",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "（影）盧秀燕連續出訪歐美何欣純：市民更關心生活有沒有照顧好| 政治",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TMGJWSXljeF93cE1pVTRMenFZU2xDSUsxenZTd3RycU54UjBKWEdoQlJyQ3FVajlFdy00dmdnc2ExSDYxLUQzWlRoOE9sVGx5Sk1ORTJ2WWptcDg?oc=5",
+          "time": "2026-06-23 17:00:56",
+          "publisher": "Google News→Newtalk新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "（影）盧秀燕連續出訪歐美 何欣純：市民更關心生活有沒有照顧好",
+          "url": "https://newtalk.tw/news/view/2026-06-23/1042906",
+          "time": "2026-06-23 17:00:56",
+          "publisher": "新頭殼",
+          "severity": "yellow"
+        },
+        {
+          "title": "盧秀燕卸任前\"頻頻出訪\" 何欣純:背後意圖不言而喻",
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPVU9QbnBVVG5meF9NTklueGdrNWM3cUFtaWptWXpZNGxXZnlzWmtDaE11Q0xMbTIwVzZCbV95NE1pUk1Vdmx3OVF2RlhTVTVwUF9VekdHMm9EOWtaQ3g5WGZ4QXRnazBRRjhHSTdJU1hQeTNQaDhCMG1pNFA4YjhlYzRHWUVKeHd2MHFVZkdleDBSaHRsT2xRWjR3ZFFCS0R5MkFXcjdWUXdoM0JpOXlPc3FRZFFZRU5XaExGRUthZmdLUmxLcVB3UUFDeVlLWlpFTHMtcXpUX2Q3R3ZDUVFXNXJ1TVdkOXNqUzJraUNTV1B4VnR3dVY4eFcxczNsX0ptODRIalNsNDN0TFdudGdsZ3dNbVBWcWs1WXl5SzFoc0FpYWVKTnhPVFFaRU9EUWpSdFhaZy1PemNfNWFBZ3ZNbzVRLXN1SlZ1b0hsV3JTcklyaFU?oc=5",
+          "time": "2026-06-23 17:00:56",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "盧秀燕頻出訪「畢業旅行」 何欣純：大家都知道要幹嘛",
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNdjdZVGtLY3Q2NWJPWFRyVVFianV2OTFZOUVGNDNkdVhTWjBpeGlfSk5ucUwzT3BBSktPZXN3Smd5WmVqcElXSGNjcURpM1l6S1V1VGR1dmFQcjNHajRkNWZEMHE2TUstSml6V042aWkwWEI1RUpiMXRKVHhrUUNBNGxBLXVLa3F4cjlJZFpzYkp3cl94anlmY2RhemRndUxtQkFGR0lESGNKVkNSVDllUVpTaWctQ1Iwb1FQTjdic1ZkVTVhanNyclM4Mk1Fbm9YYkFUdVA4VE9ib01qLVdFUlZiVXROdng2OF9yNUo0cmhxdFFHY3lubV8zQmt4Q2pwdnRMcUtzaGlTV1F0cFk2UEJ5NzBCTHZVQjMxWVkzRUFRejhkYXdGSWJyckY4NlRSMVd3bkh1TVozWVZnNWNFRDYtSGlmekNMMFhfZTVDNmMwOHc?oc=5",
+          "time": "2026-06-23 11:36:17",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "盧秀燕頻出訪「畢業旅行」 何欣純：大家都知道要幹嘛",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PWU42QW1rdGZraFNiR3NZeDc3OGtna3FMVFJQUk1xenU0SmNCd1NwS2JXUWVkSm5vMG5MVlNWNVE2QmFRc1hDNGw2Wi1vMmtoY0tZbDhBNTdMbWFZU1ZXZVhQbi1vZEpOZlHSAW9BVV95cUxOcWZWSm9XT3BBY3RWUUtvcHlEMFV2cTNRRGtrUE5JU2Uxc1BWSUczSDlBa256aDRJTGFseXVXN3o3bWt0SG5UYkRwVDRETFh6SjliMjdZZTJ3M0dTV25FdEk1VE9KWTJnQ2pNVGlRRUU?oc=5",
+          "time": "2026-06-23 11:16:47",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "盧秀燕頻出訪「畢業旅行」 何欣純：大家都知道要幹嘛",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5480879",
+          "time": "2026-06-23 11:16:47",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "《#亞股 全面大漲!#台積電 看到2500!#韓國瑜 出發訪美!#鄭麗文 稱要提無人機法案#國民黨 版本!》【年代向錢看】2026.06.22  #美國 #盧秀燕 #蔣萬安",
+          "url": "https://www.youtube.com/watch?v=EvLnMbOiYkg",
+          "time": "2026-06-22 21:00:37",
+          "publisher": null,
           "severity": null
         }
       ],
@@ -1889,12 +1868,19 @@
       "city": "台中",
       "place": "台中市北屯區",
       "level": "yellow",
-      "news_count": 61,
+      "news_count": 62,
       "comment_count": 3,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 72,
+      "urgency_score": 73,
       "news_articles": [
+        {
+          "title": "卸任倒數釋利多 盧秀燕：老卡搭小黃補助100元",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xd0Z3emxtdFlJQU81X1IzMnVXUHRpM21lUzhiMXdpaUdYODd0YzNKUXZUMFJOenYwSmltUGc4d3Z2VVk3eUZISVNSbVNYd1BoSXhvUzdTVGJZWDcwbV9Ea9IBZkFVX3lxTE9EMnYyZVVKdkpSaW9BZlVZc005NHlwY1FGNkNYY3dkdWN5b2o1cTVtUjFYM2NyamRYLW9nOWJSenRmVDRGdmVrSlZrc1pBQ3JxaGh1aHJkYjluRDluS3gyMmFaRTVVQQ?oc=5",
+          "time": "2026-06-23 17:36:00",
+          "publisher": "Google News→大纪元",
+          "severity": null
+        },
         {
           "title": "何欣純端青年政見牛肉 指「盧秀燕下一步想法全國人民都知道」",
           "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNWjhPeGxMRnlFZFMxbVdmaFh0NHpjSGhETkdWU2ZhQmlyRHlYWHlVaGMzN2ItZ0ZWT050djVtVGZlM1k5eW9MWl8yME8zd0NCcXV2S1J3NlE1RmNIWUktUWF3M0ZLYVVlZmpSNGJJMzkyOEY4QlJsZnQ1eUFVVGJoMHlQTmtWcU41MzdRM1FvNXM3TFQwTmp0RDBHRjQxLTM1WWZXWTBJMGpDLS1aWEpLRk9EMGJSY3hzbG5FeTlYRzBWeUNEcDhiZ3RUQzc3bkhwWllhZUNxaDByQm9FMjEtbjFzVGgtZXB6elRSYTVmYlpGTGpNdVpqNzhUYmFTSEVMeTN1SWhsUVVqaWxwMThjQVZXb1dFbGlocG9NQzYxczk5eDRKQUFTRGgwYXNmMjJfdHdPQ0U3ODROWmJCY1d6XzV2VWYwQ0VRRGhKZFk3a293eXZNOGZMbEhfT214YUsxdTBGUkQxMGFyUHAxRTg1Wl9zeEN4RGlvWDdwbW1hS1IzT3c?oc=5",
@@ -2351,34 +2337,6 @@
       ]
     },
     {
-      "title": "苗栗弊案爭議",
-      "city": "苗栗",
-      "place": "苗栗縣政府",
-      "level": "red",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "60萬賭債喬不攏　苗栗南庄傳槍響5嫌落網收押",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-06-22/2384884.html",
-          "time": "2026-06-22 22:56:57",
-          "publisher": "壹電視",
-          "severity": "red"
-        },
-        {
-          "title": "60萬賭債喬不攏 苗栗南庄傳槍響5嫌落網收押",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TdGxoZFItZ0ttY1lEaHJlSDNQWV9ianhLLXhsRTJVbzZhbUh3V2hMYm1KRlRiRlBIODRjLXJseDJhYngtSk40dldtcmpIY0RZQ1MyMGFnN29EeG1LNGdtd2s1R21BeDVNb0VEeHhoWDhUV3dfemtkQldGdHRBV0k?oc=5",
-          "time": "2026-06-22 22:54:20",
-          "publisher": "Google News→壹電視",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台南弊案爭議",
       "city": "台南",
       "place": "台南市政府",
@@ -2401,6 +2359,34 @@
           "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97-%E8%97%89%E7%B5%A6%E7%B4%85%E5%88%A9%E6%80%A7%E4%BE%B5%E8%BA%AB%E9%9A%9C%E5%A5%B3-%E6%83%A1%E7%8B%BC%E5%88%A4%E5%88%91-201000424.html",
           "time": "2026-06-23 04:10:00",
           "publisher": "Yahoo新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "苗栗弊案爭議",
+      "city": "苗栗",
+      "place": "苗栗縣政府",
+      "level": "red",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "60萬賭債喬不攏　苗栗南庄傳槍響5嫌落網收押",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-06-22/2384884.html",
+          "time": "2026-06-22 22:56:57",
+          "publisher": "壹電視",
+          "severity": "red"
+        },
+        {
+          "title": "60萬賭債喬不攏 苗栗南庄傳槍響5嫌落網收押",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TdGxoZFItZ0ttY1lEaHJlSDNQWV9ianhLLXhsRTJVbzZhbUh3V2hMYm1KRlRiRlBIODRjLXJseDJhYngtSk40dldtcmpIY0RZQ1MyMGFnN29EeG1LNGdtd2s1R21BeDVNb0VEeHhoWDhUV3dfemtkQldGdHRBV0k?oc=5",
+          "time": "2026-06-22 22:54:20",
+          "publisher": "Google News→壹電視",
           "severity": "red"
         }
       ],
@@ -3307,11 +3293,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "red",
-      "news_count": 35,
+      "news_count": 34,
       "comment_count": 0,
       "negativity_pct": 9,
       "is_urgent": false,
-      "urgency_score": 44,
+      "urgency_score": 43,
       "news_articles": [
         {
           "title": "0608豪雨重創農作 屏東縣西瓜、苦瓜納入天然災害現金救助",
@@ -3549,13 +3535,6 @@
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qN1gwWVZ1M1BRTHE3cF9aTUs1eFJvQk1oS1FNOFN6bXhWVE82TVhIbHZvM1RDUkhkYkxnR2x1TnNGN2NDMHJraU4xS3pJdGYyYXhKLWM3bW9oZ2c?oc=5",
           "time": "2026-06-22 18:52:38",
           "publisher": "Google News→Newtalk新聞",
-          "severity": null
-        },
-        {
-          "title": "屏東5100名幼兒畢業生 揹起火箭書包、歡樂啟航小學新生活",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mQU9PT2xlMEdEZkNqcDFvOHV4bUZybTN6TEprR05zTGJuUzg4Tk1ldHNnbHl3c2h1TkVxcW9CeGZCdVZ5QnNxSEFzYmxTbFVi?oc=5",
-          "time": "2026-06-22 18:17:28",
-          "publisher": "Google News→客新聞 HakkaNews",
           "severity": null
         }
       ],
@@ -4462,11 +4441,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 87,
+      "news_count": 86,
       "comment_count": 0,
       "negativity_pct": 8,
       "is_urgent": false,
-      "urgency_score": 108,
+      "urgency_score": 107,
       "news_articles": [
         {
           "title": "國民黨新北市長參選人李四川今午至新北電競基地參訪時指出，新北市是台灣各地第一個成立公辦電競基地，除了年輕人外很多銀髮族的長輩也很喜歡電競運動。若年底當選市長，會再升級銀髮電競並找第二個電競基地，讓銀髮族願意走出來打電競。",
@@ -5069,13 +5048,6 @@
           "time": "2026-06-22 18:45:00",
           "publisher": "風傳媒",
           "severity": null
-        },
-        {
-          "title": "台灣新住民黨新北市黨部成立大會圓滿成功 各界貴賓齊聚見證新住民力量崛起",
-          "url": "https://more-news.tw/648367/",
-          "time": "2026-06-22 18:11:06",
-          "publisher": "墨新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -5085,11 +5057,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 106,
+      "news_count": 105,
       "comment_count": 0,
-      "negativity_pct": 6,
+      "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 124,
+      "urgency_score": 120,
       "news_articles": [
         {
           "title": "花蓮新堰塞湖恐有溢流風險 交通部關注萬里溪橋",
@@ -5825,13 +5797,6 @@
           "time": "2026-06-22 18:36:34",
           "publisher": "Google News→UDN",
           "severity": "yellow"
-        },
-        {
-          "title": "花蓮又見堰塞湖！中央稱無立即危險 傅崐萁急喊：拿出最高規格防災",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41aDJmRVh2b3JvMDZxaTEyQVNBRFdJdld0cVZmOUdUeVllOW40cHRzODlyTmowZ0pwTzdJWnEwZmtrLWJfWTVoc3ZCeUt6RlM4MjNxblFuVGpYS1RHNVHSAWhBVV95cUxNWU1jd1JBNEtXU1p6eHctNEFnRGtFYVozVFljTGk0MFl4SXNaU1pPdVFMOWUwbTZLZEQ4UXhrRUZoUHpPb3RCVEZaWHNMNV81bklERFhrU3l5TURyWTBfZldjNWRTdEpBbg?oc=5",
-          "time": "2026-06-22 18:16:00",
-          "publisher": "ETtoday",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -5841,11 +5806,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 127,
+      "news_count": 126,
       "comment_count": 0,
       "negativity_pct": 17,
       "is_urgent": false,
-      "urgency_score": 193,
+      "urgency_score": 189,
       "news_articles": [
         {
           "title": "桃園女駕駛毒駕撞2車、衝撞店家！ 車內還載3歲女童",
@@ -6728,13 +6693,6 @@
           "time": "2026-06-22 18:33:00",
           "publisher": "ETtoday",
           "severity": null
-        },
-        {
-          "title": "嚴防登革熱與鼠患 桃園動員逾2.6萬志工巡檢社區積水容器",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRV9uN0x6cmZOdktnZTJKWUJtVmNZclh0WjMydXJRXzFRcDJ4dUVWemhmRk1HalUwaHVvZzZDZkpkV0xyejFrNFNieWlaRlFxckRmWXBCa1pTVTRzZ3fSAWhBVV95cUxPeTMzRUlYZDBzd2REYVVBYnUtLTlReXNHOTJBRUQxV015QTh2TjZCTTJMNlgwMEU4ZU1VTjlrMDZpcnBzdXc1Zy1jbUdZeXduS1FfSUZMdVAtUU53TTVHYmZsZ2Nnc255Zw?oc=5",
-          "time": "2026-06-22 18:14:00",
-          "publisher": "ETtoday",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -6750,6 +6708,13 @@
       "is_urgent": false,
       "urgency_score": 147,
       "news_articles": [
+        {
+          "title": "「柯志恩真的會贏！」他對比高雄市長4年前民調：賴瑞隆不只吃不到陳其邁紅利",
+          "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQU2txY0hhU2xqVU5kZURhZFJla1VxTFdFMkhzTjhyNnN3Z2Q0d2RhaW9rcjNScm40YnZWNnJSUHpzMC14R1p0X1dGa1ZIZ2RHQkE2REhIUHBPb3UybHdUSTQ5bEtrRGpvczl3U1JrNmktQnhZRFpPcEtJRnp5dmVPMXkwVnRyb21MY2pPSUxkNVdnOUF5dTFtSk9lMFFieHl1TUMxSHJqOVVfUURBdmpGTDZrMnJzaXZETUJnWGtSNURxNnd3RWVkZFVhMzluM3pQTW5OWWF5Smd2YW12YUhjQlA3NXJaYnV3Z3JxZVRTcVU0N1B4eUNJZXpKY1Rna1A4SnhVWXBnMGotNENfNWdETDA4a3lPcTNCVUxYQWMtSEQwWFhwYVRvSmJtejkyX3VseVBlTk9yWWVDcFFhaGJOUXBPcGRKNXhHUGR6MFEwTlQ0UTdIUkY1RjFRUVVSTk1iNkliemhwSnhzdDhzWmR2OWZ0Y2JydEdJMGFwaUlPemxHWW5JdG56SDJlZnluVW9qdkxYajNJMVdKRVdfM1lOTWdkWFBHTmdlZUQzV0NJcUZyY1diWDA2ZFQ2UnR5MjE0OUlXNXBFSHJKSmc?oc=5",
+          "time": "2026-06-23 17:58:27",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
         {
           "title": "歐洲復興開發銀行綠色城市年會 林欽榮分享高雄轉型經驗",
           "url": "https://www.ctee.com.tw/news/20260623701412-430503",
@@ -7666,13 +7631,6 @@
           "time": "2026-06-22 18:20:00",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "高雄市榮民服務處頒發感謝狀 表彰熱心協助榮民",
-          "url": "https://more-news.tw/648374/",
-          "time": "2026-06-22 18:15:26",
-          "publisher": "墨新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -7682,12 +7640,47 @@
       "city": "台中",
       "place": "台中市北屯區",
       "level": "red",
-      "news_count": 141,
+      "news_count": 144,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 168,
+      "urgency_score": 171,
       "news_articles": [
+        {
+          "title": "OHCA急救成功率突破41％ 盧秀燕率中市局處首長CPR實作訓練",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MSlVMV255c0dTWldYZFZaRy1MNC1DdTMteTBGTENWZlhCM0JQOXBuWFFmUXhuMWxBZVRlUTJVcXU1U2JiVzEydVZPODlSNXh2MVE?oc=5",
+          "time": "2026-06-23 17:55:19",
+          "publisher": "Google News→中華新聞雲／中華日報",
+          "severity": null
+        },
+        {
+          "title": "中市麻辣鍋驚見蜘蛛 食安處將重罰 | 中華日報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yU0MyYmp2T3g2UGpwY3p3WUNHMFJqMlpMZmZGbkR1akRuSVNmV2hPSTVyQzFLc1RlQW9mRXR2cEV4MnUyUDRCRG1mS3pZQWprM1VLSGJB?oc=5",
+          "time": "2026-06-23 17:50:06",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "AIT處長提台中無人機合作 中市府：以四大優勢布局下世代戰略產業",
+          "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxOMExNc0drY2VLZDBGNUdyV1RZZ0VvUlh4TVAzckphb0RaYnU5ckNBYy1TYV8xSG9uLVRveGtrY2RDZE9JZUFxZG5EUURBaHg0ZkNDN3kxdmd1MlNRQUdMUFZiVXloZU9ycHpEaG1fdWVRTEFOdklBaFo2ZzNFb2w5TDBrOW9JSmJyVXpKQ1lKYXlKSG9hbVY5ZXoxajlPSFR4UTlXbWRudllSQmtyeE8yUmJkNXdvNkpsMnViVmFFaW94M0lTaU1kZXBhVDBWVmZGTmtSaGppU1puQUdieE1EdHBYaVpIRDhHZ1IzQlRrWHVacmhlS2NOWHk5aXZGZnp0amU4UHlHdEhOYVFIWmRJc2dvQlRoSVRsNFY4V0NlX25UVUZuajNOR1Q2aFhBU2Y5RUp6ZGQ2ZDhJREg1MUVhOTg2blpSQjZqaEh0MWtQLVN2aXY2aXFwaS0yaUlwN1JiVGxSMVBnbWdVN05WYnNBSjU2dmZ5U0padTBEUElaa0FzOXhFZGdjaTNRVFZNNVlwcU55VU9iSnVWT1FnY0E?oc=5",
+          "time": "2026-06-23 17:49:15",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "豪雨重創和平區供水系統中市啟動三階段改善 - 政府消息新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWjZuVWZSelZkaWllZUFuVWJHcjl0aFBjYU1FVDlaOVVFSjh6bnZmX2FoMHE5cUI3UW1lOHZsYkpUamV1NmNwOWpHcjlKSHJLSkYwUUNXZnNXVTJRZzB6RnFHd1JEU2JTMWhHbUxhcVdXR05wWGZoQnFUcUNkd3JBaXZkOXJyRmNJMlE?oc=5",
+          "time": "2026-06-23 17:48:27",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "OHCA急救成功率突破41％ 盧秀燕率中市局處首長CPR實作訓練",
+          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPald6eEFwWWpJUXg2QzdqazRqUjQwekxnSWs5Z0dWLUswZGFCdmRzTmVDWFlnX1lYX3ZNdEZfY0p0ZmtIWjRBOGRKM2xIWDl5bjZLN19FeU9YNWU4eDlBLW1HdkN1bmJlOWlBX1RRdXItZWREcVFUR2I2LVpXVF9uRG8ydXlpTGlkdU9rZGVWV1djSEdHOEM5ZUQyVTJqMWpkX1lVaUM5dWdUajNPRVZvUzhSa1EtT2hQMDJuSEd4REhzWmZyRmMyX0xoWTJkMjduOHBkODZBWmZWblhEM3JETWRNUFpKT3FfbE1LQzM1QXVuZWFkOHpTbHN5MUM3ekZYMFRPODRCQlI3cWZHMmg1T2p3ZXBIQ2F6VXZxdzF1YzhoUmgxX0QwSHFuX3BWU1BtWHVHN3JFMVdOQW1hNjAyV0NYZGtTdkpkWEJINDJZX0toR2d2ZFhrSkx2QkM?oc=5",
+          "time": "2026-06-23 17:41:33",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
         {
           "title": "中市消防局辦CPR及AED實作訓練 盧秀燕與局處首長挑戰急救認證",
           "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQRGdxN3JSd3lONXppQXphYUhONnp1dS1DRlUtLUtDbDUxano1SnFGSEdxaGFHd1BhQVZHTjBSb1JXeEhoNzdMQjlZZ3FYaWJxZjB1WVZ5REJEUV8tdzFVU3g1eDRDQy1lOXNZRWVuUmNIRVI3Y1ZkRnhmU1JPX1U4TnZiRjZkRjdlNDBzXzNVSlNoSnN5UE5hN0dLSnNtQU0wM0tNSDZ5V0ZVTmNWX1BESU5wUHZjbG9Yd3BmNjJuU1drQ0E1QzlpbmpyQ3M0el9FVWtmay1qWUFnSVZrZmVadUpYY1REbVNNZE5ReTcxdGJxOXUwdUpDUGNfZGhGOEFTOUdDWE85a1dVRm13ODRpeG1sTnpPdTBmbWtZUUIxdFJIclA0SDBuYnJOekN5SGpwVHFUa0hidjB1MnBra2xFQVlxTmZVYU94YXBxX3BCYnd5bzZyN0RRWHpBRUwyeVlxcmRoeXZUYXloWkF5NjgzWnh4cTdlUUNQZGdvNk1ZSjFKREUzS2d5QQ?oc=5",
@@ -8660,20 +8653,6 @@
           "time": "2026-06-22 18:23:00",
           "publisher": "TVBS",
           "severity": "yellow"
-        },
-        {
-          "title": "中市交通局、教育局推動道安 劇團孩子校園演繹交安",
-          "url": "https://www.storm.mg/article/11143449",
-          "time": "2026-06-22 18:17:00",
-          "publisher": "風傳媒",
-          "severity": null
-        },
-        {
-          "title": "中市外埔區清潔隊打造「榕樹下閱讀角」 綠意與書香交織療癒身心",
-          "url": "https://www.storm.mg/article/11143447",
-          "time": "2026-06-22 18:14:00",
-          "publisher": "風傳媒",
-          "severity": null
         }
       ],
       "comments": []
@@ -8689,6 +8668,13 @@
       "is_urgent": false,
       "urgency_score": 233,
       "news_articles": [
+        {
+          "title": "台北天價遮陽傘！簡舒培爆「開口契約」讓預算暴增：為幫蔣萬安衝政績",
+          "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPMm9FZWdrc3lRN1haMXVSdXRHX1lmbV9LMDJLNlotdHp3eEtxb0FUeUQ4bXRMVlRuTVZ0SnR5ODZwNmVOWGdIcWpKWkhyQlNGb0xlVFktTWo5WkVZelRrcEktNEFIbi1ydjVLRHFmY2RKVWdZX19tMmVKa0tfWkRNV2JDbWp2TnZuc19lcGE1NTB2eUZ1dGNmQkFjTHFUeTFsMzRtUzhRTVJaejBlSUxFMm5PRDRhU19tQWNVczdPX2pVdnpWVjJiZW96eFlpTUZPdG1IZHViN2I4Sm12VXFhWkFTWkxSc0J0SUFURklONVNXLVlyM1BsZzNyYkpiZXJrMl9aOFZ4WmNCMnNxMVJTR0xxUHNJVUJ4NzRnZ09lYkF4a3lFazZRNjlvZ3dSSkV6RTFvN2RObDNheE51bUFTQkJmT2wtYXNQNENPaEtjUVBWdGYyTUVBQy12R2ViSTVvV0ZrdjJBOEh1QUllZFFRM2xwdnpoT2lBS0gxRTJrRlk2ZkN2UzJDRlFSZ0NsVlFTemJ0bWZYaHN0d2ZLeFB2SE4yUWhnWkdL?oc=5",
+          "time": "2026-06-23 18:02:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
         {
           "title": "三圓建設：台北之星持續去化 配合市場適度讓利",
           "url": "https://news.cts.com.tw/cna/money/202606/202606233047014.html",
@@ -10018,13 +10004,6 @@
           "time": "2026-06-22 18:18:23",
           "publisher": "Google News→LINE TODAY",
           "severity": "yellow"
-        },
-        {
-          "title": "台灣新住民黨新北市黨部成立大會圓滿成功 各界貴賓齊聚見證新住民力量崛起",
-          "url": "https://more-news.tw/648367/",
-          "time": "2026-06-22 18:11:06",
-          "publisher": "墨新聞",
-          "severity": null
         }
       ],
       "comments": []
