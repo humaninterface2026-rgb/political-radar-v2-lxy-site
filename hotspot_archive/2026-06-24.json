@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "snapshot_at": "2026-06-24T01:21:46.305479+00:00",
+  "snapshot_at": "2026-06-24T01:22:01.309747+00:00",
   "hotspots": [
     {
       "title": "捷運藍線爭議",
@@ -46,27 +46,6 @@
       "comments": []
     },
     {
-      "title": "花蓮火災事件",
-      "city": "花蓮",
-      "place": "花蓮縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "花蓮縣環保消防兩局聯合訪視盤點資源循環場域安全、降低火災風險",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1CRGwybmNMaW1CVkxJTGw0QWJlZGFqcXRfT0dsaUhheEZqSTFBSUw2bWJQRndTUFl1RFRYZ25ZLWxTU1djTWc?oc=5",
-          "time": "2026-06-23 22:43:28",
-          "publisher": "Google News→台灣新聞雲報",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "苗栗火災事件",
       "city": "苗栗",
       "place": "苗栗縣政府",
@@ -82,6 +61,27 @@
           "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=967848",
           "time": "2026-06-24 00:38:06",
           "publisher": "苗栗縣政府",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "花蓮火災事件",
+      "city": "花蓮",
+      "place": "花蓮縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "花蓮縣環保消防兩局聯合訪視盤點資源循環場域安全、降低火災風險",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1CRGwybmNMaW1CVkxJTGw0QWJlZGFqcXRfT0dsaUhheEZqSTFBSUw2bWJQRndTUFl1RFRYZ25ZLWxTU1djTWc?oc=5",
+          "time": "2026-06-23 22:43:28",
+          "publisher": "Google News→台灣新聞雲報",
           "severity": null
         }
       ],
@@ -130,48 +130,6 @@
       "comments": []
     },
     {
-      "title": "嘉義市詐騙案",
-      "city": "嘉義市",
-      "place": "嘉義市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "嘉義市全國首創智能櫃員機申辦「地籍異動即時通」快速防範不動產詐騙",
-          "url": "https://estate.ltn.com.tw/article/28243",
-          "time": "2026-06-24 07:48:00",
-          "publisher": "自由時報",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "新竹市詐騙案",
-      "city": "新竹市",
-      "place": "新竹市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "尋獲迷途學童助返家 竹市警二分局攔阻愛情投資詐騙守住35萬餘元",
-          "url": "https://focus.586.com.tw/2026/06/23/p392523/",
-          "time": "2026-06-23 17:48:13",
-          "publisher": "焦點時報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "屏東詐騙案",
       "city": "屏東",
       "place": "屏東縣政府",
@@ -193,9 +151,9 @@
       "comments": []
     },
     {
-      "title": "台北詐騙案",
-      "city": "台北",
-      "place": "台北市政府",
+      "title": "新竹市詐騙案",
+      "city": "新竹市",
+      "place": "新竹市政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -204,10 +162,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "林承緯打造「AI打詐系統」下架3萬則詐騙廣告 蔣萬安連頒兩獎",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rblNXYmJSeTdOOGNUanlJVzZMV0pzckdPQlZNRFplZXZnV2xWSG1WV0V2RTRhS2Utcl91OS1YdEkyZmsxUEhHUjQ0dUhGbklX0gFWQVVfeXFMUGZ2eEY3UXVkeFZyazg5VDBaU0U3WXpKamV5RU9PX2hoR1dhWUNlX3dYWkIwOXh1YUlXcEVGUF9WYmZNWHVsNWM1WUdzU2o0MWk1Um9uckE?oc=5",
-          "time": "2026-06-23 18:33:38",
-          "publisher": "Google News→UDN",
+          "title": "尋獲迷途學童助返家 竹市警二分局攔阻愛情投資詐騙守住35萬餘元",
+          "url": "https://focus.586.com.tw/2026/06/23/p392523/",
+          "time": "2026-06-23 17:48:13",
+          "publisher": "焦點時報",
           "severity": "yellow"
         }
       ],
@@ -235,6 +193,27 @@
       "comments": []
     },
     {
+      "title": "台北詐騙案",
+      "city": "台北",
+      "place": "台北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "林承緯打造「AI打詐系統」下架3萬則詐騙廣告 蔣萬安連頒兩獎",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rblNXYmJSeTdOOGNUanlJVzZMV0pzckdPQlZNRFplZXZnV2xWSG1WV0V2RTRhS2Utcl91OS1YdEkyZmsxUEhHUjQ0dUhGbklX0gFWQVVfeXFMUGZ2eEY3UXVkeFZyazg5VDBaU0U3WXpKamV5RU9PX2hoR1dhWUNlX3dYWkIwOXh1YUlXcEVGUF9WYmZNWHVsNWM1WUdzU2o0MWk1Um9uckE?oc=5",
+          "time": "2026-06-23 18:33:38",
+          "publisher": "Google News→UDN",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "桃園詐騙案",
       "city": "桃園",
       "place": "桃園市政府",
@@ -251,6 +230,27 @@
           "time": "2026-06-23 18:30:12",
           "publisher": "Google News→台灣事實查核中心",
           "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "嘉義市詐騙案",
+      "city": "嘉義市",
+      "place": "嘉義市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "嘉義市全國首創智能櫃員機申辦「地籍異動即時通」快速防範不動產詐騙",
+          "url": "https://estate.ltn.com.tw/article/28243",
+          "time": "2026-06-24 07:48:00",
+          "publisher": "自由時報",
+          "severity": null
         }
       ],
       "comments": []
@@ -4132,11 +4132,11 @@
       "city": "彰化",
       "place": "彰化縣政府",
       "level": "red",
-      "news_count": 62,
+      "news_count": 61,
       "comment_count": 0,
       "negativity_pct": 8,
       "is_urgent": false,
-      "urgency_score": 77,
+      "urgency_score": 76,
       "news_articles": [
         {
           "title": "彰化原斗派出所重建動土 打造警政機關新風格",
@@ -4563,13 +4563,6 @@
           "url": "https://tw.news.yahoo.com/%E5%BD%B1-%E9%82%B1%E5%BB%BA%E5%AF%8C%E6%89%B9%E5%BD%B0%E5%8C%96%E9%8C%AF%E5%A4%B1%E5%8F%B0%E7%81%A3%E7%87%88%E6%9C%83-%E5%9C%8B%E6%85%B6%E7%84%B0%E7%81%AB-%E6%89%BF%E8%AB%BE%E7%95%B6%E9%81%B8%E5%BE%8C%E5%85%A8%E5%8A%9B%E7%88%AD%E5%8F%96%E5%9C%8B%E5%AE%B6%E7%B4%9A%E7%9B%9B%E4%BA%8B-101214245.html",
           "time": "2026-06-23 10:12:14",
           "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "彰化癌母拿止痛嗎啡餵小孩！子女不願媽被關 法官給緩刑",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5480686",
-          "time": "2026-06-23 09:21:52",
-          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],

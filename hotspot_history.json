@@ -39140,7 +39140,7 @@
     },
     {
       "date": "2026-06-24",
-      "snapshot_at": "2026-06-24T01:21:46.305479+00:00",
+      "snapshot_at": "2026-06-24T01:22:01.309747+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -39169,20 +39169,6 @@
           ]
         },
         {
-          "title": "花蓮火災事件",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "花蓮縣環保消防兩局聯合訪視盤點資源循環場域安全、降低火災風險"
-          ]
-        },
-        {
           "title": "苗栗火災事件",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -39194,6 +39180,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "強化科學園區火災搶救應變能力　銅鑼分隊辦理列管工廠搶救演練"
+          ]
+        },
+        {
+          "title": "花蓮火災事件",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "花蓮縣環保消防兩局聯合訪視盤點資源循環場域安全、降低火災風險"
           ]
         },
         {
@@ -39225,9 +39225,9 @@
           ]
         },
         {
-          "title": "嘉義市詐騙案",
-          "city": "嘉義市",
-          "place": "嘉義市政府",
+          "title": "屏東詐騙案",
+          "city": "屏東",
+          "place": "屏東縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -39235,7 +39235,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "嘉義市全國首創智能櫃員機申辦「地籍異動即時通」快速防範不動產詐騙"
+            "從道路安全到反詐騙 屏東執行分署法治宣導前進屏東縣隘寮國小"
           ]
         },
         {
@@ -39253,9 +39253,9 @@
           ]
         },
         {
-          "title": "屏東詐騙案",
-          "city": "屏東",
-          "place": "屏東縣政府",
+          "title": "彰化詐騙案",
+          "city": "彰化",
+          "place": "彰化縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -39263,7 +39263,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "從道路安全到反詐騙 屏東執行分署法治宣導前進屏東縣隘寮國小"
+            "彰化郵局攜手彰化榮服處實施金融教育及防詐騙宣導 提升榮民眷金融安全意識"
           ]
         },
         {
@@ -39281,20 +39281,6 @@
           ]
         },
         {
-          "title": "彰化詐騙案",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "彰化郵局攜手彰化榮服處實施金融教育及防詐騙宣導 提升榮民眷金融安全意識"
-          ]
-        },
-        {
           "title": "桃園詐騙案",
           "city": "桃園",
           "place": "桃園市政府",
@@ -39306,6 +39292,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "社群貼文「桃園水蜜桃滯銷便宜團購」是常見詐騙手法"
+          ]
+        },
+        {
+          "title": "嘉義市詐騙案",
+          "city": "嘉義市",
+          "place": "嘉義市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "嘉義市全國首創智能櫃員機申辦「地籍異動即時通」快速防範不動產詐騙"
           ]
         },
         {
@@ -39761,11 +39761,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "red",
-          "news_count": 62,
+          "news_count": 61,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 77,
+          "urgency_score": 76,
           "sample_titles": [
             "彰化原斗派出所重建動土 打造警政機關新風格",
             "彰化基督教醫院榮獲第二屆台灣幸福企業評鑑金獎 打造有制度、更有溫度的幸福職場",
