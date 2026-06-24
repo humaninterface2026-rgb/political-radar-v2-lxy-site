@@ -39140,7 +39140,7 @@
     },
     {
       "date": "2026-06-24",
-      "snapshot_at": "2026-06-24T10:17:28.614882+00:00",
+      "snapshot_at": "2026-06-24T10:20:18.364760+00:00",
       "hotspots": [
         {
           "title": "盧秀燕訪美外交",
@@ -39171,6 +39171,20 @@
           ]
         },
         {
+          "title": "苗栗火災事件",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "強化科學園區火災搶救應變能力　銅鑼分隊辦理列管工廠搶救演練"
+          ]
+        },
+        {
           "title": "花蓮火災事件",
           "city": "花蓮",
           "place": "花蓮縣政府",
@@ -39185,9 +39199,9 @@
           ]
         },
         {
-          "title": "苗栗火災事件",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
+          "title": "宜蘭車禍事件",
+          "city": "宜蘭",
+          "place": "宜蘭縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -39195,7 +39209,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "強化科學園區火災搶救應變能力　銅鑼分隊辦理列管工廠搶救演練"
+            "今天下午位於國5高架路段下方的宜蘭191縣道發生驚險車禍，曲姓男子駕駛滿載數十罐瓦斯桶的瓦斯車，行經美功路一段時，車輛因"
           ]
         },
         {
@@ -39227,20 +39241,6 @@
           ]
         },
         {
-          "title": "宜蘭車禍事件",
-          "city": "宜蘭",
-          "place": "宜蘭縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "今天下午位於國5高架路段下方的宜蘭191縣道發生驚險車禍，曲姓男子駕駛滿載數十罐瓦斯桶的瓦斯車，行經美功路一段時，車輛因"
-          ]
-        },
-        {
           "title": "台中陳情/抗議",
           "city": "台中",
           "place": "台中市政府",
@@ -39269,6 +39269,34 @@
           ]
         },
         {
+          "title": "彰化詐騙案",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "彰化郵局攜手彰化榮服處實施金融教育及防詐騙宣導 提升榮民眷金融安全意識"
+          ]
+        },
+        {
+          "title": "台北詐騙案",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "林承緯打造「AI打詐系統」下架3萬則詐騙廣告 蔣萬安連頒兩獎"
+          ]
+        },
+        {
           "title": "嘉義市詐騙案",
           "city": "嘉義市",
           "place": "嘉義市政府",
@@ -39294,34 +39322,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "退休公教人員座談 許淑華縣長呼籲防詐騙"
-          ]
-        },
-        {
-          "title": "台北詐騙案",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "林承緯打造「AI打詐系統」下架3萬則詐騙廣告 蔣萬安連頒兩獎"
-          ]
-        },
-        {
-          "title": "彰化詐騙案",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "彰化郵局攜手彰化榮服處實施金融教育及防詐騙宣導 提升榮民眷金融安全意識"
           ]
         },
         {
@@ -39484,20 +39484,6 @@
           ]
         },
         {
-          "title": "花蓮弊案爭議",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "獨家／綠花蓮縣長布局暫觀望 張峻「採購弊案9月宣判」全身而退才有戲"
-          ]
-        },
-        {
           "title": "台北弊案爭議",
           "city": "台北",
           "place": "台北市政府",
@@ -39523,6 +39509,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "中年男涉下藥性侵母親致死 新北檢起訴"
+          ]
+        },
+        {
+          "title": "花蓮弊案爭議",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "獨家／綠花蓮縣長布局暫觀望 張峻「採購弊案9月宣判」全身而退才有戲"
           ]
         },
         {
@@ -39807,22 +39807,6 @@
           ]
         },
         {
-          "title": "金門地方動態",
-          "city": "金門",
-          "place": "金門縣政府",
-          "level": "red",
-          "news_count": 24,
-          "comment_count": 0,
-          "negativity_pct": 8,
-          "is_urgent": false,
-          "urgency_score": 30,
-          "sample_titles": [
-            "夾藏248隻甲蟲闖關小三通 X光機現形金門海巡員逮人",
-            "新北男搭機藏248隻活體甲蟲到金門 欲經小三通赴廈門遭攔截",
-            "金門最大賭場被抄了！負責人竟是「最強高職生」 連5年接拍101煙火"
-          ]
-        },
-        {
           "title": "南投地方動態",
           "city": "南投",
           "place": "南投縣政府",
@@ -39836,6 +39820,22 @@
             "千禧肌動趴前進南投 統一集團千禧之愛健康基金會打造高齡肌力運動盛會",
             "南投縣府辦健康宣導活動 助長者認識預防肌少症",
             "國民黨南投黨部首辦政治幕僚培訓 游顥誓言13鄉鎮市「全壘打」"
+          ]
+        },
+        {
+          "title": "金門地方動態",
+          "city": "金門",
+          "place": "金門縣政府",
+          "level": "red",
+          "news_count": 24,
+          "comment_count": 0,
+          "negativity_pct": 8,
+          "is_urgent": false,
+          "urgency_score": 30,
+          "sample_titles": [
+            "夾藏248隻甲蟲闖關小三通 X光機現形金門海巡員逮人",
+            "新北男搭機藏248隻活體甲蟲到金門 欲經小三通赴廈門遭攔截",
+            "金門最大賭場被抄了！負責人竟是「最強高職生」 連5年接拍101煙火"
           ]
         },
         {
@@ -39859,11 +39859,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 36,
+          "news_count": 35,
           "comment_count": 0,
           "negativity_pct": 14,
           "is_urgent": false,
-          "urgency_score": 51,
+          "urgency_score": 50,
           "sample_titles": [
             "周春米率領46家業者前進台北國際食品展 行銷屏東好物",
             "屏東縣政府攜手46家業者進軍2026台北國際食品展",
@@ -39903,22 +39903,6 @@
           ]
         },
         {
-          "title": "宜蘭地方動態",
-          "city": "宜蘭",
-          "place": "宜蘭縣政府",
-          "level": "red",
-          "news_count": 54,
-          "comment_count": 0,
-          "negativity_pct": 2,
-          "is_urgent": false,
-          "urgency_score": 57,
-          "sample_titles": [
-            "實踐綠色旅遊 宜蘭大學榮獲2026台灣觀光永續獎銀級殊榮",
-            "登山客墜70公尺深谷 宜蘭警消冒險開路救援",
-            "林國漳提蘇澳治水產經 吳宗憲推宜蘭交通藍圖"
-          ]
-        },
-        {
           "title": "彰化地方動態",
           "city": "彰化",
           "place": "彰化縣政府",
@@ -39932,6 +39916,22 @@
             "彰化優質食品進軍國際 「食食在在彰化館」亮相2026台北國際食品展 展現產業升級新實力",
             "一年找回逾8人！彰化績優警彭聖祐尋人秘訣大公開",
             "彰化農業畜牧大縣 陳素月提「週週乳果蛋」升級營養午餐"
+          ]
+        },
+        {
+          "title": "宜蘭地方動態",
+          "city": "宜蘭",
+          "place": "宜蘭縣政府",
+          "level": "red",
+          "news_count": 54,
+          "comment_count": 0,
+          "negativity_pct": 2,
+          "is_urgent": false,
+          "urgency_score": 57,
+          "sample_titles": [
+            "實踐綠色旅遊 宜蘭大學榮獲2026台灣觀光永續獎銀級殊榮",
+            "登山客墜70公尺深谷 宜蘭警消冒險開路救援",
+            "林國漳提蘇澳治水產經 吳宗憲推宜蘭交通藍圖"
           ]
         },
         {
@@ -40035,11 +40035,11 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 231,
+          "news_count": 230,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 273,
+          "urgency_score": 272,
           "sample_titles": [
             "[HatePolitics] [討論] 新北逆轉後，台中也逆轉了！！",
             "狼教練再重判19年！「查無疏失」對上監院糾正 中市府陷責任風暴 | 政治快訊 | 要聞",
