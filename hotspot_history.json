@@ -40051,7 +40051,7 @@
     },
     {
       "date": "2026-06-25",
-      "snapshot_at": "2026-06-24T20:35:25.531939+00:00",
+      "snapshot_at": "2026-06-24T21:06:38.485262+00:00",
       "hotspots": [
         {
           "title": "台中鼠患事件",
@@ -40124,20 +40124,6 @@
           ]
         },
         {
-          "title": "花蓮車禍事件",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "花蓮台9線驚悚車禍！ 74歲婦猛撞前車「車頭爛毀」、救出不治"
-          ]
-        },
-        {
           "title": "桃園車禍事件",
           "city": "桃園",
           "place": "桃園市政府",
@@ -40149,6 +40135,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "翻車！桃園毒駕載3歲女車禍 竟是「懷孕10次才得子」知名育兒網紅"
+          ]
+        },
+        {
+          "title": "花蓮車禍事件",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "花蓮台9線驚悚車禍！ 74歲婦猛撞前車「車頭爛毀」、救出不治"
           ]
         },
         {
@@ -40266,12 +40266,13 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "green",
-          "news_count": 2,
+          "news_count": 3,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 8,
+          "urgency_score": 12,
           "sample_titles": [
+            "桃園榮服處攜手市調處 辦理愛國教育暨反詐騙講習 | 台灣好新聞",
             "桃園榮服處攜手市調處 辦理愛國教育暨反詐騙講習",
             "桃市警銀合作攔阻詐騙1260萬 張善政：感謝守護市民財產安全"
           ]
@@ -40329,11 +40330,11 @@
           "city": "嘉義縣",
           "place": "嘉義縣政府",
           "level": "green",
-          "news_count": 17,
+          "news_count": 18,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 17,
+          "urgency_score": 18,
           "sample_titles": [
             "嘉義縣考察斯德哥爾摩皇家海港 借鏡治理經驗",
             "番路鄉農會攜阿里山茶香系列新品進軍台北食品展",
@@ -40346,10 +40347,10 @@
           "place": "台中市北屯區",
           "level": "green",
           "news_count": 0,
-          "comment_count": 18,
+          "comment_count": 19,
           "negativity_pct": 0,
           "is_urgent": true,
-          "urgency_score": 54,
+          "urgency_score": 57,
           "sample_titles": []
         },
         {
@@ -40364,48 +40365,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "康建生技槍擊案台中高分院更一審 李鴻淵仍判死刑"
-          ]
-        },
-        {
-          "title": "花蓮弊案爭議",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "獨家／綠花蓮縣長布局暫觀望 張峻「採購弊案9月宣判」全身而退才有戲"
-          ]
-        },
-        {
-          "title": "桃園弊案爭議",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "滿口愛小孩！桃園2.4萬育兒網紅「毒駕載3歲女」收押 竟黑紅IG一夜漲上千粉"
-          ]
-        },
-        {
-          "title": "台北弊案爭議",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "蔣萬安想幹大事卻幹不成？ 天價遮陽傘＂6000萬做八支＂ 吳錚：恐變成弊案！ 連同黨秦慧珠都質疑蔣？ ＂天天喝鮮奶＂遭轟"
           ]
         },
         {
@@ -40434,6 +40393,48 @@
           "urgency_score": 4,
           "sample_titles": [
             "中年男涉下藥性侵母親致死 新北檢起訴"
+          ]
+        },
+        {
+          "title": "桃園弊案爭議",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "滿口愛小孩！桃園2.4萬育兒網紅「毒駕載3歲女」收押 竟黑紅IG一夜漲上千粉"
+          ]
+        },
+        {
+          "title": "花蓮弊案爭議",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "獨家／綠花蓮縣長布局暫觀望 張峻「採購弊案9月宣判」全身而退才有戲"
+          ]
+        },
+        {
+          "title": "台北弊案爭議",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "蔣萬安想幹大事卻幹不成？ 天價遮陽傘＂6000萬做八支＂ 吳錚：恐變成弊案！ 連同黨秦慧珠都質疑蔣？ ＂天天喝鮮奶＂遭轟"
           ]
         },
         {
@@ -40520,10 +40521,10 @@
           "place": "台中市政府",
           "level": "yellow",
           "news_count": 0,
-          "comment_count": 22,
+          "comment_count": 23,
           "negativity_pct": 0,
           "is_urgent": true,
-          "urgency_score": 62,
+          "urgency_score": 65,
           "sample_titles": []
         },
         {
@@ -40579,8 +40580,8 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
-          "news_count": 59,
-          "comment_count": 5,
+          "news_count": 57,
+          "comment_count": 7,
           "negativity_pct": 0,
           "is_urgent": true,
           "urgency_score": 70,
@@ -40595,15 +40596,15 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "yellow",
-          "news_count": 65,
+          "news_count": 69,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 65,
+          "urgency_score": 69,
           "sample_titles": [
+            "宜蘭交通建設卡關 吳宗憲轟中央",
             "宜蘭哈密瓜清甜 臺北花博農民市集6月27、28日登場",
-            "迎接宜蘭黃金十年 吳宗憲提出交通與產業藍圖",
-            "237宜蘭蓋漳到蘇澳 林國漳發表治水產經藍圖 籲立院盡快完成預算審查"
+            "迎接宜蘭黃金十年 吳宗憲提出交通與產業藍圖"
           ]
         },
         {
@@ -40720,11 +40721,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 8,
+          "news_count": 7,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 32,
+          "urgency_score": 28,
           "sample_titles": [
             "前妻板橋車禍強忍悲慟 周勝考會勘鶯歌交通獲改善允諾",
             "幫兒拉票 新北議員前妻遇車禍亡",
@@ -40800,15 +40801,15 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 44,
+          "news_count": 45,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 47,
+          "urgency_score": 48,
           "sample_titles": [
+            "氣象署豪雨特報 台南、屏東、嘉義以南防大雨",
             "氣象署發布豪雨特報 屏東防豪雨、桃園以南留意大雨",
-            "大雷雨轟炸屏東縣「這2地」 持續到00:40",
-            "屏東榮家落實單身亡故榮民遺產管理內控稽核"
+            "大雷雨轟炸屏東縣「這2地」 持續到00:40"
           ]
         },
         {
@@ -40816,15 +40817,15 @@
           "city": "台東",
           "place": "台東縣政府",
           "level": "red",
-          "news_count": 45,
+          "news_count": 46,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 51,
+          "urgency_score": 52,
           "sample_titles": [
             "中常會特地移師台東　鄭麗文合體饒慶鈴宣傳夏雪芒果",
             "2026.06.24 19:15 行動中常會赴台東 鄭麗文：鳳梨釋迦可推動兩岸和平",
-            "台東博覽會開幕音樂會星光雲集 東STOP！一起趣台東"
+            "中國海警騷擾台東部商船 美國譴責：破壞區域穩定"
           ]
         },
         {
@@ -40832,11 +40833,11 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "red",
-          "news_count": 51,
+          "news_count": 52,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 54,
+          "urgency_score": 55,
           "sample_titles": [
             "「澎湖追風音樂燈光節」 16組藝人接力開唱 | 青年日報",
             "「澎湖追風音樂燈光節」 16組藝人接力開唱",
@@ -40848,15 +40849,15 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 70,
+          "news_count": 71,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 70,
+          "urgency_score": 71,
           "sample_titles": [
+            "苗栗縣警察局6月份月報 賴香伶頒獎表揚優秀員警 | 台灣好新聞",
             "苗檢召開115年苗栗地區政風業務聯繫會議",
-            "苗栗縣警察局6月份月報 賴香伶頒獎表揚優秀員警",
-            "汲取國際經驗苗栗縣府赴微軟亞太總部交流 探討AI治理與智慧城市新藍圖 | 王秀禾 | 地方新聞"
+            "苗栗縣警察局6月份月報 賴香伶頒獎表揚優秀員警"
           ]
         },
         {
@@ -40864,15 +40865,15 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 79,
+          "news_count": 81,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 100,
+          "urgency_score": 102,
           "sample_titles": [
-            "南市國產龍眼蜂蜜評鑑揭曉 市長力薦優質蜂蜜",
-            "新版鮮乳標章上路 南市府攜手酪農守護消費者權益",
-            "徵台南交通指揮"
+            "第7號颱風北上 氣象署提醒高嘉屏台南防大雨",
+            "氣象署豪雨特報 台南、屏東、嘉義以南防大雨",
+            "南市國產龍眼蜂蜜評鑑揭曉 市長力薦優質蜂蜜"
           ]
         },
         {
@@ -40880,11 +40881,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 130,
+          "news_count": 128,
           "comment_count": 0,
-          "negativity_pct": 8,
+          "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 163,
+          "urgency_score": 161,
           "sample_titles": [
             "新北捷運三鶯線專屬到站音樂 金曲得主周岳澄操刀",
             "鶯歌驚現豆腐乳廢水汙染 新北環保局鐵腕開罰",
@@ -40896,15 +40897,15 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 140,
+          "news_count": 142,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 164,
+          "urgency_score": 166,
           "sample_titles": [
+            "花蓮 萬里溪堰塞湖恐潰決 萬榮、鳳林將撤離205人",
             "花蓮館集結16家品牌進軍台北食品展 從有機米到醬油展現「花蓮真食力」",
-            "花蓮館亮相台北國際食品展 展現「花蓮真食力」農業整合成果",
-            "2026國際少年運動會8月花蓮登場 徐榛蔚邀全民共襄盛舉"
+            "花蓮館亮相台北國際食品展 展現「花蓮真食力」農業整合成果"
           ]
         },
         {
@@ -40912,11 +40913,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 164,
+          "news_count": 165,
           "comment_count": 0,
-          "negativity_pct": 7,
+          "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 200,
+          "urgency_score": 204,
           "sample_titles": [
             "凌濤合體三市長「經國先生路線」看板亮相 爭取桃園市民支持",
             "迎接暑假旅遊旺季 福容桃園慶19週年祭出好康吸客",
@@ -40928,15 +40929,15 @@
           "city": "高雄",
           "place": "高雄市鳳山區",
           "level": "red",
-          "news_count": 166,
+          "news_count": 167,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 211,
+          "urgency_score": 212,
           "sample_titles": [
+            "中國拘留2日本人不單純！矢板明夫曝暗黑算計：衝著高市挺台",
             "海洋首都秀食力 高雄優質漁產搶攻國內外食品市場",
-            "輕軌C34站開發潛力受矚目 高雄赴台北廣邀企業投資布局",
-            "台韓女神夢幻開唱！(G)I-DLE薇娟、Apink鄭恩地9月攜艾怡良、葛仲珊、Karencici霸氣高雄限定舞台"
+            "輕軌C34站開發潛力受矚目 高雄赴台北廣邀企業投資布局"
           ]
         },
         {
@@ -40944,11 +40945,11 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 246,
+          "news_count": 247,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 321,
+          "urgency_score": 322,
           "sample_titles": [
             "秦慧珠揭「政客爽」藏中市府 他不忍反擊",
             "[Gossiping] [問卦] 台中市東區東英十五街兇案的卦",
@@ -40960,11 +40961,11 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 282,
+          "news_count": 283,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 336,
+          "urgency_score": 337,
           "sample_titles": [
             "花蓮館集結16家品牌進軍台北食品展 從有機米到醬油展現「花蓮真食力」",
             "115年下半年新北市10項新措施陸續實施",
