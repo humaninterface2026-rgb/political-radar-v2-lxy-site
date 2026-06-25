@@ -40051,7 +40051,7 @@
     },
     {
       "date": "2026-06-25",
-      "snapshot_at": "2026-06-25T01:18:24.135289+00:00",
+      "snapshot_at": "2026-06-25T01:20:01.151835+00:00",
       "hotspots": [
         {
           "title": "台中鼠患事件",
@@ -40152,20 +40152,6 @@
           ]
         },
         {
-          "title": "台中陳情/抗議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台中女闖派出所陳情突失控 掏美工刀自傷！警秒奪刀送醫"
-          ]
-        },
-        {
           "title": "新竹縣陳情/抗議",
           "city": "新竹縣",
           "place": "新竹縣政府",
@@ -40177,6 +40163,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "新竹縣關西鎮預計8月中普發5000元，引發遷戶籍熱潮，不僅使關西鎮人口數增加、可望保住2席縣議員席次，而竹東、五峰選區恐"
+          ]
+        },
+        {
+          "title": "台中陳情/抗議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "台中女闖派出所陳情突失控 掏美工刀自傷！警秒奪刀送醫"
           ]
         },
         {
@@ -40410,6 +40410,21 @@
           ]
         },
         {
+          "title": "台南車禍事件",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "yellow",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "台南柳營深夜奪命車禍！騎士撞流浪狗重摔送醫不治",
+            "輾過台南孕婦車禍害「胎死母命危」 冷血看5分鐘後逃逸女駕駛到案"
+          ]
+        },
+        {
           "title": "高雄陳情/抗議",
           "city": "高雄",
           "place": "高雄市政府",
@@ -40469,22 +40484,6 @@
           "sample_titles": []
         },
         {
-          "title": "基隆地方動態",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "yellow",
-          "news_count": 24,
-          "comment_count": 0,
-          "negativity_pct": 25,
-          "is_urgent": false,
-          "urgency_score": 42,
-          "sample_titles": [
-            "智慧管理 基市圖總館7/2試營運",
-            "基隆 獨留4歲童在家墜樓 家長恐挨罰",
-            "基隆市114學年度品德教育成果亮眼 57件優秀作品脫穎而出"
-          ]
-        },
-        {
           "title": "新竹縣地方動態",
           "city": "新竹縣",
           "place": "新竹縣政府",
@@ -40498,6 +40497,22 @@
             "民眾黨創黨主席柯文哲今為竹北市長參選人邱臣遠站台時提到，若國民黨縣長、竹北市長「整碗端去」，民眾黨很難說服支持者來支持國",
             "民眾黨看得是八年後的新竹縣長？",
             "新竹縣長選戰升溫 徐欣瑩陣營出擊：縣民要的是未來藍圖，不是政治標籤"
+          ]
+        },
+        {
+          "title": "基隆地方動態",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "yellow",
+          "news_count": 24,
+          "comment_count": 0,
+          "negativity_pct": 25,
+          "is_urgent": false,
+          "urgency_score": 42,
+          "sample_titles": [
+            "智慧管理 基市圖總館7/2試營運",
+            "基隆 獨留4歲童在家墜樓 家長恐挨罰",
+            "基隆市114學年度品德教育成果亮眼 57件優秀作品脫穎而出"
           ]
         },
         {
@@ -40595,21 +40610,6 @@
           ]
         },
         {
-          "title": "桃園弊案爭議",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "滿口愛小孩！桃園2.4萬育兒網紅「毒駕載3歲女」收押 竟黑紅IG一夜漲上千粉",
-            "滿口愛小孩！桃園2.4萬育兒網紅「毒駕載3歲女」收押 竟黑紅IG一夜漲上千粉"
-          ]
-        },
-        {
           "title": "高雄弊案爭議",
           "city": "高雄",
           "place": "高雄市政府",
@@ -40625,19 +40625,18 @@
           ]
         },
         {
-          "title": "台南車禍事件",
-          "city": "台南",
-          "place": "台南市政府",
+          "title": "桃園弊案爭議",
+          "city": "桃園",
+          "place": "桃園市政府",
           "level": "red",
-          "news_count": 3,
+          "news_count": 2,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 12,
+          "urgency_score": 8,
           "sample_titles": [
-            "台南柳營深夜奪命車禍！騎士撞流浪狗重摔送醫不治",
-            "輾過台南孕婦車禍害「胎死母命危」 冷血看5分鐘後逃逸女駕駛到案",
-            "台南驚悚車禍！20歲孕婦倒地遭輾「胎死母危」 肇逃女駕駛到案了"
+            "滿口愛小孩！桃園2.4萬育兒網紅「毒駕載3歲女」收押 竟黑紅IG一夜漲上千粉",
+            "滿口愛小孩！桃園2.4萬育兒網紅「毒駕載3歲女」收押 竟黑紅IG一夜漲上千粉"
           ]
         },
         {
@@ -40785,6 +40784,22 @@
           ]
         },
         {
+          "title": "台南地方動態",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "red",
+          "news_count": 74,
+          "comment_count": 0,
+          "negativity_pct": 8,
+          "is_urgent": false,
+          "urgency_score": 92,
+          "sample_titles": [
+            "黃偉哲出差「搭廉航、沒助理」！律師對比花蓮、台中：是去工作還去玩？",
+            "蘇巧慧、陳亭妃 行銷台南芒果",
+            "南市龍眼蜜評鑑 8人獲特等獎"
+          ]
+        },
+        {
           "title": "苗栗地方動態",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -40798,22 +40813,6 @@
             "苗栗歷史建築 「四湖劉恩寬大伙房」修復",
             "苗栗 劉恩寬大伙房 3大匠師聯手 閩客三合院重生",
             "苗栗縣警察局6月份月報 賴香伶頒獎表揚優秀員警 | 台灣好新聞"
-          ]
-        },
-        {
-          "title": "台南地方動態",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "red",
-          "news_count": 75,
-          "comment_count": 0,
-          "negativity_pct": 9,
-          "is_urgent": false,
-          "urgency_score": 96,
-          "sample_titles": [
-            "黃偉哲出差「搭廉航、沒助理」！律師對比花蓮、台中：是去工作還去玩？",
-            "蘇巧慧、陳亭妃 行銷台南芒果",
-            "南市龍眼蜜評鑑 8人獲特等獎"
           ]
         },
         {
@@ -40837,11 +40836,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 130,
+          "news_count": 129,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 142,
+          "urgency_score": 141,
           "sample_titles": [
             "黃偉哲出差「搭廉航、沒助理」！律師對比花蓮、台中：是去工作還去玩？",
             "花蓮瑞穗3千振興禮金 7/27起發放",
