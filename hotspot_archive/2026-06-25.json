@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "snapshot_at": "2026-06-25T10:15:23.651981+00:00",
+  "snapshot_at": "2026-06-25T10:18:29.894921+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -150,27 +150,6 @@
       "comments": []
     },
     {
-      "title": "彰化詐騙案",
-      "city": "彰化",
-      "place": "彰化縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "詐騙集團假冒公所名義在網路刊廣告 彰化縣和美鎮公所不忍了！",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5483328",
-          "time": "2026-06-25 10:55:42",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "新竹市詐騙案",
       "city": "新竹市",
       "place": "新竹市政府",
@@ -186,6 +165,27 @@
           "url": "https://focus.586.com.tw/2026/06/25/p392866/",
           "time": "2026-06-25 14:45:54",
           "publisher": "焦點時報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "彰化詐騙案",
+      "city": "彰化",
+      "place": "彰化縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "詐騙集團假冒公所名義在網路刊廣告 彰化縣和美鎮公所不忍了！",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5483328",
+          "time": "2026-06-25 10:55:42",
+          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -763,27 +763,6 @@
       "comments": []
     },
     {
-      "title": "宜蘭弊案爭議",
-      "city": "宜蘭",
-      "place": "宜蘭縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "QR Code千萬別亂傳！宜蘭檢警揭新型詐騙手法～18人受害車手遭起訴",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fenVScEc3WUViSFhhMFdHZ2t1YVJVWS1pT0N6Yzl3YTBCd0FJb0szbjF2X25MRk5yUzF0cXo4cmFGRm9NZjU0V3Z0dExXRkEzREg0X3lB?oc=5",
-          "time": "2026-06-25 16:32:00",
-          "publisher": "Google News→葛瑪蘭新聞網",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台北弊案爭議",
       "city": "台北",
       "place": "台北市政府",
@@ -799,6 +778,27 @@
           "url": "https://udn.com/news/story/6656/9587984?from=udn-ch1_breaknews-1-cate1-news",
           "time": "2026-06-25 15:00:48",
           "publisher": "聯合新聞網",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "宜蘭弊案爭議",
+      "city": "宜蘭",
+      "place": "宜蘭縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "QR Code千萬別亂傳！宜蘭檢警揭新型詐騙手法～18人受害車手遭起訴",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fenVScEc3WUViSFhhMFdHZ2t1YVJVWS1pT0N6Yzl3YTBCd0FJb0szbjF2X25MRk5yUzF0cXo4cmFGRm9NZjU0V3Z0dExXRkEzREg0X3lB?oc=5",
+          "time": "2026-06-25 16:32:00",
+          "publisher": "Google News→葛瑪蘭新聞網",
           "severity": "red"
         }
       ],
@@ -5240,11 +5240,11 @@
       "city": "台南",
       "place": "台南市政府",
       "level": "red",
-      "news_count": 80,
+      "news_count": 79,
       "comment_count": 0,
-      "negativity_pct": 2,
+      "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 86,
+      "urgency_score": 85,
       "news_articles": [
         {
           "title": "始於台南–城市切片：成大建築展打破府城框架 看見與世界對話的建築新觀點",
@@ -5797,13 +5797,6 @@
           "url": "https://newtalk.tw/news/view/2026-06-24/1043140",
           "time": "2026-06-24 19:17:58",
           "publisher": "新頭殼",
-          "severity": null
-        },
-        {
-          "title": "全球14國專家齊聚台南！聯合國亞太AFACT國際會議登場",
-          "url": "https://www.storm.mg/article/11144349",
-          "time": "2026-06-24 18:17:00",
-          "publisher": "風傳媒",
           "severity": null
         }
       ],
@@ -10182,11 +10175,11 @@
       "city": "台北",
       "place": "台北市內湖區",
       "level": "red",
-      "news_count": 245,
+      "news_count": 244,
       "comment_count": 0,
-      "negativity_pct": 3,
+      "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 266,
+      "urgency_score": 262,
       "news_articles": [
         {
           "title": "北市第7屆金讚獎頒獎 蔣萬安表揚37位民防英雄",
@@ -11894,13 +11887,6 @@
           "url": "https://www.cna.com.tw/news/aloc/202606240308.aspx",
           "time": "2026-06-24 18:23:25",
           "publisher": "中央社",
-          "severity": "yellow"
-        },
-        {
-          "title": "醋意惹殺機？疑不滿男同學糾纏女友 北市男刺死對方辯稱「只想嚇他」遭移送北檢",
-          "url": "https://www.mirrormedia.mg/story/20260624edi083",
-          "time": "2026-06-24 18:17:00",
-          "publisher": "鏡週刊",
           "severity": "yellow"
         }
       ],

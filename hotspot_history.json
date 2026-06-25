@@ -40051,7 +40051,7 @@
     },
     {
       "date": "2026-06-25",
-      "snapshot_at": "2026-06-25T10:15:23.651981+00:00",
+      "snapshot_at": "2026-06-25T10:18:29.894921+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -40152,20 +40152,6 @@
           ]
         },
         {
-          "title": "彰化詐騙案",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "詐騙集團假冒公所名義在網路刊廣告 彰化縣和美鎮公所不忍了！"
-          ]
-        },
-        {
           "title": "新竹市詐騙案",
           "city": "新竹市",
           "place": "新竹市政府",
@@ -40177,6 +40163,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "竹市警二分局深入社區宣導反詐騙 透過桌遊互動強化民眾識詐能力"
+          ]
+        },
+        {
+          "title": "彰化詐騙案",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "詐騙集團假冒公所名義在網路刊廣告 彰化縣和美鎮公所不忍了！"
           ]
         },
         {
@@ -40340,20 +40340,6 @@
           ]
         },
         {
-          "title": "宜蘭弊案爭議",
-          "city": "宜蘭",
-          "place": "宜蘭縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "QR Code千萬別亂傳！宜蘭檢警揭新型詐騙手法～18人受害車手遭起訴"
-          ]
-        },
-        {
           "title": "台北弊案爭議",
           "city": "台北",
           "place": "台北市政府",
@@ -40365,6 +40351,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "民進黨新北市議員李余典前特助黃取榮、前外交部長吳釗燮助理何仁傑、民進黨前黨工邱世元、總統府總統辦公室前諮議吳尚雨涉共諜案"
+          ]
+        },
+        {
+          "title": "宜蘭弊案爭議",
+          "city": "宜蘭",
+          "place": "宜蘭縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "QR Code千萬別亂傳！宜蘭檢警揭新型詐騙手法～18人受害車手遭起訴"
           ]
         },
         {
@@ -40733,11 +40733,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 80,
+          "news_count": 79,
           "comment_count": 0,
-          "negativity_pct": 2,
+          "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 86,
+          "urgency_score": 85,
           "sample_titles": [
             "始於台南–城市切片：成大建築展打破府城框架 看見與世界對話的建築新觀點",
             "民進黨基隆市長參選人議長童子瑋昨在黃暐瀚電視節目「下班瀚你聊」，針對交通建設、城市治理及基隆未來發展提出願景。童子瑋表示",
@@ -40829,11 +40829,11 @@
           "city": "台北",
           "place": "台北市內湖區",
           "level": "red",
-          "news_count": 245,
+          "news_count": 244,
           "comment_count": 0,
-          "negativity_pct": 3,
+          "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 266,
+          "urgency_score": 262,
           "sample_titles": [
             "北市第7屆金讚獎頒獎 蔣萬安表揚37位民防英雄",
             "北市第7屆金讚獎頒獎 蔣萬安表揚37位民防英雄",
