@@ -40786,22 +40786,8 @@
     },
     {
       "date": "2026-06-26",
-      "snapshot_at": "2026-06-26T01:20:43.387991+00:00",
+      "snapshot_at": "2026-06-26T01:24:48.382399+00:00",
       "hotspots": [
-        {
-          "title": "海線立委戰局",
-          "city": "台中",
-          "place": "台中市清水區",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 1,
-          "sample_titles": [
-            "台中海線簡易站牌候車不便 清水增長廊式候車亭、電子站牌"
-          ]
-        },
         {
           "title": "高雄墜樓事件",
           "city": "高雄",
@@ -40814,6 +40800,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "教師墜樓悲劇 高市推溝通先行調處機制"
+          ]
+        },
+        {
+          "title": "彰化詐騙案",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "詐騙集團假冒公所名義在網路刊廣告 彰化縣和美鎮公所不忍了！"
           ]
         },
         {
@@ -40845,20 +40845,6 @@
           ]
         },
         {
-          "title": "彰化詐騙案",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "詐騙集團假冒公所名義在網路刊廣告 彰化縣和美鎮公所不忍了！"
-          ]
-        },
-        {
           "title": "捷運藍線爭議",
           "city": "台中",
           "place": "台中市政府",
@@ -40871,6 +40857,20 @@
           "sample_titles": [
             "中捷藍線主線工程三度流標 綠營批：盧秀燕8年一場空",
             "中捷藍線主線工程三度流標 綠營批：盧秀燕8年一場空"
+          ]
+        },
+        {
+          "title": "海線立委戰局",
+          "city": "台中",
+          "place": "台中市清水區",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 1,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 2,
+          "sample_titles": [
+            "台中海線簡易站牌候車不便 清水增長廊式候車亭、電子站牌"
           ]
         },
         {
@@ -40966,18 +40966,6 @@
           ]
         },
         {
-          "title": "垃圾山",
-          "city": "台中",
-          "place": "台中市霧峰區",
-          "level": "green",
-          "news_count": 0,
-          "comment_count": 10,
-          "negativity_pct": 0,
-          "is_urgent": true,
-          "urgency_score": 30,
-          "sample_titles": []
-        },
-        {
           "title": "台中市政動態",
           "city": "台中",
           "place": "台中市豐原區",
@@ -40987,6 +40975,18 @@
           "negativity_pct": 0,
           "is_urgent": true,
           "urgency_score": 16,
+          "sample_titles": []
+        },
+        {
+          "title": "垃圾山",
+          "city": "台中",
+          "place": "台中市霧峰區",
+          "level": "green",
+          "news_count": 0,
+          "comment_count": 11,
+          "negativity_pct": 0,
+          "is_urgent": true,
+          "urgency_score": 33,
           "sample_titles": []
         },
         {
@@ -41064,22 +41064,6 @@
           ]
         },
         {
-          "title": "新竹縣地方動態",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "yellow",
-          "news_count": 11,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 11,
-          "sample_titles": [
-            "白營竹北不甩藍白合？竹北三腳督下場？國民黨恐賠掉新竹縣？",
-            "廉能跨域・志氣相投！苗栗與新竹縣廉政志工齊聚三義交流",
-            "感嘆竹北4年前失守代價大！徐欣瑩向藍軍喊話：新竹縣不能再輸"
-          ]
-        },
-        {
           "title": "雲林地方動態",
           "city": "雲林",
           "place": "雲林縣政府",
@@ -41096,15 +41080,31 @@
           ]
         },
         {
+          "title": "新竹縣地方動態",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "yellow",
+          "news_count": 11,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 11,
+          "sample_titles": [
+            "白營竹北不甩藍白合？竹北三腳督下場？國民黨恐賠掉新竹縣？",
+            "廉能跨域・志氣相投！苗栗與新竹縣廉政志工齊聚三義交流",
+            "感嘆竹北4年前失守代價大！徐欣瑩向藍軍喊話：新竹縣不能再輸"
+          ]
+        },
+        {
           "title": "廚餘山",
           "city": "台中",
-          "place": "台中市政府",
+          "place": "台中市霧峰區",
           "level": "yellow",
           "news_count": 0,
-          "comment_count": 21,
+          "comment_count": 22,
           "negativity_pct": 0,
           "is_urgent": true,
-          "urgency_score": 51,
+          "urgency_score": 54,
           "sample_titles": []
         },
         {
@@ -41176,30 +41176,15 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "yellow",
-          "news_count": 44,
+          "news_count": 43,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 47,
+          "urgency_score": 46,
           "sample_titles": [
             "2026藍色公路布袋－澎湖－金門高速輪抵金旅客332位、前往澎湖旅客152人",
             "《花帔阿獺》台江、港都巡演 陳龍安攜手和順、光武國小共串影像交流分享金門之美",
             "2026金門特色產業嘉年華7月臺北車站38品牌齊聚展售品味金門好物與島嶼魅力"
-          ]
-        },
-        {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "[Gossiping] Re: [新聞] 台中噁教練性侵球員還拍片　第二波起訴1",
-            "53學生遭棒球狼教練松志彬伸魔爪　台中地院第2波起訴判19年"
           ]
         },
         {
@@ -41215,6 +41200,21 @@
           "sample_titles": [
             "民進黨新北市議員李余典前特助黃取榮、前外交部長吳釗燮助理何仁傑、民進黨前黨工邱世元、總統府總統辦公室前諮議吳尚雨涉共諜案",
             "民進黨新北市議員李余典前特助黃取榮、前外交部長吳釗燮助理何仁傑、民進黨前黨工邱世元、總統府總統辦公室前諮議吳尚雨涉共諜案"
+          ]
+        },
+        {
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "[Gossiping] Re: [新聞] 台中噁教練性侵球員還拍片　第二波起訴1",
+            "53學生遭棒球狼教練松志彬伸魔爪　台中地院第2波起訴判19年"
           ]
         },
         {
@@ -41334,11 +41334,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 57,
+          "news_count": 55,
           "comment_count": 0,
-          "negativity_pct": 12,
+          "negativity_pct": 13,
           "is_urgent": false,
-          "urgency_score": 78,
+          "urgency_score": 76,
           "sample_titles": [
             "宜蘭民政表揚",
             "宜蘭 吳宗憲端長照牛肉 喊把我當五結人",
@@ -41414,11 +41414,11 @@
           "city": "台中",
           "place": "台中市清水區",
           "level": "red",
-          "news_count": 122,
+          "news_count": 121,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 134,
+          "urgency_score": 133,
           "sample_titles": [
             "[Gossiping] Re: [新聞] 公車站旁悄說「我喜歡你」 台中男遭認定性騷擾判罰2萬",
             "[HatePolitics] [討論] 陳俞融說台中積水",
@@ -41430,11 +41430,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 165,
+          "news_count": 163,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 183,
+          "urgency_score": 181,
           "sample_titles": [
             "花蓮萬里溪堰塞湖危機 政院持續監測 需撤7村里",
             "九合一風雲／民進黨花蓮助攻張峻恐因染綠流失選票| 焦點話題",
@@ -41446,11 +41446,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 254,
+          "news_count": 253,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 257,
+          "urgency_score": 256,
           "sample_titles": [
             "第7號颱風北上 高屏防超大豪雨、台南及恆春半島大豪雨",
             "高雄屏東防超大豪雨 台南與新北山區留意大豪雨",
@@ -41462,11 +41462,11 @@
           "city": "台北",
           "place": "台北市內湖區",
           "level": "red",
-          "news_count": 258,
+          "news_count": 257,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 279,
+          "urgency_score": 278,
           "sample_titles": [
             "咕嚕咕嚕！豪雨炸北市 網友刷「火鍋梗」酸蔣萬安",
             "大水淹內湖！8連霸議員轟蔣萬安空洞無能：台北人真要縱容？",

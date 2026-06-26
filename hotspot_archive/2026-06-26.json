@@ -1,28 +1,7 @@
 {
   "date": "2026-06-26",
-  "snapshot_at": "2026-06-26T01:20:43.387991+00:00",
+  "snapshot_at": "2026-06-26T01:24:48.382399+00:00",
   "hotspots": [
-    {
-      "title": "海線立委戰局",
-      "city": "台中",
-      "place": "台中市清水區",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 1,
-      "news_articles": [
-        {
-          "title": "台中海線簡易站牌候車不便 清水增長廊式候車亭、電子站牌",
-          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5483638",
-          "time": "2026-06-25 13:48:06",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
     {
       "title": "高雄墜樓事件",
       "city": "高雄",
@@ -39,6 +18,27 @@
           "url": "https://tw.news.yahoo.com/%E6%95%99%E5%B8%AB%E5%A2%9C%E6%A8%93%E6%82%B2%E5%8A%87-%E9%AB%98%E5%B8%82%E6%8E%A8%E6%BA%9D%E9%80%9A%E5%85%88%E8%A1%8C%E8%AA%BF%E8%99%95%E6%A9%9F%E5%88%B6-201000113.html",
           "time": "2026-06-26 04:10:00",
           "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "彰化詐騙案",
+      "city": "彰化",
+      "place": "彰化縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "詐騙集團假冒公所名義在網路刊廣告 彰化縣和美鎮公所不忍了！",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5483328",
+          "time": "2026-06-25 10:55:42",
+          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -87,27 +87,6 @@
       "comments": []
     },
     {
-      "title": "彰化詐騙案",
-      "city": "彰化",
-      "place": "彰化縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "詐騙集團假冒公所名義在網路刊廣告 彰化縣和美鎮公所不忍了！",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5483328",
-          "time": "2026-06-25 10:55:42",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "捷運藍線爭議",
       "city": "台中",
       "place": "台中市政府",
@@ -134,6 +113,36 @@
         }
       ],
       "comments": []
+    },
+    {
+      "title": "海線立委戰局",
+      "city": "台中",
+      "place": "台中市清水區",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 1,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 2,
+      "news_articles": [
+        {
+          "title": "台中海線簡易站牌候車不便 清水增長廊式候車亭、電子站牌",
+          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5483638",
+          "time": "2026-06-25 13:48:06",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": [
+        {
+          "platform": "facebook",
+          "text": "講一些廢話有用 放假 沒車的颱風天吃水上班 捷運咧海線⋯⋯",
+          "author": "張雅茵",
+          "url": "",
+          "time_text": "26分鐘",
+          "signal": "yellow"
+        }
+      ]
     },
     {
       "title": "台北鼠患事件",
@@ -286,7 +295,7 @@
           "text": "新黨人士曾在生病的馬英九總統家門外聚衆鬧事 而且威脅生病的馬總統：如果不讓「鄭麗文路綫」壯大，就要嗆「埋鍋造飯」，搞死馬總統 現在新黨又公伂馬英九病歴 這麼嚴重侵犯隱私權的違法惡行也敢做 新黨早已成為沒有人性、喪盡天良、無恥心黑的畜牲爛臭黨 李勝峰你滾出來跪下道歉",
           "author": "Ming Lao",
           "url": "",
-          "time_text": "4小時",
+          "time_text": "5小時",
           "signal": "red"
         },
         {
@@ -294,7 +303,7 @@
           "text": "舔共黨畜牲中的畜牲媽媽",
           "author": "姜金鴻",
           "url": "",
-          "time_text": "11小時",
+          "time_text": "12小時",
           "signal": "red"
         },
         {
@@ -302,7 +311,7 @@
           "text": "國民黨卡台灣預算，颱風來了，連防颱的經費都不知在哪？只知道去大陸舔共，幫的了台灣民眾淹水之苦嗎？舔共害台第一名？",
           "author": "Goo Ver",
           "url": "",
-          "time_text": "12小時",
+          "time_text": "13小時",
           "signal": "red"
         },
         {
@@ -310,7 +319,7 @@
           "text": "#螳螂捕蟬黃雀在後 螳螂⇒#鄭麗文 蟬 ⇒#盧秀燕 黄雀⇒ ? (#誰是黄雀) #國民黨 的 #生態浩劫( #外來種) !",
           "author": "尤欽龍",
           "url": "",
-          "time_text": "20小時",
+          "time_text": "21小時",
           "signal": "yellow"
         }
       ]
@@ -379,23 +388,125 @@
       "comments": []
     },
     {
-      "title": "垃圾山",
+      "title": "台中市政動態",
       "city": "台中",
-      "place": "台中市霧峰區",
+      "place": "台中市豐原區",
       "level": "green",
       "news_count": 0,
       "comment_count": 10,
       "negativity_pct": 0,
       "is_urgent": true,
-      "urgency_score": 30,
+      "urgency_score": 16,
       "news_articles": [],
       "comments": [
+        {
+          "platform": "facebook",
+          "text": "豬瘟、雞瘟、火災，貪官污吏治理台中，結果搞到天災人禍連連！ 台中的所有溪流都被工業跟民生廢水污染了你不知道嗎！？ 你有多久沒有看到台中有滿天蜻蜓飛舞了！？ 你好意思把巨蛋跟綠美圖當作你個人的政績說嘴！？ 為了消化預算，好好的一條馬路挖了又挖、鋪好再挖！？ 柯文哲、賴清德、盧秀燕、朱立倫等各個德不配位，一堆連市長一職都無法勝任的政客，卻各個野心勃勃！ 台中一條條馬路挖了幾十年還在挖，一直挖馬路貪污國家經費會不會對不起國家！？ 利用台中捷運炒房炒地、圖利建商財團、讓青年背負一輩子",
+          "author": "Barco Chen",
+          "url": "",
+          "time_text": "12小時",
+          "signal": "red"
+        },
+        {
+          "platform": "facebook",
+          "text": "秀燕市長求放假",
+          "author": "林聖安",
+          "url": "",
+          "time_text": "13小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "facebook",
+          "text": "秀燕姐姐 放個假吧",
+          "author": "Bo Yu Liao",
+          "url": "",
+          "time_text": "15小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "facebook",
+          "text": "1150326賴清德總統 卓榮泰院長 韓國瑜院長 盧秀燕市長下台 貪污司法整天躲在44號監控被害人家屬 常常利用零晨睡覺製造噪音 詐騙黃閔琪 民事上訴狀 具上訴理由 第二審補正2250元 驗證碼：QG1TFDVY5Y E-mail：laifafashion@gmail.com 姓 名：林進來 聯絡地址：三鹿里國昌二街42號 聯絡電話：(0939057429) 信件編號：2026006674 標 題：1150326賴清德總統 卓榮泰院長 韓國瑜院長 盧秀燕市長下台 貪污司法整天",
+          "author": "林進來",
+          "url": "",
+          "time_text": "16小時",
+          "signal": "red"
+        },
+        {
+          "platform": "facebook",
+          "text": "盧秀燕媽媽明天會放假嗎？",
+          "author": "賴姿翔",
+          "url": "",
+          "time_text": "16小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "facebook",
+          "text": "秦慧珠說的林姓公務員在市府是什麼人？什麼職位？工作性質呢？薪水多少？薪水是我們人民付的，請盧秀燕說清楚！不然就是圖利罪貪瀆罪！",
+          "author": "May Wang",
+          "url": "",
+          "time_text": "20小時",
+          "signal": "red"
+        },
+        {
+          "platform": "facebook",
+          "text": "台中市長盧秀燕江和樹謝謝你們兩個辛苦了",
+          "author": "陳永山",
+          "url": "",
+          "time_text": "20小時",
+          "signal": "green"
+        },
+        {
+          "platform": "facebook",
+          "text": "秀燕市長加油辛苦了",
+          "author": "蔣勤福",
+          "url": "",
+          "time_text": "20小時",
+          "signal": "green"
+        },
+        {
+          "platform": "facebook",
+          "text": "Masaka Pu 別搞笑啊 只要跟你們不同就是側翼啊，盧秀燕做的多爛你們不知道嗎 盧秀燕八年有什麼政積我台中人不知道啊 台中市八年有蓋一條捷運嗎 台中市馬路永遠在挖挖補補出車禍啊",
+          "author": "何宛琪",
+          "url": "",
+          "time_text": "11小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "秀燕平常對台中市民小氣得要死 只有對建商最大方",
+          "author": "caroline_in_autumn",
+          "url": "",
+          "time_text": "5天",
+          "signal": "yellow"
+        }
+      ]
+    },
+    {
+      "title": "垃圾山",
+      "city": "台中",
+      "place": "台中市霧峰區",
+      "level": "green",
+      "news_count": 0,
+      "comment_count": 11,
+      "negativity_pct": 0,
+      "is_urgent": true,
+      "urgency_score": 33,
+      "news_articles": [],
+      "comments": [
+        {
+          "platform": "facebook",
+          "text": "大里垃圾山霧峰廚餘盧媽媽有沒有做好防護，不要只會說要市民注意",
+          "author": "張程",
+          "url": "",
+          "time_text": "28分鐘",
+          "signal": "red"
+        },
         {
           "platform": "facebook",
           "text": "垃圾山沒處理，雨下大了髒水流去哪裡？垃圾飄去哪裡？床墊會飄到河裡嗎？ 誰跟妳家人，要卸任了就安排畢業旅行 ，然後講風涼話嗎？難怪人家說，能當盧秀燕，誰想當黃偉哲",
           "author": "陳慧倫",
           "url": "",
-          "time_text": "12小時",
+          "time_text": "13小時",
           "signal": "red"
         },
         {
@@ -403,7 +514,7 @@
           "text": "垃圾山人，廚餘豬",
           "author": "Wbmkjkl Rek",
           "url": "",
-          "time_text": "14小時",
+          "time_text": "15小時",
           "signal": "red"
         },
         {
@@ -411,7 +522,7 @@
           "text": "為什麼大家那麼關心在意垃圾山跟廚餘 只要民調第一名 就好",
           "author": "Roger Serrano",
           "url": "",
-          "time_text": "16小時",
+          "time_text": "17小時",
           "signal": "red"
         },
         {
@@ -419,7 +530,7 @@
           "text": "垃圾山的污水要流出來了 怎麼處理",
           "author": "Fish Wu",
           "url": "",
-          "time_text": "17小時",
+          "time_text": "18小時",
           "signal": "red"
         },
         {
@@ -427,7 +538,7 @@
           "text": "盧媽，請問今天下雨水溝蓋會再噴屎嗎？會噴出衛生棉嗎？垃圾山會漂流嗎？廚餘會流到馬路嗎？",
           "author": "May Wang",
           "url": "",
-          "time_text": "19小時",
+          "time_text": "20小時",
           "signal": "red"
         },
         {
@@ -435,7 +546,7 @@
           "text": "那麼多垃圾山遇到下雨怎麼辦⋯⋯",
           "author": "Alex Wu",
           "url": "",
-          "time_text": "19小時",
+          "time_text": "20小時",
           "signal": "red"
         },
         {
@@ -443,7 +554,7 @@
           "text": "盧秀燕此獠可稱災厄之母，貫以mama自稱博取信任，其心思惡毒、市政無能、廢馳職務、怠惰失職導致鼠患、豬瘟、病禽、槍擊、毒販、性侵、愛滋擴散、貪污、火災、廢棄物、垃圾山、廚餘湖等禍害。",
           "author": "蔡志明",
           "url": "",
-          "time_text": "19小時",
+          "time_text": "20小時",
           "signal": "red"
         },
         {
@@ -469,100 +580,6 @@
           "url": "",
           "time_text": "5天",
           "signal": "red"
-        }
-      ]
-    },
-    {
-      "title": "台中市政動態",
-      "city": "台中",
-      "place": "台中市豐原區",
-      "level": "green",
-      "news_count": 0,
-      "comment_count": 10,
-      "negativity_pct": 0,
-      "is_urgent": true,
-      "urgency_score": 16,
-      "news_articles": [],
-      "comments": [
-        {
-          "platform": "facebook",
-          "text": "豬瘟、雞瘟、火災，貪官污吏治理台中，結果搞到天災人禍連連！ 台中的所有溪流都被工業跟民生廢水污染了你不知道嗎！？ 你有多久沒有看到台中有滿天蜻蜓飛舞了！？ 你好意思把巨蛋跟綠美圖當作你個人的政績說嘴！？ 為了消化預算，好好的一條馬路挖了又挖、鋪好再挖！？ 柯文哲、賴清德、盧秀燕、朱立倫等各個德不配位，一堆連市長一職都無法勝任的政客，卻各個野心勃勃！ 台中一條條馬路挖了幾十年還在挖，一直挖馬路貪污國家經費會不會對不起國家！？ 利用台中捷運炒房炒地、圖利建商財團、讓青年背負一輩子",
-          "author": "Barco Chen",
-          "url": "",
-          "time_text": "11小時",
-          "signal": "red"
-        },
-        {
-          "platform": "facebook",
-          "text": "秀燕市長求放假",
-          "author": "林聖安",
-          "url": "",
-          "time_text": "12小時",
-          "signal": "yellow"
-        },
-        {
-          "platform": "facebook",
-          "text": "秀燕姐姐 放個假吧",
-          "author": "Bo Yu Liao",
-          "url": "",
-          "time_text": "14小時",
-          "signal": "yellow"
-        },
-        {
-          "platform": "facebook",
-          "text": "1150326賴清德總統 卓榮泰院長 韓國瑜院長 盧秀燕市長下台 貪污司法整天躲在44號監控被害人家屬 常常利用零晨睡覺製造噪音 詐騙黃閔琪 民事上訴狀 具上訴理由 第二審補正2250元 驗證碼：QG1TFDVY5Y E-mail：laifafashion@gmail.com 姓 名：林進來 聯絡地址：三鹿里國昌二街42號 聯絡電話：(0939057429) 信件編號：2026006674 標 題：1150326賴清德總統 卓榮泰院長 韓國瑜院長 盧秀燕市長下台 貪污司法整天",
-          "author": "林進來",
-          "url": "",
-          "time_text": "15小時",
-          "signal": "red"
-        },
-        {
-          "platform": "facebook",
-          "text": "盧秀燕媽媽明天會放假嗎？",
-          "author": "賴姿翔",
-          "url": "",
-          "time_text": "15小時",
-          "signal": "yellow"
-        },
-        {
-          "platform": "facebook",
-          "text": "秦慧珠說的林姓公務員在市府是什麼人？什麼職位？工作性質呢？薪水多少？薪水是我們人民付的，請盧秀燕說清楚！不然就是圖利罪貪瀆罪！",
-          "author": "May Wang",
-          "url": "",
-          "time_text": "19小時",
-          "signal": "red"
-        },
-        {
-          "platform": "facebook",
-          "text": "台中市長盧秀燕江和樹謝謝你們兩個辛苦了",
-          "author": "陳永山",
-          "url": "",
-          "time_text": "19小時",
-          "signal": "green"
-        },
-        {
-          "platform": "facebook",
-          "text": "秀燕市長加油辛苦了",
-          "author": "蔣勤福",
-          "url": "",
-          "time_text": "19小時",
-          "signal": "green"
-        },
-        {
-          "platform": "facebook",
-          "text": "Masaka Pu 別搞笑啊 只要跟你們不同就是側翼啊，盧秀燕做的多爛你們不知道嗎 盧秀燕八年有什麼政積我台中人不知道啊 台中市八年有蓋一條捷運嗎 台中市馬路永遠在挖挖補補出車禍啊",
-          "author": "何宛琪",
-          "url": "",
-          "time_text": "10小時",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "秀燕平常對台中市民小氣得要死 只有對建商最大方",
-          "author": "caroline_in_autumn",
-          "url": "",
-          "time_text": "5天",
-          "signal": "yellow"
         }
       ]
     },
@@ -749,97 +766,6 @@
       "comments": []
     },
     {
-      "title": "新竹縣地方動態",
-      "city": "新竹縣",
-      "place": "新竹縣政府",
-      "level": "yellow",
-      "news_count": 11,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 11,
-      "news_articles": [
-        {
-          "title": "白營竹北不甩藍白合？竹北三腳督下場？國民黨恐賠掉新竹縣？",
-          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOX3BJN2RFd3BqbkZGMlFCdFRJbUg2bDNoNGZtYmhYN1lnZHdSM29oSGRzWHg2YnZVaHNoTkVnb0MzNV9fajNReFFtX0oxX1pOeTlWQXB5LWg0WjZ6d1V2TVNlVEdOQUxMUkZDaWRQaWZRRkJiQ3BiTlFGQml3MWlFZlk2c3VxQnNqa2g5WVhDQ3BhLThvUC1mdGhpcFdjTHJRdzFYRWIwY2tXQVNMeHRnd1BvMFdTU0tXdkh2Z3R3UEU1NmQyMDUzWW41MHVrZURCRUZwQmlBOE4yY2xyOC1TSDlxSWhXTGNlNVczNE42Tks2ZnBxOE5ZczhfSjZ2ZzZsRDZCYmZZLVVnZHZ2bjk4Y1VIXzJQNWZTbEFDWlNWYjZfMzNYZnpzZkhieERsR2FwWG13bGo1WWJrM3FJSmV0X3B2Y0haelRQTm1fbkpBVDhOSThNVlFZZ3BiaWhjb2JIenNkWTI4ZTVHekxpM1E3RkstOE14OEpYQ1lSc0pnWkw2Zw?oc=5",
-          "time": "2026-06-25 21:00:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "廉能跨域・志氣相投！苗栗與新竹縣廉政志工齊聚三義交流",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzbHNOVXNBblpKY0VrVHdlQjVfcEFIUk5lNXlmZWdFdnlIT295VFluNU9NeWxjVExqd21XWER1WDV0Y2I5UXNhVUdyV1BGUnlwbzJHS3BpOG82c3Y1VUpYcdIBZkFVX3lxTE9IYnJ2eXhINDFicU91MG01TzJrWEFPNFdOSlcwT1JiNXlULVMySTZqZ0Y3ODJ6dWVIV0s5OFVnMjVsRWwxTThZc091dUxLVGpqTERJX216Y3Rqdm1wbDM2NGZXdWNCQQ?oc=5",
-          "time": "2026-06-25 20:20:00",
-          "publisher": "Google News→大纪元",
-          "severity": null
-        },
-        {
-          "title": "感嘆竹北4年前失守代價大！徐欣瑩向藍軍喊話：新竹縣不能再輸",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4YXU4RG03NzBKWHJHRlJYMU5MY05TQWlBQlhQczB3elk4OEJibDdIRHBzUG56bnVsdkJyMV9HSl8zcmpaRWNsN1ZTbFZQODFoTDZHb2wxZjA?oc=5",
-          "time": "2026-06-25 18:30:00",
-          "publisher": "Google News→梅花新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "新竹縣藍營凝聚力現形 徐欣瑩誓言帶隊13鄉鎮市「全壘打」",
-          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNQ0RzWU1XeS04YmMwZElhT1d6ZVo4UU9CZFJnVWZSRVBENjhRSW43YVQzcmJHSGRuQ2tSZnhWZVZSTkxXa3VBVGJkYzQwV3lkeWVmejR4X3RQUkhtQ251UkEyYUhaOTdoVzNlODdOMEMwdnFWYlNlLTByTXB3MklEZ1hWa1BYSmVUSWhtT0VjcmRCR0ctbldWNlg4MkpHVG5Dc1ZKSXVpTFZCVXFNejl5cEpOWlUxWS0xcXhQdjFzNzZHVVhfd09IalRHMTVjem9XYS0wMmlpT2hJcXgyM1VoelZNT2VKMDRnbEo0OXJQcDVhVVhweElqQ01QOEd3RHh1d0RCQi1FaHJXck9GbE9mbm9YUW5kcFF2aU9JbEhEWENEbDc3VmtNdHRldU1HUkVRd0E4NnYxdlNOUXNhd0VuVENUTTZNb1JvUWxnOTJtZE94RXJjTkpZeEl6dzZKUTdvbmpYc2QyX1VjenVC?oc=5",
-          "time": "2026-06-25 17:18:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "新竹縣藍營凝聚力現形 徐欣瑩誓言帶隊13鄉鎮市「全壘打」 - 生活新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMExySm94UTN4TDlqbHNsUE02MXFoRldfcnVmQmNERHVGYjFvNnBoMkU4dExQR3dyc3VLOUNCS3p0WUlIRmN1TGt2aFAxR2NjNlpnYnBnaUNRX2NGZ2E2dnNreGRkd1pxcm5DaXpQWlcxRlU1cnd6NWRWN19Hd1JjWi1PX00wMmEydEE?oc=5",
-          "time": "2026-06-25 17:18:00",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "新竹縣調查老人生活狀況與福利需求 確認訪問員身分無誤再受訪",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3c0ZoS3poRkI2UnZjNE1ublFRcG43d3NrX2hIUjB2RFg2Mk5XU2VJYXdZaEpxbExYZDVZckl0Q3JkVFRDejRPMmloVUE0Z2p4V1VlMnVTTkJOa0dMa3IxRmhrckdxUGNX?oc=5",
-          "time": "2026-06-25 14:12:37",
-          "publisher": "Google News→元丰傳媒",
-          "severity": null
-        },
-        {
-          "title": "民眾黨看得是八年後的新竹縣長？",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wX0VoTHVlZVZJZlU0djJxY2stWUNnSGRsYmNpbXY0OUc1UTBsSHAzTmhWU1lJdGxzVFpSSUo0c0NHZU04aWZ2N0JIRGJmLVlUU21uMjBVQ3Exb3VXcVk0UXlDQXNIRnJLdDRr?oc=5",
-          "time": "2026-06-25 12:50:42",
-          "publisher": "Google News→台灣華報",
-          "severity": null
-        },
-        {
-          "title": "放下竹北連任值得嗎？邵立中首談鄭朝方轉戰新竹縣背後考量",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LencyekFIZnZnM0ZoaHRBZkQ5OURmNlQwM1cxYkNhR3ljRW9EYTloWG5uazhHb283R0R5cG5lWUtnLTlGQ0NKd1RKYkxURXpqMGc?oc=5",
-          "time": "2026-06-25 12:01:16",
-          "publisher": "Google News→放言Fount Media",
-          "severity": null
-        },
-        {
-          "title": "一條免費公車跑出四年基層路！邵啟月：新竹縣最該改變的是交通",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UWkNFaVQ5VTZnQWJKRnp6QWVMQ0dmaDJyMlJ0Z0xicUtvV3lRZjFfRTk1NEVpOTUtOXg2LWtGNm44TlhxMThBZHhlN1kwMkw0cHc?oc=5",
-          "time": "2026-06-25 11:36:16",
-          "publisher": "Google News→放言Fount Media",
-          "severity": "yellow"
-        },
-        {
-          "title": "新竹縣食安不妥協 檢驗",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sMnk5VDhFVXZuWkhfa2s0ZFF4djZHcjhPXzBiWERZd3ZsaVpmenJnN2ZRMjRJVzc1R2I1NUpaTmlsRy00Z0IxbDMwdHk0dGFiLXJ3ZTM1RXhLbmpMeWwzeUxaS0xUVzF2?oc=5",
-          "time": "2026-06-25 11:04:26",
-          "publisher": "Google News→元丰傳媒",
-          "severity": null
-        },
-        {
-          "title": "新竹縣府揪團出任務！160名青年志工熱血集結 頭前溪淨溪護生態",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAydllZbkVMQ3pJbnlCZGFpWVNWWjBmMzU2WkQtN2xoTnlmVjhQMUJKak04eHFSc0VMMXN6VS1EWFlDMG00YWJ3OGVhd3o0QmRNWXlmT25wOXVVSUtGOUHSAWhBVV95cUxPMFFZZEtSUHU5Q2hCV21Iam9yNW9oTVpjWlRPVXRqV2FzR3Npa3dtNFM0dnkxdFRwN3lQRUlkUWt4OUFQRzkyWGhXQkFtOVVkOHY4NFE2RHVRU1JEVUZlSzVYMm13Vm1WbA?oc=5",
-          "time": "2026-06-25 11:03:00",
-          "publisher": "ETtoday",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "雲林地方動態",
       "city": "雲林",
       "place": "雲林縣政府",
@@ -931,23 +857,122 @@
       "comments": []
     },
     {
+      "title": "新竹縣地方動態",
+      "city": "新竹縣",
+      "place": "新竹縣政府",
+      "level": "yellow",
+      "news_count": 11,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 11,
+      "news_articles": [
+        {
+          "title": "白營竹北不甩藍白合？竹北三腳督下場？國民黨恐賠掉新竹縣？",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOX3BJN2RFd3BqbkZGMlFCdFRJbUg2bDNoNGZtYmhYN1lnZHdSM29oSGRzWHg2YnZVaHNoTkVnb0MzNV9fajNReFFtX0oxX1pOeTlWQXB5LWg0WjZ6d1V2TVNlVEdOQUxMUkZDaWRQaWZRRkJiQ3BiTlFGQml3MWlFZlk2c3VxQnNqa2g5WVhDQ3BhLThvUC1mdGhpcFdjTHJRdzFYRWIwY2tXQVNMeHRnd1BvMFdTU0tXdkh2Z3R3UEU1NmQyMDUzWW41MHVrZURCRUZwQmlBOE4yY2xyOC1TSDlxSWhXTGNlNVczNE42Tks2ZnBxOE5ZczhfSjZ2ZzZsRDZCYmZZLVVnZHZ2bjk4Y1VIXzJQNWZTbEFDWlNWYjZfMzNYZnpzZkhieERsR2FwWG13bGo1WWJrM3FJSmV0X3B2Y0haelRQTm1fbkpBVDhOSThNVlFZZ3BiaWhjb2JIenNkWTI4ZTVHekxpM1E3RkstOE14OEpYQ1lSc0pnWkw2Zw?oc=5",
+          "time": "2026-06-25 21:00:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "廉能跨域・志氣相投！苗栗與新竹縣廉政志工齊聚三義交流",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzbHNOVXNBblpKY0VrVHdlQjVfcEFIUk5lNXlmZWdFdnlIT295VFluNU9NeWxjVExqd21XWER1WDV0Y2I5UXNhVUdyV1BGUnlwbzJHS3BpOG82c3Y1VUpYcdIBZkFVX3lxTE9IYnJ2eXhINDFicU91MG01TzJrWEFPNFdOSlcwT1JiNXlULVMySTZqZ0Y3ODJ6dWVIV0s5OFVnMjVsRWwxTThZc091dUxLVGpqTERJX216Y3Rqdm1wbDM2NGZXdWNCQQ?oc=5",
+          "time": "2026-06-25 20:20:00",
+          "publisher": "Google News→大纪元",
+          "severity": null
+        },
+        {
+          "title": "感嘆竹北4年前失守代價大！徐欣瑩向藍軍喊話：新竹縣不能再輸",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4YXU4RG03NzBKWHJHRlJYMU5MY05TQWlBQlhQczB3elk4OEJibDdIRHBzUG56bnVsdkJyMV9HSl8zcmpaRWNsN1ZTbFZQODFoTDZHb2wxZjA?oc=5",
+          "time": "2026-06-25 18:30:00",
+          "publisher": "Google News→梅花新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "新竹縣藍營凝聚力現形 徐欣瑩誓言帶隊13鄉鎮市「全壘打」",
+          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNQ0RzWU1XeS04YmMwZElhT1d6ZVo4UU9CZFJnVWZSRVBENjhRSW43YVQzcmJHSGRuQ2tSZnhWZVZSTkxXa3VBVGJkYzQwV3lkeWVmejR4X3RQUkhtQ251UkEyYUhaOTdoVzNlODdOMEMwdnFWYlNlLTByTXB3MklEZ1hWa1BYSmVUSWhtT0VjcmRCR0ctbldWNlg4MkpHVG5Dc1ZKSXVpTFZCVXFNejl5cEpOWlUxWS0xcXhQdjFzNzZHVVhfd09IalRHMTVjem9XYS0wMmlpT2hJcXgyM1VoelZNT2VKMDRnbEo0OXJQcDVhVVhweElqQ01QOEd3RHh1d0RCQi1FaHJXck9GbE9mbm9YUW5kcFF2aU9JbEhEWENEbDc3VmtNdHRldU1HUkVRd0E4NnYxdlNOUXNhd0VuVENUTTZNb1JvUWxnOTJtZE94RXJjTkpZeEl6dzZKUTdvbmpYc2QyX1VjenVC?oc=5",
+          "time": "2026-06-25 17:18:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "新竹縣藍營凝聚力現形 徐欣瑩誓言帶隊13鄉鎮市「全壘打」 - 生活新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMExySm94UTN4TDlqbHNsUE02MXFoRldfcnVmQmNERHVGYjFvNnBoMkU4dExQR3dyc3VLOUNCS3p0WUlIRmN1TGt2aFAxR2NjNlpnYnBnaUNRX2NGZ2E2dnNreGRkd1pxcm5DaXpQWlcxRlU1cnd6NWRWN19Hd1JjWi1PX00wMmEydEE?oc=5",
+          "time": "2026-06-25 17:18:00",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "新竹縣調查老人生活狀況與福利需求 確認訪問員身分無誤再受訪",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3c0ZoS3poRkI2UnZjNE1ublFRcG43d3NrX2hIUjB2RFg2Mk5XU2VJYXdZaEpxbExYZDVZckl0Q3JkVFRDejRPMmloVUE0Z2p4V1VlMnVTTkJOa0dMa3IxRmhrckdxUGNX?oc=5",
+          "time": "2026-06-25 14:12:37",
+          "publisher": "Google News→元丰傳媒",
+          "severity": null
+        },
+        {
+          "title": "民眾黨看得是八年後的新竹縣長？",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wX0VoTHVlZVZJZlU0djJxY2stWUNnSGRsYmNpbXY0OUc1UTBsSHAzTmhWU1lJdGxzVFpSSUo0c0NHZU04aWZ2N0JIRGJmLVlUU21uMjBVQ3Exb3VXcVk0UXlDQXNIRnJLdDRr?oc=5",
+          "time": "2026-06-25 12:50:42",
+          "publisher": "Google News→台灣華報",
+          "severity": null
+        },
+        {
+          "title": "放下竹北連任值得嗎？邵立中首談鄭朝方轉戰新竹縣背後考量",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LencyekFIZnZnM0ZoaHRBZkQ5OURmNlQwM1cxYkNhR3ljRW9EYTloWG5uazhHb283R0R5cG5lWUtnLTlGQ0NKd1RKYkxURXpqMGc?oc=5",
+          "time": "2026-06-25 12:01:16",
+          "publisher": "Google News→放言Fount Media",
+          "severity": null
+        },
+        {
+          "title": "一條免費公車跑出四年基層路！邵啟月：新竹縣最該改變的是交通",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UWkNFaVQ5VTZnQWJKRnp6QWVMQ0dmaDJyMlJ0Z0xicUtvV3lRZjFfRTk1NEVpOTUtOXg2LWtGNm44TlhxMThBZHhlN1kwMkw0cHc?oc=5",
+          "time": "2026-06-25 11:36:16",
+          "publisher": "Google News→放言Fount Media",
+          "severity": "yellow"
+        },
+        {
+          "title": "新竹縣食安不妥協 檢驗",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sMnk5VDhFVXZuWkhfa2s0ZFF4djZHcjhPXzBiWERZd3ZsaVpmenJnN2ZRMjRJVzc1R2I1NUpaTmlsRy00Z0IxbDMwdHk0dGFiLXJ3ZTM1RXhLbmpMeWwzeUxaS0xUVzF2?oc=5",
+          "time": "2026-06-25 11:04:26",
+          "publisher": "Google News→元丰傳媒",
+          "severity": null
+        },
+        {
+          "title": "新竹縣府揪團出任務！160名青年志工熱血集結 頭前溪淨溪護生態",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAydllZbkVMQ3pJbnlCZGFpWVNWWjBmMzU2WkQtN2xoTnlmVjhQMUJKak04eHFSc0VMMXN6VS1EWFlDMG00YWJ3OGVhd3o0QmRNWXlmT25wOXVVSUtGOUHSAWhBVV95cUxPMFFZZEtSUHU5Q2hCV21Iam9yNW9oTVpjWlRPVXRqV2FzR3Npa3dtNFM0dnkxdFRwN3lQRUlkUWt4OUFQRzkyWGhXQkFtOVVkOHY4NFE2RHVRU1JEVUZlSzVYMm13Vm1WbA?oc=5",
+          "time": "2026-06-25 11:03:00",
+          "publisher": "ETtoday",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "廚餘山",
       "city": "台中",
-      "place": "台中市政府",
+      "place": "台中市霧峰區",
       "level": "yellow",
       "news_count": 0,
-      "comment_count": 21,
+      "comment_count": 22,
       "negativity_pct": 0,
       "is_urgent": true,
-      "urgency_score": 51,
+      "urgency_score": 54,
       "news_articles": [],
       "comments": [
+        {
+          "platform": "facebook",
+          "text": "大里垃圾山霧峰廚餘盧媽媽有沒有做好防護，不要只會說要市民注意",
+          "author": "張程",
+          "url": "",
+          "time_text": "28分鐘",
+          "signal": "red"
+        },
         {
           "platform": "facebook",
           "text": "廚餘湖會不會滿出來啊",
           "author": "Sharon Huang",
           "url": "",
-          "time_text": "5小時",
+          "time_text": "6小時",
           "signal": "yellow"
         },
         {
@@ -955,7 +980,7 @@
           "text": "垃圾廚餘糞水市，打鼓擺爛沒妳事",
           "author": "陳俊洋",
           "url": "",
-          "time_text": "8小時",
+          "time_text": "9小時",
           "signal": "red"
         },
         {
@@ -963,7 +988,7 @@
           "text": "完了完了 廚餘要滿出來了",
           "author": "林嘻嘻",
           "url": "",
-          "time_text": "13小時",
+          "time_text": "14小時",
           "signal": "yellow"
         },
         {
@@ -971,7 +996,7 @@
           "text": "垃圾廚餘糞水市",
           "author": "尤朝蒼",
           "url": "",
-          "time_text": "13小時",
+          "time_text": "14小時",
           "signal": "red"
         },
         {
@@ -979,7 +1004,7 @@
           "text": "廚餘細菌大軍 快了 盧媽媽 妳的家人 噁",
           "author": "鄭育仁",
           "url": "",
-          "time_text": "14小時",
+          "time_text": "15小時",
           "signal": "red"
         },
         {
@@ -987,7 +1012,7 @@
           "text": "垃圾廚餘順便沖到隔壁縣市",
           "author": "蘇琳",
           "url": "",
-          "time_text": "14小時",
+          "time_text": "15小時",
           "signal": "red"
         },
         {
@@ -995,7 +1020,7 @@
           "text": "垃圾山人，廚餘豬",
           "author": "Wbmkjkl Rek",
           "url": "",
-          "time_text": "14小時",
+          "time_text": "15小時",
           "signal": "red"
         },
         {
@@ -1003,7 +1028,7 @@
           "text": "廚餘垃圾不清，拍照倒是挺會擺拍",
           "author": "Coil Erald",
           "url": "",
-          "time_text": "16小時",
+          "time_text": "17小時",
           "signal": "red"
         },
         {
@@ -1011,7 +1036,7 @@
           "text": "為什麼大家那麼關心在意垃圾山跟廚餘 只要民調第一名 就好",
           "author": "Roger Serrano",
           "url": "",
-          "time_text": "16小時",
+          "time_text": "17小時",
           "signal": "red"
         },
         {
@@ -1019,7 +1044,7 @@
           "text": "（廚餘）會不會成災啊！",
           "author": "賴志勇",
           "url": "",
-          "time_text": "18小時",
+          "time_text": "19小時",
           "signal": "yellow"
         },
         {
@@ -1027,7 +1052,7 @@
           "text": "盧媽帶領下 環保局亂丟廚餘 警局報案兇手是局長 教練教你性侵 這下水利局不知會出啥怪招嗎",
           "author": "Hsiaoyi Lai",
           "url": "",
-          "time_text": "18小時",
+          "time_text": "19小時",
           "signal": "red"
         },
         {
@@ -1035,7 +1060,7 @@
           "text": "盧媽，請問今天下雨水溝蓋會再噴屎嗎？會噴出衛生棉嗎？垃圾山會漂流嗎？廚餘會流到馬路嗎？",
           "author": "May Wang",
           "url": "",
-          "time_text": "19小時",
+          "time_text": "20小時",
           "signal": "red"
         },
         {
@@ -1043,7 +1068,7 @@
           "text": "陶謙光 關心過廚餘 垃圾嗎",
           "author": "Hsiaoyi Lai",
           "url": "",
-          "time_text": "18小時",
+          "time_text": "19小時",
           "signal": "red"
         },
         {
@@ -1051,7 +1076,7 @@
           "text": "盧秀燕此獠可稱災厄之母，貫以mama自稱博取信任，其心思惡毒、市政無能、廢馳職務、怠惰失職導致鼠患、豬瘟、病禽、槍擊、毒販、性侵、愛滋擴散、貪污、火災、廢棄物、垃圾山、廚餘湖等禍害。",
           "author": "蔡志明",
           "url": "",
-          "time_text": "19小時",
+          "time_text": "20小時",
           "signal": "red"
         },
         {
@@ -1059,7 +1084,7 @@
           "text": "垃圾廚餘市長",
           "author": "Meng Chuan Yang",
           "url": "",
-          "time_text": "19小時",
+          "time_text": "20小時",
           "signal": "red"
         },
         {
@@ -1999,11 +2024,11 @@
       "city": "金門",
       "place": "金門縣政府",
       "level": "yellow",
-      "news_count": 44,
+      "news_count": 43,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 47,
+      "urgency_score": 46,
       "news_articles": [
         {
           "title": "2026藍色公路布袋－澎湖－金門高速輪抵金旅客332位、前往澎湖旅客152人",
@@ -2305,41 +2330,6 @@
           "time": "2026-06-25 09:26:15",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "金門大學親子運動夏令營 6/30前報名額滿截止 - 生活新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWkZ1bFZwaW1KNjV0a081bUR3emlRdjdrTkFUQmp0b3lKNFB0ZnF6WlgxdzFPVExBQU9sVTBfM2ZPc2RIT3Fyd3EzcTdRVDJ4RDZLUUM3Y3VJRmpxd2YtM1FSLVJRdGQwZ1lEUXRwVE1iMjhXR1hGZG9MeGxjWmlKSzdiQ3lDRTdIM0hnaQ?oc=5",
-          "time": "2026-06-25 09:21:00",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "台中弊案爭議",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "red",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "[Gossiping] Re: [新聞] 台中噁教練性侵球員還拍片　第二波起訴1",
-          "url": "https://www.ptt.cc/bbs/Gossiping/M.1782359631.A.593.html",
-          "time": "2026-06-25 11:53:51",
-          "publisher": null,
-          "severity": "red"
-        },
-        {
-          "title": "53學生遭棒球狼教練松志彬伸魔爪　台中地院第2波起訴判19年",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-06-24/2387093.html",
-          "time": "2026-06-25 11:19:14",
-          "publisher": "壹電視",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -2367,6 +2357,34 @@
           "url": "https://udn.com/news/story/6656/9587984?from=udn-ch1_breaknews-1-cate1-news",
           "time": "2026-06-25 15:00:48",
           "publisher": "聯合新聞網",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台中弊案爭議",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "red",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "[Gossiping] Re: [新聞] 台中噁教練性侵球員還拍片　第二波起訴1",
+          "url": "https://www.ptt.cc/bbs/Gossiping/M.1782359631.A.593.html",
+          "time": "2026-06-25 11:53:51",
+          "publisher": null,
+          "severity": "red"
+        },
+        {
+          "title": "53學生遭棒球狼教練松志彬伸魔爪　台中地院第2波起訴判19年",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-06-24/2387093.html",
+          "time": "2026-06-25 11:19:14",
+          "publisher": "壹電視",
           "severity": "red"
         }
       ],
@@ -3259,11 +3277,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "red",
-      "news_count": 57,
+      "news_count": 55,
       "comment_count": 0,
-      "negativity_pct": 12,
+      "negativity_pct": 13,
       "is_urgent": false,
-      "urgency_score": 78,
+      "urgency_score": 76,
       "news_articles": [
         {
           "title": "宜蘭民政表揚",
@@ -3649,20 +3667,6 @@
           "time": "2026-06-25 09:43:29",
           "publisher": "Google News→宜蘭新聞網",
           "severity": null
-        },
-        {
-          "title": "酷暑強襲！宜蘭「紅肉拔」怕曬傷 果農套袋抗熱害",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5483222",
-          "time": "2026-06-25 09:21:09",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "酷暑強襲！宜蘭「紅肉拔」怕曬傷 果農套袋抗熱害",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZRmhjSFppRkFxV2xoZGVMY1M2bzhVcVhsU1JZWHlJYWdlekVkdnFqRVYtcGxPZ0R0UF9Ccm5YNkNsVnhId00xREM0eFl6RmQtVU5YbXpmRUgtOW80Vm5Yd0h0ei3SAWpBVV95cUxNejVoaTRNZ1d0azFqR3ZnRV9oMjBvd053TkgwT0xoRG9FZzBYUWJtbnliRUkwVnd4VXQwS1V4c0drcWdCNXFNeWRKbEJ6eGZqQ0NjRTRQd3ZIRk9HN3ZPMmw0QmVMUHVhYTZR?oc=5",
-          "time": "2026-06-25 09:21:09",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -6633,11 +6637,11 @@
       "city": "台中",
       "place": "台中市清水區",
       "level": "red",
-      "news_count": 122,
+      "news_count": 121,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 134,
+      "urgency_score": 133,
       "news_articles": [
         {
           "title": "[Gossiping] Re: [新聞] 公車站旁悄說「我喜歡你」 台中男遭認定性騷擾判罰2萬",
@@ -7485,13 +7489,6 @@
           "time": "2026-06-25 09:37:02",
           "publisher": "Google News→環球日報社",
           "severity": null
-        },
-        {
-          "title": "林業署屏東分署《複層之森》紀錄片最終加場 7/4台中登場",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5483204",
-          "time": "2026-06-25 09:21:45",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []
@@ -7501,11 +7498,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 165,
+      "news_count": 163,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 183,
+      "urgency_score": 181,
       "news_articles": [
         {
           "title": "花蓮萬里溪堰塞湖危機 政院持續監測 需撤7村里",
@@ -8647,20 +8644,6 @@
           "time": "2026-06-25 09:35:35",
           "publisher": "蕃新聞",
           "severity": null
-        },
-        {
-          "title": "搭縱谷花蓮線 好「米」攏底佳！暑假隨車志工導覽再升級 12個月好米大禮包大方送",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDRVbUttdmtrOHdOaS1QSGktSGRzQy1idFV1VEJ1N3hSUE5xZ0FmY3FaZFBqb2RmN29fcFlnZ3poQW9HUjhQY2VwcWNUd1ZVcW5TYXRyOHB6ZlItZDJUbzkyXzR5VVpwYWdPMlVSUHZhY0t0d2o0QXhEaFBmeFdqMVduV0FNU2RtTThpS2xRNFVmcWM?oc=5",
-          "time": "2026-06-25 09:23:01",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "搭縱谷花蓮線 好「米」攏底佳！暑假隨車志工導覽再升級 12個月好米大禮包大方送",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LTlBtNF8xZG5YRl9FTF9xYkc0MHQ0Z1hrcVFfWm5pS2U2WFZOajM5S3BSbUw5aER4ZEhjRHprNm5NdnptbW00d0ZhbUpBY0FwTE9v?oc=5",
-          "time": "2026-06-25 09:23:01",
-          "publisher": "Google News→台灣好報",
-          "severity": null
         }
       ],
       "comments": []
@@ -8670,11 +8653,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "red",
-      "news_count": 254,
+      "news_count": 253,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 257,
+      "urgency_score": 256,
       "news_articles": [
         {
           "title": "第7號颱風北上 高屏防超大豪雨、台南及恆春半島大豪雨",
@@ -10446,13 +10429,6 @@
           "time": "2026-06-25 09:30:30",
           "publisher": "壹蘋新聞網",
           "severity": "yellow"
-        },
-        {
-          "title": "林業署屏東分署《複層之森》紀錄片最終加場 7/4台中登場",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5483204",
-          "time": "2026-06-25 09:21:45",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []
@@ -10462,11 +10438,11 @@
       "city": "台北",
       "place": "台北市內湖區",
       "level": "red",
-      "news_count": 258,
+      "news_count": 257,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 279,
+      "urgency_score": 278,
       "news_articles": [
         {
           "title": "咕嚕咕嚕！豪雨炸北市 網友刷「火鍋梗」酸蔣萬安",
@@ -12266,13 +12242,6 @@
           "time": "2026-06-25 09:34:24",
           "publisher": "聯合新聞網",
           "severity": null
-        },
-        {
-          "title": "中國網紅免安檢直闖北市府震撼驚呼：這就是文明！中網嘆：反觀我們",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E7%B6%B2%E7%B4%85%E5%85%8D%E5%AE%89%E6%AA%A2%E7%9B%B4%E9%97%96%E5%8C%97%E5%B8%82%E5%BA%9C%E9%9C%87%E6%92%BC%E9%A9%9A%E5%91%BC-%E9%80%99%E5%B0%B1%E6%98%AF%E6%96%87%E6%98%8E-%E4%B8%AD%E7%B6%B2%E5%98%86-%E5%8F%8D%E8%A7%80%E6%88%91%E5%80%91-012200486.html",
-          "time": "2026-06-25 09:22:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
