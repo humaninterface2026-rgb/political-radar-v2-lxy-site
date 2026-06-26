@@ -40786,7 +40786,7 @@
     },
     {
       "date": "2026-06-26",
-      "snapshot_at": "2026-06-26T01:09:10.352075+00:00",
+      "snapshot_at": "2026-06-26T01:20:43.387991+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -40817,9 +40817,9 @@
           ]
         },
         {
-          "title": "彰化詐騙案",
-          "city": "彰化",
-          "place": "彰化縣政府",
+          "title": "基隆詐騙案",
+          "city": "基隆",
+          "place": "基隆市政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -40827,7 +40827,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "詐騙集團假冒公所名義在網路刊廣告 彰化縣和美鎮公所不忍了！"
+            "基市警局志工特殊訓練開訓 攜手打擊毒駕與詐騙"
           ]
         },
         {
@@ -40845,9 +40845,9 @@
           ]
         },
         {
-          "title": "基隆詐騙案",
-          "city": "基隆",
-          "place": "基隆市政府",
+          "title": "彰化詐騙案",
+          "city": "彰化",
+          "place": "彰化縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -40855,7 +40855,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "基市警局志工特殊訓練開訓 攜手打擊毒駕與詐騙"
+            "詐騙集團假冒公所名義在網路刊廣告 彰化縣和美鎮公所不忍了！"
           ]
         },
         {
@@ -41144,11 +41144,11 @@
           "city": "南投",
           "place": "南投縣政府",
           "level": "yellow",
-          "news_count": 33,
+          "news_count": 32,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 33,
+          "urgency_score": 32,
           "sample_titles": [
             "集集線火車全線通車 總統：南投發展新契機",
             "新北記者職業工會媒合佛教正心會 捐南投榮服處遺孤認養金",
@@ -41160,11 +41160,11 @@
           "city": "嘉義縣",
           "place": "嘉義縣政府",
           "level": "yellow",
-          "news_count": 40,
+          "news_count": 39,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 40,
+          "urgency_score": 39,
           "sample_titles": [
             "嘉義縣梅山鄉、竹崎鄉、番路鄉、大埔鄉、阿里山鄉6月25日下午2時起停止上班、停止上課",
             "嘉義縣5鄉、高雄3區、屏東今午後停班課 (不斷更新)",
@@ -41176,11 +41176,11 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "yellow",
-          "news_count": 45,
+          "news_count": 44,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 48,
+          "urgency_score": 47,
           "sample_titles": [
             "2026藍色公路布袋－澎湖－金門高速輪抵金旅客332位、前往澎湖旅客152人",
             "《花帔阿獺》台江、港都巡演 陳龍安攜手和順、光武國小共串影像交流分享金門之美",
@@ -41286,11 +41286,11 @@
           "city": "台東",
           "place": "台東縣政府",
           "level": "red",
-          "news_count": 23,
+          "news_count": 22,
           "comment_count": 0,
-          "negativity_pct": 17,
+          "negativity_pct": 18,
           "is_urgent": false,
-          "urgency_score": 35,
+          "urgency_score": 34,
           "sample_titles": [
             "監院上訴失敗！收下受刑人女友的荔枝、吳郭魚 前台東戒治所長終局下場曝",
             "台東0到6歲 7/1起免健保費",
@@ -41334,11 +41334,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 58,
+          "news_count": 57,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 79,
+          "urgency_score": 78,
           "sample_titles": [
             "宜蘭民政表揚",
             "宜蘭 吳宗憲端長照牛肉 喊把我當五結人",
@@ -41366,11 +41366,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 110,
+          "news_count": 108,
           "comment_count": 0,
           "negativity_pct": 13,
           "is_urgent": false,
-          "urgency_score": 152,
+          "urgency_score": 150,
           "sample_titles": [
             "新北升級豪雨！南高屏今暴雨下到深夜 雨量排行：這處破300毫米 | 天氣預報 | 生活",
             "大豪雨狂灌 新北國家警報響 19縣市豪雨特報",
@@ -41382,11 +41382,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 116,
+          "news_count": 114,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 116,
+          "urgency_score": 114,
           "sample_titles": [
             "第7號颱風北上 高屏防超大豪雨、台南及恆春半島大豪雨",
             "台南雷神降臨！夜如白晝 天幕狂閃轟天雷",
@@ -41398,11 +41398,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 122,
+          "news_count": 120,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 140,
+          "urgency_score": 138,
           "sample_titles": [
             "桃園觀音、新屋清晨暴雨 多處積水成災",
             "豪雨做大水！桃園「地下宮殿」翻紅 地點曝光",
@@ -41442,31 +41442,15 @@
           ]
         },
         {
-          "title": "台北地方動態",
-          "city": "台北",
-          "place": "台北市內湖區",
-          "level": "red",
-          "news_count": 259,
-          "comment_count": 0,
-          "negativity_pct": 3,
-          "is_urgent": false,
-          "urgency_score": 280,
-          "sample_titles": [
-            "大水淹內湖！8連霸議員轟蔣萬安空洞無能：台北人真要縱容？",
-            "快訊／北市內湖多處積水 成功路四段邊坡坍塌砸1車",
-            "房市價、量同步回升！北市3月住宅價格指數上升1.50％、交易量強彈75％"
-          ]
-        },
-        {
           "title": "屏東地方動態",
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 264,
+          "news_count": 254,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 267,
+          "urgency_score": 257,
           "sample_titles": [
             "第7號颱風北上 高屏防超大豪雨、台南及恆春半島大豪雨",
             "高雄屏東防超大豪雨 台南與新北山區留意大豪雨",
@@ -41474,15 +41458,31 @@
           ]
         },
         {
+          "title": "台北地方動態",
+          "city": "台北",
+          "place": "台北市內湖區",
+          "level": "red",
+          "news_count": 258,
+          "comment_count": 0,
+          "negativity_pct": 3,
+          "is_urgent": false,
+          "urgency_score": 279,
+          "sample_titles": [
+            "咕嚕咕嚕！豪雨炸北市 網友刷「火鍋梗」酸蔣萬安",
+            "大水淹內湖！8連霸議員轟蔣萬安空洞無能：台北人真要縱容？",
+            "快訊／北市內湖多處積水 成功路四段邊坡坍塌砸1車"
+          ]
+        },
+        {
           "title": "高雄地方動態",
           "city": "高雄",
           "place": "高雄市左營區",
           "level": "red",
-          "news_count": 350,
+          "news_count": 349,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 386,
+          "urgency_score": 385,
           "sample_titles": [
             "高雄今停班課 網友洗版陳其邁臉書「咕嚕咕嚕」變「好帥好棒」",
             "高市6/26公共運輸調整一次看！ 陳其邁：非必要不外出",
