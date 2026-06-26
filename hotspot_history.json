@@ -40786,7 +40786,7 @@
     },
     {
       "date": "2026-06-26",
-      "snapshot_at": "2026-06-26T11:05:22.531368+00:00",
+      "snapshot_at": "2026-06-26T11:20:30.925207+00:00",
       "hotspots": [
         {
           "title": "高雄墜樓事件",
@@ -40932,22 +40932,6 @@
           ]
         },
         {
-          "title": "雲林地方動態",
-          "city": "雲林",
-          "place": "雲林縣政府",
-          "level": "green",
-          "news_count": 9,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 9,
-          "sample_titles": [
-            "拒絕被老天\"割韭菜\"! 雲林稻農.菜農搶收大作戰",
-            "2026 FCA 創新商務獎引領AI時代服務創新 雲林縣政府以兩大應用服務獲獎 成為地方政府最大贏家",
-            "雲林縣政府推動成立鍾慶安衛家族 強化職場安全工作"
-          ]
-        },
-        {
           "title": "廚餘山",
           "city": "台中",
           "place": "台中市大里區",
@@ -41016,6 +41000,22 @@
           ]
         },
         {
+          "title": "雲林地方動態",
+          "city": "雲林",
+          "place": "雲林縣政府",
+          "level": "yellow",
+          "news_count": 9,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 9,
+          "sample_titles": [
+            "拒絕被老天\"割韭菜\"! 雲林稻農.菜農搶收大作戰",
+            "2026 FCA 創新商務獎引領AI時代服務創新 雲林縣政府以兩大應用服務獲獎 成為地方政府最大贏家",
+            "雲林縣政府推動成立鍾慶安衛家族 強化職場安全工作"
+          ]
+        },
+        {
           "title": "台東地方動態",
           "city": "台東",
           "place": "台東縣政府",
@@ -41052,31 +41052,15 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
-          "news_count": 24,
+          "news_count": 26,
           "comment_count": 2,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 26,
+          "urgency_score": 28,
           "sample_titles": [
             "盧秀燕連7年出席城市祈禱餐會為市民平安祈福| 青年日報",
-            "出席城市祈禱餐會 盧秀燕攜手各界為平安祈福",
-            "盧秀燕視察五張犁抽水站籲民眾不要掉以輕心"
-          ]
-        },
-        {
-          "title": "基隆地方動態",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "yellow",
-          "news_count": 29,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 29,
-          "sample_titles": [
-            "超狂！95歲爭霸基隆樂活銀星 500長者共3.7萬歲同台秀活力",
-            "2026基隆親水季7月4日登場 暖暖親水公園2.0全新開放",
-            "雨彈夜襲基隆 通報3起零星災情 謝國樑清晨坐鎮防災"
+            "持續守護市民家人！盧秀燕連7年出席城市祈禱餐會 攜手各界為平安祈福",
+            "出席城市祈禱餐會 盧秀燕攜手各界為平安祈福"
           ]
         },
         {
@@ -41084,30 +41068,15 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "yellow",
-          "news_count": 35,
+          "news_count": 34,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 35,
+          "urgency_score": 34,
           "sample_titles": [
             "觀光署及澎管處邀請德國旅遊業者蒞臨澎湖踩線參訪深度體驗海灣風光與海洋遊憩魅力觀光署駐法蘭克福辦事處也表示，澎湖兼具自然景",
             "澎湖深夜雷雨狂炸淹大街　低窪住家慘遭泥水灌入",
             "澎湖副縣長林皆興擲出聖筊 為展館帶來滿滿好兆頭"
-          ]
-        },
-        {
-          "title": "台北弊案爭議",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "剴剴案再起訴1人！居托中心訪視員涉造假訪視紀錄 北市社會局證實已離職",
-            "錯失剴剴救命黃金期 北市居托訪視員竟為私利造假、會議上撒謊被起訴"
           ]
         },
         {
@@ -41123,6 +41092,21 @@
           "sample_titles": [
             "進口中國製香品冒充MIT 嘉義縣香料廠業者起訴",
             "進口中國製香品冒充MIT 嘉義縣香料廠業者起訴| 社會"
+          ]
+        },
+        {
+          "title": "台北弊案爭議",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "剴剴案再起訴1人！居托中心訪視員涉造假訪視紀錄 北市社會局證實已離職",
+            "錯失剴剴救命黃金期 北市居托訪視員竟為私利造假、會議上撒謊被起訴"
           ]
         },
         {
@@ -41190,15 +41174,31 @@
           ]
         },
         {
+          "title": "基隆地方動態",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "red",
+          "news_count": 29,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 29,
+          "sample_titles": [
+            "超狂！95歲爭霸基隆樂活銀星 500長者共3.7萬歲同台秀活力",
+            "2026基隆親水季7月4日登場 暖暖親水公園2.0全新開放",
+            "雨彈夜襲基隆 通報3起零星災情 謝國樑清晨坐鎮防災"
+          ]
+        },
+        {
           "title": "嘉義縣地方動態",
           "city": "嘉義縣",
           "place": "嘉義縣政府",
           "level": "red",
-          "news_count": 33,
+          "news_count": 29,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 39,
+          "urgency_score": 35,
           "sample_titles": [
             "東石海之夏即將登場 嘉義縣衛生局辦講習、加強攤商稽查",
             "避免農泥污染道路 嘉義縣環保局呼籲農機離田先完成清潔",
@@ -41210,11 +41210,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 38,
+          "news_count": 37,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 44,
+          "urgency_score": 43,
           "sample_titles": [
             "暢遊宜蘭好禮加倍抽2.0落幕 獲獎幸運兒現身抱回汽車與多項大獎",
             "宜蘭三星「梨饗茶香－幸福梨饗宴」 啟動 搶攻暑假商機",
@@ -41258,15 +41258,31 @@
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "red",
-          "news_count": 74,
+          "news_count": 75,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 80,
+          "urgency_score": 81,
           "sample_titles": [
             "【Storefriendly 儲存易迷你倉集團特約】台灣新竹市今日（26日）早上遭暴雨侵襲，多處道路及地下通道出現嚴重水",
             "莊競程控太原地下道防汛未落實 新竹市府秀紀錄打臉：昨日才完成巡檢",
             "綠營控太原地下道防汛未落實大翻車 新竹市府秀證據：昨日才完成巡檢"
+          ]
+        },
+        {
+          "title": "台中地方動態",
+          "city": "台中",
+          "place": "台中市北屯區",
+          "level": "red",
+          "news_count": 95,
+          "comment_count": 0,
+          "negativity_pct": 11,
+          "is_urgent": false,
+          "urgency_score": 125,
+          "sample_titles": [
+            "白營爆內鬨　邱于珊控民調高被勸退、柯文哲台中輔選喊「誤會」",
+            "台中北屯運動中心6/26起試營運 滑冰場7/3啟用",
+            "中台灣近十年最大車展登場！36品牌齊聚 台中掀賞車熱潮"
           ]
         },
         {
@@ -41283,22 +41299,6 @@
             "花蓮縣警局替代役備役役男召訓 強化全民防衛韌性與災害應變能力",
             "雨量下修 農業部解除花蓮縣萬里溪堰塞湖「黃色警戒」",
             "命大！花蓮赤科山竹林湖預拌混凝土翻車 司機卡變形車頭幸運獲救"
-          ]
-        },
-        {
-          "title": "台中地方動態",
-          "city": "台中",
-          "place": "台中市北屯區",
-          "level": "red",
-          "news_count": 98,
-          "comment_count": 0,
-          "negativity_pct": 10,
-          "is_urgent": false,
-          "urgency_score": 128,
-          "sample_titles": [
-            "白營爆內鬨　邱于珊控民調高被勸退、柯文哲台中輔選喊「誤會」",
-            "台中北屯運動中心6/26起試營運 滑冰場7/3啟用",
-            "中台灣近十年最大車展登場！36品牌齊聚 台中掀賞車熱潮"
           ]
         },
         {
@@ -41370,11 +41370,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 162,
+          "news_count": 156,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 165,
+          "urgency_score": 159,
           "sample_titles": [
             "屏東豪大雨萬隻鴨被沖走　民眾趁機「加菜」 鴨農怒吼：放開",
             "豪雨轟全台！屏東包辦雨量前三名 下週二才放晴",
@@ -41384,7 +41384,7 @@
         {
           "title": "台北地方動態",
           "city": "台北",
-          "place": "台北市內湖區",
+          "place": "台北市南港區",
           "level": "red",
           "news_count": 209,
           "comment_count": 0,
@@ -41392,9 +41392,9 @@
           "is_urgent": false,
           "urgency_score": 227,
           "sample_titles": [
+            "北市積水惹民怨！南港、內湖淹成河 蔣萬安：會即刻改進",
             "內湖真淹成湖！高嘉瑜要北市府檢討 網灌爆臉書：怎不說高雄屏東",
-            "果農臉書留言要對李四川、羅智強不利 北市刑大迅速南下逮人",
-            "2026台北國際食品展飛天豬溯源領鮮料理蔥燒獅子頭驚艷全場"
+            "果農臉書留言要對李四川、羅智強不利 北市刑大迅速南下逮人"
           ]
         },
         {
