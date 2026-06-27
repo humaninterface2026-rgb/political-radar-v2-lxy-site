@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "snapshot_at": "2026-06-27T01:19:13.692583+00:00",
+  "snapshot_at": "2026-06-27T01:27:30.751924+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -1021,11 +1021,11 @@
       "city": "澎湖",
       "place": "澎湖縣政府",
       "level": "yellow",
-      "news_count": 34,
+      "news_count": 33,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 34,
+      "urgency_score": 33,
       "news_articles": [
         {
           "title": "雨彈還在炸！全台+澎湖慎防豪、大雨",
@@ -1257,13 +1257,6 @@
           "time": "2026-06-26 09:37:12",
           "publisher": "Google News→PChome Online 新聞",
           "severity": null
-        },
-        {
-          "title": "澎湖觀光不能再靠花火節？學者：新鮮感下滑、VP值不足難留客",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzeDJWbTNlbEVEdkpzWVFpQnU0MDhYLVBINzdWT2lQdEJtRWlSMUU5NnlGTi1kNVdoUkhCcTFDZUFYQmY3N05jTHBmMnJ4MVREbkNpdldZN3VzMUhnZWJKeGo1SUTSAWRBVV95cUxQM3gyVm0zZWxFRHZKc1lRaUJ1NDA4WC1QSDc3Vk9pUHRCbUVpUjFFOTZ5Rk4tZDVXaFJIQnExQ2VBWEJmNzdOY0xwZjJyeDFURG5DaXZXWTd1czFIZ2ViSnhqNUlE?oc=5",
-          "time": "2026-06-26 09:24:52",
-          "publisher": "Google News→倡議家",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -1697,11 +1690,11 @@
       "city": "苗栗",
       "place": "苗栗縣政府",
       "level": "yellow",
-      "news_count": 66,
+      "news_count": 64,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 66,
+      "urgency_score": 64,
       "news_articles": [
         {
           "title": "網購買鍍金品！苗栗男「騙過銀樓」變賣獲利31萬 警火速逮人",
@@ -2149,20 +2142,6 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tWWhXa0FVQUZiRjNYY3lyUzQ4TmJacmFOc2h3ZXFRbmxOdFpUdU9jSTE3aFNRN1pHbGVkeDZFZzA4bm5wT1ZrQWZfd2N4VzhL0gFWQVVfeXFMT1FpZEM2aVVXc0ZjMGl2OEVDTXBmX0ZHTDh1Q3MtLWRBX0VsNWZoMENfV09rUFQ3dFlicVR2ai1jU1dTN2tWSnBYQkgtWXZzYXE1Q3AtREE?oc=5",
           "time": "2026-06-26 09:34:15",
           "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "高鐵新竹苗栗間邊坡告警部分列車延誤| 生活",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBETk1TWTVaZGJWNmdNcXVGWmdUOHBoTHBHVXR6aV9McVRkX0F0d3Jhc0xFXzZTRm1CczRVRlZzQ1ZzNER1eUZ1cUc2WF9oV0J4Yk56T1NLcGhuNmtLSGNZ?oc=5",
-          "time": "2026-06-26 09:27:00",
-          "publisher": "中央社",
-          "severity": "yellow"
-        },
-        {
-          "title": "高鐵大誤點！新竹、苗栗「邊坡告警作動」 全線受影響- 生活",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DUW5oTzRiZWRXSkpPaXhzc2VYaEw5Y29mX0hmTERBZWV1TkJwYTczWm9qSzVIQWhhMTBzY1RXalM1MHJ5ajVnN3BQVUxJZjNYSUhiYW0tbEdLaEVHdURNWGZIcDRmdnA4VzRTZnNR?oc=5",
-          "time": "2026-06-26 09:22:08",
-          "publisher": "中時新聞網",
           "severity": "yellow"
         }
       ],
@@ -2799,34 +2778,6 @@
       "comments": []
     },
     {
-      "title": "嘉義縣弊案爭議",
-      "city": "嘉義縣",
-      "place": "嘉義縣政府",
-      "level": "red",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "進口中國製香品冒充MIT 嘉義縣香料廠業者起訴",
-          "url": "https://www.cna.com.tw/news/asoc/202606260204.aspx",
-          "time": "2026-06-26 15:03:23",
-          "publisher": "中央社",
-          "severity": "red"
-        },
-        {
-          "title": "進口中國製香品冒充MIT 嘉義縣香料廠業者起訴| 社會",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UMDNheWJRX1Vha2xQbG5oM000N3FQazZUcWRpWHUxcjN0MHh3dURCOWRhSFlCMnNoSXNNRXpaeW9qRDRORi0wUGZXZFpIUUlMaDByOVdlb0pOa01OM2RF?oc=5",
-          "time": "2026-06-26 15:03:00",
-          "publisher": "中央社",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "新北弊案爭議",
       "city": "新北",
       "place": "新北市政府",
@@ -2883,6 +2834,34 @@
       "comments": []
     },
     {
+      "title": "嘉義縣弊案爭議",
+      "city": "嘉義縣",
+      "place": "嘉義縣政府",
+      "level": "red",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "進口中國製香品冒充MIT 嘉義縣香料廠業者起訴",
+          "url": "https://www.cna.com.tw/news/asoc/202606260204.aspx",
+          "time": "2026-06-26 15:03:23",
+          "publisher": "中央社",
+          "severity": "red"
+        },
+        {
+          "title": "進口中國製香品冒充MIT 嘉義縣香料廠業者起訴| 社會",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UMDNheWJRX1Vha2xQbG5oM000N3FQazZUcWRpWHUxcjN0MHh3dURCOWRhSFlCMnNoSXNNRXpaeW9qRDRORi0wUGZXZFpIUUlMaDByOVdlb0pOa01OM2RF?oc=5",
+          "time": "2026-06-26 15:03:00",
+          "publisher": "中央社",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "台中弊案爭議",
       "city": "台中",
       "place": "台中市政府",
@@ -2929,11 +2908,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 6,
+      "news_count": 5,
       "comment_count": 0,
       "negativity_pct": 100,
       "is_urgent": true,
-      "urgency_score": 24,
+      "urgency_score": 20,
       "news_articles": [
         {
           "title": "社會 2026/06/26 11:38 林口車禍國1北上雨中9車連環撞 14人送醫",
@@ -2969,13 +2948,6 @@
           "time": "2026-06-26 09:36:23",
           "publisher": "壹蘋新聞網",
           "severity": "yellow"
-        },
-        {
-          "title": "國1林口段9車車禍！30多人輕重傷或驚嚇 友達員工專車在內",
-          "url": "https://tw.news.yahoo.com/%E5%9C%8B1%E6%9E%97%E5%8F%A3%E4%BA%A4%E6%B5%81%E9%81%93%E5%8C%97%E4%B8%8A%E8%B7%AF%E6%AE%B52%E9%81%8A%E8%A6%BD%E8%BB%8A%E8%BB%8A%E7%A6%8D-%E8%BB%8A%E4%B8%8A30%E5%A4%9A%E4%BA%BA%E5%82%B7%E5%8B%A2%E5%BE%85%E8%A9%95%E4%BC%B0-000411518.html",
-          "time": "2026-06-26 09:26:11",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -6723,11 +6695,11 @@
       "city": "台南",
       "place": "台南市政府",
       "level": "red",
-      "news_count": 129,
+      "news_count": 128,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 135,
+      "urgency_score": 134,
       "news_articles": [
         {
           "title": "屏東6鄉鎮今放豪雨假！台南高雄正常上班課（不斷更新）",
@@ -7624,13 +7596,6 @@
           "time": "2026-06-26 09:28:31",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "台南龍崎182線道路面崩落 電桿滑落邊坡",
-          "url": "https://www.cna.com.tw/news/aloc/202606260051.aspx",
-          "time": "2026-06-26 09:22:52",
-          "publisher": "中央社",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -9810,11 +9775,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 172,
+      "news_count": 171,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 187,
+      "urgency_score": 186,
       "news_articles": [
         {
           "title": "連日豪雨炸全台！桃園龍山埤塘「地下宮殿」爆紅 網讚：超有感",
@@ -11011,13 +10976,6 @@
           "url": "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5484491",
           "time": "2026-06-26 09:30:47",
           "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "【新青安2.0助攻首購市場回溫 桃園草漯自住買盤重新啟動】",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IWFBxUEFZVTdwa1BXczFua2E0Sy1XdUdvSkduV0FjNG1QN19XcHhDenhWcWd4ZkUwSjl5M0JXZy1OWkc1M0hXaGEwMXdibmVJRTBORw?oc=5",
-          "time": "2026-06-26 09:26:31",
-          "publisher": "Google News→住展雜誌",
           "severity": null
         }
       ],
