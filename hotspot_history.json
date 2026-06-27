@@ -41391,7 +41391,7 @@
     },
     {
       "date": "2026-06-27",
-      "snapshot_at": "2026-06-27T10:17:33.208104+00:00",
+      "snapshot_at": "2026-06-27T10:19:37.409669+00:00",
       "hotspots": [
         {
           "title": "行人地獄討論",
@@ -41633,20 +41633,6 @@
           ]
         },
         {
-          "title": "新北弊案爭議",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "愛爾麗偷拍案起訴移審新北地院 常如山遭裁定續押"
-          ]
-        },
-        {
           "title": "苗栗弊案爭議",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -41658,6 +41644,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "「防制危駕」跑去游泳！苗栗警詐領超勤費1.3萬 判刑1年6月、緩刑5年"
+          ]
+        },
+        {
+          "title": "台北弊案爭議",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "錯失剴剴救命黃金期 北市居托訪視員竟為私利造假、會議上撒謊被起訴"
           ]
         },
         {
@@ -41675,9 +41675,9 @@
           ]
         },
         {
-          "title": "台北弊案爭議",
-          "city": "台北",
-          "place": "台北市政府",
+          "title": "新北弊案爭議",
+          "city": "新北",
+          "place": "新北市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -41685,7 +41685,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "錯失剴剴救命黃金期 北市居托訪視員竟為私利造假、會議上撒謊被起訴"
+            "愛爾麗偷拍案起訴移審新北地院 常如山遭裁定續押"
           ]
         },
         {
@@ -41852,11 +41852,11 @@
           "city": "新竹縣",
           "place": "新竹縣政府",
           "level": "red",
-          "news_count": 36,
+          "news_count": 35,
           "comment_count": 0,
-          "negativity_pct": 8,
+          "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 45,
+          "urgency_score": 44,
           "sample_titles": [
             "新竹縣豪雨成災釀2死1失聯 女開車上班遇洪水滅頂",
             "新埔國中修復估逾5千萬新竹縣府啟動災準金爭中央補助| 桃竹苗| 地方",
