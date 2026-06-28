@@ -42021,7 +42021,7 @@
     },
     {
       "date": "2026-06-28",
-      "snapshot_at": "2026-06-28T10:24:11.187933+00:00",
+      "snapshot_at": "2026-06-28T10:27:34.083074+00:00",
       "hotspots": [
         {
           "title": "南投狼師事件",
@@ -42082,21 +42082,6 @@
           ]
         },
         {
-          "title": "彰化車禍事件",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "green",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "彰化139縣道對撞車禍！76歲嬤駕車逆向衝撞…「機車對折」騎士斷腿送醫",
-            "彰化139線車禍！76歲婦逆向撞騎士釀2傷"
-          ]
-        },
-        {
           "title": "台中車禍事件",
           "city": "台中",
           "place": "台中市政府",
@@ -42109,6 +42094,21 @@
           "sample_titles": [
             "打盧秀燕反自爆！綠議員批庇護島害車禍 連台派都氣炸開轟",
             "打盧秀燕反自爆！綠議員批庇護島害車禍 連台派都氣炸開轟"
+          ]
+        },
+        {
+          "title": "彰化車禍事件",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "彰化139縣道對撞車禍！76歲嬤駕車逆向衝撞…「機車對折」騎士斷腿送醫",
+            "彰化139線車禍！76歲婦逆向撞騎士釀2傷"
           ]
         },
         {
@@ -42144,22 +42144,6 @@
           ]
         },
         {
-          "title": "台東地方動態",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "green",
-          "news_count": 10,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 10,
-          "sample_titles": [
-            "預約台東熱氣球主題館 抽自由飛",
-            "台東縣國中小校長遴選第二階段遴選 綠島國中等7校補實",
-            "偷剪台東活水湖電纜慘了 法官判竊賊賠近300萬元"
-          ]
-        },
-        {
           "title": "基隆地方動態",
           "city": "基隆",
           "place": "基隆市政府",
@@ -42173,6 +42157,22 @@
             "氣象署最新大雷雨訊息／基隆、台北、新北大雨炸至17時 範圍一覽 | 天氣預報 | 生活",
             "鋒面北移！ 雙北基隆「雨量發紅」 7／1恐有颱生成",
             "「基隆米穀公會」掛布條力挺 童子瑋：照顧每位市民日常需求"
+          ]
+        },
+        {
+          "title": "台東地方動態",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "green",
+          "news_count": 10,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 10,
+          "sample_titles": [
+            "預約台東熱氣球主題館 抽自由飛",
+            "台東縣國中小校長遴選第二階段遴選 綠島國中等7校補實",
+            "偷剪台東活水湖電纜慘了 法官判竊賊賠近300萬元"
           ]
         },
         {
@@ -42192,34 +42192,6 @@
           ]
         },
         {
-          "title": "高雄弊案爭議",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "國民黨高雄議員黃紹庭判刑不得參選 改由里長黃裕庭披戰袍"
-          ]
-        },
-        {
-          "title": "彰化弊案爭議",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "彰化芬園荔枝園保鮮膜裹屍案 主嫌收押"
-          ]
-        },
-        {
           "title": "台中弊案爭議",
           "city": "台中",
           "place": "台中市政府",
@@ -42234,6 +42206,20 @@
           ]
         },
         {
+          "title": "高雄弊案爭議",
+          "city": "高雄",
+          "place": "高雄市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "國民黨高雄議員黃紹庭判刑不得參選 改由里長黃裕庭披戰袍"
+          ]
+        },
+        {
           "title": "花蓮弊案爭議",
           "city": "花蓮",
           "place": "花蓮縣政府",
@@ -42245,6 +42231,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "裝GPS跨縣市瘋狂追殺女子致死！ 花蓮狠男收押"
+          ]
+        },
+        {
+          "title": "彰化弊案爭議",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "彰化芬園荔枝園保鮮膜裹屍案 主嫌收押"
           ]
         },
         {
@@ -42396,11 +42396,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "yellow",
-          "news_count": 75,
+          "news_count": 74,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 78,
+          "urgency_score": 77,
           "sample_titles": [
             "淹水補助中央加碼最高領3萬 台北、新竹、台南、屏東申請條件一次看",
             "屏東豪雨農損破1.3億元！農漁畜全品項納天然災害救助",
@@ -42476,11 +42476,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 67,
+          "news_count": 66,
           "comment_count": 0,
-          "negativity_pct": 1,
+          "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 70,
+          "urgency_score": 69,
           "sample_titles": [
             "「東方．光．希望─台灣東方美學大展」 桃園展演中心登場",
             "引領學子走進AI與生技現場 桃園青年職涯探索一日體驗營開跑",
@@ -42492,11 +42492,11 @@
           "city": "高雄",
           "place": "高雄市鼓山區",
           "level": "red",
-          "news_count": 79,
+          "news_count": 77,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 91,
+          "urgency_score": 89,
           "sample_titles": [
             "高雄玉竹商圈鞋店倒閉　業者鐵門遭貼告示討債",
             "備戰2026年縣市首長選舉，民眾黨前主席柯文哲喊出「最終決戰還是在新北跟高雄」。針對民眾黨年底選戰目標，民眾黨主席黃國昌",
@@ -42556,11 +42556,11 @@
           "city": "台北",
           "place": "台北市內湖區",
           "level": "red",
-          "news_count": 157,
+          "news_count": 159,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 205,
+          "urgency_score": 207,
           "sample_titles": [
             "北北基注意大雷雨 大台北山區災防告警",
             "看頭條學英文／無繩攀岩者霍諾德攀爬台灣地標「台北101」",
