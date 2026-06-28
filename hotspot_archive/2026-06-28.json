@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "snapshot_at": "2026-06-28T01:27:25.744953+00:00",
+  "snapshot_at": "2026-06-28T01:31:30.097054+00:00",
   "hotspots": [
     {
       "title": "行人地獄討論",
@@ -88,27 +88,6 @@
       "comments": []
     },
     {
-      "title": "桃園詐騙案",
-      "city": "桃園",
-      "place": "桃園市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "桃園警誘捕詐騙車手 呂男被捕竟想請示詐騙集團 令人傻眼",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mUW9xckZfRWxfY0J6NmQzRWlKRzdOUzVuQWNtSHZpSzREWlo5QTdRWkpObjVrZC1mNmRJOXp1ZmRiTU5waW1LVURhZVhVbXJGN29nMHhFNA?oc=5",
-          "time": "2026-06-27 21:13:01",
-          "publisher": "Google News→觀傳媒",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台北詐騙案",
       "city": "台北",
       "place": "台北市萬華區",
@@ -124,6 +103,27 @@
           "url": "https://tw.news.yahoo.com/%E7%B6%B2%E5%8F%8B%E6%80%A5%E5%80%9F%E9%8C%A2-%E8%97%8F%E8%A9%90%E9%A8%99%E9%99%B7%E9%98%B1-%E8%90%AC%E8%8F%AF%E8%AD%A6%E8%AD%98%E7%A0%B4%E8%A9%B1%E8%A1%93%E6%88%90%E5%8A%9F%E6%94%94%E9%98%BB%E5%8C%AF%E6%AC%BE-053026887.html",
           "time": "2026-06-27 13:30:26",
           "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "桃園詐騙案",
+      "city": "桃園",
+      "place": "桃園市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "桃園警誘捕詐騙車手 呂男被捕竟想請示詐騙集團 令人傻眼",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mUW9xckZfRWxfY0J6NmQzRWlKRzdOUzVuQWNtSHZpSzREWlo5QTdRWkpObjVrZC1mNmRJOXp1ZmRiTU5waW1LVURhZVhVbXJGN29nMHhFNA?oc=5",
+          "time": "2026-06-27 21:13:01",
+          "publisher": "Google News→觀傳媒",
           "severity": "yellow"
         }
       ],
@@ -1007,7 +1007,7 @@
           "text": "垃圾山先處理，等到淹水時，到時候會有瘟疫",
           "author": "zh.90063",
           "url": "",
-          "time_text": "12小時",
+          "time_text": "13小時",
           "signal": "red"
         }
       ]
@@ -1028,7 +1028,7 @@
           "url": "https://www.nownews.com/news/6851125",
           "time": "2026-06-28 09:18:26",
           "publisher": "NOWnews今日新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "金門的唯一！耳鼻喉科醫師陳信雄離世 診所吹熄燈號",
@@ -1448,14 +1448,14 @@
           "url": "https://n.yam.com/Article/20260628277802",
           "time": "2026-06-28 09:18:29",
           "publisher": "蕃新聞→創新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "12小時雨量破250毫米！雲林葉菜損失逾七成 縣府加速查報農損",
           "url": "https://n.yam.com/Article/20260628863192",
           "time": "2026-06-28 09:18:29",
           "publisher": "蕃新聞→創新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "奉獻45年獲最高榮耀！雲林表揚118位資深義消 強化裝備守護消防英雄",
@@ -3240,11 +3240,11 @@
       "city": "苗栗",
       "place": "苗栗縣政府",
       "level": "red",
-      "news_count": 26,
+      "news_count": 25,
       "comment_count": 0,
       "negativity_pct": 12,
       "is_urgent": false,
-      "urgency_score": 35,
+      "urgency_score": 34,
       "news_articles": [
         {
           "title": "時光交織的客庄桃花源苗栗卓蘭小鎮與市區人文走讀| 旅遊",
@@ -3420,13 +3420,6 @@
           "time": "2026-06-27 10:49:00",
           "publisher": "Google News→蕃新聞",
           "severity": null
-        },
-        {
-          "title": "苗栗毒蟲網購20餘克假金行詐 銀樓遭騙走31萬元",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sdjRoeXVEOXIyWnBNaFNWaVpUZXp3M0hQakJpNzhjUkliLVRLSmFQMmh2bWs5VTBUZEJSeUhNWWhHZThPZ1VCNlgwQ1BjelktaGRfcEh2aEhpRzI3THVwcFVRQTRQNWtrYmJ0ZjFn?oc=5",
-          "time": "2026-06-27 09:28:23",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -3706,14 +3699,14 @@
           "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E8%8A%AC%E5%9C%92%E4%BF%9D%E9%AE%AE%E8%86%9C%E5%A5%B3%E5%B1%8D%E6%A1%88%E5%A4%A7%E8%BD%89%E6%8A%98-%E4%B8%BB%E5%AB%8C%E7%B1%8C%E4%B8%8D%E5%87%BA%E4%BF%9D%E9%87%91-%E6%94%B9%E7%BE%88%E6%8A%BC%E7%A6%81%E8%A6%8B-010437613.html",
           "time": "2026-06-28 09:04:37",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "悚！彰化荔枝園驚見「保鮮膜女屍」 1原因聞不到臭味",
           "url": "https://tw.news.yahoo.com/%E6%82%9A-%E5%BD%B0%E5%8C%96%E8%8D%94%E6%9E%9D%E5%9C%92%E9%A9%9A%E8%A6%8B-%E4%BF%9D%E9%AE%AE%E8%86%9C%E5%A5%B3%E5%B1%8D-1%E5%8E%9F%E5%9B%A0%E8%81%9E%E4%B8%8D%E5%88%B0%E8%87%AD%E5%91%B3-002200551.html",
           "time": "2026-06-28 08:22:00",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "彰化荔枝園「保鮮膜」女屍 與棄屍3嫌全是毒癮者",
@@ -4343,14 +4336,14 @@
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOeURWeWljNWp4MmJMYmZCWmZkQVppV3ZSN2thb19YQllvalZzMFRtRmRtNVlmaWlrT05FMDNIOXBfRTV5clZPYUFyUkV1OE1ISVZLdnhpZFhxOGVIcmVYcUR0V2JqdUd2R3VDcDBTam03aHh6dXRfS1FkZ2J3b3VKVlpIY005QlZYMXJ1aFdkdFZBUzN1SDE1cEJpUnZMMV9kTTJmSHd1cVRFNHJ0Tjl1UkN4aDJub2tYSmNSb29udXVqUFNSSjhUODc3dlFTai0wSEZEN0tRN1VYMEdYZW9PYTZhODdFLTNxZ3hmYWNESnlPR2NfYmNUdndHYjdEQlpZc1IzNURwVzVsaGRzNUE?oc=5",
           "time": "2026-06-27 12:08:49",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "澎湖遊艇進水翻覆 船上4人均獲救（1） (圖)",
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPRmYxQ2hqZWYyNGViSXJzRmpSQ0RSbnRhVnhiNmoxTWpSYWdZSGFwU1JXYXRhZndCcGFxb2R0SmIxTllLOXEwaUpqUUlVb09QZ1gwU0QwODhra3U1b1pIeWxuU2xtM1lfQlFNZGlodXJoMi1tVEFfN0NWUkI2a0U1LWtneWUwSFd1REFsMEM1QXNLMjFQYy1ITFpOQWxvMTVtVlJFb0plOEVsNTNmcl94WGZoejdETFAxY0huVnFQOHRFT192SHA4M1NiMHI4S1RFTFFYZlJyQTlZc2xyMVBqcVpPbzRCUFhLVGU5QzFZUzZRaVE2M2V3RzJHZ21qM0ZWS1hmc1dDaE1ZR21hM3c?oc=5",
           "time": "2026-06-27 12:08:49",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "澎湖島帆船系列賽登場近200好手在風雨中競技| 高屏離島| 地方",
@@ -4441,7 +4434,7 @@
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9POVhpRUkzVzJ1M3JEYWNhN1Z3WFNhclVBd1R5TGQzcUpaYWFlQklPMkZfM09XQjR3TkZDQ0poSGxGMXplVTh3a1M2UFNNSFh2YkJYemkzWmF1QWNDWnRXMnhTVTgzVGJ00gFuQVVfeXFMTW14cGRmNm5PbzVmVFUwUkNBcC1GS0hRSjd6bklGV0ZYdWlDRF9QLUpreTVrNVVRV2tDTU9MRjBRWkJHeHVUVTJPZWtibEZDblplelJBZ21kdGVKRndQV1ZzbUJ4MlV0aHA4NFdHMEE?oc=5",
           "time": "2026-06-27 10:57:02",
           "publisher": "自由時報",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "德國旅遊業者澎湖踩線 深度體驗海灣風光與海洋遊憩魅力",
@@ -5032,18 +5025,18 @@
       "city": "高雄",
       "place": "高雄市鳳山區",
       "level": "red",
-      "news_count": 77,
+      "news_count": 76,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 86,
+      "urgency_score": 85,
       "news_articles": [
         {
           "title": "高雄女子步行疑闖紅燈 慘遭機車撞擊頭部重創送醫",
           "url": "https://news.ltn.com.tw/news/society/breakingnews/5486528",
           "time": "2026-06-28 09:12:17",
           "publisher": "自由時報",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "等了16年！龜梨和也後空翻震撼高雄 放閃赤西仁喊拍《極道鮮師》",
@@ -5569,13 +5562,6 @@
           "time": "2026-06-27 09:41:57",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "高雄市豪雨農損破千萬 以木瓜613.2萬元最多",
-          "url": "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5485652",
-          "time": "2026-06-27 09:25:57",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -5596,7 +5582,7 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81T1duODBhS2daZFBQXzZLZGZTZFUtZndfUV9RaUhmbHp5UldhSFlORDFPVU5IcXl0R09FUXUyTVBBZElzX25aNXBrS0k3YlRu0gFWQVVfeXFMT01SWnZFSUtvZTRqSGwyWTU0dUNMV3otNHJWX2xQZnoyQU5OZUs4YkZ0aG8tYWlFeU00dnZnYjFHdUQyQXhRWm9VZTNLd2R4TTM5dlF2WUE?oc=5",
           "time": "2026-06-28 08:16:47",
           "publisher": "Google News→UDN",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "西半部紫到發黑！3日累積總雨量出爐 屏東狂灌956mm",
@@ -5624,7 +5610,7 @@
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hRERDeGFwbFhXWDgxWWlDNmdlQ21ONVlubG9XUUk5Si1CQzZYVFM1ZzRpdS13Y0Nrek5FdDY3OGpYTE1ZRE8teWk5dDV6RklGM2s2YVJRblZTT1RBV296VVdLcUhNdw?oc=5",
           "time": "2026-06-28 02:35:43",
           "publisher": "Google News→hakkatv.org.tw",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "【從屏東到布拉格——國立屏東大學師資生走進捷克教室 展開海外教育見習】",
@@ -7101,14 +7087,14 @@
           "url": "https://udn.com/news/story/124652/9593103?from=udn-ch1_breaknews-1-cate1-news",
           "time": "2026-06-28 09:18:11",
           "publisher": "聯合新聞網",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "台北拿最多治水預算！藍白集體牽拖中南部",
           "url": "https://www.setn.com/News.aspx?NewsID=1863493",
           "time": "2026-06-28 09:18:06",
           "publisher": "三立新聞網",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "新北市政府率20家企業赴美參展AUTOMATE 2026     創造4.52億元商機",
@@ -7129,14 +7115,14 @@
           "url": "https://newtalk.tw/news/view/2026-06-28/1043865",
           "time": "2026-06-28 08:58:13",
           "publisher": "新頭殼",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "北市婦好心提醒沒垃圾車！翁下秒暴怒「拿助行器狂砸」跌一團畫面曝",
           "url": "https://tw.news.yahoo.com/%E5%8C%97%E5%B8%82%E5%A9%A6%E5%A5%BD%E5%BF%83%E6%8F%90%E9%86%92%E6%B2%92%E5%9E%83%E5%9C%BE%E8%BB%8A-%E7%BF%81%E4%B8%8B%E7%A7%92%E6%9A%B4%E6%80%92-%E6%8B%BF%E5%8A%A9%E8%A1%8C%E5%99%A8%E7%8B%82%E7%A0%B8-%E8%B7%8C-%E5%9C%98%E7%95%AB%E9%9D%A2%E6%9B%9D-005500868.html",
           "time": "2026-06-28 08:55:00",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "金曲37》燒600萬鍍金台語歌后！吳蓓雅3字喊話白冰冰 「台北爸爸」陳昇騎鐵馬送酒快閃",
@@ -7164,7 +7150,7 @@
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5486455",
           "time": "2026-06-28 08:12:32",
           "publisher": "自由時報",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "北市自研AI助理「CiviClaw」登國際交流平台 替代役青年專長投入獲市長肯定",
@@ -7318,7 +7304,7 @@
           "url": "https://tw.news.yahoo.com/%E4%BB%96%E6%9B%9D%E5%8F%B0%E5%8C%97%E6%8B%BF%E6%9C%80%E5%A4%9A%E6%B2%BB%E6%B0%B4%E9%A0%90%E7%AE%97-%E8%97%8D%E7%99%BD%E9%99%A3%E7%87%9F%E9%9B%86%E9%AB%94-%E7%89%BD%E6%8B%96-%E4%B8%AD%E5%8D%97%E9%83%A8%E6%B0%B4%E7%81%BD-003900016.html",
           "time": "2026-06-28 00:39:00",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "臺北市後備指揮部號召輔導幹部 投入災後復原",
@@ -8018,7 +8004,7 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fWlJVME9YOEZ2X1NBUmdwbHJSVDhEdy1DVEIxNzdVVmNod09KRnpRX19zSk1Lcy1iYlBlZ2Z3ZmktRmwtQkdfOThyVU5yN053TUlFMkdzYXl6SjdYVk9JUE45bjNfbDBfQkHSAW9BVV95cUxPUmozT1NobGZzZkJHdXlZWU1za3lPMWxoWXJVY1V0VUJIVWdLeGo0Zl9RS1ZNczV5d2dHSlZjY1ktR29GcmlKMm5RbmphUk84NWt0Xy00ODl2WkU4WXRza3hnWm5YSm1DWF90dzBXTjg?oc=5",
           "time": "2026-06-27 11:45:51",
           "publisher": "自由時報",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "北市排水何時升級88.8毫米？蔣萬安曝65億治水計劃：規畫5到10年",
@@ -8172,7 +8158,7 @@
           "url": "https://www.mirrormedia.mg/story/20260628edi002",
           "time": "2026-06-28 09:04:00",
           "publisher": "鏡週刊",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "迎接暑假 中市府運動中心規劃潛水、SUP、滑冰、無人機等運動課程",
@@ -8193,28 +8179,28 @@
           "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E8%9D%B4%E8%9D%B6%E8%B0%B7%E6%AD%A5%E9%81%93%E8%90%BD%E7%9F%B3%E9%87%804%E6%AD%BB1%E5%82%B7-%E5%B1%B1%E5%8F%8B%E5%98%86-%E9%9B%A8%E5%BE%8C%E7%88%AC%E5%B1%B1%E7%8A%AF%E4%BA%86%E5%A4%A7%E5%BF%8C-003538941.html",
           "time": "2026-06-28 08:35:38",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "台中蝴蝶谷4死「大雨特報沒解除就上山」！山友斥領隊犯大忌",
           "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E8%9D%B4%E8%9D%B6%E8%B0%B74%E6%AD%BB-%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1%E6%B2%92%E8%A7%A3%E9%99%A4%E5%B0%B1%E4%B8%8A%E5%B1%B1-%E5%B1%B1%E5%8F%8B%E6%96%A5%E9%A0%98%E9%9A%8A%E7%8A%AF%E5%A4%A7%E5%BF%8C-002953303.html",
           "time": "2026-06-28 08:29:53",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "台中蝴蝶谷步道落石砸死4人 遺體連夜運下山今相驗",
           "url": "https://news.ltn.com.tw/news/society/breakingnews/5486499",
           "time": "2026-06-28 08:27:51",
           "publisher": "自由時報",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "台中蝴蝶谷落石奪4命！前交通部長蔡堆嘆：很遺憾",
           "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E8%9D%B4%E8%9D%B6%E8%B0%B7%E8%90%BD%E7%9F%B3%E5%A5%AA4%E5%91%BD-%E5%89%8D%E4%BA%A4%E9%80%9A%E9%83%A8%E9%95%B7%E8%94%A1%E5%A0%86%E5%98%86-%E5%BE%88%E9%81%BA%E6%86%BE-002700209.html",
           "time": "2026-06-28 08:27:00",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "規模破千人！海外選手非體育班組台中交流 2026未來之星國際羽球錦標賽朝馬國運開打",
@@ -8312,7 +8298,7 @@
           "url": "https://tw.news.yahoo.com/%E5%BD%B1-%E9%80%83%E9%81%8E%E5%8F%B0%E4%B8%AD%E8%9D%B4%E8%9D%B6%E8%B0%B74%E6%AD%BB1%E5%82%B7%E9%87%8D%E5%A4%A7%E6%84%8F%E5%A4%96-%E8%94%A1%E5%A0%86-%E5%BE%88%E9%81%BA%E6%86%BE-%E6%85%9A%E6%84%A7-232812808.html",
           "time": "2026-06-27 23:28:12",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "台中蝴蝶谷1.4K多次崩落 4月底才開放又出事",
@@ -9295,11 +9281,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 169,
+      "news_count": 167,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 178,
+      "urgency_score": 176,
       "news_articles": [
         {
           "title": "花蓮臺灣黑熊生態兒童繪畫展登場 畫作帶你認識臺灣黑熊",
@@ -10467,20 +10453,6 @@
           "title": "暑期團遊衝花蓮！最高2萬元獎勵 旅行社搶攻國旅商機 - 旅遊新聞 - PChome Online 新聞",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMk00ZU5oZVdETmJYVHlyc2NpWDIwd2ZXcFg2OEhmd3d1cFdPOVNZVWs1OVJLaHF1UGkzdDdwV2Y3RUJ2bzB2eC1sX3JId0NXdTJ4Tjk2WkZ0WmE5MVZhczFPN1R6VTVGd05BYWQ3YnlBWkpSVV9aRlFjUFBDZ0FkNDFoQ0JLLXUxc3ZNVU5yMnR3eVk?oc=5",
           "time": "2026-06-27 09:33:28",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "花蓮萬里溪堰塞湖「48小時內恐溢流」 183人緊急撤離",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LT1VFWm1yYW9tb0NXelkwSmpKX19MWkNtRXdJaGRlUHdiUmlsYkNIc0EzWEh1MHMtaVpvRGg0RVoyV1ZNUjNWM1FYbzFQMjNnUDNMWmRUZGfSAV9BVV95cUxPSFFQaUNGbHE2cHk2eVFRZU1XWDQ0eW1sZk5iXzlDYS1lcFc5akViYU5kMWZ4R24zNVNPTGo1VGF5TUtYLWFncjFFUlhMWlYwcUhHeFFMLVNfSnNFTGRWQQ?oc=5",
-          "time": "2026-06-27 09:30:00",
-          "publisher": "三立新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "世界不會反覆造訪一座沒有故事的城市——花蓮正以山海與文化贏得國際目光",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3dCUnVZMDZyNTFxOGZ1T3NaT3RXVl9hdk1CMTIyaTBMSUtYdEtsdE5OeW16ekx6M3NsVzlCaFhzVUR3cUFLdGtEbDkxSXd5aGtoWGVTT2l0clg4SlBGbUNxN1RzcTVOSFkwZVUxRFN5Yjg2ZDUzUy1VTk1pWVp0bDVpbkVQczAyUGc?oc=5",
-          "time": "2026-06-27 09:26:14",
           "publisher": "Google News→PChome Online 新聞",
           "severity": null
         }

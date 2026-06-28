@@ -42021,7 +42021,7 @@
     },
     {
       "date": "2026-06-28",
-      "snapshot_at": "2026-06-28T01:27:25.744953+00:00",
+      "snapshot_at": "2026-06-28T01:31:30.097054+00:00",
       "hotspots": [
         {
           "title": "行人地獄討論",
@@ -42078,20 +42078,6 @@
           ]
         },
         {
-          "title": "桃園詐騙案",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "桃園警誘捕詐騙車手 呂男被捕竟想請示詐騙集團 令人傻眼"
-          ]
-        },
-        {
           "title": "台北詐騙案",
           "city": "台北",
           "place": "台北市萬華區",
@@ -42103,6 +42089,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "「網友急借錢」藏詐騙陷阱 萬華警識破話術成功攔阻匯款"
+          ]
+        },
+        {
+          "title": "桃園詐騙案",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "桃園警誘捕詐騙車手 呂男被捕竟想請示詐騙集團 令人傻眼"
           ]
         },
         {
@@ -42499,11 +42499,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 26,
+          "news_count": 25,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 35,
+          "urgency_score": 34,
           "sample_titles": [
             "時光交織的客庄桃花源苗栗卓蘭小鎮與市區人文走讀| 旅遊",
             "時光交織的客庄桃花源 苗栗卓蘭小鎮與市區人文走讀",
@@ -42579,11 +42579,11 @@
           "city": "高雄",
           "place": "高雄市鳳山區",
           "level": "red",
-          "news_count": 77,
+          "news_count": 76,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 86,
+          "urgency_score": 85,
           "sample_titles": [
             "高雄女子步行疑闖紅燈 慘遭機車撞擊頭部重創送醫",
             "等了16年！龜梨和也後空翻震撼高雄 放閃赤西仁喊拍《極道鮮師》",
@@ -42659,11 +42659,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 169,
+          "news_count": 167,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 178,
+          "urgency_score": 176,
           "sample_titles": [
             "花蓮臺灣黑熊生態兒童繪畫展登場 畫作帶你認識臺灣黑熊",
             "花蓮萬里溪堰塞湖紅色警戒 封路撤村民",
