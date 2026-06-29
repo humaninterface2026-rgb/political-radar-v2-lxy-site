@@ -42557,7 +42557,7 @@
     },
     {
       "date": "2026-06-29",
-      "snapshot_at": "2026-06-29T10:26:39.914240+00:00",
+      "snapshot_at": "2026-06-29T10:29:23.519294+00:00",
       "hotspots": [
         {
           "title": "盧秀燕訪美外交",
@@ -42602,20 +42602,6 @@
           ]
         },
         {
-          "title": "桃園車禍事件",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "桃園青埔車禍！汽車「騎上賓士」歪腰 網友激動：娘子快來看女版舒馬克"
-          ]
-        },
-        {
           "title": "屏東車禍事件",
           "city": "屏東",
           "place": "屏東縣政府",
@@ -42627,6 +42613,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "南州鄉女騎士路口車禍昏迷 去年就提設號誌至今未果引熱議"
+          ]
+        },
+        {
+          "title": "桃園車禍事件",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "桃園青埔車禍！汽車「騎上賓士」歪腰 網友激動：娘子快來看女版舒馬克"
           ]
         },
         {
@@ -42644,20 +42644,6 @@
           ]
         },
         {
-          "title": "屏東詐騙案",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "屏東婦收「法院訴訟通知」簡訊嚇壞 警：這就是詐騙"
-          ]
-        },
-        {
           "title": "苗栗詐騙案",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -42669,6 +42655,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "假黃金詐騙銀樓得手31萬元 苗栗警火速逮54歲嫌犯追回部分贓款"
+          ]
+        },
+        {
+          "title": "屏東詐騙案",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "屏東婦收「法院訴訟通知」簡訊嚇壞 警：這就是詐騙"
           ]
         },
         {
@@ -42951,11 +42951,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "yellow",
-          "news_count": 46,
+          "news_count": 45,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 49,
+          "urgency_score": 48,
           "sample_titles": [
             "苗栗縣青少年國樂團攜手嘉義民族管弦樂團「雙城交響｜串流福爾摩沙」七月時一日盛大登場即日起開始報名",
             "苗栗市全民運動館7月開幕 打造運動城市1萬張免費體驗券",
@@ -43031,11 +43031,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 58,
+          "news_count": 57,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 58,
+          "urgency_score": 57,
           "sample_titles": [
             "宜蘭夏日活動",
             "宜蘭整座莊園都是她家的！FIFTY FIFTY忙內家世曝光 韓網看傻",

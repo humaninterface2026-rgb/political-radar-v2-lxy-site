@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "snapshot_at": "2026-06-29T10:26:39.914240+00:00",
+  "snapshot_at": "2026-06-29T10:29:23.519294+00:00",
   "hotspots": [
     {
       "title": "盧秀燕訪美外交",
@@ -66,27 +66,6 @@
       "comments": []
     },
     {
-      "title": "桃園車禍事件",
-      "city": "桃園",
-      "place": "桃園市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "桃園青埔車禍！汽車「騎上賓士」歪腰 網友激動：娘子快來看女版舒馬克",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12b2tMcFFJT1FIMFNZQng5aGtVODc1V0FVWENVSTRrRks0eXBiVy1xOGEtZjFabGM4aE4tUDA0NG11M3VXLTJyNk1fU0E2RVRCdjl6bTZaNHPSAV9BVV95cUxNRERxekh3T0ctRDdJVnBWbTYwVjViOTJEajFCNkowOG01Y0V5TTVJR0J2eHpfOGhMcEtjc3NqSVUwM3EzQmlrSzBZdGRldElCWUxhZjhCSW1nd19fa0pLUQ?oc=5",
-          "time": "2026-06-29 14:35:00",
-          "publisher": "三立新聞網",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "屏東車禍事件",
       "city": "屏東",
       "place": "屏東縣政府",
@@ -102,6 +81,27 @@
           "url": "https://www.chinatimes.com/realtimenews/20260628002696-260402",
           "time": "2026-06-28 21:35:52",
           "publisher": "中時新聞網",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "桃園車禍事件",
+      "city": "桃園",
+      "place": "桃園市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "桃園青埔車禍！汽車「騎上賓士」歪腰 網友激動：娘子快來看女版舒馬克",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12b2tMcFFJT1FIMFNZQng5aGtVODc1V0FVWENVSTRrRks0eXBiVy1xOGEtZjFabGM4aE4tUDA0NG11M3VXLTJyNk1fU0E2RVRCdjl6bTZaNHPSAV9BVV95cUxNRERxekh3T0ctRDdJVnBWbTYwVjViOTJEajFCNkowOG01Y0V5TTVJR0J2eHpfOGhMcEtjc3NqSVUwM3EzQmlrSzBZdGRldElCWUxhZjhCSW1nd19fa0pLUQ?oc=5",
+          "time": "2026-06-29 14:35:00",
+          "publisher": "三立新聞網",
           "severity": "yellow"
         }
       ],
@@ -129,27 +129,6 @@
       "comments": []
     },
     {
-      "title": "屏東詐騙案",
-      "city": "屏東",
-      "place": "屏東縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "屏東婦收「法院訴訟通知」簡訊嚇壞 警：這就是詐騙",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50ZGdkamdaVWNYYjFvdDlGaEN2amlNRWlOU3o5YUtXMU5QU1NfU1pMNjdGc2FSZHF6Ml9iVDZYd1hpT05TclBWNWluYkhTT2IxVm10cnJOemdIV0VUbXfSAWhBVV95cUxNTGNGOU9WR2tXYTZnMVdhWUo0UUZMb0RrV0tZYzNEU2htVUd1bjJ2WGpIa19TTXRqLXdGdjBubkZJQm1xTldaTkl3eExBUDdsenVyVEdQU1BYaFpENmdvZXF1TGtUVkk0Qw?oc=5",
-          "time": "2026-06-29 12:36:00",
-          "publisher": "ETtoday",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "苗栗詐騙案",
       "city": "苗栗",
       "place": "苗栗縣政府",
@@ -165,6 +144,27 @@
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QSW9QVzA2N1pYTDJITlVxNDQwbG9TUm5FREhYT09qZl9Pd3pORHNNSHVtVjI2Z2wxZmZsMThxamJGeUxkUFlBNi01V1Z3cWVjdVE?oc=5",
           "time": "2026-06-28 20:49:00",
           "publisher": "Google News→蕃新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "屏東詐騙案",
+      "city": "屏東",
+      "place": "屏東縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "屏東婦收「法院訴訟通知」簡訊嚇壞 警：這就是詐騙",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50ZGdkamdaVWNYYjFvdDlGaEN2amlNRWlOU3o5YUtXMU5QU1NfU1pMNjdGc2FSZHF6Ml9iVDZYd1hpT05TclBWNWluYkhTT2IxVm10cnJOemdIV0VUbXfSAWhBVV95cUxNTGNGOU9WR2tXYTZnMVdhWUo0UUZMb0RrV0tZYzNEU2htVUd1bjJ2WGpIa19TTXRqLXdGdjBubkZJQm1xTldaTkl3eExBUDdsenVyVEdQU1BYaFpENmdvZXF1TGtUVkk0Qw?oc=5",
+          "time": "2026-06-29 12:36:00",
+          "publisher": "ETtoday",
           "severity": "yellow"
         }
       ],
@@ -1656,11 +1656,11 @@
       "city": "苗栗",
       "place": "苗栗縣政府",
       "level": "yellow",
-      "news_count": 46,
+      "news_count": 45,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 49,
+      "urgency_score": 48,
       "news_articles": [
         {
           "title": "苗栗縣青少年國樂團攜手嘉義民族管弦樂團「雙城交響｜串流福爾摩沙」七月時一日盛大登場即日起開始報名",
@@ -1975,13 +1975,6 @@
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CVjY4RndnMlgyS2h0dWZPRGVDbmZHVjduWGdwcXJCUDdWNHpaR0E0dl9Oa0Zma2VLejZPTWxVR0x5Q3RKaFFVbzZFVF9LUzRDLTBSNmJTZnNYdw?oc=5",
           "time": "2026-06-28 19:01:00",
           "publisher": "TVBS",
-          "severity": "yellow"
-        },
-        {
-          "title": "苗栗銅鑼鄉又遭廢棄物入侵 鄉代無奈",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5487010",
-          "time": "2026-06-28 18:29:05",
-          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -2499,11 +2492,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "red",
-      "news_count": 58,
+      "news_count": 57,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 58,
+      "urgency_score": 57,
       "news_articles": [
         {
           "title": "宜蘭夏日活動",
@@ -2902,13 +2895,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oYUZHQzQ3anFidFFUTkd5UVFreVV2QjN6aEhiUmZCaWEwcElDakpjT2NPZmtIYlVZcGJCWWFyUC11bWVZMXdSZ05RZEowa0JjOG4wcmV3?oc=5",
           "time": "2026-06-28 18:42:14",
           "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "宜蘭財稅局暑期夏令營7月1日開放報名～捐8張雲端發票就能參加",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16VWQtLS1QTHhCeU5vUG5wLWVzS1lmSDd2NVJ0Ymk1cU5jMUtocHFpcUR6SmdNV0Jma3dqRm9yZmFCQ3AyeF9QeERrX0V0cldJMEp2ZU9Ub1BVdw?oc=5",
-          "time": "2026-06-28 18:29:00",
-          "publisher": "Google News→葛瑪蘭新聞網",
           "severity": null
         }
       ],
