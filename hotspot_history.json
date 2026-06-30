@@ -43253,7 +43253,7 @@
     },
     {
       "date": "2026-06-30",
-      "snapshot_at": "2026-06-30T10:16:33.454551+00:00",
+      "snapshot_at": "2026-06-30T10:23:05.930103+00:00",
       "hotspots": [
         {
           "title": "盧秀燕訪美外交",
@@ -43312,20 +43312,6 @@
           ]
         },
         {
-          "title": "桃園車禍事件",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "桃園市高鐵北路車禍 兩車衝向路邊草堆"
-          ]
-        },
-        {
           "title": "台北車禍事件",
           "city": "台北",
           "place": "台北市南港區",
@@ -43337,6 +43323,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "北市南港車禍！大貨車猛撞電線桿 倒下畫面驚悚曝光"
+          ]
+        },
+        {
+          "title": "桃園車禍事件",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "桃園市高鐵北路車禍 兩車衝向路邊草堆"
           ]
         },
         {
@@ -43354,9 +43354,9 @@
           ]
         },
         {
-          "title": "彰化車禍事件",
-          "city": "彰化",
-          "place": "彰化縣政府",
+          "title": "金門車禍事件",
+          "city": "金門",
+          "place": "金門縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -43364,7 +43364,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "影／台15線西濱深夜車禍！貨車猛撞巴士變形 駕駛「全身是血」受困車內"
+            "金門嚴重車禍！計程車疑搶快左轉 機車騎士遭撞飛重傷"
           ]
         },
         {
@@ -43382,9 +43382,9 @@
           ]
         },
         {
-          "title": "金門車禍事件",
-          "city": "金門",
-          "place": "金門縣政府",
+          "title": "彰化車禍事件",
+          "city": "彰化",
+          "place": "彰化縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -43392,7 +43392,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "金門嚴重車禍！計程車疑搶快左轉 機車騎士遭撞飛重傷"
+            "影／台15線西濱深夜車禍！貨車猛撞巴士變形 駕駛「全身是血」受困車內"
           ]
         },
         {
@@ -43528,20 +43528,6 @@
           ]
         },
         {
-          "title": "台北弊案爭議",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "前北市刑大偵二隊長涉接受招待喝花酒、收130盒燕窩 地院判刑10年6月"
-          ]
-        },
-        {
           "title": "雲林弊案爭議",
           "city": "雲林",
           "place": "雲林縣政府",
@@ -43553,6 +43539,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "雲林地檢署瓦解非法廢棄物集團 起訴40人"
+          ]
+        },
+        {
+          "title": "台北弊案爭議",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "前北市刑大偵二隊長涉接受招待喝花酒、收130盒燕窩 地院判刑10年6月"
           ]
         },
         {
@@ -43605,11 +43605,11 @@
           "city": "雲林",
           "place": "雲林縣政府",
           "level": "yellow",
-          "news_count": 14,
+          "news_count": 13,
           "comment_count": 0,
-          "negativity_pct": 14,
+          "negativity_pct": 15,
           "is_urgent": false,
-          "urgency_score": 20,
+          "urgency_score": 19,
           "sample_titles": [
             "從豬肉減碳到茶渣發電 雲林經豔獎助產業邁向淨零永續",
             "雲林地檢署瓦解非法廢棄物集團 起訴40人",
@@ -43621,11 +43621,11 @@
           "city": "南投",
           "place": "南投縣政府",
           "level": "yellow",
-          "news_count": 15,
+          "news_count": 14,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 18,
+          "urgency_score": 17,
           "sample_titles": [
             "南投警分局教導民眾善用「警政服務APP」掌握防空避難資訊",
             "南投警推防空避難巡禮 一對一教學警政APP操作",
@@ -43653,11 +43653,11 @@
           "city": "台東",
           "place": "台東縣政府",
           "level": "yellow",
-          "news_count": 19,
+          "news_count": 18,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 19,
+          "urgency_score": 18,
           "sample_titles": [
             "台東「原民特搜隊」成軍 35勇士化身原鄉災變守護神",
             "二十年努力終見成果 富岡港交通船客運中心試營運 打造台東海運新門戶",
@@ -43891,11 +43891,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "red",
-          "news_count": 46,
+          "news_count": 45,
           "comment_count": 0,
           "negativity_pct": 13,
           "is_urgent": false,
-          "urgency_score": 64,
+          "urgency_score": 63,
           "sample_titles": [
             "越南移工抓螃蟹徹夜未歸 2天後彰化二林溪尋獲遺體",
             "全國同步擴大取締毒駕 彰警鐵拳出擊守護彰化",
@@ -43907,11 +43907,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 47,
+          "news_count": 46,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 56,
+          "urgency_score": 55,
           "sample_titles": [
             "拒絕露天燃燒 苗栗縣稻草及木質分解菌開始領取囉!",
             "苗栗鄉長收賄狂撈1289萬！一審重判499年跑了 二審判決出爐",
@@ -43939,11 +43939,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 83,
+          "news_count": 81,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 107,
+          "urgency_score": 105,
           "sample_titles": [
             "1歲前感染率7成！花蓮推RSV雙軌補助兒科",
             "檀島九週年慶攜手花蓮農業處 「港味饗花蓮・山海鮮味祭」 隆重登場",
@@ -43983,6 +43983,22 @@
           ]
         },
         {
+          "title": "高雄地方動態",
+          "city": "高雄",
+          "place": "高雄市苓雅區",
+          "level": "red",
+          "news_count": 130,
+          "comment_count": 0,
+          "negativity_pct": 10,
+          "is_urgent": false,
+          "urgency_score": 169,
+          "sample_titles": [
+            "力拚高雄市長選舉，藍綠關切高雄農漁業災損及產業發展。民進黨參選人賴瑞隆說，將持續關注災後復原進度；國民黨參選人柯志恩說，",
+            "高雄用路人集體焦慮！最新毒駕數據「六都第二」 網驚：根本行動炸彈",
+            "好市多高雄新店7/3正式開幕！網曝辦卡超殺優惠：贈品不拿白不拿"
+          ]
+        },
+        {
           "title": "桃園地方動態",
           "city": "桃園",
           "place": "桃園市政府",
@@ -43999,31 +44015,15 @@
           ]
         },
         {
-          "title": "高雄地方動態",
-          "city": "高雄",
-          "place": "高雄市苓雅區",
-          "level": "red",
-          "news_count": 131,
-          "comment_count": 0,
-          "negativity_pct": 10,
-          "is_urgent": false,
-          "urgency_score": 170,
-          "sample_titles": [
-            "力拚高雄市長選舉，藍綠關切高雄農漁業災損及產業發展。民進黨參選人賴瑞隆說，將持續關注災後復原進度；國民黨參選人柯志恩說，",
-            "高雄用路人集體焦慮！最新毒駕數據「六都第二」 網驚：根本行動炸彈",
-            "好市多高雄新店7/3正式開幕！網曝辦卡超殺優惠：贈品不拿白不拿"
-          ]
-        },
-        {
           "title": "台北地方動態",
           "city": "台北",
           "place": "台北市內湖區",
           "level": "red",
-          "news_count": 164,
+          "news_count": 162,
           "comment_count": 0,
-          "negativity_pct": 5,
+          "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 191,
+          "urgency_score": 189,
           "sample_titles": [
             "阿聯酋航空A350加入台北航線 首度推出豪華經濟艙 | 生活焦點 | 要聞",
             "梅雨集中炸1個月！全台雨量創13年新高 台北129年來6月最多雨",
