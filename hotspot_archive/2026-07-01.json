@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "snapshot_at": "2026-07-01T10:31:16.446483+00:00",
+  "snapshot_at": "2026-07-01T10:31:39.366306+00:00",
   "hotspots": [
     {
       "title": "捷運藍線爭議",
@@ -46,27 +46,6 @@
       "comments": []
     },
     {
-      "title": "台南車禍事件",
-      "city": "台南",
-      "place": "台南市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "台南嚴重車禍！女騎士遭捲車底命危 送醫搶救中",
-          "url": "https://www.thehubnews.net/archives/639605",
-          "time": "2026-06-30 22:43:00",
-          "publisher": "新頭條",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台中車禍事件",
       "city": "台中",
       "place": "台中市政府",
@@ -82,6 +61,27 @@
           "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-06-30/2392849.html",
           "time": "2026-06-30 21:11:04",
           "publisher": "壹電視",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台南車禍事件",
+      "city": "台南",
+      "place": "台南市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "台南嚴重車禍！女騎士遭捲車底命危 送醫搶救中",
+          "url": "https://www.thehubnews.net/archives/639605",
+          "time": "2026-06-30 22:43:00",
+          "publisher": "新頭條",
           "severity": "yellow"
         }
       ],
@@ -629,27 +629,6 @@
       "comments": []
     },
     {
-      "title": "宜蘭墜樓事件",
-      "city": "宜蘭",
-      "place": "宜蘭縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "宜蘭少女借高利貸遭侵犯！情緒崩潰墜樓重傷 惡男下場出爐",
-          "url": "https://news.nextapple.com/local/20260701/A3E062786FFFA1F80CBB334D5EC26DBE",
-          "time": "2026-07-01 12:42:40",
-          "publisher": "壹蘋新聞網",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台北墜樓事件",
       "city": "台北",
       "place": "台北市政府",
@@ -665,6 +644,27 @@
           "url": "https://www.cna.com.tw/news/asoc/202607010079.aspx",
           "time": "2026-07-01 11:14:41",
           "publisher": "中央社",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "宜蘭墜樓事件",
+      "city": "宜蘭",
+      "place": "宜蘭縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "宜蘭少女借高利貸遭侵犯！情緒崩潰墜樓重傷 惡男下場出爐",
+          "url": "https://news.nextapple.com/local/20260701/A3E062786FFFA1F80CBB334D5EC26DBE",
+          "time": "2026-07-01 12:42:40",
+          "publisher": "壹蘋新聞網",
           "severity": "red"
         }
       ],
@@ -1995,6 +1995,34 @@
       ]
     },
     {
+      "title": "台北弊案爭議",
+      "city": "台北",
+      "place": "台北市政府",
+      "level": "red",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "北市錢櫃員工關窗墜樓亡 北檢起訴負責人練台生",
+          "url": "https://www.cna.com.tw/news/asoc/202607010079.aspx",
+          "time": "2026-07-01 11:14:41",
+          "publisher": "中央社",
+          "severity": "red"
+        },
+        {
+          "title": "【#台灣最前線】Live直播2026.06.30 貪污才是主菜？黃國昌應訊咆哮？民眾黨民調崩？國民黨切割自保？蔣萬安亂發慰問金...再即刻討回？藍提無人機條例！分六年亂國防？",
+          "url": "https://www.youtube.com/watch?v=SDa97yFr7dE",
+          "time": "2026-06-30 19:35:23",
+          "publisher": null,
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "桃園弊案爭議",
       "city": "桃園",
       "place": "桃園市政府",
@@ -2045,34 +2073,6 @@
           "url": "https://www.cna.com.tw/news/asoc/202607010047.aspx",
           "time": "2026-07-01 10:20:33",
           "publisher": "中央社",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "台北弊案爭議",
-      "city": "台北",
-      "place": "台北市政府",
-      "level": "red",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "北市錢櫃員工關窗墜樓亡 北檢起訴負責人練台生",
-          "url": "https://www.cna.com.tw/news/asoc/202607010079.aspx",
-          "time": "2026-07-01 11:14:41",
-          "publisher": "中央社",
-          "severity": "red"
-        },
-        {
-          "title": "【#台灣最前線】Live直播2026.06.30 貪污才是主菜？黃國昌應訊咆哮？民眾黨民調崩？國民黨切割自保？蔣萬安亂發慰問金...再即刻討回？藍提無人機條例！分六年亂國防？",
-          "url": "https://www.youtube.com/watch?v=SDa97yFr7dE",
-          "time": "2026-06-30 19:35:23",
-          "publisher": null,
           "severity": "red"
         }
       ],
@@ -2538,11 +2538,11 @@
       "city": "新竹市",
       "place": "新竹市政府",
       "level": "red",
-      "news_count": 37,
+      "news_count": 36,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 37,
+      "urgency_score": 36,
       "news_articles": [
         {
           "title": "智慧便民服務獲肯定！竹市北區戶政勇奪全國績優戶政機關",
@@ -2794,13 +2794,6 @@
           "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=bbe3c53d-1d43-4f83-8bd6-29e5ac445c4c",
           "time": "2026-06-30 18:33:10",
           "publisher": "新竹市政府",
-          "severity": null
-        },
-        {
-          "title": "錢薇娟、鄭志龍站台！竹市3×3籃球賽開打",
-          "url": "https://www.cdns.com.tw/articles/1423024",
-          "time": "2026-06-30 18:29:30",
-          "publisher": "中華日報",
           "severity": null
         }
       ],
