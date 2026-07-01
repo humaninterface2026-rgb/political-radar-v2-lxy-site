@@ -44117,7 +44117,7 @@
     },
     {
       "date": "2026-07-01",
-      "snapshot_at": "2026-07-01T01:24:29.482936+00:00",
+      "snapshot_at": "2026-07-01T01:31:01.663141+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -44200,20 +44200,6 @@
           ]
         },
         {
-          "title": "彰化車禍事件",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "影／台15線西濱深夜車禍！貨車猛撞巴士變形 駕駛「全身是血」受困車內"
-          ]
-        },
-        {
           "title": "台中車禍事件",
           "city": "台中",
           "place": "台中市政府",
@@ -44225,6 +44211,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "台中「魔王坡」又車禍！ 5車連環撞造成6人擦挫傷"
+          ]
+        },
+        {
+          "title": "南投車禍事件",
+          "city": "南投",
+          "place": "南投縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "車禍事故頻傳！南投縣「這2路段」7/1重啟超速取締"
           ]
         },
         {
@@ -44242,9 +44242,9 @@
           ]
         },
         {
-          "title": "南投車禍事件",
-          "city": "南投",
-          "place": "南投縣政府",
+          "title": "彰化車禍事件",
+          "city": "彰化",
+          "place": "彰化縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -44252,7 +44252,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "車禍事故頻傳！南投縣「這2路段」7/1重啟超速取締"
+            "影／台15線西濱深夜車禍！貨車猛撞巴士變形 駕駛「全身是血」受困車內"
           ]
         },
         {
@@ -44359,6 +44359,20 @@
           ]
         },
         {
+          "title": "苗栗弊案爭議",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "苗栗三灣前鄉長溫志強涉130罪貪污 二審改判工程回扣罪"
+          ]
+        },
+        {
           "title": "台北弊案爭議",
           "city": "台北",
           "place": "台北市政府",
@@ -44370,20 +44384,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "【#台灣最前線】Live直播2026.06.30 貪污才是主菜？黃國昌應訊咆哮？民眾黨民調崩？國民黨切割自保？蔣萬安亂發"
-          ]
-        },
-        {
-          "title": "高雄弊案爭議",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "高雄3連霸里長暗槓300罐敬老禮品 貪污罪判刑"
           ]
         },
         {
@@ -44401,9 +44401,9 @@
           ]
         },
         {
-          "title": "苗栗弊案爭議",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
+          "title": "高雄弊案爭議",
+          "city": "高雄",
+          "place": "高雄市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -44411,7 +44411,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "苗栗三灣前鄉長溫志強涉130罪貪污 二審改判工程回扣罪"
+            "高雄3連霸里長暗槓300罐敬老禮品 貪污罪判刑"
           ]
         },
         {
@@ -44876,11 +44876,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 111,
+          "news_count": 110,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 126,
+          "urgency_score": 125,
           "sample_titles": [
             "花蓮慈濟攜手博太生醫 以天麻、黑豆 研發失智新藥",
             "檢驗合格 花蓮鯉魚潭105艘天鵝船復航",
@@ -44924,11 +44924,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 172,
+          "news_count": 170,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 178,
+          "urgency_score": 176,
           "sample_titles": [
             "國1桃園北上路段3車追撞事故 後方塞爆",
             "桃園國際機場表揚26位服務楷模 詮釋最暖心國門精神",
@@ -44946,9 +44946,9 @@
           "is_urgent": false,
           "urgency_score": 222,
           "sample_titles": [
+            "台北水溝驚見野生大山蘇！他看傻「蔣萬安在種菜嗎」：到底土壤多肥沃",
             "鄭朝方一離開竹北，藍白反而全亂了！黃益中看2026竹北市長戰場大洗牌",
-            "2018年九合一大選侯友宜、盧秀燕、韓國瑜組成的「漢子、燕子、禿子」加上「韓流」，風潮席捲全台，為國民黨打下大勝基礎。今",
-            "1954年7月1日，反共義士郭貽惠與其情人唐崇瑛小姐，在台北市軍友總社交誼廳隆重舉行結婚典禮。一對烽火鴛鴦，終成自由美眷"
+            "2018年九合一大選侯友宜、盧秀燕、韓國瑜組成的「漢子、燕子、禿子」加上「韓流」，風潮席捲全台，為國民黨打下大勝基礎。今"
           ]
         },
         {
@@ -44956,15 +44956,15 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 203,
+          "news_count": 204,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 275,
+          "urgency_score": 276,
           "sample_titles": [
+            "富市台中就業成功 中市勞工局7月邀60家企業、提供逾2,000個職缺 | 中廣新聞網",
             "買貴退差價 台中建商惹議",
-            "2018年九合一大選侯友宜、盧秀燕、韓國瑜組成的「漢子、燕子、禿子」加上「韓流」，風潮席捲全台，為國民黨打下大勝基礎。今",
-            "特色候車亭成城市新亮點！中市號召企業認養共創優質候車環境"
+            "2018年九合一大選侯友宜、盧秀燕、韓國瑜組成的「漢子、燕子、禿子」加上「韓流」，風潮席捲全台，為國民黨打下大勝基礎。今"
           ]
         }
       ]

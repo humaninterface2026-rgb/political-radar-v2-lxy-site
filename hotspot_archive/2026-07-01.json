@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "snapshot_at": "2026-07-01T01:24:29.482936+00:00",
+  "snapshot_at": "2026-07-01T01:31:01.663141+00:00",
   "hotspots": [
     {
       "title": "捷運藍線爭議",
@@ -131,27 +131,6 @@
       "comments": []
     },
     {
-      "title": "彰化車禍事件",
-      "city": "彰化",
-      "place": "彰化縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "影／台15線西濱深夜車禍！貨車猛撞巴士變形 駕駛「全身是血」受困車內",
-          "url": "https://www.thehubnews.net/archives/639343",
-          "time": "2026-06-30 10:46:00",
-          "publisher": "新頭條",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台中車禍事件",
       "city": "台中",
       "place": "台中市政府",
@@ -167,6 +146,27 @@
           "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-06-30/2392849.html",
           "time": "2026-06-30 21:11:04",
           "publisher": "壹電視",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "南投車禍事件",
+      "city": "南投",
+      "place": "南投縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "車禍事故頻傳！南投縣「這2路段」7/1重啟超速取締",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5489010",
+          "time": "2026-06-30 16:34:11",
+          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -194,9 +194,9 @@
       "comments": []
     },
     {
-      "title": "南投車禍事件",
-      "city": "南投",
-      "place": "南投縣政府",
+      "title": "彰化車禍事件",
+      "city": "彰化",
+      "place": "彰化縣政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -205,10 +205,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "車禍事故頻傳！南投縣「這2路段」7/1重啟超速取締",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5489010",
-          "time": "2026-06-30 16:34:11",
-          "publisher": "自由時報",
+          "title": "影／台15線西濱深夜車禍！貨車猛撞巴士變形 駕駛「全身是血」受困車內",
+          "url": "https://www.thehubnews.net/archives/639343",
+          "time": "2026-06-30 10:46:00",
+          "publisher": "新頭條",
           "severity": "yellow"
         }
       ],
@@ -606,6 +606,27 @@
       "comments": []
     },
     {
+      "title": "苗栗弊案爭議",
+      "city": "苗栗",
+      "place": "苗栗縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "苗栗三灣前鄉長溫志強涉130罪貪污 二審改判工程回扣罪",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXZ3pvTG0tUVRvVGdRSFM1WkxuS294WGcyTzh2UEt2QzYtNU41eGpyYU9CNXhkZFJEV25Dcndmd1NCTVVCSWluTHBuM2nSAVJBVV95cUxQMUJkaGNyWTV2MVQ5WkpGNElYaW55QXZlWTh1TVlpMFVGMlI3ZllsS08yYVZQOGN1MmpaRXNDSkJLejJCRzNaNmlvOVh6dzczSHpn?oc=5",
+          "time": "2026-06-30 17:26:00",
+          "publisher": "Google News→NOWnews今日新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "台北弊案爭議",
       "city": "台北",
       "place": "台北市政府",
@@ -621,27 +642,6 @@
           "url": "https://www.youtube.com/watch?v=SDa97yFr7dE",
           "time": "2026-06-30 19:35:23",
           "publisher": null,
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "高雄弊案爭議",
-      "city": "高雄",
-      "place": "高雄市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "高雄3連霸里長暗槓300罐敬老禮品 貪污罪判刑",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5488628",
-          "time": "2026-06-30 12:26:51",
-          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -669,9 +669,9 @@
       "comments": []
     },
     {
-      "title": "苗栗弊案爭議",
-      "city": "苗栗",
-      "place": "苗栗縣政府",
+      "title": "高雄弊案爭議",
+      "city": "高雄",
+      "place": "高雄市政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -680,10 +680,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "苗栗三灣前鄉長溫志強涉130罪貪污 二審改判工程回扣罪",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXZ3pvTG0tUVRvVGdRSFM1WkxuS294WGcyTzh2UEt2QzYtNU41eGpyYU9CNXhkZFJEV25Dcndmd1NCTVVCSWluTHBuM2nSAVJBVV95cUxQMUJkaGNyWTV2MVQ5WkpGNElYaW55QXZlWTh1TVlpMFVGMlI3ZllsS08yYVZQOGN1MmpaRXNDSkJLejJCRzNaNmlvOVh6dzczSHpn?oc=5",
-          "time": "2026-06-30 17:26:00",
-          "publisher": "Google News→NOWnews今日新聞",
+          "title": "高雄3連霸里長暗槓300罐敬老禮品 貪污罪判刑",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5488628",
+          "time": "2026-06-30 12:26:51",
+          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -6254,11 +6254,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 111,
+      "news_count": 110,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 126,
+      "urgency_score": 125,
       "news_articles": [
         {
           "title": "花蓮慈濟攜手博太生醫 以天麻、黑豆 研發失智新藥",
@@ -7028,13 +7028,6 @@
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSDNyZ3FIazNYMGZyODU1MzYwMVdQMmVOTWh5aTZodXFUd3NCalRiUGhBS1pEZU5idExsMGpZMENwazNqMnlnOGdSeGVqMHBSWUpTUzBhTVpRYmVhcVA5LWlhd25lVnpmVXNUZTkwRnhuT1ktQnZYdVhmOURNZ1F6dVJNV3dMWVZNVGdUTC1TQnExT1JxWEVQWEc3RXBpZHNIb0pEWHp4MnpsZjRGbFhHeGNLNExSaDBfeWZCNUwxbDJabXJKcUZZbjJrSnVIaDl5c1IwRS1teThoMEctNGJwdDJXdUhUc2lvckdiUmhRQ1hjaE5VZE9lQ0FyTGQtaGN0Q3JBSDFfZlU?oc=5",
           "time": "2026-06-30 09:41:15",
           "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "花蓮知卡宣戲水開幕第2波嘉賓「兒童界天王」將驚喜現身- 瘋台灣",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pZW5QMFlEUEo2dE9CeHZtTEowM1RxUlh5bU1CcnhDeU5fTVRETG1ueWQxbUFPSnB3ZExyMi1EeEo0WTdvVmRnaTJraFRQMDBVZGhOV2l3NUhzYlM5MUQ3dG1FdVRicTM5aGFWcQ?oc=5",
-          "time": "2026-06-30 09:27:17",
-          "publisher": "Google News→觸mii",
           "severity": null
         }
       ],
@@ -9201,11 +9194,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 172,
+      "news_count": 170,
       "comment_count": 0,
       "negativity_pct": 1,
       "is_urgent": false,
-      "urgency_score": 178,
+      "urgency_score": 176,
       "news_articles": [
         {
           "title": "國1桃園北上路段3車追撞事故 後方塞爆",
@@ -10396,20 +10389,6 @@
           "time": "2026-06-30 09:31:11",
           "publisher": "太報",
           "severity": "red"
-        },
-        {
-          "title": "桃園、台北通勤新選擇！捷運三鶯線接駁公車上路",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tOGQ5XzNkQVF3QnFiQmx4R1FNa2lSQ3RZeEFSNkNqc3pydGV1N0JzaTg2TDI2b2w4N2IwUjlLSWJ4Y0UzZ1Q5MzFUVU9KdVZpeTZFVldySmliSXVvMHNKYUlRUGFXME1SS3ZJ0gFwQVVfeXFMTnI0SHNIM2h4NEZMaXlydWl5T3oycDlycVhmTklndTlhbjhPcXl3ODJLVXltcVE2ZFpmTV9kMGdPT3VxenVGREptaFEtbWx2Skt5WG9vbmNlVWlvdEZYQWV6YXBrVkRtNllVYzdwV19lRw?oc=5",
-          "time": "2026-06-30 09:30:00",
-          "publisher": "Google News→好房網News",
-          "severity": null
-        },
-        {
-          "title": "《疼惜桃園勞工》帶你了解工作權益 第37期主題曝光",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tQUs3d2FPS3pMQnBkUmd6SGJZaWZnREdVTGkxTWZDYldJbVprdDdYUU9Ua01oeGl4TmhHUl9sMm1xWW5xN096SkN3Y1Q?oc=5",
-          "time": "2026-06-30 09:27:31",
-          "publisher": "Google News→桃園電子報",
-          "severity": null
         }
       ],
       "comments": []
@@ -10425,6 +10404,13 @@
       "is_urgent": false,
       "urgency_score": 222,
       "news_articles": [
+        {
+          "title": "台北水溝驚見野生大山蘇！他看傻「蔣萬安在種菜嗎」：到底土壤多肥沃",
+          "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNakFjZTl6QW03QW8xNTVwUHpXZ0Q4LTdJQVFUcEN5eFhWUXVONmh1eW01cFh4em45ZmNJRzh4ZmlrVDFLOXZMdks4cERjUWdBVklGQjQzdnVuTjdVUlZyWlpaVHlQM3p4VGpuLUJrUHlJZUZ1M1hsWlpTN0dmNXRDWjVVTDVHOWdpRTZHOEM3QWFZeDlPZ3BFYTk2QlBEODFzMkgtamQ4Z1c4VVkxY3A0RFd3bFY0dE92MWV0ZTBLaEhwWFFLTmhjYUhkUmh1UUV2Qml6YjhzOUJiaDA1ZEtaM3VHdnRoSkxERlgxMjVPdFJmOTB6aENwSzd5RmI0aTloV0J1T2kzS09obnFTSkFCbDYyeldFemprenFUSl9YanJJa1diVndkaUZydmRJS1JfeTR5WDZ3RmVRWU9fLVBIYi13U0VBOFJJajRyUGd0UkRPZnJ4eFM4M2ZsaHNxeUF5dTFjbVl5emlwQXh4TnlwRl9pZHZCUGxMaVNyeWpHTW0yQ3ZiMjNwVGd6bXN5d2tRWlVDZzY0MEF6Nk54TF91U0RlbXlROUk?oc=5",
+          "time": "2026-07-01 09:14:30",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
         {
           "title": "鄭朝方一離開竹北，藍白反而全亂了！黃益中看2026竹北市長戰場大洗牌",
           "url": "https://www.fountmedia.io/article/397227",
@@ -11782,13 +11768,6 @@
           "time": "2026-06-30 09:31:14",
           "publisher": "聯合新聞網",
           "severity": "yellow"
-        },
-        {
-          "title": "桃園、台北通勤新選擇！捷運三鶯線接駁公車上路",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tOGQ5XzNkQVF3QnFiQmx4R1FNa2lSQ3RZeEFSNkNqc3pydGV1N0JzaTg2TDI2b2w4N2IwUjlLSWJ4Y0UzZ1Q5MzFUVU9KdVZpeTZFVldySmliSXVvMHNKYUlRUGFXME1SS3ZJ0gFwQVVfeXFMTnI0SHNIM2h4NEZMaXlydWl5T3oycDlycVhmTklndTlhbjhPcXl3ODJLVXltcVE2ZFpmTV9kMGdPT3VxenVGREptaFEtbWx2Skt5WG9vbmNlVWlvdEZYQWV6YXBrVkRtNllVYzdwV19lRw?oc=5",
-          "time": "2026-06-30 09:30:00",
-          "publisher": "Google News→好房網News",
-          "severity": null
         }
       ],
       "comments": []
@@ -11798,12 +11777,19 @@
       "city": "台中",
       "place": "台中市北屯區",
       "level": "red",
-      "news_count": 203,
+      "news_count": 204,
       "comment_count": 0,
       "negativity_pct": 12,
       "is_urgent": false,
-      "urgency_score": 275,
+      "urgency_score": 276,
       "news_articles": [
+        {
+          "title": "富市台中就業成功 中市勞工局7月邀60家企業、提供逾2,000個職缺 | 中廣新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43Sm9pMjA4aENFcngxelEwS0hPOGVFODBvSGR0N0JCRkl3cWY5Q0paQ0tKZkROU3lRY1BYYmhia2dhNThqdzBhNnJHZUJVWEMxVFVjTUxR?oc=5",
+          "time": "2026-07-01 09:18:23",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
         {
           "title": "買貴退差價 台中建商惹議",
           "url": "https://www.ctee.com.tw/news/20260701700202-430602",
