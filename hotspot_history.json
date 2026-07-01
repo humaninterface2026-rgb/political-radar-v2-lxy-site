@@ -44117,7 +44117,7 @@
     },
     {
       "date": "2026-07-01",
-      "snapshot_at": "2026-07-01T01:15:35.668781+00:00",
+      "snapshot_at": "2026-07-01T01:24:29.482936+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -44172,20 +44172,6 @@
           ]
         },
         {
-          "title": "高雄火災事件",
-          "city": "高雄",
-          "place": "高雄市前金區",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "連日潮濕易短路！前金消防隊提醒檢查居家插座防火災"
-          ]
-        },
-        {
           "title": "彰化火災事件",
           "city": "彰化",
           "place": "彰化縣政府",
@@ -44200,9 +44186,9 @@
           ]
         },
         {
-          "title": "台北車禍事件",
-          "city": "台北",
-          "place": "台北市南港區",
+          "title": "高雄火災事件",
+          "city": "高雄",
+          "place": "高雄市前金區",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -44210,7 +44196,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "北市南港車禍！大貨車猛撞電線桿 倒下畫面驚悚曝光"
+            "連日潮濕易短路！前金消防隊提醒檢查居家插座防火災"
           ]
         },
         {
@@ -44228,20 +44214,6 @@
           ]
         },
         {
-          "title": "南投車禍事件",
-          "city": "南投",
-          "place": "南投縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "車禍事故頻傳！南投縣「這2路段」7/1重啟超速取締"
-          ]
-        },
-        {
           "title": "台中車禍事件",
           "city": "台中",
           "place": "台中市政府",
@@ -44253,6 +44225,34 @@
           "urgency_score": 4,
           "sample_titles": [
             "台中「魔王坡」又車禍！ 5車連環撞造成6人擦挫傷"
+          ]
+        },
+        {
+          "title": "台北車禍事件",
+          "city": "台北",
+          "place": "台北市南港區",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "北市南港車禍！大貨車猛撞電線桿 倒下畫面驚悚曝光"
+          ]
+        },
+        {
+          "title": "南投車禍事件",
+          "city": "南投",
+          "place": "南投縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "車禍事故頻傳！南投縣「這2路段」7/1重啟超速取締"
           ]
         },
         {
@@ -44320,10 +44320,10 @@
           "place": "台中市霧峰區",
           "level": "green",
           "news_count": 0,
-          "comment_count": 5,
+          "comment_count": 6,
           "negativity_pct": 0,
           "is_urgent": true,
-          "urgency_score": 15,
+          "urgency_score": 18,
           "sample_titles": []
         },
         {
@@ -44340,22 +44340,6 @@
             "暑期戲水旺季到來 連江消防攜手鳳凰志工大隊加強水上安全宣導",
             "「走出馬祖成長營」前往麥當勞 馬祖學子品嚐速食美味超滿足",
             "台灣區電信工程同業公會前來馬祖舉辦座談會 提升寬頻網路、電信韌性"
-          ]
-        },
-        {
-          "title": "廚餘山",
-          "city": "台中",
-          "place": "台中市霧峰區",
-          "level": "green",
-          "news_count": 3,
-          "comment_count": 11,
-          "negativity_pct": 0,
-          "is_urgent": true,
-          "urgency_score": 32,
-          "sample_titles": [
-            "台中喝鮮乳擴大上路 營養午餐、廚餘清運明年預算編列將送議會審議",
-            "台中市明年總預算送議會 免費營養午餐逾41億元、廚餘處理費8千萬",
-            "台中市明年總預算送議會 免費營養午餐逾41億元、廚餘處理費8千萬"
           ]
         },
         {
@@ -44389,20 +44373,6 @@
           ]
         },
         {
-          "title": "新竹縣弊案爭議",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "路燈採購涉貪污 竹東代會前主席、峨眉鄉長二審各判15年、12年"
-          ]
-        },
-        {
           "title": "高雄弊案爭議",
           "city": "高雄",
           "place": "高雄市政府",
@@ -44414,6 +44384,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "高雄3連霸里長暗槓300罐敬老禮品 貪污罪判刑"
+          ]
+        },
+        {
+          "title": "新竹縣弊案爭議",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "路燈採購涉貪污 竹東代會前主席、峨眉鄉長二審各判15年、12年"
           ]
         },
         {
@@ -44524,6 +44508,22 @@
           ]
         },
         {
+          "title": "廚餘山",
+          "city": "台中",
+          "place": "台中市霧峰區",
+          "level": "yellow",
+          "news_count": 3,
+          "comment_count": 22,
+          "negativity_pct": 0,
+          "is_urgent": true,
+          "urgency_score": 53,
+          "sample_titles": [
+            "台中喝鮮乳擴大上路 營養午餐、廚餘清運明年預算編列將送議會審議",
+            "台中市明年總預算送議會 免費營養午餐逾41億元、廚餘處理費8千萬",
+            "台中市明年總預算送議會 免費營養午餐逾41億元、廚餘處理費8千萬"
+          ]
+        },
+        {
           "title": "新竹縣地方動態",
           "city": "新竹縣",
           "place": "新竹縣政府",
@@ -44618,21 +44618,6 @@
           ]
         },
         {
-          "title": "雲林弊案爭議",
-          "city": "雲林",
-          "place": "雲林縣政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "雲林地檢署瓦解非法廢棄物集團 起訴40人",
-            "雲林地檢署瓦解非法廢棄物集團 起訴40人"
-          ]
-        },
-        {
           "title": "桃園弊案爭議",
           "city": "桃園",
           "place": "桃園市政府",
@@ -44645,6 +44630,21 @@
           "sample_titles": [
             "桃園廢棄物濫倒逾3千噸 起訴40人",
             "桃園營建廢棄物亂倒中南部 110車次逾3300噸、40人遭起訴"
+          ]
+        },
+        {
+          "title": "雲林弊案爭議",
+          "city": "雲林",
+          "place": "雲林縣政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "雲林地檢署瓦解非法廢棄物集團 起訴40人",
+            "雲林地檢署瓦解非法廢棄物集團 起訴40人"
           ]
         },
         {
@@ -44828,11 +44828,11 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "red",
-          "news_count": 73,
+          "news_count": 69,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 79,
+          "urgency_score": 75,
           "sample_titles": [
             "【中天直播#LIVE】陸海警船侵金門\"常態執法\" 顧立雄立院報告因應作為 20260701@大新聞大爆卦HotNewsT",
             "金管會前主委成「國泰金門神」放水？ 郭明鑑兼職不處理",
@@ -44845,10 +44845,10 @@
           "place": "台中市清水區",
           "level": "red",
           "news_count": 76,
-          "comment_count": 4,
+          "comment_count": 6,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 82,
+          "urgency_score": 84,
           "sample_titles": [
             "盧秀燕假設「政策會延續」 明年度總預算編好了",
             "盧秀燕假設「政策會延續」 明年度總預算編好了",
@@ -44876,11 +44876,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 113,
+          "news_count": 111,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 134,
+          "urgency_score": 126,
           "sample_titles": [
             "花蓮慈濟攜手博太生醫 以天麻、黑豆 研發失智新藥",
             "檢驗合格 花蓮鯉魚潭105艘天鵝船復航",
@@ -44892,11 +44892,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 152,
+          "news_count": 151,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 176,
+          "urgency_score": 175,
           "sample_titles": [
             "2018年九合一大選侯友宜、盧秀燕、韓國瑜組成的「漢子、燕子、禿子」加上「韓流」，風潮席捲全台，為國民黨打下大勝基礎。今",
             "雙北官警嚴重洩密詐團最新！前新北市刑大小隊長被聲押",
