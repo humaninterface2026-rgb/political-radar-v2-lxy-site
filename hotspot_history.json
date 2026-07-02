@@ -44857,7 +44857,7 @@
     },
     {
       "date": "2026-07-02",
-      "snapshot_at": "2026-07-02T01:09:02.483413+00:00",
+      "snapshot_at": "2026-07-02T01:09:58.586697+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -45086,6 +45086,20 @@
           ]
         },
         {
+          "title": "台北弊案爭議",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "北市錢櫃員工關窗墜樓亡 北檢起訴負責人練台生"
+          ]
+        },
+        {
           "title": "台中弊案爭議",
           "city": "台中",
           "place": "台中市政府",
@@ -45111,20 +45125,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "快訊／桃園議員張肇良涉貪收押遭停權 民進黨擬由「他」遞補參選"
-          ]
-        },
-        {
-          "title": "台北弊案爭議",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "北市錢櫃員工關窗墜樓亡 北檢起訴負責人練台生"
           ]
         },
         {
@@ -45281,21 +45281,6 @@
           ]
         },
         {
-          "title": "新北弊案爭議",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "8警涉賄幫詐團關說 新北警員李金龍、餐飲大亨鄭淳駿收押禁見",
-            "下一站\"土城\"?黃國昌2018金句\"貪污就去坐牢\" 今成迴力鏢? 柯昌心結非首次!去年7月小草一句靈魂拷問 黃國昌瞬間當"
-          ]
-        },
-        {
           "title": "彰化弊案爭議",
           "city": "彰化",
           "place": "彰化縣政府",
@@ -45308,6 +45293,21 @@
           "sample_titles": [
             "彰化童參加路跑遭撞亡 無照肇事駕駛判刑2年10月",
             "彰化男台鐵高鐵留言殺人放炸彈 一審判刑6月"
+          ]
+        },
+        {
+          "title": "新北弊案爭議",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "8警涉賄幫詐團關說 新北警員李金龍、餐飲大亨鄭淳駿收押禁見",
+            "下一站\"土城\"?黃國昌2018金句\"貪污就去坐牢\" 今成迴力鏢? 柯昌心結非首次!去年7月小草一句靈魂拷問 黃國昌瞬間當"
           ]
         },
         {
@@ -45507,11 +45507,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 187,
+          "news_count": 186,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 202,
+          "urgency_score": 201,
           "sample_titles": [
             "新／桃園火車站一早大淹水 真相曝光",
             "桃園火車站火警！「2樓店家冒濃煙」自動灑水滅火 站內淹水了 | 社會 | CTWANT",
