@@ -44857,7 +44857,7 @@
     },
     {
       "date": "2026-07-02",
-      "snapshot_at": "2026-07-02T10:03:07.854373+00:00",
+      "snapshot_at": "2026-07-02T10:12:14.192387+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -44900,20 +44900,6 @@
           ]
         },
         {
-          "title": "桃園車禍事件",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "中壢深夜驚悚車禍！女開車左轉未禮讓 騎士連人帶車被撞飛"
-          ]
-        },
-        {
           "title": "台中車禍事件",
           "city": "台中",
           "place": "台中市政府",
@@ -44925,6 +44911,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "聞嘸飯菜香！他車禍喪失嗅覺7年 台中榮總研究揭恢復曙光"
+          ]
+        },
+        {
+          "title": "桃園車禍事件",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "中壢深夜驚悚車禍！女開車左轉未禮讓 騎士連人帶車被撞飛"
           ]
         },
         {
@@ -44942,20 +44942,6 @@
           ]
         },
         {
-          "title": "台南詐騙案",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "免費索取「拉布布水桶包」罰9萬？台南警：假物流詐騙"
-          ]
-        },
-        {
           "title": "台中詐騙案",
           "city": "台中",
           "place": "台中市政府",
@@ -44970,18 +44956,17 @@
           ]
         },
         {
-          "title": "台中陳情/抗議",
-          "city": "台中",
-          "place": "台中市政府",
+          "title": "台南詐騙案",
+          "city": "台南",
+          "place": "台南市政府",
           "level": "green",
-          "news_count": 2,
+          "news_count": 1,
           "comment_count": 0,
           "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
+          "is_urgent": false,
+          "urgency_score": 4,
           "sample_titles": [
-            "台中市政府與美國在台協會（AIT）今天舉辦2026台中無人載具產業與海外商機論壇，業界認為台中要加速整合產業競爭力，並善",
-            "控民進黨議員助理扮民眾到台中無人機論壇抗議 「最強菜農」林佳新批丟臉丟到國外"
+            "免費索取「拉布布水桶包」罰9萬？台南警：假物流詐騙"
           ]
         },
         {
@@ -45149,6 +45134,22 @@
           ]
         },
         {
+          "title": "台中陳情/抗議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "yellow",
+          "news_count": 3,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 12,
+          "sample_titles": [
+            "盧秀燕合體谷立言辦無人機論壇！場外突現群眾抗議 最強菜農踢爆：是綠議員助理 | 戴祺修 | 新聞",
+            "台中市政府與美國在台協會（AIT）今天舉辦2026台中無人載具產業與海外商機論壇，業界認為台中要加速整合產業競爭力，並善",
+            "控民進黨議員助理扮民眾到台中無人機論壇抗議 「最強菜農」林佳新批丟臉丟到國外"
+          ]
+        },
+        {
           "title": "苗栗詐騙案",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -45209,7 +45210,7 @@
           "sample_titles": [
             "盧秀燕致完詞就離開論壇？ 鄭照新：陪同谷立言延續相關行程",
             "盧秀燕致完詞就離開論壇？ 鄭照新：陪同谷立言延續相關行程",
-            "要把台灣變無人載具「蜂巢」 谷立言、盧秀燕同框：台美有機會邁向白金時代"
+            "盧秀燕致完詞就離開論壇？ 鄭照新：陪同谷立言延續相關行程"
           ]
         },
         {
@@ -45217,11 +45218,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "yellow",
-          "news_count": 106,
+          "news_count": 105,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 121,
+          "urgency_score": 120,
           "sample_titles": [
             "嚴德發主委致贈花蓮榮家長輩頂級芒果 夏日甜蜜消暑",
             "海巡署聯合花蓮各搜救及環保單位辦理「115年度區域聯合救生救難暨海洋油及化學品污染應變演練」",
@@ -45419,6 +45420,22 @@
           ]
         },
         {
+          "title": "澎湖地方動態",
+          "city": "澎湖",
+          "place": "澎湖縣政府",
+          "level": "red",
+          "news_count": 52,
+          "comment_count": 0,
+          "negativity_pct": 8,
+          "is_urgent": false,
+          "urgency_score": 64,
+          "sample_titles": [
+            "澎湖設置外籍漁工祈禱室 營造友善漁業與人權環境",
+            "海保署攜手澎湖區漁會 一舉查獲違法採捕馬糞海膽",
+            "澎湖打造四季皆宜國際海島城市 無黨籍縣長參選人葉竹林提政見 | 自由電子報"
+          ]
+        },
+        {
           "title": "新竹市地方動態",
           "city": "新竹市",
           "place": "新竹市政府",
@@ -45432,22 +45449,6 @@
             "竹市毒品危害防制委員會議登場 市府頒發委員聘書攜手打造無毒城市",
             "中聯油脂大豆沙拉油苯駢芘超標 竹市府督導業者立即下架確保食安",
             "民進黨新竹市長候選人莊競程今走進香山荔枝果園，化身一日果農採果，並拋出打造「新竹好物」品牌政見，主張結合竹科企業採購、節"
-          ]
-        },
-        {
-          "title": "澎湖地方動態",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
-          "level": "red",
-          "news_count": 54,
-          "comment_count": 0,
-          "negativity_pct": 7,
-          "is_urgent": false,
-          "urgency_score": 66,
-          "sample_titles": [
-            "澎湖設置外籍漁工祈禱室 營造友善漁業與人權環境",
-            "海保署攜手澎湖區漁會 一舉查獲違法採捕馬糞海膽",
-            "澎湖打造四季皆宜國際海島城市 無黨籍縣長參選人葉竹林提政見 | 自由電子報"
           ]
         },
         {
@@ -45503,11 +45504,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 85,
+          "news_count": 84,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 91,
+          "urgency_score": 90,
           "sample_titles": [
             "愛買攜手臺南市政府推出「夏日芒果祭」",
             "中聯油脂檢驗異常油品事件 南市府啟動查核並設置專區",
@@ -45535,11 +45536,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 98,
+          "news_count": 97,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 122,
+          "urgency_score": 121,
           "sample_titles": [
             "屏東市廣東路589號前發生大貨車陷落路面事故無人傷",
             "琉球「資收物爆量」鄉長神隱今現身立院 屏東檢調追查是否瀆職",
@@ -45551,11 +45552,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 185,
+          "news_count": 181,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 227,
+          "urgency_score": 223,
           "sample_titles": [
             "國家警報響了！氣象署：新北、桃園大雷雨警戒 3區域小心冰雹 | 天氣預報 | 生活",
             "8縣市大雨特報 新北桃園防大雷雨",
@@ -45567,11 +45568,11 @@
           "city": "高雄",
           "place": "高雄市三民區",
           "level": "red",
-          "news_count": 193,
+          "news_count": 189,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 208,
+          "urgency_score": 204,
           "sample_titles": [
             "高市府海洋局辦理颱風避風演練 強化漁船進港與船員安置機制",
             "影集「對你心動的預言」高雄拍攝中 (圖)",
@@ -45583,15 +45584,15 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 194,
+          "news_count": 192,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 227,
+          "urgency_score": 225,
           "sample_titles": [
+            "台中辦無人機論壇 盧秀燕喊立院推條例卻力挺卡關黨版 民進黨台中市議會黨團總召周永鴻：呼籲的對象就在身邊，江啟臣應說清楚",
             "美國找台灣拚再工業化 江啟臣喊台中站C位：複製台積電神話 | 政治快訊 | 要聞",
-            "2026.07.02 17:03 台中大遠百超級年中慶 Passion Sisters妮可、貴貴、曼容7／5見面會登場",
-            "中市府頒發希朵獎 盧市長表揚16優勝機關推動性平有成"
+            "2026.07.02 17:03 台中大遠百超級年中慶 Passion Sisters妮可、貴貴、曼容7／5見面會登場"
           ]
         },
         {
@@ -45599,15 +45600,15 @@
           "city": "台北",
           "place": "台北市內湖區",
           "level": "red",
-          "news_count": 237,
+          "news_count": 236,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 267,
+          "urgency_score": 266,
           "sample_titles": [
+            "北市天價遮陽傘挨轟 張育萌狠揭蔣萬安「忍術切割之術」",
             "致癌沙拉油「22校曾使用」！北市全面下架 緊急擴大抽查油品 | 政治快訊 | 要聞",
-            "東京大阪退燒？日圓貶值台灣人狂飛九州 佐賀機場台北線寫新紀錄 | 國際萬花筒 | 全球",
-            "行政院公布軍公教人員調薪方案，提高公務人員起薪盼吸引人才。有公務員認為，調薪有助吸引新人投入公職，但留才效果有限。新北市"
+            "東京大阪退燒？日圓貶值台灣人狂飛九州 佐賀機場台北線寫新紀錄 | 國際萬花筒 | 全球"
           ]
         }
       ]
