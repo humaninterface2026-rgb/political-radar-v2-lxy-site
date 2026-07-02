@@ -44857,7 +44857,7 @@
     },
     {
       "date": "2026-07-02",
-      "snapshot_at": "2026-07-02T10:12:14.192387+00:00",
+      "snapshot_at": "2026-07-02T10:18:32.030201+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -44942,20 +44942,6 @@
           ]
         },
         {
-          "title": "台中詐騙案",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台中 半年823件 無卡提款詐騙暴增"
-          ]
-        },
-        {
           "title": "台南詐騙案",
           "city": "台南",
           "place": "台南市政府",
@@ -44967,6 +44953,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "免費索取「拉布布水桶包」罰9萬？台南警：假物流詐騙"
+          ]
+        },
+        {
+          "title": "台中詐騙案",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "台中 半年823件 無卡提款詐騙暴增"
           ]
         },
         {
@@ -45062,20 +45062,6 @@
           ]
         },
         {
-          "title": "桃園弊案爭議",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "抓頭撞牆打死7旬父 桃園逆子伴腐屍21天起訴求重刑"
-          ]
-        },
-        {
           "title": "苗栗弊案爭議",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -45087,6 +45073,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "苗栗女子殺害2年幼子女 一審判刑30年"
+          ]
+        },
+        {
+          "title": "桃園弊案爭議",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "抓頭撞牆打死7旬父 桃園逆子伴腐屍21天起訴求重刑"
           ]
         },
         {
@@ -45376,11 +45376,11 @@
           "city": "南投",
           "place": "南投縣政府",
           "level": "red",
-          "news_count": 25,
+          "news_count": 24,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 34,
+          "urgency_score": 33,
           "sample_titles": [
             "南投城鎮韌性演習逼真 蕭副總統視導並慰勉",
             "南投縣政府今天辦理城鎮韌性演習綜合實作演練，包含南投市公所開設應變中心、南投醫院應對大量傷病患、連鎖賣場補給物資等，副總",
@@ -45392,11 +45392,11 @@
           "city": "基隆",
           "place": "基隆市政府",
           "level": "red",
-          "news_count": 38,
+          "news_count": 37,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 41,
+          "urgency_score": 40,
           "sample_titles": [
             "參訪高雄與陳其邁交流港灣建設 童子瑋：努力實現港市合作「基隆夢」",
             "參訪高雄與陳其邁交流港灣建設 童子瑋：努力實現港市合作「基隆夢」",
@@ -45408,11 +45408,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "red",
-          "news_count": 51,
+          "news_count": 50,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 60,
+          "urgency_score": 59,
           "sample_titles": [
             "迎來新轉機！陳素月發表競選主打歌「這是我們的彰化」",
             "告急！彰化文蛤災損逾2成 陳素月促中央速公告天然災害救助",
@@ -45424,11 +45424,11 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "red",
-          "news_count": 52,
+          "news_count": 51,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 64,
+          "urgency_score": 63,
           "sample_titles": [
             "澎湖設置外籍漁工祈禱室 營造友善漁業與人權環境",
             "海保署攜手澎湖區漁會 一舉查獲違法採捕馬糞海膽",
@@ -45456,15 +45456,31 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "red",
-          "news_count": 59,
+          "news_count": 54,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 71,
+          "urgency_score": 66,
           "sample_titles": [
             "小三通旅客破百萬！金門在地人卻不便 陸委會回應了",
             "華航公益羽球營首登金門 國際球星林俊易傳承冠軍夢",
             "韓國介軍中學與台南金城國中、九份子國中小締盟十週年 共譜教育新篇章"
+          ]
+        },
+        {
+          "title": "宜蘭地方動態",
+          "city": "宜蘭",
+          "place": "宜蘭縣政府",
+          "level": "red",
+          "news_count": 63,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 63,
+          "sample_titles": [
+            "影／宜蘭冬山鄉竹林工寮驚傳火警！84歲老翁逃生不及慘成焦屍| 時事",
+            "快訊／宜蘭冬山工寮火警 8旬翁命喪火場",
+            "快訊／宜蘭知名飯店 驚傳非法移工溺斃工地"
           ]
         },
         {
@@ -45484,31 +45500,15 @@
           ]
         },
         {
-          "title": "宜蘭地方動態",
-          "city": "宜蘭",
-          "place": "宜蘭縣政府",
-          "level": "red",
-          "news_count": 65,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 65,
-          "sample_titles": [
-            "影／宜蘭冬山鄉竹林工寮驚傳火警！84歲老翁逃生不及慘成焦屍| 時事",
-            "快訊／宜蘭冬山工寮火警 8旬翁命喪火場",
-            "快訊／宜蘭知名飯店 驚傳非法移工溺斃工地"
-          ]
-        },
-        {
           "title": "台南地方動態",
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 84,
+          "news_count": 83,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 90,
+          "urgency_score": 89,
           "sample_titles": [
             "愛買攜手臺南市政府推出「夏日芒果祭」",
             "中聯油脂檢驗異常油品事件 南市府啟動查核並設置專區",
@@ -45536,11 +45536,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 97,
+          "news_count": 95,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 121,
+          "urgency_score": 119,
           "sample_titles": [
             "屏東市廣東路589號前發生大貨車陷落路面事故無人傷",
             "琉球「資收物爆量」鄉長神隱今現身立院 屏東檢調追查是否瀆職",
@@ -45568,11 +45568,11 @@
           "city": "高雄",
           "place": "高雄市三民區",
           "level": "red",
-          "news_count": 189,
+          "news_count": 187,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 204,
+          "urgency_score": 202,
           "sample_titles": [
             "高市府海洋局辦理颱風避風演練 強化漁船進港與船員安置機制",
             "影集「對你心動的預言」高雄拍攝中 (圖)",
@@ -45584,11 +45584,11 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 192,
+          "news_count": 190,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 225,
+          "urgency_score": 223,
           "sample_titles": [
             "台中辦無人機論壇 盧秀燕喊立院推條例卻力挺卡關黨版 民進黨台中市議會黨團總召周永鴻：呼籲的對象就在身邊，江啟臣應說清楚",
             "美國找台灣拚再工業化 江啟臣喊台中站C位：複製台積電神話 | 政治快訊 | 要聞",
@@ -45600,11 +45600,11 @@
           "city": "台北",
           "place": "台北市內湖區",
           "level": "red",
-          "news_count": 236,
+          "news_count": 235,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 266,
+          "urgency_score": 265,
           "sample_titles": [
             "北市天價遮陽傘挨轟 張育萌狠揭蔣萬安「忍術切割之術」",
             "致癌沙拉油「22校曾使用」！北市全面下架 緊急擴大抽查油品 | 政治快訊 | 要聞",
