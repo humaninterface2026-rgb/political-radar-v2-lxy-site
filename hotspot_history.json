@@ -45619,7 +45619,7 @@
     },
     {
       "date": "2026-07-03",
-      "snapshot_at": "2026-07-03T10:25:53.339187+00:00",
+      "snapshot_at": "2026-07-03T10:29:01.545112+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -45786,9 +45786,9 @@
           ]
         },
         {
-          "title": "苗栗弊案爭議",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
+          "title": "彰化弊案爭議",
+          "city": "彰化",
+          "place": "彰化縣政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -45796,7 +45796,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "惡劣！180隻雞屍棄置苗栗溪中 2嫌被起訴"
+            "闖入馬拉松管制區撞死9歲男童 彰化楊姓無照駕駛判刑2年10月"
           ]
         },
         {
@@ -45814,20 +45814,6 @@
           ]
         },
         {
-          "title": "彰化弊案爭議",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "闖入馬拉松管制區撞死9歲男童 彰化楊姓無照駕駛判刑2年10月"
-          ]
-        },
-        {
           "title": "新北弊案爭議",
           "city": "新北",
           "place": "新北市政府",
@@ -45839,6 +45825,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "替代役男惡性不改！回役報到秒失聯逃兵 新北地院判刑4月罰12萬"
+          ]
+        },
+        {
+          "title": "苗栗弊案爭議",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "惡劣！180隻雞屍棄置苗栗溪中 2嫌被起訴"
           ]
         },
         {
@@ -46065,11 +46065,11 @@
           "city": "台東",
           "place": "台東縣政府",
           "level": "red",
-          "news_count": 29,
+          "news_count": 28,
           "comment_count": 0,
-          "negativity_pct": 3,
+          "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 32,
+          "urgency_score": 31,
           "sample_titles": [
             "台東男酒後失控　持刀揮舞鬧事、遭警壓制逮捕送辦",
             "台灣大MyMoji進駐台東博覽會 前四月用戶成長75％ 打造數位旅人",
@@ -46209,11 +46209,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 80,
+          "news_count": 78,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 83,
+          "urgency_score": 81,
           "sample_titles": [
             "屏東仁醫徐榮澤辭世! 昱榮中醫診所宣布停業 病患不捨",
             "6月2波豪雨農損近6.8億元 屏東逾3億最多",
@@ -46225,11 +46225,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 89,
+          "news_count": 88,
           "comment_count": 0,
-          "negativity_pct": 4,
+          "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 101,
+          "urgency_score": 100,
           "sample_titles": [
             "中聯問題油延燒！新北：業者未通報回收最高開罰300萬元 | 要聞",
             "南投、雲林、嘉義防豪雨 新北等9縣市局部大雨",
@@ -46257,11 +46257,11 @@
           "city": "高雄",
           "place": "高雄市三民區",
           "level": "red",
-          "news_count": 144,
+          "news_count": 143,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 147,
+          "urgency_score": 146,
           "sample_titles": [
             "農村水保署推綠色照顧 高雄水寮長輩綠療育安老",
             "高市兩國小與泰國小學簽備忘錄 建立姊妹校攜手推動跨國交流",
@@ -46289,11 +46289,11 @@
           "city": "台北",
           "place": "台北市南港區",
           "level": "red",
-          "news_count": 186,
+          "news_count": 184,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 219,
+          "urgency_score": 217,
           "sample_titles": [
             "台北馬拉松12/20登場 延續金標規格打造全民運動",
             "賴清德總統出席台北寵物用品展開幕典禮，邊逛邊吃，有業者介紹自家製作的天然寵物雞肉條肉乾，沒有任何添加物，並邀請試吃，賴總",
@@ -46305,11 +46305,11 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 188,
+          "news_count": 187,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 242,
+          "urgency_score": 241,
           "sample_titles": [
             "台中詐團車手超商領金融卡包裹 見警拔腿逃仍落網",
             "北屯國民暨兒童運動中心今啟用 盧秀燕：桃園以南最大滑冰場在台中",
