@@ -1,6 +1,6 @@
 {
   "date": "2026-07-03",
-  "snapshot_at": "2026-07-03T01:14:05.318811+00:00",
+  "snapshot_at": "2026-07-03T01:18:00.417657+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -519,27 +519,6 @@
       "comments": []
     },
     {
-      "title": "彰化弊案爭議",
-      "city": "彰化",
-      "place": "彰化縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "闖入馬拉松管制區撞死9歲男童 彰化楊姓無照駕駛判刑2年10月",
-          "url": "https://news.pts.org.tw/article/815856",
-          "time": "2026-07-02 20:37:04",
-          "publisher": "公視 即時",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "桃園弊案爭議",
       "city": "桃園",
       "place": "桃園市政府",
@@ -555,6 +534,27 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLVjkxR25CcmU0dTdLRXhCS3VrZmRUUGlTQ0I5SWpRNDBLMXFvck5HNmFIV0RUUENULUwzVU1GQWx6LUZjdWtKeU5XLVVmT2s?oc=5",
           "time": "2026-07-02 13:49:00",
           "publisher": "TVBS",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "彰化弊案爭議",
+      "city": "彰化",
+      "place": "彰化縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "闖入馬拉松管制區撞死9歲男童 彰化楊姓無照駕駛判刑2年10月",
+          "url": "https://news.pts.org.tw/article/815856",
+          "time": "2026-07-02 20:37:04",
+          "publisher": "公視 即時",
           "severity": "red"
         }
       ],
@@ -1501,34 +1501,6 @@
       "comments": []
     },
     {
-      "title": "苗栗弊案爭議",
-      "city": "苗栗",
-      "place": "苗栗縣政府",
-      "level": "red",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "苗栗女子殺害2年幼子女 一審判刑30年",
-          "url": "https://tw.news.yahoo.com/%E8%8B%97%E6%A0%97%E5%A5%B3%E5%AD%90%E6%AE%BA%E5%AE%B32%E5%B9%B4%E5%B9%BC%E5%AD%90%E5%A5%B3-%E5%AF%A9%E5%88%A4%E5%88%9130%E5%B9%B4-051727519.html",
-          "time": "2026-07-02 13:17:27",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "苗栗女子殺害2年幼子女 一審判刑30年",
-          "url": "https://www.cna.com.tw/news/asoc/202607020143.aspx",
-          "time": "2026-07-02 13:17:27",
-          "publisher": "中央社",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "新北弊案爭議",
       "city": "新北",
       "place": "新北市政府",
@@ -1557,9 +1529,9 @@
       "comments": []
     },
     {
-      "title": "台中弊案爭議",
-      "city": "台中",
-      "place": "台中市政府",
+      "title": "苗栗弊案爭議",
+      "city": "苗栗",
+      "place": "苗栗縣政府",
       "level": "red",
       "news_count": 2,
       "comment_count": 0,
@@ -1568,17 +1540,17 @@
       "urgency_score": 8,
       "news_articles": [
         {
-          "title": "台中土風舞女師慘遭割頸！「18公分刀傷」一度命危…狠男殺人未遂罪起訴",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%9C%9F%E9%A2%A8%E8%88%9E%E5%A5%B3%E5%B8%AB%E6%85%98%E9%81%AD%E5%89%B2%E9%A0%B8-18%E5%85%AC%E5%88%86%E5%88%80%E5%82%B7-%E5%BA%A6%E5%91%BD%E5%8D%B1-%E7%8B%A0%E7%94%B7%E6%AE%BA%E4%BA%BA%E6%9C%AA%E9%81%82%E7%BD%AA%E8%B5%B7%E8%A8%B4-075600187.html",
-          "time": "2026-07-02 15:56:00",
+          "title": "苗栗女子殺害2年幼子女 一審判刑30年",
+          "url": "https://tw.news.yahoo.com/%E8%8B%97%E6%A0%97%E5%A5%B3%E5%AD%90%E6%AE%BA%E5%AE%B32%E5%B9%B4%E5%B9%BC%E5%AD%90%E5%A5%B3-%E5%AF%A9%E5%88%A4%E5%88%9130%E5%B9%B4-051727519.html",
+          "time": "2026-07-02 13:17:27",
           "publisher": "Yahoo新聞",
           "severity": "red"
         },
         {
-          "title": "偷拍警花前女友性愛片！台中渣警遭判刑8月…二分局：已記2大過、免職",
-          "url": "https://tw.news.yahoo.com/%E5%81%B7%E6%8B%8D%E8%AD%A6%E8%8A%B1%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%80%A7%E6%84%9B%E7%89%87-%E5%8F%B0%E4%B8%AD%E6%B8%A3%E8%AD%A6%E9%81%AD%E5%88%A4%E5%88%918%E6%9C%88-%E4%BA%8C%E5%88%86%E5%B1%80-%E5%B7%B2%E8%A8%982%E5%A4%A7%E9%81%8E-%E5%85%8D%E8%81%B7-025700992.html",
-          "time": "2026-07-02 10:57:00",
-          "publisher": "Yahoo新聞",
+          "title": "苗栗女子殺害2年幼子女 一審判刑30年",
+          "url": "https://www.cna.com.tw/news/asoc/202607020143.aspx",
+          "time": "2026-07-02 13:17:27",
+          "publisher": "中央社",
           "severity": "red"
         }
       ],
@@ -1607,6 +1579,34 @@
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xUmJXTGdmNFdaVDQ2dHVTT3FNWDRHTktzV0pwTFRmZXdtWnhKa1N0MnhuaFRsNXhrMFJxWHMtalE0RW9rd1VfZEt5bFhUQVoyT05ETFlFVTF4clRfelhR?oc=5",
           "time": "2026-07-02 10:16:00",
           "publisher": "中央社",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台中弊案爭議",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "red",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "台中土風舞女師慘遭割頸！「18公分刀傷」一度命危…狠男殺人未遂罪起訴",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%9C%9F%E9%A2%A8%E8%88%9E%E5%A5%B3%E5%B8%AB%E6%85%98%E9%81%AD%E5%89%B2%E9%A0%B8-18%E5%85%AC%E5%88%86%E5%88%80%E5%82%B7-%E5%BA%A6%E5%91%BD%E5%8D%B1-%E7%8B%A0%E7%94%B7%E6%AE%BA%E4%BA%BA%E6%9C%AA%E9%81%82%E7%BD%AA%E8%B5%B7%E8%A8%B4-075600187.html",
+          "time": "2026-07-02 15:56:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "偷拍警花前女友性愛片！台中渣警遭判刑8月…二分局：已記2大過、免職",
+          "url": "https://tw.news.yahoo.com/%E5%81%B7%E6%8B%8D%E8%AD%A6%E8%8A%B1%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%80%A7%E6%84%9B%E7%89%87-%E5%8F%B0%E4%B8%AD%E6%B8%A3%E8%AD%A6%E9%81%AD%E5%88%A4%E5%88%918%E6%9C%88-%E4%BA%8C%E5%88%86%E5%B1%80-%E5%B7%B2%E8%A8%982%E5%A4%A7%E9%81%8E-%E5%85%8D%E8%81%B7-025700992.html",
+          "time": "2026-07-02 10:57:00",
+          "publisher": "Yahoo新聞",
           "severity": "red"
         }
       ],
@@ -1859,7 +1859,7 @@
           "url": "https://udn.com/news/story/124652/9604214?from=udn-ch1_breaknews-1-cate1-news",
           "time": "2026-07-03 09:05:26",
           "publisher": "聯合新聞網",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "黃文醫生故居漏水 嘉市府助結構鑑定",
@@ -2622,7 +2622,7 @@
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HWDdzWUhKcExwUjNQWkhweTJ6NFg3SXRfN0k5MEgwWkhBa1MxOE5MWHZDQ0NEcXF0S3pGc2xvNUVvYXd5MUJ0R2NON1hmaXJtQ1M4ZUIwaXg0RUJUcUIyWFE5Q2hYeVhLNmlR?oc=5",
           "time": "2026-07-03 07:50:46",
           "publisher": "Google News→澎湖日報",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "澎湖馬公城隍爺慈悲護佑學子 祝福大露營圓滿順利",
@@ -3210,7 +3210,7 @@
           "url": "https://www.storm.mg/article/11146337",
           "time": "2026-07-03 08:20:00",
           "publisher": "風傳媒",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "彰化領先全台 今年納管及特登工免繳雙金",
@@ -3535,11 +3535,11 @@
       "city": "新竹市",
       "place": "新竹市政府",
       "level": "red",
-      "news_count": 68,
+      "news_count": 67,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 68,
+      "urgency_score": 67,
       "news_articles": [
         {
           "title": "竹市府第39次交通改善會議 聚焦公道五路三段與東進路口改善",
@@ -4008,13 +4008,6 @@
           "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxORGRaTmRKaEpDN3Q0QVcxcjRwNzRlRVI1ei1VTjM3Wk81OHlDRXdkdGlJdDdjdGRxVFRIMy1teUstaUxOQkxMMVJUa05QS2JLTTcxUjJHNXhlcWNlaE15bkFwczY2Q0pfd1hLQXhVQmMzR3E1LW1JTnRXOG42ZzBZZ1FSc0JDYW9wNnFxcUFXX0RZNl9YNWxYNTJIOENHQ2tOOWdoY0R4TEcteWp1WVV4Wl9TT2JxcDAtSnY0N3BXWGwtdnNRa1FvWDhZUm54bkZfajREcmZVWEZjR3d0VVlqM3puRkF2Wk5lLXpTekI3TjBzMzJ0QUt4NEVhaUJxSElIeG5YZkkwemtaYkxlYVd1bGRZYTBJZnJPWnF2STZER3o3bXdlZ2d4dXVhSkx6WGpDQXhSa2RLM0MxY00xc2c?oc=5",
           "time": "2026-07-02 09:52:37",
           "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "新竹市關新里奪回「最富里」 平均綜合所得459萬元| 財經焦點",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nZnJ6SHBLNXk4TVRPVlpRems5QUd0cGJiZ1Qzal9abkRxN3hGaFp2NXZhVTlWSEhHMFFmRzJnOFNhbmo3eWtwX3IxR01IMUJOUy02ZTNKMmdCcTBk?oc=5",
-          "time": "2026-07-02 09:16:18",
-          "publisher": "Google News→太報 TaiSounds",
           "severity": null
         }
       ],
@@ -5345,7 +5338,7 @@
           "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQNU5WZlROakVyZUNCUkVtRFZodWU1U1UweFdhVGZyWW5hRGNqSmlTYmlJOUJucVFNMF96RnE5TEp6ZlNoRTBzMW80SlN4MVVXbm5PUjc2WnVDYWx5WXZZMXFUUkZ1RmRjU0tjRnZpY0EwVklzSVZHdkNXQzNFdHZIXzlzOFpQMHpmd25WZEVVaVVEUDR4X0ZPT2xtaElMYnZYbXV3VkhyMU5NTHNRTkNJY19IOXFEUWJpeXFCQnZkNDNEUDBGWVM1TnNPZzVHSjNLdHlpUElqVmc3VEJfYzNfa2hFOVFUbk9oN3d2Ni1HbFBuMTJEaXBUTlFMckdWVnBKRzFiTktwU0c5MGprVGRNT1hfYlE3Mi13T0NzYWliMjBqOUw2SVhOYlI2UTB2dGlvWjRmLU1LYjg2X2k1WHVHUUNHSTNUcGpTWGEwbUVRaTRKbUdlcEVfdFJHQQ?oc=5",
           "time": "2026-07-03 08:32:39",
           "publisher": "Google News→新唐人亞太電視台",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "10米高蠟筆小新現身屏東 夏日狂歡祭7/4登場",
@@ -6080,14 +6073,14 @@
           "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E5%A4%AB%E5%A6%BB%E9%9B%A2%E5%A5%87%E8%BA%BA%E5%BA%8A1%E6%AD%BB1%E6%98%8F%E8%BF%B7-%E5%A5%B3%E5%85%92%E8%A6%8B%E7%99%BC%E9%BB%91%E9%81%BA%E9%AB%94%E5%B4%A9%E6%BD%B0-%E9%A9%9A%E6%9B%9D%E5%AA%BD%E8%AA%AA%E9%81%8E1%E5%8F%A5%E8%A9%B1-002143035.html",
           "time": "2026-07-03 08:21:43",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "新北林口鐵皮工廠大火！火勢延燒連毀3間廠房 現場烈焰沖天畫面曝光",
           "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E6%9E%97%E5%8F%A3%E9%90%B5%E7%9A%AE%E5%B7%A5%E5%BB%A0%E5%A4%A7%E7%81%AB-%E7%81%AB%E5%8B%A2%E5%BB%B6%E7%87%92%E9%80%A3%E6%AF%803%E9%96%93%E5%BB%A0%E6%88%BF-%E7%8F%BE%E5%A0%B4%E7%83%88%E7%84%B0%E6%B2%96%E5%A4%A9%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89-001700029.html",
           "time": "2026-07-03 08:17:00",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "全台預售屋和成屋差價大公開 桃園相差46％、新北56.6％、相差到8成是這個城市",
@@ -6832,18 +6825,18 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 109,
+      "news_count": 108,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 115,
+      "urgency_score": 114,
       "news_articles": [
         {
           "title": "花蓮市車廠日前傳火警 魏嘉彥市長前往慰問",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNjRtblFaYllTLWl0S21MMUhiNTJ6MGFtLWN0OGhtaXQ1TnZSX00zV05teC1BUExlV01OVGRJdlRtX2k2STFjT3lGbVFYb0lCZExaNWticUY0SVQ4aWNfV0pEdXJBSm5OZm5PRG9iUlduMGI1V013M2hRZVAtTXJmRXJncmxjc0U1NXB1dUR1LWppbG82NFcyNDZCYVoyTVh1akM5d3RzN3FaeHJYQlB4THg1RUp4VjlnNmJndGF5OWFUOF9jd29Db2JETTZyR3FDcXpjX0p5Zw?oc=5",
           "time": "2026-07-03 08:53:38",
           "publisher": "Google News→花蓮最速報",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "空手觀光2.0 花蓮轉運站免費借載物電輔車",
@@ -7593,13 +7586,6 @@
           "time": "2026-07-02 09:24:15",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "新竹市關新里奪回「最富里」 平均綜合所得459萬元| 財經焦點",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nZnJ6SHBLNXk4TVRPVlpRems5QUd0cGJiZ1Qzal9abkRxN3hGaFp2NXZhVTlWSEhHMFFmRzJnOFNhbmo3eWtwX3IxR01IMUJOUy02ZTNKMmdCcTBk?oc=5",
-          "time": "2026-07-02 09:16:18",
-          "publisher": "Google News→太報 TaiSounds",
-          "severity": null
         }
       ],
       "comments": []
@@ -7620,7 +7606,7 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oVUFxdlJfdXZaWXhBNlExZ0xVclg2al9NRnMwNWpscl9rRnVqZlBCdG1UWVBHZFdJWnN4Y2ItWW1YSGpNVTlJU1pSLU16LWc?oc=5",
           "time": "2026-07-03 07:55:51",
           "publisher": "Google News→公視新聞網PNN",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "宜蘭童玩節 明起同樂",
@@ -7935,7 +7921,7 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBraDdoV0dybVVNN1A5aXZ4MGlaYm9ZV3FMZUVkN2FBbkRvS3pCaHZRSEUzdEVaeDR4eWxMQ0tRY2NZN3RORjNscnZLenU3N2JubzFKNkhVbXJnSi00VXNUWDgzRDFjRzVLTU1qWVV5QnNhdURmVkZPakhaMkZXbVk?oc=5",
           "time": "2026-07-02 18:24:00",
           "publisher": "壹蘋新聞網",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "快訊/宜蘭工寮火警烈焰狂燃！男子燒成焦屍",
@@ -8377,6 +8363,1448 @@
           "time": "2026-07-02 09:50:35",
           "publisher": "自由時報",
           "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台中地方動態",
+      "city": "台中",
+      "place": "台中市中區",
+      "level": "red",
+      "news_count": 204,
+      "comment_count": 0,
+      "negativity_pct": 4,
+      "is_urgent": false,
+      "urgency_score": 228,
+      "news_articles": [
+        {
+          "title": "出國免擠桃機！台中機場暑假加碼3航線 飛這「度假勝地」還推加班機",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5492277",
+          "time": "2026-07-03 08:22:48",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "中市府力挺漁業發展 攜手臺中區漁會表揚85位模範漁民",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hc2hiTi02YjB4bTZiYzZsV1kzVGJiR1ZyVzFxMlNDYWNGUU5LejFiVXJiR20teDg1ZjBkNXhkN3RzYlhZVkExWV85bnNuSGhNeVZqS0ZsWQ?oc=5",
+          "time": "2026-07-03 07:48:45",
+          "publisher": "Google News→焦點時報",
+          "severity": null
+        },
+        {
+          "title": "中市府力挺漁業發展 攜手臺中區漁會表揚85位模範漁民",
+          "url": "https://focus.586.com.tw/2026/07/03/p393982/",
+          "time": "2026-07-03 07:48:45",
+          "publisher": "焦點時報",
+          "severity": null
+        },
+        {
+          "title": "中市府力挺漁業發展 攜手臺中區漁會表揚85位模範漁民",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3Y3J5dElxSC14Y1gxaEUyUHNTOGRNN1BXVmdVNG9RWFlFc3Fwd2NVTk9JZnF1NzBndTA3QTNjRE1oVlFaUWRkcWllQWxCTmFTb3c?oc=5",
+          "time": "2026-07-03 07:48:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "[TaichungBun] [資訊］台中文化中心-兒童週末才藝班",
+          "url": "https://www.ptt.cc/bbs/TaichungBun/M.1783032544.A.4BE.html",
+          "time": "2026-07-03 06:49:04",
+          "publisher": null,
+          "severity": null
+        },
+        {
+          "title": "島語台中店今11:00開放訂位！搶3個月座位技巧、規則、平台全攻略 | 美食旅遊 | 生活",
+          "url": "https://www.nownews.com/news/6852713",
+          "time": "2026-07-03 05:38:50",
+          "publisher": "NOWnews今日新聞",
+          "severity": null
+        },
+        {
+          "title": "《台中》辦論壇卻卡預算 盧秀燕、江啟臣挨批「雙面刀鬼」",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fNTFvcE5EOVdJdjFYWERoeHlkMlV3Snpqa0hlRXh4OHRmNGJVUFFYUVhRdXQ0QWwzWjJwZnNKS2FoSnpFSFNPb0NLSkxYenFXa3VESk9FZEdjekXSAWBBVV95cUxQR2VPMDVpZ0I0Y3kwZF9rNjhMSGpyTV9BMl9nZGNFT3dYUU9OaW5USnpLY1pzTEJCaUdxc1VfOTR1UjUwbG1VclUtejBkVjZUTTA1Y2xKcDlSRkpiY2xZNS0?oc=5",
+          "time": "2026-07-03 05:30:00",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "詐團設圈套 收貨款帳戶連虛幣平台／台中貴婦匯2500萬 警苦勸攔阻",
+          "url": "https://news.ltn.com.tw/news/society/paper/1761170",
+          "time": "2026-07-03 05:30:00",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "中聯致癌油 中市府︰未流入校園",
+          "url": "https://news.ltn.com.tw/news/Taichung/paper/1761175",
+          "time": "2026-07-03 05:30:00",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "《台中》辦論壇卻卡預算 盧秀燕、江啟臣挨批「雙面刀鬼」",
+          "url": "https://news.ltn.com.tw/news/Taichung/paper/1761174",
+          "time": "2026-07-03 05:30:00",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "中聯致癌油 中市府︰未流入校園",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oaS1pd2ZzRV9vMWk3NXBXd29wOWFtUmdEaHBoaUlLOW5qcFlHVnZ3VHBmT2IzYmR1UmtZM3R5bG9lNktydXFNWWR0VkR3N2tzNUlUX0lWa1N5S3PSAWBBVV95cUxORlJZX0dVVjZrY1VfWEw4WU92UjNBMmhRbk1GbGk1M201SFV6WnJHS3ZQakc0WGp0S0c3S0x1VGUzZ3RiUWVsZlUzMXhSXzg5c1FhQTN0TGtKMEVuSGJ0REQ?oc=5",
+          "time": "2026-07-03 05:30:00",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "台中 偷拍女友性愛片 警記過免職",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD-%E5%81%B7%E6%8B%8D%E5%A5%B3%E5%8F%8B%E6%80%A7%E6%84%9B%E7%89%87-%E8%AD%A6%E8%A8%98%E9%81%8E%E5%85%8D%E8%81%B7-201000600.html",
+          "time": "2026-07-03 04:10:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "台中食安處公布兩業者超標油品流向 全面下架",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E9%A3%9F%E5%AE%89%E8%99%95%E5%85%AC%E5%B8%83%E5%85%A9%E6%A5%AD%E8%80%85%E8%B6%85%E6%A8%99%E6%B2%B9%E5%93%81%E6%B5%81%E5%90%91-%E5%85%A8%E9%9D%A2%E4%B8%8B%E6%9E%B6-183632443.html",
+          "time": "2026-07-03 02:36:32",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "菇筍豚香匯聚台中風味 「花開盛宴」菜色搶先亮相",
+          "url": "https://tw.news.yahoo.com/%E8%8F%87%E7%AD%8D%E8%B1%9A%E9%A6%99%E5%8C%AF%E8%81%9A%E5%8F%B0%E4%B8%AD%E9%A2%A8%E5%91%B3-%E8%8A%B1%E9%96%8B%E7%9B%9B%E5%AE%B4-%E8%8F%9C%E8%89%B2%E6%90%B6%E5%85%88%E4%BA%AE%E7%9B%B8-183557672.html",
+          "time": "2026-07-03 02:35:57",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "中市府頒發希朵獎 盧秀燕表揚16優勝機關推動性平有成",
+          "url": "https://n.yam.com/Article/20260703559291",
+          "time": "2026-07-03 02:17:28",
+          "publisher": "蕃新聞→大成報",
+          "severity": null
+        },
+        {
+          "title": "亞尼克台中旗艦店歡慶改裝開幕7/1起「百元生乳捲」連3天熱力開搶",
+          "url": "https://n.yam.com/Article/20260703108034",
+          "time": "2026-07-03 02:17:28",
+          "publisher": "蕃新聞→大成報",
+          "severity": null
+        },
+        {
+          "title": "攜手AIT辦無人載具論壇 盧秀燕期許以台中為軸心 打造下一座護國神山",
+          "url": "https://n.yam.com/Article/20260703181821",
+          "time": "2026-07-03 02:17:28",
+          "publisher": "蕃新聞→大成報",
+          "severity": null
+        },
+        {
+          "title": "中市府頒發希朵獎 盧秀燕表揚16優勝機關推動性平有成",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03S0JNM19BTzBSMlYyVTlDS2ZfWXByTzN5ME91OUNZeUdUNzVyVlcyRGtOSmV5UjdWYVBCRm4wVkgwd3N0U0JVak00NWJSd0tFa0djZmtnam5ZYVZlOE1QUE1qdXR4WlA5WnpreldXMm8?oc=5",
+          "time": "2026-07-03 01:39:12",
+          "publisher": "Google News→大成報",
+          "severity": null
+        },
+        {
+          "title": "中市府頒發希朵獎 盧秀燕表揚16優勝機關推動性平有成 - 生活新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUUg3aGlCdHhEQnk2dERJcklZd3p0N1F6ZUpoZl9MM1hnUDVWa0FEbFNiWm8tVUowbWFJNlhXeFFXNUh6ZGIxNW5MLW9XMHE5emh1cmpRMG1LcUZkR2ZSOVFWajVRb2RDLWxuWXJDY196dHNkYUNyVk12d1pyNUIyTDBLcVo0Z25mS0NDZg?oc=5",
+          "time": "2026-07-03 01:32:37",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "中市府頒發希朵獎 盧秀燕表揚16優勝機關推動性平有成",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3bFhvTHVlVUhOWUhPSzUzbUZNQUI5czNkZ19HeldYYUYwSk94bUZLdFB3Q2lXYktHVS1BSzg5S2xMWDJsc25ZQ2wyLVFrSk10cWc?oc=5",
+          "time": "2026-07-03 01:32:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "攜手AIT辦無人載具論壇 盧秀燕期許以台中為軸心 打造下一座護國神山",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83OHhNLUVCcUhRdWRTNlJ3N2pUQ3BWSlNpWTkxTzVJSzUyOXBqcGNfR3pjMHd2TWRXTGM0LTVpWW03QkpWSTBBeFFZdi1qNmVycUE?oc=5",
+          "time": "2026-07-03 01:21:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "2026台中自動化工業展及AI機器人應用展開幕",
+          "url": "https://tw.news.yahoo.com/2026%E5%8F%B0%E4%B8%AD%E8%87%AA%E5%8B%95%E5%8C%96%E5%B7%A5%E6%A5%AD%E5%B1%95%E5%8F%8Aai%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%87%89%E7%94%A8%E5%B1%95%E9%96%8B%E5%B9%95-170649176.html",
+          "time": "2026-07-03 01:06:49",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "696組茶樣角逐115年台中市優質梨山茶評鑑",
+          "url": "https://tw.news.yahoo.com/696%E7%B5%84%E8%8C%B6%E6%A8%A3%E8%A7%92%E9%80%90115%E5%B9%B4%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%84%AA%E8%B3%AA%E6%A2%A8%E5%B1%B1%E8%8C%B6%E8%A9%95%E9%91%91-170606066.html",
+          "time": "2026-07-03 01:06:06",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "2026台中自動化工業展及AI機器人應用展開幕盧秀燕強調持續打造AI智慧製造重鎮| 王秀禾 | 地方新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIN1V4V2Vyd3R3QnVpZmtDY3NGVVIyZHowUlRka2tLRTZKY18tQjBiei0zTWNjYTZMTnNsZGlzQjFWMXp3SzZEWE4xcU9Odw?oc=5",
+          "time": "2026-07-03 00:31:04",
+          "publisher": "Google News→風傳媒",
+          "severity": null
+        },
+        {
+          "title": "中市民政局勇奪希朵獎雙獎《大川原夢之旅》見證尋根圓夢與性平改革- 政府消息新聞- PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1hrZW1GaWhoQzR3UGlxeFJXNjdtcEtmT3YzWERtV0dDUHpTZHo5bFZEUXhaSVB6RG1xQ3JKakhMOFZCYWliWFBhR1pjU09KRHFYTWRCWlpjSzZZdEVnRHlTY1pnOVlIZEpPSGhmWjc5dGs0YkhGaWl6QnlkRXpGT0dJbVBqa3NLNlJJ?oc=5",
+          "time": "2026-07-02 23:44:11",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "臺中市府與AIT！ 舉辦「無人載具論壇」登場",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-07-02/2395153.html",
+          "time": "2026-07-02 22:50:30",
+          "publisher": "壹電視",
+          "severity": null
+        },
+        {
+          "title": "繼台中市長盧秀燕之後，桃園市長張善政今晚應立委柯志恩邀請到高雄逛夜市、吃美食，兩人在六合夜市大啖海產粥、炒花枝及烏魚子等著名美食，受到攤商與遊客熱情歡迎，不時被要求合照或簽名留念。張善政說，桃園六和商圈跟高雄六合夜市呼應，「六六大順」；柯志恩則碎念說，她要打包沒吃完的美食，「帶回家給老公吃」。",
+          "url": "https://udn.com/news/story/124652/9603768?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-02 22:50:26",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "台中自動化工業暨 AI 機器人應用展開幕 盧秀燕：打造AI 智慧製造重鎭",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OTUdVUXZjN3F3M0dVMkI4RkU2MDBBRFhjOEFSelI2VUFjSmxzVlhXcnVxM2JWTkVUUk5jdTNzZ0tSdWxEaGdfZks1dFoxN3p0NFJ0ZmVhSkwtMlh1LVFUODNxUGVTMEdKN3IxQ0hobE53bXFaNFJsM9IBYEFVX3lxTFBRS1Z3cDF4OWRQR2kwNjhlTXpNbmw5dl92cXlEX29IbUI4NDM4NjJCUVJqOGxsT1VJcHY2eTRsbnYyRTdqUUlMSFhta1FtdEExemE4MVZMNnVmZmJXUGRlaw?oc=5",
+          "time": "2026-07-02 22:09:48",
+          "publisher": "Google News→經濟日報",
+          "severity": null
+        },
+        {
+          "title": "台中自動化工業暨 AI 機器人應用展開幕 盧秀燕：打造AI 智慧製造重鎭",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qSC1oSjMtZEhZVXVHV0J2OWRzRHFPeW5sMVZIdUFoTG1NaFJvTGJGLWdDbHhSUURiMzJRbTV6T1R0NXVKVUg1NFN2SEFpVkk0aFpUa05acFFETlRxV1p0cHVaMlI3bzdETmtTMWNIS3paYnV2U3laQmxGanTSAV9BVV95cUxOZ2VqSGtYa3pqb1VfVWFYM3NXVEJUcnJpWGlfMlFlNmpTQ2I3LUlicFM2dFJBMkhPaEpKNTNkMjE5QWpaM1prNndHOUVudjZDSHQtaWdqT2pMVk45bGVGOA?oc=5",
+          "time": "2026-07-02 22:08:47",
+          "publisher": "Google News→經濟日報",
+          "severity": null
+        },
+        {
+          "title": "台中自動化工業暨 AI 機器人應用展開幕 盧秀燕：打造AI 智慧製造重鎭",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KMVhMb2RpekV3OXJ3eWN1UGhzbnJDb2xNYVY1bjBBdDAzV25ObjVaX2xaeVNCMTl3ZWd2bGEwQ0ZDdXRMUHRvcWhKQTI5dW94bXloYTg1VVNSQdIBX0FVX3lxTE5nZWpIa1hrempvVV9VYVgzc1dUQlRycmlYaV8yUWU2alNDYjctSWJwUzZ0UkEySE9oSko1M2QyMTlBalozWms2d0c5RW52NkNIdC1pZ2pPakxWTjlsZUY4?oc=5",
+          "time": "2026-07-02 22:08:47",
+          "publisher": "Google News→經濟日報",
+          "severity": null
+        },
+        {
+          "title": "台中自動化工業暨AI機器人應用展開幕 盧秀燕：打造AI 智慧製造重鎭",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rMUthdkdSOU5zUm85M0lOdDAtYVFDTkZuTUhHeFdBa0FHdXVyR2ZvNlpKX0RpUlVrTEFMZ3VXWWV6V2pXdE0tTGYzVWItb0x20gFWQVVfeXFMUDh5MFNqdGNqMjZwbFA1TkRGN2k1ODVIbHZGUnZEYUlhVXZDMEFaX281b1ZXWUM0MGpPd2t6M3ZwMXdvYzRLdjZjelR3QjlSSzd1NmhSaHc?oc=5",
+          "time": "2026-07-02 22:08:11",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "7/2 今彩539頭獎開2注！ 800萬獎落台東、台中",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5492113",
+          "time": "2026-07-02 22:08:07",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "2026台中自動化工業展及AI機器人應用展開幕 盧秀燕：持續打造AI智慧製造重鎮",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDS1dFWW03Z2lDZElsSUlvWG9DQVdfaVp5UGJRdnUzR3NKdWhQZlpPckE0WXEwVHh6RTc5Skp3WHZmaFdHREFoNHdjbDdwQQ?oc=5",
+          "time": "2026-07-02 21:50:47",
+          "publisher": "Google News→tc-news.com.tw",
+          "severity": null
+        },
+        {
+          "title": "[HatePolitics] [討論] 台中116年總預算未包含捷運追加預算",
+          "url": "https://www.ptt.cc/bbs/HatePolitics/M.1782999890.A.501.html",
+          "time": "2026-07-02 21:44:50",
+          "publisher": null,
+          "severity": null
+        },
+        {
+          "title": "無人載具論壇只有藍營名牌有名字 民進黨議員批台中市府大小眼",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5491964",
+          "time": "2026-07-02 21:41:57",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "台中市遙控無人機禁飛區域新增慈濟醫院等41處 違規進入將開罰",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%81%99%E6%8E%A7%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%A6%81%E9%A3%9B%E5%8D%80%E5%9F%9F%E6%96%B0%E5%A2%9E%E6%85%88%E6%BF%9F%E9%86%AB%E9%99%A2%E7%AD%8941%E8%99%95-%E9%81%95%E8%A6%8F%E9%80%B2%E5%85%A5%E5%B0%87%E9%96%8B%E7%BD%B0-130618562.html",
+          "time": "2026-07-02 21:06:18",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "中市民政局勇奪希朵獎雙獎 《大川原夢之旅》 見證尋根圓夢與性平改革",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E6%B0%91%E6%94%BF%E5%B1%80%E5%8B%87%E5%A5%AA%E5%B8%8C%E6%9C%B5%E7%8D%8E%E9%9B%99%E7%8D%8E-%E5%A4%A7%E5%B7%9D%E5%8E%9F%E5%A4%A2%E4%B9%8B%E6%97%85-%E8%A6%8B%E8%AD%89%E5%B0%8B%E6%A0%B9%E5%9C%93%E5%A4%A2%E8%88%87%E6%80%A7%E5%B9%B3%E6%94%B9%E9%9D%A9-130542604.html",
+          "time": "2026-07-02 21:05:42",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "琴聲傳愛 台中建國國小弦樂團赴投榮服處演出",
+          "url": "https://tw.news.yahoo.com/%E7%90%B4%E8%81%B2%E5%82%B3%E6%84%9B-%E5%8F%B0%E4%B8%AD%E5%BB%BA%E5%9C%8B%E5%9C%8B%E5%B0%8F%E5%BC%A6%E6%A8%82%E5%9C%98%E8%B5%B4%E6%8A%95%E6%A6%AE%E6%9C%8D%E8%99%95%E6%BC%94%E5%87%BA-125920965.html",
+          "time": "2026-07-02 20:59:20",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "中市遙控無人機禁飛區新增41處 違規將開罰",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E9%81%99%E6%8E%A7%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%A6%81%E9%A3%9B%E5%8D%80%E6%96%B0%E5%A2%9E41%E8%99%95-%E9%81%95%E8%A6%8F%E5%B0%87%E9%96%8B%E7%BD%B0-125627752.html",
+          "time": "2026-07-02 20:56:27",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "台美首辦無人機論壇 台中登場",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%BE%8E%E9%A6%96%E8%BE%A6%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%AB%96%E5%A3%87-%E5%8F%B0%E4%B8%AD%E7%99%BB%E5%A0%B4-125627561.html",
+          "time": "2026-07-02 20:56:27",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "暑假旅遊旺季 台中國際機場新增3航線",
+          "url": "https://tw.news.yahoo.com/%E6%9A%91%E5%81%87%E6%97%85%E9%81%8A%E6%97%BA%E5%AD%A3-%E5%8F%B0%E4%B8%AD%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4%E6%96%B0%E5%A2%9E3%E8%88%AA%E7%B7%9A-125627016.html",
+          "time": "2026-07-02 20:56:27",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "中市民政局性平創作勇奪希朵獎雙獎",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E6%B0%91%E6%94%BF%E5%B1%80%E6%80%A7%E5%B9%B3%E5%89%B5%E4%BD%9C%E5%8B%87%E5%A5%AA%E5%B8%8C%E6%9C%B5%E7%8D%8E%E9%9B%99%E7%8D%8E-125627881.html",
+          "time": "2026-07-02 20:56:27",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "台中敦富八街銜接大成街「敦富八橋」通車",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E6%95%A6%E5%AF%8C%E5%85%AB%E8%A1%97%E9%8A%9C%E6%8E%A5%E5%A4%A7%E6%88%90%E8%A1%97-%E6%95%A6%E5%AF%8C%E5%85%AB%E6%A9%8B-%E9%80%9A%E8%BB%8A-125627476.html",
+          "time": "2026-07-02 20:56:27",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "中市食安處首波公布兩業者超標油品流向 跨局處突擊賣場全面回收下架",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xVXZ6a0M1RjdJNkMyZU15Zml3a25QcjJwcEpMQ1c0R2htajg4d1FOTDh3eGM1SV9ValhEWGY5VUNBN0dIWVlZa3BNWnljcmJaMGc?oc=5",
+          "time": "2026-07-02 20:50:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": "red"
+        },
+        {
+          "title": "獨家／台中大里奇觀！冷氣排水管掛電桿 易短路走火",
+          "url": "https://news.ebc.net.tw/news/living/559340",
+          "time": "2026-07-02 20:44:00",
+          "publisher": "東森新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "牙醫診所勞資風險升高 台中公益講座解析職場霸凌、性騷擾與法遵重點",
+          "url": "https://www.thehubnews.net/archives/640416",
+          "time": "2026-07-02 20:41:00",
+          "publisher": "新頭條",
+          "severity": "yellow"
+        },
+        {
+          "title": "攜手AIT辦無人載具論壇 盧秀燕：以台中為軸心打造下一座護國神山",
+          "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNbmw3UlNDdk9EOG10aTdzU0t5ckJSM2NnVGxabWlsenkyeFlPSlRoaFJyaERRTmVyYU1JUHN3alhMZkEzMHlPbU1uT3h0djYteDU1Q2k1RlVfVlNLejVOek5RMkVzTGp5R0pxcUlGa1h0Q0gyNkh2aTUyb3BhZnRiNjRYWHZ4THBvdVo0a0l2dHB1UUZKRTQ4Q0ZSejk4a2NLLXZlLXZaazRUb1RIOV91aHNqcUVLanhaS1VFamdxZ0ZoYWIzUnpRODRHcHRoc0VYa0VjeUZMLXVWM2Zob1haeWhYNTgxY2o2eENaeFZHSV9XdTRjRmRUa2wwdkRJSzBlclFOOWY5eWsxaWxqcEFrQkdyb0pIdUE0TlA1MjNqNnhYSmFzYWtfZ1ZfSk5oSXdreVVLMWNEZk5PN1pyNzdMcFBXMnFHMmZVTHE3dEJUX2prZHo0WXg1RlFYUkdwa1ptY1oxMllxRU0yWVBuajVDVWdpVlhTZW9BU1lGakl3VlNtRWcyc3pwbjkxeGU0ZG9hZU80?oc=5",
+          "time": "2026-07-02 20:07:40",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "攜手AIT辦無人載具論壇 盧秀燕：以台中為軸心打造下一座護國神山",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ROER3UVliMG1Wek5QMFRFNzU2WjhLZ3NTMzFqZmRTUmo5ME05R3NNYmtNSl9lX2EydXpBcVhNMHJjN0tJdTA5TU1wWjRDSDdvR3J6Zy05Zw?oc=5",
+          "time": "2026-07-02 20:07:40",
+          "publisher": "Google News→觀傳媒",
+          "severity": null
+        },
+        {
+          "title": "台中國際機場暑假增3條新航線 觀旅局推登機證優惠",
+          "url": "https://www.cdns.com.tw/articles/1424263",
+          "time": "2026-07-02 20:06:19",
+          "publisher": "中華日報",
+          "severity": null
+        },
+        {
+          "title": "「苯駢芘」問題油災情擴大！中市跨局處清查下架 首波公布224知名業者踩雷",
+          "url": "https://newtalk.tw/news/view/2026-07-02/1044917",
+          "time": "2026-07-02 19:58:24",
+          "publisher": "新頭殼",
+          "severity": "red"
+        },
+        {
+          "title": "【社會局說明】網傳家庭暴力案件 中市府：已協助通報所在縣市確保安全",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40b01oazVsQi1WNEs0cnNKaVJQNFBsRV9fVmpnRy1VZkFhcUd3am9waEFLTXRjZmdIbExZWDQ3MEhYV1RzWExuUU5UM0J1cHlKb3dIdzdMa2RwZUd5QWcxeDNyR19sN0Fh?oc=5",
+          "time": "2026-07-02 19:57:00",
+          "publisher": "Google News→新華報導",
+          "severity": "yellow"
+        },
+        {
+          "title": "中市府代轉AIT處長谷立言出席台中無人機產業商機論壇致詞與AIT臉書貼文",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55dU1QSkVIZngzVll2SWstRS1RRk9QVDVqdVl1alBiNlhhUG5nR1pOTzZ5azdMWjhCaGloREp2RTZSSTdodGE2bWQ4aDFOMTg3dWZkTzJuY2xmZHFFSUE?oc=5",
+          "time": "2026-07-02 19:57:00",
+          "publisher": "Google News→新華報導",
+          "severity": null
+        },
+        {
+          "title": "問題油流向 中市府：星級酒店、食品廠等224家業者",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zUWw4ZUxvdzIxeXBsVkZTTFJEMGFYRVF1RklXQXBxR04wOEZ2elk0Vm1SY1JzSmItUmZFS1R3ajNwRU5pVnpTeUF0T1dkNDRjazZLag?oc=5",
+          "time": "2026-07-02 19:51:00",
+          "publisher": "東森新聞",
+          "severity": "red"
+        },
+        {
+          "title": "見證尋根圓夢與性平改革 中市民政局勇奪希朵獎雙獎 《大川原夢之旅》",
+          "url": "https://www.storm.mg/article/11146709",
+          "time": "2026-07-02 19:50:00",
+          "publisher": "風傳媒",
+          "severity": null
+        },
+        {
+          "title": "中市辦無人載具論壇 盧秀燕盼造護國神山",
+          "url": "https://www.cdns.com.tw/articles/1424239",
+          "time": "2026-07-02 19:43:30",
+          "publisher": "中華日報",
+          "severity": null
+        },
+        {
+          "title": "問題油流向 中市府：星級酒店、食品廠等224家業者",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiei0xYjhKR2QxTG5LWXBXam0tSVhQWVpnQnJPVFREZkVGeFVyR3VjNmtMRTdlRUtZTHdtaC1MSmIwQW9CSnI0b2ZTQm1PenE5Smc?oc=5",
+          "time": "2026-07-02 19:29:54",
+          "publisher": "Google News→放言Fount Media",
+          "severity": "red"
+        },
+        {
+          "title": "台中市政府與美國在台協會（AIT）今天共同主辦台中無人機論壇，是美台第一次合作舉辦無人機論壇，不分藍綠白的台中政要盡皆出席，不過做為主人的盧秀燕中途離場，引起外界議論。副市長鄭照新指出，盧離場是在和AIT處長谷立言持續交流，外界無須過多揣測。",
+          "url": "https://udn.com/news/story/6656/9603356?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-02 18:55:57",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "問題油流向中市府：星級酒店、食品廠等224家業者- 地方",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00Sk9VdWV1UlNURTJfVU10VWFkVFdqVXdHTmNDdGtaNWhQMWs4Q0lfMGxIQzd4VHJ3M0R6cWthYnotSTRYeVNsRmFBRk1UZU9aaHR6Y0tYTXF4ZkRISFNDNEhDMGp6cmhsTm5jeGNn?oc=5",
+          "time": "2026-07-02 18:54:28",
+          "publisher": "Google News→華視新聞網",
+          "severity": "red"
+        },
+        {
+          "title": "中聯大豆沙拉油致癌物超標 中市府稽查下架情形 (圖)",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPMHI1ajVBWlkxUU43S2pCeUpIdy1VNFdUNHZrU3NjeTlKYzFpWXczY0IzeXZCQUQ1VjZUaTdZT0lBN3lIZkY5WUNRdFhyTTJkRHVGTXR2dEtsRjQ5TWlyMGpTNUtielZyc04zdDZuWWYzemNMelZ4ZGU2Z2w5LWZQbjFsVDhkVVdqaGJIbmFEdEdPcHBadVR2Ylctb3lMemh6UzJKTk10UTNwQ01HY0IyVVV0aXVvcm9iclpoZEhYaDNMOFVTWG9jU1lxeTVoTzRpOEV3dDByM0MybmlIeVVSSGh2SEtLMG1CUVQ3MmVEa1BtMFpuaDh6ODc2cVhtYjBPcTl5aUhjSHB0UkR1SmRlMVg3OE1WZmx1ZXVvUVRyeFlaS2x6QXNRWm9IVTQ5NmxUYmFnb0tZS1Fqbm1aS01aSnNucVpXQlc3aEZBNGo4VUR2ZHYxWVA4UU95dElZdw?oc=5",
+          "time": "2026-07-02 18:54:04",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "亞尼克台中旗艦店重新開幕 YTM盲盒開抽延長13天",
+          "url": "https://news.nextapple.com/lifestyle/20260702/DAB680C2F8E6B88C95724D29CFF3B188",
+          "time": "2026-07-02 18:51:50",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "大豆沙拉油檢出苯駢芘超標 中市食安處公布首波兩業者油品流向",
+          "url": "https://tw.news.yahoo.com/%E5%A4%A7%E8%B1%86%E6%B2%99%E6%8B%89%E6%B2%B9%E6%AA%A2%E5%87%BA%E8%8B%AF%E9%A7%A2%E8%8A%98%E8%B6%85%E6%A8%99-%E4%B8%AD%E5%B8%82%E9%A3%9F%E5%AE%89%E8%99%95%E5%85%AC%E5%B8%83%E9%A6%96%E6%B3%A2%E5%85%A9%E6%A5%AD%E8%80%85%E6%B2%B9%E5%93%81%E6%B5%81%E5%90%91-104218490.html",
+          "time": "2026-07-02 18:42:18",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "2026台中自動化工業展及AI機器人應用展開幕 盧秀燕強調持續打造AI智慧製造重鎮",
+          "url": "https://www.storm.mg/article/11146701",
+          "time": "2026-07-02 18:30:00",
+          "publisher": "風傳媒",
+          "severity": null
+        },
+        {
+          "title": "中市公布兩業者超標油品流向 賣場全面回收下架",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E5%85%AC%E5%B8%83%E5%85%A9%E6%A5%AD%E8%80%85%E8%B6%85%E6%A8%99%E6%B2%B9%E5%93%81%E6%B5%81%E5%90%91-%E8%B3%A3%E5%A0%B4%E5%85%A8%E9%9D%A2%E5%9B%9E%E6%94%B6%E4%B8%8B%E6%9E%B6-102728117.html",
+          "time": "2026-07-02 18:27:28",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "「最後一次握妳的手」台中49歲男前一晚與妻訣別 熟識里長震驚不捨",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5491810",
+          "time": "2026-07-02 18:17:18",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "台中辦無人機論壇 盧秀燕喊立院推條例卻力挺卡關黨版 民進黨台中市議會黨團總召周永鴻：呼籲的對象就在身邊，江啟臣應說清楚",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42NGUtZDVSUFB1TDdaRS0zZ2ZtZ2EzdnJZdGFXWVBZMmY5OHFBN0FIakdodEpwVmZLZl9QaU4xeE5rTkNTTGR3bUdIRHJ0TTFHQ0l6Vldqa2dSaHdiT25sbzJ1ck16OE5o?oc=5",
+          "time": "2026-07-02 17:59:18",
+          "publisher": "Google News→元丰傳媒",
+          "severity": "yellow"
+        },
+        {
+          "title": "酷洛米台中現身 三麗鷗快閃掀復古潮",
+          "url": "https://www.storm.mg/article/11146615",
+          "time": "2026-07-02 17:58:00",
+          "publisher": "風傳媒",
+          "severity": null
+        },
+        {
+          "title": "中市食安處首波公布兩業者超標油品流向 跨局處突擊賣場全面回收下架",
+          "url": "https://more-news.tw/656825/",
+          "time": "2026-07-02 17:53:04",
+          "publisher": "墨新聞",
+          "severity": "red"
+        },
+        {
+          "title": "2026台中自動化工業展及AI機器人應用展開幕 盧市長：持續打造AI智慧製造重鎮",
+          "url": "https://more-news.tw/656811/",
+          "time": "2026-07-02 17:42:19",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "696組茶樣角逐！ 115年度台中市優質梨山茶評鑑 農友黃名村勇奪特等獎",
+          "url": "https://more-news.tw/656796/",
+          "time": "2026-07-02 17:37:46",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "美國找台灣拚再工業化 江啟臣喊台中站C位：複製台積電神話 | 政治快訊 | 要聞",
+          "url": "https://www.nownews.com/news/6852682",
+          "time": "2026-07-02 17:37:32",
+          "publisher": "NOWnews今日新聞",
+          "severity": null
+        },
+        {
+          "title": "2026.07.02 17:03 台中大遠百超級年中慶 Passion Sisters妮可、貴貴、曼容7／5見面會登場",
+          "url": "https://www.mnews.tw/story/20260702nm021",
+          "time": "2026-07-02 17:37:22",
+          "publisher": "鏡新聞",
+          "severity": null
+        },
+        {
+          "title": "中市府頒發希朵獎 盧市長表揚16優勝機關推動性平有成",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84bkZacXlBekh2Mk1JUTFHUC1XTll6YzdoVE9JRzBjd1ZDRFNDZXF5VGdka29SYk1xZlE4a2xGV2hrbzV4VjdKSWp2S3d5aW9Na0E?oc=5",
+          "time": "2026-07-02 17:33:53",
+          "publisher": "Google News→taichung.gov.tw",
+          "severity": null
+        },
+        {
+          "title": "台中救護車載病患返家撞死騎士 駕駛一審判6月",
+          "url": "https://www.cna.com.tw/news/asoc/202607020269.aspx",
+          "time": "2026-07-02 17:32:58",
+          "publisher": "中央社",
+          "severity": "red"
+        },
+        {
+          "title": "中市民政局勇奪希朵獎雙獎 《大川原夢之旅》見證尋根圓夢與性平改革",
+          "url": "https://more-news.tw/656777/",
+          "time": "2026-07-02 17:30:17",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "以台中為軸心打造下一座護國神山 中市府攜手AIT辦無人載具論壇",
+          "url": "https://www.storm.mg/article/11146699",
+          "time": "2026-07-02 17:27:00",
+          "publisher": "風傳媒",
+          "severity": null
+        },
+        {
+          "title": "中市民政局勇奪希朵獎雙獎 《大川原夢之旅》見證尋根圓夢與性平改革",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10QlZ0Uy1YTHZHN1JTMXdmckRwZjJEWUI1cUdvM1VET2tPaEhIbk82LVZFeWxJY3BDT21IMFNQc1RZSnJqLUtjbHRGOVdhb2JXa3hFZ2Y1SDdUM1dQWkxkVlBLOThzYlk?oc=5",
+          "time": "2026-07-02 17:26:00",
+          "publisher": "Google News→新華報導",
+          "severity": null
+        },
+        {
+          "title": "菇筍豚香匯聚台中風味 「花開盛宴」千人宴菜色搶先亮相",
+          "url": "https://more-news.tw/656754/",
+          "time": "2026-07-02 17:24:27",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "台中玩劇場生活節將登場 結合實境解謎等展演 (圖)",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%8E%A9%E5%8A%87%E5%A0%B4%E7%94%9F%E6%B4%BB%E7%AF%80%E5%B0%87%E7%99%BB%E5%A0%B4-%E7%B5%90%E5%90%88%E5%AF%A6%E5%A2%83%E8%A7%A3%E8%AC%8E%E7%AD%89%E5%B1%95%E6%BC%94-%E5%9C%96-090954280.html",
+          "time": "2026-07-02 17:09:54",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "台中玩劇場生活節將登場 邀民眾挑戰實境解謎",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%8E%A9%E5%8A%87%E5%A0%B4%E7%94%9F%E6%B4%BB%E7%AF%80%E5%B0%87%E7%99%BB%E5%A0%B4-%E9%82%80%E6%B0%91%E7%9C%BE%E6%8C%91%E6%88%B0%E5%AF%A6%E5%A2%83%E8%A7%A3%E8%AC%8E-090406697.html",
+          "time": "2026-07-02 17:04:06",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "台中大遠百超級年中慶 Passion Sisters妮可、貴貴、曼容7／5見面會登場",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%A4%A7%E9%81%A0%E7%99%BE%E8%B6%85%E7%B4%9A%E5%B9%B4%E4%B8%AD%E6%85%B6-passion-sisters%E5%A6%AE%E5%8F%AF-%E8%B2%B4%E8%B2%B4-%E6%9B%BC%E5%AE%B97-090300515.html",
+          "time": "2026-07-02 17:03:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "中市府攜手AIT辦無人載具論壇 集產官學研聚焦國際市場趨勢",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT183SXFLano2bUxjVVhkR1U0TUxjdWlpMUcxSS1qY3h0QklCeVA4TjdMaXlCbGdua1Y1dXZOOVFoSWJxV0FzY0NTMm5FMjd3UUNaVlBBVDNRQ0FnNjZxeE85T3FCSjVoeXA4ZGVURjV3N19xZmlWX1FLNDZOa0MxRUZlNmVPU0ZQbGRlTllmanNDV00?oc=5",
+          "time": "2026-07-02 16:57:06",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "中市府攜手AIT辦無人載具論壇 集產官學研聚焦國際市場趨勢",
+          "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPNlhZSHJxekpKTUNsc3FrcDhiS1J5b2RHSloyOU94dkVhR3B0VF9XTUxNTmNwS3hZOVdlYUpjd2hid1VKS01KV2RyMWhRU1R3ZHNHUG1JSmJFQjAyY3ctY2JHVGF0RFA2V0s1Y0ZLUEEwenY2SmdEVVA5emYxdVl6elMtYTFHRDMxd3hHXzV1UGtYbWNzbW5hamFCY3BGU0FRQm1hMEZuMVhvdF9aenRkUkRocFRJZmZjNnpFSTdBdi1GUkYxaldBa0o4U29KM2hMTXQ1SnZ2VDZXR0NSeGdNYUpWRTMwa0Y5Yk1vWkZ0cjNBb0FQMDRxVVlDWTFvNkJPTG9oMC1NSDh2RjhKVTd6Z2F4MFYzem43UlMwRzdvWk5nMzAwVkN2dzVzSVVpVERDMTZtX3hPOXZrenlGalZwYXhEUW1oVkxVWmUzM2pUTmh0SkZubzJyQ3Q2UUs1blNOdjRvMXItTkM1M3lKQUZqaG5ZSVJLcUpjQ09heWtrVUFpQ1dz?oc=5",
+          "time": "2026-07-02 16:57:06",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "2026台中自動化工業展及AI機器人應用展開幕 市長盧秀燕：持續打造AI智慧製造重鎮",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oeF9US3NMblZzb2dkZGowUV9OcEctLVY4Zll1UFdib1RyNGxpM0ZxTHhnU00zMUxYNWQ4c1hva3E3ckpvR0piaU8xemZBU242RHc?oc=5",
+          "time": "2026-07-02 16:56:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "中市遙控無人機禁飛區域新增慈濟醫院等41處 | 青年日報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nbEt2eURQZE44OXRYN0EzeHR0N29EUGhCMGF6eWlBSjBKemVyTUlaU1dHalZDRW9ZcG5yWTBZUDZmZms0alM4U1ExYVVtbGl2UjFfVnVB?oc=5",
+          "time": "2026-07-02 16:39:55",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "台中警官偷拍警花女友！性愛片遭外流販售 他不認錯下場慘",
+          "url": "https://news.ebc.net.tw/news/society/559305",
+          "time": "2026-07-02 16:38:00",
+          "publisher": "東森新聞",
+          "severity": "red"
+        },
+        {
+          "title": "[TaichungBun] Fw: [情報] 7月2日起 台中YouBike新增4個站點",
+          "url": "https://www.ptt.cc/bbs/TaichungBun/M.1782981186.A.F46.html",
+          "time": "2026-07-02 16:33:06",
+          "publisher": null,
+          "severity": null
+        },
+        {
+          "title": "打造台灣下一座護國神山 中市府攜手AIT辦無人載具論壇",
+          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPMVhYMG9saktGOU1wQVpTdndzN3I3TmptSHNya3VhRFFqZG9tdlpyR3EzOEV2LTk5ME9uTUFJUWhOeEpzSHZ0c0k3cFdFQl85RWtLaFdaMGhSUEhGMGUtZUlwYkFUNmkzeWVkQldBMTRfeGpOS2VyMFZRMVk2Sl9ZUVB6dE9SWVNObW1ZRzNXWG1ycGFkYlI2VGlZZTlSRUtLZWxvU3g2SVFqbFhnRW1zck81aTZOZ29nMWpFZXk5dHVCaVNZYTh5amdBZXJSTjRGSjA0ZDFoX1FqMlZjNXBTTUxIOVJYanlfSVBMdi1GX21RZUN5R2ZfN1A2ZGNlYkV0QnhLbXFRd0djS25qM29oY0NlTXJHNXBubTZwUWZfa0JjYV96MzhlUUlLR29JYklBSVBTT2UyQlVEeDUzVHhOUndLSExGSkpKOHJUM1NxLV9jS3Uyb1V2b1lHNERqck1tVnhMNEpTb2psdw?oc=5",
+          "time": "2026-07-02 16:29:41",
+          "publisher": "Google News→台灣好新聞",
+          "severity": null
+        },
+        {
+          "title": "中市府攜手AIT辦無人載具論壇 打造下一座護國神山",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNOVQyVXdGVXc4T3FPb0NDRUJLZWFPdVZxYVpoWDlEU3ZfSVpUUldZNjJ3NzNvRmhRZ2xaOWZnWEUyTlhnRXkwRzdKalM3eDd0T1lvUlB0ZnpUMUE0c29vMl9GbHY4LUMycVJTaGY2TXJNc0drcG11cDh6QlBkd2x2RVNoZ2RRLWcxbGd6cl9zcm5tOV9ZRjc1V3NORkpucEd4VFZiRmhtQWpSN0ZiNldZdFZCZkluQTNlRUZYUDd0a0xORDA4YUxlUjhsYlRhYUlYS01iYnJoODVKWE0yLW1PejVZeFhCMl9VcmhSdVB6S3gweHlvdF9Nb0hoNVJTZlcyN3JoSGVBTDVGakJBd00xU2c2T1p0QjltUWx3LXlKVzZLZEQ5S2lqUTJrMUhDblM2eXNFSnR0dUVwTS1VT0g5RlBvSEdwV0VtbGc?oc=5",
+          "time": "2026-07-02 16:26:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "中市府攜手AIT辦無人載具論壇 打造下一座護國神山",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E5%BA%9C%E6%94%9C%E6%89%8Bait%E8%BE%A6%E7%84%A1%E4%BA%BA%E8%BC%89%E5%85%B7%E8%AB%96%E5%A3%87-%E6%89%93%E9%80%A0%E4%B8%8B-%E5%BA%A7%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1-082600140.html",
+          "time": "2026-07-02 16:26:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "中市遙控無人機禁飛區域新增慈濟醫院等41處",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E9%81%99%E6%8E%A7%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%A6%81%E9%A3%9B%E5%8D%80%E5%9F%9F%E6%96%B0%E5%A2%9E%E6%85%88%E6%BF%9F%E9%86%AB%E9%99%A2%E7%AD%8941%E8%99%95-082600280.html",
+          "time": "2026-07-02 16:26:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "打造台灣下一座護國神山 中市府攜手AIT辦無人載具論壇",
+          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOTGVQTURoNHNlcmtFcHpxVnk5bXdtWFllVlZiTm9WLWpzcTlSanlCM0pSZ2hzajZ3cnRFb3N1ZkVTVWpZNzBUdk1ERDNNWkNtaXdQM0t4eHhCd0pRZUVtcm5Idjl1Mzl2NVpkOXRIQUM0SHMyNmVwUHYtSGlUNl80bnNRSEpwcEZHQVhFZjFFSVBicXRJazAxd2xOcUxONjJJUDg3R3hldkdDZzduckg0UnNQcDRldWZkNXZNX0VSUWI5bUtSNlZVTXFPSDY4VXR3a3VZZmFPLWVqT1pEUy1VWFM4ZmVHdXNxalV5WFBicWg3c3BEQThVVGZWODhrSEhJU1dYcVl5MFVwNGxqZ3FadUlnVjhSWmtDMmllTkxGOWNMWVNDUWhUY2xFWk4xZ2VZODdvY2gwajZhaWF2SVFiZl9tMDktaFJwYk5hUF9pTFhHQlF3eHRDRHMyc3NoWGdJcGc?oc=5",
+          "time": "2026-07-02 16:23:29",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "賭輸直接跑？台中男運彩下注15萬留「假現金袋」失蹤 彩券行氣炸PO照片報警",
+          "url": "https://www.thehubnews.net/archives/640290",
+          "time": "2026-07-02 16:20:00",
+          "publisher": "新頭條",
+          "severity": "yellow"
+        },
+        {
+          "title": "台中國際機場直飛成都天府今啟航 移民署增派人力、推e-Gate提升通關效率",
+          "url": "https://www.thehubnews.net/archives/640292",
+          "time": "2026-07-02 16:20:00",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "出席台中無人機論壇 谷立言：美台關係從黃金時代邁向白金時代",
+          "url": "https://www.taisounds.com/news/content/71/265428",
+          "time": "2026-07-02 16:17:44",
+          "publisher": "太報",
+          "severity": null
+        },
+        {
+          "title": "影／台中攜手AIT辦無人載具論壇 盧秀燕：以台中為軸心打造下一座護國神山",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TS2dSemxvUDIya09TaDFnQ1U1U2xINXg2S24zby1wTUVIOTBzUnV5SlV3bW5SWXhVekFOaHJ1QUxGMjRXOFMxcEVuVWl5NFRoOEE?oc=5",
+          "time": "2026-07-02 16:12:25",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "攜手AIT辦無人載具論壇 盧市長：以台中為軸心打造下一座護國神山",
+          "url": "https://news.ebc.net.tw/news/living/559303",
+          "time": "2026-07-02 16:10:00",
+          "publisher": "東森新聞",
+          "severity": null
+        },
+        {
+          "title": "打造下一座護國神山 中市府攜手AIT辦無人載具論壇",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPdnRLd1JZMkxBcGtDcDRCcjNyMTJoN3d2OVAzVU9EeG45Z2NzeXJnV2JVN3d3MlBXeDB1NjcxQjZXS2RIY0pwa1FYMDJmOFJ4RlNMMDJXWHMwLUdEZjBrRWFLTUxLMEhOd2dZd3lZcTF5ZFNwQmtqUldWUm1MZDgzNXBqV1c0QlViaW5uRV9HOWhpN0EzeEVTWF9PTDFvbUpkRkFYWWNITTVETktVT1JtWUlQeDB1aG5ORkgzblpKVEZMeU1tLW5wdFE4Y3lHUHZsck9zZFlQcUhqTHFHRWM1cW4tUnF0ZGIxTnNPVWJtOXdIVllqRmVLTkNRRDk4VFVlZVU5XzVXTFpKOUwyQUM2TDlNNG9jTmEtZl9CS2hFUjFuRTZTeHVfZF9lclRXczBsRTB0eTBHcTFveW1ETEh4cFVQYXlIam9IZlE?oc=5",
+          "time": "2026-07-02 16:06:16",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "打造下一座護國神山 中市府攜手AIT辦無人載具論壇",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hc0xzNVFUT01LekI1STJKbk9GbDBaWlhDRXNIOW8xZmNqTnd5YWRSZGtPWXhObWZ1akRxRnR4V2ZKQWdRbXB0c0laY3F3YVI2dU1Z?oc=5",
+          "time": "2026-07-02 16:06:16",
+          "publisher": "Google News→民眾新聞網",
+          "severity": null
+        },
+        {
+          "title": "中市府與AIT合辦無人機論壇 盧秀燕：打造下一座護國神山",
+          "url": "https://news.nextapple.com/politics/20260702/C1870E7221D876915144BADFFDE65C98",
+          "time": "2026-07-02 15:58:56",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "中市無人機禁區增41處 違飛最高重罰150萬",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%A6%81%E5%8D%80%E5%A2%9E41%E8%99%95-%E9%81%95%E9%A3%9B%E6%9C%80%E9%AB%98%E9%87%8D%E7%BD%B0150%E8%90%AC-075805302.html",
+          "time": "2026-07-02 15:58:05",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "中市無人機禁區增41處 違飛最高重罰150萬 - 政府消息新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSjJKVHdueXZnb1VhMEt4YkhoZEtFMkJoRzdTOTl1MTJ4MktRdmhBdVhWSktTcThOZjBnX2Zua2lCMlYtM1FBREREaW9GdTNpQndCMlBRWDRpekd3aUxJX0ljQ2JuY2NxZ3E4M09MbGtTM3BfYXQzalFub0NYUUVwbW9LSUFJN1l3bWc?oc=5",
+          "time": "2026-07-02 15:58:05",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "攜AIT辦無人載具論壇 盧秀燕：以台中為軸心打造下一座護國神山",
+          "url": "https://tw.news.yahoo.com/%E6%94%9Cait%E8%BE%A6%E7%84%A1%E4%BA%BA%E8%BC%89%E5%85%B7%E8%AB%96%E5%A3%87-%E7%9B%A7%E7%A7%80%E7%87%95-%E4%BB%A5%E5%8F%B0%E4%B8%AD%E7%82%BA%E8%BB%B8%E5%BF%83%E6%89%93%E9%80%A0%E4%B8%8B-%E5%BA%A7%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1-075646126.html",
+          "time": "2026-07-02 15:56:46",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "攜AIT辦無人載具論壇 盧秀燕：以台中為軸心打造下一座護國神山",
+          "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQVmZmU0NnU3hySHlHTGdac0Y4cURHWjhUcFc1emN3T2tFTUg4M3FEQmxRWE9MMmhzdkJnd080ZjhFMlF0OWJWTjRtZDZRRXN5UDhfWHdsTmd3NUVwN2ZvTjhBakhwUjEwWTN6bDNxcGgxZ19CNG8zVWtQWXRFbEpfQ0RKQVRQR1ZmenVGakpzWlJGOVFwWmIxekcyYzY5aGJIejZTZ2JxSXVNWnhyU3pfMHk0ck1Vd290NWFDaExrejJScmV3VWxTRGVXbmZ0LXBFcEZEaDRMVXVZMnYxT2xadGdfYjRSX2EtbEpnQ21pNzM3c0pXQjBOQUVsSEM3czJ4Ymh3NUh4ZWh5VmxNYy1aMzBSRXExWnBHQlJJYXlualQzRjJ4dVFNdDBGSTdkYjR1dTBhc1BJQ1ZJZEZYOE5ncGd5LWI3VjVxNnhYM0VsQzAtSlE0Zmk3OG1aaHNURzhSckYya0R0SjBVZmx0ZTlQNTZ5Rm5wRk43a2FrNlhNQTJqRzJCZWZN?oc=5",
+          "time": "2026-07-02 15:56:46",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "台中土風舞女師慘遭割頸！「18公分刀傷」一度命危…狠男殺人未遂罪起訴",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%9C%9F%E9%A2%A8%E8%88%9E%E5%A5%B3%E5%B8%AB%E6%85%98%E9%81%AD%E5%89%B2%E9%A0%B8-18%E5%85%AC%E5%88%86%E5%88%80%E5%82%B7-%E5%BA%A6%E5%91%BD%E5%8D%B1-%E7%8B%A0%E7%94%B7%E6%AE%BA%E4%BA%BA%E6%9C%AA%E9%81%82%E7%BD%AA%E8%B5%B7%E8%A8%B4-075600187.html",
+          "time": "2026-07-02 15:56:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "影／台中攜手AIT辦無人載具論壇 盧秀燕：以台中為軸心打造下一座護國神山",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhRVJJLWtUdGRmSjF6R2s5TGlnQUFRbENnczJlZnNXLWZUV2E5ZEkxWHk1UW5vM09ZeGdHdGJJcUNETDhwb3pmQmxmZ0ZITzBzeVFGaA?oc=5",
+          "time": "2026-07-02 15:51:58",
+          "publisher": "Google News→互傳媒",
+          "severity": null
+        },
+        {
+          "title": "影／台中攜手AIT辦無人載具論壇 盧秀燕：以台中為軸心打造下一座護國神山",
+          "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOZXhfbUNfVzBPWW1RRl96cFRrNDg4dDV0eXloMmZpNzZGaWlJQjNZYjNRQnROS0lQdXotdGROQnQzbzZTT0QzUC0xTnhkZ3BjZEN4cWl3c0ZkSjctNDlXbmUwWTJDVmtTUTJKZS1RaHFRQ0F2a193ZmMtM3ppZmx5cXJfeW9rRVRndV9NcE9mOWNfdTg2c3JLanFvX09hTWlLMmdGTGNKV2RJcldKdDJpbmZzVDU5LVU2dmtUMzF5MEs5VEFqQ3Fhd2RmR1o4MktaeWpxQWQtc25CUWZ6TkQzaFVsSERFZW95eDJUa0NneGhDNDIyUlVmMWZHQjlURWlueC1sWG5xZ01iRnVWQ1JuT3c2aFhPQ1R1UHczV2Fhc1laaE9ObUNSMUxwMDBrdHF2MlpZVC0tSnM1YUpIV09VUmxoRXYwWHJ2Vmk2RmliTGtRQnNNajloeVAzMGQ4Rm9CRm1sWGxHNmRPMFBwTkdlNjFDeDhDaUNjV2lDNmMyNXppMDFYcmM1Yzhya3lJTWFHWUgxRkliT1BrOUVIUjM5ejREcmNGOFpEbHl4dGpGNTJUWWU5VDBkTw?oc=5",
+          "time": "2026-07-02 15:51:58",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "影／台中攜手AIT辦無人載具論壇 盧秀燕：以台中為軸心打造下一座護國神山",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B1-%E5%8F%B0%E4%B8%AD%E6%94%9C%E6%89%8Bait%E8%BE%A6%E7%84%A1%E4%BA%BA%E8%BC%89%E5%85%B7%E8%AB%96%E5%A3%87-%E7%9B%A7%E7%A7%80%E7%87%95-%E4%BB%A5%E5%8F%B0%E4%B8%AD%E7%82%BA%E8%BB%B8%E5%BF%83%E6%89%93%E9%80%A0%E4%B8%8B-%E5%BA%A7%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1-075158010.html",
+          "time": "2026-07-02 15:51:58",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "中市府與AIT合辦無人機論壇 盧秀燕：打造下一座護國神山",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWFjdEVmSGpGLUpsRXcyb2kwdnRuU2tqTmo5eDdzUG9wMFFNMFpxa2RTZEFhMER0ajE2b1ZIZmlZanNJcFJ1QWp0WVdidTBybzZvSWt3eEU1YjVYZ2JWdU9EWVVBQjIzbERzSTZweGlQTXh4LXROYzZnNFV1azhiMXF5bw?oc=5",
+          "time": "2026-07-02 15:50:00",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "中市府與AIT合辦無人機論壇 盧秀燕：打造下一座護國神山",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nTHRLZVpNWUM0a2Q2aldHMHpQX1dRcllEcTBzcTNzM09jWm5jRVRERVJmbkdJRkZNOG5rNUJZYmVfTG1DdEE1bTlxSXgzZGJ3NndRQ1FNTHYyRW41MWsyaVpxUU9RLXdNcGQ4by1SODhYOVd1UWcyb3JKRmhjM1U?oc=5",
+          "time": "2026-07-02 15:50:00",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "中市府與AIT合辦無人機論壇 盧秀燕：打造下一座護國神山",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XeEFSTzJSME43aEktOVZXUUoyTzFhWVlMWUd3S3JuSDljcXBVYkF0NXBMckNtNUdHcHFYZFRxN3FiOVN6UWs3a3poUVFVMURwWWxGcThFQi1iZXpYZl9JQ2lCTW9kVmZUenYxMnF0dUExRWE5QTVVVXg4RVZzUQ?oc=5",
+          "time": "2026-07-02 15:50:00",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "中市府與AIT合辦無人機論壇 盧秀燕：打造下一座護國神山",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUjYxZzJwT1JZMzhjZXl4dVhmSDNlQ3ZIM2x3SzdXSTg2THNycnhGaXRhaFVORnVTajRQTUMwT3VjLVVTeDFWRFpEc0U0b0h0N2xfbXdlT1A1NDRMU09HQXlxV29MRFFVdEgtZTZtU2NUYW45LVY2eXJ1MEswV3lYY1NB?oc=5",
+          "time": "2026-07-02 15:50:00",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "中市府與AIT合辦無人機論壇 盧秀燕：打造下一座護國神山",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOODBteHlCVWxVT0J4TEsyUlNYZ2VRRW1tX3NOVll5dGxNQU83QXlERUVUYlgwcXVEekJWNG1ReGxtN3Y3TEZQSXg2S012bzJENjBHZDI2eHhtR0xuTDdBVjMwVVFsaERJd2tOZW85THpBNUxDcU5LZUw4WlFvM1lEYW9Gbw?oc=5",
+          "time": "2026-07-02 15:50:00",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "中市府與AIT合辦無人機論壇 盧秀燕：打造下一座護國神山",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGVFMUVtU3djN05uSkpMQXMxT2lFbkE2QldFZXMybGMtdjFDWHVKdk5vOFVzaVpKLTc2NW5JODAtYTNqWWxZQ1p3ZWhicUlGQUplNXJiN29uSHBjLUNmRmVrY0F5ZzFubGdfUDBxelpldjQ4bUVZVWtwajY3NDhmSg?oc=5",
+          "time": "2026-07-02 15:50:00",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "中市府與AIT合辦無人機論壇 盧秀燕：打造下一座護國神山",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUnJaMTdBam1CbUZuRXk4WHRibnNrN1BvSEtWckJ4bVBoZXp6U3k1VzFtcHRSQWZ1UnFtcVA0d0FGNkFubC1KZHNTaEhXNTNJaGZsblR6MFVhRFp4VHU1ZjVibTItMWUzakRQbkQtWVBqSF9GcndDQzljYXhEcjVfY1FiRnk?oc=5",
+          "time": "2026-07-02 15:50:00",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "台中首度與AIT合辦無人機論壇 盧秀燕稱中部具產業鏈優勢",
+          "url": "https://news.pts.org.tw/article/815754",
+          "time": "2026-07-02 15:49:33",
+          "publisher": "公視 即時",
+          "severity": null
+        },
+        {
+          "title": "控民進黨議員助理扮民眾到台中無人機論壇抗議 「最強菜農」林佳新批丟臉丟到國外",
+          "url": "https://cnews.com.tw/235260702a04/",
+          "time": "2026-07-02 15:48:27",
+          "publisher": "匯流新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "盧秀燕籲中央無人機資源應以台中為主 讓大中部成為無人載具產業廊帶",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zeGxOMUM5QjNHNFdHZmlEYm1ESkx5SXIxTFVaVjFhcXNua1RMTzdkN18xTzBMdFRXU0VEbTk5em16YzN3aXVzUEkzQlZKSHgtY2FwUUtsVDV4NVRVRVhobG1rVE9WdDBTaUHSAW9BVV95cUxNMmtQOGZQQmdndDh6dUsxMU5vakMtcWxpcVZUMThjM3I1STVGaG5IaFFFZE9LR1prbVFxRElBVHpEcVd2MHhZUUJZUkFRWW02VkhMNzNRZnpOOWNJUmtnWnB3TTRnLU5mcDhOU2tVZjg?oc=5",
+          "time": "2026-07-02 15:14:14",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "盧秀燕籲中央無人機資源應以台中為主 讓大中部成為無人載具產業廊帶",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5491513",
+          "time": "2026-07-02 15:14:14",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "無人機玩家注意！中市禁飛區域新增41處 台中慈濟醫院等入列",
+          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5491581",
+          "time": "2026-07-02 15:03:24",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "毒油流向不明 議員限中市府速清查校園午餐",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ER1NhN09JeWRYckRvT0tOcUlVVDVUT2FYVzZyd1VwMDZOVEFEa1ZRUllUQ0Z1b2QtaFR2WHAtZ2JsU1dHNjc0YkZYYkXSAVJBVV95cUxQODlNMHkwMHR3OTFhUm5WSjhuSTlkVnVua0doRG9qNE9naEtndmROT2xNdGNrRWVFeXBZVXpTU0ZtVDBseXlZY1FMZ2lVQmFKR0hR?oc=5",
+          "time": "2026-07-02 15:03:16",
+          "publisher": "Google News→NOWnews今日新聞",
+          "severity": "red"
+        },
+        {
+          "title": "中市動保處「教師動保巡迴宣導」前進東海附小 向下扎根共築永續生命教育",
+          "url": "https://more-news.tw/656517/",
+          "time": "2026-07-02 15:02:43",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "聞嘸飯菜香！他車禍喪失嗅覺7年 台中榮總研究揭恢復曙光",
+          "url": "https://tw.news.yahoo.com/%E8%81%9E%E5%98%B8%E9%A3%AF%E8%8F%9C%E9%A6%99-%E4%BB%96%E8%BB%8A%E7%A6%8D%E5%96%AA%E5%A4%B1%E5%97%85%E8%A6%BA7%E5%B9%B4-%E5%8F%B0%E4%B8%AD%E6%A6%AE%E7%B8%BD%E7%A0%94%E7%A9%B6%E6%8F%AD%E6%81%A2%E5%BE%A9%E6%9B%99%E5%85%89-064514559.html",
+          "time": "2026-07-02 14:45:14",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "聞嘸飯菜香！他車禍喪失嗅覺7年 台中榮總研究揭恢復曙光",
+          "url": "https://cnews.com.tw/003260702a07/",
+          "time": "2026-07-02 14:45:14",
+          "publisher": "匯流新聞網",
+          "severity": null
+        },
+        {
+          "title": "致癌油品項再擴大！1300公噸沙拉油流出 台中食安處突擊賣場、小吃攤",
+          "url": "https://tw.news.yahoo.com/%E8%87%B4%E7%99%8C%E6%B2%B9%E5%93%81%E9%A0%85%E5%86%8D%E6%93%B4%E5%A4%A7-1300%E5%85%AC%E5%99%B8%E6%B2%99%E6%8B%89%E6%B2%B9%E6%B5%81%E5%87%BA-%E5%8F%B0%E4%B8%AD%E9%A3%9F%E5%AE%89%E8%99%95%E7%AA%81%E6%93%8A%E8%B3%A3%E5%A0%B4-%E5%B0%8F%E5%90%83%E6%94%A4-064300394.html",
+          "time": "2026-07-02 14:43:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "台中寬頻申裝優惠戰開打！大台中數位推出「萬元影音回饋方案」",
+          "url": "https://www.thehubnews.net/archives/640329",
+          "time": "2026-07-02 14:39:16",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "台中辦無人機論壇盧秀燕喊立院推條例卻力挺卡關黨版周永鴻：呼籲的對象就在身邊，江啟臣應說清楚",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZZXBTNmgzbHdYNWd0MWZRSy1JQ1U1blNpbXY5dHVRZjdTV3U5Y0pDRU1sNWRwR2s5MDFqTWlnZnNjRU5rS280M2pvcjZET0JfV0YxRmQ0UXoyTE5YajBKR0hkNEtHX2c?oc=5",
+          "time": "2026-07-02 14:36:00",
+          "publisher": "Google News→新華報導",
+          "severity": "yellow"
+        },
+        {
+          "title": "盧秀燕攜手AIT共辦無人載具論壇 江和樹：台中應把握台美合作契機 爭取國際訂單落地",
+          "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxOa082Zm9nN1FfVFlMX2I5QlJtWEx1d3U2QUVWWnhEcTZtUzVuQzdHdC1YSHBmWFhJUC0wcHBGVVpwWG9hTG1tSHpMLUhVbWFMUGZZNGw2eVhxb2s0ZFdXbU5zRHk0Q096THpHaEZocVFweW5lSE9GcjBuR0x6VktxOVBtZ3J3T2tHVFF1MjlxWVpaZnBlaFo5WExkM2h5U3I1bVAwWmVfNTJpQVZwYUlyeS1NVjVWQ1ZtTjRwdEtUVTZ1enhDNGFpMlFWcE5nWWRNdVprMWZ4Z0RrMzFRWDA5Y3RodnZNcmtjQkV6NXczbklBU3UxS0FvZDZfeHdmZEYxLTc0RVRmSkpQY0VNWk9Rd1FXYW04X0V6NFN2UXhOMXVvUW1aWC00aUFmQlluZnVEQTBobzhFOGZaalZRYTNOWWc3eGxQZFN4cnZ2Q0MwbXpxdWVteERwZmtLMVdUQ0RjelZYNko2SmZrME5TNDBPZzBrbUF6TWtEWkkyMHNmRHdObloxUkVCNnVPSHYwdGx0d0pKUnctUTR3am1jdktpRngxRVlkeGVCQlp1UDBKNG1obHN1UVVIZm5COTBNX3Q1VW4waEVlazZHUjhsaGt1NWRHNHJ6aUY0OWx0VlJyZmVEY2NPQnc4RE40QlE3MGJaS1kxdk85YUdUMG1WZkxB?oc=5",
+          "time": "2026-07-02 14:33:45",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "台中一中商圈男陳屍防火巷 住戶見「懸掛物晃動」嚇報警",
+          "url": "https://news.ebc.net.tw/news/society/559279",
+          "time": "2026-07-02 14:26:00",
+          "publisher": "東森新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "台中無人載具論壇 張市育：全球競爭轉向信任供應鏈韌性",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5491499",
+          "time": "2026-07-02 14:24:32",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "中市遙控無人機禁飛區域新增台中慈濟醫院等41處 違規進入將開罰",
+          "url": "https://www.storm.mg/article/11146517",
+          "time": "2026-07-02 14:24:00",
+          "publisher": "風傳媒",
+          "severity": null
+        },
+        {
+          "title": "名牌藍綠有別！綠質疑中市府與AIT主辦無人機論壇淪為藍營專場？",
+          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPeENlYkFnazFqVGplNjFfem1OY0hucEx4ZDUySE9kVnVqM0ZqLXpJWmVLcnJmOXlScHU4ZlVFeC1JVnBwZWNBNUF6RWs2OXRzS2pHOUFSbVlta1BJeGkyUXlXTTRWbFd6dTVRQ2VjdlRLNjRPUFZFUmIzbWd2QTI1VnNaZ0JJT05RWUEtZUVULTdib0hNM0VlRTEweWlOVTJYci0wdU9udFhpSWtnMDdNbFRHY3pvUGNzaS1leGh2LU5sdUpyeFJHUzhGdDc0SExHcklnQ0pRSUpGMnl4RG9EdVF6SnBIemtlR3Y3MF8xS1hzZkVfMjdfZlBpUVNTd0VsbzZyVVBnM3Q4czExeEgwZU1jelMtSWxJV3g5M1NRRjg2c3YyQkJHMzQ1S1BrU0NtbTdzSWs2ZHRtamk0aVJfanlMbVE5aUhCdndVTTdDU2Y3V05EenpsQzU1am5xVFItN25jN1lKOF9TcjVzd1RYREN2dHl5TExMd2VybXR4ZzVDRk5rSktEdVZOVnpsbE9l?oc=5",
+          "time": "2026-07-02 14:19:30",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "台中國際機場暑假又增3條新航線 台中專屬登機證優惠加值地方人情味",
+          "url": "https://www.storm.mg/article/11146513",
+          "time": "2026-07-02 14:14:00",
+          "publisher": "風傳媒",
+          "severity": null
+        },
+        {
+          "title": "台中賣場驚見偵煙式攝影機！對準哺乳室、女廁遭疑偷拍 警方檢視澄清",
+          "url": "https://newtalk.tw/news/view/2026-07-02/1044794",
+          "time": "2026-07-02 14:12:53",
+          "publisher": "新頭殼",
+          "severity": "yellow"
+        },
+        {
+          "title": "台中賣場驚見偵煙式攝影機！對準哺乳室、女廁遭疑偷拍 警方檢視澄清",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E8%B3%A3%E5%A0%B4%E9%A9%9A%E8%A6%8B%E5%81%B5%E7%85%99%E5%BC%8F%E6%94%9D%E5%BD%B1%E6%A9%9F-%E5%B0%8D%E6%BA%96%E5%93%BA%E4%B9%B3%E5%AE%A4-%E5%A5%B3%E5%BB%81%E9%81%AD%E7%96%91%E5%81%B7%E6%8B%8D-%E8%AD%A6%E6%96%B9%E6%AA%A2%E8%A6%96%E6%BE%84%E6%B8%85-061253357.html",
+          "time": "2026-07-02 14:12:53",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "無人機論壇淪藍營專場？民進黨台中市議員批中市府大小眼",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SNlFKQVp3eHRzU2dqOGVVQlhlNy1YazYzNURWRU9aclhmcTVxQ21RLTNHNDNYd2FBa2RYdTNKWXpRa3g0REJnUEJqQWdRQjVpcHdQblNBUVBGVElaRWlqNHpGbVp6YlNm?oc=5",
+          "time": "2026-07-02 14:07:42",
+          "publisher": "Google News→元丰傳媒",
+          "severity": "yellow"
+        },
+        {
+          "title": "[HatePolitics] [新聞] 台中鍋烤節「盧秀燕巨型海報」高高掛",
+          "url": "https://www.ptt.cc/bbs/HatePolitics/M.1782972400.A.600.html",
+          "time": "2026-07-02 14:06:40",
+          "publisher": null,
+          "severity": null
+        },
+        {
+          "title": "[TaichungBun] [新聞] 台中鍋烤節「盧秀燕巨型海報」高高掛",
+          "url": "https://www.ptt.cc/bbs/TaichungBun/M.1782972201.A.8F8.html",
+          "time": "2026-07-02 14:03:21",
+          "publisher": null,
+          "severity": null
+        },
+        {
+          "title": "中市遙控無人機禁飛區域新增慈濟醫院等41處 今年已開罰4件違規 | 中廣新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Jbk9ESUd3bGoyT2d3LUJBOE1obVZ5RnMzOG94TWYtM1V1bTA4Rm9qVVc2ZXR0bGM0OUdxVmZ6QjBjTzVZaWw1ZHk3NDFJbjFBTTNqQ2hB?oc=5",
+          "time": "2026-07-02 13:54:10",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "台中玩劇場生活節7/11登場 中山堂化身大型藝文遊樂園",
+          "url": "https://newtalk.tw/news/view/2026-07-02/1044814",
+          "time": "2026-07-02 13:50:25",
+          "publisher": "新頭殼",
+          "severity": null
+        },
+        {
+          "title": "台中渣警嘿咻10萬粉網紅警花 「13分鐘精華」外流判8月記2大過免職",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5491375",
+          "time": "2026-07-02 13:47:17",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "台中渣警官「偷拍警花女友不雅片」還剪輯精華上網賣！遭免職",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E6%B8%A3%E8%AD%A6%E5%AE%98-%E5%81%B7%E6%8B%8D%E8%AD%A6%E8%8A%B1%E5%A5%B3%E5%8F%8B%E4%B8%8D%E9%9B%85%E7%89%87-%E9%82%84%E5%89%AA%E8%BC%AF%E7%B2%BE%E8%8F%AF%E4%B8%8A%E7%B6%B2%E8%B3%A3-%E9%81%AD%E5%85%8D%E8%81%B7-054424516.html",
+          "time": "2026-07-02 13:44:24",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "暑假開園！ 台中中山堂玩劇場生活節7/11登場 首創實境解謎免票體驗",
+          "url": "https://more-news.tw/656421/",
+          "time": "2026-07-02 13:44:17",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "台中無人機產業機論壇 盧秀燕喊話盼資源挹注台中打造無人機產業廊帶",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NZjNIaEE3VXRQQUxicjRsR3JlZXRFanZaOHJhOUJ6MTBjcmZ1Z0pEZ19wM0JoQS1hSzVIRC1pYlVHa3ZCR3JlX0tjNDNneXdORng0STNvdlRzUDjSAWBBVV95cUxObHZDTF9mWW5IM0xIcmNNUThDaWdiMEZSbWdLYTlqZF93SlR2clNUdFN5SjZmcW5sWUUwRktlTGV1cGtkclA0SmxWSXVNMkl1c2NNT2MycjNqU0hDc0tkcGc?oc=5",
+          "time": "2026-07-02 13:44:08",
+          "publisher": "Google News→經濟日報",
+          "severity": null
+        },
+        {
+          "title": "台中無人機產業機論壇 盧秀燕喊話盼資源挹注台中打造無人機產業廊帶",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5idFpkbkRVd1lrSVNRdXg1NG5pSVhKOGd4bW9aN3JyTEJrQWtZRmxING9RWjVVSmZXQ0FPd0pIQU1iaFN4MW95U3dMNTd4OUxB0gFWQVVfeXFMTXRET3RyZGw5aWVyb2pSdHcxVmZMem1HSjdxS1gtNFVUUGhOM3A1ZkxWSGZrOUlPQTFGR2t4NTB1NzR0aWp6NjJYQnBJZUd5cHJGS2dHWXc?oc=5",
+          "time": "2026-07-02 13:44:07",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "台中市政府與美國在台協會（AIT）今天舉辦2026台中無人載具產業與海外商機論壇，業界認為台中要加速整合產業競爭力，並善用台灣的供應鏈信任基礎。會場外頭，部分人士在市府外拉起白布條，抗議藍營阻擋無人機條例，也有民進黨議員批市府大小眼，未處理好議員名牌。",
+          "url": "https://udn.com/news/story/124652/9602530?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-02 13:43:09",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "AIT促台加碼投資無人機 川普又要台積電擴建1／AIT與台中市合辦無人載具論壇 產官學界矚目",
+          "url": "https://www.mnews.tw/story/20260702sot1248001",
+          "time": "2026-07-02 13:43:09",
+          "publisher": "鏡新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "2026.07.02 13:30 【生活特輯】年輕家庭精打細算 時尚屋傢俱以台灣製造切入台中CP值家具市場",
+          "url": "https://www.mnews.tw/story/20260702mkt00005",
+          "time": "2026-07-02 13:43:09",
+          "publisher": "鏡新聞",
+          "severity": null
+        },
+        {
+          "title": "悚！台中一中商圈防火巷「有人卡住」 49歲男「明顯死亡」身分曝",
+          "url": "https://www.taisounds.com/news/content/96/265404",
+          "time": "2026-07-02 13:43:07",
+          "publisher": "太報",
+          "severity": "yellow"
+        },
+        {
+          "title": "台中市府攜手AIT辦\"無人機論壇\" 盧秀燕:打造下座護國神山 | 民視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zWlV5Mlk2SGdiNlVBdlFTOGNqUC1ncmk4d29FTWUwclBoSVE1TmxGNVM5N25iNWV2RVBoY0tKRXB3dG5BbUkwTnFraGE4b0Q1S3d6V1hR?oc=5",
+          "time": "2026-07-02 13:29:08",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "台中市府攜手AIT辦\"無人機論壇\" 盧秀燕:打造下座護國神山",
+          "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQQy11WHh6ME1oMS04dDAwOElXQ0MwOHBYNl9kbUVtWGJyWTlSX19iX1VxU0VpTFBHYzFfeTc2bU9rdVBHR2VENzUtR2NKTGNlcUpvdjFJamNmRFZHYkd5UWdvcHZjdjNfZUtTSHBJTjRqci1tTnFGSE9BbmFYaDQwSl9ubWZQMXdNbVozNGdFOHV0a05JdFNUc0tFWDYxMjJrdDlyc1BGX01MUlVuRUplVDJONXQ5aTNWU0Y5dW0tcDB0MkhLMUxaVVZTMG52NFphRnpyQVZtaHl5cnlRRXl0a3Y1Yl9aTV9MeEtCTms5U0JnVjBTWURGcXNscklCMWdYNFpZNlZiRnlpSmZKV0JlTEVuRjEwWF9Wc1NaOFpyWXp3c2VSVGMxZmhwWm5WXzRqSEpJdmNlTXFOckhqLVJlRHMwcHI3bC1TdEVGclFNRnVlcHBnRndGMG12azNESlhqN0d2Ump6MTZZMWt2dHFv?oc=5",
+          "time": "2026-07-02 13:25:47",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "台中市府攜手AIT辦\"無人機論壇\" 盧秀燕:打造下座護國神山",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%BA%9C%E6%94%9C%E6%89%8Bait%E8%BE%A6-%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%AB%96%E5%A3%87-%E7%9B%A7%E7%A7%80%E7%87%95-%E6%89%93%E9%80%A0%E4%B8%8B%E5%BA%A7%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1-051602895.html",
+          "time": "2026-07-02 13:16:02",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "2026台灣驗光人員年會台中登場 盧秀燕：攜手守護全民視覺健康、推動視光專業接軌國際",
+          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNOXNpcmhtRndYQWVTeDdCTUlwSFI5dVl5NGVnVDNGR0RDOWtFUUg1cWpSbzd6TWVQU2xOdl9vdjVkaWNPcWY3Mzl4ckFtb2VIRG81clM3eXd5Ml9uRkhpZEdwSEdkWE5aNzdiRV9wVXJnRmVFcTQ0ckZNNXV2QTUtUlhRMmRFMmhCTDEzUmpMY1pEU3dfWDRqMWV0bzFKNDlVRXA3d2gxeGZTSjVBSGRtbVVuNDlvTWFLa1d5NTJ0elNLSnlsVWJ2WHU0MWpxQXN6V0x0djRaM0dLRWdNb1FrM3NMNXQ3dWF1UVJTUHFmWVdudVViekNGWHlFTzBTbXpobG54ZXktOENHdUx1azFJZ0hpRHlLNjNrSllsUC1tMFBmeW1Iak1fbXhCUHRQZkhSa1Z3bFRfNF9ubHY4VDVVblV1ME43d2p6TWZSTTVLTnlucko4NlZCUk9IQmd6TFdBQndzZFZ3R3k?oc=5",
+          "time": "2026-07-02 13:14:55",
+          "publisher": "Google News→行銷人",
+          "severity": null
+        },
+        {
+          "title": "台中一中商圈防火巷驚見男子陳屍 住戶目擊「人形懸空物」嚇壞報警",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD-%E4%B8%AD%E5%95%86%E5%9C%88%E9%98%B2%E7%81%AB%E5%B7%B7%E9%A9%9A%E8%A6%8B%E7%94%B7%E5%AD%90%E9%99%B3%E5%B1%8D-%E4%BD%8F%E6%88%B6%E7%9B%AE%E6%93%8A-%E4%BA%BA%E5%BD%A2%E6%87%B8%E7%A9%BA%E7%89%A9-%E5%9A%87%E5%A3%9E%E5%A0%B1%E8%AD%A6-051350155.html",
+          "time": "2026-07-02 13:13:50",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "星宇深耕台中第二營運基地 10/2開航札幌唯一中部定期航班",
+          "url": "https://tw.news.yahoo.com/%E6%98%9F%E5%AE%87%E6%B7%B1%E8%80%95%E5%8F%B0%E4%B8%AD%E7%AC%AC%E4%BA%8C%E7%87%9F%E9%81%8B%E5%9F%BA%E5%9C%B0-10-2%E9%96%8B%E8%88%AA%E6%9C%AD%E5%B9%8C%E5%94%AF-%E4%B8%AD%E9%83%A8%E5%AE%9A%E6%9C%9F%E8%88%AA%E7%8F%AD-050900604.html",
+          "time": "2026-07-02 13:09:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "台中無人載具產業與海外商機論壇 盧秀燕致詞 (圖)",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPUkFNaWU4N0NvZFRNVUZsb0duVUdlbktqYmRwUThnR0twMzhqTUlGQUpIdGVYNEM4RWdyZ2hzVGViSjJIVGcxLVp4QkgxM0EzamxWWXJERWhTQS14amtBcGpsVDdPZW9OSEY2VVVib2pZblZ5U3Y1bWNSYlpBNm9oczdWajl6ZWYtdlhza2RmUi1ienJtbUhNWDkyS2RWSFpsSmdMbEFISXo2SGdWTkpNZDFGRFZFQWY4MC1DVFVwaGt0UFBxaHk5MEpfdkdXV0lmS1Z4V0ZObkNVdGRVc0lSSmo5OWFEckZaeU9Ld1NDeDhHcWVOYlloSlg3TDlwZ2JVbXFKMFpzeS1NaVlhQ1VQclFOUnhOSkNrV2VDMVFrTmstejI2MUR4X01HczloMTVQbU5pTVllenRNN1dENGtwcXVsWDRtT1BKQTFNS0lRYnQ3UQ?oc=5",
+          "time": "2026-07-02 13:04:30",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "台中市府攜手AIT辦\"無人機論壇\" 盧秀燕:打造下座護國神山",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5QVdBdWgtR1o0TVJLMUIxanl0VjFFaS1NLW9pTFQwQl9wdDJnb2lzVHFOZjZ6bERXS1FkM2xab0ladzl6ZnhQTWpJVG91STNWN1NtWTFUbDRYckhDbnRtVg?oc=5",
+          "time": "2026-07-02 13:04:09",
+          "publisher": "Google News→民視新聞網",
+          "severity": null
+        },
+        {
+          "title": "與美合辦論壇 盧秀燕：天空沒極限 讓大台中成無人機產業廊帶",
+          "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNRUJUbTVRSy0yRGhfRTFHUDlmbVpxUzR0R2MwcE4zdnY4ZC1IN1dUay1ycEVxZE0xaTBQZGpJS3Flb1U1Mkk2WXhSMTY4dzZCVllDSGlBU0QyczR0SUxwTnNiN21qOEZ6M0lla1ZBZV80eHl3eGQ0cjhkZ1NFaUllc25kMEttS0RzSUZkUTF2bUtaN01kYXh0S0xHT05VTHkwd0JsbkFJNFlrdTh4NllyWldhRmlfX1UtX0EzTElHX0haQl9fUEx3cjZ3ZkFWVTViRER0NXlBVERtWGVQaVhJYTFzOVowLWFHejZRX0p4dkQxTmYzcGdpdkFzalNWb0RGTFl0UmphOE9pVkJYZy1kN3kzemk2UzVvcVRhNWJudkRHMUdUb1BhS25qYW15el81OVNBTHlIOTIzSmlZWEVXUzlHOFpWbkRmQzdzSVAxOVR1VnNHVkxJcGgwaGJtLUU5eWRKSEx0Y3VwUlJHOGtTYXZ0Q29lZzdvWFFmWS11ZzltLVNMcC16NFctTDZsNTg?oc=5",
+          "time": "2026-07-02 12:57:55",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "AIT、台中市政府首度合辦無人機論壇 盧秀燕：中央應該更重視中部產業鏈",
+          "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQQURJNE9nUi1abm9mZzhXSG5yQmVlN09zb3Q0MEpuQWhCQ3RqOC1ldTRodlBPV0JwS3F3aGFiUDFCVVFocGFlZVhjQ2ZMN0hPRkJ2TGczaWNTZnBhRjRXTk5FVnZHeGxJWmI3T0VvVUlqN3NwZTJxQWFPLWVrb2szVkpjOTJmQmxQRXA3RVY1ZlFMRy1jNDZwTDdmdHg4b0cyVTVoUzB0QXJ4dWhxeVRlXzNTYTZHcDVWZUp6ZXlkVHFXOVBBUGRza19naGw3eFBjanZDRU5lVmk5RUw3U3pXNnlYNk03RE1MVkdoZ0hZOGFhZndob2NBeFRlSGNsQ0NpM2ZmeVZFek92cndZT0dRYlgtYlhHRzlEUEl0dkpnaGJUamZpeDkxUGs3SEd3MDJmQm55SGRNMzRUcmdHTnNqUldxRDl5TXNYUWFzVkVrZ0E2T3hyblE4V0p3RTNhME1pR3pFcDJCZXFuQ0o1QVF2Q0toUTNYMmUtX0kyRENYbVVzRmJlbHlUVTV3X3hTMzBzdVgtUmpjNG5CT3FwWjUzSk9PNHJNUFQxdjNqWWpYcFplQ09uQXRz?oc=5",
+          "time": "2026-07-02 12:42:58",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "[Gossiping] [問卦] 這個時間去台中漢神搶島語的都是什麼人？",
+          "url": "https://www.ptt.cc/bbs/Gossiping/M.1782966710.A.D34.html",
+          "time": "2026-07-02 12:31:50",
+          "publisher": null,
+          "severity": null
+        },
+        {
+          "title": "獨子大學打工貸款買4台中古車欠稅 退休媽刷卡一次繳清",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5491342",
+          "time": "2026-07-02 12:29:23",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "台中市今舉辦「領航2026－台中無人載具產業與海外商機論壇」，出席的民眾黨中央委員、市議員江和樹說，論壇只是開始，更重要的是後續如何把台美合作轉化為實際成果，包括技術交流、企業投資、國際訂單及人才培育，讓更多無人載具相關產業落腳台中，創造更多高薪就業機會，帶動中部產業全面升級。",
+          "url": "https://udn.com/news/story/6656/9602450?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-02 12:28:52",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "無人載具產業論壇活動今天上午在台中市政府舉行，AIT處長谷立言出席致詞，表示台中一直以來都扮演科技產業的重要輔助角色，可望在台美成為經濟關係中重要的角色。",
+          "url": "https://udn.com/news/story/6656/9602368?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-02 12:28:52",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "台中市政府與美國在台協會（AIT）共同舉辦2026台中無人機產業與海外商機論壇，台中市長盧秀燕、AIT處長谷立言、立法院副院長江啟臣等人出席。江表示，這不僅是一場論壇，更是中台灣無人機產業走向國際的宣示，未來商業無人機全球產值上看千億美元，絕不容錯過。",
+          "url": "https://udn.com/news/story/6656/9602354?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-02 12:28:52",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "台中市政府與美國在台協會（AIT）共同舉辦無人機產業與海外商機論壇，是台美第一次共辦無人機論壇。AIT處長谷立言親自出席，他強調，無人機產業對美國與台灣都是歷史性的機會，不僅能創造商機與就業機會，也可以讓台灣成為空中、水面與水下都充滿無人機的蜂巢，嚇阻衝突。",
+          "url": "https://udn.com/news/story/10930/9602317?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-02 12:28:52",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "台中市北屯區市議員參選人、「北屯班長」段體佩以無黨籍素人身分參選，他每天身著軍汗衫和迷彩褲上街頭，但卻和其他參選人不同的是，他並不去社團和宮廟拜票。他說，自己既是素人，未來也設定目標就是替基層民眾服務，為了避免糾葛和把時間浪費在社團活動上，因此選擇不參與。偶而會看到參與里民活動，那也是應里長邀請。",
+          "url": "https://udn.com/news/story/124652/9602265?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-02 12:28:52",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "與美合辦論壇 盧秀燕：天空沒極限 讓大台中成無人機產業廊帶",
+          "url": "https://www.chinatimes.com/realtimenews/20260702002392-260407",
+          "time": "2026-07-02 12:28:47",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "與美合辦論壇 盧秀燕：天空沒極限 讓大台中成無人機產業廊帶",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2aXNXajV3ZHBfUndvYXhwVDlRMVBLMGZ3U2JhdkpkZGd5NlI0UU5TcF83ai1VM0hhX0Z5VEFCOEU0dHYzQTNReEdBVFF2NjlYUnptOW5RTVdJZTN3QmYwNW4tNTlxUEVaa2FyYUNB?oc=5",
+          "time": "2026-07-02 12:15:19",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "台中警偷拍性愛片 判8月記2大過免職",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E8%AD%A6%E5%81%B7%E6%8B%8D%E6%80%A7%E6%84%9B%E7%89%87-%E5%88%A48%E6%9C%88%E8%A8%982%E5%A4%A7%E9%81%8E%E5%85%8D%E8%81%B7-120812762.html",
+          "time": "2026-07-02 12:08:12",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "2026台灣驗光人員年會台中登場 盧秀燕：攜手守護全民視覺健康、推動視光專業接軌國際",
+          "url": "https://www.thehubnews.net/archives/640167",
+          "time": "2026-07-02 12:04:00",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "台中北屯系統櫃推薦！全室系統櫃規劃",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%8C%97%E5%B1%AF%E7%B3%BB%E7%B5%B1%E6%AB%83%E6%8E%A8%E8%96%A6%EF%BC%81%E5%85%A8%E5%AE%A4%E7%B3%BB%E7%B5%B1%E6%AB%83%E8%A6%8F%E5%8A%83-040233676.html",
+          "time": "2026-07-02 12:02:33",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "台中直飛成都、青島、沖繩 暑假旅遊熱度飆升",
+          "url": "https://n.yam.com/Article/20260702554175",
+          "time": "2026-07-02 12:00:00",
+          "publisher": "蕃新聞→互傳媒",
+          "severity": null
+        },
+        {
+          "title": "關鍵時刻不缺席！臺中市政府社會局7大服務守護弱勢一輩子",
+          "url": "https://n.yam.com/Article/20260702447266",
+          "time": "2026-07-02 12:00:00",
+          "publisher": "蕃新聞→台灣好新聞",
+          "severity": null
+        },
+        {
+          "title": "中市推動外籍看護工休假期間使用臨短托服務　減輕身障家庭照顧壓力",
+          "url": "https://n.yam.com/Article/20260702756444",
+          "time": "2026-07-02 12:00:00",
+          "publisher": "蕃新聞→台灣好新聞",
+          "severity": null
+        },
+        {
+          "title": "台中攜手AIT辦無人載具論壇 打造下一座護國神山產業鏈",
+          "url": "https://n.yam.com/Article/20260702180569",
+          "time": "2026-07-02 12:00:00",
+          "publisher": "蕃新聞→創新聞",
+          "severity": null
+        },
+        {
+          "title": "台中寬頻申裝優惠戰開打！大台中數位推出「萬元影音回饋方案」",
+          "url": "https://n.yam.com/Article/20260702598305",
+          "time": "2026-07-02 12:00:00",
+          "publisher": "蕃新聞→獨家報導",
+          "severity": null
+        },
+        {
+          "title": "李中愛台中溫馨推薦 2026台中電影Fun-In季",
+          "url": "https://n.yam.com/Article/20260702229681",
+          "time": "2026-07-02 12:00:00",
+          "publisher": "蕃新聞→波新聞",
+          "severity": null
+        },
+        {
+          "title": "打造台灣下一座護國神山　中市府攜手AIT辦無人載具論壇",
+          "url": "https://n.yam.com/Article/20260702763631",
+          "time": "2026-07-02 12:00:00",
+          "publisher": "蕃新聞→台灣好新聞",
+          "severity": null
+        },
+        {
+          "title": "2026台中自動化工業展及AI機器人應用展開幕 市長盧秀燕：持續打造AI智慧製造重鎮",
+          "url": "https://n.yam.com/Article/20260702217118",
+          "time": "2026-07-02 12:00:00",
+          "publisher": "蕃新聞→鴨鴨新聞",
+          "severity": null
+        },
+        {
+          "title": "影／台中攜手AIT辦無人載具論壇　盧秀燕：以台中為軸心打造下一座護國神山",
+          "url": "https://n.yam.com/Article/20260702577076",
+          "time": "2026-07-02 12:00:00",
+          "publisher": "蕃新聞→互傳媒",
+          "severity": null
+        },
+        {
+          "title": "中市府攜手AIT辦無人載具論壇　集產官學研聚焦國際市場趨勢",
+          "url": "https://n.yam.com/Article/20260702202221",
+          "time": "2026-07-02 12:00:00",
+          "publisher": "蕃新聞→台灣好報",
+          "severity": null
+        },
+        {
+          "title": "影／臺中市傳統畫藝協會會員聯展　八卦山大佛藝廊展出多元水墨之美",
+          "url": "https://n.yam.com/Article/20260702495283",
+          "time": "2026-07-02 12:00:00",
+          "publisher": "蕃新聞→互傳媒",
+          "severity": null
+        },
+        {
+          "title": "攜手AIT辦無人載具論壇　盧秀燕：以台中為軸心打造下一座護國神山",
+          "url": "https://n.yam.com/Article/20260702831189",
+          "time": "2026-07-02 12:00:00",
+          "publisher": "蕃新聞→觀傳媒",
+          "severity": null
+        },
+        {
+          "title": "台中市食安處首波公布兩業者超標油品流向　跨局處突擊賣場全面回收下架",
+          "url": "https://n.yam.com/Article/20260702196120",
+          "time": "2026-07-02 12:00:00",
+          "publisher": "蕃新聞→觀傳媒",
+          "severity": "red"
+        },
+        {
+          "title": "696組茶樣角逐！115年度台中市優質梨山茶評鑑 農友黃名村勇奪特等獎",
+          "url": "https://n.yam.com/Article/20260702142461",
+          "time": "2026-07-02 12:00:00",
+          "publisher": "蕃新聞→波新聞",
+          "severity": null
+        },
+        {
+          "title": "中市民政局勇奪希朵獎雙獎 《大川原夢之旅》　見證尋根圓夢與性平改革",
+          "url": "https://n.yam.com/Article/20260702168993",
+          "time": "2026-07-02 12:00:00",
+          "publisher": "蕃新聞→觀傳媒",
+          "severity": null
+        },
+        {
+          "title": "台中市遙控無人機禁飛區域新增慈濟醫院等41處　違規進入將開罰",
+          "url": "https://n.yam.com/Article/20260702890384",
+          "time": "2026-07-02 12:00:00",
+          "publisher": "蕃新聞→觀傳媒",
+          "severity": "yellow"
+        },
+        {
+          "title": "幫產業爭活路！何欣純出席台中無人機論壇 曝法案週五送委員會",
+          "url": "https://www.ettoday.net/news/20260702/3193894.htm",
+          "time": "2026-07-02 11:53:00",
+          "publisher": "ETtoday",
+          "severity": null
+        },
+        {
+          "title": "台中豐原田心路右轉豐原大道封閉許久 謝志忠要求今下午先開放",
+          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5491263",
+          "time": "2026-07-02 11:42:45",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "37年歷史台中中山堂 化身「歌劇魅影」、邀親子解謎搗蛋鬼事件",
+          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5491243",
+          "time": "2026-07-02 11:39:51",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "[TaichungBun] [閒聊] 台中推薦的風水地理師",
+          "url": "https://www.ptt.cc/bbs/TaichungBun/M.1782962461.A.6DF.html",
+          "time": "2026-07-02 11:21:01",
+          "publisher": null,
+          "severity": null
+        },
+        {
+          "title": "台中國際機場暑假再增3航線 華航沖繩線8/13起增開加班機",
+          "url": "https://news.nextapple.com/eattravel/20260702/79FF2BC336F7FE5CDE3E11C018C4BD54",
+          "time": "2026-07-02 11:20:12",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "耕水中運動開花結果！中市打造完整培育體系 世界摘牌、亞運培訓接連傳捷報",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KTVhpQk4zWXc2UWM1TVlRRUtqTGtDYlBtM3JtTFZTTDhvdVR3V0JnWFIzaXFYV1NNWkdFOHB2MGVrVHZ2MDVqTEtGbjlTUXcyR1FUVlo0U2FHUTBFb01MbHgwTDNHUQ?oc=5",
+          "time": "2026-07-02 11:17:00",
+          "publisher": "Google News→新華報導",
+          "severity": null
+        },
+        {
+          "title": "台中市政府與美國在台協會（AIT）共同舉辦2026台中無人機產業與海外商機論，台中市長盧秀燕、AIT處長谷立言、立法院副院長江啟臣、立委何欣純等人出席。盧說，中部擁有無人機生產製造研發的五大產業鏈，中央應該更重視、把更多資源放到台中為主的區塊。",
+          "url": "https://udn.com/news/story/6656/9602177?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-02 11:15:41",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "AIT、台中市政府攜手舉辦無人機論壇 盧秀燕：中央應該更重視中部",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xdWFFbWhsZ1pOUm1LVzhzWHl4cGdpYmIzWC1pZ2s5c0FHRHA3VkxyQlhBdXdtZWpRbG9oNWlSZkFOYUZwQWR3cnpyaFVyM1dh0gFWQVVfeXFMUE0taHRjV3N2dW5TSWlqZFdpMENyNU43eWFzcVlYNDQzeTgyeEhkdWRHdWR0SXprbGNlenI5a0lQMGZCRmp5SnlMUmZVS2k1V1g0Mjhrd0E?oc=5",
+          "time": "2026-07-02 11:06:18",
+          "publisher": "Google News→UDN",
+          "severity": "yellow"
+        },
+        {
+          "title": "偷拍警花前女友性愛片！台中渣警遭判刑8月…二分局：已記2大過、免職",
+          "url": "https://tw.news.yahoo.com/%E5%81%B7%E6%8B%8D%E8%AD%A6%E8%8A%B1%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%80%A7%E6%84%9B%E7%89%87-%E5%8F%B0%E4%B8%AD%E6%B8%A3%E8%AD%A6%E9%81%AD%E5%88%A4%E5%88%918%E6%9C%88-%E4%BA%8C%E5%88%86%E5%B1%80-%E5%B7%B2%E8%A8%982%E5%A4%A7%E9%81%8E-%E5%85%8D%E8%81%B7-025700992.html",
+          "time": "2026-07-02 10:57:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "問題油流向 中市府：星級酒店、食品廠等224家業者",
+          "url": "https://tw.news.yahoo.com/%E5%95%8F%E9%A1%8C%E6%B2%B9%E6%B5%81%E5%90%91-%E4%B8%AD%E5%B8%82%E5%BA%9C-%E6%98%9F%E7%B4%9A%E9%85%92%E5%BA%97-%E9%A3%9F%E5%93%81%E5%BB%A0%E7%AD%89224%E5%AE%B6%E6%A5%AD%E8%80%85-105428752.html",
+          "time": "2026-07-02 10:54:28",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "中聯大豆沙拉油致癌物超標 中市府稽查下架情形 (圖)",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%AF%E5%A4%A7%E8%B1%86%E6%B2%99%E6%8B%89%E6%B2%B9%E8%87%B4%E7%99%8C%E7%89%A9%E8%B6%85%E6%A8%99-%E4%B8%AD%E5%B8%82%E5%BA%9C%E7%A8%BD%E6%9F%A5%E4%B8%8B%E6%9E%B6%E6%83%85%E5%BD%A2-%E5%9C%96-105404373.html",
+          "time": "2026-07-02 10:54:04",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "台中男慣性家暴！妻抱9個月女兒遭痛毆 網怒肉搜…當事人緊急道歉",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%94%B7%E6%85%A3%E6%80%A7%E5%AE%B6%E6%9A%B4-%E5%A6%BB%E6%8A%B19%E5%80%8B%E6%9C%88%E5%A5%B3%E5%85%92%E9%81%AD%E7%97%9B%E6%AF%86-%E7%B6%B2%E6%80%92%E8%82%89%E6%90%9C-%E7%95%B6%E4%BA%8B%E4%BA%BA%E7%B7%8A%E6%80%A5%E9%81%93%E6%AD%89-024800415.html",
+          "time": "2026-07-02 10:48:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "致癌沙拉油已流入市面2個月 中市衛生局：將公布流向",
+          "url": "https://tw.news.yahoo.com/%E8%87%B4%E7%99%8C%E6%B2%99%E6%8B%89%E6%B2%B9%E5%B7%B2%E6%B5%81%E5%85%A5%E5%B8%82%E9%9D%A22%E5%80%8B%E6%9C%88-%E4%B8%AD%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80-%E5%B0%87%E5%85%AC%E5%B8%83%E6%B5%81%E5%90%91-024715724.html",
+          "time": "2026-07-02 10:47:15",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "高雄「全國最大里」1拆4 里民證件改不改霧煞煞",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5491155",
+          "time": "2026-07-02 10:33:34",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "AIT攜手台中市府共辦無人載具論壇 江和樹：台中應把握台美合作契機 爭取國際訂單落地",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5abXE3M05xXzI3dlhWOUlqbUZKZ3BSaXFJamtBZFNuWHByYzRvY2FJQURMbTR5cm1heDJoVjdlNmxibEUwNmVZdG5JSGdoQUl4VTY2WnU5RW1YUQ?oc=5",
+          "time": "2026-07-02 10:23:00",
+          "publisher": "Google News→新華報導",
+          "severity": null
+        },
+        {
+          "title": "台中市政府與美國在台協會（AIT）今天共同舉辦2026台中無人載具產業與海外商機論壇，民進黨台中市長參選人何欣純也受邀出席，她表示無人機產業關乎台中產業升級，非常希望特別條例可以通過，據她了解，本周五立院就會處理不同版本的無人機條例。",
+          "url": "https://udn.com/news/story/124652/9601846?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-02 10:04:48",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "台中慈濟幹細胞移植成功 高齡骨髓瘤婦人慶重生",
+          "url": "https://health.ltn.com.tw/article/breakingnews/5491025",
+          "time": "2026-07-02 09:47:17",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "呼叫閨蜜！「三麗鷗甜心復古快閃店」空降台中中友百貨！7/4酷洛米驚喜現身，掀起粉紅懷舊風暴！",
+          "url": "https://tw.news.yahoo.com/%E5%91%BC%E5%8F%AB%E9%96%A8%E8%9C%9C-%E4%B8%89%E9%BA%97%E9%B7%97%E7%94%9C%E5%BF%83%E5%BE%A9%E5%8F%A4%E5%BF%AB%E9%96%83%E5%BA%97-%E7%A9%BA%E9%99%8D%E5%8F%B0%E4%B8%AD%E4%B8%AD%E5%8F%8B%E7%99%BE%E8%B2%A8-7-4%E9%85%B7%E6%B4%9B%E7%B1%B3%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB-091753210.html",
+          "time": "2026-07-02 09:17:53",
+          "publisher": "Yahoo新聞",
+          "severity": null
         }
       ],
       "comments": []
@@ -9831,1471 +11259,15 @@
       "comments": []
     },
     {
-      "title": "台中地方動態",
-      "city": "台中",
-      "place": "台中市中區",
-      "level": "red",
-      "news_count": 206,
-      "comment_count": 0,
-      "negativity_pct": 4,
-      "is_urgent": false,
-      "urgency_score": 230,
-      "news_articles": [
-        {
-          "title": "出國免擠桃機！台中機場暑假加碼3航線 飛這「度假勝地」還推加班機",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5492277",
-          "time": "2026-07-03 08:22:48",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "中市府力挺漁業發展 攜手臺中區漁會表揚85位模範漁民",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hc2hiTi02YjB4bTZiYzZsV1kzVGJiR1ZyVzFxMlNDYWNGUU5LejFiVXJiR20teDg1ZjBkNXhkN3RzYlhZVkExWV85bnNuSGhNeVZqS0ZsWQ?oc=5",
-          "time": "2026-07-03 07:48:45",
-          "publisher": "Google News→焦點時報",
-          "severity": null
-        },
-        {
-          "title": "中市府力挺漁業發展 攜手臺中區漁會表揚85位模範漁民",
-          "url": "https://focus.586.com.tw/2026/07/03/p393982/",
-          "time": "2026-07-03 07:48:45",
-          "publisher": "焦點時報",
-          "severity": null
-        },
-        {
-          "title": "中市府力挺漁業發展 攜手臺中區漁會表揚85位模範漁民",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3Y3J5dElxSC14Y1gxaEUyUHNTOGRNN1BXVmdVNG9RWFlFc3Fwd2NVTk9JZnF1NzBndTA3QTNjRE1oVlFaUWRkcWllQWxCTmFTb3c?oc=5",
-          "time": "2026-07-03 07:48:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "[TaichungBun] [資訊］台中文化中心-兒童週末才藝班",
-          "url": "https://www.ptt.cc/bbs/TaichungBun/M.1783032544.A.4BE.html",
-          "time": "2026-07-03 06:49:04",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "島語台中店今11:00開放訂位！搶3個月座位技巧、規則、平台全攻略 | 美食旅遊 | 生活",
-          "url": "https://www.nownews.com/news/6852713",
-          "time": "2026-07-03 05:38:50",
-          "publisher": "NOWnews今日新聞",
-          "severity": null
-        },
-        {
-          "title": "《台中》辦論壇卻卡預算 盧秀燕、江啟臣挨批「雙面刀鬼」",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fNTFvcE5EOVdJdjFYWERoeHlkMlV3Snpqa0hlRXh4OHRmNGJVUFFYUVhRdXQ0QWwzWjJwZnNKS2FoSnpFSFNPb0NLSkxYenFXa3VESk9FZEdjekXSAWBBVV95cUxQR2VPMDVpZ0I0Y3kwZF9rNjhMSGpyTV9BMl9nZGNFT3dYUU9OaW5USnpLY1pzTEJCaUdxc1VfOTR1UjUwbG1VclUtejBkVjZUTTA1Y2xKcDlSRkpiY2xZNS0?oc=5",
-          "time": "2026-07-03 05:30:00",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "詐團設圈套 收貨款帳戶連虛幣平台／台中貴婦匯2500萬 警苦勸攔阻",
-          "url": "https://news.ltn.com.tw/news/society/paper/1761170",
-          "time": "2026-07-03 05:30:00",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "中聯致癌油 中市府︰未流入校園",
-          "url": "https://news.ltn.com.tw/news/Taichung/paper/1761175",
-          "time": "2026-07-03 05:30:00",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "《台中》辦論壇卻卡預算 盧秀燕、江啟臣挨批「雙面刀鬼」",
-          "url": "https://news.ltn.com.tw/news/Taichung/paper/1761174",
-          "time": "2026-07-03 05:30:00",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "中聯致癌油 中市府︰未流入校園",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oaS1pd2ZzRV9vMWk3NXBXd29wOWFtUmdEaHBoaUlLOW5qcFlHVnZ3VHBmT2IzYmR1UmtZM3R5bG9lNktydXFNWWR0VkR3N2tzNUlUX0lWa1N5S3PSAWBBVV95cUxORlJZX0dVVjZrY1VfWEw4WU92UjNBMmhRbk1GbGk1M201SFV6WnJHS3ZQakc0WGp0S0c3S0x1VGUzZ3RiUWVsZlUzMXhSXzg5c1FhQTN0TGtKMEVuSGJ0REQ?oc=5",
-          "time": "2026-07-03 05:30:00",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "台中 偷拍女友性愛片 警記過免職",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD-%E5%81%B7%E6%8B%8D%E5%A5%B3%E5%8F%8B%E6%80%A7%E6%84%9B%E7%89%87-%E8%AD%A6%E8%A8%98%E9%81%8E%E5%85%8D%E8%81%B7-201000600.html",
-          "time": "2026-07-03 04:10:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "台中食安處公布兩業者超標油品流向 全面下架",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E9%A3%9F%E5%AE%89%E8%99%95%E5%85%AC%E5%B8%83%E5%85%A9%E6%A5%AD%E8%80%85%E8%B6%85%E6%A8%99%E6%B2%B9%E5%93%81%E6%B5%81%E5%90%91-%E5%85%A8%E9%9D%A2%E4%B8%8B%E6%9E%B6-183632443.html",
-          "time": "2026-07-03 02:36:32",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "菇筍豚香匯聚台中風味 「花開盛宴」菜色搶先亮相",
-          "url": "https://tw.news.yahoo.com/%E8%8F%87%E7%AD%8D%E8%B1%9A%E9%A6%99%E5%8C%AF%E8%81%9A%E5%8F%B0%E4%B8%AD%E9%A2%A8%E5%91%B3-%E8%8A%B1%E9%96%8B%E7%9B%9B%E5%AE%B4-%E8%8F%9C%E8%89%B2%E6%90%B6%E5%85%88%E4%BA%AE%E7%9B%B8-183557672.html",
-          "time": "2026-07-03 02:35:57",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "中市府頒發希朵獎 盧秀燕表揚16優勝機關推動性平有成",
-          "url": "https://n.yam.com/Article/20260703559291",
-          "time": "2026-07-03 02:17:28",
-          "publisher": "蕃新聞→大成報",
-          "severity": null
-        },
-        {
-          "title": "亞尼克台中旗艦店歡慶改裝開幕7/1起「百元生乳捲」連3天熱力開搶",
-          "url": "https://n.yam.com/Article/20260703108034",
-          "time": "2026-07-03 02:17:28",
-          "publisher": "蕃新聞→大成報",
-          "severity": null
-        },
-        {
-          "title": "攜手AIT辦無人載具論壇 盧秀燕期許以台中為軸心 打造下一座護國神山",
-          "url": "https://n.yam.com/Article/20260703181821",
-          "time": "2026-07-03 02:17:28",
-          "publisher": "蕃新聞→大成報",
-          "severity": null
-        },
-        {
-          "title": "中市府頒發希朵獎 盧秀燕表揚16優勝機關推動性平有成",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03S0JNM19BTzBSMlYyVTlDS2ZfWXByTzN5ME91OUNZeUdUNzVyVlcyRGtOSmV5UjdWYVBCRm4wVkgwd3N0U0JVak00NWJSd0tFa0djZmtnam5ZYVZlOE1QUE1qdXR4WlA5WnpreldXMm8?oc=5",
-          "time": "2026-07-03 01:39:12",
-          "publisher": "Google News→大成報",
-          "severity": null
-        },
-        {
-          "title": "中市府頒發希朵獎 盧秀燕表揚16優勝機關推動性平有成 - 生活新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUUg3aGlCdHhEQnk2dERJcklZd3p0N1F6ZUpoZl9MM1hnUDVWa0FEbFNiWm8tVUowbWFJNlhXeFFXNUh6ZGIxNW5MLW9XMHE5emh1cmpRMG1LcUZkR2ZSOVFWajVRb2RDLWxuWXJDY196dHNkYUNyVk12d1pyNUIyTDBLcVo0Z25mS0NDZg?oc=5",
-          "time": "2026-07-03 01:32:37",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "中市府頒發希朵獎 盧秀燕表揚16優勝機關推動性平有成",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3bFhvTHVlVUhOWUhPSzUzbUZNQUI5czNkZ19HeldYYUYwSk94bUZLdFB3Q2lXYktHVS1BSzg5S2xMWDJsc25ZQ2wyLVFrSk10cWc?oc=5",
-          "time": "2026-07-03 01:32:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "攜手AIT辦無人載具論壇 盧秀燕期許以台中為軸心 打造下一座護國神山",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83OHhNLUVCcUhRdWRTNlJ3N2pUQ3BWSlNpWTkxTzVJSzUyOXBqcGNfR3pjMHd2TWRXTGM0LTVpWW03QkpWSTBBeFFZdi1qNmVycUE?oc=5",
-          "time": "2026-07-03 01:21:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "2026台中自動化工業展及AI機器人應用展開幕",
-          "url": "https://tw.news.yahoo.com/2026%E5%8F%B0%E4%B8%AD%E8%87%AA%E5%8B%95%E5%8C%96%E5%B7%A5%E6%A5%AD%E5%B1%95%E5%8F%8Aai%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%87%89%E7%94%A8%E5%B1%95%E9%96%8B%E5%B9%95-170649176.html",
-          "time": "2026-07-03 01:06:49",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "696組茶樣角逐115年台中市優質梨山茶評鑑",
-          "url": "https://tw.news.yahoo.com/696%E7%B5%84%E8%8C%B6%E6%A8%A3%E8%A7%92%E9%80%90115%E5%B9%B4%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%84%AA%E8%B3%AA%E6%A2%A8%E5%B1%B1%E8%8C%B6%E8%A9%95%E9%91%91-170606066.html",
-          "time": "2026-07-03 01:06:06",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "2026台中自動化工業展及AI機器人應用展開幕盧秀燕強調持續打造AI智慧製造重鎮| 王秀禾 | 地方新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIN1V4V2Vyd3R3QnVpZmtDY3NGVVIyZHowUlRka2tLRTZKY18tQjBiei0zTWNjYTZMTnNsZGlzQjFWMXp3SzZEWE4xcU9Odw?oc=5",
-          "time": "2026-07-03 00:31:04",
-          "publisher": "Google News→風傳媒",
-          "severity": null
-        },
-        {
-          "title": "中市民政局勇奪希朵獎雙獎《大川原夢之旅》見證尋根圓夢與性平改革- 政府消息新聞- PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1hrZW1GaWhoQzR3UGlxeFJXNjdtcEtmT3YzWERtV0dDUHpTZHo5bFZEUXhaSVB6RG1xQ3JKakhMOFZCYWliWFBhR1pjU09KRHFYTWRCWlpjSzZZdEVnRHlTY1pnOVlIZEpPSGhmWjc5dGs0YkhGaWl6QnlkRXpGT0dJbVBqa3NLNlJJ?oc=5",
-          "time": "2026-07-02 23:44:11",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "臺中市府與AIT！ 舉辦「無人載具論壇」登場",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-07-02/2395153.html",
-          "time": "2026-07-02 22:50:30",
-          "publisher": "壹電視",
-          "severity": null
-        },
-        {
-          "title": "繼台中市長盧秀燕之後，桃園市長張善政今晚應立委柯志恩邀請到高雄逛夜市、吃美食，兩人在六合夜市大啖海產粥、炒花枝及烏魚子等著名美食，受到攤商與遊客熱情歡迎，不時被要求合照或簽名留念。張善政說，桃園六和商圈跟高雄六合夜市呼應，「六六大順」；柯志恩則碎念說，她要打包沒吃完的美食，「帶回家給老公吃」。",
-          "url": "https://udn.com/news/story/124652/9603768?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-02 22:50:26",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "台中自動化工業暨 AI 機器人應用展開幕 盧秀燕：打造AI 智慧製造重鎭",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OTUdVUXZjN3F3M0dVMkI4RkU2MDBBRFhjOEFSelI2VUFjSmxzVlhXcnVxM2JWTkVUUk5jdTNzZ0tSdWxEaGdfZks1dFoxN3p0NFJ0ZmVhSkwtMlh1LVFUODNxUGVTMEdKN3IxQ0hobE53bXFaNFJsM9IBYEFVX3lxTFBRS1Z3cDF4OWRQR2kwNjhlTXpNbmw5dl92cXlEX29IbUI4NDM4NjJCUVJqOGxsT1VJcHY2eTRsbnYyRTdqUUlMSFhta1FtdEExemE4MVZMNnVmZmJXUGRlaw?oc=5",
-          "time": "2026-07-02 22:09:48",
-          "publisher": "Google News→經濟日報",
-          "severity": null
-        },
-        {
-          "title": "台中自動化工業暨 AI 機器人應用展開幕 盧秀燕：打造AI 智慧製造重鎭",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qSC1oSjMtZEhZVXVHV0J2OWRzRHFPeW5sMVZIdUFoTG1NaFJvTGJGLWdDbHhSUURiMzJRbTV6T1R0NXVKVUg1NFN2SEFpVkk0aFpUa05acFFETlRxV1p0cHVaMlI3bzdETmtTMWNIS3paYnV2U3laQmxGanTSAV9BVV95cUxOZ2VqSGtYa3pqb1VfVWFYM3NXVEJUcnJpWGlfMlFlNmpTQ2I3LUlicFM2dFJBMkhPaEpKNTNkMjE5QWpaM1prNndHOUVudjZDSHQtaWdqT2pMVk45bGVGOA?oc=5",
-          "time": "2026-07-02 22:08:47",
-          "publisher": "Google News→經濟日報",
-          "severity": null
-        },
-        {
-          "title": "台中自動化工業暨 AI 機器人應用展開幕 盧秀燕：打造AI 智慧製造重鎭",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KMVhMb2RpekV3OXJ3eWN1UGhzbnJDb2xNYVY1bjBBdDAzV25ObjVaX2xaeVNCMTl3ZWd2bGEwQ0ZDdXRMUHRvcWhKQTI5dW94bXloYTg1VVNSQdIBX0FVX3lxTE5nZWpIa1hrempvVV9VYVgzc1dUQlRycmlYaV8yUWU2alNDYjctSWJwUzZ0UkEySE9oSko1M2QyMTlBalozWms2d0c5RW52NkNIdC1pZ2pPakxWTjlsZUY4?oc=5",
-          "time": "2026-07-02 22:08:47",
-          "publisher": "Google News→經濟日報",
-          "severity": null
-        },
-        {
-          "title": "台中自動化工業暨AI機器人應用展開幕 盧秀燕：打造AI 智慧製造重鎭",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rMUthdkdSOU5zUm85M0lOdDAtYVFDTkZuTUhHeFdBa0FHdXVyR2ZvNlpKX0RpUlVrTEFMZ3VXWWV6V2pXdE0tTGYzVWItb0x20gFWQVVfeXFMUDh5MFNqdGNqMjZwbFA1TkRGN2k1ODVIbHZGUnZEYUlhVXZDMEFaX281b1ZXWUM0MGpPd2t6M3ZwMXdvYzRLdjZjelR3QjlSSzd1NmhSaHc?oc=5",
-          "time": "2026-07-02 22:08:11",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "7/2 今彩539頭獎開2注！ 800萬獎落台東、台中",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5492113",
-          "time": "2026-07-02 22:08:07",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "2026台中自動化工業展及AI機器人應用展開幕 盧秀燕：持續打造AI智慧製造重鎮",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDS1dFWW03Z2lDZElsSUlvWG9DQVdfaVp5UGJRdnUzR3NKdWhQZlpPckE0WXEwVHh6RTc5Skp3WHZmaFdHREFoNHdjbDdwQQ?oc=5",
-          "time": "2026-07-02 21:50:47",
-          "publisher": "Google News→tc-news.com.tw",
-          "severity": null
-        },
-        {
-          "title": "[HatePolitics] [討論] 台中116年總預算未包含捷運追加預算",
-          "url": "https://www.ptt.cc/bbs/HatePolitics/M.1782999890.A.501.html",
-          "time": "2026-07-02 21:44:50",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "無人載具論壇只有藍營名牌有名字 民進黨議員批台中市府大小眼",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5491964",
-          "time": "2026-07-02 21:41:57",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "台中市遙控無人機禁飛區域新增慈濟醫院等41處 違規進入將開罰",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%81%99%E6%8E%A7%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%A6%81%E9%A3%9B%E5%8D%80%E5%9F%9F%E6%96%B0%E5%A2%9E%E6%85%88%E6%BF%9F%E9%86%AB%E9%99%A2%E7%AD%8941%E8%99%95-%E9%81%95%E8%A6%8F%E9%80%B2%E5%85%A5%E5%B0%87%E9%96%8B%E7%BD%B0-130618562.html",
-          "time": "2026-07-02 21:06:18",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "中市民政局勇奪希朵獎雙獎 《大川原夢之旅》 見證尋根圓夢與性平改革",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E6%B0%91%E6%94%BF%E5%B1%80%E5%8B%87%E5%A5%AA%E5%B8%8C%E6%9C%B5%E7%8D%8E%E9%9B%99%E7%8D%8E-%E5%A4%A7%E5%B7%9D%E5%8E%9F%E5%A4%A2%E4%B9%8B%E6%97%85-%E8%A6%8B%E8%AD%89%E5%B0%8B%E6%A0%B9%E5%9C%93%E5%A4%A2%E8%88%87%E6%80%A7%E5%B9%B3%E6%94%B9%E9%9D%A9-130542604.html",
-          "time": "2026-07-02 21:05:42",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "琴聲傳愛 台中建國國小弦樂團赴投榮服處演出",
-          "url": "https://tw.news.yahoo.com/%E7%90%B4%E8%81%B2%E5%82%B3%E6%84%9B-%E5%8F%B0%E4%B8%AD%E5%BB%BA%E5%9C%8B%E5%9C%8B%E5%B0%8F%E5%BC%A6%E6%A8%82%E5%9C%98%E8%B5%B4%E6%8A%95%E6%A6%AE%E6%9C%8D%E8%99%95%E6%BC%94%E5%87%BA-125920965.html",
-          "time": "2026-07-02 20:59:20",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "中市遙控無人機禁飛區新增41處 違規將開罰",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E9%81%99%E6%8E%A7%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%A6%81%E9%A3%9B%E5%8D%80%E6%96%B0%E5%A2%9E41%E8%99%95-%E9%81%95%E8%A6%8F%E5%B0%87%E9%96%8B%E7%BD%B0-125627752.html",
-          "time": "2026-07-02 20:56:27",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "台美首辦無人機論壇 台中登場",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%BE%8E%E9%A6%96%E8%BE%A6%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%AB%96%E5%A3%87-%E5%8F%B0%E4%B8%AD%E7%99%BB%E5%A0%B4-125627561.html",
-          "time": "2026-07-02 20:56:27",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "暑假旅遊旺季 台中國際機場新增3航線",
-          "url": "https://tw.news.yahoo.com/%E6%9A%91%E5%81%87%E6%97%85%E9%81%8A%E6%97%BA%E5%AD%A3-%E5%8F%B0%E4%B8%AD%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4%E6%96%B0%E5%A2%9E3%E8%88%AA%E7%B7%9A-125627016.html",
-          "time": "2026-07-02 20:56:27",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "中市民政局性平創作勇奪希朵獎雙獎",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E6%B0%91%E6%94%BF%E5%B1%80%E6%80%A7%E5%B9%B3%E5%89%B5%E4%BD%9C%E5%8B%87%E5%A5%AA%E5%B8%8C%E6%9C%B5%E7%8D%8E%E9%9B%99%E7%8D%8E-125627881.html",
-          "time": "2026-07-02 20:56:27",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台中敦富八街銜接大成街「敦富八橋」通車",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E6%95%A6%E5%AF%8C%E5%85%AB%E8%A1%97%E9%8A%9C%E6%8E%A5%E5%A4%A7%E6%88%90%E8%A1%97-%E6%95%A6%E5%AF%8C%E5%85%AB%E6%A9%8B-%E9%80%9A%E8%BB%8A-125627476.html",
-          "time": "2026-07-02 20:56:27",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "中市食安處首波公布兩業者超標油品流向 跨局處突擊賣場全面回收下架",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xVXZ6a0M1RjdJNkMyZU15Zml3a25QcjJwcEpMQ1c0R2htajg4d1FOTDh3eGM1SV9ValhEWGY5VUNBN0dIWVlZa3BNWnljcmJaMGc?oc=5",
-          "time": "2026-07-02 20:50:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": "red"
-        },
-        {
-          "title": "獨家／台中大里奇觀！冷氣排水管掛電桿 易短路走火",
-          "url": "https://news.ebc.net.tw/news/living/559340",
-          "time": "2026-07-02 20:44:00",
-          "publisher": "東森新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "牙醫診所勞資風險升高 台中公益講座解析職場霸凌、性騷擾與法遵重點",
-          "url": "https://www.thehubnews.net/archives/640416",
-          "time": "2026-07-02 20:41:00",
-          "publisher": "新頭條",
-          "severity": "yellow"
-        },
-        {
-          "title": "攜手AIT辦無人載具論壇 盧秀燕：以台中為軸心打造下一座護國神山",
-          "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNbmw3UlNDdk9EOG10aTdzU0t5ckJSM2NnVGxabWlsenkyeFlPSlRoaFJyaERRTmVyYU1JUHN3alhMZkEzMHlPbU1uT3h0djYteDU1Q2k1RlVfVlNLejVOek5RMkVzTGp5R0pxcUlGa1h0Q0gyNkh2aTUyb3BhZnRiNjRYWHZ4THBvdVo0a0l2dHB1UUZKRTQ4Q0ZSejk4a2NLLXZlLXZaazRUb1RIOV91aHNqcUVLanhaS1VFamdxZ0ZoYWIzUnpRODRHcHRoc0VYa0VjeUZMLXVWM2Zob1haeWhYNTgxY2o2eENaeFZHSV9XdTRjRmRUa2wwdkRJSzBlclFOOWY5eWsxaWxqcEFrQkdyb0pIdUE0TlA1MjNqNnhYSmFzYWtfZ1ZfSk5oSXdreVVLMWNEZk5PN1pyNzdMcFBXMnFHMmZVTHE3dEJUX2prZHo0WXg1RlFYUkdwa1ptY1oxMllxRU0yWVBuajVDVWdpVlhTZW9BU1lGakl3VlNtRWcyc3pwbjkxeGU0ZG9hZU80?oc=5",
-          "time": "2026-07-02 20:07:40",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "攜手AIT辦無人載具論壇 盧秀燕：以台中為軸心打造下一座護國神山",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ROER3UVliMG1Wek5QMFRFNzU2WjhLZ3NTMzFqZmRTUmo5ME05R3NNYmtNSl9lX2EydXpBcVhNMHJjN0tJdTA5TU1wWjRDSDdvR3J6Zy05Zw?oc=5",
-          "time": "2026-07-02 20:07:40",
-          "publisher": "Google News→觀傳媒",
-          "severity": null
-        },
-        {
-          "title": "台中國際機場暑假增3條新航線 觀旅局推登機證優惠",
-          "url": "https://www.cdns.com.tw/articles/1424263",
-          "time": "2026-07-02 20:06:19",
-          "publisher": "中華日報",
-          "severity": null
-        },
-        {
-          "title": "「苯駢芘」問題油災情擴大！中市跨局處清查下架 首波公布224知名業者踩雷",
-          "url": "https://newtalk.tw/news/view/2026-07-02/1044917",
-          "time": "2026-07-02 19:58:24",
-          "publisher": "新頭殼",
-          "severity": "red"
-        },
-        {
-          "title": "【社會局說明】網傳家庭暴力案件 中市府：已協助通報所在縣市確保安全",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40b01oazVsQi1WNEs0cnNKaVJQNFBsRV9fVmpnRy1VZkFhcUd3am9waEFLTXRjZmdIbExZWDQ3MEhYV1RzWExuUU5UM0J1cHlKb3dIdzdMa2RwZUd5QWcxeDNyR19sN0Fh?oc=5",
-          "time": "2026-07-02 19:57:00",
-          "publisher": "Google News→新華報導",
-          "severity": "yellow"
-        },
-        {
-          "title": "中市府代轉AIT處長谷立言出席台中無人機產業商機論壇致詞與AIT臉書貼文",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55dU1QSkVIZngzVll2SWstRS1RRk9QVDVqdVl1alBiNlhhUG5nR1pOTzZ5azdMWjhCaGloREp2RTZSSTdodGE2bWQ4aDFOMTg3dWZkTzJuY2xmZHFFSUE?oc=5",
-          "time": "2026-07-02 19:57:00",
-          "publisher": "Google News→新華報導",
-          "severity": null
-        },
-        {
-          "title": "問題油流向 中市府：星級酒店、食品廠等224家業者",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zUWw4ZUxvdzIxeXBsVkZTTFJEMGFYRVF1RklXQXBxR04wOEZ2elk0Vm1SY1JzSmItUmZFS1R3ajNwRU5pVnpTeUF0T1dkNDRjazZLag?oc=5",
-          "time": "2026-07-02 19:51:00",
-          "publisher": "東森新聞",
-          "severity": "red"
-        },
-        {
-          "title": "見證尋根圓夢與性平改革 中市民政局勇奪希朵獎雙獎 《大川原夢之旅》",
-          "url": "https://www.storm.mg/article/11146709",
-          "time": "2026-07-02 19:50:00",
-          "publisher": "風傳媒",
-          "severity": null
-        },
-        {
-          "title": "中市辦無人載具論壇 盧秀燕盼造護國神山",
-          "url": "https://www.cdns.com.tw/articles/1424239",
-          "time": "2026-07-02 19:43:30",
-          "publisher": "中華日報",
-          "severity": null
-        },
-        {
-          "title": "問題油流向 中市府：星級酒店、食品廠等224家業者",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiei0xYjhKR2QxTG5LWXBXam0tSVhQWVpnQnJPVFREZkVGeFVyR3VjNmtMRTdlRUtZTHdtaC1MSmIwQW9CSnI0b2ZTQm1PenE5Smc?oc=5",
-          "time": "2026-07-02 19:29:54",
-          "publisher": "Google News→放言Fount Media",
-          "severity": "red"
-        },
-        {
-          "title": "台中市政府與美國在台協會（AIT）今天共同主辦台中無人機論壇，是美台第一次合作舉辦無人機論壇，不分藍綠白的台中政要盡皆出席，不過做為主人的盧秀燕中途離場，引起外界議論。副市長鄭照新指出，盧離場是在和AIT處長谷立言持續交流，外界無須過多揣測。",
-          "url": "https://udn.com/news/story/6656/9603356?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-02 18:55:57",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "問題油流向中市府：星級酒店、食品廠等224家業者- 地方",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00Sk9VdWV1UlNURTJfVU10VWFkVFdqVXdHTmNDdGtaNWhQMWs4Q0lfMGxIQzd4VHJ3M0R6cWthYnotSTRYeVNsRmFBRk1UZU9aaHR6Y0tYTXF4ZkRISFNDNEhDMGp6cmhsTm5jeGNn?oc=5",
-          "time": "2026-07-02 18:54:28",
-          "publisher": "Google News→華視新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "中聯大豆沙拉油致癌物超標 中市府稽查下架情形 (圖)",
-          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPMHI1ajVBWlkxUU43S2pCeUpIdy1VNFdUNHZrU3NjeTlKYzFpWXczY0IzeXZCQUQ1VjZUaTdZT0lBN3lIZkY5WUNRdFhyTTJkRHVGTXR2dEtsRjQ5TWlyMGpTNUtielZyc04zdDZuWWYzemNMelZ4ZGU2Z2w5LWZQbjFsVDhkVVdqaGJIbmFEdEdPcHBadVR2Ylctb3lMemh6UzJKTk10UTNwQ01HY0IyVVV0aXVvcm9iclpoZEhYaDNMOFVTWG9jU1lxeTVoTzRpOEV3dDByM0MybmlIeVVSSGh2SEtLMG1CUVQ3MmVEa1BtMFpuaDh6ODc2cVhtYjBPcTl5aUhjSHB0UkR1SmRlMVg3OE1WZmx1ZXVvUVRyeFlaS2x6QXNRWm9IVTQ5NmxUYmFnb0tZS1Fqbm1aS01aSnNucVpXQlc3aEZBNGo4VUR2ZHYxWVA4UU95dElZdw?oc=5",
-          "time": "2026-07-02 18:54:04",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "亞尼克台中旗艦店重新開幕 YTM盲盒開抽延長13天",
-          "url": "https://news.nextapple.com/lifestyle/20260702/DAB680C2F8E6B88C95724D29CFF3B188",
-          "time": "2026-07-02 18:51:50",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "大豆沙拉油檢出苯駢芘超標 中市食安處公布首波兩業者油品流向",
-          "url": "https://tw.news.yahoo.com/%E5%A4%A7%E8%B1%86%E6%B2%99%E6%8B%89%E6%B2%B9%E6%AA%A2%E5%87%BA%E8%8B%AF%E9%A7%A2%E8%8A%98%E8%B6%85%E6%A8%99-%E4%B8%AD%E5%B8%82%E9%A3%9F%E5%AE%89%E8%99%95%E5%85%AC%E5%B8%83%E9%A6%96%E6%B3%A2%E5%85%A9%E6%A5%AD%E8%80%85%E6%B2%B9%E5%93%81%E6%B5%81%E5%90%91-104218490.html",
-          "time": "2026-07-02 18:42:18",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "2026台中自動化工業展及AI機器人應用展開幕 盧秀燕強調持續打造AI智慧製造重鎮",
-          "url": "https://www.storm.mg/article/11146701",
-          "time": "2026-07-02 18:30:00",
-          "publisher": "風傳媒",
-          "severity": null
-        },
-        {
-          "title": "中市公布兩業者超標油品流向 賣場全面回收下架",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E5%85%AC%E5%B8%83%E5%85%A9%E6%A5%AD%E8%80%85%E8%B6%85%E6%A8%99%E6%B2%B9%E5%93%81%E6%B5%81%E5%90%91-%E8%B3%A3%E5%A0%B4%E5%85%A8%E9%9D%A2%E5%9B%9E%E6%94%B6%E4%B8%8B%E6%9E%B6-102728117.html",
-          "time": "2026-07-02 18:27:28",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "「最後一次握妳的手」台中49歲男前一晚與妻訣別 熟識里長震驚不捨",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5491810",
-          "time": "2026-07-02 18:17:18",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "台中辦無人機論壇 盧秀燕喊立院推條例卻力挺卡關黨版 民進黨台中市議會黨團總召周永鴻：呼籲的對象就在身邊，江啟臣應說清楚",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42NGUtZDVSUFB1TDdaRS0zZ2ZtZ2EzdnJZdGFXWVBZMmY5OHFBN0FIakdodEpwVmZLZl9QaU4xeE5rTkNTTGR3bUdIRHJ0TTFHQ0l6Vldqa2dSaHdiT25sbzJ1ck16OE5o?oc=5",
-          "time": "2026-07-02 17:59:18",
-          "publisher": "Google News→元丰傳媒",
-          "severity": "yellow"
-        },
-        {
-          "title": "酷洛米台中現身 三麗鷗快閃掀復古潮",
-          "url": "https://www.storm.mg/article/11146615",
-          "time": "2026-07-02 17:58:00",
-          "publisher": "風傳媒",
-          "severity": null
-        },
-        {
-          "title": "中市食安處首波公布兩業者超標油品流向 跨局處突擊賣場全面回收下架",
-          "url": "https://more-news.tw/656825/",
-          "time": "2026-07-02 17:53:04",
-          "publisher": "墨新聞",
-          "severity": "red"
-        },
-        {
-          "title": "2026台中自動化工業展及AI機器人應用展開幕 盧市長：持續打造AI智慧製造重鎮",
-          "url": "https://more-news.tw/656811/",
-          "time": "2026-07-02 17:42:19",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "696組茶樣角逐！ 115年度台中市優質梨山茶評鑑 農友黃名村勇奪特等獎",
-          "url": "https://more-news.tw/656796/",
-          "time": "2026-07-02 17:37:46",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "美國找台灣拚再工業化 江啟臣喊台中站C位：複製台積電神話 | 政治快訊 | 要聞",
-          "url": "https://www.nownews.com/news/6852682",
-          "time": "2026-07-02 17:37:32",
-          "publisher": "NOWnews今日新聞",
-          "severity": null
-        },
-        {
-          "title": "2026.07.02 17:03 台中大遠百超級年中慶 Passion Sisters妮可、貴貴、曼容7／5見面會登場",
-          "url": "https://www.mnews.tw/story/20260702nm021",
-          "time": "2026-07-02 17:37:22",
-          "publisher": "鏡新聞",
-          "severity": null
-        },
-        {
-          "title": "中市府頒發希朵獎 盧市長表揚16優勝機關推動性平有成",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84bkZacXlBekh2Mk1JUTFHUC1XTll6YzdoVE9JRzBjd1ZDRFNDZXF5VGdka29SYk1xZlE4a2xGV2hrbzV4VjdKSWp2S3d5aW9Na0E?oc=5",
-          "time": "2026-07-02 17:33:53",
-          "publisher": "Google News→taichung.gov.tw",
-          "severity": null
-        },
-        {
-          "title": "台中救護車載病患返家撞死騎士 駕駛一審判6月",
-          "url": "https://www.cna.com.tw/news/asoc/202607020269.aspx",
-          "time": "2026-07-02 17:32:58",
-          "publisher": "中央社",
-          "severity": "red"
-        },
-        {
-          "title": "中市民政局勇奪希朵獎雙獎 《大川原夢之旅》見證尋根圓夢與性平改革",
-          "url": "https://more-news.tw/656777/",
-          "time": "2026-07-02 17:30:17",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "以台中為軸心打造下一座護國神山 中市府攜手AIT辦無人載具論壇",
-          "url": "https://www.storm.mg/article/11146699",
-          "time": "2026-07-02 17:27:00",
-          "publisher": "風傳媒",
-          "severity": null
-        },
-        {
-          "title": "中市民政局勇奪希朵獎雙獎 《大川原夢之旅》見證尋根圓夢與性平改革",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10QlZ0Uy1YTHZHN1JTMXdmckRwZjJEWUI1cUdvM1VET2tPaEhIbk82LVZFeWxJY3BDT21IMFNQc1RZSnJqLUtjbHRGOVdhb2JXa3hFZ2Y1SDdUM1dQWkxkVlBLOThzYlk?oc=5",
-          "time": "2026-07-02 17:26:00",
-          "publisher": "Google News→新華報導",
-          "severity": null
-        },
-        {
-          "title": "菇筍豚香匯聚台中風味 「花開盛宴」千人宴菜色搶先亮相",
-          "url": "https://more-news.tw/656754/",
-          "time": "2026-07-02 17:24:27",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "台中玩劇場生活節將登場 結合實境解謎等展演 (圖)",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%8E%A9%E5%8A%87%E5%A0%B4%E7%94%9F%E6%B4%BB%E7%AF%80%E5%B0%87%E7%99%BB%E5%A0%B4-%E7%B5%90%E5%90%88%E5%AF%A6%E5%A2%83%E8%A7%A3%E8%AC%8E%E7%AD%89%E5%B1%95%E6%BC%94-%E5%9C%96-090954280.html",
-          "time": "2026-07-02 17:09:54",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台中玩劇場生活節將登場 邀民眾挑戰實境解謎",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%8E%A9%E5%8A%87%E5%A0%B4%E7%94%9F%E6%B4%BB%E7%AF%80%E5%B0%87%E7%99%BB%E5%A0%B4-%E9%82%80%E6%B0%91%E7%9C%BE%E6%8C%91%E6%88%B0%E5%AF%A6%E5%A2%83%E8%A7%A3%E8%AC%8E-090406697.html",
-          "time": "2026-07-02 17:04:06",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台中大遠百超級年中慶 Passion Sisters妮可、貴貴、曼容7／5見面會登場",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%A4%A7%E9%81%A0%E7%99%BE%E8%B6%85%E7%B4%9A%E5%B9%B4%E4%B8%AD%E6%85%B6-passion-sisters%E5%A6%AE%E5%8F%AF-%E8%B2%B4%E8%B2%B4-%E6%9B%BC%E5%AE%B97-090300515.html",
-          "time": "2026-07-02 17:03:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "中市府攜手AIT辦無人載具論壇 集產官學研聚焦國際市場趨勢",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT183SXFLano2bUxjVVhkR1U0TUxjdWlpMUcxSS1qY3h0QklCeVA4TjdMaXlCbGdua1Y1dXZOOVFoSWJxV0FzY0NTMm5FMjd3UUNaVlBBVDNRQ0FnNjZxeE85T3FCSjVoeXA4ZGVURjV3N19xZmlWX1FLNDZOa0MxRUZlNmVPU0ZQbGRlTllmanNDV00?oc=5",
-          "time": "2026-07-02 16:57:06",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "中市府攜手AIT辦無人載具論壇 集產官學研聚焦國際市場趨勢",
-          "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPNlhZSHJxekpKTUNsc3FrcDhiS1J5b2RHSloyOU94dkVhR3B0VF9XTUxNTmNwS3hZOVdlYUpjd2hid1VKS01KV2RyMWhRU1R3ZHNHUG1JSmJFQjAyY3ctY2JHVGF0RFA2V0s1Y0ZLUEEwenY2SmdEVVA5emYxdVl6elMtYTFHRDMxd3hHXzV1UGtYbWNzbW5hamFCY3BGU0FRQm1hMEZuMVhvdF9aenRkUkRocFRJZmZjNnpFSTdBdi1GUkYxaldBa0o4U29KM2hMTXQ1SnZ2VDZXR0NSeGdNYUpWRTMwa0Y5Yk1vWkZ0cjNBb0FQMDRxVVlDWTFvNkJPTG9oMC1NSDh2RjhKVTd6Z2F4MFYzem43UlMwRzdvWk5nMzAwVkN2dzVzSVVpVERDMTZtX3hPOXZrenlGalZwYXhEUW1oVkxVWmUzM2pUTmh0SkZubzJyQ3Q2UUs1blNOdjRvMXItTkM1M3lKQUZqaG5ZSVJLcUpjQ09heWtrVUFpQ1dz?oc=5",
-          "time": "2026-07-02 16:57:06",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "2026台中自動化工業展及AI機器人應用展開幕 市長盧秀燕：持續打造AI智慧製造重鎮",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oeF9US3NMblZzb2dkZGowUV9OcEctLVY4Zll1UFdib1RyNGxpM0ZxTHhnU00zMUxYNWQ4c1hva3E3ckpvR0piaU8xemZBU242RHc?oc=5",
-          "time": "2026-07-02 16:56:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "中市遙控無人機禁飛區域新增慈濟醫院等41處 | 青年日報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nbEt2eURQZE44OXRYN0EzeHR0N29EUGhCMGF6eWlBSjBKemVyTUlaU1dHalZDRW9ZcG5yWTBZUDZmZms0alM4U1ExYVVtbGl2UjFfVnVB?oc=5",
-          "time": "2026-07-02 16:39:55",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "台中警官偷拍警花女友！性愛片遭外流販售 他不認錯下場慘",
-          "url": "https://news.ebc.net.tw/news/society/559305",
-          "time": "2026-07-02 16:38:00",
-          "publisher": "東森新聞",
-          "severity": "red"
-        },
-        {
-          "title": "[TaichungBun] Fw: [情報] 7月2日起 台中YouBike新增4個站點",
-          "url": "https://www.ptt.cc/bbs/TaichungBun/M.1782981186.A.F46.html",
-          "time": "2026-07-02 16:33:06",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "打造台灣下一座護國神山 中市府攜手AIT辦無人載具論壇",
-          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPMVhYMG9saktGOU1wQVpTdndzN3I3TmptSHNya3VhRFFqZG9tdlpyR3EzOEV2LTk5ME9uTUFJUWhOeEpzSHZ0c0k3cFdFQl85RWtLaFdaMGhSUEhGMGUtZUlwYkFUNmkzeWVkQldBMTRfeGpOS2VyMFZRMVk2Sl9ZUVB6dE9SWVNObW1ZRzNXWG1ycGFkYlI2VGlZZTlSRUtLZWxvU3g2SVFqbFhnRW1zck81aTZOZ29nMWpFZXk5dHVCaVNZYTh5amdBZXJSTjRGSjA0ZDFoX1FqMlZjNXBTTUxIOVJYanlfSVBMdi1GX21RZUN5R2ZfN1A2ZGNlYkV0QnhLbXFRd0djS25qM29oY0NlTXJHNXBubTZwUWZfa0JjYV96MzhlUUlLR29JYklBSVBTT2UyQlVEeDUzVHhOUndLSExGSkpKOHJUM1NxLV9jS3Uyb1V2b1lHNERqck1tVnhMNEpTb2psdw?oc=5",
-          "time": "2026-07-02 16:29:41",
-          "publisher": "Google News→台灣好新聞",
-          "severity": null
-        },
-        {
-          "title": "中市府攜手AIT辦無人載具論壇 打造下一座護國神山",
-          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNOVQyVXdGVXc4T3FPb0NDRUJLZWFPdVZxYVpoWDlEU3ZfSVpUUldZNjJ3NzNvRmhRZ2xaOWZnWEUyTlhnRXkwRzdKalM3eDd0T1lvUlB0ZnpUMUE0c29vMl9GbHY4LUMycVJTaGY2TXJNc0drcG11cDh6QlBkd2x2RVNoZ2RRLWcxbGd6cl9zcm5tOV9ZRjc1V3NORkpucEd4VFZiRmhtQWpSN0ZiNldZdFZCZkluQTNlRUZYUDd0a0xORDA4YUxlUjhsYlRhYUlYS01iYnJoODVKWE0yLW1PejVZeFhCMl9VcmhSdVB6S3gweHlvdF9Nb0hoNVJTZlcyN3JoSGVBTDVGakJBd00xU2c2T1p0QjltUWx3LXlKVzZLZEQ5S2lqUTJrMUhDblM2eXNFSnR0dUVwTS1VT0g5RlBvSEdwV0VtbGc?oc=5",
-          "time": "2026-07-02 16:26:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "中市府攜手AIT辦無人載具論壇 打造下一座護國神山",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E5%BA%9C%E6%94%9C%E6%89%8Bait%E8%BE%A6%E7%84%A1%E4%BA%BA%E8%BC%89%E5%85%B7%E8%AB%96%E5%A3%87-%E6%89%93%E9%80%A0%E4%B8%8B-%E5%BA%A7%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1-082600140.html",
-          "time": "2026-07-02 16:26:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "中市遙控無人機禁飛區域新增慈濟醫院等41處",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E9%81%99%E6%8E%A7%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%A6%81%E9%A3%9B%E5%8D%80%E5%9F%9F%E6%96%B0%E5%A2%9E%E6%85%88%E6%BF%9F%E9%86%AB%E9%99%A2%E7%AD%8941%E8%99%95-082600280.html",
-          "time": "2026-07-02 16:26:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "打造台灣下一座護國神山 中市府攜手AIT辦無人載具論壇",
-          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOTGVQTURoNHNlcmtFcHpxVnk5bXdtWFllVlZiTm9WLWpzcTlSanlCM0pSZ2hzajZ3cnRFb3N1ZkVTVWpZNzBUdk1ERDNNWkNtaXdQM0t4eHhCd0pRZUVtcm5Idjl1Mzl2NVpkOXRIQUM0SHMyNmVwUHYtSGlUNl80bnNRSEpwcEZHQVhFZjFFSVBicXRJazAxd2xOcUxONjJJUDg3R3hldkdDZzduckg0UnNQcDRldWZkNXZNX0VSUWI5bUtSNlZVTXFPSDY4VXR3a3VZZmFPLWVqT1pEUy1VWFM4ZmVHdXNxalV5WFBicWg3c3BEQThVVGZWODhrSEhJU1dYcVl5MFVwNGxqZ3FadUlnVjhSWmtDMmllTkxGOWNMWVNDUWhUY2xFWk4xZ2VZODdvY2gwajZhaWF2SVFiZl9tMDktaFJwYk5hUF9pTFhHQlF3eHRDRHMyc3NoWGdJcGc?oc=5",
-          "time": "2026-07-02 16:23:29",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "賭輸直接跑？台中男運彩下注15萬留「假現金袋」失蹤 彩券行氣炸PO照片報警",
-          "url": "https://www.thehubnews.net/archives/640290",
-          "time": "2026-07-02 16:20:00",
-          "publisher": "新頭條",
-          "severity": "yellow"
-        },
-        {
-          "title": "台中國際機場直飛成都天府今啟航 移民署增派人力、推e-Gate提升通關效率",
-          "url": "https://www.thehubnews.net/archives/640292",
-          "time": "2026-07-02 16:20:00",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "出席台中無人機論壇 谷立言：美台關係從黃金時代邁向白金時代",
-          "url": "https://www.taisounds.com/news/content/71/265428",
-          "time": "2026-07-02 16:17:44",
-          "publisher": "太報",
-          "severity": null
-        },
-        {
-          "title": "影／台中攜手AIT辦無人載具論壇 盧秀燕：以台中為軸心打造下一座護國神山",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TS2dSemxvUDIya09TaDFnQ1U1U2xINXg2S24zby1wTUVIOTBzUnV5SlV3bW5SWXhVekFOaHJ1QUxGMjRXOFMxcEVuVWl5NFRoOEE?oc=5",
-          "time": "2026-07-02 16:12:25",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "攜手AIT辦無人載具論壇 盧市長：以台中為軸心打造下一座護國神山",
-          "url": "https://news.ebc.net.tw/news/living/559303",
-          "time": "2026-07-02 16:10:00",
-          "publisher": "東森新聞",
-          "severity": null
-        },
-        {
-          "title": "打造下一座護國神山 中市府攜手AIT辦無人載具論壇",
-          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPdnRLd1JZMkxBcGtDcDRCcjNyMTJoN3d2OVAzVU9EeG45Z2NzeXJnV2JVN3d3MlBXeDB1NjcxQjZXS2RIY0pwa1FYMDJmOFJ4RlNMMDJXWHMwLUdEZjBrRWFLTUxLMEhOd2dZd3lZcTF5ZFNwQmtqUldWUm1MZDgzNXBqV1c0QlViaW5uRV9HOWhpN0EzeEVTWF9PTDFvbUpkRkFYWWNITTVETktVT1JtWUlQeDB1aG5ORkgzblpKVEZMeU1tLW5wdFE4Y3lHUHZsck9zZFlQcUhqTHFHRWM1cW4tUnF0ZGIxTnNPVWJtOXdIVllqRmVLTkNRRDk4VFVlZVU5XzVXTFpKOUwyQUM2TDlNNG9jTmEtZl9CS2hFUjFuRTZTeHVfZF9lclRXczBsRTB0eTBHcTFveW1ETEh4cFVQYXlIam9IZlE?oc=5",
-          "time": "2026-07-02 16:06:16",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "打造下一座護國神山 中市府攜手AIT辦無人載具論壇",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hc0xzNVFUT01LekI1STJKbk9GbDBaWlhDRXNIOW8xZmNqTnd5YWRSZGtPWXhObWZ1akRxRnR4V2ZKQWdRbXB0c0laY3F3YVI2dU1Z?oc=5",
-          "time": "2026-07-02 16:06:16",
-          "publisher": "Google News→民眾新聞網",
-          "severity": null
-        },
-        {
-          "title": "中市府與AIT合辦無人機論壇 盧秀燕：打造下一座護國神山",
-          "url": "https://news.nextapple.com/politics/20260702/C1870E7221D876915144BADFFDE65C98",
-          "time": "2026-07-02 15:58:56",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "中市無人機禁區增41處 違飛最高重罰150萬",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%A6%81%E5%8D%80%E5%A2%9E41%E8%99%95-%E9%81%95%E9%A3%9B%E6%9C%80%E9%AB%98%E9%87%8D%E7%BD%B0150%E8%90%AC-075805302.html",
-          "time": "2026-07-02 15:58:05",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "中市無人機禁區增41處 違飛最高重罰150萬 - 政府消息新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSjJKVHdueXZnb1VhMEt4YkhoZEtFMkJoRzdTOTl1MTJ4MktRdmhBdVhWSktTcThOZjBnX2Zua2lCMlYtM1FBREREaW9GdTNpQndCMlBRWDRpekd3aUxJX0ljQ2JuY2NxZ3E4M09MbGtTM3BfYXQzalFub0NYUUVwbW9LSUFJN1l3bWc?oc=5",
-          "time": "2026-07-02 15:58:05",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "攜AIT辦無人載具論壇 盧秀燕：以台中為軸心打造下一座護國神山",
-          "url": "https://tw.news.yahoo.com/%E6%94%9Cait%E8%BE%A6%E7%84%A1%E4%BA%BA%E8%BC%89%E5%85%B7%E8%AB%96%E5%A3%87-%E7%9B%A7%E7%A7%80%E7%87%95-%E4%BB%A5%E5%8F%B0%E4%B8%AD%E7%82%BA%E8%BB%B8%E5%BF%83%E6%89%93%E9%80%A0%E4%B8%8B-%E5%BA%A7%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1-075646126.html",
-          "time": "2026-07-02 15:56:46",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "攜AIT辦無人載具論壇 盧秀燕：以台中為軸心打造下一座護國神山",
-          "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQVmZmU0NnU3hySHlHTGdac0Y4cURHWjhUcFc1emN3T2tFTUg4M3FEQmxRWE9MMmhzdkJnd080ZjhFMlF0OWJWTjRtZDZRRXN5UDhfWHdsTmd3NUVwN2ZvTjhBakhwUjEwWTN6bDNxcGgxZ19CNG8zVWtQWXRFbEpfQ0RKQVRQR1ZmenVGakpzWlJGOVFwWmIxekcyYzY5aGJIejZTZ2JxSXVNWnhyU3pfMHk0ck1Vd290NWFDaExrejJScmV3VWxTRGVXbmZ0LXBFcEZEaDRMVXVZMnYxT2xadGdfYjRSX2EtbEpnQ21pNzM3c0pXQjBOQUVsSEM3czJ4Ymh3NUh4ZWh5VmxNYy1aMzBSRXExWnBHQlJJYXlualQzRjJ4dVFNdDBGSTdkYjR1dTBhc1BJQ1ZJZEZYOE5ncGd5LWI3VjVxNnhYM0VsQzAtSlE0Zmk3OG1aaHNURzhSckYya0R0SjBVZmx0ZTlQNTZ5Rm5wRk43a2FrNlhNQTJqRzJCZWZN?oc=5",
-          "time": "2026-07-02 15:56:46",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台中土風舞女師慘遭割頸！「18公分刀傷」一度命危…狠男殺人未遂罪起訴",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%9C%9F%E9%A2%A8%E8%88%9E%E5%A5%B3%E5%B8%AB%E6%85%98%E9%81%AD%E5%89%B2%E9%A0%B8-18%E5%85%AC%E5%88%86%E5%88%80%E5%82%B7-%E5%BA%A6%E5%91%BD%E5%8D%B1-%E7%8B%A0%E7%94%B7%E6%AE%BA%E4%BA%BA%E6%9C%AA%E9%81%82%E7%BD%AA%E8%B5%B7%E8%A8%B4-075600187.html",
-          "time": "2026-07-02 15:56:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "影／台中攜手AIT辦無人載具論壇 盧秀燕：以台中為軸心打造下一座護國神山",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhRVJJLWtUdGRmSjF6R2s5TGlnQUFRbENnczJlZnNXLWZUV2E5ZEkxWHk1UW5vM09ZeGdHdGJJcUNETDhwb3pmQmxmZ0ZITzBzeVFGaA?oc=5",
-          "time": "2026-07-02 15:51:58",
-          "publisher": "Google News→互傳媒",
-          "severity": null
-        },
-        {
-          "title": "影／台中攜手AIT辦無人載具論壇 盧秀燕：以台中為軸心打造下一座護國神山",
-          "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOZXhfbUNfVzBPWW1RRl96cFRrNDg4dDV0eXloMmZpNzZGaWlJQjNZYjNRQnROS0lQdXotdGROQnQzbzZTT0QzUC0xTnhkZ3BjZEN4cWl3c0ZkSjctNDlXbmUwWTJDVmtTUTJKZS1RaHFRQ0F2a193ZmMtM3ppZmx5cXJfeW9rRVRndV9NcE9mOWNfdTg2c3JLanFvX09hTWlLMmdGTGNKV2RJcldKdDJpbmZzVDU5LVU2dmtUMzF5MEs5VEFqQ3Fhd2RmR1o4MktaeWpxQWQtc25CUWZ6TkQzaFVsSERFZW95eDJUa0NneGhDNDIyUlVmMWZHQjlURWlueC1sWG5xZ01iRnVWQ1JuT3c2aFhPQ1R1UHczV2Fhc1laaE9ObUNSMUxwMDBrdHF2MlpZVC0tSnM1YUpIV09VUmxoRXYwWHJ2Vmk2RmliTGtRQnNNajloeVAzMGQ4Rm9CRm1sWGxHNmRPMFBwTkdlNjFDeDhDaUNjV2lDNmMyNXppMDFYcmM1Yzhya3lJTWFHWUgxRkliT1BrOUVIUjM5ejREcmNGOFpEbHl4dGpGNTJUWWU5VDBkTw?oc=5",
-          "time": "2026-07-02 15:51:58",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "影／台中攜手AIT辦無人載具論壇 盧秀燕：以台中為軸心打造下一座護國神山",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B1-%E5%8F%B0%E4%B8%AD%E6%94%9C%E6%89%8Bait%E8%BE%A6%E7%84%A1%E4%BA%BA%E8%BC%89%E5%85%B7%E8%AB%96%E5%A3%87-%E7%9B%A7%E7%A7%80%E7%87%95-%E4%BB%A5%E5%8F%B0%E4%B8%AD%E7%82%BA%E8%BB%B8%E5%BF%83%E6%89%93%E9%80%A0%E4%B8%8B-%E5%BA%A7%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1-075158010.html",
-          "time": "2026-07-02 15:51:58",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "中市府與AIT合辦無人機論壇 盧秀燕：打造下一座護國神山",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWFjdEVmSGpGLUpsRXcyb2kwdnRuU2tqTmo5eDdzUG9wMFFNMFpxa2RTZEFhMER0ajE2b1ZIZmlZanNJcFJ1QWp0WVdidTBybzZvSWt3eEU1YjVYZ2JWdU9EWVVBQjIzbERzSTZweGlQTXh4LXROYzZnNFV1azhiMXF5bw?oc=5",
-          "time": "2026-07-02 15:50:00",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "中市府與AIT合辦無人機論壇 盧秀燕：打造下一座護國神山",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nTHRLZVpNWUM0a2Q2aldHMHpQX1dRcllEcTBzcTNzM09jWm5jRVRERVJmbkdJRkZNOG5rNUJZYmVfTG1DdEE1bTlxSXgzZGJ3NndRQ1FNTHYyRW41MWsyaVpxUU9RLXdNcGQ4by1SODhYOVd1UWcyb3JKRmhjM1U?oc=5",
-          "time": "2026-07-02 15:50:00",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "中市府與AIT合辦無人機論壇 盧秀燕：打造下一座護國神山",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XeEFSTzJSME43aEktOVZXUUoyTzFhWVlMWUd3S3JuSDljcXBVYkF0NXBMckNtNUdHcHFYZFRxN3FiOVN6UWs3a3poUVFVMURwWWxGcThFQi1iZXpYZl9JQ2lCTW9kVmZUenYxMnF0dUExRWE5QTVVVXg4RVZzUQ?oc=5",
-          "time": "2026-07-02 15:50:00",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "中市府與AIT合辦無人機論壇 盧秀燕：打造下一座護國神山",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUjYxZzJwT1JZMzhjZXl4dVhmSDNlQ3ZIM2x3SzdXSTg2THNycnhGaXRhaFVORnVTajRQTUMwT3VjLVVTeDFWRFpEc0U0b0h0N2xfbXdlT1A1NDRMU09HQXlxV29MRFFVdEgtZTZtU2NUYW45LVY2eXJ1MEswV3lYY1NB?oc=5",
-          "time": "2026-07-02 15:50:00",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "中市府與AIT合辦無人機論壇 盧秀燕：打造下一座護國神山",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOODBteHlCVWxVT0J4TEsyUlNYZ2VRRW1tX3NOVll5dGxNQU83QXlERUVUYlgwcXVEekJWNG1ReGxtN3Y3TEZQSXg2S012bzJENjBHZDI2eHhtR0xuTDdBVjMwVVFsaERJd2tOZW85THpBNUxDcU5LZUw4WlFvM1lEYW9Gbw?oc=5",
-          "time": "2026-07-02 15:50:00",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "中市府與AIT合辦無人機論壇 盧秀燕：打造下一座護國神山",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGVFMUVtU3djN05uSkpMQXMxT2lFbkE2QldFZXMybGMtdjFDWHVKdk5vOFVzaVpKLTc2NW5JODAtYTNqWWxZQ1p3ZWhicUlGQUplNXJiN29uSHBjLUNmRmVrY0F5ZzFubGdfUDBxelpldjQ4bUVZVWtwajY3NDhmSg?oc=5",
-          "time": "2026-07-02 15:50:00",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "中市府與AIT合辦無人機論壇 盧秀燕：打造下一座護國神山",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUnJaMTdBam1CbUZuRXk4WHRibnNrN1BvSEtWckJ4bVBoZXp6U3k1VzFtcHRSQWZ1UnFtcVA0d0FGNkFubC1KZHNTaEhXNTNJaGZsblR6MFVhRFp4VHU1ZjVibTItMWUzakRQbkQtWVBqSF9GcndDQzljYXhEcjVfY1FiRnk?oc=5",
-          "time": "2026-07-02 15:50:00",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "台中首度與AIT合辦無人機論壇 盧秀燕稱中部具產業鏈優勢",
-          "url": "https://news.pts.org.tw/article/815754",
-          "time": "2026-07-02 15:49:33",
-          "publisher": "公視 即時",
-          "severity": null
-        },
-        {
-          "title": "控民進黨議員助理扮民眾到台中無人機論壇抗議 「最強菜農」林佳新批丟臉丟到國外",
-          "url": "https://cnews.com.tw/235260702a04/",
-          "time": "2026-07-02 15:48:27",
-          "publisher": "匯流新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "盧秀燕籲中央無人機資源應以台中為主 讓大中部成為無人載具產業廊帶",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zeGxOMUM5QjNHNFdHZmlEYm1ESkx5SXIxTFVaVjFhcXNua1RMTzdkN18xTzBMdFRXU0VEbTk5em16YzN3aXVzUEkzQlZKSHgtY2FwUUtsVDV4NVRVRVhobG1rVE9WdDBTaUHSAW9BVV95cUxNMmtQOGZQQmdndDh6dUsxMU5vakMtcWxpcVZUMThjM3I1STVGaG5IaFFFZE9LR1prbVFxRElBVHpEcVd2MHhZUUJZUkFRWW02VkhMNzNRZnpOOWNJUmtnWnB3TTRnLU5mcDhOU2tVZjg?oc=5",
-          "time": "2026-07-02 15:14:14",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "盧秀燕籲中央無人機資源應以台中為主 讓大中部成為無人載具產業廊帶",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5491513",
-          "time": "2026-07-02 15:14:14",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "無人機玩家注意！中市禁飛區域新增41處 台中慈濟醫院等入列",
-          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5491581",
-          "time": "2026-07-02 15:03:24",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "毒油流向不明 議員限中市府速清查校園午餐",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ER1NhN09JeWRYckRvT0tOcUlVVDVUT2FYVzZyd1VwMDZOVEFEa1ZRUllUQ0Z1b2QtaFR2WHAtZ2JsU1dHNjc0YkZYYkXSAVJBVV95cUxQODlNMHkwMHR3OTFhUm5WSjhuSTlkVnVua0doRG9qNE9naEtndmROT2xNdGNrRWVFeXBZVXpTU0ZtVDBseXlZY1FMZ2lVQmFKR0hR?oc=5",
-          "time": "2026-07-02 15:03:16",
-          "publisher": "Google News→NOWnews今日新聞",
-          "severity": "red"
-        },
-        {
-          "title": "中市動保處「教師動保巡迴宣導」前進東海附小 向下扎根共築永續生命教育",
-          "url": "https://more-news.tw/656517/",
-          "time": "2026-07-02 15:02:43",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "聞嘸飯菜香！他車禍喪失嗅覺7年 台中榮總研究揭恢復曙光",
-          "url": "https://tw.news.yahoo.com/%E8%81%9E%E5%98%B8%E9%A3%AF%E8%8F%9C%E9%A6%99-%E4%BB%96%E8%BB%8A%E7%A6%8D%E5%96%AA%E5%A4%B1%E5%97%85%E8%A6%BA7%E5%B9%B4-%E5%8F%B0%E4%B8%AD%E6%A6%AE%E7%B8%BD%E7%A0%94%E7%A9%B6%E6%8F%AD%E6%81%A2%E5%BE%A9%E6%9B%99%E5%85%89-064514559.html",
-          "time": "2026-07-02 14:45:14",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "聞嘸飯菜香！他車禍喪失嗅覺7年 台中榮總研究揭恢復曙光",
-          "url": "https://cnews.com.tw/003260702a07/",
-          "time": "2026-07-02 14:45:14",
-          "publisher": "匯流新聞網",
-          "severity": null
-        },
-        {
-          "title": "致癌油品項再擴大！1300公噸沙拉油流出 台中食安處突擊賣場、小吃攤",
-          "url": "https://tw.news.yahoo.com/%E8%87%B4%E7%99%8C%E6%B2%B9%E5%93%81%E9%A0%85%E5%86%8D%E6%93%B4%E5%A4%A7-1300%E5%85%AC%E5%99%B8%E6%B2%99%E6%8B%89%E6%B2%B9%E6%B5%81%E5%87%BA-%E5%8F%B0%E4%B8%AD%E9%A3%9F%E5%AE%89%E8%99%95%E7%AA%81%E6%93%8A%E8%B3%A3%E5%A0%B4-%E5%B0%8F%E5%90%83%E6%94%A4-064300394.html",
-          "time": "2026-07-02 14:43:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "台中寬頻申裝優惠戰開打！大台中數位推出「萬元影音回饋方案」",
-          "url": "https://www.thehubnews.net/archives/640329",
-          "time": "2026-07-02 14:39:16",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "台中辦無人機論壇盧秀燕喊立院推條例卻力挺卡關黨版周永鴻：呼籲的對象就在身邊，江啟臣應說清楚",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZZXBTNmgzbHdYNWd0MWZRSy1JQ1U1blNpbXY5dHVRZjdTV3U5Y0pDRU1sNWRwR2s5MDFqTWlnZnNjRU5rS280M2pvcjZET0JfV0YxRmQ0UXoyTE5YajBKR0hkNEtHX2c?oc=5",
-          "time": "2026-07-02 14:36:00",
-          "publisher": "Google News→新華報導",
-          "severity": "yellow"
-        },
-        {
-          "title": "盧秀燕攜手AIT共辦無人載具論壇 江和樹：台中應把握台美合作契機 爭取國際訂單落地",
-          "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxOa082Zm9nN1FfVFlMX2I5QlJtWEx1d3U2QUVWWnhEcTZtUzVuQzdHdC1YSHBmWFhJUC0wcHBGVVpwWG9hTG1tSHpMLUhVbWFMUGZZNGw2eVhxb2s0ZFdXbU5zRHk0Q096THpHaEZocVFweW5lSE9GcjBuR0x6VktxOVBtZ3J3T2tHVFF1MjlxWVpaZnBlaFo5WExkM2h5U3I1bVAwWmVfNTJpQVZwYUlyeS1NVjVWQ1ZtTjRwdEtUVTZ1enhDNGFpMlFWcE5nWWRNdVprMWZ4Z0RrMzFRWDA5Y3RodnZNcmtjQkV6NXczbklBU3UxS0FvZDZfeHdmZEYxLTc0RVRmSkpQY0VNWk9Rd1FXYW04X0V6NFN2UXhOMXVvUW1aWC00aUFmQlluZnVEQTBobzhFOGZaalZRYTNOWWc3eGxQZFN4cnZ2Q0MwbXpxdWVteERwZmtLMVdUQ0RjelZYNko2SmZrME5TNDBPZzBrbUF6TWtEWkkyMHNmRHdObloxUkVCNnVPSHYwdGx0d0pKUnctUTR3am1jdktpRngxRVlkeGVCQlp1UDBKNG1obHN1UVVIZm5COTBNX3Q1VW4waEVlazZHUjhsaGt1NWRHNHJ6aUY0OWx0VlJyZmVEY2NPQnc4RE40QlE3MGJaS1kxdk85YUdUMG1WZkxB?oc=5",
-          "time": "2026-07-02 14:33:45",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台中一中商圈男陳屍防火巷 住戶見「懸掛物晃動」嚇報警",
-          "url": "https://news.ebc.net.tw/news/society/559279",
-          "time": "2026-07-02 14:26:00",
-          "publisher": "東森新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "台中無人載具論壇 張市育：全球競爭轉向信任供應鏈韌性",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5491499",
-          "time": "2026-07-02 14:24:32",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "中市遙控無人機禁飛區域新增台中慈濟醫院等41處 違規進入將開罰",
-          "url": "https://www.storm.mg/article/11146517",
-          "time": "2026-07-02 14:24:00",
-          "publisher": "風傳媒",
-          "severity": null
-        },
-        {
-          "title": "名牌藍綠有別！綠質疑中市府與AIT主辦無人機論壇淪為藍營專場？",
-          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPeENlYkFnazFqVGplNjFfem1OY0hucEx4ZDUySE9kVnVqM0ZqLXpJWmVLcnJmOXlScHU4ZlVFeC1JVnBwZWNBNUF6RWs2OXRzS2pHOUFSbVlta1BJeGkyUXlXTTRWbFd6dTVRQ2VjdlRLNjRPUFZFUmIzbWd2QTI1VnNaZ0JJT05RWUEtZUVULTdib0hNM0VlRTEweWlOVTJYci0wdU9udFhpSWtnMDdNbFRHY3pvUGNzaS1leGh2LU5sdUpyeFJHUzhGdDc0SExHcklnQ0pRSUpGMnl4RG9EdVF6SnBIemtlR3Y3MF8xS1hzZkVfMjdfZlBpUVNTd0VsbzZyVVBnM3Q4czExeEgwZU1jelMtSWxJV3g5M1NRRjg2c3YyQkJHMzQ1S1BrU0NtbTdzSWs2ZHRtamk0aVJfanlMbVE5aUhCdndVTTdDU2Y3V05EenpsQzU1am5xVFItN25jN1lKOF9TcjVzd1RYREN2dHl5TExMd2VybXR4ZzVDRk5rSktEdVZOVnpsbE9l?oc=5",
-          "time": "2026-07-02 14:19:30",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "台中國際機場暑假又增3條新航線 台中專屬登機證優惠加值地方人情味",
-          "url": "https://www.storm.mg/article/11146513",
-          "time": "2026-07-02 14:14:00",
-          "publisher": "風傳媒",
-          "severity": null
-        },
-        {
-          "title": "台中賣場驚見偵煙式攝影機！對準哺乳室、女廁遭疑偷拍 警方檢視澄清",
-          "url": "https://newtalk.tw/news/view/2026-07-02/1044794",
-          "time": "2026-07-02 14:12:53",
-          "publisher": "新頭殼",
-          "severity": "yellow"
-        },
-        {
-          "title": "台中賣場驚見偵煙式攝影機！對準哺乳室、女廁遭疑偷拍 警方檢視澄清",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E8%B3%A3%E5%A0%B4%E9%A9%9A%E8%A6%8B%E5%81%B5%E7%85%99%E5%BC%8F%E6%94%9D%E5%BD%B1%E6%A9%9F-%E5%B0%8D%E6%BA%96%E5%93%BA%E4%B9%B3%E5%AE%A4-%E5%A5%B3%E5%BB%81%E9%81%AD%E7%96%91%E5%81%B7%E6%8B%8D-%E8%AD%A6%E6%96%B9%E6%AA%A2%E8%A6%96%E6%BE%84%E6%B8%85-061253357.html",
-          "time": "2026-07-02 14:12:53",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "無人機論壇淪藍營專場？民進黨台中市議員批中市府大小眼",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SNlFKQVp3eHRzU2dqOGVVQlhlNy1YazYzNURWRU9aclhmcTVxQ21RLTNHNDNYd2FBa2RYdTNKWXpRa3g0REJnUEJqQWdRQjVpcHdQblNBUVBGVElaRWlqNHpGbVp6YlNm?oc=5",
-          "time": "2026-07-02 14:07:42",
-          "publisher": "Google News→元丰傳媒",
-          "severity": "yellow"
-        },
-        {
-          "title": "[HatePolitics] [新聞] 台中鍋烤節「盧秀燕巨型海報」高高掛",
-          "url": "https://www.ptt.cc/bbs/HatePolitics/M.1782972400.A.600.html",
-          "time": "2026-07-02 14:06:40",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "[TaichungBun] [新聞] 台中鍋烤節「盧秀燕巨型海報」高高掛",
-          "url": "https://www.ptt.cc/bbs/TaichungBun/M.1782972201.A.8F8.html",
-          "time": "2026-07-02 14:03:21",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "中市遙控無人機禁飛區域新增慈濟醫院等41處 今年已開罰4件違規 | 中廣新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Jbk9ESUd3bGoyT2d3LUJBOE1obVZ5RnMzOG94TWYtM1V1bTA4Rm9qVVc2ZXR0bGM0OUdxVmZ6QjBjTzVZaWw1ZHk3NDFJbjFBTTNqQ2hB?oc=5",
-          "time": "2026-07-02 13:54:10",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "台中玩劇場生活節7/11登場 中山堂化身大型藝文遊樂園",
-          "url": "https://newtalk.tw/news/view/2026-07-02/1044814",
-          "time": "2026-07-02 13:50:25",
-          "publisher": "新頭殼",
-          "severity": null
-        },
-        {
-          "title": "台中渣警嘿咻10萬粉網紅警花 「13分鐘精華」外流判8月記2大過免職",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5491375",
-          "time": "2026-07-02 13:47:17",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "台中渣警官「偷拍警花女友不雅片」還剪輯精華上網賣！遭免職",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E6%B8%A3%E8%AD%A6%E5%AE%98-%E5%81%B7%E6%8B%8D%E8%AD%A6%E8%8A%B1%E5%A5%B3%E5%8F%8B%E4%B8%8D%E9%9B%85%E7%89%87-%E9%82%84%E5%89%AA%E8%BC%AF%E7%B2%BE%E8%8F%AF%E4%B8%8A%E7%B6%B2%E8%B3%A3-%E9%81%AD%E5%85%8D%E8%81%B7-054424516.html",
-          "time": "2026-07-02 13:44:24",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "暑假開園！ 台中中山堂玩劇場生活節7/11登場 首創實境解謎免票體驗",
-          "url": "https://more-news.tw/656421/",
-          "time": "2026-07-02 13:44:17",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "台中無人機產業機論壇 盧秀燕喊話盼資源挹注台中打造無人機產業廊帶",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NZjNIaEE3VXRQQUxicjRsR3JlZXRFanZaOHJhOUJ6MTBjcmZ1Z0pEZ19wM0JoQS1hSzVIRC1pYlVHa3ZCR3JlX0tjNDNneXdORng0STNvdlRzUDjSAWBBVV95cUxObHZDTF9mWW5IM0xIcmNNUThDaWdiMEZSbWdLYTlqZF93SlR2clNUdFN5SjZmcW5sWUUwRktlTGV1cGtkclA0SmxWSXVNMkl1c2NNT2MycjNqU0hDc0tkcGc?oc=5",
-          "time": "2026-07-02 13:44:08",
-          "publisher": "Google News→經濟日報",
-          "severity": null
-        },
-        {
-          "title": "台中無人機產業機論壇 盧秀燕喊話盼資源挹注台中打造無人機產業廊帶",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5idFpkbkRVd1lrSVNRdXg1NG5pSVhKOGd4bW9aN3JyTEJrQWtZRmxING9RWjVVSmZXQ0FPd0pIQU1iaFN4MW95U3dMNTd4OUxB0gFWQVVfeXFMTXRET3RyZGw5aWVyb2pSdHcxVmZMem1HSjdxS1gtNFVUUGhOM3A1ZkxWSGZrOUlPQTFGR2t4NTB1NzR0aWp6NjJYQnBJZUd5cHJGS2dHWXc?oc=5",
-          "time": "2026-07-02 13:44:07",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "台中市政府與美國在台協會（AIT）今天舉辦2026台中無人載具產業與海外商機論壇，業界認為台中要加速整合產業競爭力，並善用台灣的供應鏈信任基礎。會場外頭，部分人士在市府外拉起白布條，抗議藍營阻擋無人機條例，也有民進黨議員批市府大小眼，未處理好議員名牌。",
-          "url": "https://udn.com/news/story/124652/9602530?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-02 13:43:09",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "AIT促台加碼投資無人機 川普又要台積電擴建1／AIT與台中市合辦無人載具論壇 產官學界矚目",
-          "url": "https://www.mnews.tw/story/20260702sot1248001",
-          "time": "2026-07-02 13:43:09",
-          "publisher": "鏡新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "2026.07.02 13:30 【生活特輯】年輕家庭精打細算 時尚屋傢俱以台灣製造切入台中CP值家具市場",
-          "url": "https://www.mnews.tw/story/20260702mkt00005",
-          "time": "2026-07-02 13:43:09",
-          "publisher": "鏡新聞",
-          "severity": null
-        },
-        {
-          "title": "悚！台中一中商圈防火巷「有人卡住」 49歲男「明顯死亡」身分曝",
-          "url": "https://www.taisounds.com/news/content/96/265404",
-          "time": "2026-07-02 13:43:07",
-          "publisher": "太報",
-          "severity": "yellow"
-        },
-        {
-          "title": "台中市府攜手AIT辦\"無人機論壇\" 盧秀燕:打造下座護國神山 | 民視新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zWlV5Mlk2SGdiNlVBdlFTOGNqUC1ncmk4d29FTWUwclBoSVE1TmxGNVM5N25iNWV2RVBoY0tKRXB3dG5BbUkwTnFraGE4b0Q1S3d6V1hR?oc=5",
-          "time": "2026-07-02 13:29:08",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "台中市府攜手AIT辦\"無人機論壇\" 盧秀燕:打造下座護國神山",
-          "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQQy11WHh6ME1oMS04dDAwOElXQ0MwOHBYNl9kbUVtWGJyWTlSX19iX1VxU0VpTFBHYzFfeTc2bU9rdVBHR2VENzUtR2NKTGNlcUpvdjFJamNmRFZHYkd5UWdvcHZjdjNfZUtTSHBJTjRqci1tTnFGSE9BbmFYaDQwSl9ubWZQMXdNbVozNGdFOHV0a05JdFNUc0tFWDYxMjJrdDlyc1BGX01MUlVuRUplVDJONXQ5aTNWU0Y5dW0tcDB0MkhLMUxaVVZTMG52NFphRnpyQVZtaHl5cnlRRXl0a3Y1Yl9aTV9MeEtCTms5U0JnVjBTWURGcXNscklCMWdYNFpZNlZiRnlpSmZKV0JlTEVuRjEwWF9Wc1NaOFpyWXp3c2VSVGMxZmhwWm5WXzRqSEpJdmNlTXFOckhqLVJlRHMwcHI3bC1TdEVGclFNRnVlcHBnRndGMG12azNESlhqN0d2Ump6MTZZMWt2dHFv?oc=5",
-          "time": "2026-07-02 13:25:47",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台中市府攜手AIT辦\"無人機論壇\" 盧秀燕:打造下座護國神山",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%BA%9C%E6%94%9C%E6%89%8Bait%E8%BE%A6-%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%AB%96%E5%A3%87-%E7%9B%A7%E7%A7%80%E7%87%95-%E6%89%93%E9%80%A0%E4%B8%8B%E5%BA%A7%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1-051602895.html",
-          "time": "2026-07-02 13:16:02",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "2026台灣驗光人員年會台中登場 盧秀燕：攜手守護全民視覺健康、推動視光專業接軌國際",
-          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNOXNpcmhtRndYQWVTeDdCTUlwSFI5dVl5NGVnVDNGR0RDOWtFUUg1cWpSbzd6TWVQU2xOdl9vdjVkaWNPcWY3Mzl4ckFtb2VIRG81clM3eXd5Ml9uRkhpZEdwSEdkWE5aNzdiRV9wVXJnRmVFcTQ0ckZNNXV2QTUtUlhRMmRFMmhCTDEzUmpMY1pEU3dfWDRqMWV0bzFKNDlVRXA3d2gxeGZTSjVBSGRtbVVuNDlvTWFLa1d5NTJ0elNLSnlsVWJ2WHU0MWpxQXN6V0x0djRaM0dLRWdNb1FrM3NMNXQ3dWF1UVJTUHFmWVdudVViekNGWHlFTzBTbXpobG54ZXktOENHdUx1azFJZ0hpRHlLNjNrSllsUC1tMFBmeW1Iak1fbXhCUHRQZkhSa1Z3bFRfNF9ubHY4VDVVblV1ME43d2p6TWZSTTVLTnlucko4NlZCUk9IQmd6TFdBQndzZFZ3R3k?oc=5",
-          "time": "2026-07-02 13:14:55",
-          "publisher": "Google News→行銷人",
-          "severity": null
-        },
-        {
-          "title": "台中一中商圈防火巷驚見男子陳屍 住戶目擊「人形懸空物」嚇壞報警",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD-%E4%B8%AD%E5%95%86%E5%9C%88%E9%98%B2%E7%81%AB%E5%B7%B7%E9%A9%9A%E8%A6%8B%E7%94%B7%E5%AD%90%E9%99%B3%E5%B1%8D-%E4%BD%8F%E6%88%B6%E7%9B%AE%E6%93%8A-%E4%BA%BA%E5%BD%A2%E6%87%B8%E7%A9%BA%E7%89%A9-%E5%9A%87%E5%A3%9E%E5%A0%B1%E8%AD%A6-051350155.html",
-          "time": "2026-07-02 13:13:50",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "星宇深耕台中第二營運基地 10/2開航札幌唯一中部定期航班",
-          "url": "https://tw.news.yahoo.com/%E6%98%9F%E5%AE%87%E6%B7%B1%E8%80%95%E5%8F%B0%E4%B8%AD%E7%AC%AC%E4%BA%8C%E7%87%9F%E9%81%8B%E5%9F%BA%E5%9C%B0-10-2%E9%96%8B%E8%88%AA%E6%9C%AD%E5%B9%8C%E5%94%AF-%E4%B8%AD%E9%83%A8%E5%AE%9A%E6%9C%9F%E8%88%AA%E7%8F%AD-050900604.html",
-          "time": "2026-07-02 13:09:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台中無人載具產業與海外商機論壇 盧秀燕致詞 (圖)",
-          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPUkFNaWU4N0NvZFRNVUZsb0duVUdlbktqYmRwUThnR0twMzhqTUlGQUpIdGVYNEM4RWdyZ2hzVGViSjJIVGcxLVp4QkgxM0EzamxWWXJERWhTQS14amtBcGpsVDdPZW9OSEY2VVVib2pZblZ5U3Y1bWNSYlpBNm9oczdWajl6ZWYtdlhza2RmUi1ienJtbUhNWDkyS2RWSFpsSmdMbEFISXo2SGdWTkpNZDFGRFZFQWY4MC1DVFVwaGt0UFBxaHk5MEpfdkdXV0lmS1Z4V0ZObkNVdGRVc0lSSmo5OWFEckZaeU9Ld1NDeDhHcWVOYlloSlg3TDlwZ2JVbXFKMFpzeS1NaVlhQ1VQclFOUnhOSkNrV2VDMVFrTmstejI2MUR4X01HczloMTVQbU5pTVllenRNN1dENGtwcXVsWDRtT1BKQTFNS0lRYnQ3UQ?oc=5",
-          "time": "2026-07-02 13:04:30",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台中市府攜手AIT辦\"無人機論壇\" 盧秀燕:打造下座護國神山",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5QVdBdWgtR1o0TVJLMUIxanl0VjFFaS1NLW9pTFQwQl9wdDJnb2lzVHFOZjZ6bERXS1FkM2xab0ladzl6ZnhQTWpJVG91STNWN1NtWTFUbDRYckhDbnRtVg?oc=5",
-          "time": "2026-07-02 13:04:09",
-          "publisher": "Google News→民視新聞網",
-          "severity": null
-        },
-        {
-          "title": "與美合辦論壇 盧秀燕：天空沒極限 讓大台中成無人機產業廊帶",
-          "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNRUJUbTVRSy0yRGhfRTFHUDlmbVpxUzR0R2MwcE4zdnY4ZC1IN1dUay1ycEVxZE0xaTBQZGpJS3Flb1U1Mkk2WXhSMTY4dzZCVllDSGlBU0QyczR0SUxwTnNiN21qOEZ6M0lla1ZBZV80eHl3eGQ0cjhkZ1NFaUllc25kMEttS0RzSUZkUTF2bUtaN01kYXh0S0xHT05VTHkwd0JsbkFJNFlrdTh4NllyWldhRmlfX1UtX0EzTElHX0haQl9fUEx3cjZ3ZkFWVTViRER0NXlBVERtWGVQaVhJYTFzOVowLWFHejZRX0p4dkQxTmYzcGdpdkFzalNWb0RGTFl0UmphOE9pVkJYZy1kN3kzemk2UzVvcVRhNWJudkRHMUdUb1BhS25qYW15el81OVNBTHlIOTIzSmlZWEVXUzlHOFpWbkRmQzdzSVAxOVR1VnNHVkxJcGgwaGJtLUU5eWRKSEx0Y3VwUlJHOGtTYXZ0Q29lZzdvWFFmWS11ZzltLVNMcC16NFctTDZsNTg?oc=5",
-          "time": "2026-07-02 12:57:55",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "AIT、台中市政府首度合辦無人機論壇 盧秀燕：中央應該更重視中部產業鏈",
-          "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQQURJNE9nUi1abm9mZzhXSG5yQmVlN09zb3Q0MEpuQWhCQ3RqOC1ldTRodlBPV0JwS3F3aGFiUDFCVVFocGFlZVhjQ2ZMN0hPRkJ2TGczaWNTZnBhRjRXTk5FVnZHeGxJWmI3T0VvVUlqN3NwZTJxQWFPLWVrb2szVkpjOTJmQmxQRXA3RVY1ZlFMRy1jNDZwTDdmdHg4b0cyVTVoUzB0QXJ4dWhxeVRlXzNTYTZHcDVWZUp6ZXlkVHFXOVBBUGRza19naGw3eFBjanZDRU5lVmk5RUw3U3pXNnlYNk03RE1MVkdoZ0hZOGFhZndob2NBeFRlSGNsQ0NpM2ZmeVZFek92cndZT0dRYlgtYlhHRzlEUEl0dkpnaGJUamZpeDkxUGs3SEd3MDJmQm55SGRNMzRUcmdHTnNqUldxRDl5TXNYUWFzVkVrZ0E2T3hyblE4V0p3RTNhME1pR3pFcDJCZXFuQ0o1QVF2Q0toUTNYMmUtX0kyRENYbVVzRmJlbHlUVTV3X3hTMzBzdVgtUmpjNG5CT3FwWjUzSk9PNHJNUFQxdjNqWWpYcFplQ09uQXRz?oc=5",
-          "time": "2026-07-02 12:42:58",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "[Gossiping] [問卦] 這個時間去台中漢神搶島語的都是什麼人？",
-          "url": "https://www.ptt.cc/bbs/Gossiping/M.1782966710.A.D34.html",
-          "time": "2026-07-02 12:31:50",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "獨子大學打工貸款買4台中古車欠稅 退休媽刷卡一次繳清",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5491342",
-          "time": "2026-07-02 12:29:23",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "台中市今舉辦「領航2026－台中無人載具產業與海外商機論壇」，出席的民眾黨中央委員、市議員江和樹說，論壇只是開始，更重要的是後續如何把台美合作轉化為實際成果，包括技術交流、企業投資、國際訂單及人才培育，讓更多無人載具相關產業落腳台中，創造更多高薪就業機會，帶動中部產業全面升級。",
-          "url": "https://udn.com/news/story/6656/9602450?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-02 12:28:52",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "無人載具產業論壇活動今天上午在台中市政府舉行，AIT處長谷立言出席致詞，表示台中一直以來都扮演科技產業的重要輔助角色，可望在台美成為經濟關係中重要的角色。",
-          "url": "https://udn.com/news/story/6656/9602368?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-02 12:28:52",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "台中市政府與美國在台協會（AIT）共同舉辦2026台中無人機產業與海外商機論壇，台中市長盧秀燕、AIT處長谷立言、立法院副院長江啟臣等人出席。江表示，這不僅是一場論壇，更是中台灣無人機產業走向國際的宣示，未來商業無人機全球產值上看千億美元，絕不容錯過。",
-          "url": "https://udn.com/news/story/6656/9602354?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-02 12:28:52",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "台中市政府與美國在台協會（AIT）共同舉辦無人機產業與海外商機論壇，是台美第一次共辦無人機論壇。AIT處長谷立言親自出席，他強調，無人機產業對美國與台灣都是歷史性的機會，不僅能創造商機與就業機會，也可以讓台灣成為空中、水面與水下都充滿無人機的蜂巢，嚇阻衝突。",
-          "url": "https://udn.com/news/story/10930/9602317?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-02 12:28:52",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "台中市北屯區市議員參選人、「北屯班長」段體佩以無黨籍素人身分參選，他每天身著軍汗衫和迷彩褲上街頭，但卻和其他參選人不同的是，他並不去社團和宮廟拜票。他說，自己既是素人，未來也設定目標就是替基層民眾服務，為了避免糾葛和把時間浪費在社團活動上，因此選擇不參與。偶而會看到參與里民活動，那也是應里長邀請。",
-          "url": "https://udn.com/news/story/124652/9602265?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-02 12:28:52",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "與美合辦論壇 盧秀燕：天空沒極限 讓大台中成無人機產業廊帶",
-          "url": "https://www.chinatimes.com/realtimenews/20260702002392-260407",
-          "time": "2026-07-02 12:28:47",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "與美合辦論壇 盧秀燕：天空沒極限 讓大台中成無人機產業廊帶",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2aXNXajV3ZHBfUndvYXhwVDlRMVBLMGZ3U2JhdkpkZGd5NlI0UU5TcF83ai1VM0hhX0Z5VEFCOEU0dHYzQTNReEdBVFF2NjlYUnptOW5RTVdJZTN3QmYwNW4tNTlxUEVaa2FyYUNB?oc=5",
-          "time": "2026-07-02 12:15:19",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "台中警偷拍性愛片 判8月記2大過免職",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E8%AD%A6%E5%81%B7%E6%8B%8D%E6%80%A7%E6%84%9B%E7%89%87-%E5%88%A48%E6%9C%88%E8%A8%982%E5%A4%A7%E9%81%8E%E5%85%8D%E8%81%B7-120812762.html",
-          "time": "2026-07-02 12:08:12",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "2026台灣驗光人員年會台中登場 盧秀燕：攜手守護全民視覺健康、推動視光專業接軌國際",
-          "url": "https://www.thehubnews.net/archives/640167",
-          "time": "2026-07-02 12:04:00",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "台中北屯系統櫃推薦！全室系統櫃規劃",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%8C%97%E5%B1%AF%E7%B3%BB%E7%B5%B1%E6%AB%83%E6%8E%A8%E8%96%A6%EF%BC%81%E5%85%A8%E5%AE%A4%E7%B3%BB%E7%B5%B1%E6%AB%83%E8%A6%8F%E5%8A%83-040233676.html",
-          "time": "2026-07-02 12:02:33",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台中直飛成都、青島、沖繩 暑假旅遊熱度飆升",
-          "url": "https://n.yam.com/Article/20260702554175",
-          "time": "2026-07-02 12:00:00",
-          "publisher": "蕃新聞→互傳媒",
-          "severity": null
-        },
-        {
-          "title": "關鍵時刻不缺席！臺中市政府社會局7大服務守護弱勢一輩子",
-          "url": "https://n.yam.com/Article/20260702447266",
-          "time": "2026-07-02 12:00:00",
-          "publisher": "蕃新聞→台灣好新聞",
-          "severity": null
-        },
-        {
-          "title": "中市推動外籍看護工休假期間使用臨短托服務　減輕身障家庭照顧壓力",
-          "url": "https://n.yam.com/Article/20260702756444",
-          "time": "2026-07-02 12:00:00",
-          "publisher": "蕃新聞→台灣好新聞",
-          "severity": null
-        },
-        {
-          "title": "台中攜手AIT辦無人載具論壇 打造下一座護國神山產業鏈",
-          "url": "https://n.yam.com/Article/20260702180569",
-          "time": "2026-07-02 12:00:00",
-          "publisher": "蕃新聞→創新聞",
-          "severity": null
-        },
-        {
-          "title": "台中寬頻申裝優惠戰開打！大台中數位推出「萬元影音回饋方案」",
-          "url": "https://n.yam.com/Article/20260702598305",
-          "time": "2026-07-02 12:00:00",
-          "publisher": "蕃新聞→獨家報導",
-          "severity": null
-        },
-        {
-          "title": "李中愛台中溫馨推薦 2026台中電影Fun-In季",
-          "url": "https://n.yam.com/Article/20260702229681",
-          "time": "2026-07-02 12:00:00",
-          "publisher": "蕃新聞→波新聞",
-          "severity": null
-        },
-        {
-          "title": "打造台灣下一座護國神山　中市府攜手AIT辦無人載具論壇",
-          "url": "https://n.yam.com/Article/20260702763631",
-          "time": "2026-07-02 12:00:00",
-          "publisher": "蕃新聞→台灣好新聞",
-          "severity": null
-        },
-        {
-          "title": "2026台中自動化工業展及AI機器人應用展開幕 市長盧秀燕：持續打造AI智慧製造重鎮",
-          "url": "https://n.yam.com/Article/20260702217118",
-          "time": "2026-07-02 12:00:00",
-          "publisher": "蕃新聞→鴨鴨新聞",
-          "severity": null
-        },
-        {
-          "title": "影／台中攜手AIT辦無人載具論壇　盧秀燕：以台中為軸心打造下一座護國神山",
-          "url": "https://n.yam.com/Article/20260702577076",
-          "time": "2026-07-02 12:00:00",
-          "publisher": "蕃新聞→互傳媒",
-          "severity": null
-        },
-        {
-          "title": "中市府攜手AIT辦無人載具論壇　集產官學研聚焦國際市場趨勢",
-          "url": "https://n.yam.com/Article/20260702202221",
-          "time": "2026-07-02 12:00:00",
-          "publisher": "蕃新聞→台灣好報",
-          "severity": null
-        },
-        {
-          "title": "影／臺中市傳統畫藝協會會員聯展　八卦山大佛藝廊展出多元水墨之美",
-          "url": "https://n.yam.com/Article/20260702495283",
-          "time": "2026-07-02 12:00:00",
-          "publisher": "蕃新聞→互傳媒",
-          "severity": null
-        },
-        {
-          "title": "攜手AIT辦無人載具論壇　盧秀燕：以台中為軸心打造下一座護國神山",
-          "url": "https://n.yam.com/Article/20260702831189",
-          "time": "2026-07-02 12:00:00",
-          "publisher": "蕃新聞→觀傳媒",
-          "severity": null
-        },
-        {
-          "title": "台中市食安處首波公布兩業者超標油品流向　跨局處突擊賣場全面回收下架",
-          "url": "https://n.yam.com/Article/20260702196120",
-          "time": "2026-07-02 12:00:00",
-          "publisher": "蕃新聞→觀傳媒",
-          "severity": "red"
-        },
-        {
-          "title": "696組茶樣角逐！115年度台中市優質梨山茶評鑑 農友黃名村勇奪特等獎",
-          "url": "https://n.yam.com/Article/20260702142461",
-          "time": "2026-07-02 12:00:00",
-          "publisher": "蕃新聞→波新聞",
-          "severity": null
-        },
-        {
-          "title": "中市民政局勇奪希朵獎雙獎 《大川原夢之旅》　見證尋根圓夢與性平改革",
-          "url": "https://n.yam.com/Article/20260702168993",
-          "time": "2026-07-02 12:00:00",
-          "publisher": "蕃新聞→觀傳媒",
-          "severity": null
-        },
-        {
-          "title": "台中市遙控無人機禁飛區域新增慈濟醫院等41處　違規進入將開罰",
-          "url": "https://n.yam.com/Article/20260702890384",
-          "time": "2026-07-02 12:00:00",
-          "publisher": "蕃新聞→觀傳媒",
-          "severity": "yellow"
-        },
-        {
-          "title": "幫產業爭活路！何欣純出席台中無人機論壇 曝法案週五送委員會",
-          "url": "https://www.ettoday.net/news/20260702/3193894.htm",
-          "time": "2026-07-02 11:53:00",
-          "publisher": "ETtoday",
-          "severity": null
-        },
-        {
-          "title": "台中豐原田心路右轉豐原大道封閉許久 謝志忠要求今下午先開放",
-          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5491263",
-          "time": "2026-07-02 11:42:45",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "37年歷史台中中山堂 化身「歌劇魅影」、邀親子解謎搗蛋鬼事件",
-          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5491243",
-          "time": "2026-07-02 11:39:51",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "[TaichungBun] [閒聊] 台中推薦的風水地理師",
-          "url": "https://www.ptt.cc/bbs/TaichungBun/M.1782962461.A.6DF.html",
-          "time": "2026-07-02 11:21:01",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "台中國際機場暑假再增3航線 華航沖繩線8/13起增開加班機",
-          "url": "https://news.nextapple.com/eattravel/20260702/79FF2BC336F7FE5CDE3E11C018C4BD54",
-          "time": "2026-07-02 11:20:12",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "耕水中運動開花結果！中市打造完整培育體系 世界摘牌、亞運培訓接連傳捷報",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KTVhpQk4zWXc2UWM1TVlRRUtqTGtDYlBtM3JtTFZTTDhvdVR3V0JnWFIzaXFYV1NNWkdFOHB2MGVrVHZ2MDVqTEtGbjlTUXcyR1FUVlo0U2FHUTBFb01MbHgwTDNHUQ?oc=5",
-          "time": "2026-07-02 11:17:00",
-          "publisher": "Google News→新華報導",
-          "severity": null
-        },
-        {
-          "title": "台中市政府與美國在台協會（AIT）共同舉辦2026台中無人機產業與海外商機論，台中市長盧秀燕、AIT處長谷立言、立法院副院長江啟臣、立委何欣純等人出席。盧說，中部擁有無人機生產製造研發的五大產業鏈，中央應該更重視、把更多資源放到台中為主的區塊。",
-          "url": "https://udn.com/news/story/6656/9602177?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-02 11:15:41",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "AIT、台中市政府攜手舉辦無人機論壇 盧秀燕：中央應該更重視中部",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xdWFFbWhsZ1pOUm1LVzhzWHl4cGdpYmIzWC1pZ2s5c0FHRHA3VkxyQlhBdXdtZWpRbG9oNWlSZkFOYUZwQWR3cnpyaFVyM1dh0gFWQVVfeXFMUE0taHRjV3N2dW5TSWlqZFdpMENyNU43eWFzcVlYNDQzeTgyeEhkdWRHdWR0SXprbGNlenI5a0lQMGZCRmp5SnlMUmZVS2k1V1g0Mjhrd0E?oc=5",
-          "time": "2026-07-02 11:06:18",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "偷拍警花前女友性愛片！台中渣警遭判刑8月…二分局：已記2大過、免職",
-          "url": "https://tw.news.yahoo.com/%E5%81%B7%E6%8B%8D%E8%AD%A6%E8%8A%B1%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%80%A7%E6%84%9B%E7%89%87-%E5%8F%B0%E4%B8%AD%E6%B8%A3%E8%AD%A6%E9%81%AD%E5%88%A4%E5%88%918%E6%9C%88-%E4%BA%8C%E5%88%86%E5%B1%80-%E5%B7%B2%E8%A8%982%E5%A4%A7%E9%81%8E-%E5%85%8D%E8%81%B7-025700992.html",
-          "time": "2026-07-02 10:57:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "問題油流向 中市府：星級酒店、食品廠等224家業者",
-          "url": "https://tw.news.yahoo.com/%E5%95%8F%E9%A1%8C%E6%B2%B9%E6%B5%81%E5%90%91-%E4%B8%AD%E5%B8%82%E5%BA%9C-%E6%98%9F%E7%B4%9A%E9%85%92%E5%BA%97-%E9%A3%9F%E5%93%81%E5%BB%A0%E7%AD%89224%E5%AE%B6%E6%A5%AD%E8%80%85-105428752.html",
-          "time": "2026-07-02 10:54:28",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "中聯大豆沙拉油致癌物超標 中市府稽查下架情形 (圖)",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%AF%E5%A4%A7%E8%B1%86%E6%B2%99%E6%8B%89%E6%B2%B9%E8%87%B4%E7%99%8C%E7%89%A9%E8%B6%85%E6%A8%99-%E4%B8%AD%E5%B8%82%E5%BA%9C%E7%A8%BD%E6%9F%A5%E4%B8%8B%E6%9E%B6%E6%83%85%E5%BD%A2-%E5%9C%96-105404373.html",
-          "time": "2026-07-02 10:54:04",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "台中男慣性家暴！妻抱9個月女兒遭痛毆 網怒肉搜…當事人緊急道歉",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%94%B7%E6%85%A3%E6%80%A7%E5%AE%B6%E6%9A%B4-%E5%A6%BB%E6%8A%B19%E5%80%8B%E6%9C%88%E5%A5%B3%E5%85%92%E9%81%AD%E7%97%9B%E6%AF%86-%E7%B6%B2%E6%80%92%E8%82%89%E6%90%9C-%E7%95%B6%E4%BA%8B%E4%BA%BA%E7%B7%8A%E6%80%A5%E9%81%93%E6%AD%89-024800415.html",
-          "time": "2026-07-02 10:48:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "致癌沙拉油已流入市面2個月 中市衛生局：將公布流向",
-          "url": "https://tw.news.yahoo.com/%E8%87%B4%E7%99%8C%E6%B2%99%E6%8B%89%E6%B2%B9%E5%B7%B2%E6%B5%81%E5%85%A5%E5%B8%82%E9%9D%A22%E5%80%8B%E6%9C%88-%E4%B8%AD%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80-%E5%B0%87%E5%85%AC%E5%B8%83%E6%B5%81%E5%90%91-024715724.html",
-          "time": "2026-07-02 10:47:15",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "高雄「全國最大里」1拆4 里民證件改不改霧煞煞",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5491155",
-          "time": "2026-07-02 10:33:34",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "AIT攜手台中市府共辦無人載具論壇 江和樹：台中應把握台美合作契機 爭取國際訂單落地",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5abXE3M05xXzI3dlhWOUlqbUZKZ3BSaXFJamtBZFNuWHByYzRvY2FJQURMbTR5cm1heDJoVjdlNmxibEUwNmVZdG5JSGdoQUl4VTY2WnU5RW1YUQ?oc=5",
-          "time": "2026-07-02 10:23:00",
-          "publisher": "Google News→新華報導",
-          "severity": null
-        },
-        {
-          "title": "台中市政府與美國在台協會（AIT）今天共同舉辦2026台中無人載具產業與海外商機論壇，民進黨台中市長參選人何欣純也受邀出席，她表示無人機產業關乎台中產業升級，非常希望特別條例可以通過，據她了解，本周五立院就會處理不同版本的無人機條例。",
-          "url": "https://udn.com/news/story/124652/9601846?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-02 10:04:48",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "台中慈濟幹細胞移植成功 高齡骨髓瘤婦人慶重生",
-          "url": "https://health.ltn.com.tw/article/breakingnews/5491025",
-          "time": "2026-07-02 09:47:17",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "呼叫閨蜜！「三麗鷗甜心復古快閃店」空降台中中友百貨！7/4酷洛米驚喜現身，掀起粉紅懷舊風暴！",
-          "url": "https://tw.news.yahoo.com/%E5%91%BC%E5%8F%AB%E9%96%A8%E8%9C%9C-%E4%B8%89%E9%BA%97%E9%B7%97%E7%94%9C%E5%BF%83%E5%BE%A9%E5%8F%A4%E5%BF%AB%E9%96%83%E5%BA%97-%E7%A9%BA%E9%99%8D%E5%8F%B0%E4%B8%AD%E4%B8%AD%E5%8F%8B%E7%99%BE%E8%B2%A8-7-4%E9%85%B7%E6%B4%9B%E7%B1%B3%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB-091753210.html",
-          "time": "2026-07-02 09:17:53",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台中國際機場暑假又增3條新航線 台中專屬登機證優惠加值地方人情味",
-          "url": "https://more-news.tw/656281/",
-          "time": "2026-07-02 09:15:11",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "大豆沙拉油「一級致癌物」超標4倍！ 中市府勒令中聯停工",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NQ0Q2cXRNMzdEdzVKMkxsZmFpY2xQWHk5aUNBVnlya0pGaTRvM3hOcnBUamRiX2pmQVF2bjV1dVdna3liSk5PeTFjYzc4cmh2NUE3UDlUYzdrQnZUdmM2VGFBS2RnV1d1d3o0WFNhVVVLX1ZEV0YyZzR4Y19Edw?oc=5",
-          "time": "2026-07-02 09:14:00",
-          "publisher": "壹蘋新聞網",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "桃園地方動態",
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 232,
+      "news_count": 230,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 265,
+      "urgency_score": 263,
       "news_articles": [
         {
           "title": "桃園暑期一日職涯探索營 帶青年走進企業認識趨勢",
@@ -11309,7 +11281,7 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJSEsxU1JrcGJwWGFUUno5MTRQX1ltUzl1ZVV4emFhTHFGa3RPdWh1RDNKcVpjamxzSnZnVGtkQ2VyeFhnT1ROcDUtejZOQjBKbi1FMzJB?oc=5",
           "time": "2026-07-03 07:24:57",
           "publisher": "Google News→LINE TODAY",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "媽才過世房產怎變哥的？桃園女為遺產開撕怒告兄長...卻踢鐵板",
@@ -11379,7 +11351,7 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OLTFiMFAwajZJbmk0LUFhaXQ2Q3RJWjk5ajNpQXN3Wng0MmVNMzlCeE5DODZicnpTTmJXOE9NeUtlZEZQOEo0SzBtSnpRMVRiLU4yblFR?oc=5",
           "time": "2026-07-02 23:29:09",
           "publisher": "Google News→LINE TODAY",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "國1桃園段4車連環撞 大貨車疑分心撞擊釀10人傷 (圖)",
@@ -12086,7 +12058,7 @@
           "url": "https://more-news.tw/656593/",
           "time": "2026-07-02 15:53:57",
           "publisher": "墨新聞",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "桃園國小男童遭霸凌逼下跪道歉！錄影PO網惹怒網友 教育局介入調查",
@@ -12906,20 +12878,6 @@
           "time": "2026-07-02 09:30:22",
           "publisher": "Google News→桃園電子報",
           "severity": "yellow"
-        },
-        {
-          "title": "桃園公告第3批高風險管制 蘇俊賓：大型倉儲全面納管",
-          "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E5%85%AC%E5%91%8A%E7%AC%AC3%E6%89%B9%E9%AB%98%E9%A2%A8%E9%9A%AA%E7%AE%A1%E5%88%B6-%E8%98%87%E4%BF%8A%E8%B3%93-%E5%A4%A7%E5%9E%8B%E5%80%89%E5%84%B2%E5%85%A8%E9%9D%A2%E7%B4%8D%E7%AE%A1-091610504.html",
-          "time": "2026-07-02 09:16:10",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園車站餐飲店傳火警 自動灑水設備阻火勢延燒",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kcC1BY09QVXVnNVhScHItNWl2c25aR2NmaWszRFdiQUxjQVpwYWRuaE9tZFpZMzg3R0dnSkRKd3VNTHBwbFJ6a0duRDE?oc=5",
-          "time": "2026-07-02 09:14:34",
-          "publisher": "Google News→桃園電子報",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -12940,7 +12898,7 @@
           "url": "https://udn.com/news/story/6656/9604209?from=udn-ch1_breaknews-1-cate1-news",
           "time": "2026-07-03 09:05:26",
           "publisher": "聯合新聞網",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "銅鑼灣書店成絕響！林榮基在台北病逝，賴清德發文哀悼",

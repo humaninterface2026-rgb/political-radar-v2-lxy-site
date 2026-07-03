@@ -45619,7 +45619,7 @@
     },
     {
       "date": "2026-07-03",
-      "snapshot_at": "2026-07-03T01:14:05.318811+00:00",
+      "snapshot_at": "2026-07-03T01:18:00.417657+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -45785,20 +45785,6 @@
           ]
         },
         {
-          "title": "彰化弊案爭議",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "闖入馬拉松管制區撞死9歲男童 彰化楊姓無照駕駛判刑2年10月"
-          ]
-        },
-        {
           "title": "桃園弊案爭議",
           "city": "桃園",
           "place": "桃園市政府",
@@ -45810,6 +45796,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "抓頭撞牆打死7旬父 桃園逆子伴腐屍21天起訴求重刑"
+          ]
+        },
+        {
+          "title": "彰化弊案爭議",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "闖入馬拉松管制區撞死9歲男童 彰化楊姓無照駕駛判刑2年10月"
           ]
         },
         {
@@ -45939,21 +45939,6 @@
           ]
         },
         {
-          "title": "苗栗弊案爭議",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "苗栗女子殺害2年幼子女 一審判刑30年",
-            "苗栗女子殺害2年幼子女 一審判刑30年"
-          ]
-        },
-        {
           "title": "新北弊案爭議",
           "city": "新北",
           "place": "新北市政府",
@@ -45969,9 +45954,9 @@
           ]
         },
         {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
+          "title": "苗栗弊案爭議",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
           "level": "red",
           "news_count": 2,
           "comment_count": 0,
@@ -45979,8 +45964,8 @@
           "is_urgent": true,
           "urgency_score": 8,
           "sample_titles": [
-            "台中土風舞女師慘遭割頸！「18公分刀傷」一度命危…狠男殺人未遂罪起訴",
-            "偷拍警花前女友性愛片！台中渣警遭判刑8月…二分局：已記2大過、免職"
+            "苗栗女子殺害2年幼子女 一審判刑30年",
+            "苗栗女子殺害2年幼子女 一審判刑30年"
           ]
         },
         {
@@ -45996,6 +45981,21 @@
           "sample_titles": [
             "金門破獲跨境偷渡集團 起訴5成員維護邊境法治",
             "金門破獲跨境偷渡集團起訴5成員維護邊境法治| 社會"
+          ]
+        },
+        {
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "台中土風舞女師慘遭割頸！「18公分刀傷」一度命危…狠男殺人未遂罪起訴",
+            "偷拍警花前女友性愛片！台中渣警遭判刑8月…二分局：已記2大過、免職"
           ]
         },
         {
@@ -46163,11 +46163,11 @@
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "red",
-          "news_count": 68,
+          "news_count": 67,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 68,
+          "urgency_score": 67,
           "sample_titles": [
             "竹市府第39次交通改善會議 聚焦公道五路三段與東進路口改善",
             "竹科效應 竹市平均所得7連霸",
@@ -46243,11 +46243,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 109,
+          "news_count": 108,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 115,
+          "urgency_score": 114,
           "sample_titles": [
             "花蓮市車廠日前傳火警 魏嘉彥市長前往慰問",
             "空手觀光2.0 花蓮轉運站免費借載物電輔車",
@@ -46271,6 +46271,22 @@
           ]
         },
         {
+          "title": "台中地方動態",
+          "city": "台中",
+          "place": "台中市中區",
+          "level": "red",
+          "news_count": 204,
+          "comment_count": 0,
+          "negativity_pct": 4,
+          "is_urgent": false,
+          "urgency_score": 228,
+          "sample_titles": [
+            "出國免擠桃機！台中機場暑假加碼3航線 飛這「度假勝地」還推加班機",
+            "中市府力挺漁業發展 攜手臺中區漁會表揚85位模範漁民",
+            "中市府力挺漁業發展 攜手臺中區漁會表揚85位模範漁民"
+          ]
+        },
+        {
           "title": "高雄地方動態",
           "city": "高雄",
           "place": "高雄市前鎮區",
@@ -46287,31 +46303,15 @@
           ]
         },
         {
-          "title": "台中地方動態",
-          "city": "台中",
-          "place": "台中市中區",
-          "level": "red",
-          "news_count": 206,
-          "comment_count": 0,
-          "negativity_pct": 4,
-          "is_urgent": false,
-          "urgency_score": 230,
-          "sample_titles": [
-            "出國免擠桃機！台中機場暑假加碼3航線 飛這「度假勝地」還推加班機",
-            "中市府力挺漁業發展 攜手臺中區漁會表揚85位模範漁民",
-            "中市府力挺漁業發展 攜手臺中區漁會表揚85位模範漁民"
-          ]
-        },
-        {
           "title": "桃園地方動態",
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 232,
+          "news_count": 230,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 265,
+          "urgency_score": 263,
           "sample_titles": [
             "桃園暑期一日職涯探索營 帶青年走進企業認識趨勢",
             "媽才過世房產怎變哥的？桃園女為遺產開撕怒告兄長...卻踢鐵板 | 聯合新聞網",
