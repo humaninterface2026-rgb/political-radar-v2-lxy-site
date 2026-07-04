@@ -46326,7 +46326,7 @@
     },
     {
       "date": "2026-07-04",
-      "snapshot_at": "2026-07-04T01:15:25.143092+00:00",
+      "snapshot_at": "2026-07-04T01:21:44.413871+00:00",
       "hotspots": [
         {
           "title": "苗栗槍擊事件",
@@ -46385,20 +46385,6 @@
           ]
         },
         {
-          "title": "屏東陳情/抗議",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "恆春囝仔盼亞運「衝浪」出賽 向賴總統陳情"
-          ]
-        },
-        {
           "title": "台南陳情/抗議",
           "city": "台南",
           "place": "台南市政府",
@@ -46410,6 +46396,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "黃偉哲宣示挺教師 南市訂「教師合理管教全攻略」提供陳情處理及管教指引"
+          ]
+        },
+        {
+          "title": "屏東陳情/抗議",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "恆春囝仔盼亞運「衝浪」出賽 向賴總統陳情"
           ]
         },
         {
@@ -46544,9 +46544,9 @@
           ]
         },
         {
-          "title": "基隆弊案爭議",
-          "city": "基隆",
-          "place": "基隆市政府",
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -46554,7 +46554,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "翻拍性平案資料私傳家長會「幫關切」 基隆校長洩密罪起訴"
+            "[Gossiping] [新聞] 渣警偷拍網紅女警激戰片遭判刑！台中第二"
           ]
         },
         {
@@ -46572,6 +46572,20 @@
           ]
         },
         {
+          "title": "基隆弊案爭議",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "翻拍性平案資料私傳家長會「幫關切」 基隆校長洩密罪起訴"
+          ]
+        },
+        {
           "title": "新北弊案爭議",
           "city": "新北",
           "place": "新北市政府",
@@ -46583,20 +46597,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "替代役男惡性不改！回役報到秒失聯逃兵 新北地院判刑4月罰12萬"
-          ]
-        },
-        {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "[Gossiping] [新聞] 渣警偷拍網紅女警激戰片遭判刑！台中第二"
           ]
         },
         {
@@ -46780,11 +46780,11 @@
           "city": "新竹縣",
           "place": "新竹縣政府",
           "level": "red",
-          "news_count": 21,
+          "news_count": 20,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 21,
+          "urgency_score": 20,
           "sample_titles": [
             "單一學年度狂攬四冠創歷史！ 花蓮北埔國小「大滿貫」登基 | Go Goal 勁球網",
             "新竹縣集團結婚10/17登場 新人賀禮加碼至3萬元、限額36對",
@@ -46892,11 +46892,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 70,
+          "news_count": 68,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 88,
+          "urgency_score": 86,
           "sample_titles": [
             "苗栗白沙派出所老舊 新建廳舍動土",
             "苗栗白沙派出所老舊新建廳舍動土- 生活",
@@ -46940,11 +46940,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 79,
+          "news_count": 78,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 88,
+          "urgency_score": 87,
           "sample_titles": [
             "屏東夏日狂歡祭開跑 主角「蠟筆小新」陪孩子過暑假",
             "屏東新埤鄉公所爆弊案！ 「假臨時、真機要」薪資交換遭判刑- 社會",
@@ -47036,11 +47036,11 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 221,
+          "news_count": 220,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 287,
+          "urgency_score": 286,
           "sample_titles": [
             "高齡換照「一站服務」 台中議員、里長服務處場場爆滿",
             "台中3寶爸盯鮮肉鄰居下體、亂摸他全身 辯「酒後失態」：沒非分之想",

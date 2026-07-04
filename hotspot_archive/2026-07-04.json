@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "snapshot_at": "2026-07-04T01:15:25.143092+00:00",
+  "snapshot_at": "2026-07-04T01:21:44.413871+00:00",
   "hotspots": [
     {
       "title": "苗栗槍擊事件",
@@ -87,27 +87,6 @@
       "comments": []
     },
     {
-      "title": "屏東陳情/抗議",
-      "city": "屏東",
-      "place": "屏東縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "恆春囝仔盼亞運「衝浪」出賽 向賴總統陳情",
-          "url": "https://news.ltn.com.tw/news/Pingtung/paper/1761290",
-          "time": "2026-07-04 05:30:00",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台南陳情/抗議",
       "city": "台南",
       "place": "台南市政府",
@@ -124,6 +103,27 @@
           "time": "2026-07-03 19:38:04",
           "publisher": "新頭殼",
           "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "屏東陳情/抗議",
+      "city": "屏東",
+      "place": "屏東縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "恆春囝仔盼亞運「衝浪」出賽 向賴總統陳情",
+          "url": "https://news.ltn.com.tw/news/Pingtung/paper/1761290",
+          "time": "2026-07-04 05:30:00",
+          "publisher": "自由時報",
+          "severity": "yellow"
         }
       ],
       "comments": []
@@ -509,9 +509,9 @@
       "comments": []
     },
     {
-      "title": "基隆弊案爭議",
-      "city": "基隆",
-      "place": "基隆市政府",
+      "title": "台中弊案爭議",
+      "city": "台中",
+      "place": "台中市政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -520,10 +520,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "翻拍性平案資料私傳家長會「幫關切」 基隆校長洩密罪起訴",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5492758",
-          "time": "2026-07-03 15:12:35",
-          "publisher": "自由時報",
+          "title": "[Gossiping] [新聞] 渣警偷拍網紅女警激戰片遭判刑！台中第二",
+          "url": "https://www.ptt.cc/bbs/Gossiping/M.1783090418.A.D12.html",
+          "time": "2026-07-03 22:53:38",
+          "publisher": null,
           "severity": "red"
         }
       ],
@@ -551,6 +551,27 @@
       "comments": []
     },
     {
+      "title": "基隆弊案爭議",
+      "city": "基隆",
+      "place": "基隆市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "翻拍性平案資料私傳家長會「幫關切」 基隆校長洩密罪起訴",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5492758",
+          "time": "2026-07-03 15:12:35",
+          "publisher": "自由時報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "新北弊案爭議",
       "city": "新北",
       "place": "新北市政府",
@@ -566,27 +587,6 @@
           "url": "https://tw.news.yahoo.com/%E6%9B%BF%E4%BB%A3%E5%BD%B9%E7%94%B7%E6%83%A1%E6%80%A7%E4%B8%8D%E6%94%B9-%E5%9B%9E%E5%BD%B9%E5%A0%B1%E5%88%B0%E7%A7%92%E5%A4%B1%E8%81%AF%E9%80%83%E5%85%B5-%E6%96%B0%E5%8C%97%E5%9C%B0%E9%99%A2%E5%88%A4%E5%88%914%E6%9C%88%E7%BD%B012%E8%90%AC-025400471.html",
           "time": "2026-07-03 10:54:00",
           "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "台中弊案爭議",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "[Gossiping] [新聞] 渣警偷拍網紅女警激戰片遭判刑！台中第二",
-          "url": "https://www.ptt.cc/bbs/Gossiping/M.1783090418.A.D12.html",
-          "time": "2026-07-03 22:53:38",
-          "publisher": null,
           "severity": "red"
         }
       ],
@@ -2094,11 +2094,11 @@
       "city": "新竹縣",
       "place": "新竹縣政府",
       "level": "red",
-      "news_count": 21,
+      "news_count": 20,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 21,
+      "urgency_score": 20,
       "news_articles": [
         {
           "title": "單一學年度狂攬四冠創歷史！ 花蓮北埔國小「大滿貫」登基 | Go Goal 勁球網",
@@ -2238,13 +2238,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Vd1kxUldEd0I1QjB2dGZlUEtuRy1aWlVJSVdUT3duX3ZGRzh2NGdvQS1pZDNuWUlkcVYzd2JtczVpRVRTcVVrcWdQUjZLeXVlZ0Focw?oc=5",
           "time": "2026-07-03 11:20:58",
           "publisher": "Google News→品觀點",
-          "severity": "red"
-        },
-        {
-          "title": "沙拉油致癌物超標 新竹縣稽查29家業者",
-          "url": "https://tw.news.yahoo.com/%E6%B2%99%E6%8B%89%E6%B2%B9%E8%87%B4%E7%99%8C%E7%89%A9%E8%B6%85%E6%A8%99-%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%A8%BD%E6%9F%A529%E5%AE%B6%E6%A5%AD%E8%80%85-091706760.html",
-          "time": "2026-07-03 09:17:06",
-          "publisher": "Yahoo新聞",
           "severity": "red"
         }
       ],
@@ -4285,11 +4278,11 @@
       "city": "苗栗",
       "place": "苗栗縣政府",
       "level": "red",
-      "news_count": 70,
+      "news_count": 68,
       "comment_count": 0,
       "negativity_pct": 9,
       "is_urgent": false,
-      "urgency_score": 88,
+      "urgency_score": 86,
       "news_articles": [
         {
           "title": "苗栗白沙派出所老舊 新建廳舍動土",
@@ -4765,20 +4758,6 @@
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qSENIdElzOGJkcjhpQUVyWFVqbE5SbmFIb0g3RDQ5dHVIWjdDNG05cFdtd0laQXpVUnY3enJvRmhJR2NyNDRLMjhFU0tLSWpnWFlvLU1JeHFZTDV60gFiQVVfeXFMTzRnRmpDNnRXZ1NyTHI2VU5Qa2UyUWt0RURuM3Z0S0RuVms5NHI5M1kzNC1feU1ON0lJMTZxWjZQczhNbW9aUGliZW81NExvZEJ4Q21fQUtqcXdVcDVsV0dySVE?oc=5",
           "time": "2026-07-03 09:34:00",
           "publisher": "Google News→鏡週刊Mirror Media",
-          "severity": "red"
-        },
-        {
-          "title": "衝動吃官司！國道行車糾紛竟「揮槍」 苗栗露營商被判拘役40天",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5492317",
-          "time": "2026-07-03 09:20:37",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "衝動吃官司！國道行車糾紛竟「揮槍」 苗栗露營商被判拘役40天",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tMmRQT2VPX25SYmVmUjJUdlBJTHdWdDN2UDdPcHVFbDI1UG5VS0tidTNOeGZDRE5HV21VV09EZ0szZVdseUFjYS1PTGJPcW1TMUdva2Q4T2ZwRGh3a2d4N1JOenNLLVEz0gFuQVVfeXFMTmN6SmZtTncxSFl2aHhZYi1GZTQ5ZUFMS2F2ZDYzSUhxXzkwZlVlaWI2VDVzQi1Xclc2VjlFVzgyN0N2NVhhdzhjd0dhZnBzR2xMRDl6QmR3X2NpbkV4U243N09MMVBPNEpDR3pMbEE?oc=5",
-          "time": "2026-07-03 09:20:37",
-          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -5818,11 +5797,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "red",
-      "news_count": 79,
+      "news_count": 78,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 88,
+      "urgency_score": 87,
       "news_articles": [
         {
           "title": "屏東夏日狂歡祭開跑 主角「蠟筆小新」陪孩子過暑假",
@@ -6368,13 +6347,6 @@
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zUGMySGxodGt6NkgwZ2xTUHNnOEZtRUdJb3lUNUg4enM2NUtNd2Q1TEw0cDJnX2lndmk5S3RKdGtNMU01eGVhdWw0WkpzRkhjdkE?oc=5",
           "time": "2026-07-03 09:53:00",
           "publisher": "Google News→鏡報",
-          "severity": null
-        },
-        {
-          "title": "屏東中醫診所突宣布「徐榮澤院長辭世」永久停業 在地病患難過哀悼",
-          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNckI0Umc0eGZsMVZjSVFqZzR3b0ZhNDhGSktNRG5GOVNDYWpkcmpTdUFFRk1WUkNsWnN3d3VZNXhMb3FvQUtrMElyZE1FQUNxcEZtcGVVZFRkYnNJMUpWYlQwWTdZTjlHT1BEemtnZjhnRVV6anh5WndZbWFYVmJyMl8xSTNNXzlRZnFFYlp5bFFZN19VbDAzdWZPVHY0VGZaOHFDV1F4U1Q3TW5xVDltOEcxVG5SWmt6Tmk0Y2VlZERWSUZkUk1tYkdYQWVxUkp0b3p3Xy1yMmJMWlF4YXludDU2WTlIRnUtMFhJNFNnNWhjUEdncC1VZGdLdmp6MGQ2MHVGM1RXZ2dMM05oNTl3d0h6TFdmTkhDd0ZvUE1UWDBKNERQYThMN3ZJdGdBbUZQaVRheDFoRU9SeXFOMFFoOXhwSXZqajFSSVI5bGNKbjVPb19WYllYZ3Q2X21nbHBkT19SMld1Y1ZDajlEQVB1ZlhHdi1XSW5XZ05qUzVLVGVrbUE?oc=5",
-          "time": "2026-07-03 09:18:51",
-          "publisher": "Yahoo新聞",
           "severity": null
         }
       ],
@@ -11418,11 +11390,11 @@
       "city": "台中",
       "place": "台中市北屯區",
       "level": "red",
-      "news_count": 221,
+      "news_count": 220,
       "comment_count": 0,
       "negativity_pct": 10,
       "is_urgent": false,
-      "urgency_score": 287,
+      "urgency_score": 286,
       "news_articles": [
         {
           "title": "高齡換照「一站服務」 台中議員、里長服務處場場爆滿",
@@ -12962,13 +12934,6 @@
           "url": "https://www.storm.mg/lifestyle/11146742",
           "time": "2026-07-03 09:35:00",
           "publisher": "風傳媒",
-          "severity": null
-        },
-        {
-          "title": "[Gossiping] [新聞] 台中男頂樓放飛「燒仙草」燒毀隔壁鄰居家",
-          "url": "https://www.ptt.cc/bbs/Gossiping/M.1783041654.A.8F1.html",
-          "time": "2026-07-03 09:20:54",
-          "publisher": null,
           "severity": null
         }
       ],
