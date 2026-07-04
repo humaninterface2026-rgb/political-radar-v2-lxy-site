@@ -46326,7 +46326,7 @@
     },
     {
       "date": "2026-07-04",
-      "snapshot_at": "2026-07-04T10:14:20.456453+00:00",
+      "snapshot_at": "2026-07-04T10:15:31.096373+00:00",
       "hotspots": [
         {
           "title": "行人地獄討論",
@@ -46355,20 +46355,6 @@
           ]
         },
         {
-          "title": "台南陳情/抗議",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "黃偉哲宣示挺教師 南市訂「教師合理管教全攻略」提供陳情處理及管教指引"
-          ]
-        },
-        {
           "title": "屏東陳情/抗議",
           "city": "屏東",
           "place": "屏東縣政府",
@@ -46380,6 +46366,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "恆春囝仔盼亞運「衝浪」出賽 向賴總統陳情"
+          ]
+        },
+        {
+          "title": "台南陳情/抗議",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "黃偉哲宣示挺教師 南市訂「教師合理管教全攻略」提供陳情處理及管教指引"
           ]
         },
         {
@@ -46522,6 +46522,20 @@
           ]
         },
         {
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "[Gossiping] [新聞] 渣警偷拍網紅女警激戰片遭判刑！台中第二"
+          ]
+        },
+        {
           "title": "基隆弊案爭議",
           "city": "基隆",
           "place": "基隆市政府",
@@ -46547,20 +46561,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "彰化杜告犬遭虐死棄屍 飼主涉故意虐待.傷害起訴"
-          ]
-        },
-        {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "[Gossiping] [新聞] 渣警偷拍網紅女警激戰片遭判刑！台中第二"
           ]
         },
         {
@@ -46616,11 +46616,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "yellow",
-          "news_count": 40,
+          "news_count": 39,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 40,
+          "urgency_score": 39,
           "sample_titles": [
             "擴大區域污染管制，宜蘭3處空維區新制上路！",
             "台灣青年營宜蘭登場 青年齊聚培育公共參與人才 傳承民主新火",
@@ -46726,11 +46726,11 @@
           "city": "新竹縣",
           "place": "新竹縣政府",
           "level": "red",
-          "news_count": 12,
+          "news_count": 11,
           "comment_count": 0,
-          "negativity_pct": 8,
+          "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 15,
+          "urgency_score": 14,
           "sample_titles": [
             "新竹縣稽查致癌油第2波 小吃店、自助餐、便當店等34家都未使用",
             "中聯毒油滾雪球 新竹縣今展開第2波稽查餐飲行動",
@@ -46850,6 +46850,22 @@
           ]
         },
         {
+          "title": "澎湖地方動態",
+          "city": "澎湖",
+          "place": "澎湖縣政府",
+          "level": "red",
+          "news_count": 60,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 60,
+          "sample_titles": [
+            "暑假最後一週衝刺澎湖觀光熱度 沙灘音樂祭力拚吸引萬人 | 生活焦點 | 要聞",
+            "暑假最後一週衝刺澎湖觀光熱度 沙灘音樂祭力拚吸引萬人",
+            "中國科研船再現澎湖 中山大學號取道七美前進台灣南部海域 | 自由電子報"
+          ]
+        },
+        {
           "title": "新北地方動態",
           "city": "新北",
           "place": "新北市政府",
@@ -46863,22 +46879,6 @@
             "新北市議員大新店選區參選人邸聖德今天舉辦「AI 手機初階活動課程」，吸引地方鄉親踴躍報名，超過200位高尊長者及民眾參與",
             "內政部攜手同濟會齊聚新北 培育社區「救命種子」",
             "全國綠竹筍評鑑新北奪10獎項 侯友宜頒贈賀匾及獎座"
-          ]
-        },
-        {
-          "title": "澎湖地方動態",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
-          "level": "red",
-          "news_count": 61,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 61,
-          "sample_titles": [
-            "暑假最後一週衝刺澎湖觀光熱度 沙灘音樂祭力拚吸引萬人 | 生活焦點 | 要聞",
-            "暑假最後一週衝刺澎湖觀光熱度 沙灘音樂祭力拚吸引萬人",
-            "中國科研船再現澎湖 中山大學號取道七美前進台灣南部海域 | 自由電子報"
           ]
         },
         {
@@ -46966,11 +46966,11 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 160,
+          "news_count": 158,
           "comment_count": 0,
-          "negativity_pct": 2,
+          "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 172,
+          "urgency_score": 170,
           "sample_titles": [
             "赴台中同框盧秀燕、江啟臣 鄭麗文：盧市長是我們共同的媽媽",
             "2026台中市長選戰震撼彈！盧秀燕「交棒」江啟臣，劍指2028重返執政！",

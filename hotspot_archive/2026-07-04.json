@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "snapshot_at": "2026-07-04T10:14:20.456453+00:00",
+  "snapshot_at": "2026-07-04T10:15:31.096373+00:00",
   "hotspots": [
     {
       "title": "行人地獄討論",
@@ -46,27 +46,6 @@
       "comments": []
     },
     {
-      "title": "台南陳情/抗議",
-      "city": "台南",
-      "place": "台南市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "黃偉哲宣示挺教師 南市訂「教師合理管教全攻略」提供陳情處理及管教指引",
-          "url": "https://newtalk.tw/news/view/2026-07-03/1045155",
-          "time": "2026-07-03 19:38:04",
-          "publisher": "新頭殼",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "屏東陳情/抗議",
       "city": "屏東",
       "place": "屏東縣政府",
@@ -83,6 +62,27 @@
           "time": "2026-07-04 05:30:00",
           "publisher": "自由時報",
           "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台南陳情/抗議",
+      "city": "台南",
+      "place": "台南市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "黃偉哲宣示挺教師 南市訂「教師合理管教全攻略」提供陳情處理及管教指引",
+          "url": "https://newtalk.tw/news/view/2026-07-03/1045155",
+          "time": "2026-07-03 19:38:04",
+          "publisher": "新頭殼",
+          "severity": null
         }
       ],
       "comments": []
@@ -463,6 +463,27 @@
       "comments": []
     },
     {
+      "title": "台中弊案爭議",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "[Gossiping] [新聞] 渣警偷拍網紅女警激戰片遭判刑！台中第二",
+          "url": "https://www.ptt.cc/bbs/Gossiping/M.1783090418.A.D12.html",
+          "time": "2026-07-03 22:53:38",
+          "publisher": null,
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "基隆弊案爭議",
       "city": "基隆",
       "place": "基隆市政府",
@@ -499,27 +520,6 @@
           "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E6%9D%9C%E5%91%8A%E7%8A%AC%E9%81%AD%E8%99%90%E6%AD%BB%E6%A3%84%E5%B1%8D-%E9%A3%BC%E4%B8%BB%E6%B6%89%E6%95%85%E6%84%8F%E8%99%90%E5%BE%85-%E5%82%B7%E5%AE%B3%E8%B5%B7%E8%A8%B4-063411369.html",
           "time": "2026-07-04 14:34:11",
           "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "台中弊案爭議",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "[Gossiping] [新聞] 渣警偷拍網紅女警激戰片遭判刑！台中第二",
-          "url": "https://www.ptt.cc/bbs/Gossiping/M.1783090418.A.D12.html",
-          "time": "2026-07-03 22:53:38",
-          "publisher": null,
           "severity": "red"
         }
       ],
@@ -845,11 +845,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "yellow",
-      "news_count": 40,
+      "news_count": 39,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 40,
+      "urgency_score": 39,
       "news_articles": [
         {
           "title": "擴大區域污染管制，宜蘭3處空維區新制上路！",
@@ -1123,13 +1123,6 @@
           "time": "2026-07-03 18:37:37",
           "publisher": "Google News→LINE TODAY",
           "severity": null
-        },
-        {
-          "title": "宜蘭檢方硬起來 惡男毒駕「不准易科罰金」直接送去關",
-          "url": "https://www.cdns.com.tw/articles/1424714",
-          "time": "2026-07-03 18:15:11",
-          "publisher": "中華日報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -2023,11 +2016,11 @@
       "city": "新竹縣",
       "place": "新竹縣政府",
       "level": "red",
-      "news_count": 12,
+      "news_count": 11,
       "comment_count": 0,
-      "negativity_pct": 8,
+      "negativity_pct": 9,
       "is_urgent": false,
-      "urgency_score": 15,
+      "urgency_score": 14,
       "news_articles": [
         {
           "title": "新竹縣稽查致癌油第2波 小吃店、自助餐、便當店等34家都未使用",
@@ -2105,13 +2098,6 @@
           "time": "2026-07-03 20:50:00",
           "publisher": "Google News→蕃新聞",
           "severity": null
-        },
-        {
-          "title": "沙拉油致癌物超標 新竹縣稽查29家業者",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5SlliM2xESmpuUHVXYTJXSzEydExXLXRLVERsUVVjRGgzdU00SWtzRGI5dHFzeFU2UFl5eElGWi1LMXZyMHEzcWxlLXRPbXNydWc?oc=5",
-          "time": "2026-07-03 18:15:16",
-          "publisher": "Google News→放言Fount Media",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -4035,6 +4021,440 @@
       "comments": []
     },
     {
+      "title": "澎湖地方動態",
+      "city": "澎湖",
+      "place": "澎湖縣政府",
+      "level": "red",
+      "news_count": 60,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 60,
+      "news_articles": [
+        {
+          "title": "暑假最後一週衝刺澎湖觀光熱度 沙灘音樂祭力拚吸引萬人 | 生活焦點 | 要聞",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jM0hXMXh6Xzdka1Qyc1BIeHY4MDJRTjBQWC1TME1pc2cwd0l5YmhKeGdJQW10NHF6Z05XeEFPMXozaDJGUmlXcEJwaDY?oc=5",
+          "time": "2026-07-04 16:01:32",
+          "publisher": "Google News→NOWnews今日新聞",
+          "severity": null
+        },
+        {
+          "title": "暑假最後一週衝刺澎湖觀光熱度 沙灘音樂祭力拚吸引萬人",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CSmlmZnp1R3J5N0hGQVVxVWJPcjUwYU03NHNrb0hXbGFDS2JhZldCa1pQay11NEFLQ3V2NVlORHdVNHUzQnY2ak1qbElIT242RmfSAVJBVV95cUxOQkppZmZ6dUdyeTdIRkFVcVViT3I1MGFNNzRza29IV2xhQ0tiYWZXQmtaUGstdTRBS0N1djVZTkR3VTR1M0J2NmpNamxJSE9uNkZn?oc=5",
+          "time": "2026-07-04 16:01:32",
+          "publisher": "Google News→NOWnews今日新聞",
+          "severity": null
+        },
+        {
+          "title": "中國科研船再現澎湖 中山大學號取道七美前進台灣南部海域 | 自由電子報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IZjJIb3ZOS0tlYjhvMHRDcXhLc3VremFsaG45bTNjT3F5dG9yb3M1MFQ3SDZaMG5XcmRaM3VMbmVadEZ1OEVCa2VNdU9PdzljYnI1RmxR?oc=5",
+          "time": "2026-07-04 15:47:19",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "yellow"
+        },
+        {
+          "title": "中國科研船再現澎湖 中山大學號取道七美前進台灣南部海域",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5493754",
+          "time": "2026-07-04 15:16:33",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖漁船夜捕小管 小門外海巧遇海豚伴游",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5493718",
+          "time": "2026-07-04 14:53:39",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "澎湖海事職校推SUP立式划槳體驗營 校長親帶隊",
+          "url": "https://tw.news.yahoo.com/%E6%BE%8E%E6%B9%96%E6%B5%B7%E4%BA%8B%E8%81%B7%E6%A0%A1%E6%8E%A8sup%E7%AB%8B%E5%BC%8F%E5%88%92%E6%A7%B3%E9%AB%94%E9%A9%97%E7%87%9F-%E6%A0%A1%E9%95%B7%E8%A6%AA%E5%B8%B6%E9%9A%8A-061752874.html",
+          "time": "2026-07-04 14:17:52",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "澎湖海事職校推SUP立式划槳體驗營校長親帶隊- 地方",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tY0MwelljY1Fld2EwRWFiMEhQM0s3U1RldV9tM0V1QWZuRTJHLTNhb2YwT2ItNGd2dVpkU1dpWVV5T2xxVzhSTmNkTkZMdFhfeFgybmtISFh0Q1VUc1Zac2phNUVUZDZva2VwdGJR?oc=5",
+          "time": "2026-07-04 14:17:52",
+          "publisher": "Google News→華視新聞網",
+          "severity": null
+        },
+        {
+          "title": "澎湖海事職校推SUP立式划槳體驗營校長親帶隊| 地方",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfZlZWWHFDeGVVbW91VjVRNnRhTWJQT2ZSZ1lrUVRjOE5VeEROTndjNTdPRHlVSDZ5bjBaRHJLdkhtYllHQmdsQ1R6ZkNMeHlXS3l1OWZMUlNkV0dTZVg4?oc=5",
+          "time": "2026-07-04 14:17:00",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "3D列印「砂砱生態礁」 研究團隊助澎湖石滬文化再復興",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96bWFBZDlGNHFrSEo1bjdaWnJvVF8wa19VLW1YRTA0Y194VUFIV3dGSW12d2RRMkpyYTQ2cm5Gc0RyOHBtY29jNWd6OExxZ00?oc=5",
+          "time": "2026-07-04 13:02:40",
+          "publisher": "Google News→公視新聞網PNN",
+          "severity": null
+        },
+        {
+          "title": "偷採154顆馬糞海膽被逮 澎湖馬公民代參選人宣布退黨 | EBC 東森新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11TmRnUUlMNVJVODdZT3hsTnhjZ2pXVFpfUWVyME5XMEpxSXVhNzhSY3lWR1lzbDQ4Y1VENEkwWTFiM2RidFVkZ2dHWGs0WkdSTy1kQ2pR?oc=5",
+          "time": "2026-07-04 12:13:25",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "red"
+        },
+        {
+          "title": "偷採154顆馬糞海膽被逮 澎湖馬公民代參選人宣布退黨",
+          "url": "https://news.ebc.net.tw/news/politics/559594",
+          "time": "2026-07-04 12:13:00",
+          "publisher": "東森新聞",
+          "severity": "red"
+        },
+        {
+          "title": "沙排／澎湖菊島盃沙灘排球錦標賽登場逾300好手參賽| 綜合 | 運動",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wVnotVXZDUHJTanB2Q25BcDRLWDdNZnY0RGVhU0hiczBEa0dhekExclh1ZHFqR1lUYlRhSjNfa3QxVEd3dkV3UGRIM092ZEtn?oc=5",
+          "time": "2026-07-04 12:04:52",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "澎湖菊島盃沙灘排球錦標賽登場 逾300好手參賽 | 體育",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRZjVlSkM0UEt0Q012SFI4djJBMmJsZWFxWWhhM1g1QTRwejZlSFVNTjVydzFJTEFaOEtlQzZmSUJ6cW1mRGV4czd2bjB1T0ZqM0RXdHA2c1R5bEU?oc=5",
+          "time": "2026-07-04 11:35:04",
+          "publisher": "Google News→Newtalk新聞",
+          "severity": null
+        },
+        {
+          "title": "台南安平－澎湖安馬航線開航 「台南＋跳島」雙重體驗引爆暑期觀光熱潮",
+          "url": "https://www.thehubnews.net/archives/640929",
+          "time": "2026-07-04 11:24:33",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "最離奇退黨原因！澎湖綠市代參選人「偷撈馬糞海膽」遭逮認錯了",
+          "url": "https://news.tvbs.com.tw/politics/3248271",
+          "time": "2026-07-04 11:05:05",
+          "publisher": "TVBS",
+          "severity": "red"
+        },
+        {
+          "title": "澎湖菊島盃沙灘排球錦標賽登場 逾300好手參賽",
+          "url": "https://tw.sports.yahoo.com/news/%E6%BE%8E%E6%B9%96%E8%8F%8A%E5%B3%B6%E7%9B%83%E6%B2%99%E7%81%98%E6%8E%92%E7%90%83%E9%8C%A6%E6%A8%99%E8%B3%BD%E7%99%BB%E5%A0%B4-%E9%80%BE300%E5%A5%BD%E6%89%8B%E5%8F%83%E8%B3%BD-024343158.html",
+          "time": "2026-07-04 10:43:43",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "澎湖菊島盃沙灘排球錦標賽登場逾300好手參賽- 運動",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wWEFiTmp0dGxmUGdWaWZCUkJRejZ1MlFMazgxNmt1MFdGMVVfVTJNOE9WLXJEWkg2VVVJdHpiMUZ2bDZuYnFSZnV6dzhvSk54anQ2aE0yZWdZNzZsRG5UT0w3WW9KOG1SOXlNUUs3Zw?oc=5",
+          "time": "2026-07-04 10:43:43",
+          "publisher": "Google News→華視新聞網",
+          "severity": null
+        },
+        {
+          "title": "澎湖菊島盃沙灘排球錦標賽登場逾300好手參賽| 運動",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HbEpCaXltVThhQkZDNGkya1lkZXl4alFrTmNSNXBlUjBud3Q3elhTSEtwNTlLWHBZM0FwZ1NmS0tmX19fLVF5TjZGMWZlLVh0VnVHMU53NzdHckpYeFVz?oc=5",
+          "time": "2026-07-04 10:43:00",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "台中機場總算有大飛機！華航A321neo首航澎湖 235人座大客機引爆中台灣",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5493402",
+          "time": "2026-07-04 09:33:26",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "澎湖追風音樂燈光節9月登場 五場演唱會接力開唱",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVpNLWpqMnpmQ1QxV090aUNjZVBYTG9USnlhMHVhZjQ2Q0FwWG5KdTlqQnZuYm04Ql9PdnF6dlA4RmpBaTRmaGlQVmpkQ2NuT2N1ekFQNWlZWElWU0hKbS1OZ2dRWW1qYURkOWlnWDVuVW5KVk5ucVVUUGcyeUJPa185MHk2SVZfYlYxUTlGd2ZQVHRjdU44T2dPaw?oc=5",
+          "time": "2026-07-04 09:05:00",
+          "publisher": "Google News→新住民全球新聞網",
+          "severity": null
+        },
+        {
+          "title": "華信航空A321neo首航台中-澎湖 推暑假旅遊",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NRGhOZmNBVUhfa3hFYXY1M3JPUVRhZHFrbEhhSW5EVHowWjhZY0EyT1dzQ1k1ZmYyWi1tSnRGR012MGFHTWY0c0VFamx3RzZJalVmcXFJMEdibmtaY0ZTUnpBNA?oc=5",
+          "time": "2026-07-04 08:50:59",
+          "publisher": "Google News→澎湖日報",
+          "severity": null
+        },
+        {
+          "title": "警政署長張榮興 澎湖天后宮上香祈福",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGNDgzdk1kak91TjBpdVZteVlKZ3pvVEJOX1lMcV9uaHV3TDZCbE5JMzJmal9ncmxSdEFyYnBTdUNFOUhnR1VmQTk1UU8xMFhsQlVZYnRFRV93UjFHVmlYYUpaaUsxU3V2dW5V?oc=5",
+          "time": "2026-07-04 08:35:59",
+          "publisher": "Google News→澎湖日報",
+          "severity": null
+        },
+        {
+          "title": "探索職涯・體驗未來 澎湖海事暑期職探體驗營熱鬧登場",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FM1pkakNLcklDcVBIM2hOcjl6YjVOcEhfYW1HRWV2OVIyNHc0b2dicGRzS19rZ2NqLTQ1MGFZMnIxSWZyWk1vRjRzMUZUdGljSE5hVTVEcWZhUkdZZmdTb3lkTXg4a05Tak44?oc=5",
+          "time": "2026-07-04 08:25:59",
+          "publisher": "Google News→澎湖日報",
+          "severity": null
+        },
+        {
+          "title": "深耕菊島55載! 澎湖家扶8/16邀您同慶「愛5止盡」",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KTHhGMlJXdzFNUlFWVXBUY1VQLVhhZHp5V0ptZ25IZWxYR2J1dE1rOF92Q00zdHgweEVYSGNrLXFRbXZPcTZiRlpJTi1VWXdrcnlQYVdvXzN0VVAxVGZWcHR5dw?oc=5",
+          "time": "2026-07-04 07:50:58",
+          "publisher": "Google News→澎湖日報",
+          "severity": null
+        },
+        {
+          "title": "體驗一日農夫! 澎湖「白膜花生食農體驗」7/7起開放現場報名",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEa0ZzVkY4TU9ramxRc3NjNFRnc2tSYlBjeHZpNHlpQzhmS2IzNy1PVm1IX3FGUzhoeE1uSTlydkVlS2RDd3E0Qk5ZMDI5dDZub3JDR0tGYkQtWjU4?oc=5",
+          "time": "2026-07-04 07:45:58",
+          "publisher": "Google News→澎湖日報",
+          "severity": null
+        },
+        {
+          "title": "《石空療育-澎湖石友會會員聯展》7月11日文馨畫廊展出",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43QmVDWlMxeHpnMVh4WTA0cEtOeFhDRzFKZjFBY0tVZm95V3dGN1paU3BlTEdWdE1XVFRZOTdndkVQSjl5b2FQbndMY3JiU1Vla0o1YndIalNxUW9vLXc?oc=5",
+          "time": "2026-07-04 07:35:58",
+          "publisher": "Google News→澎湖日報",
+          "severity": null
+        },
+        {
+          "title": "澎湖縣政府辦理「性別暴力防治案例研討」研習",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IZVA2eGJDZlZuRHV3RkpZaHRTTnJuUnpzb01aMktYc05mQ3J4bDRkeGJ5R2dFZ3FzZUlkY3ZDVjR4VV9TcFB0VVZ2aHFlSXEtYlNCSmF2UXN3bFBYU1loaGx0TUQtd1I0YVZr?oc=5",
+          "time": "2026-07-04 07:35:58",
+          "publisher": "Google News→澎湖日報",
+          "severity": null
+        },
+        {
+          "title": "苗栗白沙派出所老舊 新建廳舍動土",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11OUdud2liUklESkFwRzVLcFpGMzRWWmExZFR3T3ZqZWZfVWI1VTUtYWZteTB6aEpELUxkV3dzYzBlVkNsYXNBZTJHSDdPT1hLUGlXXzM2RFhOcjDSAWBBVV95cUxNX0pGX1VxalBaWVNQNXJEU2ltQ3l0aDhNRFF2NVZ5ZDBabkJHT09NNFhFTmYteXpvMjU2V09oaHRyRUNlbjFaRENIczQ0aWtZbW1iajk2dm4xOTV1cWxacUY?oc=5",
+          "time": "2026-07-04 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "苗栗白沙派出所老舊新建廳舍動土- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11OUdud2liUklESkFwRzVLcFpGMzRWWmExZFR3T3ZqZWZfVWI1VTUtYWZteTB6aEpELUxkV3dzYzBlVkNsYXNBZTJHSDdPT1hLUGlXXzM2RFhOcjA?oc=5",
+          "time": "2026-07-04 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "禁捕期狂撈154顆海膽！綠營民代參選人遭逮 澎湖黨部說話了：已退黨、辭職",
+          "url": "https://tw.news.yahoo.com/%E7%A6%81%E6%8D%95%E6%9C%9F%E7%8B%82%E6%92%88154%E9%A1%86%E6%B5%B7%E8%86%BD-%E7%B6%A0%E7%87%9F%E6%B0%91%E4%BB%A3%E5%8F%83%E9%81%B8%E4%BA%BA%E9%81%AD%E9%80%AE-%E6%BE%8E%E6%B9%96%E9%BB%A8%E9%83%A8%E8%AA%AA%E8%A9%B1%E4%BA%86-%E5%B7%B2%E9%80%80%E9%BB%A8-%E8%BE%AD%E8%81%B7-095106980.html",
+          "time": "2026-07-04 04:22:38",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "苗栗 因應進香人潮與勤務需求 白沙派出所重建明年完工",
+          "url": "https://tw.news.yahoo.com/%E8%8B%97%E6%A0%97-%E5%9B%A0%E6%87%89%E9%80%B2%E9%A6%99%E4%BA%BA%E6%BD%AE%E8%88%87%E5%8B%A4%E5%8B%99%E9%9C%80%E6%B1%82-%E7%99%BD%E6%B2%99%E6%B4%BE%E5%87%BA%E6%89%80%E9%87%8D%E5%BB%BA%E6%98%8E%E5%B9%B4%E5%AE%8C%E5%B7%A5-201000414.html",
+          "time": "2026-07-04 04:10:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "澎湖 東吉島3發電機故障 限電惹怨",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMl9LVFRSNFVzS1ZubVpZT0tGWkpLR0FkSTA3S1ducXJja3JseEktQkZ5Vk1NMWhUVVNIanQwaUV3c1FGMHc5ZTFLYmFienBKQXBxeGhmZzJ4dTJTMVNYQ3hRMFJ3Q29SeWZWVmx5a0VWYVlsM2ZEa0ZoZmItYjlSdEFkZ3FsUFhfZGdHS3h1enBycUNJdWlFRERlVl9sbGxmaFY3ZlJjYVFxbWhUZmg1RnpoLVJxN2wzN084azNMNWlhNjBFY1N4el90T2dEcTdaeFBOVmt1WmliakpscHp1SzM1SjlIdU9XTDNIZE04c1hBSkEyYlJ1bktFa1lmbGM?oc=5",
+          "time": "2026-07-04 04:10:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "涉禁捕期採捕馬糞海膽 民進黨參選人項光照退黨、辭澎湖黨部執委",
+          "url": "https://tw.news.yahoo.com/%E6%B6%89%E7%A6%81%E6%8D%95%E6%9C%9F%E6%8E%A1%E6%8D%95%E9%A6%AC%E7%B3%9E%E6%B5%B7%E8%86%BD-%E6%B0%91%E9%80%B2%E9%BB%A8%E5%8F%83%E9%81%B8%E4%BA%BA%E9%A0%85%E5%85%89%E7%85%A7%E9%80%80%E9%BB%A8-%E8%BE%AD%E6%BE%8E%E6%B9%96%E9%BB%A8%E9%83%A8%E5%9F%B7%E5%A7%94-023500873.html",
+          "time": "2026-07-04 02:35:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "澎湖縣政府法律扶助免費服務 請鄉親善加利用",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQb2RSMnh5dFJQWWtBekxoa2d4RFdjbGhIU3RqQl9WdFNidkdVMklXTXlNdzNzRkM3UHdKN0FnVHB4UkMwdUZWVklrSmEwZkVaT2R5dTVUWC1OYUdRa09Jd3ZzeWUyYWpFeC1kM1ZTY2FvUU5DdUdtWW5KSnFjUXVnTGt2RzV6V2Z3S3NEanVWTC1kZUZfaW1BWkoxQUpCMDdfck12WHpCSFdrZVhIUmRJZl9QZFBBYTByN1F4LUZMdHBxVVFuUmdiT0ZqdmFqdVUwTVFSMnAtLTBTclpGWmxsbmVSMDk4RDlQd0RwOWpHYUhaVHBjeEw4OURWaGVjbGhYTm1KNHBrVzRNaG9XODgzTGlUeEtMU3g3N2tTMDV4OWR4Y21FTVdES2NQT21GeVk?oc=5",
+          "time": "2026-07-04 00:03:03",
+          "publisher": "Google News→澎湖e傳媒",
+          "severity": null
+        },
+        {
+          "title": "澎湖縣政府車船處推出多元航班洽公旅遊更多選項",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOQ1hGd1lPNzhKQlIzdFBHRDZpV0dkbzBUbndISWtaWURWU2FqVVJqQ0pOUHlwTlp4eWNJVHlDZTdrbTR5X0l3SW14NF9ZS3dJZjVFSF9TRG9tYWN3SDdtc3R2SFBLejl0aEFtZ1BuSjRNdF9abllfRkZPaUlTRVNIRlphZXN4aTBydnN2Y2JwZVY5em5GeW9IWHpudnNnTEhhVzVHQThoY3hVSTFrZnVGbXNNVnJvRXZuSDl2TDY4WUp3RjZQelpqLV9qN1VwT0RmTDhaMFZaMDFPZ3ItVWZhM3VCSFdRSGcxZjhYbjc3T25zYWRiczhmd2NOVG8zUFlWbExkZm8tb2dmWmJHMkt1SjBjRG5veUt4d1JYa1Z1TTU2QU5MeWNld05hSzVTcHBXODBWZzZBU1lsX3VUNW9sUG5OY2Y?oc=5",
+          "time": "2026-07-04 00:02:53",
+          "publisher": "Google News→澎湖e傳媒",
+          "severity": null
+        },
+        {
+          "title": "華信航空引進華航A321neo飛機 首航台中-澎湖航線 - 消費新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeWZNNTk3OXBYbTN5MVBVRnNrcXE2QTFYVE10cjZDZ0FvU2hzQ29fNW5MT1lmSWVWQ2xsYXRQbTN4cFNfLVNmd0Q0OURmdlVYY2Uzd282ZUZMZWRPeXhZalVGeHdLQUo2VVNrejlyTnJZbEVRcDBFNU51LVBvRTFyUE5yUGNjd3UxRzNYaVBFNU4xQQ?oc=5",
+          "time": "2026-07-03 23:30:24",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "苗栗白沙派出所重建動土 4900萬元打造現代化警政新據點 - 社會新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNakFnX29faGRQZDdQclM3djM5Zk1tWmxqWUN4cno0UnpDR1RXSG51UWdWVUM4S1VKQjlDeDVLeUNLeTl2YnpDSFAtdy0ybzdlTFVNSXpoQTJUUE1YeDdfWjJqYXlfcVE2a3RNU0lDVFo1OU83Mi1ZbHZPbDU5anZZRi1Ya0xBVEEtTDBVQg?oc=5",
+          "time": "2026-07-03 21:46:56",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "華信航空引進Ａ三二一ｎｅｏ客機首航台中澎湖 協助暑假旅遊旺季疏運 | 中華日報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01djZaT1REZFZFaTRSSnhZdERaa1hwM09zZDJIYTNaV0dMd0RDb0VMeDhoTkhDd1IyTXlseUlIWmNUa2pZNmVEUjY4UWx0d2g5eWN5bXdR?oc=5",
+          "time": "2026-07-03 21:32:13",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "華信航空引進Ａ三二一ｎｅｏ客機首航台中澎湖 協助暑假旅遊旺季疏運",
+          "url": "https://www.cdns.com.tw/articles/1424876",
+          "time": "2026-07-03 21:27:42",
+          "publisher": "中華日報",
+          "severity": null
+        },
+        {
+          "title": "嘉義大車站計畫啟動 小澎湖公辦都更意願調查至9/30",
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOdUZIVUxpQ3NyMVVDR2lBWEFOQnZnc0FkbWlNQXdZTE10YVpRUS16ODk2a0xPaXBZVS0xdjRnR2ZxN0owME85bVo2c0lwRVJGMUxPVzIwWHF6aHhKR3hfQ0d6dk1tV085NGJGUVhSNnRJOEFyTmlDWTVuRmJUTkUxS2dTOHd6ZXRId2NXc3FiZDI5NWQ4cHlSSlVlOUpkeGpHVlctZnlYWExfNFp1UUFJVTF6OTZnVk5WZlVxNDR0Y1dqWTh6ZFRaSXpuUXVCZDZvQndCcm9mVVJ5RmhieHlJbTFmSlFuaThkYmI4RzZJZlZmWWZxSXhMYkJYMjBBOGsybWV1TEpIY0EwSXU3MmtRendYZWRrejY3dGthWmltellrME5VdmNNd3dFTGZjblRONmVBUE05cDdkbVZLa29oSHJfdDZBckVxVnFrYlZEbW9TYkE?oc=5",
+          "time": "2026-07-03 21:02:30",
+          "publisher": "Google News→台灣好新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉義大車站計畫啟動 小澎湖公辦都更意願調查至9/30 | 台灣好新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTamdFTjlibXRXc1F0bnc1cjBzRmNYb3ZFRzVsUDA4VDhNTzhHZUFhZFZNY3o0cEZ5UHVSMDV5eWRoN0tYbTFPLVAwenY3STFSSW1OX1JB?oc=5",
+          "time": "2026-07-03 21:02:25",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "澎湖東吉嶼3發電機接連異常 今起每天限電4小時",
+          "url": "https://news.pts.org.tw/article/816052",
+          "time": "2026-07-03 19:50:09",
+          "publisher": "公視 即時",
+          "severity": "yellow"
+        },
+        {
+          "title": "嘉義大車站計畫啟動 嘉市府展開小澎湖公辦都市更新意願調查",
+          "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxQNVI0WG02MVVnVndER3B2bkxvVnR1YmlEbHF0WjY2ZldCeXg0Z214MU9MNnJXTzg2Vzgwc3F5VVA2WFJQUTJScndiVnl4ZHRNSWt0WWF3T0UyN1NkR3hKOHJXTzFpZmV3T3o3WmRKTWhjajNwTjVXdDJkWTZvbFpRQWdaa1EtN09GZFhCRFRUa29yMjZpb1d5NUtHeW1Xek5BRFJSSGV6c091d2NURnY3ZjJkRk1EZ3NNdTdycDJ3ZFBLVV8yQjk3UDBPcVR5Qlc1dkNZa2t5anZXcnZlWjUxTnFsVEwyY2pqY3I3M2tnTjZ6ZVprT3huRGF5UVhsVTZqQnFrR2RNemRkeTMwcHRETDdGakg5eFIwRlJtcEJQdXJQRUg0c2pHYXptV2dRcENQUHc4MWZtSWhsb1ByM3JEdEtmdkRSRHNmUmhZc0hTeUhkdU1XVEhZOEY3cjhWT19NYU1ydExybWdEY2p4SS1RQ2IzZk9BbmVQSFBqcnp6UVNoYWtvMmItZXljaUJVTTdXNzFDX0lLVnE?oc=5",
+          "time": "2026-07-03 19:47:02",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉義大車站計畫啟動嘉市府展開小澎湖公辦都市更新意願調查- 生活新聞- PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGhpbElXdldhX29RMjJjOVhVcGQzZ3V0TVUtQ2FFUm9MUFJtY3BIVUJZSUwwTVg5dWVfMjczTllOS2JlVnU5YnowOGtwU0VCNS1uVUdfX3JxM2QxTFZ5dDVoamZFUUo2bDNyZzZpTmxKc1IxYkJ0aE1EcnFxNmJaM01tSTAwU2FHTm16akdhcTNZOTA?oc=5",
+          "time": "2026-07-03 19:47:02",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "澎湖東吉嶼3發電機接連異常 今起每天限電4小時",
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNLUlQUW5kakU2OUFaY1NKeGFSUmdHNVptLU1pSFhaWWI1MUFfNnppLXFTTHJYS0xhNXJtNXI1RENOeWlqT1E0am1WVUg3bi1ab2RiSDUyOHVEUUhwbUJzSWwxbjBMR0wxMG9LZFNfdmFwX2YwOHdaYnhnUzdlZXhSY3ZrTkF6NjdGeDlvd21KVmM4aXhqVWt5c05JbzIxQXByUk5QU2F5UTVvYkxsNzBOcll5emNVbGZzZThMZmxlVUdwQnhMX3VkS2ZhMXM5S2hNYjE1cWpET0M3WGx2V0NiWlppYVd1ckJYTl9PN1pPOHpNeDdoUUQ2NFhXWlZvV0F6ZUJCa1NROExoMS1GREF0cFdXWnlZR2htZEVVdmVILWFiSnVvdTJ5N0dmWTB0Y0ZadjRFdEFXTkt6T2syMGlmTGFSeGhsVTA?oc=5",
+          "time": "2026-07-03 19:46:04",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "華信航空大型客機A321neo投入離島航線 3日首航台中-澎湖 協助暑假旅遊旺季疏運 | 觀傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tSWJOODdQaWJPaVN5bXdxTVhlSkx1c0E2YmRsekExWjdtVFVhcTZkdXR1RG1xZ0FWQkJlMjZ0bElHRmRDV1JGNHAtX3VQLUhOM0ZyUEFn?oc=5",
+          "time": "2026-07-03 19:44:10",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "地方 2026/07/03 18:25 澎湖縣府規劃園區加港區 發展無人載具研發基地",
+          "url": "https://news.cts.com.tw/cna/local/202607/202607033051266.html",
+          "time": "2026-07-03 19:38:41",
+          "publisher": "華視新聞網",
+          "severity": null
+        },
+        {
+          "title": "陽明交大拜會澎湖縣府 共商AI轉型與無人載具新未來",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCWkhUamItNjNjekUwLTdkaGs2dDZNdEVFY0R5WWJlUk5weWU4ZklfSFZNNzJOVUJhbTZtcVQ2UnU2cEVYbjlZc05BTDZmcjNKZ2dhSGNMa1lTYk5EeGdMWVdnek_SAWpBVV95cUxPX0RHOGtval9IRGVaWGJadGd2LXRWM19yWXBpaHBRaHJiNm8yTXFlZTN6MS1yVU1sZ1c4UDQxdXpHUC1QeTBKcm96S0NqMVMyVWFyODhYdEZPcEFWM2w1S2c3ZE92eDVRNkh3?oc=5",
+          "time": "2026-07-03 19:23:16",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "華信航空引進A321neo首航臺中－澎湖 | 青年日報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfMnEwUzhiLVhyYUZSMkZmdmxhWnN6M1I0VzFERXdwYWc4YnlFQnM3b0FhNkkwRWNCN19Ba19GUnpXYkp6SV9Qd1pnNl9vY0lGajItM3hB?oc=5",
+          "time": "2026-07-03 19:19:05",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "澎湖縣府規劃園區加港區發展無人載具研發基地| 高屏離島| 地方",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZUmljdHc1aTI2WDhuSno0eTRxSEIzRjBlTURnRjFMT1FXa3BDbXZOaVFKNTdvQ1lTd3g4cVhDR19SNGdvaTJxRjVjNEk1dVRB?oc=5",
+          "time": "2026-07-03 19:17:42",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "華信航空引進A321neo首航臺中－澎湖",
+          "url": "https://tw.news.yahoo.com/%E8%8F%AF%E4%BF%A1%E8%88%AA%E7%A9%BA%E5%BC%95%E9%80%B2a321neo%E9%A6%96%E8%88%AA%E8%87%BA%E4%B8%AD-%E6%BE%8E%E6%B9%96-110100785.html",
+          "time": "2026-07-03 19:01:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "中部人有福了！台中飛澎湖、金門超方便 華信航空「超大新機」今首航",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E9%83%A8%E4%BA%BA%E6%9C%89%E7%A6%8F%E4%BA%86-%E5%8F%B0%E4%B8%AD%E9%A3%9B%E6%BE%8E%E6%B9%96-%E9%87%91%E9%96%80%E8%B6%85%E6%96%B9%E4%BE%BF-%E8%8F%AF%E4%BF%A1%E8%88%AA%E7%A9%BA-%E8%B6%85%E5%A4%A7%E6%96%B0%E6%A9%9F-105800942.html",
+          "time": "2026-07-03 18:58:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "台中飛澎湖金門更方便！華信航空新機開航",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jSnBwVGlpdGZuUHk5MnV2NHBaX1Y3X2NtYXA3ak9IWGdDQkE2WlBZaHBQOHY3bXlyME5SY05NeWlra1dtQk9lMTVtRTRJN3ZBQ2txWjk4dmRCNnRD0gFiQVVfeXFMTVlUOHN2a3prTUUzZk5KdzYyRHh5OVgzRERRUTBzNDZMV3R0bG5hbWJja2hCc3hybV9TSlBFR1BoaThGQzl1d3BGZ0NqbGdkLWlieTBWSEZBRE5JSHZWeFhMY3c?oc=5",
+          "time": "2026-07-03 18:53:00",
+          "publisher": "Google News→鏡週刊Mirror Media",
+          "severity": null
+        },
+        {
+          "title": "暑假離島航線運力升級！華信航空A321neo今首航澎湖 | Newtalk",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xMURVd0s5U0ZlTWU4cXV6V2ppT0xNanc2ekNUb3NlTTNFcUpVNTNjcnptdUdmOVJhMTRobThLTVVNbFBDVnRhSWhrckgyazFQdng3RG9B?oc=5",
+          "time": "2026-07-03 18:39:05",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "華信航空A321neo首航台中－澎湖 7月3日起投入離島航線 暑假運能再升級",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xemxsbWtvOTJNTkRyaUxGQkFyOElHWkY2eUZ4Q01kWGdJcnAwd2NOeVh6R0ROQUpuY1N2b0VoY3hiYWczMWMyQldKLTE5cGlFN1E?oc=5",
+          "time": "2026-07-03 18:29:18",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "澎湖縣府規劃園區加港區 發展無人載具研發基地",
+          "url": "https://www.cna.com.tw/news/aloc/202607030255.aspx",
+          "time": "2026-07-03 18:25:35",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "澎湖縣府規劃園區加港區發展無人載具研發基地| 地方",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmSTBmb1owWURkSkNDcFplWUJucDVkUHV3T2pWb01oQzRKR2ptcUd3ZjZPbzBDTWZuY2xYVVFDVEctcHhWdzV5MHRzUnd2aDllaHlXSlpDU25yVVFGdk1j?oc=5",
+          "time": "2026-07-03 18:25:00",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "陽明交大、澎湖科大拜會澎縣府 交流AI議題 (圖)",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPTksxNHRYbWRQTzViM3hjTlBUY2JQZk1PQnVHUTRTaDZJT2ZINDFXZ1oyblFBZ3pMYWhVUHFXZENqSmM4aVRXYTlzcGhpZmhCeE9XZ2lTUkFIWk5WQjV4SHh5b1VvQ2htdlFYd0pJZlZDblF0dGtzbHJVTFhUQnMwQ0lwN3F0dldMa01LRXJySmw0Wm9uN0hQQnlnN25OX3p3Y3dvNlJXamRQRTJmS3lTMDU2Ukh3SUxaTXMtcWM5WGxZbjJXNEdQdGJ2MUNTZkF4NXpibHhBR00xNF9xVUxqYkhEM3NaeWhfNDBDN0xVZjZCMUlTVV9SNjVXUWowbkMybXcxV1BTTFRGZFdzM1JPWkQzcjVzbFVaTWxMaUxjX0RtSnBOczhWN2c2UVFqcjJoMVE?oc=5",
+          "time": "2026-07-03 18:24:38",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "陽明交大校長林奇宏拜會澎湖縣府 (圖)",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQV0xsd09CRk02ZjZYVUhhUlhpaTl6cU9iU0p5Nk9VZ0Iwclh6UUI5N3pGUE1fb0VnQm9YRHpEcWpXZWVZT3I4VkNtTWhnV0w3MkpidTBjU2JzdWpSM0lud1BKaXJVb3hTZnZiNk01eUN0cm9FT1duU19tSU81MlVjbjJ1UHJQSVBSM0NXaERvLUhWcUZNZy1tZU40WUEtc2R6akMwWHUyYVJtT0o4dTN2bFlfalNHUzdpclZ0anZrd2t2aUxvZFBCTFNiZzF6NzBpSmViT1J2VW1fQnpDMGcxTHNtMWNHUXZlbmpoeHU2eFVPMmsxV2xFc3UweGtoS3dNZXpvZ2dSOS1EaTlMS3FmX3RtcEY?oc=5",
+          "time": "2026-07-03 18:23:36",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "禁捕期狂撈154顆海膽！綠營民代參選人遭逮 澎湖黨部說話了：已退黨、辭職",
+          "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNal9KZnI0bUhPYnF4QS1qZjBqaThSTWFHaVFIQUZEeEw2b1VKWFlvM3dNdmVwZVc0SFVnV0w4Zm5IWVlnLUM5ajNvWWtOZnplbldNNnZUQ0J0bUI1eDBtb1o5QmNxQWNnamtNODd5X0tyX3pQdHNLWHlBaGlrSVFoY19JWWRmUDUtM2JsYTlxRU16THktSTR5NldmREhVclhUQXpYcnZuRnUtMzZYcDh4VXFSYXVkRkpZQ1Y0VjdFWWlicTJOcEJRT1pwX3Bodk16anEyMDdaZjU1Z2NEUWZXRVNua2lTZmVvZ3daRlcyRlp4eTBHa2x1UWtld0dfWnNZNUp1dURZSDZ2TzB0Z2piME0zZkpiWk5sVTQ3WTlvc2owTEdxR3NSbjloUDNyMFhyNi1ncFZzZXdfaTlNaUZ0N3hRVW5hZFJfRVJlWnNnM01Pb19sMldLMzdjRWVWZGxDVmhzUG9WbU5qemdwcUpOUy1Ka083Q0F0YXVudEVDTkJKdm1BRFoyRlJUUWhZMEQ4ZV9qT0t0emRqUU1JZ3NkcVFfdW5PM3V3c1o0YUItdDR4V2NnZDA0bA?oc=5",
+          "time": "2026-07-03 18:18:36",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "新北地方動態",
       "city": "新北",
       "place": "新北市政府",
@@ -4469,447 +4889,6 @@
           "title": "新北、桃園等12縣市豪、大雨特報 6地防大雷雨",
           "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNdFFJaEMxc2dKYXNGWkhCU2dBd3F1OTBOXzlkU0FUbnZQc09LV1dJUHZQQkM3VXRPc3QtTGVoRURLM1dXQzhfWDdGR2RTS3M5cVlsdEpXLUtuRDNJVWVlRWNvUkwtUnV3NVVvalUwSDZrZ3ZWdkZLRE84ZEhPdDF5ckNCVUFkSzdmcjY4NmsxMDFUSkluRkMwMkRxV2Npa3hET3hVN0FFTVZXdlZNRFZVZXVRVThvSXc3MWUzcHFTMUtnR3JqRWRfa0dRdXZSOEEwWFlETndfcjlWZUx3SndwV3lYbjNHVjhNcFNsSUtFUWI5d1R3eko4T3h1Vmx0NGNzVzRzdTFhbUlZVXZYdnBQR1hVRThDdGwwdGZJSFlnMDF6UGEyVnpYaDM0OUtGaU95alk2Y283VGZUUGRP?oc=5",
           "time": "2026-07-03 18:20:48",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "澎湖地方動態",
-      "city": "澎湖",
-      "place": "澎湖縣政府",
-      "level": "red",
-      "news_count": 61,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 61,
-      "news_articles": [
-        {
-          "title": "暑假最後一週衝刺澎湖觀光熱度 沙灘音樂祭力拚吸引萬人 | 生活焦點 | 要聞",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jM0hXMXh6Xzdka1Qyc1BIeHY4MDJRTjBQWC1TME1pc2cwd0l5YmhKeGdJQW10NHF6Z05XeEFPMXozaDJGUmlXcEJwaDY?oc=5",
-          "time": "2026-07-04 16:01:32",
-          "publisher": "Google News→NOWnews今日新聞",
-          "severity": null
-        },
-        {
-          "title": "暑假最後一週衝刺澎湖觀光熱度 沙灘音樂祭力拚吸引萬人",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CSmlmZnp1R3J5N0hGQVVxVWJPcjUwYU03NHNrb0hXbGFDS2JhZldCa1pQay11NEFLQ3V2NVlORHdVNHUzQnY2ak1qbElIT242RmfSAVJBVV95cUxOQkppZmZ6dUdyeTdIRkFVcVViT3I1MGFNNzRza29IV2xhQ0tiYWZXQmtaUGstdTRBS0N1djVZTkR3VTR1M0J2NmpNamxJSE9uNkZn?oc=5",
-          "time": "2026-07-04 16:01:32",
-          "publisher": "Google News→NOWnews今日新聞",
-          "severity": null
-        },
-        {
-          "title": "中國科研船再現澎湖 中山大學號取道七美前進台灣南部海域 | 自由電子報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IZjJIb3ZOS0tlYjhvMHRDcXhLc3VremFsaG45bTNjT3F5dG9yb3M1MFQ3SDZaMG5XcmRaM3VMbmVadEZ1OEVCa2VNdU9PdzljYnI1RmxR?oc=5",
-          "time": "2026-07-04 15:47:19",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "中國科研船再現澎湖 中山大學號取道七美前進台灣南部海域",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5493754",
-          "time": "2026-07-04 15:16:33",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖漁船夜捕小管 小門外海巧遇海豚伴游",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5493718",
-          "time": "2026-07-04 14:53:39",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "澎湖海事職校推SUP立式划槳體驗營 校長親帶隊",
-          "url": "https://tw.news.yahoo.com/%E6%BE%8E%E6%B9%96%E6%B5%B7%E4%BA%8B%E8%81%B7%E6%A0%A1%E6%8E%A8sup%E7%AB%8B%E5%BC%8F%E5%88%92%E6%A7%B3%E9%AB%94%E9%A9%97%E7%87%9F-%E6%A0%A1%E9%95%B7%E8%A6%AA%E5%B8%B6%E9%9A%8A-061752874.html",
-          "time": "2026-07-04 14:17:52",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "澎湖海事職校推SUP立式划槳體驗營校長親帶隊- 地方",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tY0MwelljY1Fld2EwRWFiMEhQM0s3U1RldV9tM0V1QWZuRTJHLTNhb2YwT2ItNGd2dVpkU1dpWVV5T2xxVzhSTmNkTkZMdFhfeFgybmtISFh0Q1VUc1Zac2phNUVUZDZva2VwdGJR?oc=5",
-          "time": "2026-07-04 14:17:52",
-          "publisher": "Google News→華視新聞網",
-          "severity": null
-        },
-        {
-          "title": "澎湖海事職校推SUP立式划槳體驗營校長親帶隊| 地方",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfZlZWWHFDeGVVbW91VjVRNnRhTWJQT2ZSZ1lrUVRjOE5VeEROTndjNTdPRHlVSDZ5bjBaRHJLdkhtYllHQmdsQ1R6ZkNMeHlXS3l1OWZMUlNkV0dTZVg4?oc=5",
-          "time": "2026-07-04 14:17:00",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "3D列印「砂砱生態礁」 研究團隊助澎湖石滬文化再復興",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96bWFBZDlGNHFrSEo1bjdaWnJvVF8wa19VLW1YRTA0Y194VUFIV3dGSW12d2RRMkpyYTQ2cm5Gc0RyOHBtY29jNWd6OExxZ00?oc=5",
-          "time": "2026-07-04 13:02:40",
-          "publisher": "Google News→公視新聞網PNN",
-          "severity": null
-        },
-        {
-          "title": "偷採154顆馬糞海膽被逮 澎湖馬公民代參選人宣布退黨 | EBC 東森新聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11TmRnUUlMNVJVODdZT3hsTnhjZ2pXVFpfUWVyME5XMEpxSXVhNzhSY3lWR1lzbDQ4Y1VENEkwWTFiM2RidFVkZ2dHWGs0WkdSTy1kQ2pR?oc=5",
-          "time": "2026-07-04 12:13:25",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "red"
-        },
-        {
-          "title": "偷採154顆馬糞海膽被逮 澎湖馬公民代參選人宣布退黨",
-          "url": "https://news.ebc.net.tw/news/politics/559594",
-          "time": "2026-07-04 12:13:00",
-          "publisher": "東森新聞",
-          "severity": "red"
-        },
-        {
-          "title": "沙排／澎湖菊島盃沙灘排球錦標賽登場逾300好手參賽| 綜合 | 運動",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wVnotVXZDUHJTanB2Q25BcDRLWDdNZnY0RGVhU0hiczBEa0dhekExclh1ZHFqR1lUYlRhSjNfa3QxVEd3dkV3UGRIM092ZEtn?oc=5",
-          "time": "2026-07-04 12:04:52",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "澎湖菊島盃沙灘排球錦標賽登場 逾300好手參賽 | 體育",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRZjVlSkM0UEt0Q012SFI4djJBMmJsZWFxWWhhM1g1QTRwejZlSFVNTjVydzFJTEFaOEtlQzZmSUJ6cW1mRGV4czd2bjB1T0ZqM0RXdHA2c1R5bEU?oc=5",
-          "time": "2026-07-04 11:35:04",
-          "publisher": "Google News→Newtalk新聞",
-          "severity": null
-        },
-        {
-          "title": "台南安平－澎湖安馬航線開航 「台南＋跳島」雙重體驗引爆暑期觀光熱潮",
-          "url": "https://www.thehubnews.net/archives/640929",
-          "time": "2026-07-04 11:24:33",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "最離奇退黨原因！澎湖綠市代參選人「偷撈馬糞海膽」遭逮認錯了",
-          "url": "https://news.tvbs.com.tw/politics/3248271",
-          "time": "2026-07-04 11:05:05",
-          "publisher": "TVBS",
-          "severity": "red"
-        },
-        {
-          "title": "澎湖菊島盃沙灘排球錦標賽登場 逾300好手參賽",
-          "url": "https://tw.sports.yahoo.com/news/%E6%BE%8E%E6%B9%96%E8%8F%8A%E5%B3%B6%E7%9B%83%E6%B2%99%E7%81%98%E6%8E%92%E7%90%83%E9%8C%A6%E6%A8%99%E8%B3%BD%E7%99%BB%E5%A0%B4-%E9%80%BE300%E5%A5%BD%E6%89%8B%E5%8F%83%E8%B3%BD-024343158.html",
-          "time": "2026-07-04 10:43:43",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "澎湖菊島盃沙灘排球錦標賽登場逾300好手參賽- 運動",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wWEFiTmp0dGxmUGdWaWZCUkJRejZ1MlFMazgxNmt1MFdGMVVfVTJNOE9WLXJEWkg2VVVJdHpiMUZ2bDZuYnFSZnV6dzhvSk54anQ2aE0yZWdZNzZsRG5UT0w3WW9KOG1SOXlNUUs3Zw?oc=5",
-          "time": "2026-07-04 10:43:43",
-          "publisher": "Google News→華視新聞網",
-          "severity": null
-        },
-        {
-          "title": "澎湖菊島盃沙灘排球錦標賽登場逾300好手參賽| 運動",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HbEpCaXltVThhQkZDNGkya1lkZXl4alFrTmNSNXBlUjBud3Q3elhTSEtwNTlLWHBZM0FwZ1NmS0tmX19fLVF5TjZGMWZlLVh0VnVHMU53NzdHckpYeFVz?oc=5",
-          "time": "2026-07-04 10:43:00",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "台中機場總算有大飛機！華航A321neo首航澎湖 235人座大客機引爆中台灣",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5493402",
-          "time": "2026-07-04 09:33:26",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "澎湖追風音樂燈光節9月登場 五場演唱會接力開唱",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVpNLWpqMnpmQ1QxV090aUNjZVBYTG9USnlhMHVhZjQ2Q0FwWG5KdTlqQnZuYm04Ql9PdnF6dlA4RmpBaTRmaGlQVmpkQ2NuT2N1ekFQNWlZWElWU0hKbS1OZ2dRWW1qYURkOWlnWDVuVW5KVk5ucVVUUGcyeUJPa185MHk2SVZfYlYxUTlGd2ZQVHRjdU44T2dPaw?oc=5",
-          "time": "2026-07-04 09:05:00",
-          "publisher": "Google News→新住民全球新聞網",
-          "severity": null
-        },
-        {
-          "title": "華信航空A321neo首航台中-澎湖 推暑假旅遊",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NRGhOZmNBVUhfa3hFYXY1M3JPUVRhZHFrbEhhSW5EVHowWjhZY0EyT1dzQ1k1ZmYyWi1tSnRGR012MGFHTWY0c0VFamx3RzZJalVmcXFJMEdibmtaY0ZTUnpBNA?oc=5",
-          "time": "2026-07-04 08:50:59",
-          "publisher": "Google News→澎湖日報",
-          "severity": null
-        },
-        {
-          "title": "警政署長張榮興 澎湖天后宮上香祈福",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGNDgzdk1kak91TjBpdVZteVlKZ3pvVEJOX1lMcV9uaHV3TDZCbE5JMzJmal9ncmxSdEFyYnBTdUNFOUhnR1VmQTk1UU8xMFhsQlVZYnRFRV93UjFHVmlYYUpaaUsxU3V2dW5V?oc=5",
-          "time": "2026-07-04 08:35:59",
-          "publisher": "Google News→澎湖日報",
-          "severity": null
-        },
-        {
-          "title": "探索職涯・體驗未來 澎湖海事暑期職探體驗營熱鬧登場",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FM1pkakNLcklDcVBIM2hOcjl6YjVOcEhfYW1HRWV2OVIyNHc0b2dicGRzS19rZ2NqLTQ1MGFZMnIxSWZyWk1vRjRzMUZUdGljSE5hVTVEcWZhUkdZZmdTb3lkTXg4a05Tak44?oc=5",
-          "time": "2026-07-04 08:25:59",
-          "publisher": "Google News→澎湖日報",
-          "severity": null
-        },
-        {
-          "title": "深耕菊島55載! 澎湖家扶8/16邀您同慶「愛5止盡」",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KTHhGMlJXdzFNUlFWVXBUY1VQLVhhZHp5V0ptZ25IZWxYR2J1dE1rOF92Q00zdHgweEVYSGNrLXFRbXZPcTZiRlpJTi1VWXdrcnlQYVdvXzN0VVAxVGZWcHR5dw?oc=5",
-          "time": "2026-07-04 07:50:58",
-          "publisher": "Google News→澎湖日報",
-          "severity": null
-        },
-        {
-          "title": "體驗一日農夫! 澎湖「白膜花生食農體驗」7/7起開放現場報名",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEa0ZzVkY4TU9ramxRc3NjNFRnc2tSYlBjeHZpNHlpQzhmS2IzNy1PVm1IX3FGUzhoeE1uSTlydkVlS2RDd3E0Qk5ZMDI5dDZub3JDR0tGYkQtWjU4?oc=5",
-          "time": "2026-07-04 07:45:58",
-          "publisher": "Google News→澎湖日報",
-          "severity": null
-        },
-        {
-          "title": "《石空療育-澎湖石友會會員聯展》7月11日文馨畫廊展出",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43QmVDWlMxeHpnMVh4WTA0cEtOeFhDRzFKZjFBY0tVZm95V3dGN1paU3BlTEdWdE1XVFRZOTdndkVQSjl5b2FQbndMY3JiU1Vla0o1YndIalNxUW9vLXc?oc=5",
-          "time": "2026-07-04 07:35:58",
-          "publisher": "Google News→澎湖日報",
-          "severity": null
-        },
-        {
-          "title": "澎湖縣政府辦理「性別暴力防治案例研討」研習",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IZVA2eGJDZlZuRHV3RkpZaHRTTnJuUnpzb01aMktYc05mQ3J4bDRkeGJ5R2dFZ3FzZUlkY3ZDVjR4VV9TcFB0VVZ2aHFlSXEtYlNCSmF2UXN3bFBYU1loaGx0TUQtd1I0YVZr?oc=5",
-          "time": "2026-07-04 07:35:58",
-          "publisher": "Google News→澎湖日報",
-          "severity": null
-        },
-        {
-          "title": "苗栗白沙派出所老舊 新建廳舍動土",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11OUdud2liUklESkFwRzVLcFpGMzRWWmExZFR3T3ZqZWZfVWI1VTUtYWZteTB6aEpELUxkV3dzYzBlVkNsYXNBZTJHSDdPT1hLUGlXXzM2RFhOcjDSAWBBVV95cUxNX0pGX1VxalBaWVNQNXJEU2ltQ3l0aDhNRFF2NVZ5ZDBabkJHT09NNFhFTmYteXpvMjU2V09oaHRyRUNlbjFaRENIczQ0aWtZbW1iajk2dm4xOTV1cWxacUY?oc=5",
-          "time": "2026-07-04 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "苗栗白沙派出所老舊新建廳舍動土- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11OUdud2liUklESkFwRzVLcFpGMzRWWmExZFR3T3ZqZWZfVWI1VTUtYWZteTB6aEpELUxkV3dzYzBlVkNsYXNBZTJHSDdPT1hLUGlXXzM2RFhOcjA?oc=5",
-          "time": "2026-07-04 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "禁捕期狂撈154顆海膽！綠營民代參選人遭逮 澎湖黨部說話了：已退黨、辭職",
-          "url": "https://tw.news.yahoo.com/%E7%A6%81%E6%8D%95%E6%9C%9F%E7%8B%82%E6%92%88154%E9%A1%86%E6%B5%B7%E8%86%BD-%E7%B6%A0%E7%87%9F%E6%B0%91%E4%BB%A3%E5%8F%83%E9%81%B8%E4%BA%BA%E9%81%AD%E9%80%AE-%E6%BE%8E%E6%B9%96%E9%BB%A8%E9%83%A8%E8%AA%AA%E8%A9%B1%E4%BA%86-%E5%B7%B2%E9%80%80%E9%BB%A8-%E8%BE%AD%E8%81%B7-095106980.html",
-          "time": "2026-07-04 04:22:38",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "苗栗 因應進香人潮與勤務需求 白沙派出所重建明年完工",
-          "url": "https://tw.news.yahoo.com/%E8%8B%97%E6%A0%97-%E5%9B%A0%E6%87%89%E9%80%B2%E9%A6%99%E4%BA%BA%E6%BD%AE%E8%88%87%E5%8B%A4%E5%8B%99%E9%9C%80%E6%B1%82-%E7%99%BD%E6%B2%99%E6%B4%BE%E5%87%BA%E6%89%80%E9%87%8D%E5%BB%BA%E6%98%8E%E5%B9%B4%E5%AE%8C%E5%B7%A5-201000414.html",
-          "time": "2026-07-04 04:10:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "澎湖 東吉島3發電機故障 限電惹怨",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMl9LVFRSNFVzS1ZubVpZT0tGWkpLR0FkSTA3S1ducXJja3JseEktQkZ5Vk1NMWhUVVNIanQwaUV3c1FGMHc5ZTFLYmFienBKQXBxeGhmZzJ4dTJTMVNYQ3hRMFJ3Q29SeWZWVmx5a0VWYVlsM2ZEa0ZoZmItYjlSdEFkZ3FsUFhfZGdHS3h1enBycUNJdWlFRERlVl9sbGxmaFY3ZlJjYVFxbWhUZmg1RnpoLVJxN2wzN084azNMNWlhNjBFY1N4el90T2dEcTdaeFBOVmt1WmliakpscHp1SzM1SjlIdU9XTDNIZE04c1hBSkEyYlJ1bktFa1lmbGM?oc=5",
-          "time": "2026-07-04 04:10:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "涉禁捕期採捕馬糞海膽 民進黨參選人項光照退黨、辭澎湖黨部執委",
-          "url": "https://tw.news.yahoo.com/%E6%B6%89%E7%A6%81%E6%8D%95%E6%9C%9F%E6%8E%A1%E6%8D%95%E9%A6%AC%E7%B3%9E%E6%B5%B7%E8%86%BD-%E6%B0%91%E9%80%B2%E9%BB%A8%E5%8F%83%E9%81%B8%E4%BA%BA%E9%A0%85%E5%85%89%E7%85%A7%E9%80%80%E9%BB%A8-%E8%BE%AD%E6%BE%8E%E6%B9%96%E9%BB%A8%E9%83%A8%E5%9F%B7%E5%A7%94-023500873.html",
-          "time": "2026-07-04 02:35:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "澎湖縣政府法律扶助免費服務 請鄉親善加利用",
-          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQb2RSMnh5dFJQWWtBekxoa2d4RFdjbGhIU3RqQl9WdFNidkdVMklXTXlNdzNzRkM3UHdKN0FnVHB4UkMwdUZWVklrSmEwZkVaT2R5dTVUWC1OYUdRa09Jd3ZzeWUyYWpFeC1kM1ZTY2FvUU5DdUdtWW5KSnFjUXVnTGt2RzV6V2Z3S3NEanVWTC1kZUZfaW1BWkoxQUpCMDdfck12WHpCSFdrZVhIUmRJZl9QZFBBYTByN1F4LUZMdHBxVVFuUmdiT0ZqdmFqdVUwTVFSMnAtLTBTclpGWmxsbmVSMDk4RDlQd0RwOWpHYUhaVHBjeEw4OURWaGVjbGhYTm1KNHBrVzRNaG9XODgzTGlUeEtMU3g3N2tTMDV4OWR4Y21FTVdES2NQT21GeVk?oc=5",
-          "time": "2026-07-04 00:03:03",
-          "publisher": "Google News→澎湖e傳媒",
-          "severity": null
-        },
-        {
-          "title": "澎湖縣政府車船處推出多元航班洽公旅遊更多選項",
-          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOQ1hGd1lPNzhKQlIzdFBHRDZpV0dkbzBUbndISWtaWURWU2FqVVJqQ0pOUHlwTlp4eWNJVHlDZTdrbTR5X0l3SW14NF9ZS3dJZjVFSF9TRG9tYWN3SDdtc3R2SFBLejl0aEFtZ1BuSjRNdF9abllfRkZPaUlTRVNIRlphZXN4aTBydnN2Y2JwZVY5em5GeW9IWHpudnNnTEhhVzVHQThoY3hVSTFrZnVGbXNNVnJvRXZuSDl2TDY4WUp3RjZQelpqLV9qN1VwT0RmTDhaMFZaMDFPZ3ItVWZhM3VCSFdRSGcxZjhYbjc3T25zYWRiczhmd2NOVG8zUFlWbExkZm8tb2dmWmJHMkt1SjBjRG5veUt4d1JYa1Z1TTU2QU5MeWNld05hSzVTcHBXODBWZzZBU1lsX3VUNW9sUG5OY2Y?oc=5",
-          "time": "2026-07-04 00:02:53",
-          "publisher": "Google News→澎湖e傳媒",
-          "severity": null
-        },
-        {
-          "title": "華信航空引進華航A321neo飛機 首航台中-澎湖航線 - 消費新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeWZNNTk3OXBYbTN5MVBVRnNrcXE2QTFYVE10cjZDZ0FvU2hzQ29fNW5MT1lmSWVWQ2xsYXRQbTN4cFNfLVNmd0Q0OURmdlVYY2Uzd282ZUZMZWRPeXhZalVGeHdLQUo2VVNrejlyTnJZbEVRcDBFNU51LVBvRTFyUE5yUGNjd3UxRzNYaVBFNU4xQQ?oc=5",
-          "time": "2026-07-03 23:30:24",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "苗栗白沙派出所重建動土 4900萬元打造現代化警政新據點 - 社會新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNakFnX29faGRQZDdQclM3djM5Zk1tWmxqWUN4cno0UnpDR1RXSG51UWdWVUM4S1VKQjlDeDVLeUNLeTl2YnpDSFAtdy0ybzdlTFVNSXpoQTJUUE1YeDdfWjJqYXlfcVE2a3RNU0lDVFo1OU83Mi1ZbHZPbDU5anZZRi1Ya0xBVEEtTDBVQg?oc=5",
-          "time": "2026-07-03 21:46:56",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "華信航空引進Ａ三二一ｎｅｏ客機首航台中澎湖 協助暑假旅遊旺季疏運 | 中華日報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01djZaT1REZFZFaTRSSnhZdERaa1hwM09zZDJIYTNaV0dMd0RDb0VMeDhoTkhDd1IyTXlseUlIWmNUa2pZNmVEUjY4UWx0d2g5eWN5bXdR?oc=5",
-          "time": "2026-07-03 21:32:13",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "華信航空引進Ａ三二一ｎｅｏ客機首航台中澎湖 協助暑假旅遊旺季疏運",
-          "url": "https://www.cdns.com.tw/articles/1424876",
-          "time": "2026-07-03 21:27:42",
-          "publisher": "中華日報",
-          "severity": null
-        },
-        {
-          "title": "嘉義大車站計畫啟動 小澎湖公辦都更意願調查至9/30",
-          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOdUZIVUxpQ3NyMVVDR2lBWEFOQnZnc0FkbWlNQXdZTE10YVpRUS16ODk2a0xPaXBZVS0xdjRnR2ZxN0owME85bVo2c0lwRVJGMUxPVzIwWHF6aHhKR3hfQ0d6dk1tV085NGJGUVhSNnRJOEFyTmlDWTVuRmJUTkUxS2dTOHd6ZXRId2NXc3FiZDI5NWQ4cHlSSlVlOUpkeGpHVlctZnlYWExfNFp1UUFJVTF6OTZnVk5WZlVxNDR0Y1dqWTh6ZFRaSXpuUXVCZDZvQndCcm9mVVJ5RmhieHlJbTFmSlFuaThkYmI4RzZJZlZmWWZxSXhMYkJYMjBBOGsybWV1TEpIY0EwSXU3MmtRendYZWRrejY3dGthWmltellrME5VdmNNd3dFTGZjblRONmVBUE05cDdkbVZLa29oSHJfdDZBckVxVnFrYlZEbW9TYkE?oc=5",
-          "time": "2026-07-03 21:02:30",
-          "publisher": "Google News→台灣好新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉義大車站計畫啟動 小澎湖公辦都更意願調查至9/30 | 台灣好新聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTamdFTjlibXRXc1F0bnc1cjBzRmNYb3ZFRzVsUDA4VDhNTzhHZUFhZFZNY3o0cEZ5UHVSMDV5eWRoN0tYbTFPLVAwenY3STFSSW1OX1JB?oc=5",
-          "time": "2026-07-03 21:02:25",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "澎湖東吉嶼3發電機接連異常 今起每天限電4小時",
-          "url": "https://news.pts.org.tw/article/816052",
-          "time": "2026-07-03 19:50:09",
-          "publisher": "公視 即時",
-          "severity": "yellow"
-        },
-        {
-          "title": "嘉義大車站計畫啟動 嘉市府展開小澎湖公辦都市更新意願調查",
-          "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxQNVI0WG02MVVnVndER3B2bkxvVnR1YmlEbHF0WjY2ZldCeXg0Z214MU9MNnJXTzg2Vzgwc3F5VVA2WFJQUTJScndiVnl4ZHRNSWt0WWF3T0UyN1NkR3hKOHJXTzFpZmV3T3o3WmRKTWhjajNwTjVXdDJkWTZvbFpRQWdaa1EtN09GZFhCRFRUa29yMjZpb1d5NUtHeW1Xek5BRFJSSGV6c091d2NURnY3ZjJkRk1EZ3NNdTdycDJ3ZFBLVV8yQjk3UDBPcVR5Qlc1dkNZa2t5anZXcnZlWjUxTnFsVEwyY2pqY3I3M2tnTjZ6ZVprT3huRGF5UVhsVTZqQnFrR2RNemRkeTMwcHRETDdGakg5eFIwRlJtcEJQdXJQRUg0c2pHYXptV2dRcENQUHc4MWZtSWhsb1ByM3JEdEtmdkRSRHNmUmhZc0hTeUhkdU1XVEhZOEY3cjhWT19NYU1ydExybWdEY2p4SS1RQ2IzZk9BbmVQSFBqcnp6UVNoYWtvMmItZXljaUJVTTdXNzFDX0lLVnE?oc=5",
-          "time": "2026-07-03 19:47:02",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉義大車站計畫啟動嘉市府展開小澎湖公辦都市更新意願調查- 生活新聞- PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGhpbElXdldhX29RMjJjOVhVcGQzZ3V0TVUtQ2FFUm9MUFJtY3BIVUJZSUwwTVg5dWVfMjczTllOS2JlVnU5YnowOGtwU0VCNS1uVUdfX3JxM2QxTFZ5dDVoamZFUUo2bDNyZzZpTmxKc1IxYkJ0aE1EcnFxNmJaM01tSTAwU2FHTm16akdhcTNZOTA?oc=5",
-          "time": "2026-07-03 19:47:02",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "澎湖東吉嶼3發電機接連異常 今起每天限電4小時",
-          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNLUlQUW5kakU2OUFaY1NKeGFSUmdHNVptLU1pSFhaWWI1MUFfNnppLXFTTHJYS0xhNXJtNXI1RENOeWlqT1E0am1WVUg3bi1ab2RiSDUyOHVEUUhwbUJzSWwxbjBMR0wxMG9LZFNfdmFwX2YwOHdaYnhnUzdlZXhSY3ZrTkF6NjdGeDlvd21KVmM4aXhqVWt5c05JbzIxQXByUk5QU2F5UTVvYkxsNzBOcll5emNVbGZzZThMZmxlVUdwQnhMX3VkS2ZhMXM5S2hNYjE1cWpET0M3WGx2V0NiWlppYVd1ckJYTl9PN1pPOHpNeDdoUUQ2NFhXWlZvV0F6ZUJCa1NROExoMS1GREF0cFdXWnlZR2htZEVVdmVILWFiSnVvdTJ5N0dmWTB0Y0ZadjRFdEFXTkt6T2syMGlmTGFSeGhsVTA?oc=5",
-          "time": "2026-07-03 19:46:04",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "華信航空大型客機A321neo投入離島航線 3日首航台中-澎湖 協助暑假旅遊旺季疏運 | 觀傳媒",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tSWJOODdQaWJPaVN5bXdxTVhlSkx1c0E2YmRsekExWjdtVFVhcTZkdXR1RG1xZ0FWQkJlMjZ0bElHRmRDV1JGNHAtX3VQLUhOM0ZyUEFn?oc=5",
-          "time": "2026-07-03 19:44:10",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "地方 2026/07/03 18:25 澎湖縣府規劃園區加港區 發展無人載具研發基地",
-          "url": "https://news.cts.com.tw/cna/local/202607/202607033051266.html",
-          "time": "2026-07-03 19:38:41",
-          "publisher": "華視新聞網",
-          "severity": null
-        },
-        {
-          "title": "陽明交大拜會澎湖縣府 共商AI轉型與無人載具新未來",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCWkhUamItNjNjekUwLTdkaGs2dDZNdEVFY0R5WWJlUk5weWU4ZklfSFZNNzJOVUJhbTZtcVQ2UnU2cEVYbjlZc05BTDZmcjNKZ2dhSGNMa1lTYk5EeGdMWVdnek_SAWpBVV95cUxPX0RHOGtval9IRGVaWGJadGd2LXRWM19yWXBpaHBRaHJiNm8yTXFlZTN6MS1yVU1sZ1c4UDQxdXpHUC1QeTBKcm96S0NqMVMyVWFyODhYdEZPcEFWM2w1S2c3ZE92eDVRNkh3?oc=5",
-          "time": "2026-07-03 19:23:16",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "華信航空引進A321neo首航臺中－澎湖 | 青年日報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfMnEwUzhiLVhyYUZSMkZmdmxhWnN6M1I0VzFERXdwYWc4YnlFQnM3b0FhNkkwRWNCN19Ba19GUnpXYkp6SV9Qd1pnNl9vY0lGajItM3hB?oc=5",
-          "time": "2026-07-03 19:19:05",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "澎湖縣府規劃園區加港區發展無人載具研發基地| 高屏離島| 地方",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZUmljdHc1aTI2WDhuSno0eTRxSEIzRjBlTURnRjFMT1FXa3BDbXZOaVFKNTdvQ1lTd3g4cVhDR19SNGdvaTJxRjVjNEk1dVRB?oc=5",
-          "time": "2026-07-03 19:17:42",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "華信航空引進A321neo首航臺中－澎湖",
-          "url": "https://tw.news.yahoo.com/%E8%8F%AF%E4%BF%A1%E8%88%AA%E7%A9%BA%E5%BC%95%E9%80%B2a321neo%E9%A6%96%E8%88%AA%E8%87%BA%E4%B8%AD-%E6%BE%8E%E6%B9%96-110100785.html",
-          "time": "2026-07-03 19:01:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "中部人有福了！台中飛澎湖、金門超方便 華信航空「超大新機」今首航",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E9%83%A8%E4%BA%BA%E6%9C%89%E7%A6%8F%E4%BA%86-%E5%8F%B0%E4%B8%AD%E9%A3%9B%E6%BE%8E%E6%B9%96-%E9%87%91%E9%96%80%E8%B6%85%E6%96%B9%E4%BE%BF-%E8%8F%AF%E4%BF%A1%E8%88%AA%E7%A9%BA-%E8%B6%85%E5%A4%A7%E6%96%B0%E6%A9%9F-105800942.html",
-          "time": "2026-07-03 18:58:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台中飛澎湖金門更方便！華信航空新機開航",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jSnBwVGlpdGZuUHk5MnV2NHBaX1Y3X2NtYXA3ak9IWGdDQkE2WlBZaHBQOHY3bXlyME5SY05NeWlra1dtQk9lMTVtRTRJN3ZBQ2txWjk4dmRCNnRD0gFiQVVfeXFMTVlUOHN2a3prTUUzZk5KdzYyRHh5OVgzRERRUTBzNDZMV3R0bG5hbWJja2hCc3hybV9TSlBFR1BoaThGQzl1d3BGZ0NqbGdkLWlieTBWSEZBRE5JSHZWeFhMY3c?oc=5",
-          "time": "2026-07-03 18:53:00",
-          "publisher": "Google News→鏡週刊Mirror Media",
-          "severity": null
-        },
-        {
-          "title": "暑假離島航線運力升級！華信航空A321neo今首航澎湖 | Newtalk",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xMURVd0s5U0ZlTWU4cXV6V2ppT0xNanc2ekNUb3NlTTNFcUpVNTNjcnptdUdmOVJhMTRobThLTVVNbFBDVnRhSWhrckgyazFQdng3RG9B?oc=5",
-          "time": "2026-07-03 18:39:05",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "華信航空A321neo首航台中－澎湖 7月3日起投入離島航線 暑假運能再升級",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xemxsbWtvOTJNTkRyaUxGQkFyOElHWkY2eUZ4Q01kWGdJcnAwd2NOeVh6R0ROQUpuY1N2b0VoY3hiYWczMWMyQldKLTE5cGlFN1E?oc=5",
-          "time": "2026-07-03 18:29:18",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "澎湖縣府規劃園區加港區 發展無人載具研發基地",
-          "url": "https://www.cna.com.tw/news/aloc/202607030255.aspx",
-          "time": "2026-07-03 18:25:35",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "澎湖縣府規劃園區加港區發展無人載具研發基地| 地方",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmSTBmb1owWURkSkNDcFplWUJucDVkUHV3T2pWb01oQzRKR2ptcUd3ZjZPbzBDTWZuY2xYVVFDVEctcHhWdzV5MHRzUnd2aDllaHlXSlpDU25yVVFGdk1j?oc=5",
-          "time": "2026-07-03 18:25:00",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "陽明交大、澎湖科大拜會澎縣府 交流AI議題 (圖)",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPTksxNHRYbWRQTzViM3hjTlBUY2JQZk1PQnVHUTRTaDZJT2ZINDFXZ1oyblFBZ3pMYWhVUHFXZENqSmM4aVRXYTlzcGhpZmhCeE9XZ2lTUkFIWk5WQjV4SHh5b1VvQ2htdlFYd0pJZlZDblF0dGtzbHJVTFhUQnMwQ0lwN3F0dldMa01LRXJySmw0Wm9uN0hQQnlnN25OX3p3Y3dvNlJXamRQRTJmS3lTMDU2Ukh3SUxaTXMtcWM5WGxZbjJXNEdQdGJ2MUNTZkF4NXpibHhBR00xNF9xVUxqYkhEM3NaeWhfNDBDN0xVZjZCMUlTVV9SNjVXUWowbkMybXcxV1BTTFRGZFdzM1JPWkQzcjVzbFVaTWxMaUxjX0RtSnBOczhWN2c2UVFqcjJoMVE?oc=5",
-          "time": "2026-07-03 18:24:38",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "陽明交大校長林奇宏拜會澎湖縣府 (圖)",
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQV0xsd09CRk02ZjZYVUhhUlhpaTl6cU9iU0p5Nk9VZ0Iwclh6UUI5N3pGUE1fb0VnQm9YRHpEcWpXZWVZT3I4VkNtTWhnV0w3MkpidTBjU2JzdWpSM0lud1BKaXJVb3hTZnZiNk01eUN0cm9FT1duU19tSU81MlVjbjJ1UHJQSVBSM0NXaERvLUhWcUZNZy1tZU40WUEtc2R6akMwWHUyYVJtT0o4dTN2bFlfalNHUzdpclZ0anZrd2t2aUxvZFBCTFNiZzF6NzBpSmViT1J2VW1fQnpDMGcxTHNtMWNHUXZlbmpoeHU2eFVPMmsxV2xFc3UweGtoS3dNZXpvZ2dSOS1EaTlMS3FmX3RtcEY?oc=5",
-          "time": "2026-07-03 18:23:36",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "禁捕期狂撈154顆海膽！綠營民代參選人遭逮 澎湖黨部說話了：已退黨、辭職",
-          "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNal9KZnI0bUhPYnF4QS1qZjBqaThSTWFHaVFIQUZEeEw2b1VKWFlvM3dNdmVwZVc0SFVnV0w4Zm5IWVlnLUM5ajNvWWtOZnplbldNNnZUQ0J0bUI1eDBtb1o5QmNxQWNnamtNODd5X0tyX3pQdHNLWHlBaGlrSVFoY19JWWRmUDUtM2JsYTlxRU16THktSTR5NldmREhVclhUQXpYcnZuRnUtMzZYcDh4VXFSYXVkRkpZQ1Y0VjdFWWlicTJOcEJRT1pwX3Bodk16anEyMDdaZjU1Z2NEUWZXRVNua2lTZmVvZ3daRlcyRlp4eTBHa2x1UWtld0dfWnNZNUp1dURZSDZ2TzB0Z2piME0zZkpiWk5sVTQ3WTlvc2owTEdxR3NSbjloUDNyMFhyNi1ncFZzZXdfaTlNaUZ0N3hRVW5hZFJfRVJlWnNnM01Pb19sMldLMzdjRWVWZGxDVmhzUG9WbU5qemdwcUpOUy1Ka083Q0F0YXVudEVDTkJKdm1BRFoyRlJUUWhZMEQ4ZV9qT0t0emRqUU1JZ3NkcVFfdW5PM3V3c1o0YUItdDR4V2NnZDA0bA?oc=5",
-          "time": "2026-07-03 18:18:36",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "華信航空A321neo首航台中－澎湖 7月3日起投入離島航線 暑假運能再升級",
-          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNOFJRRkI0T0FJUHJ1YUxpQmZOSUl6Wjd6UVdFSEZKdW5LX1U3SmE0XzdmbWpQdDVNM3FZdjI5TTJqNmFjbzB4Y2JOY09mOTRBYnd6VVd1czRTd2o1ZUo5emo1WkVmTUdYOG1RaHBBVTNFeVlVa2hqdE4wd2pObWpPOWlWcXFCSnhRb1ROeVVUMFY5dEd6VWFUWDJ6dU5qNVZZQ3A1ZGpDYUJyRUExY3dHS3NENDg4U3hQTXFBRV9PaURvZV93S2V1QzhUQ0RzUGR2dEgxeFRoT1dSY1YtSEpvcVJfcVB5aU84Y1RqY0xKMlM0QlJSZ3ZHc2NHd2NvbmFVVGZCUXNTYTViUEdDY1haZmx4bDBqN3BUczZZdGpqNF91SHVfZ2tmOFk2eVZCWTEzUXowWU4wTU1Eak56Z2FoOGxVZ1pLRjY3MGVyUWRaX0FNZG5xdUR3ZDRxTENsSFM4ZE1HWnNiNWh3dW8xY1NvM3VkM0ItWlZqemh4ckQxQXdpRDZId2NsWUtoaFlMMTBjN1JDemZaOVNDV28?oc=5",
-          "time": "2026-07-03 18:15:21",
           "publisher": "Yahoo新聞",
           "severity": null
         }
@@ -8064,11 +8043,11 @@
       "city": "台中",
       "place": "台中市北屯區",
       "level": "red",
-      "news_count": 160,
+      "news_count": 158,
       "comment_count": 0,
-      "negativity_pct": 2,
+      "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 172,
+      "urgency_score": 170,
       "news_articles": [
         {
           "title": "赴台中同框盧秀燕、江啟臣 鄭麗文：盧市長是我們共同的媽媽",
@@ -9175,20 +9154,6 @@
           "time": "2026-07-03 18:29:18",
           "publisher": "Google News→蕃新聞",
           "severity": null
-        },
-        {
-          "title": "華信航空A321neo首航台中－澎湖 7月3日起投入離島航線 暑假運能再升級",
-          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNOFJRRkI0T0FJUHJ1YUxpQmZOSUl6Wjd6UVdFSEZKdW5LX1U3SmE0XzdmbWpQdDVNM3FZdjI5TTJqNmFjbzB4Y2JOY09mOTRBYnd6VVd1czRTd2o1ZUo5emo1WkVmTUdYOG1RaHBBVTNFeVlVa2hqdE4wd2pObWpPOWlWcXFCSnhRb1ROeVVUMFY5dEd6VWFUWDJ6dU5qNVZZQ3A1ZGpDYUJyRUExY3dHS3NENDg4U3hQTXFBRV9PaURvZV93S2V1QzhUQ0RzUGR2dEgxeFRoT1dSY1YtSEpvcVJfcVB5aU84Y1RqY0xKMlM0QlJSZ3ZHc2NHd2NvbmFVVGZCUXNTYTViUEdDY1haZmx4bDBqN3BUczZZdGpqNF91SHVfZ2tmOFk2eVZCWTEzUXowWU4wTU1Eak56Z2FoOGxVZ1pLRjY3MGVyUWRaX0FNZG5xdUR3ZDRxTENsSFM4ZE1HWnNiNWh3dW8xY1NvM3VkM0ItWlZqemh4ckQxQXdpRDZId2NsWUtoaFlMMTBjN1JDemZaOVNDV28?oc=5",
-          "time": "2026-07-03 18:15:21",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "中市交通局赴社區宣導小黃公車 黃二路免費搭乘便民成效卓越",
-          "url": "https://www.cdns.com.tw/articles/1424712",
-          "time": "2026-07-03 18:14:25",
-          "publisher": "中華日報",
-          "severity": null
         }
       ],
       "comments": []
@@ -9209,7 +9174,7 @@
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XaTEtSHRoZG1tQjUtZFRidkQtN1lDRjIyd3hWWkxrZnQxeFBka05vRkdCNDAxU0VZM2laaTRqMGFRcDR3QktkLUNDQmlvc2VxVDBiSFQxMFRuMDZUUU5SNQ?oc=5",
           "time": "2026-07-04 18:04:37",
           "publisher": "Google News→民視新聞網",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "饒慶鈴邀蔣萬安走訪台東博覽會 搭熱氣球、賞光雕、感受慢生活魅力",
