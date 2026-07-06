@@ -47577,7 +47577,7 @@
     },
     {
       "date": "2026-07-06",
-      "snapshot_at": "2026-07-06T01:19:31.409988+00:00",
+      "snapshot_at": "2026-07-06T01:27:20.597110+00:00",
       "hotspots": [
         {
           "title": "廚餘山",
@@ -47592,20 +47592,6 @@
           "sample_titles": []
         },
         {
-          "title": "新北墜樓事件",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "新北驚傳墜樓！22歲女社區13F墜落 救護車上身亡"
-          ]
-        },
-        {
           "title": "台中墜樓事件",
           "city": "台中",
           "place": "台中市政府",
@@ -47617,6 +47603,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "深夜情侶驚悚對罵！台中男墜樓「砸爛車頂」命大生還"
+          ]
+        },
+        {
+          "title": "新北墜樓事件",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "新北驚傳墜樓！22歲女社區13F墜落 救護車上身亡"
           ]
         },
         {
@@ -47646,21 +47646,6 @@
           "sample_titles": []
         },
         {
-          "title": "台北車禍事件",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "green",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "北市警處理機車碰撞車禍 查出騎士涉毒駕送辦",
-            "北市公館「路中突停」釀車禍意外 他神情緊張「毒駕」露餡遭警逮"
-          ]
-        },
-        {
           "title": "台中車禍事件",
           "city": "台中",
           "place": "台中市政府",
@@ -47673,6 +47658,21 @@
           "sample_titles": [
             "台中台灣大道嚴重車禍！車進麥當勞得來速撞機車 騎士命危",
             "快訊／台中麥當勞嚴重車禍！賓士男買得來速撞飛機車 騎士無呼吸心跳"
+          ]
+        },
+        {
+          "title": "台北車禍事件",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "北市警處理機車碰撞車禍 查出騎士涉毒駕送辦",
+            "北市公館「路中突停」釀車禍意外 他神情緊張「毒駕」露餡遭警逮"
           ]
         },
         {
@@ -47837,11 +47837,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "yellow",
-          "news_count": 56,
+          "news_count": 54,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 71,
+          "urgency_score": 69,
           "sample_titles": [
             "偷車落跑一路闖紅燈！苗栗男酒駕又吸毒 警一查竟背2通緝",
             "苗栗縣工業會第18屆理監事就職 黃清譽理事長力拚AI、淨零雙軸轉型",
@@ -47896,22 +47896,6 @@
           ]
         },
         {
-          "title": "嘉義市地方動態",
-          "city": "嘉義市",
-          "place": "嘉義市政府",
-          "level": "red",
-          "news_count": 21,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 21,
-          "sample_titles": [
-            "嘉市精忠社區 無人機足球老少共享",
-            "在野大聯盟正式成軍無黨籍朴子市長吳品叡宣布參選嘉義縣長 黃敏惠王育敏張啓楷同台力挺",
-            "在野大聯盟成軍集結 吳品叡參選嘉義縣長 黃敏惠、王育敏、張啓楷同台力挺"
-          ]
-        },
-        {
           "title": "金門地方動態",
           "city": "金門",
           "place": "金門縣政府",
@@ -47925,6 +47909,22 @@
             "-金門戶政績效勇奪全國第一 陳龍安頒獎表揚績優人員",
             "番號集結榮耀歸隊金門老兵召集令快閃臺金啟動傳遞熱血情懷- 生活新聞- PChome Online 新聞",
             "番號集結 榮耀歸隊金門老兵召集令 快閃臺金啟動 傳遞熱血情懷"
+          ]
+        },
+        {
+          "title": "嘉義市地方動態",
+          "city": "嘉義市",
+          "place": "嘉義市政府",
+          "level": "red",
+          "news_count": 21,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 21,
+          "sample_titles": [
+            "嘉市精忠社區 無人機足球老少共享",
+            "在野大聯盟正式成軍無黨籍朴子市長吳品叡宣布參選嘉義縣長 黃敏惠王育敏張啓楷同台力挺",
+            "在野大聯盟成軍集結 吳品叡參選嘉義縣長 黃敏惠、王育敏、張啓楷同台力挺"
           ]
         },
         {
@@ -48060,11 +48060,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 86,
+          "news_count": 85,
           "comment_count": 0,
-          "negativity_pct": 10,
+          "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 113,
+          "urgency_score": 112,
           "sample_titles": [
             "海陸警報無可避免！巴威颱風最恐怖路徑「宜蘭登陸、穿越北台灣」 | 天氣預報 | 生活",
             "海陸警報無可避免！巴威颱風最恐怖路徑「宜蘭登陸、穿越北台灣」",
@@ -48076,11 +48076,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 102,
+          "news_count": 100,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 108,
+          "urgency_score": 106,
           "sample_titles": [
             "【2026年7月活動推薦】大稻埕夏日節、寶可夢、花蓮航海王、桃園蓮花季、宜蘭童玩節...全台熱門景點活動一次看！(不斷更",
             "易遊網票選台灣最美飯店出爐！晶華集團奪3獎 花蓮理想大地、福容淡水8連霸",
@@ -48108,11 +48108,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 133,
+          "news_count": 131,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 151,
+          "urgency_score": 149,
           "sample_titles": [
             "瓜地馬拉共和國國會議長康特雷斯應我國政府邀請，於7月6日至7月10日率團來台訪問，訪團搭乘長榮航空BR-51航班於今天清",
             "最高領5千！桃園「冷氣補助」第2波開跑 申請條件曝",
@@ -48124,11 +48124,11 @@
           "city": "台北",
           "place": "台北市萬華區",
           "level": "red",
-          "news_count": 169,
+          "news_count": 167,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 199,
+          "urgency_score": 197,
           "sample_titles": [
             "2026.07.06 08:55 致癌油流向「北市公布42校」 沈伯洋：中央地方合作",
             "民進黨新北市長參選人蘇巧慧接受本報專訪，最後挑戰「快問快答」，從初戀、男神到紓壓方式等話題，都一一解答。平時行程滿檔的她",
@@ -48140,11 +48140,11 @@
           "city": "台中",
           "place": "台中市豐原區",
           "level": "red",
-          "news_count": 188,
+          "news_count": 187,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 230,
+          "urgency_score": 229,
           "sample_titles": [
             "毒油吃下肚！ 台北42校、新北50校、台中39校受影響",
             "「洪家回春堂鹽酥雞」中美總堂熄燈 網泣：台中最好吃",

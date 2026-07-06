@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "snapshot_at": "2026-07-06T01:19:31.409988+00:00",
+  "snapshot_at": "2026-07-06T01:27:20.597110+00:00",
   "hotspots": [
     {
       "title": "廚餘山",
@@ -25,27 +25,6 @@
       ]
     },
     {
-      "title": "新北墜樓事件",
-      "city": "新北",
-      "place": "新北市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "新北驚傳墜樓！22歲女社區13F墜落 救護車上身亡",
-          "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E9%A9%9A%E5%82%B3%E5%A2%9C%E6%A8%93-22%E6%AD%B2%E5%A5%B3%E7%A4%BE%E5%8D%8013f%E5%A2%9C%E8%90%BD-%E6%95%91%E8%AD%B7%E8%BB%8A%E4%B8%8A%E8%BA%AB%E4%BA%A1-070300075.html",
-          "time": "2026-07-05 15:03:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台中墜樓事件",
       "city": "台中",
       "place": "台中市政府",
@@ -61,6 +40,27 @@
           "url": "https://www.chinatimes.com/realtimenews/20260705000996-260402",
           "time": "2026-07-05 09:38:21",
           "publisher": "中時新聞網",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新北墜樓事件",
+      "city": "新北",
+      "place": "新北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "新北驚傳墜樓！22歲女社區13F墜落 救護車上身亡",
+          "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E9%A9%9A%E5%82%B3%E5%A2%9C%E6%A8%93-22%E6%AD%B2%E5%A5%B3%E7%A4%BE%E5%8D%8013f%E5%A2%9C%E8%90%BD-%E6%95%91%E8%AD%B7%E8%BB%8A%E4%B8%8A%E8%BA%AB%E4%BA%A1-070300075.html",
+          "time": "2026-07-05 15:03:00",
+          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -118,34 +118,6 @@
       ]
     },
     {
-      "title": "台北車禍事件",
-      "city": "台北",
-      "place": "台北市政府",
-      "level": "green",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "北市警處理機車碰撞車禍 查出騎士涉毒駕送辦",
-          "url": "https://www.cna.com.tw/news/asoc/202607050084.aspx",
-          "time": "2026-07-05 12:42:58",
-          "publisher": "中央社",
-          "severity": "yellow"
-        },
-        {
-          "title": "北市公館「路中突停」釀車禍意外 他神情緊張「毒駕」露餡遭警逮",
-          "url": "https://news.nextapple.com/local/20260705/EF05E55A672B313907B496FB0B563271",
-          "time": "2026-07-05 11:35:47",
-          "publisher": "壹蘋新聞網",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台中車禍事件",
       "city": "台中",
       "place": "台中市政府",
@@ -168,6 +140,34 @@
           "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%8F%B0%E4%B8%AD%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D-%E8%B2%B7%E5%BE%97%E4%BE%86%E9%80%9F%E6%92%9E%E9%A3%9B%E6%A9%9F%E8%BB%8A-%E9%A8%8E%E5%A3%AB%E7%84%A1%E7%94%9F%E5%91%BD%E8%B7%A1%E8%B1%A1%E6%80%A5%E9%80%81%E9%86%AB-015900862.html",
           "time": "2026-07-05 10:15:00",
           "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台北車禍事件",
+      "city": "台北",
+      "place": "台北市政府",
+      "level": "green",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "北市警處理機車碰撞車禍 查出騎士涉毒駕送辦",
+          "url": "https://www.cna.com.tw/news/asoc/202607050084.aspx",
+          "time": "2026-07-05 12:42:58",
+          "publisher": "中央社",
+          "severity": "yellow"
+        },
+        {
+          "title": "北市公館「路中突停」釀車禍意外 他神情緊張「毒駕」露餡遭警逮",
+          "url": "https://news.nextapple.com/local/20260705/EF05E55A672B313907B496FB0B563271",
+          "time": "2026-07-05 11:35:47",
+          "publisher": "壹蘋新聞網",
           "severity": "yellow"
         }
       ],
@@ -1060,11 +1060,11 @@
       "city": "苗栗",
       "place": "苗栗縣政府",
       "level": "yellow",
-      "news_count": 56,
+      "news_count": 54,
       "comment_count": 0,
       "negativity_pct": 9,
       "is_urgent": false,
-      "urgency_score": 71,
+      "urgency_score": 69,
       "news_articles": [
         {
           "title": "偷車落跑一路闖紅燈！苗栗男酒駕又吸毒 警一查竟背2通緝",
@@ -1442,20 +1442,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOSTZrVkZsa3VUZzBaNTUxYXNzMGVmVFo1RFJpdS05Ni05Z1hrWnNhc05HQ2lXY3pSZ3NwOWVTVUl2OEdOUjlwTTB3VmJfOUt6V3pmTy1R?oc=5",
           "time": "2026-07-05 09:29:29",
           "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "公地放領苗栗縣第一波149筆、37.15公頃 縣府2028年底前完成",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nS3lCSERQQW80QUlUMGhVY1QzUFU4dWdEOG5YUFhwaDVabWRYMnRLOGk0T1hVbHktXzktVE5DWHVGNFZOWGJuNFhyWmhuWTBp0gFWQVVfeXFMTkN3NVhaZXhZRVR6d1JPWThYLTMxZG9VNEh0R2VEeUhXR05NdlhEc0tzWmdROHoycmQ2SWM4UmdPZUMzcGdhNDZtXzRSRlRrMG1uU2FVMWc?oc=5",
-          "time": "2026-07-05 09:23:47",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "騎電動車邊抽菸遭攔查！苗栗男見警神情慌張 當場搜出3包安非他命糗了",
-          "url": "https://tw.news.yahoo.com/%E9%A8%8E%E9%9B%BB%E5%8B%95%E8%BB%8A%E9%82%8A%E6%8A%BD%E8%8F%B8%E9%81%AD%E6%94%94%E6%9F%A5-%E8%8B%97%E6%A0%97%E7%94%B7%E8%A6%8B%E8%AD%A6%E7%A5%9E%E6%83%85%E6%85%8C%E5%BC%B5-%E7%95%B6%E5%A0%B4%E6%90%9C%E5%87%BA3%E5%8C%85%E5%AE%89%E9%9D%9E%E4%BB%96%E5%91%BD%E7%B3%97%E4%BA%86-012200241.html",
-          "time": "2026-07-05 09:22:00",
-          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -2086,167 +2072,6 @@
       "comments": []
     },
     {
-      "title": "嘉義市地方動態",
-      "city": "嘉義市",
-      "place": "嘉義市政府",
-      "level": "red",
-      "news_count": 21,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 21,
-      "news_articles": [
-        {
-          "title": "嘉市精忠社區 無人機足球老少共享",
-          "url": "https://news.ltn.com.tw/news/ChiayiCity/paper/1761565",
-          "time": "2026-07-06 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "在野大聯盟正式成軍無黨籍朴子市長吳品叡宣布參選嘉義縣長 黃敏惠王育敏張啓楷同台力挺",
-          "url": "https://tw.news.yahoo.com/%E5%9C%A8%E9%87%8E%E5%A4%A7%E8%81%AF%E7%9B%9F%E6%AD%A3%E5%BC%8F%E6%88%90%E8%BB%8D%E7%84%A1%E9%BB%A8%E7%B1%8D%E6%9C%B4%E5%AD%90%E5%B8%82%E9%95%B7%E5%90%B3%E5%93%81%E5%8F%A1%E5%AE%A3%E5%B8%83%E5%8F%83%E9%81%B8%E5%98%89%E7%BE%A9%E7%B8%A3%E9%95%B7-%E9%BB%83%E6%95%8F%E6%83%A0%E7%8E%8B%E8%82%B2%E6%95%8F%E5%BC%B5%E5%95%93%E6%A5%B7%E5%90%8C%E5%8F%B0%E5%8A%9B%E6%8C%BA-153821394.html",
-          "time": "2026-07-05 23:38:21",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "在野大聯盟成軍集結 吳品叡參選嘉義縣長 黃敏惠、王育敏、張啓楷同台力挺",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpRDFEbk9ydGJzNHNQVlRMcGMyczh2NHZseVZmNnFlTHRQNkNhYURXckNHWW54UU45ODhOZDR5Z1pjODhiMlN2S3EzV2Ywc09ldUZZ?oc=5",
-          "time": "2026-07-05 23:38:21",
-          "publisher": "Google News→台灣好報",
-          "severity": null
-        },
-        {
-          "title": "「五星市長」黃敏惠加持！ 吳品叡宣布參選嘉義縣長",
-          "url": "https://www.ettoday.net/news/20260705/3195739.htm",
-          "time": "2026-07-05 23:15:00",
-          "publisher": "ETtoday",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣長選戰升溫。無黨籍朴子市長吳品叡今晚宣布投入年底嘉義縣長選舉，成為國民黨、民眾黨首度以「在野大聯盟」模式共同支持的無黨籍嘉義縣長參選人。嘉義市長黃敏惠、國民黨立委王育敏、民眾黨嘉義市長參選人張啓楷同台力挺，展現藍白與在野整合態勢。",
-          "url": "https://udn.com/news/story/124652/9608450?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-05 21:11:13",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "藍白合嘉市造勢談輕軌 張啓楷「捏滑」黃敏惠左手網瘋傳",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5494788",
-          "time": "2026-07-05 20:34:16",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "中南部唯一嘉市精忠社區成立無人機足球培育基地 透過科技跨世代共融",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%8D%97%E9%83%A8%E5%94%AF-%E5%98%89%E5%B8%82%E7%B2%BE%E5%BF%A0%E7%A4%BE%E5%8D%80%E6%88%90%E7%AB%8B%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%B6%B3%E7%90%83%E5%9F%B9%E8%82%B2%E5%9F%BA%E5%9C%B0-%E9%80%8F%E9%81%8E%E7%A7%91%E6%8A%80%E8%B7%A8%E4%B8%96%E4%BB%A3%E5%85%B1%E8%9E%8D-112814952.html",
-          "time": "2026-07-05 19:28:14",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "全國聯防毒駕 嘉市警局x保五雷霆出擊強力執行封閉式路檢斷毒路",
-          "url": "https://tw.news.yahoo.com/%E5%85%A8%E5%9C%8B%E8%81%AF%E9%98%B2%E6%AF%92%E9%A7%95-%E5%98%89%E5%B8%82%E8%AD%A6%E5%B1%80x%E4%BF%9D%E4%BA%94%E9%9B%B7%E9%9C%86%E5%87%BA%E6%93%8A%E5%BC%B7%E5%8A%9B%E5%9F%B7%E8%A1%8C%E5%B0%81%E9%96%89%E5%BC%8F%E8%B7%AF%E6%AA%A2%E6%96%B7%E6%AF%92%E8%B7%AF-111315574.html",
-          "time": "2026-07-05 19:13:15",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "中南部唯一！嘉義市精忠社區成立「無人機足球培育基地」",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%8D%97%E9%83%A8%E5%94%AF-%E5%98%89%E7%BE%A9%E5%B8%82%E7%B2%BE%E5%BF%A0%E7%A4%BE%E5%8D%80%E6%88%90%E7%AB%8B-%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%B6%B3%E7%90%83%E5%9F%B9%E8%82%B2%E5%9F%BA%E5%9C%B0-083030154.html",
-          "time": "2026-07-05 16:30:30",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉義市導入智慧口腔照護科技 5秒檢測牙菌斑守護長者口腔健康",
-          "url": "https://www.thehubnews.net/archives/641121",
-          "time": "2026-07-05 16:18:37",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "全國聯防毒駕！嘉市警攜手保五周六夜雷霆出擊 封閉式路檢斷毒路",
-          "url": "https://www.thehubnews.net/archives/641159",
-          "time": "2026-07-05 16:04:00",
-          "publisher": "新頭條",
-          "severity": "yellow"
-        },
-        {
-          "title": "嘉市府引進「數位照光板」5秒檢測牙菌斑 落實照護讓嘉家攏有「好牙」",
-          "url": "https://tw.news.yahoo.com/%E5%98%89%E5%B8%82%E5%BA%9C%E5%BC%95%E9%80%B2-%E6%95%B8%E4%BD%8D%E7%85%A7%E5%85%89%E6%9D%BF-5%E7%A7%92%E6%AA%A2%E6%B8%AC%E7%89%99%E8%8F%8C%E6%96%91-%E8%90%BD%E5%AF%A6%E7%85%A7%E8%AD%B7%E8%AE%93%E5%98%89%E5%AE%B6%E6%94%8F%E6%9C%89-%E5%A5%BD%E7%89%99-060056627.html",
-          "time": "2026-07-05 14:00:56",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "酒駕毒駕零容忍 嘉市警封閉式路檢 (圖)",
-          "url": "https://tw.news.yahoo.com/%E9%85%92%E9%A7%95%E6%AF%92%E9%A7%95%E9%9B%B6%E5%AE%B9%E5%BF%8D-%E5%98%89%E5%B8%82%E8%AD%A6%E5%B0%81%E9%96%89%E5%BC%8F%E8%B7%AF%E6%AA%A2-%E5%9C%96-054338941.html",
-          "time": "2026-07-05 13:43:38",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "嘉市警4日晚封閉式路檢 酒駕毒駕各查獲1件",
-          "url": "https://www.cna.com.tw/news/asoc/202607050096.aspx",
-          "time": "2026-07-05 13:42:26",
-          "publisher": "中央社",
-          "severity": "yellow"
-        },
-        {
-          "title": "只要5秒！嘉市智慧口腔神器揪出牙菌斑 長輩潔牙一目了然",
-          "url": "https://more-news.tw/658773/",
-          "time": "2026-07-05 13:16:00",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "酒毒駕零容忍 嘉市警聯合保五動員90警強力路檢",
-          "url": "https://n.yam.com/Article/20260705775809",
-          "time": "2026-07-05 12:00:00",
-          "publisher": "蕃新聞→觀傳媒",
-          "severity": "yellow"
-        },
-        {
-          "title": "全國聯防毒駕!嘉市警再攜手保五(周六夜)雷霆出擊 封閉式路檢斷毒路",
-          "url": "https://n.yam.com/Article/20260705690019",
-          "time": "2026-07-05 12:00:00",
-          "publisher": "蕃新聞→三星傳媒",
-          "severity": "yellow"
-        },
-        {
-          "title": "嘉市警封城掃蕩酒毒駕 90警力設16路檢點查獲毒駕、酒駕及通緝犯",
-          "url": "https://n.yam.com/Article/20260705796942",
-          "time": "2026-07-05 12:00:00",
-          "publisher": "蕃新聞→創新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "中南部唯一！嘉市精忠社區成立「無人機足球培育基地」 透過科技跨世代共融",
-          "url": "https://n.yam.com/Article/20260705302620",
-          "time": "2026-07-05 12:00:00",
-          "publisher": "蕃新聞→三星傳媒",
-          "severity": null
-        },
-        {
-          "title": "嘉市警再攜手保五夜出擊！封閉式路檢斷毒路 成績出爐",
-          "url": "https://news.nextapple.com/local/20260705/775F6CCA1FD1A860A6371512159B7164",
-          "time": "2026-07-05 10:57:11",
-          "publisher": "壹蘋新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "嘉市警攜手保五出擊 封閉式路檢斷毒駕",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5494207",
-          "time": "2026-07-05 09:37:12",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "金門地方動態",
       "city": "金門",
       "place": "金門縣政府",
@@ -2403,6 +2228,167 @@
           "time": "2026-07-05 09:59:23",
           "publisher": "Yahoo新聞",
           "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "嘉義市地方動態",
+      "city": "嘉義市",
+      "place": "嘉義市政府",
+      "level": "red",
+      "news_count": 21,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 21,
+      "news_articles": [
+        {
+          "title": "嘉市精忠社區 無人機足球老少共享",
+          "url": "https://news.ltn.com.tw/news/ChiayiCity/paper/1761565",
+          "time": "2026-07-06 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "在野大聯盟正式成軍無黨籍朴子市長吳品叡宣布參選嘉義縣長 黃敏惠王育敏張啓楷同台力挺",
+          "url": "https://tw.news.yahoo.com/%E5%9C%A8%E9%87%8E%E5%A4%A7%E8%81%AF%E7%9B%9F%E6%AD%A3%E5%BC%8F%E6%88%90%E8%BB%8D%E7%84%A1%E9%BB%A8%E7%B1%8D%E6%9C%B4%E5%AD%90%E5%B8%82%E9%95%B7%E5%90%B3%E5%93%81%E5%8F%A1%E5%AE%A3%E5%B8%83%E5%8F%83%E9%81%B8%E5%98%89%E7%BE%A9%E7%B8%A3%E9%95%B7-%E9%BB%83%E6%95%8F%E6%83%A0%E7%8E%8B%E8%82%B2%E6%95%8F%E5%BC%B5%E5%95%93%E6%A5%B7%E5%90%8C%E5%8F%B0%E5%8A%9B%E6%8C%BA-153821394.html",
+          "time": "2026-07-05 23:38:21",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "在野大聯盟成軍集結 吳品叡參選嘉義縣長 黃敏惠、王育敏、張啓楷同台力挺",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpRDFEbk9ydGJzNHNQVlRMcGMyczh2NHZseVZmNnFlTHRQNkNhYURXckNHWW54UU45ODhOZDR5Z1pjODhiMlN2S3EzV2Ywc09ldUZZ?oc=5",
+          "time": "2026-07-05 23:38:21",
+          "publisher": "Google News→台灣好報",
+          "severity": null
+        },
+        {
+          "title": "「五星市長」黃敏惠加持！ 吳品叡宣布參選嘉義縣長",
+          "url": "https://www.ettoday.net/news/20260705/3195739.htm",
+          "time": "2026-07-05 23:15:00",
+          "publisher": "ETtoday",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣長選戰升溫。無黨籍朴子市長吳品叡今晚宣布投入年底嘉義縣長選舉，成為國民黨、民眾黨首度以「在野大聯盟」模式共同支持的無黨籍嘉義縣長參選人。嘉義市長黃敏惠、國民黨立委王育敏、民眾黨嘉義市長參選人張啓楷同台力挺，展現藍白與在野整合態勢。",
+          "url": "https://udn.com/news/story/124652/9608450?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-05 21:11:13",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "藍白合嘉市造勢談輕軌 張啓楷「捏滑」黃敏惠左手網瘋傳",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5494788",
+          "time": "2026-07-05 20:34:16",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "中南部唯一嘉市精忠社區成立無人機足球培育基地 透過科技跨世代共融",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%8D%97%E9%83%A8%E5%94%AF-%E5%98%89%E5%B8%82%E7%B2%BE%E5%BF%A0%E7%A4%BE%E5%8D%80%E6%88%90%E7%AB%8B%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%B6%B3%E7%90%83%E5%9F%B9%E8%82%B2%E5%9F%BA%E5%9C%B0-%E9%80%8F%E9%81%8E%E7%A7%91%E6%8A%80%E8%B7%A8%E4%B8%96%E4%BB%A3%E5%85%B1%E8%9E%8D-112814952.html",
+          "time": "2026-07-05 19:28:14",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "全國聯防毒駕 嘉市警局x保五雷霆出擊強力執行封閉式路檢斷毒路",
+          "url": "https://tw.news.yahoo.com/%E5%85%A8%E5%9C%8B%E8%81%AF%E9%98%B2%E6%AF%92%E9%A7%95-%E5%98%89%E5%B8%82%E8%AD%A6%E5%B1%80x%E4%BF%9D%E4%BA%94%E9%9B%B7%E9%9C%86%E5%87%BA%E6%93%8A%E5%BC%B7%E5%8A%9B%E5%9F%B7%E8%A1%8C%E5%B0%81%E9%96%89%E5%BC%8F%E8%B7%AF%E6%AA%A2%E6%96%B7%E6%AF%92%E8%B7%AF-111315574.html",
+          "time": "2026-07-05 19:13:15",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "中南部唯一！嘉義市精忠社區成立「無人機足球培育基地」",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%8D%97%E9%83%A8%E5%94%AF-%E5%98%89%E7%BE%A9%E5%B8%82%E7%B2%BE%E5%BF%A0%E7%A4%BE%E5%8D%80%E6%88%90%E7%AB%8B-%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%B6%B3%E7%90%83%E5%9F%B9%E8%82%B2%E5%9F%BA%E5%9C%B0-083030154.html",
+          "time": "2026-07-05 16:30:30",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉義市導入智慧口腔照護科技 5秒檢測牙菌斑守護長者口腔健康",
+          "url": "https://www.thehubnews.net/archives/641121",
+          "time": "2026-07-05 16:18:37",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "全國聯防毒駕！嘉市警攜手保五周六夜雷霆出擊 封閉式路檢斷毒路",
+          "url": "https://www.thehubnews.net/archives/641159",
+          "time": "2026-07-05 16:04:00",
+          "publisher": "新頭條",
+          "severity": "yellow"
+        },
+        {
+          "title": "嘉市府引進「數位照光板」5秒檢測牙菌斑 落實照護讓嘉家攏有「好牙」",
+          "url": "https://tw.news.yahoo.com/%E5%98%89%E5%B8%82%E5%BA%9C%E5%BC%95%E9%80%B2-%E6%95%B8%E4%BD%8D%E7%85%A7%E5%85%89%E6%9D%BF-5%E7%A7%92%E6%AA%A2%E6%B8%AC%E7%89%99%E8%8F%8C%E6%96%91-%E8%90%BD%E5%AF%A6%E7%85%A7%E8%AD%B7%E8%AE%93%E5%98%89%E5%AE%B6%E6%94%8F%E6%9C%89-%E5%A5%BD%E7%89%99-060056627.html",
+          "time": "2026-07-05 14:00:56",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "酒駕毒駕零容忍 嘉市警封閉式路檢 (圖)",
+          "url": "https://tw.news.yahoo.com/%E9%85%92%E9%A7%95%E6%AF%92%E9%A7%95%E9%9B%B6%E5%AE%B9%E5%BF%8D-%E5%98%89%E5%B8%82%E8%AD%A6%E5%B0%81%E9%96%89%E5%BC%8F%E8%B7%AF%E6%AA%A2-%E5%9C%96-054338941.html",
+          "time": "2026-07-05 13:43:38",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "嘉市警4日晚封閉式路檢 酒駕毒駕各查獲1件",
+          "url": "https://www.cna.com.tw/news/asoc/202607050096.aspx",
+          "time": "2026-07-05 13:42:26",
+          "publisher": "中央社",
+          "severity": "yellow"
+        },
+        {
+          "title": "只要5秒！嘉市智慧口腔神器揪出牙菌斑 長輩潔牙一目了然",
+          "url": "https://more-news.tw/658773/",
+          "time": "2026-07-05 13:16:00",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "酒毒駕零容忍 嘉市警聯合保五動員90警強力路檢",
+          "url": "https://n.yam.com/Article/20260705775809",
+          "time": "2026-07-05 12:00:00",
+          "publisher": "蕃新聞→觀傳媒",
+          "severity": "yellow"
+        },
+        {
+          "title": "全國聯防毒駕!嘉市警再攜手保五(周六夜)雷霆出擊 封閉式路檢斷毒路",
+          "url": "https://n.yam.com/Article/20260705690019",
+          "time": "2026-07-05 12:00:00",
+          "publisher": "蕃新聞→三星傳媒",
+          "severity": "yellow"
+        },
+        {
+          "title": "嘉市警封城掃蕩酒毒駕 90警力設16路檢點查獲毒駕、酒駕及通緝犯",
+          "url": "https://n.yam.com/Article/20260705796942",
+          "time": "2026-07-05 12:00:00",
+          "publisher": "蕃新聞→創新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "中南部唯一！嘉市精忠社區成立「無人機足球培育基地」 透過科技跨世代共融",
+          "url": "https://n.yam.com/Article/20260705302620",
+          "time": "2026-07-05 12:00:00",
+          "publisher": "蕃新聞→三星傳媒",
+          "severity": null
+        },
+        {
+          "title": "嘉市警再攜手保五夜出擊！封閉式路檢斷毒路 成績出爐",
+          "url": "https://news.nextapple.com/local/20260705/775F6CCA1FD1A860A6371512159B7164",
+          "time": "2026-07-05 10:57:11",
+          "publisher": "壹蘋新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "嘉市警攜手保五出擊 封閉式路檢斷毒駕",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5494207",
+          "time": "2026-07-05 09:37:12",
+          "publisher": "自由時報",
+          "severity": "yellow"
         }
       ],
       "comments": []
@@ -4932,11 +4918,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "red",
-      "news_count": 86,
+      "news_count": 85,
       "comment_count": 0,
-      "negativity_pct": 10,
+      "negativity_pct": 11,
       "is_urgent": false,
-      "urgency_score": 113,
+      "urgency_score": 112,
       "news_articles": [
         {
           "title": "海陸警報無可避免！巴威颱風最恐怖路徑「宜蘭登陸、穿越北台灣」 | 天氣預報 | 生活",
@@ -5532,13 +5518,6 @@
           "time": "2026-07-05 09:38:30",
           "publisher": "中時新聞網",
           "severity": null
-        },
-        {
-          "title": "宜蘭TEAM台灣青年營圓滿結業 蕭美琴偕林國漳勉青年投入公共事務",
-          "url": "https://tw.news.yahoo.com/%E5%AE%9C%E8%98%ADteam%E5%8F%B0%E7%81%A3%E9%9D%92%E5%B9%B4%E7%87%9F%E5%9C%93%E6%BB%BF%E7%B5%90%E6%A5%AD-%E8%95%AD%E7%BE%8E%E7%90%B4%E5%81%95%E6%9E%97%E5%9C%8B%E6%BC%B3%E5%8B%89%E9%9D%92%E5%B9%B4%E6%8A%95%E5%85%A5%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8B%99-092326564.html",
-          "time": "2026-07-05 09:23:26",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -5548,11 +5527,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 102,
+      "news_count": 100,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 108,
+      "urgency_score": 106,
       "news_articles": [
         {
           "title": "【2026年7月活動推薦】大稻埕夏日節、寶可夢、花蓮航海王、桃園蓮花季、宜蘭童玩節...全台熱門景點活動一次看！(不斷更新) |【玩樂行事曆】",
@@ -6252,20 +6231,6 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QZ0tpMnRVUmU3dVJJcElaS2NfTjR1MEM4ZTJJV1RhSU5wVUY2NGc5cGZ1UDJ6SzlBaVNBaHRwX2c2dVdOdlAweGpCR3NFNmlS0gFWQVVfeXFMTk42RXRHakNqUkxKU0FZSUpwQzZ4bjBqZVRKd0Q0SWtBWXdLYmZlb2YycGR3WGJpclh5MW1PTHFZUnJ3emIxOVZ3QWh1TzdnbWFLN1dCSEE?oc=5",
           "time": "2026-07-05 09:32:32",
           "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "花蓮高中生騎微型電動二輪車 疑自摔頭撞石墩不治",
-          "url": "https://www.cna.com.tw/news/asoc/202607050023.aspx",
-          "time": "2026-07-05 09:26:47",
-          "publisher": "中央社",
-          "severity": "yellow"
-        },
-        {
-          "title": "花蓮高中生騎微型電動二輪車疑自摔頭撞石墩不治| 社會",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrUElyLUE2aFhmZEEwU201UlFoNUhjQnlkUXcwbUd6TzNhOFcyck5yMW5RMkdid19feXROekV0SFhkcEYtNXlleV8yV1VJZkgtSkgxQk5Rel9TbHZPeHBV?oc=5",
-          "time": "2026-07-05 09:26:00",
-          "publisher": "中央社",
           "severity": "yellow"
         }
       ],
@@ -7179,11 +7144,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 133,
+      "news_count": 131,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 151,
+      "urgency_score": 149,
       "news_articles": [
         {
           "title": "瓜地馬拉共和國國會議長康特雷斯應我國政府邀請，於7月6日至7月10日率團來台訪問，訪團搭乘長榮航空BR-51航班於今天清晨5時53分抵達桃園國際機場，外交部政務次長陳明祺親自到場接機。康特雷斯訪台期間將晉見賴清德總統、會晤外交部部長林佳龍並接受款宴，以及拜會立法院、衛生福利部等政府機關，同時參訪經建文化設施。",
@@ -8101,20 +8066,6 @@
           "time": "2026-07-05 09:31:00",
           "publisher": "ETtoday",
           "severity": "red"
-        },
-        {
-          "title": "首屆桃園青年盃華語辯論賽開幕 明星辯士交鋒網路實名制議題",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vUE5HRHJ1dThYZnpSTGI1UDNZMnBTNnlyeDZYZGJEdVhjNmxtTWZTMnoyeFF6ZlJxczNfX3AwOWdQVzVra2JDdFRER0w?oc=5",
-          "time": "2026-07-05 09:26:14",
-          "publisher": "Google News→桃園電子報",
-          "severity": null
-        },
-        {
-          "title": "桃園復興水蜜桃之夜登場 品嚐當季鮮甜滋味",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Odko4T1pSUlV5cE5mSXg3MGxhVzQ0MWR4bkRDM19NUG9nRjNaQ19xNTJwc2pEVGNvMU0wT3dHQTI4b0JpZFNBZDFUVDI?oc=5",
-          "time": "2026-07-05 09:20:14",
-          "publisher": "Google News→桃園電子報",
-          "severity": null
         }
       ],
       "comments": []
@@ -8124,11 +8075,11 @@
       "city": "台北",
       "place": "台北市萬華區",
       "level": "red",
-      "news_count": 169,
+      "news_count": 167,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 199,
+      "urgency_score": 197,
       "news_articles": [
         {
           "title": "2026.07.06 08:55 致癌油流向「北市公布42校」 沈伯洋：中央地方合作",
@@ -9298,20 +9249,6 @@
           "time": "2026-07-05 09:38:24",
           "publisher": "太報",
           "severity": "yellow"
-        },
-        {
-          "title": "中聯油脂大豆沙拉油「苯駢芘」超標 台北市衛生局公布下游業者名單",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%AF%E6%B2%B9%E8%84%82%E5%A4%A7%E8%B1%86%E6%B2%99%E6%8B%89%E6%B2%B9-%E8%8B%AF%E9%A7%A2%E8%8A%98-%E8%B6%85%E6%A8%99-%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80%E5%85%AC%E5%B8%83%E4%B8%8B%E6%B8%B8%E6%A5%AD%E8%80%85%E5%90%8D%E5%96%AE-092528268.html",
-          "time": "2026-07-05 09:25:28",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "致癌油延燒！北市衛生局公布14下游一次看",
-          "url": "https://tw.news.yahoo.com/%E8%87%B4%E7%99%8C%E6%B2%B9%E5%BB%B6%E7%87%92-%E5%8C%97%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80%E5%85%AC%E5%B8%8314%E4%B8%8B%E6%B8%B8-%E6%AC%A1%E7%9C%8B-092104096.html",
-          "time": "2026-07-05 09:21:04",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -9321,11 +9258,11 @@
       "city": "台中",
       "place": "台中市豐原區",
       "level": "red",
-      "news_count": 188,
+      "news_count": 187,
       "comment_count": 0,
       "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 230,
+      "urgency_score": 229,
       "news_articles": [
         {
           "title": "毒油吃下肚！ 台北42校、新北50校、台中39校受影響",
@@ -10634,13 +10571,6 @@
           "url": "https://www.chinatimes.com/realtimenews/20260705000996-260402",
           "time": "2026-07-05 09:38:21",
           "publisher": "中時新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "連撞3波都沒停! 台中男毒駕撞5汽機車.釀4人受傷",
-          "url": "https://tw.news.yahoo.com/%E9%80%A3%E6%92%9E3%E6%B3%A2%E9%83%BD%E6%B2%92%E5%81%9C-%E5%8F%B0%E4%B8%AD%E7%94%B7%E6%AF%92%E9%A7%95%E6%92%9E5%E6%B1%BD%E6%A9%9F%E8%BB%8A-%E9%87%804%E4%BA%BA%E5%8F%97%E5%82%B7-092656755.html",
-          "time": "2026-07-05 09:26:56",
-          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
