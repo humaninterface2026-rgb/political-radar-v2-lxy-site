@@ -48815,7 +48815,7 @@
     },
     {
       "date": "2026-07-08",
-      "snapshot_at": "2026-07-08T03:19:24.349737+00:00",
+      "snapshot_at": "2026-07-08T03:22:27.153937+00:00",
       "hotspots": [
         {
           "title": "藍營路線爭議",
@@ -48858,20 +48858,6 @@
           ]
         },
         {
-          "title": "桃園詐騙案",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "華山平鎮站感恩20年 伴孤老「動腦防失智、聯手防詐騙」"
-          ]
-        },
-        {
           "title": "高雄詐騙案",
           "city": "高雄",
           "place": "高雄市政府",
@@ -48883,6 +48869,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "大陸快篩「借屍還魂」美國製！高市府遭詐騙3853萬…結局出爐"
+          ]
+        },
+        {
+          "title": "桃園詐騙案",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "華山平鎮站感恩20年 伴孤老「動腦防失智、聯手防詐騙」"
           ]
         },
         {
@@ -48956,22 +48956,6 @@
           ]
         },
         {
-          "title": "雲林地方動態",
-          "city": "雲林",
-          "place": "雲林縣政府",
-          "level": "green",
-          "news_count": 16,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 16,
-          "sample_titles": [
-            "台新新光金控助雲林育幼院童圓夢北騎！吳東亮親收感謝狀、院童直笛奏《感謝你的愛》",
-            "《餐桌上的文學封味》走讀雲林風土",
-            "雲林支持性就業 助身障青年站穩職場"
-          ]
-        },
-        {
           "title": "新竹縣地方動態",
           "city": "新竹縣",
           "place": "新竹縣政府",
@@ -48985,6 +48969,22 @@
             "TVBS民調／新竹縣長之爭！藍營初選白熱化 鄭朝方「這票倉」稱霸",
             "徐欣瑩出席七七抗戰紀念活動 高喊：為新竹縣衝鋒陷陣 | 品觀點的貼文 | 鉅亨號 | Anue鉅亨",
             "出席七七抗戰紀念活動 徐欣瑩高喊：為新竹縣衝鋒陷陣 | 勁報"
+          ]
+        },
+        {
+          "title": "雲林地方動態",
+          "city": "雲林",
+          "place": "雲林縣政府",
+          "level": "green",
+          "news_count": 16,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 16,
+          "sample_titles": [
+            "台新新光金控助雲林育幼院童圓夢北騎！吳東亮親收感謝狀、院童直笛奏《感謝你的愛》",
+            "《餐桌上的文學封味》走讀雲林風土",
+            "雲林支持性就業 助身障青年站穩職場"
           ]
         },
         {
@@ -49137,21 +49137,6 @@
           ]
         },
         {
-          "title": "桃園弊案爭議",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "每車1000元接私活幫清廢棄物涉貪 桃園清潔隊員二審仍判刑2年10月",
-            "每車1000元接私活幫清廢棄物涉貪 桃園清潔隊員二審仍判刑2年10 月"
-          ]
-        },
-        {
           "title": "高雄弊案爭議",
           "city": "高雄",
           "place": "高雄市政府",
@@ -49164,6 +49149,21 @@
           "sample_titles": [
             "販毒集團變「閃電麥坤」流竄高雄送貨 5落網3收押",
             "惡劣吸金直擊/杜逸文吸金內幕1/假海外廣告投資狂捲1.5億！新創點公司杜逸文等6人遭高雄地檢署起訴"
+          ]
+        },
+        {
+          "title": "桃園弊案爭議",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "每車1000元接私活幫清廢棄物涉貪 桃園清潔隊員二審仍判刑2年10月",
+            "每車1000元接私活幫清廢棄物涉貪 桃園清潔隊員二審仍判刑2年10 月"
           ]
         },
         {
@@ -49283,11 +49283,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 52,
+          "news_count": 50,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 55,
+          "urgency_score": 53,
           "sample_titles": [
             "巴黎發明展 苗栗企業奪4金7銀17銅",
             "陳品安：苗栗蓋土資場 要兼顧環保",
@@ -49299,11 +49299,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 67,
+          "news_count": 66,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 73,
+          "urgency_score": 72,
           "sample_titles": [
             "新北女搬離租處留2隻米克斯貓等死 動保處重罰11萬3千元",
             "新北路邊停車格 明年全面智慧化",
@@ -49327,22 +49327,6 @@
           ]
         },
         {
-          "title": "屏東地方動態",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "red",
-          "news_count": 71,
-          "comment_count": 0,
-          "negativity_pct": 3,
-          "is_urgent": false,
-          "urgency_score": 77,
-          "sample_titles": [
-            "屏東後備旅教召訓練 磨練召員戰技 | 青年日報",
-            "屏東後備旅教召訓練 磨練召員戰技",
-            "暑假來屏東海生館優惠攻略一次看！特定族群還能免費入館"
-          ]
-        },
-        {
           "title": "基隆地方動態",
           "city": "基隆",
           "place": "基隆市政府",
@@ -49356,6 +49340,22 @@
             "跟進基隆下修颱風假標準？ 蔣萬安：北北基桃共同討論",
             "基隆涉虐童幼兒園 營業許可將廢止",
             "颱風假有望？強颱巴威暴風圈侵襲率飆升「10縣市破80%」 基隆達98%最高"
+          ]
+        },
+        {
+          "title": "屏東地方動態",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "red",
+          "news_count": 71,
+          "comment_count": 0,
+          "negativity_pct": 3,
+          "is_urgent": false,
+          "urgency_score": 77,
+          "sample_titles": [
+            "屏東後備旅教召訓練 磨練召員戰技 | 青年日報",
+            "屏東後備旅教召訓練 磨練召員戰技",
+            "暑假來屏東海生館優惠攻略一次看！特定族群還能免費入館"
           ]
         },
         {
@@ -49379,11 +49379,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 127,
+          "news_count": 126,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 154,
+          "urgency_score": 153,
           "sample_titles": [
             "維護團結、確保大局 國民黨核准魏嘉彥採「報備參選」投入花蓮市長選舉",
             "強颱巴威逼近 花蓮萬里溪堰塞湖警戒",
@@ -49411,11 +49411,11 @@
           "city": "台北",
           "place": "台北市南港區",
           "level": "red",
-          "news_count": 136,
+          "news_count": 134,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 154,
+          "urgency_score": 152,
           "sample_titles": [
             "北市可能放颱風假？蔣萬安說話了",
             "沈伯洋投入台北選戰逼出蔣萬安弱點？吳思瑤：空殼人設已經很難拿掉",
@@ -49443,11 +49443,11 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "red",
-          "news_count": 115,
+          "news_count": 114,
           "comment_count": 46,
           "negativity_pct": 8,
           "is_urgent": true,
-          "urgency_score": 216,
+          "urgency_score": 215,
           "sample_titles": [
             "不是石崇良、盧秀燕！醫剖析致癌油風暴源頭 點名「他」恐出事：就看賴清德了 | 李瑋萱 | 新聞",
             "強颱巴威逼近　盧秀燕提前啟動防颱防汛作業",
@@ -49459,11 +49459,11 @@
           "city": "台中",
           "place": "台中市西屯區",
           "level": "red",
-          "news_count": 192,
+          "news_count": 191,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 234,
+          "urgency_score": 233,
           "sample_titles": [
             "中市強化地下排水韌性！ 梧棲大智路改善工程提升海線地區防洪能力 | 中廣新聞網",
             "盧秀燕批致癌油中央蓋牌綠營列時間軸打臉：中市府拖1週才罰| 自由電子報",
