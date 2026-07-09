@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "snapshot_at": "2026-07-09T01:08:00.888291+00:00",
+  "snapshot_at": "2026-07-09T01:17:24.209323+00:00",
   "hotspots": [
     {
       "title": "垃圾山",
@@ -570,27 +570,6 @@
       "comments": []
     },
     {
-      "title": "桃園弊案爭議",
-      "city": "桃園",
-      "place": "桃園市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "桃園女嬰遭斷手、重摔虐死 狠父起訴",
-          "url": "https://news.ltn.com.tw/news/society/paper/1761926",
-          "time": "2026-07-09 05:30:00",
-          "publisher": "自由時報",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台北弊案爭議",
       "city": "台北",
       "place": "台北市政府",
@@ -627,6 +606,27 @@
           "url": "https://www.taisounds.com/news/content/96/266499",
           "time": "2026-07-08 17:02:58",
           "publisher": "太報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "桃園弊案爭議",
+      "city": "桃園",
+      "place": "桃園市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "桃園女嬰遭斷手、重摔虐死 狠父起訴",
+          "url": "https://news.ltn.com.tw/news/society/paper/1761926",
+          "time": "2026-07-09 05:30:00",
+          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -1543,41 +1543,6 @@
       "comments": []
     },
     {
-      "title": "台中弊案爭議",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "red",
-      "news_count": 3,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 12,
-      "news_articles": [
-        {
-          "title": "當街瘋砍前女友「確認斷氣才跑」台中恐怖男起訴",
-          "url": "https://news.ltn.com.tw/news/society/paper/1761925",
-          "time": "2026-07-09 05:30:00",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "台中職能治療師遭前男友當街砍死 台中地檢5罪名起訴",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E8%81%B7%E8%83%BD%E6%B2%BB%E7%99%82%E5%B8%AB%E9%81%AD%E5%89%8D%E7%94%B7%E5%8F%8B%E7%95%B6%E8%A1%97%E7%A0%8D%E6%AD%BB-%E5%8F%B0%E4%B8%AD%E5%9C%B0%E6%AA%A25%E7%BD%AA%E5%90%8D%E8%B5%B7%E8%A8%B4-070202971.html",
-          "time": "2026-07-08 15:02:02",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "台中街頭情殺「補刀插頸、坐看她斷氣」 恐怖前任「定位追蹤」謀殺計畫曝！5罪起訴",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E8%A1%97%E9%A0%AD%E6%83%85%E6%AE%BA-%E8%A3%9C%E5%88%80%E6%8F%92%E9%A0%B8-%E5%9D%90%E7%9C%8B%E5%A5%B9%E6%96%B7%E6%B0%A3-%E6%81%90%E6%80%96%E5%89%8D%E4%BB%BB-%E5%AE%9A%E4%BD%8D%E8%BF%BD%E8%B9%A4-121902666.html",
-          "time": "2026-07-08 12:19:02",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台南弊案爭議",
       "city": "台南",
       "place": "台南市政府",
@@ -1607,6 +1572,41 @@
           "url": "https://news.nextapple.com/local/20260708/6C56840B0A4D76678B26F102A96FA1CB",
           "time": "2026-07-08 12:58:20",
           "publisher": "壹蘋新聞網",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台中弊案爭議",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "red",
+      "news_count": 3,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 12,
+      "news_articles": [
+        {
+          "title": "當街瘋砍前女友「確認斷氣才跑」台中恐怖男起訴",
+          "url": "https://news.ltn.com.tw/news/society/paper/1761925",
+          "time": "2026-07-09 05:30:00",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "台中職能治療師遭前男友當街砍死 台中地檢5罪名起訴",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E8%81%B7%E8%83%BD%E6%B2%BB%E7%99%82%E5%B8%AB%E9%81%AD%E5%89%8D%E7%94%B7%E5%8F%8B%E7%95%B6%E8%A1%97%E7%A0%8D%E6%AD%BB-%E5%8F%B0%E4%B8%AD%E5%9C%B0%E6%AA%A25%E7%BD%AA%E5%90%8D%E8%B5%B7%E8%A8%B4-070202971.html",
+          "time": "2026-07-08 15:02:02",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "台中街頭情殺「補刀插頸、坐看她斷氣」 恐怖前任「定位追蹤」謀殺計畫曝！5罪起訴",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E8%A1%97%E9%A0%AD%E6%83%85%E6%AE%BA-%E8%A3%9C%E5%88%80%E6%8F%92%E9%A0%B8-%E5%9D%90%E7%9C%8B%E5%A5%B9%E6%96%B7%E6%B0%A3-%E6%81%90%E6%80%96%E5%89%8D%E4%BB%BB-%E5%AE%9A%E4%BD%8D%E8%BF%BD%E8%B9%A4-121902666.html",
+          "time": "2026-07-08 12:19:02",
+          "publisher": "Yahoo新聞",
           "severity": "red"
         }
       ],
@@ -3577,11 +3577,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "red",
-      "news_count": 65,
+      "news_count": 64,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 71,
+      "urgency_score": 70,
       "news_articles": [
         {
           "title": "強颱巴威「週五週六」影響最劇烈！ 中部以北、宜蘭防大雨豪雨",
@@ -4029,13 +4029,6 @@
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zYXA3bFhsRVROZGg0Qnc4WjRadXFkTW9taWNCeDc2b1hPMDFjRzJCOUFWVkpNUEhCZ3pWbi1wLVZfQ1YwaDl1RVlFRXlsSFhoMEk3cDZJcW40ZEpoY3Y5Q2JSNDLSAWpBVV95cUxPWEFVb211eWsyenlKdmlnVnh0ZWpSZnhOYlZLSm9hQmRsRFE2NXdJMmE2d3VnU2loTmpDY29iWXZfYnZ0Z1NzU1dISHgwMUp6dG00Y0J2bHJ1em9WQ2gyQ051Q0k5UnM0UmJn?oc=5",
           "time": "2026-07-08 10:02:56",
           "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "房屋稅近3900戶未繳～宜蘭7月13日起寄發催繳通知",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51N055MjF1YkJhbVRuaXpyMTczcTQ0ME5oUHRrdks2RnVqNGFSN3BNSWNFajdZbjU3VUpxYVpiY05rcENZYkwyUDJhMWJ3bHA4VGtHVUxEdXc0UQ?oc=5",
-          "time": "2026-07-08 09:12:00",
-          "publisher": "Google News→葛瑪蘭新聞網",
           "severity": null
         }
       ],
@@ -6419,11 +6412,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 117,
+      "news_count": 116,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 126,
+      "urgency_score": 125,
       "news_articles": [
         {
           "title": "蛋襲民進黨花蓮黨部 統促黨成員送辦",
@@ -7236,13 +7229,6 @@
           "time": "2026-07-08 09:35:05",
           "publisher": "Google News→台灣新聞雲",
           "severity": "red"
-        },
-        {
-          "title": "花蓮FUN暑假 航海王亮相",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tT09zYThuNi1fekNISXZYXzk4dGROSHROS3kzNDZUd09TX3pPQTU0MTZXdnRDMElhYmJUZjd3UzBpbFBvY2F5T29xRFlERl85alItQll4X0VpTzA2RjdSZDZ6Z1JDSE0?oc=5",
-          "time": "2026-07-08 09:08:59",
-          "publisher": "Google News→人間福報電子報",
-          "severity": null
         }
       ],
       "comments": []
@@ -7252,11 +7238,11 @@
       "city": "高雄",
       "place": "高雄市政府",
       "level": "red",
-      "news_count": 130,
+      "news_count": 129,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 142,
+      "urgency_score": 141,
       "news_articles": [
         {
           "title": "高雄結合在地劇團 祭青年席位5折",
@@ -8160,13 +8146,6 @@
           "time": "2026-07-08 09:47:20",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "「高雄首選」擴大北美市場！芒果鳳梨首度上市熱銷、Mini Ball小西瓜接棒搶市",
-          "url": "https://www.storm.mg/article/11147831",
-          "time": "2026-07-08 09:14:00",
-          "publisher": "風傳媒",
-          "severity": null
         }
       ],
       "comments": []
@@ -8886,7 +8865,7 @@
           "title": "盧秀燕喊話：中部瞄準無人載具打造新護國神山",
           "url": "https://n.yam.com/Article/20260708112593",
           "time": "2026-07-08 12:00:00",
-          "publisher": "蕃新聞 search「秀燕」(aggregator)",
+          "publisher": "蕃新聞→創新聞",
           "severity": null
         },
         {

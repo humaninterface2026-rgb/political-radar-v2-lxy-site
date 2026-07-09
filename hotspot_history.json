@@ -49523,7 +49523,7 @@
     },
     {
       "date": "2026-07-09",
-      "snapshot_at": "2026-07-09T01:08:00.888291+00:00",
+      "snapshot_at": "2026-07-09T01:17:24.209323+00:00",
       "hotspots": [
         {
           "title": "垃圾山",
@@ -49779,20 +49779,6 @@
           ]
         },
         {
-          "title": "桃園弊案爭議",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "桃園女嬰遭斷手、重摔虐死 狠父起訴"
-          ]
-        },
-        {
           "title": "台北弊案爭議",
           "city": "台北",
           "place": "台北市政府",
@@ -49818,6 +49804,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "「上樓拿錢」都是假的！高雄男5度搭霸王車 積欠4305元遭起訴"
+          ]
+        },
+        {
+          "title": "桃園弊案爭議",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "桃園女嬰遭斷手、重摔虐死 狠父起訴"
           ]
         },
         {
@@ -49916,22 +49916,6 @@
           ]
         },
         {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "red",
-          "news_count": 3,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 12,
-          "sample_titles": [
-            "當街瘋砍前女友「確認斷氣才跑」台中恐怖男起訴",
-            "台中職能治療師遭前男友當街砍死 台中地檢5罪名起訴",
-            "台中街頭情殺「補刀插頸、坐看她斷氣」 恐怖前任「定位追蹤」謀殺計畫曝！5罪起訴"
-          ]
-        },
-        {
           "title": "台南弊案爭議",
           "city": "台南",
           "place": "台南市政府",
@@ -49945,6 +49929,22 @@
             "台南逆倫悲劇! 土雞城少東\"冷血勒斃母\" 辯稱幻聽遭起訴",
             "稱幻聽「腦袋裡有聲音」 台南土雞城少東勒斃母親遭起訴",
             "台南又見惡保母 4月大女嬰腦出血身上還有瘀傷 檢方偵結起訴"
+          ]
+        },
+        {
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "red",
+          "news_count": 3,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 12,
+          "sample_titles": [
+            "當街瘋砍前女友「確認斷氣才跑」台中恐怖男起訴",
+            "台中職能治療師遭前男友當街砍死 台中地檢5罪名起訴",
+            "台中街頭情殺「補刀插頸、坐看她斷氣」 恐怖前任「定位追蹤」謀殺計畫曝！5罪起訴"
           ]
         },
         {
@@ -50096,11 +50096,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 65,
+          "news_count": 64,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 71,
+          "urgency_score": 70,
           "sample_titles": [
             "強颱巴威「週五週六」影響最劇烈！ 中部以北、宜蘭防大雨豪雨",
             "阪急交通社漫遊宜蘭海岸風景區| 宜蘭新聞網",
@@ -50176,11 +50176,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 117,
+          "news_count": 116,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 126,
+          "urgency_score": 125,
           "sample_titles": [
             "蛋襲民進黨花蓮黨部 統促黨成員送辦",
             "花蓮5大市場促銷 送抵用券抽家電",
@@ -50192,11 +50192,11 @@
           "city": "高雄",
           "place": "高雄市政府",
           "level": "red",
-          "news_count": 130,
+          "news_count": 129,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 142,
+          "urgency_score": 141,
           "sample_titles": [
             "高雄結合在地劇團 祭青年席位5折",
             "致癌油第3層下游 高雄49家業者均下架",
