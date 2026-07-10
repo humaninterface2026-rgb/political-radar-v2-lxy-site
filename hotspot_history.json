@@ -50221,7 +50221,7 @@
     },
     {
       "date": "2026-07-10",
-      "snapshot_at": "2026-07-10T01:30:16.741369+00:00",
+      "snapshot_at": "2026-07-10T01:34:03.421352+00:00",
       "hotspots": [
         {
           "title": "屏東弊案爭議",
@@ -50335,20 +50335,6 @@
           ]
         },
         {
-          "title": "彰化車禍事件",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "彰化男無照酒駕車禍釀1死 一審判刑8年"
-          ]
-        },
-        {
           "title": "屏東車禍事件",
           "city": "屏東",
           "place": "屏東縣政府",
@@ -50360,6 +50346,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "屏東無號誌路口重大死亡車禍 地方盼評估加裝紅黃閃燈"
+          ]
+        },
+        {
+          "title": "彰化車禍事件",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "彰化男無照酒駕車禍釀1死 一審判刑8年"
           ]
         },
         {
@@ -50377,20 +50377,6 @@
           ]
         },
         {
-          "title": "金門弊案爭議",
-          "city": "金門",
-          "place": "金門縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "金門議員洪成發1家3口起訴／鄉長、議員任內都涉圍標 圖利家族近3千萬"
-          ]
-        },
-        {
           "title": "台北弊案爭議",
           "city": "台北",
           "place": "台北市政府",
@@ -50405,9 +50391,9 @@
           ]
         },
         {
-          "title": "宜蘭弊案爭議",
-          "city": "宜蘭",
-          "place": "宜蘭縣政府",
+          "title": "金門弊案爭議",
+          "city": "金門",
+          "place": "金門縣政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -50415,7 +50401,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "濫用職權 涉侵占代理村長事務費 國民黨員山鄉長張宜樺 貪污起訴"
+            "金門議員洪成發1家3口起訴／鄉長、議員任內都涉圍標 圖利家族近3千萬"
           ]
         },
         {
@@ -50430,6 +50416,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "影射「陪睡換獨家」…桃園男「讚聲蔡正元」判刑 馬郁雯：告到你們學乖"
+          ]
+        },
+        {
+          "title": "宜蘭弊案爭議",
+          "city": "宜蘭",
+          "place": "宜蘭縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "濫用職權 涉侵占代理村長事務費 國民黨員山鄉長張宜樺 貪污起訴"
           ]
         },
         {
@@ -50851,11 +50851,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 117,
+          "news_count": 114,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 132,
+          "urgency_score": 129,
           "sample_titles": [
             "桃園捷運棕線先期工程開工　串聯龜山迴龍打造北北桃一小時生活圈",
             "桃園捷運棕線先期工程開工　串聯龜山迴龍打造北北桃一小時生活圈",

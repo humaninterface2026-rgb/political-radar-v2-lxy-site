@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "snapshot_at": "2026-07-10T01:30:16.741369+00:00",
+  "snapshot_at": "2026-07-10T01:34:03.421352+00:00",
   "hotspots": [
     {
       "title": "屏東弊案爭議",
@@ -291,27 +291,6 @@
       "comments": []
     },
     {
-      "title": "彰化車禍事件",
-      "city": "彰化",
-      "place": "彰化縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "彰化男無照酒駕車禍釀1死 一審判刑8年",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E7%94%B7%E7%84%A1%E7%85%A7%E9%85%92%E9%A7%95%E8%BB%8A%E7%A6%8D%E9%87%801%E6%AD%BB-%E5%AF%A9%E5%88%A4%E5%88%918%E5%B9%B4-051402220.html",
-          "time": "2026-07-09 13:14:02",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "屏東車禍事件",
       "city": "屏東",
       "place": "屏東縣政府",
@@ -327,6 +306,27 @@
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94Wl8wd1BVWXFwU2dpU01HUTlpSERkVThZWXl0ZWQ3VGdlOEZBbVVxWkV5SkpCRy1WLTFEWWI2WXRoWFRPSW04X1lhYS1Gb1lMY2MzRmVVeWFWdF9PbnRFSE9DVjjSAWpBVV95cUxQSGNPal9fUzY3QlYtZDhjWW5rbXozV1VvSnZQSGprNVJkSEFQbkdjdGNTZ3ZycW1HdnFyd01Uckk5WWJCZXU4MEZuYi01MnhZYkFhS0g4Qy1NcW14SGdVcHBqV24tTm1SQkpB?oc=5",
           "time": "2026-07-09 10:25:42",
           "publisher": "自由時報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "彰化車禍事件",
+      "city": "彰化",
+      "place": "彰化縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "彰化男無照酒駕車禍釀1死 一審判刑8年",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E7%94%B7%E7%84%A1%E7%85%A7%E9%85%92%E9%A7%95%E8%BB%8A%E7%A6%8D%E9%87%801%E6%AD%BB-%E5%AF%A9%E5%88%A4%E5%88%918%E5%B9%B4-051402220.html",
+          "time": "2026-07-09 13:14:02",
+          "publisher": "Yahoo新聞",
           "severity": "red"
         }
       ],
@@ -354,27 +354,6 @@
       "comments": []
     },
     {
-      "title": "金門弊案爭議",
-      "city": "金門",
-      "place": "金門縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "金門議員洪成發1家3口起訴／鄉長、議員任內都涉圍標 圖利家族近3千萬",
-          "url": "https://news.ltn.com.tw/news/society/paper/1762015",
-          "time": "2026-07-10 05:30:00",
-          "publisher": "自由時報",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台北弊案爭議",
       "city": "台北",
       "place": "台北市政府",
@@ -396,9 +375,9 @@
       "comments": []
     },
     {
-      "title": "宜蘭弊案爭議",
-      "city": "宜蘭",
-      "place": "宜蘭縣政府",
+      "title": "金門弊案爭議",
+      "city": "金門",
+      "place": "金門縣政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -407,8 +386,8 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "濫用職權 涉侵占代理村長事務費 國民黨員山鄉長張宜樺 貪污起訴",
-          "url": "https://news.ltn.com.tw/news/society/paper/1762005",
+          "title": "金門議員洪成發1家3口起訴／鄉長、議員任內都涉圍標 圖利家族近3千萬",
+          "url": "https://news.ltn.com.tw/news/society/paper/1762015",
           "time": "2026-07-10 05:30:00",
           "publisher": "自由時報",
           "severity": "red"
@@ -432,6 +411,27 @@
           "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOOWtvX24xUjVPQ0RYOS1wSnplNlpaV0xVZF9OdXFYQ1FmNkwxVkV6NjRVSjBiQ1I1bG9hT0ZWUlNKMGsxOXhVZGlpT0VNdzhZRC04S1NKUnNvMzZjeEt0clltMUl6WW9kOUNGMVpIOTVUdGQ5YVJrNTBmamxzNFRmQ3d1UXRsdXQ2MFp5a2Fmemk2SWxVaDRwcUpnMXJ3d05VczZoRUhOX1AwV3FmY0xfb1VXb2xTQ0Zhc0dOSzhzRE9fcTZpTEljakJ6WjhKcHFBWDlaVGdla04yUzByRHFFMEpoWnFCelBPQ29xb1JFWUdOQm5ycUlJV1pwVXFBdm9FNUtUTjBpYTREZDB0eVU5UlQ3bFdiaEV5WFRpRTdzazJHVkhh?oc=5",
           "time": "2026-07-09 10:07:12",
           "publisher": "Yahoo新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "宜蘭弊案爭議",
+      "city": "宜蘭",
+      "place": "宜蘭縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "濫用職權 涉侵占代理村長事務費 國民黨員山鄉長張宜樺 貪污起訴",
+          "url": "https://news.ltn.com.tw/news/society/paper/1762005",
+          "time": "2026-07-10 05:30:00",
+          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -5929,11 +5929,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 117,
+      "news_count": 114,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 132,
+      "urgency_score": 129,
       "news_articles": [
         {
           "title": "桃園捷運棕線先期工程開工　串聯龜山迴龍打造北北桃一小時生活圈",
@@ -6731,27 +6731,6 @@
           "url": "https://n.yam.com/Article/20260709353241",
           "time": "2026-07-09 09:39:55",
           "publisher": "蕃新聞→旅奇傳媒",
-          "severity": null
-        },
-        {
-          "title": "桃園高之鐵扶輪社長期關懷地方 張善政盼攜手擴大公益能量",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZS1E5X29KeUFpS0Q1SlpIdFgzeU1yQmVzOVJUckJEZVRpb2x6c0xMaW55RDhIcVItM3BONXFWNW5kcHlRcWg4cGlIaUo?oc=5",
-          "time": "2026-07-09 09:32:21",
-          "publisher": "Google News→桃園電子報",
-          "severity": null
-        },
-        {
-          "title": "桃園高之鐵扶輪社長期關懷地方 張善政盼攜手擴大公益能量 - 社會新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLWJWTUV5T01DdVV3MERuNlp4a3lnNGoyUmh0Y3diTHVJZ0lnazMzWk15eVlyVm9tV19uY0Q3bG8yQXdaWnlCQXJGdWhzR3ZibFd1RjgxYkVhbzRlM0ZTc0pEcW1FWS1VRFhjUmV2ZUItZ3U0cHJpZHZ3djE3d0hWd0cwekE2TDJZVHdZ?oc=5",
-          "time": "2026-07-09 09:32:21",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "泰國旅遊業者踩線桃園驚豔發現！宗教文化、自然景觀與深度體驗富有市場潛力",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yX1RUZVMyUkVmNVNQdWsyQ2V5cHNPMHF3R19iSXZXaGhzWGw3T1l2cTBITkt3a2VHNktyZjM2UGNDalIyT1UxY1R1N0hiRXRDbEpZUFBiaXU?oc=5",
-          "time": "2026-07-09 09:31:24",
-          "publisher": "Google News→tromnimedia.com",
           "severity": null
         }
       ],
