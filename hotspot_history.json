@@ -50925,7 +50925,7 @@
     },
     {
       "date": "2026-07-11",
-      "snapshot_at": "2026-07-11T01:25:46.778772+00:00",
+      "snapshot_at": "2026-07-11T01:27:47.342170+00:00",
       "hotspots": [
         {
           "title": "垃圾山",
@@ -50994,20 +50994,6 @@
           ]
         },
         {
-          "title": "嘉義市詐騙案",
-          "city": "嘉義市",
-          "place": "嘉義市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "嘉市警前進教堂宣導反詐騙與道安 深化社區警政守護民眾安全不遺餘力"
-          ]
-        },
-        {
           "title": "新北詐騙案",
           "city": "新北",
           "place": "新北市政府",
@@ -51019,6 +51005,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "逮個正著！手握30萬瞎扯世足賭資 新北警超商前識破詐騙車手"
+          ]
+        },
+        {
+          "title": "嘉義市詐騙案",
+          "city": "嘉義市",
+          "place": "嘉義市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "嘉市警前進教堂宣導反詐騙與道安 深化社區警政守護民眾安全不遺餘力"
           ]
         },
         {
@@ -51049,6 +51049,20 @@
           "sample_titles": []
         },
         {
+          "title": "台中火災事件",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "[Gossiping] [問卦] 台中12小時二起相似火災?"
+          ]
+        },
+        {
           "title": "苗栗火災事件",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -51077,9 +51091,9 @@
           ]
         },
         {
-          "title": "台中火災事件",
-          "city": "台中",
-          "place": "台中市政府",
+          "title": "新北弊案爭議",
+          "city": "新北",
+          "place": "新北市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -51087,21 +51101,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "[Gossiping] [問卦] 台中12小時二起相似火災?"
-          ]
-        },
-        {
-          "title": "桃園弊案爭議",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "把妹開房間、威而鋼都叫廠商埋單！前桃園經發局長貪污案 判10年4月定讞"
+            "新北消防局爆採購弊案！涉洩漏招標文件、驗收不實圖利廠商 科員、業者2人遭羈押禁見"
           ]
         },
         {
@@ -51119,9 +51119,9 @@
           ]
         },
         {
-          "title": "新北弊案爭議",
-          "city": "新北",
-          "place": "新北市政府",
+          "title": "桃園弊案爭議",
+          "city": "桃園",
+          "place": "桃園市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -51129,7 +51129,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "新北消防局爆採購弊案！涉洩漏招標文件、驗收不實圖利廠商 科員、業者2人遭羈押禁見"
+            "把妹開房間、威而鋼都叫廠商埋單！前桃園經發局長貪污案 判10年4月定讞"
           ]
         },
         {
@@ -51556,22 +51556,6 @@
           ]
         },
         {
-          "title": "桃園地方動態",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "red",
-          "news_count": 103,
-          "comment_count": 0,
-          "negativity_pct": 2,
-          "is_urgent": false,
-          "urgency_score": 109,
-          "sample_titles": [
-            "桃園機捷今全線維持15分鐘班距 暫停預辦登機、行李託運服務",
-            "檢批：像地痞流氓強徵保護費 桃園前經發局長朱松偉 判10年4月定讞",
-            "桃園補助96校 修繕兒童遊戲場"
-          ]
-        },
-        {
           "title": "花蓮地方動態",
           "city": "花蓮",
           "place": "花蓮縣政府",
@@ -51588,15 +51572,31 @@
           ]
         },
         {
+          "title": "桃園地方動態",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "red",
+          "news_count": 103,
+          "comment_count": 0,
+          "negativity_pct": 2,
+          "is_urgent": false,
+          "urgency_score": 109,
+          "sample_titles": [
+            "桃園機捷今全線維持15分鐘班距 暫停預辦登機、行李託運服務",
+            "檢批：像地痞流氓強徵保護費 桃園前經發局長朱松偉 判10年4月定讞",
+            "桃園補助96校 修繕兒童遊戲場"
+          ]
+        },
+        {
           "title": "新北地方動態",
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 114,
+          "news_count": 113,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 135,
+          "urgency_score": 134,
           "sample_titles": [
             "產官跨界齊心！新北聯手企業及新北地檢 共創綠能永續廉潔新未來！！",
             "巴威風雨最猛時間到 全台豪大雨 新北5縣市紫爆",
@@ -51624,11 +51624,11 @@
           "city": "台北",
           "place": "台北市北投區",
           "level": "red",
-          "news_count": 231,
+          "news_count": 230,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 246,
+          "urgency_score": 245,
           "sample_titles": [
             "北市無風雨⋯蔣萬安辯「防颱準備日」！律師一句話酸爆",
             "北市無風雨還放颱風假⋯蔣萬安辯「防颱準備日」！律師酸：建議台北連放2個月",
@@ -51640,11 +51640,11 @@
           "city": "台中",
           "place": "台中市大里區",
           "level": "red",
-          "news_count": 321,
+          "news_count": 320,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 357,
+          "urgency_score": 356,
           "sample_titles": [
             "【輿情回應】 防範颱風致災 中市府預防性撤離山區民眾、妥善安置收容處所",
             "AI智慧管理升級 中市大里掩埋場導入熱顯像打造24小時環安防護",
