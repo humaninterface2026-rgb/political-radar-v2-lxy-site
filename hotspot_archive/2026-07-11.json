@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "snapshot_at": "2026-07-11T10:24:25.232946+00:00",
+  "snapshot_at": "2026-07-11T10:25:00.525633+00:00",
   "hotspots": [
     {
       "title": "廚餘山",
@@ -2260,279 +2260,6 @@
       "comments": []
     },
     {
-      "title": "基隆地方動態",
-      "city": "基隆",
-      "place": "基隆市政府",
-      "level": "red",
-      "news_count": 37,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 37,
-      "news_articles": [
-        {
-          "title": "基隆海象險峻 闖警戒區將開罰",
-          "url": "https://taiwanreports.com/archives/998704",
-          "time": "2026-07-11 17:42:07",
-          "publisher": "臺灣導報",
-          "severity": "yellow"
-        },
-        {
-          "title": "基市府各項活動 進行機動性調整",
-          "url": "https://taiwanreports.com/archives/998698",
-          "time": "2026-07-11 17:38:37",
-          "publisher": "臺灣導報",
-          "severity": null
-        },
-        {
-          "title": "巴威颱風釀基隆、新北1.6萬戶停電！台電全力搶修復電逾9成",
-          "url": "https://news.nextapple.com/local/20260711/4B32EA0C1614871F9D89620B9639B92E",
-          "time": "2026-07-11 17:35:44",
-          "publisher": "壹蘋新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "基隆西定路大榕樹倒路中 險砸中經過車輛",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5501944",
-          "time": "2026-07-11 17:09:08",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "「K STAR基隆之星」伴手禮徵選開跑 優勝品牌登首爾設計週",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5501891",
-          "time": "2026-07-11 16:10:26",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "基隆港浪太強　漁船遭巨浪狂搖冒險拉繩固定",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-07-11/2403240.html",
-          "time": "2026-07-11 13:50:55",
-          "publisher": "壹電視",
-          "severity": "yellow"
-        },
-        {
-          "title": "基隆陣風估可達11級 氣象署發布巨浪警告",
-          "url": "https://news.pts.org.tw/article/817180",
-          "time": "2026-07-11 13:38:42",
-          "publisher": "公視 即時",
-          "severity": null
-        },
-        {
-          "title": "巴威掀巨浪！基隆急勸離474人 中午起闖禁區恐噴25萬",
-          "url": "https://more-news.tw/664046/",
-          "time": "2026-07-11 13:32:54",
-          "publisher": "墨新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "巴威強風豪雨釀災　基隆武昌街停電一整夜",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-07-11/2403139.html",
-          "time": "2026-07-11 12:36:21",
-          "publisher": "壹電視",
-          "severity": "yellow"
-        },
-        {
-          "title": "別跟荷包過不去！基市「觀浪直接開罰」 最慘恐噴25萬元",
-          "url": "https://news.ltn.com.tw/news/Keelung/breakingnews/5501680",
-          "time": "2026-07-11 12:32:05",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "颱風逼近 童子慰問基隆後備指揮部官兵",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5501667",
-          "time": "2026-07-11 12:16:32",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "基隆勸離觀浪近500人 中午起加強取締",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5501644",
-          "time": "2026-07-11 12:12:06",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "基隆風雨增強樹木倒塌壓電線 500多戶一度停電",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5501553",
-          "time": "2026-07-11 10:58:30",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "基隆新增2處新公托 即日起開放登記",
-          "url": "https://news.ltn.com.tw/news/Keelung/breakingnews/5501523",
-          "time": "2026-07-11 10:25:24",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "憂豪雨引發土石流 基隆北寧路、湖海路預警封閉",
-          "url": "https://news.ebc.net.tw/news/living/560706",
-          "time": "2026-07-11 10:14:00",
-          "publisher": "東森新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "基隆達成一區一公托 謝國樑：朝全市24處公共托育據點努力",
-          "url": "https://cnews.com.tw/237260711a05/",
-          "time": "2026-07-11 10:11:40",
-          "publisher": "匯流新聞網",
-          "severity": null
-        },
-        {
-          "title": "基隆港漲潮水漫凸堤 漁船頂浪急駛防波堤避風",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5501470",
-          "time": "2026-07-11 09:35:19",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "巴威來襲！基隆中午起加強取締 警戒區觀浪垂釣最高罰25萬",
-          "url": "https://tw.news.yahoo.com/%E5%B7%B4%E5%A8%81%E4%BE%86%E8%A5%B2-%E5%9F%BA%E9%9A%86%E4%B8%AD%E5%8D%88%E8%B5%B7%E5%8A%A0%E5%BC%B7%E5%8F%96%E7%B7%A0-%E8%AD%A6%E6%88%92%E5%8D%80%E8%A7%80%E6%B5%AA%E5%9E%82%E9%87%A3%E6%9C%80%E9%AB%98%E7%BD%B025%E8%90%AC-054326281.html",
-          "time": "2026-07-11 06:15:37",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "躲颱風 漁船停靠於於基隆正濱漁港 (圖)",
-          "url": "https://tw.news.yahoo.com/%E8%BA%B2%E9%A2%B1%E9%A2%A8-%E6%BC%81%E8%88%B9%E5%81%9C%E9%9D%A0%E6%96%BC%E6%96%BC%E5%9F%BA%E9%9A%86%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF-%E5%9C%96-061038414.html",
-          "time": "2026-07-11 06:10:38",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "颱風巴威影響 基隆市濱海出現大浪 (圖)",
-          "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E5%B7%B4%E5%A8%81%E5%BD%B1%E9%9F%BF-%E5%9F%BA%E9%9A%86%E5%B8%82%E6%BF%B1%E6%B5%B7%E5%87%BA%E7%8F%BE%E5%A4%A7%E6%B5%AA-%E5%9C%96-060931263.html",
-          "time": "2026-07-11 06:09:31",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "颱風巴威逼近 基隆市八斗子漁港出現大浪 (圖)",
-          "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E5%B7%B4%E5%A8%81%E9%80%BC%E8%BF%91-%E5%9F%BA%E9%9A%86%E5%B8%82%E5%85%AB%E6%96%97%E5%AD%90%E6%BC%81%E6%B8%AF%E5%87%BA%E7%8F%BE%E5%A4%A7%E6%B5%AA-%E5%9C%96-060927282.html",
-          "time": "2026-07-11 06:09:27",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "基隆封北寧路、堵南地下道 居民架水閘門",
-          "url": "https://news.ltn.com.tw/news/Keelung/paper/1762209",
-          "time": "2026-07-11 05:30:00",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "基隆虐童案懲處 教育處副處長降調秘書",
-          "url": "https://news.ltn.com.tw/news/Keelung/paper/1762210",
-          "time": "2026-07-11 05:30:00",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "巴威襲台！童子瑋赴基隆後指部發加菜金 慶安宮加碼捐20萬改善官兵環境",
-          "url": "https://tw.news.yahoo.com/%E5%B7%B4%E5%A8%81%E8%A5%B2%E5%8F%B0-%E7%AB%A5%E5%AD%90%E7%91%8B%E8%B5%B4%E5%9F%BA%E9%9A%86%E5%BE%8C%E6%8C%87%E9%83%A8%E7%99%BC%E5%8A%A0%E8%8F%9C%E9%87%91-%E6%85%B6%E5%AE%89%E5%AE%AE%E5%8A%A0%E7%A2%BC%E6%8D%9020%E8%90%AC%E6%94%B9%E5%96%84%E5%AE%98%E5%85%B5%E7%92%B0%E5%A2%83-050700373.html",
-          "time": "2026-07-11 05:07:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "巴威颱風停班課 基市府第二階段活動調整及因應措施",
-          "url": "https://more-news.tw/663814/",
-          "time": "2026-07-10 23:53:16",
-          "publisher": "墨新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "巴威颱風來勢洶洶！基隆北寧路、湖海路晚間預警性封閉",
-          "url": "https://news.nextapple.com/local/20260710/AD8F580F5955259AFFD83AD8047F6181",
-          "time": "2026-07-10 23:49:20",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "2026.07.10 22:35 憂巴威颱風威力猛！ 基隆北寧路、湖海路預警性封閉",
-          "url": "https://www.mnews.tw/story/20260710sot2231001",
-          "time": "2026-07-10 23:17:02",
-          "publisher": "鏡新聞",
-          "severity": null
-        },
-        {
-          "title": "中颱巴威來襲，基隆預估平地24小時雨量將有200到340毫米雨量，市長謝國樑今天主持一級開設防颱會議，指示市府團隊整備措施，要求全面備戰防颱，議長童子瑋則前往基隆七個行政區公所，慰問防颱留守人員並了解各區整備情形。",
-          "url": "https://udn.com/news/story/124652/9620455?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-10 23:17:01",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "基隆外木山沿海掀大浪 低窪地區堆沙包、防水閘門防颱",
-          "url": "https://news.pts.org.tw/article/817129",
-          "time": "2026-07-10 21:31:00",
-          "publisher": "公視 即時",
-          "severity": null
-        },
-        {
-          "title": "颱風天酒駕！基隆男子開車撞翻4機車逃逸 警方火速出動逮捕",
-          "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E5%A4%A9%E9%85%92%E9%A7%95-%E5%9F%BA%E9%9A%86%E7%94%B7%E5%AD%90%E9%96%8B%E8%BB%8A%E6%92%9E%E7%BF%BB4%E6%A9%9F%E8%BB%8A%E9%80%83%E9%80%B8-%E8%AD%A6%E6%96%B9%E7%81%AB%E9%80%9F%E5%87%BA%E5%8B%95%E9%80%AE%E6%8D%95-125437839.html",
-          "time": "2026-07-10 20:54:37",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "巴威逼近 基隆北寧路、湖海路、堵南1-1地下道22:00預警性封閉",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5501162",
-          "time": "2026-07-10 20:36:08",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "獨家／淹怕了！基隆「低窪路段」大警戒 架閘門防大淹",
-          "url": "https://news.ebc.net.tw/news/living/560634",
-          "time": "2026-07-10 20:29:00",
-          "publisher": "東森新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "新北、基隆、台北市、桃園市 今晚8時宣布明（7/11）日停止上班及上課",
-          "url": "https://more-news.tw/663711/",
-          "time": "2026-07-10 20:06:36",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "基隆名人幼兒園虐童案延燒 名嘴痛批：操作粗糙",
-          "url": "https://news.nextapple.com/politics/20260710/D4EB6E8CD8E1BE64174EAA6448990F60",
-          "time": "2026-07-10 19:46:20",
-          "publisher": "壹蘋新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "2026.07.10 18:45 巴威來襲！基隆信二路整排商家 架防水閘門堆沙包",
-          "url": "https://www.mnews.tw/story/20260710sot1840001",
-          "time": "2026-07-10 18:57:43",
-          "publisher": "鏡新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "慰問基隆7區公所防颱留守人員 童子瑋：每個環節都不能鬆懈",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5501030",
-          "time": "2026-07-10 18:34:20",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "巴威颱風逼近風雨增強 基隆消防局籲做好防颱準備",
-          "url": "https://more-news.tw/663588/",
-          "time": "2026-07-10 18:29:24",
-          "publisher": "墨新聞",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "雲林地方動態",
       "city": "雲林",
       "place": "雲林縣政府",
@@ -2800,6 +2527,279 @@
           "url": "https://www.storm.mg/lifestyle/11148501",
           "time": "2026-07-10 18:29:00",
           "publisher": "風傳媒",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "基隆地方動態",
+      "city": "基隆",
+      "place": "基隆市政府",
+      "level": "red",
+      "news_count": 37,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 37,
+      "news_articles": [
+        {
+          "title": "基隆海象險峻 闖警戒區將開罰",
+          "url": "https://taiwanreports.com/archives/998704",
+          "time": "2026-07-11 17:42:07",
+          "publisher": "臺灣導報",
+          "severity": "yellow"
+        },
+        {
+          "title": "基市府各項活動 進行機動性調整",
+          "url": "https://taiwanreports.com/archives/998698",
+          "time": "2026-07-11 17:38:37",
+          "publisher": "臺灣導報",
+          "severity": null
+        },
+        {
+          "title": "巴威颱風釀基隆、新北1.6萬戶停電！台電全力搶修復電逾9成",
+          "url": "https://news.nextapple.com/local/20260711/4B32EA0C1614871F9D89620B9639B92E",
+          "time": "2026-07-11 17:35:44",
+          "publisher": "壹蘋新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "基隆西定路大榕樹倒路中 險砸中經過車輛",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5501944",
+          "time": "2026-07-11 17:09:08",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "「K STAR基隆之星」伴手禮徵選開跑 優勝品牌登首爾設計週",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5501891",
+          "time": "2026-07-11 16:10:26",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "基隆港浪太強　漁船遭巨浪狂搖冒險拉繩固定",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-07-11/2403240.html",
+          "time": "2026-07-11 13:50:55",
+          "publisher": "壹電視",
+          "severity": "yellow"
+        },
+        {
+          "title": "基隆陣風估可達11級 氣象署發布巨浪警告",
+          "url": "https://news.pts.org.tw/article/817180",
+          "time": "2026-07-11 13:38:42",
+          "publisher": "公視 即時",
+          "severity": null
+        },
+        {
+          "title": "巴威掀巨浪！基隆急勸離474人 中午起闖禁區恐噴25萬",
+          "url": "https://more-news.tw/664046/",
+          "time": "2026-07-11 13:32:54",
+          "publisher": "墨新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "巴威強風豪雨釀災　基隆武昌街停電一整夜",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-07-11/2403139.html",
+          "time": "2026-07-11 12:36:21",
+          "publisher": "壹電視",
+          "severity": "yellow"
+        },
+        {
+          "title": "別跟荷包過不去！基市「觀浪直接開罰」 最慘恐噴25萬元",
+          "url": "https://news.ltn.com.tw/news/Keelung/breakingnews/5501680",
+          "time": "2026-07-11 12:32:05",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "颱風逼近 童子慰問基隆後備指揮部官兵",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5501667",
+          "time": "2026-07-11 12:16:32",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "基隆勸離觀浪近500人 中午起加強取締",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5501644",
+          "time": "2026-07-11 12:12:06",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "基隆風雨增強樹木倒塌壓電線 500多戶一度停電",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5501553",
+          "time": "2026-07-11 10:58:30",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "基隆新增2處新公托 即日起開放登記",
+          "url": "https://news.ltn.com.tw/news/Keelung/breakingnews/5501523",
+          "time": "2026-07-11 10:25:24",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "憂豪雨引發土石流 基隆北寧路、湖海路預警封閉",
+          "url": "https://news.ebc.net.tw/news/living/560706",
+          "time": "2026-07-11 10:14:00",
+          "publisher": "東森新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "基隆達成一區一公托 謝國樑：朝全市24處公共托育據點努力",
+          "url": "https://cnews.com.tw/237260711a05/",
+          "time": "2026-07-11 10:11:40",
+          "publisher": "匯流新聞網",
+          "severity": null
+        },
+        {
+          "title": "基隆港漲潮水漫凸堤 漁船頂浪急駛防波堤避風",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5501470",
+          "time": "2026-07-11 09:35:19",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "巴威來襲！基隆中午起加強取締 警戒區觀浪垂釣最高罰25萬",
+          "url": "https://tw.news.yahoo.com/%E5%B7%B4%E5%A8%81%E4%BE%86%E8%A5%B2-%E5%9F%BA%E9%9A%86%E4%B8%AD%E5%8D%88%E8%B5%B7%E5%8A%A0%E5%BC%B7%E5%8F%96%E7%B7%A0-%E8%AD%A6%E6%88%92%E5%8D%80%E8%A7%80%E6%B5%AA%E5%9E%82%E9%87%A3%E6%9C%80%E9%AB%98%E7%BD%B025%E8%90%AC-054326281.html",
+          "time": "2026-07-11 06:15:37",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "躲颱風 漁船停靠於於基隆正濱漁港 (圖)",
+          "url": "https://tw.news.yahoo.com/%E8%BA%B2%E9%A2%B1%E9%A2%A8-%E6%BC%81%E8%88%B9%E5%81%9C%E9%9D%A0%E6%96%BC%E6%96%BC%E5%9F%BA%E9%9A%86%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF-%E5%9C%96-061038414.html",
+          "time": "2026-07-11 06:10:38",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "颱風巴威影響 基隆市濱海出現大浪 (圖)",
+          "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E5%B7%B4%E5%A8%81%E5%BD%B1%E9%9F%BF-%E5%9F%BA%E9%9A%86%E5%B8%82%E6%BF%B1%E6%B5%B7%E5%87%BA%E7%8F%BE%E5%A4%A7%E6%B5%AA-%E5%9C%96-060931263.html",
+          "time": "2026-07-11 06:09:31",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "颱風巴威逼近 基隆市八斗子漁港出現大浪 (圖)",
+          "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E5%B7%B4%E5%A8%81%E9%80%BC%E8%BF%91-%E5%9F%BA%E9%9A%86%E5%B8%82%E5%85%AB%E6%96%97%E5%AD%90%E6%BC%81%E6%B8%AF%E5%87%BA%E7%8F%BE%E5%A4%A7%E6%B5%AA-%E5%9C%96-060927282.html",
+          "time": "2026-07-11 06:09:27",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "基隆封北寧路、堵南地下道 居民架水閘門",
+          "url": "https://news.ltn.com.tw/news/Keelung/paper/1762209",
+          "time": "2026-07-11 05:30:00",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "基隆虐童案懲處 教育處副處長降調秘書",
+          "url": "https://news.ltn.com.tw/news/Keelung/paper/1762210",
+          "time": "2026-07-11 05:30:00",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "巴威襲台！童子瑋赴基隆後指部發加菜金 慶安宮加碼捐20萬改善官兵環境",
+          "url": "https://tw.news.yahoo.com/%E5%B7%B4%E5%A8%81%E8%A5%B2%E5%8F%B0-%E7%AB%A5%E5%AD%90%E7%91%8B%E8%B5%B4%E5%9F%BA%E9%9A%86%E5%BE%8C%E6%8C%87%E9%83%A8%E7%99%BC%E5%8A%A0%E8%8F%9C%E9%87%91-%E6%85%B6%E5%AE%89%E5%AE%AE%E5%8A%A0%E7%A2%BC%E6%8D%9020%E8%90%AC%E6%94%B9%E5%96%84%E5%AE%98%E5%85%B5%E7%92%B0%E5%A2%83-050700373.html",
+          "time": "2026-07-11 05:07:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "巴威颱風停班課 基市府第二階段活動調整及因應措施",
+          "url": "https://more-news.tw/663814/",
+          "time": "2026-07-10 23:53:16",
+          "publisher": "墨新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "巴威颱風來勢洶洶！基隆北寧路、湖海路晚間預警性封閉",
+          "url": "https://news.nextapple.com/local/20260710/AD8F580F5955259AFFD83AD8047F6181",
+          "time": "2026-07-10 23:49:20",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "2026.07.10 22:35 憂巴威颱風威力猛！ 基隆北寧路、湖海路預警性封閉",
+          "url": "https://www.mnews.tw/story/20260710sot2231001",
+          "time": "2026-07-10 23:17:02",
+          "publisher": "鏡新聞",
+          "severity": null
+        },
+        {
+          "title": "中颱巴威來襲，基隆預估平地24小時雨量將有200到340毫米雨量，市長謝國樑今天主持一級開設防颱會議，指示市府團隊整備措施，要求全面備戰防颱，議長童子瑋則前往基隆七個行政區公所，慰問防颱留守人員並了解各區整備情形。",
+          "url": "https://udn.com/news/story/124652/9620455?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-10 23:17:01",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "基隆外木山沿海掀大浪 低窪地區堆沙包、防水閘門防颱",
+          "url": "https://news.pts.org.tw/article/817129",
+          "time": "2026-07-10 21:31:00",
+          "publisher": "公視 即時",
+          "severity": null
+        },
+        {
+          "title": "颱風天酒駕！基隆男子開車撞翻4機車逃逸 警方火速出動逮捕",
+          "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E5%A4%A9%E9%85%92%E9%A7%95-%E5%9F%BA%E9%9A%86%E7%94%B7%E5%AD%90%E9%96%8B%E8%BB%8A%E6%92%9E%E7%BF%BB4%E6%A9%9F%E8%BB%8A%E9%80%83%E9%80%B8-%E8%AD%A6%E6%96%B9%E7%81%AB%E9%80%9F%E5%87%BA%E5%8B%95%E9%80%AE%E6%8D%95-125437839.html",
+          "time": "2026-07-10 20:54:37",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "巴威逼近 基隆北寧路、湖海路、堵南1-1地下道22:00預警性封閉",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5501162",
+          "time": "2026-07-10 20:36:08",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "獨家／淹怕了！基隆「低窪路段」大警戒 架閘門防大淹",
+          "url": "https://news.ebc.net.tw/news/living/560634",
+          "time": "2026-07-10 20:29:00",
+          "publisher": "東森新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "新北、基隆、台北市、桃園市 今晚8時宣布明（7/11）日停止上班及上課",
+          "url": "https://more-news.tw/663711/",
+          "time": "2026-07-10 20:06:36",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "基隆名人幼兒園虐童案延燒 名嘴痛批：操作粗糙",
+          "url": "https://news.nextapple.com/politics/20260710/D4EB6E8CD8E1BE64174EAA6448990F60",
+          "time": "2026-07-10 19:46:20",
+          "publisher": "壹蘋新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "2026.07.10 18:45 巴威來襲！基隆信二路整排商家 架防水閘門堆沙包",
+          "url": "https://www.mnews.tw/story/20260710sot1840001",
+          "time": "2026-07-10 18:57:43",
+          "publisher": "鏡新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "慰問基隆7區公所防颱留守人員 童子瑋：每個環節都不能鬆懈",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5501030",
+          "time": "2026-07-10 18:34:20",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "巴威颱風逼近風雨增強 基隆消防局籲做好防颱準備",
+          "url": "https://more-news.tw/663588/",
+          "time": "2026-07-10 18:29:24",
+          "publisher": "墨新聞",
           "severity": null
         }
       ],
