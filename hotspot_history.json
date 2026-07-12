@@ -51551,7 +51551,7 @@
     },
     {
       "date": "2026-07-12",
-      "snapshot_at": "2026-07-12T01:13:37.849304+00:00",
+      "snapshot_at": "2026-07-12T01:19:58.717848+00:00",
       "hotspots": [
         {
           "title": "台中陳情/抗議",
@@ -51592,21 +51592,6 @@
           "sample_titles": []
         },
         {
-          "title": "屏東車禍事件",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "green",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "屏東車禍揭心碎真相！母載亡女求神祈福 警到場確認已死亡多時",
-            "屏東新園車禍驚見女屍！母不捨病女離世 竟載屍求神還魂"
-          ]
-        },
-        {
           "title": "高雄車禍事件",
           "city": "高雄",
           "place": "高雄市政府",
@@ -51619,6 +51604,21 @@
           "sample_titles": [
             "高雄驚悚車禍! 女駕駛疑搶快右轉 騎士撞上噴飛骨折",
             "高雄恐怖車禍！休旅車違規右轉害撞…22歲騎士左腿「骨肉分離」無心跳"
+          ]
+        },
+        {
+          "title": "屏東車禍事件",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "屏東車禍揭心碎真相！母載亡女求神祈福 警到場確認已死亡多時",
+            "屏東新園車禍驚見女屍！母不捨病女離世 竟載屍求神還魂"
           ]
         },
         {
@@ -51814,11 +51814,11 @@
           "city": "台東",
           "place": "台東縣政府",
           "level": "yellow",
-          "news_count": 39,
+          "news_count": 38,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 42,
+          "urgency_score": 41,
           "sample_titles": [
             "台東「不放颱風假」吹焚風又風飛沙 富岡飆37.6℃",
             "台東馬蘭部落豐年祭「米畢畢」日熱鬧登場 青年接力傳承南島文化",
@@ -51830,11 +51830,11 @@
           "city": "連江",
           "place": "連江縣（馬祖）",
           "level": "yellow",
-          "news_count": 50,
+          "news_count": 48,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 53,
+          "urgency_score": 51,
           "sample_titles": [
             "巴威走了！連江及6縣市多區今仍停班課（全台總整理）",
             "巴威颱風》台鐵恢復正常營運 馬祖航線全取消",
@@ -51855,21 +51855,6 @@
             "巴威來襲！盧秀燕巡檢治水工程 力守家戶不淹水",
             "颱風巴威來襲 盧秀燕親赴昔日「漂漂河」巡檢：防汛應變不鬆懈",
             "巴威來襲！盧秀燕巡檢治水工程 力守家戶不淹水"
-          ]
-        },
-        {
-          "title": "屏東弊案爭議",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "不滿狗吠聲刺死鄰居犬隻 屏東男子被判刑5月",
-            "不滿狗吠聲刺死鄰居犬隻 屏東男子被判刑5月"
           ]
         },
         {
@@ -51957,11 +51942,11 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "red",
-          "news_count": 45,
+          "news_count": 44,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 45,
+          "urgency_score": 44,
           "sample_titles": [
             "美智庫專文示警：北京擴大灰色威脅 中共複製金門模式 進逼東沙、太平",
             "金門 蔣經國先生紀念館 提報文資審查",
@@ -51989,11 +51974,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 57,
+          "news_count": 55,
           "comment_count": 0,
-          "negativity_pct": 11,
+          "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 75,
+          "urgency_score": 67,
           "sample_titles": [
             "憂巴威入夜山區豪雨成災 屏東啟動預防性撤離撤 急撤百人",
             "屏東1.2萬戶停電 恆春半島陣風14級",
@@ -52005,11 +51990,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 62,
+          "news_count": 60,
           "comment_count": 0,
-          "negativity_pct": 2,
+          "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 65,
+          "urgency_score": 60,
           "sample_titles": [
             "台南蓮潭國中小鹿兒島交流 日市長率員工揮國旗迎接",
             "17歲少女、18歲男失聯 台南黃金海岸找到人成2具浮屍",
@@ -52053,11 +52038,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 94,
+          "news_count": 93,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 97,
+          "urgency_score": 96,
           "sample_titles": [
             "新北市紅、黃線開放停車至13日上午7時",
             "新北市紅、黃線開放停車至7/13",
@@ -52069,11 +52054,11 @@
           "city": "高雄",
           "place": "高雄市鳳山區",
           "level": "red",
-          "news_count": 108,
+          "news_count": 107,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 123,
+          "urgency_score": 122,
           "sample_titles": [
             "巴威颱風雨勢趨緩 高雄台20、台29線多處路段恢復通行",
             "高雄驚悚車禍! 女駕駛疑搶快右轉 騎士撞上噴飛骨折",
@@ -52117,11 +52102,11 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 182,
+          "news_count": 181,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 197,
+          "urgency_score": 196,
           "sample_titles": [
             "綠轟台北市颱風假 蔣萬安：這次不能輕忽",
             "八旬婦心房藏四公分血栓 台北慈濟開胸救命防再中風",
@@ -52133,11 +52118,11 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 188,
+          "news_count": 187,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 215,
+          "urgency_score": 214,
           "sample_titles": [
             "巴威襲台期間台中驚傳噩耗！男魂斷橋下",
             "「DENBA Taiwan台中體驗中心」正式開幕 日本健康科技深耕中台灣打造健康生活新據點",
