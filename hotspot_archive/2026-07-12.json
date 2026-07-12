@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "snapshot_at": "2026-07-12T10:17:46.030403+00:00",
+  "snapshot_at": "2026-07-12T10:30:10.162154+00:00",
   "hotspots": [
     {
       "title": "新北墜樓事件",
@@ -45,27 +45,6 @@
       "comments": []
     },
     {
-      "title": "新竹市詐騙案",
-      "city": "新竹市",
-      "place": "新竹市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "成功攔阻近640萬 竹市地政神隊友戳破地面師詐騙",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRWlRua0RzZ21vV25wSm9MQUVHVmZwRzV1WjhOTkowUXRpRU5VWlJYeXlaSEhtQk5vQ0lOcWM0MG0tYmJ2MVVQMERGQkdyQ0kxU3c?oc=5",
-          "time": "2026-07-11 18:31:22",
-          "publisher": "Google News→中華新聞雲／中華日報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "彰化詐騙案",
       "city": "彰化",
       "place": "彰化縣政府",
@@ -81,6 +60,27 @@
           "url": "https://tw.news.yahoo.com/%E4%B8%8D%E7%94%98%E4%BB%A3%E9%80%86%E5%AD%90%E6%89%9B%E5%85%A9%E7%99%BE%E8%90%AC%E8%A9%90%E9%A8%99%E5%82%B5-%E5%BD%B0%E5%8C%96%E6%85%88%E7%88%B6%E6%88%BF%E9%81%AD%E6%9F%A5%E5%B0%81-%E5%9B%9E%E9%A0%AD%E6%80%92%E5%91%8A%E5%85%B1%E7%8A%AF%E7%8D%B2%E8%B3%A0-040200425.html",
           "time": "2026-07-12 04:02:00",
           "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新竹市詐騙案",
+      "city": "新竹市",
+      "place": "新竹市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "成功攔阻近640萬 竹市地政神隊友戳破地面師詐騙",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRWlRua0RzZ21vV25wSm9MQUVHVmZwRzV1WjhOTkowUXRpRU5VWlJYeXlaSEhtQk5vQ0lOcWM0MG0tYmJ2MVVQMERGQkdyQ0kxU3c?oc=5",
+          "time": "2026-07-11 18:31:22",
+          "publisher": "Google News→中華新聞雲／中華日報",
           "severity": "yellow"
         }
       ],
@@ -223,7 +223,7 @@
           "text": "一手擋國防預算 一手喊要發展無人機 神是你 鬼也是你 11/28 選票不投賣台的江爸爸 投江啟臣=投匪婆鄭麗文=台灣變共產黨 以上請擴",
           "author": "liginglin",
           "url": "",
-          "time_text": "22小時",
+          "time_text": "23小時",
           "signal": "red"
         },
         {
@@ -231,7 +231,7 @@
           "text": "[圖片] Photo by illllllin on July 11, 2026. May be an image of text that says '舔共看中天 洗腦看中時 護航看聯合 比撥看TVBS'.",
           "author": "pollayear2024",
           "url": "",
-          "time_text": "20小時",
+          "time_text": "21小時",
           "signal": "red"
         }
       ]
@@ -424,7 +424,7 @@
           "text": "這些什麼時候去巡視？ 可以提出解決方案嗎？ 沒經費，可以停辦鍋烤節嗎？ 用這些經費把民生基本環境處理好 好嗎？ threads.com/@tsai… tsaijacobs 台中 台中在盧秀燕8年治理下 垃圾山廚餘海",
           "author": "jinrui024",
           "url": "",
-          "time_text": "23小時",
+          "time_text": "1天",
           "signal": "red"
         },
         {
@@ -440,7 +440,7 @@
           "text": "有沒有去檢查垃圾山和床墊長城還好嗎🥺",
           "author": "sherry_withluv_",
           "url": "",
-          "time_text": "22小時",
+          "time_text": "23小時",
           "signal": "red"
         },
         {
@@ -448,7 +448,7 @@
           "text": "廚餘湖妳有這麼認真視察嗎？ 垃圾山也沒看妳這麼認真視察？",
           "author": "esc168999",
           "url": "",
-          "time_text": "8小時",
+          "time_text": "9小時",
           "signal": "red"
         },
         {
@@ -456,7 +456,7 @@
           "text": "建議去大里垃圾山看一下污水是否有污染環境及河川",
           "author": "p670212",
           "url": "",
-          "time_text": "3小時",
+          "time_text": "4小時",
           "signal": "red"
         },
         {
@@ -464,7 +464,7 @@
           "text": "國民黨不倒台灣不會好 要不要去看一下泡水的垃圾山 好會演 終於肯淋雨了",
           "author": "qqmmbubbletea",
           "url": "",
-          "time_text": "16小時",
+          "time_text": "17小時",
           "signal": "red"
         },
         {
@@ -472,7 +472,7 @@
           "text": "[圖片] Photo by 柯順誌 on July 11, 2026. May be an image of fish and text that says '霧峰飛灰谷 霧峰飛灰谷　大里垃圾山 灰谷　大里垃圾山　霧峰廚餘谷 大里垃圾山 霧峰廚餘谷 大甲厨餘山 大肚廢土山 TIRE 本長 長红飲座 工放座 潭子床墊城 渾子床墊城龍井垃圾山 或龍井垃圾山東勢商餘丘 龍井垃圾山 東勢廚餘丘 ME0 北區垃圾山沙鹿垃圾山 沙鹿垃圾山早溪垃圾山 沙鹿垃圾山 北區垃圾山 早溪垃圾山'.",
           "author": "shunzhike",
           "url": "",
-          "time_text": "7小時",
+          "time_text": "8小時",
           "signal": "red"
         },
         {
@@ -480,7 +480,7 @@
           "text": "那些廚餘坑應該變成廚餘湖了吧！也許潰堤了也說不定！垃圾山流下來的垃水也要去關心一下吧！",
           "author": "wei_change_223",
           "url": "",
-          "time_text": "22小時",
+          "time_text": "23小時",
           "signal": "red"
         },
         {
@@ -488,7 +488,7 @@
           "text": "市長， 垃圾山、床墊山、賣土地炒房……好多事，可不可以也像這樣大力秀出，告訴大家我是認真要解決、有做得不周到就彌補、不要推給別人、真心帶著台中一起變好！ 你不會讓自己的小孩住在這種環境，然後坐視不管吧？",
           "author": "c60934",
           "url": "",
-          "time_text": "21小時",
+          "time_text": "22小時",
           "signal": "red"
         }
       ]
@@ -566,7 +566,7 @@
           "text": "這些什麼時候去巡視？ 可以提出解決方案嗎？ 沒經費，可以停辦鍋烤節嗎？ 用這些經費把民生基本環境處理好 好嗎？ threads.com/@tsai… tsaijacobs 台中 台中在盧秀燕8年治理下 垃圾山廚餘海",
           "author": "jinrui024",
           "url": "",
-          "time_text": "23小時",
+          "time_text": "1天",
           "signal": "red"
         },
         {
@@ -582,7 +582,7 @@
           "text": "淹大水時妳會在出現嗎？ 不會了吧！ 只管收割好政績。 廚餘 垃圾太空包 到底要真正處理好要多久，",
           "author": "jen0900462595",
           "url": "",
-          "time_text": "23小時",
+          "time_text": "1天",
           "signal": "red"
         },
         {
@@ -590,7 +590,7 @@
           "text": "要去看廚餘谷有無淹水，票才要投江爸爸",
           "author": "liginglin",
           "url": "",
-          "time_text": "22小時",
+          "time_text": "23小時",
           "signal": "yellow"
         },
         {
@@ -598,23 +598,23 @@
           "text": "廚餘咕嚕咕嚕",
           "author": "kaishenchang",
           "url": "",
-          "time_text": "17小時",
+          "time_text": "18小時",
           "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "廚餘湖妳有這麼認真視察嗎？ 垃圾山也沒看妳這麼認真視察？",
-          "author": "esc168999",
-          "url": "",
-          "time_text": "8小時",
-          "signal": "red"
         },
         {
           "platform": "threads",
           "text": "你們垃圾廚餘山什麼時候要處理？",
           "author": "genuinetaiwan",
           "url": "",
-          "time_text": "12小時",
+          "time_text": "13小時",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "廚餘湖妳有這麼認真視察嗎？ 垃圾山也沒看妳這麼認真視察？",
+          "author": "esc168999",
+          "url": "",
+          "time_text": "9小時",
           "signal": "red"
         },
         {
@@ -622,7 +622,7 @@
           "text": "怎麼不去看一下廚餘掩埋場",
           "author": "ggffff_12",
           "url": "",
-          "time_text": "22小時",
+          "time_text": "23小時",
           "signal": "yellow"
         },
         {
@@ -630,7 +630,7 @@
           "text": "[圖片] Photo by 柯順誌 on July 11, 2026. May be an image of fish and text that says '霧峰飛灰谷 霧峰飛灰谷　大里垃圾山 灰谷　大里垃圾山　霧峰廚餘谷 大里垃圾山 霧峰廚餘谷 大甲厨餘山 大肚廢土山 TIRE 本長 長红飲座 工放座 潭子床墊城 渾子床墊城龍井垃圾山 或龍井垃圾山東勢商餘丘 龍井垃圾山 東勢廚餘丘 ME0 北區垃圾山沙鹿垃圾山 沙鹿垃圾山早溪垃圾山 沙鹿垃圾山 北區垃圾山 早溪垃圾山'.",
           "author": "shunzhike",
           "url": "",
-          "time_text": "7小時",
+          "time_text": "8小時",
           "signal": "red"
         },
         {
@@ -638,7 +638,7 @@
           "text": "作秀完，垃圾廚餘床墊何時清理",
           "author": "qbchang",
           "url": "",
-          "time_text": "22小時",
+          "time_text": "23小時",
           "signal": "red"
         },
         {
@@ -646,7 +646,7 @@
           "text": "那些廚餘坑應該變成廚餘湖了吧！也許潰堤了也說不定！垃圾山流下來的垃水也要去關心一下吧！",
           "author": "wei_change_223",
           "url": "",
-          "time_text": "22小時",
+          "time_text": "23小時",
           "signal": "red"
         }
       ]
@@ -883,6 +883,174 @@
       "comments": []
     },
     {
+      "title": "新竹市地方動態",
+      "city": "新竹市",
+      "place": "新竹市政府",
+      "level": "yellow",
+      "news_count": 22,
+      "comment_count": 0,
+      "negativity_pct": 14,
+      "is_urgent": false,
+      "urgency_score": 31,
+      "news_articles": [
+        {
+          "title": "強化火場應變與救災安全 新竹市義消總隊年度訓練登場",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDa0x5LTh3ZGp6T3ZsNFpvU3JoMjJha0JRUTd1Z2VZblpJeGs2ZEhnMmVhOHhNbXV0blpJWEpDZTU5dXBvTXNPeHJ5UHhJNldwaWdPdndyZVVMaExvMG5YSmZqc3NHbFFI?oc=5",
+          "time": "2026-07-12 15:42:27",
+          "publisher": "Google News→元丰傳媒",
+          "severity": null
+        },
+        {
+          "title": "巴威颱風造成公園綠地災損 竹市府啟動災後復原作業",
+          "url": "https://tw.news.yahoo.com/%E5%B7%B4%E5%A8%81%E9%A2%B1%E9%A2%A8%E9%80%A0%E6%88%90%E5%85%AC%E5%9C%92%E7%B6%A0%E5%9C%B0%E7%81%BD%E6%90%8D-%E7%AB%B9%E5%B8%82%E5%BA%9C%E5%95%9F%E5%8B%95%E7%81%BD%E5%BE%8C%E5%BE%A9%E5%8E%9F%E4%BD%9C%E6%A5%AD-070639213.html",
+          "time": "2026-07-12 15:06:39",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "巴威颱風造成公園綠地災損 竹市府啟動災後復原作業",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JWElEdFhrMkNWa2JmVFBNRlJaaWFheVRkVFdILU1VZVJvLWpKX25hZ0lqZWZhVTQ2a2xhTXRUY1BTdHVGdlpKXzVSYlQ3N1ZUMVE?oc=5",
+          "time": "2026-07-12 15:06:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "建華高中改制核定函報中央備查 高虹安：竹市4年增32班、逾千高中名額",
+          "url": "https://news.ltn.com.tw/news/HsinchuCity/breakingnews/5502639",
+          "time": "2026-07-12 14:25:06",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "建華高中改制正式核定並函報中央備查　高虹安市長：竹市4年增32班、逾千高中名額",
+          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=e4490abd-306c-4cea-bbf8-9184b91ab3d4",
+          "time": "2026-07-12 14:18:46",
+          "publisher": "新竹市政府",
+          "severity": null
+        },
+        {
+          "title": "新竹市立高中＋1 建華國中7/1正式改制建華高中",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85SDlLLWRoQjJBVzFqNmFuUzFQcGUxdERFV29vcUtlS3NMN3BRRlhBWEFFVS1BMndLc3NuSnhfZkM3V1hmQmNJQW5mVV9LNzVzcmgxZXhyUTk0N0N4eGszV1hHTllLOVZy?oc=5",
+          "time": "2026-07-12 13:45:45",
+          "publisher": "Google News→元丰傳媒",
+          "severity": null
+        },
+        {
+          "title": "強化火場應變與救災安全！竹市義消總隊年度訓練登場　高虹安市長慰勉義消夥伴守護城市安全",
+          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=aad2a802-f007-4d24-a767-e7d96c2cac7e",
+          "time": "2026-07-12 13:06:04",
+          "publisher": "新竹市政府",
+          "severity": null
+        },
+        {
+          "title": "竹市關埔人口爆增公設卻跟不上 議員籲改建慈雲路停車場",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Fc2tyU3NRZEFsb0lNUkh2ejQ5NzV5WUJDR2Z1WjVHemR4TkVkUzh5bGhEMFVtUWxjWlBYZUFqaHNJQzdQSC1qREtGNzE5SVJkUkhnQ0dfTGFhbUpYclZ5Y2ZKYkF3ZHhGQjRZbnVn?oc=5",
+          "time": "2026-07-12 12:23:28",
+          "publisher": "中時新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "火場應變與救災安全強化 竹市義消總隊年度訓練登場",
+          "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPN2FJY1JPbjk4TlRqTmQ2emg0czJQamFPUFdvT08zY3hLOGV1bjIzN215MVJhamptaDJYRUswS3VIMVlOcDRuMWxmR2x2NDg3TFhnWkJRUE95Nk9JNTVXTUxSVTVBWkJ1enR3ZUl6cWNLS0EyZEs1NlItcDUyRFBuSnRZVEw4YXptaUNPc042RVhQWnRDM1lwYklReldOODJWQXNwWTJ1U2lkdDhWMVVLbGQtc3lwNy0wN3h6aGp6TFczaDk1T3ZlcE0tTXpIaU81b0pvZThGREc4RVNFaXplWHoyd3czUE93SHZWSjFtNzBWS0RMUWw0cUlOWEtuOUZrWFdacjVHdHEyLWlZRm1IRDNsWnFobENJOVNGRnFPOXlwQWJxelhIYjRBWjA1cm1iZnozODRXWVRaZzZpVk5INUhTMklqVlVYRzh4NnR6OFhXZXRKdjJJNHREaC1uaVVEVWM5OW5R?oc=5",
+          "time": "2026-07-12 12:03:19",
+          "publisher": "Google News→台灣好新聞",
+          "severity": null
+        },
+        {
+          "title": "打造安心生活環境 竹市辦理反賄選、防詐宣導",
+          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOeE0xWmREOVdUWVAycG5kZXUtcjNOV0xJMGtvdlFybWVGXzZ0elNWQlVSV2ZfR1U3bkN2NVBidllrNERGOXNVZl84dy1RaHpOeHJJYS15cFNUWkZLcklBQm9faHVyd3NteUJETW1wZDhQQ0RXMTg5V3NpbkhxcTQ0QTBGTjFRQ2FPR1FkbDQzZE1XUm90RFBiQnJQU2ZXNTY5NnFoTi1ZbzJMMGxJOGhveGNIZWxlZ0ZSbEUyOXVtRy1TalBvWm4xTWdyS0g4eUtOaC1CTGdaOFhqaHhkdk9SVFA4UTVQb2V1bENnemhoWjI3aVhiSDQ3ZXM1ajNkUDM3aWtxYlFaUWFSZDB6aDU3MUFTR1ZkSERjbGpJZ2dsbnVWS1l0NDZYOGdXNHhDNlI5ZUVwekwtanJrWEN2by0zOEFn?oc=5",
+          "time": "2026-07-12 10:42:42",
+          "publisher": "Google News→台灣好新聞",
+          "severity": null
+        },
+        {
+          "title": "竹市深化基層反賄選、防詐宣導 高虹安市長籲攜手守護公平選風",
+          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=18992384-aa68-4e5a-a3db-81ff3bd05899",
+          "time": "2026-07-12 10:38:10",
+          "publisher": "新竹市政府",
+          "severity": null
+        },
+        {
+          "title": "竹科旁關埔地區缺基礎公設議員促改建複合空間 竹市府：通盤研議",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZR3M3SUhzWXlteGxvdGJlZ3JnVzVmd1NnMm9RZUdobzhUWU1pMlF6LXowYlhMYUxIZjFicXdoLWdaX0EwcEJDX0kzS3RPNzFL0gFWQVVfeXFMUGFDQWNXVmNvbm5VV0xlODNoeVBxV0ZWUEhsWTR0cWhBanc4VjNQM0xNbW50MGpGTUItSmxQTUptWGRyMEMxQkwzSXpKckFEQ2ZzWDRSM2c?oc=5",
+          "time": "2026-07-12 08:19:11",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "台中噁男慘了！留言辱黃捷「昨天爽嗎」又扯高虹安 下場曝光",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%99%81%E7%94%B7%E6%85%98%E4%BA%86-%E7%95%99%E8%A8%80%E8%BE%B1%E9%BB%83%E6%8D%B7-%E6%98%A8%E5%A4%A9%E7%88%BD%E5%97%8E-%E5%8F%88%E6%89%AF%E9%AB%98%E8%99%B9%E5%AE%89-%E4%B8%8B%E5%A0%B4%E6%9B%9D%E5%85%89-074806196.html",
+          "time": "2026-07-12 07:48:06",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "竹市臨時擴編防颱人員 一小時到班基層警怨",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfM3dkSG4xUmdVRnhSOUhLdkh2VTgxQnM0OHc2OEUzTmJHa19lLURpaTBLTVFNcDBFSE1jeG5HNFZRenVpcFQxUXFpWGhsWnY3dGJRVWFBQ1AtNXfSAWBBVV95cUxOUEV6OFA3QnV5NkF5ZnVwcGlib01KNC1MUzVYUWJSV2VpT3piTk1BclR1ZDNiUHJyNndxSmpuUDJBOXlzaTdjWVQ0ZG5uU1RtQ1ZISkVkazZhdG5fWkFBclU?oc=5",
+          "time": "2026-07-12 05:30:00",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "全台颱風假／北北基、新竹市明天正常上班上課 桃園「這1區」停班停課 | 上報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BWmZKa0tsdnJxRFlXRi1ick0wVHVRR01kMTFNVVFGeTh0VUZTVXNRaE4wWXlkeDJEdXdWcjFtakg1V1p5ZzliLXpEeDFwbll0MWswQnZB?oc=5",
+          "time": "2026-07-11 21:32:16",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "頭前溪水位降至三級警戒 竹市府晚間取消舊港里預防性撤離",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HdVNiVkU4SGZobFl5MXJXeEQxdnBKRlktWGZBVmg0WVF4TFhLaUF0ZVZYc0M4TDllTzRvMlBEbklieWxvcmtveWNOeFNoTHlSWl84Z2JSaUk1UzVJc3Faa3ozX3XSAWpBVV95cUxQSXp4TGdERDdoWTMzSmF6YUVBSU5KNzZHMmJ6dFp0RDNldExIc2NMN0dMY1kyaWpYTXN0MGFjUnVhSm1TYjBDU1NQR0xuQkR0bzdibG1HUXF6c0FGTDZBWHBYdkNLTVRVeW5R?oc=5",
+          "time": "2026-07-11 21:07:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "竹市無障礙微旅行 免費報名",
+          "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%B8%82%E7%84%A1%E9%9A%9C%E7%A4%99%E5%BE%AE%E6%97%85%E8%A1%8C-%E5%85%8D%E8%B2%BB%E5%A0%B1%E5%90%8D-121135874.html",
+          "time": "2026-07-11 20:11:35",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "新竹市明正常上班上課 新竹縣僅「五峰、尖石鄉停班停課」",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpaUotbW1kVVJSMldTZEd2WnNuQ1pjZmJIbTFqczMxUHIzWXVCTmF1NFcwQ1k0WlVJU1htMjJtQVFsTTVPcFMtRkpTYmduZnJ6VzdJ?oc=5",
+          "time": "2026-07-11 20:05:33",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "頭前溪水位破三級警戒 竹市府晚間啟動舊港里逐戶勸導預防性撤離",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5502122",
+          "time": "2026-07-11 20:04:38",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "巴威颱風降雨猛烈！竹市頭前溪水位暴漲 高虹安赴舊港里指揮預防性撤離",
+          "url": "https://news.nextapple.com/politics/20260711/A71ABE2CF6C85F983023A10FDCDBB04C",
+          "time": "2026-07-11 19:08:22",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "新竹市樹倒壓民宅、頭前溪暴漲淹水 高虹安涉水勘災說話了！",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOdEkxaTNQd1hZcWo4Ykg3OXEwWGw2UzdPdmd0Sjh6a3ZBNXZPODJWLUNWS2p1U19Mc3B4eV93cG1rTWFQTjdMZHNONGtqNlFTVE5ZZXBvRDJtaERWelpDWElrYXpDbHlhRzJuWlBpS1ZMcVk5Yk4xWGhJNlZ4blVkV1huNVF3R0JBOVcwdzJ5Q3h3eGtocGZORzk5LVk5aDA3dkQ5Tzcxd3lMUWl6M3EzTllPZXpNdVZpZHJDWHNBSVdnRXh1aFI5RU5tNHk3RzZQREY4dEQ4MVE5VkJFazZucWlkMWNXQUpPRTFHd3ZGUEtTSXdzQmlLWTBZUTlhWGMtWjduX0hkSlI5MjVDdTA5RDliSF93bEgwOFp1OUJCaDBPX1BhVEp5Y2w1bl9Sdm1zcDB1LW1nN3h6WGtmWXVNUDFsNXF2elNJOGZNT1J2ek9DNXZLR1JKVEhpME1tOExEaklVcGM0UkF4bWlTMmNLYmtmaHpUYWhhRV85SHQxdWIxQQ?oc=5",
+          "time": "2026-07-11 18:33:31",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "成功攔阻近640萬 竹市地政神隊友戳破地面師詐騙",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRWlRua0RzZ21vV25wSm9MQUVHVmZwRzV1WjhOTkowUXRpRU5VWlJYeXlaSEhtQk5vQ0lOcWM0MG0tYmJ2MVVQMERGQkdyQ0kxU3c?oc=5",
+          "time": "2026-07-11 18:31:22",
+          "publisher": "Google News→中華新聞雲／中華日報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "海線立委戰局",
       "city": "台中",
       "place": "台中市沙鹿區",
@@ -1051,15 +1219,7 @@
           "text": "要不要查一下沙鹿區今天的時雨量多少，很會作秀啊。上次淹水怎沒看妳到海線來作秀。",
           "author": "lishidong1127",
           "url": "",
-          "time_text": "23小時",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "要不要看看海線 常常停電 的問題",
-          "author": "aaa820414tw",
-          "url": "",
-          "time_text": "20小時",
+          "time_text": "1天",
           "signal": "yellow"
         },
         {
@@ -1067,7 +1227,15 @@
           "text": "總算記起來台中有海線了",
           "author": "kai_xsiang",
           "url": "",
-          "time_text": "15小時",
+          "time_text": "16小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "要不要看看海線 常常停電 的問題",
+          "author": "aaa820414tw",
+          "url": "",
+          "time_text": "21小時",
           "signal": "yellow"
         },
         {
@@ -1075,196 +1243,21 @@
           "text": "海線風雨又不大，不要演了啦",
           "author": "luka1129",
           "url": "",
-          "time_text": "20小時",
+          "time_text": "21小時",
           "signal": "yellow"
         }
       ]
-    },
-    {
-      "title": "新竹市地方動態",
-      "city": "新竹市",
-      "place": "新竹市政府",
-      "level": "yellow",
-      "news_count": 23,
-      "comment_count": 0,
-      "negativity_pct": 13,
-      "is_urgent": false,
-      "urgency_score": 32,
-      "news_articles": [
-        {
-          "title": "強化火場應變與救災安全 新竹市義消總隊年度訓練登場",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDa0x5LTh3ZGp6T3ZsNFpvU3JoMjJha0JRUTd1Z2VZblpJeGs2ZEhnMmVhOHhNbXV0blpJWEpDZTU5dXBvTXNPeHJ5UHhJNldwaWdPdndyZVVMaExvMG5YSmZqc3NHbFFI?oc=5",
-          "time": "2026-07-12 15:42:27",
-          "publisher": "Google News→元丰傳媒",
-          "severity": null
-        },
-        {
-          "title": "巴威颱風造成公園綠地災損 竹市府啟動災後復原作業",
-          "url": "https://tw.news.yahoo.com/%E5%B7%B4%E5%A8%81%E9%A2%B1%E9%A2%A8%E9%80%A0%E6%88%90%E5%85%AC%E5%9C%92%E7%B6%A0%E5%9C%B0%E7%81%BD%E6%90%8D-%E7%AB%B9%E5%B8%82%E5%BA%9C%E5%95%9F%E5%8B%95%E7%81%BD%E5%BE%8C%E5%BE%A9%E5%8E%9F%E4%BD%9C%E6%A5%AD-070639213.html",
-          "time": "2026-07-12 15:06:39",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "巴威颱風造成公園綠地災損 竹市府啟動災後復原作業",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JWElEdFhrMkNWa2JmVFBNRlJaaWFheVRkVFdILU1VZVJvLWpKX25hZ0lqZWZhVTQ2a2xhTXRUY1BTdHVGdlpKXzVSYlQ3N1ZUMVE?oc=5",
-          "time": "2026-07-12 15:06:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "建華高中改制核定函報中央備查 高虹安：竹市4年增32班、逾千高中名額",
-          "url": "https://news.ltn.com.tw/news/HsinchuCity/breakingnews/5502639",
-          "time": "2026-07-12 14:25:06",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "建華高中改制正式核定並函報中央備查　高虹安市長：竹市4年增32班、逾千高中名額",
-          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=e4490abd-306c-4cea-bbf8-9184b91ab3d4",
-          "time": "2026-07-12 14:18:46",
-          "publisher": "新竹市政府",
-          "severity": null
-        },
-        {
-          "title": "新竹市立高中＋1 建華國中7/1正式改制建華高中",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85SDlLLWRoQjJBVzFqNmFuUzFQcGUxdERFV29vcUtlS3NMN3BRRlhBWEFFVS1BMndLc3NuSnhfZkM3V1hmQmNJQW5mVV9LNzVzcmgxZXhyUTk0N0N4eGszV1hHTllLOVZy?oc=5",
-          "time": "2026-07-12 13:45:45",
-          "publisher": "Google News→元丰傳媒",
-          "severity": null
-        },
-        {
-          "title": "強化火場應變與救災安全！竹市義消總隊年度訓練登場　高虹安市長慰勉義消夥伴守護城市安全",
-          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=aad2a802-f007-4d24-a767-e7d96c2cac7e",
-          "time": "2026-07-12 13:06:04",
-          "publisher": "新竹市政府",
-          "severity": null
-        },
-        {
-          "title": "竹市關埔人口爆增公設卻跟不上 議員籲改建慈雲路停車場",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Fc2tyU3NRZEFsb0lNUkh2ejQ5NzV5WUJDR2Z1WjVHemR4TkVkUzh5bGhEMFVtUWxjWlBYZUFqaHNJQzdQSC1qREtGNzE5SVJkUkhnQ0dfTGFhbUpYclZ5Y2ZKYkF3ZHhGQjRZbnVn?oc=5",
-          "time": "2026-07-12 12:23:28",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "火場應變與救災安全強化 竹市義消總隊年度訓練登場",
-          "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPN2FJY1JPbjk4TlRqTmQ2emg0czJQamFPUFdvT08zY3hLOGV1bjIzN215MVJhamptaDJYRUswS3VIMVlOcDRuMWxmR2x2NDg3TFhnWkJRUE95Nk9JNTVXTUxSVTVBWkJ1enR3ZUl6cWNLS0EyZEs1NlItcDUyRFBuSnRZVEw4YXptaUNPc042RVhQWnRDM1lwYklReldOODJWQXNwWTJ1U2lkdDhWMVVLbGQtc3lwNy0wN3h6aGp6TFczaDk1T3ZlcE0tTXpIaU81b0pvZThGREc4RVNFaXplWHoyd3czUE93SHZWSjFtNzBWS0RMUWw0cUlOWEtuOUZrWFdacjVHdHEyLWlZRm1IRDNsWnFobENJOVNGRnFPOXlwQWJxelhIYjRBWjA1cm1iZnozODRXWVRaZzZpVk5INUhTMklqVlVYRzh4NnR6OFhXZXRKdjJJNHREaC1uaVVEVWM5OW5R?oc=5",
-          "time": "2026-07-12 12:03:19",
-          "publisher": "Google News→台灣好新聞",
-          "severity": null
-        },
-        {
-          "title": "打造安心生活環境 竹市辦理反賄選、防詐宣導",
-          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOeE0xWmREOVdUWVAycG5kZXUtcjNOV0xJMGtvdlFybWVGXzZ0elNWQlVSV2ZfR1U3bkN2NVBidllrNERGOXNVZl84dy1RaHpOeHJJYS15cFNUWkZLcklBQm9faHVyd3NteUJETW1wZDhQQ0RXMTg5V3NpbkhxcTQ0QTBGTjFRQ2FPR1FkbDQzZE1XUm90RFBiQnJQU2ZXNTY5NnFoTi1ZbzJMMGxJOGhveGNIZWxlZ0ZSbEUyOXVtRy1TalBvWm4xTWdyS0g4eUtOaC1CTGdaOFhqaHhkdk9SVFA4UTVQb2V1bENnemhoWjI3aVhiSDQ3ZXM1ajNkUDM3aWtxYlFaUWFSZDB6aDU3MUFTR1ZkSERjbGpJZ2dsbnVWS1l0NDZYOGdXNHhDNlI5ZUVwekwtanJrWEN2by0zOEFn?oc=5",
-          "time": "2026-07-12 10:42:42",
-          "publisher": "Google News→台灣好新聞",
-          "severity": null
-        },
-        {
-          "title": "竹市深化基層反賄選、防詐宣導 高虹安市長籲攜手守護公平選風",
-          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=18992384-aa68-4e5a-a3db-81ff3bd05899",
-          "time": "2026-07-12 10:38:10",
-          "publisher": "新竹市政府",
-          "severity": null
-        },
-        {
-          "title": "竹科旁關埔地區缺基礎公設議員促改建複合空間 竹市府：通盤研議",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZR3M3SUhzWXlteGxvdGJlZ3JnVzVmd1NnMm9RZUdobzhUWU1pMlF6LXowYlhMYUxIZjFicXdoLWdaX0EwcEJDX0kzS3RPNzFL0gFWQVVfeXFMUGFDQWNXVmNvbm5VV0xlODNoeVBxV0ZWUEhsWTR0cWhBanc4VjNQM0xNbW50MGpGTUItSmxQTUptWGRyMEMxQkwzSXpKckFEQ2ZzWDRSM2c?oc=5",
-          "time": "2026-07-12 08:19:11",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "台中噁男慘了！留言辱黃捷「昨天爽嗎」又扯高虹安 下場曝光",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%99%81%E7%94%B7%E6%85%98%E4%BA%86-%E7%95%99%E8%A8%80%E8%BE%B1%E9%BB%83%E6%8D%B7-%E6%98%A8%E5%A4%A9%E7%88%BD%E5%97%8E-%E5%8F%88%E6%89%AF%E9%AB%98%E8%99%B9%E5%AE%89-%E4%B8%8B%E5%A0%B4%E6%9B%9D%E5%85%89-074806196.html",
-          "time": "2026-07-12 07:48:06",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "竹市臨時擴編防颱人員 一小時到班基層警怨",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfM3dkSG4xUmdVRnhSOUhLdkh2VTgxQnM0OHc2OEUzTmJHa19lLURpaTBLTVFNcDBFSE1jeG5HNFZRenVpcFQxUXFpWGhsWnY3dGJRVWFBQ1AtNXfSAWBBVV95cUxOUEV6OFA3QnV5NkF5ZnVwcGlib01KNC1MUzVYUWJSV2VpT3piTk1BclR1ZDNiUHJyNndxSmpuUDJBOXlzaTdjWVQ0ZG5uU1RtQ1ZISkVkazZhdG5fWkFBclU?oc=5",
-          "time": "2026-07-12 05:30:00",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "全台颱風假／北北基、新竹市明天正常上班上課 桃園「這1區」停班停課 | 上報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BWmZKa0tsdnJxRFlXRi1ick0wVHVRR01kMTFNVVFGeTh0VUZTVXNRaE4wWXlkeDJEdXdWcjFtakg1V1p5ZzliLXpEeDFwbll0MWswQnZB?oc=5",
-          "time": "2026-07-11 21:32:16",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "頭前溪水位降至三級警戒 竹市府晚間取消舊港里預防性撤離",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HdVNiVkU4SGZobFl5MXJXeEQxdnBKRlktWGZBVmg0WVF4TFhLaUF0ZVZYc0M4TDllTzRvMlBEbklieWxvcmtveWNOeFNoTHlSWl84Z2JSaUk1UzVJc3Faa3ozX3XSAWpBVV95cUxQSXp4TGdERDdoWTMzSmF6YUVBSU5KNzZHMmJ6dFp0RDNldExIc2NMN0dMY1kyaWpYTXN0MGFjUnVhSm1TYjBDU1NQR0xuQkR0bzdibG1HUXF6c0FGTDZBWHBYdkNLTVRVeW5R?oc=5",
-          "time": "2026-07-11 21:07:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "竹市無障礙微旅行 免費報名",
-          "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%B8%82%E7%84%A1%E9%9A%9C%E7%A4%99%E5%BE%AE%E6%97%85%E8%A1%8C-%E5%85%8D%E8%B2%BB%E5%A0%B1%E5%90%8D-121135874.html",
-          "time": "2026-07-11 20:11:35",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "新竹市明正常上班上課 新竹縣僅「五峰、尖石鄉停班停課」",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpaUotbW1kVVJSMldTZEd2WnNuQ1pjZmJIbTFqczMxUHIzWXVCTmF1NFcwQ1k0WlVJU1htMjJtQVFsTTVPcFMtRkpTYmduZnJ6VzdJ?oc=5",
-          "time": "2026-07-11 20:05:33",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "頭前溪水位破三級警戒 竹市府晚間啟動舊港里逐戶勸導預防性撤離",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5502122",
-          "time": "2026-07-11 20:04:38",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "巴威颱風降雨猛烈！竹市頭前溪水位暴漲 高虹安赴舊港里指揮預防性撤離",
-          "url": "https://news.nextapple.com/politics/20260711/A71ABE2CF6C85F983023A10FDCDBB04C",
-          "time": "2026-07-11 19:08:22",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "新竹市樹倒壓民宅、頭前溪暴漲淹水 高虹安涉水勘災說話了！",
-          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOdEkxaTNQd1hZcWo4Ykg3OXEwWGw2UzdPdmd0Sjh6a3ZBNXZPODJWLUNWS2p1U19Mc3B4eV93cG1rTWFQTjdMZHNONGtqNlFTVE5ZZXBvRDJtaERWelpDWElrYXpDbHlhRzJuWlBpS1ZMcVk5Yk4xWGhJNlZ4blVkV1huNVF3R0JBOVcwdzJ5Q3h3eGtocGZORzk5LVk5aDA3dkQ5Tzcxd3lMUWl6M3EzTllPZXpNdVZpZHJDWHNBSVdnRXh1aFI5RU5tNHk3RzZQREY4dEQ4MVE5VkJFazZucWlkMWNXQUpPRTFHd3ZGUEtTSXdzQmlLWTBZUTlhWGMtWjduX0hkSlI5MjVDdTA5RDliSF93bEgwOFp1OUJCaDBPX1BhVEp5Y2w1bl9Sdm1zcDB1LW1nN3h6WGtmWXVNUDFsNXF2elNJOGZNT1J2ek9DNXZLR1JKVEhpME1tOExEaklVcGM0UkF4bWlTMmNLYmtmaHpUYWhhRV85SHQxdWIxQQ?oc=5",
-          "time": "2026-07-11 18:33:31",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "成功攔阻近640萬 竹市地政神隊友戳破地面師詐騙",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRWlRua0RzZ21vV25wSm9MQUVHVmZwRzV1WjhOTkowUXRpRU5VWlJYeXlaSEhtQk5vQ0lOcWM0MG0tYmJ2MVVQMERGQkdyQ0kxU3c?oc=5",
-          "time": "2026-07-11 18:31:22",
-          "publisher": "Google News→中華新聞雲／中華日報",
-          "severity": "yellow"
-        },
-        {
-          "title": "巴威颱風強襲 高虹安急赴多處勘災：全力守護新竹市",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YUE5SdFJXZnlBdElrTWNUTFB5eDFiMGtZNW5SXzJ3QnNTa2JMcmRGZTFRdzM1Wk85T2N6ZlBTUklvX2RLd0xWQ9IBTEFVX3lxTFAtZV9SX1FiVnhfbWRQNGdvVk1oSXlLY1lpbV9wT1dzeElIa0U1T3RoV0VxOXB1ZDRPc0NNSDZWZG1pa3MtWWlGbnRBSVc?oc=5",
-          "time": "2026-07-11 18:23:00",
-          "publisher": "三立新聞網",
-          "severity": null
-        }
-      ],
-      "comments": []
     },
     {
       "title": "連江地方動態",
       "city": "連江",
       "place": "連江縣（馬祖）",
       "level": "yellow",
-      "news_count": 38,
+      "news_count": 35,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 41,
+      "urgency_score": 38,
       "news_articles": [
         {
           "title": "離島航班恢復疏運！加開、放大機型14班 馬祖擬請軍機支援",
@@ -1509,27 +1502,6 @@
           "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPeFpLei1DdzZmbG5wU2praFFpVVNOOEJtTGM2eElDdXlMYTBkd2FkY1YtWWpTWFY5ZngwQjRwVDAzUF85aFJ2UHhIQzNBTmhOVDZMUmFTZjhnVjJ2bVR3WnBIZE1CLU1teFluU2tKTThHV2ZWbUZsWDI4Zzcyb01GUS0zVTRqYlhubi1rYmNtb2huazlkcUhQaF85d0NCYUpVM0RSV21NTzVnQ1RlQlBENFRqN3dQQmRET3o0OVZ5Tk96SlFabnFvTHhBNUJsbUY3dEVmTVNWMkRTNEFiVTJxY2duMTVCNnhzczQxS1A4NWY3S2YzWXRPMl92VHZ3YkpFcWdqbUczeHBHSnFRWE1CMlVac2tVelo2SDNNUjlSRTJ3ajdFX3N1TnFVeGtGdTVRTlYwWTZqWjEweWszN0tYRnB1ZjJKUQ?oc=5",
           "time": "2026-07-11 18:29:10",
           "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "颱風巴威影響馬祖2樹倒 12日海空交通停航",
-          "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E5%B7%B4%E5%A8%81%E5%BD%B1%E9%9F%BF%E9%A6%AC%E7%A5%962%E6%A8%B9%E5%80%92-12%E6%97%A5%E6%B5%B7%E7%A9%BA%E4%BA%A4%E9%80%9A%E5%81%9C%E8%88%AA-102531170.html",
-          "time": "2026-07-11 18:25:31",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "颱風巴威影響馬祖2樹倒12日海空交通停航- 地方",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfTkdUU21NV08ySDU1UUt2T2pjdTNDdG0wRkdrbjc3MDlRY2d5SldXMmwxekdEcjhQOGo5TDBrcmxsT2ZXek5vNkM5Q1lkNW9SaDh6NVFqRExITllJWWd4dVdBSkZTS1ZZanRTVm9n?oc=5",
-          "time": "2026-07-11 18:25:31",
-          "publisher": "Google News→華視新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "颱風巴威影響馬祖2樹倒12日海空交通停航| 地方",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Rd3dENTNhcGdpQkRmTl9mdGRnbGludlRuNnk3SWJpXzJ0YVR6dzZXVURJYmxmZWJUeWJWZGVjUEc2djFQcGdyYUdLVU5uR2RKbkNoTnNMaG90OExzbDNj?oc=5",
-          "time": "2026-07-11 18:25:00",
-          "publisher": "中央社",
           "severity": "yellow"
         }
       ],
@@ -1820,7 +1792,7 @@
           "text": "台中作秀燕",
           "author": "ninichuang0810",
           "url": "",
-          "time_text": "23小時",
+          "time_text": "1天",
           "signal": "yellow"
         },
         {
@@ -1828,7 +1800,7 @@
           "text": "[圖片] Photo by illllllin on July 11, 2026. May be an image of text that says '台中盧秀燕 8年任内沒半條捷運 卻常發生重大食安事化 大食安事件'.",
           "author": "pollayear2024",
           "url": "",
-          "time_text": "20小時",
+          "time_text": "22小時",
           "signal": "yellow"
         },
         {
@@ -1836,7 +1808,7 @@
           "text": "[圖片] Photo by illllllin on July 11, 2026. May be an image of ‎text that says '‎и क 陳市 黃長 其 台中毒油風暴台南與高雄 格 油風暴 台南與高雄 遊 已經擴大追查到第三層業者 A ឆ្ន + 安 #EHИR CEFES 業 蔣寶跟盧秀燕還在中央中央 صلا tes 請鎖定 MR. 柯學先生 說定MR.柯學先生随時為您掌握最新資訊！ 隨時爲您掌握最新資訊！ 隨時為‎'‎.",
           "author": "pollayear2024",
           "url": "",
-          "time_text": "21小時",
+          "time_text": "22小時",
           "signal": "yellow"
         },
         {
@@ -1844,7 +1816,7 @@
           "text": "[圖片] Photo by illllllin on July 11, 2026. May be an image of text that says '台中盧秀燕 8年任内沒半條捷運 人家台南捷運發包了 國民黨執政能力真差'.",
           "author": "pollayear2024",
           "url": "",
-          "time_text": "20小時",
+          "time_text": "21小時",
           "signal": "yellow"
         },
         {
@@ -1852,7 +1824,7 @@
           "text": "[圖片] Photo by illllllin on July 11, 2026. May be an image of pie and text that says '食安幾乎發生在國民黨執 政縣市， 縣市，尤其台中： 非洲豬瘟 非洲豬瘟、台糖豬、 福、台糖豬、中聯.. 中聯.. 台糖豬、 但， ，盧秀燕都推給中央。 投票給國民黨看清楚！'.",
           "author": "pollayear2024",
           "url": "",
-          "time_text": "20小時",
+          "time_text": "21小時",
           "signal": "yellow"
         },
         {
@@ -1860,7 +1832,7 @@
           "text": "[圖片] Photo by 台北台派仲介林志剛 on July 11, 2026. May be an image of pie and text that says '又是台中！！ 「毒油案」 案」盧秀燕甩鍋遭打臉 油廠就在「台中市」 還在裝睡 「中央處理器」 果然名不虛傳 依據 「食安法」 依據「食安法」規定： 規定： 食品業者發現產品有危害衛生安全之處時， 應即主動停止製造、 應即主動停止製造、加工、顺賣及能理回收， 加工、 販賣及辦理回收， 並通報直轄市、 縣（市） ",
           "author": "teamtaiwanakang",
           "url": "",
-          "time_text": "23小時",
+          "time_text": "1天",
           "signal": "red"
         },
         {
@@ -1868,31 +1840,23 @@
           "text": "[圖片] Photo by illllllin on July 11, 2026. May be an image of text that says '盧秀燕爸爸是共產黨 員？ 她可以動怒：被辣 被辣椒水 噴到的親中柯文哲案 卻無動於衷：被境外中 被境外中 卻無動於衷 籍人士毆打的親台矢板 明夫案 可怕的國民黨市長！'.",
           "author": "pollayear2024",
           "url": "",
-          "time_text": "20小時",
+          "time_text": "21小時",
           "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "做秀燕",
-          "author": "nate_0423",
-          "url": "",
-          "time_text": "5小時",
-          "signal": "yellow"
         },
         {
           "platform": "threads",
           "text": "[圖片] Photo by illllllin on July 11, 2026. May be an image of pie and text that says '又是台中！！ 毒油案盧秀燕甩鍋遭打臉 「毒油案」 虛委燕甩鍋造打膜 油廠就在「台中市」 「台中市」 油廠就在 還在裝睡 「中央處理器」 果然名不虛傳 依據食安法」規定： 依據 「食安法」 規定： 食品業者發現產品有危害術生安全之威時， 應即主動停止製造、 加工、 販寶及辦理回收， 並通報直轄市、 票（市） 並",
           "author": "pollayear2024",
           "url": "",
-          "time_text": "21小時",
+          "time_text": "22小時",
           "signal": "yellow"
         },
         {
           "platform": "threads",
-          "text": "作秀燕",
-          "author": "cg__fu",
+          "text": "做秀燕",
+          "author": "nate_0423",
           "url": "",
-          "time_text": "5小時",
+          "time_text": "6小時",
           "signal": "yellow"
         },
         {
@@ -1900,7 +1864,7 @@
           "text": "[圖片] Photo by illllllin on July 11, 2026. May be an image of text that says '台中經過幾次重大食安事件， 盧 秀燕用政黨惡鬥方式都推給民進 黨中央， 黨中央，她一點責 她一點責任都沒有。 雖然如此， 雖然如此，相信我，台 相信我， ，相信我，台 ，台中還會有 60%的笨蛋，繼續投票給 60% 0%的笨蛋， ，繼續投票給國民 黨市長候選人。'.",
           "author": "pollayear2024",
           "url": "",
-          "time_text": "20小時",
+          "time_text": "22小時",
           "signal": "red"
         },
         {
@@ -1908,7 +1872,15 @@
           "text": "盧秀燕根本就是愛作秀！！👎👎👎👎",
           "author": "tw_tenplayer",
           "url": "",
-          "time_text": "21小時",
+          "time_text": "22小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "作秀燕",
+          "author": "cg__fu",
+          "url": "",
+          "time_text": "6小時",
           "signal": "yellow"
         },
         {
@@ -1916,7 +1888,7 @@
           "text": "作秀燕",
           "author": "zgyuw",
           "url": "",
-          "time_text": "20小時",
+          "time_text": "21小時",
           "signal": "yellow"
         },
         {
@@ -1924,7 +1896,7 @@
           "text": "作秀燕",
           "author": "hengheng_0114",
           "url": "",
-          "time_text": "17小時",
+          "time_text": "19小時",
           "signal": "yellow"
         },
         {
@@ -1932,7 +1904,7 @@
           "text": "秀燕擺拍新影片上架了！",
           "author": "masterasa113",
           "url": "",
-          "time_text": "20小時",
+          "time_text": "21小時",
           "signal": "yellow"
         },
         {
@@ -1940,7 +1912,7 @@
           "text": "假鬼假怪作秀燕",
           "author": "chnyu._12",
           "url": "",
-          "time_text": "3小時",
+          "time_text": "4小時",
           "signal": "yellow"
         },
         {
@@ -1948,7 +1920,7 @@
           "text": "作秀燕出沒嚕～～～～～ 平常不好好做 天災當下才在做🥰",
           "author": "wenjie0119",
           "url": "",
-          "time_text": "21小時",
+          "time_text": "22小時",
           "signal": "yellow"
         }
       ]
@@ -1958,11 +1930,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "yellow",
-      "news_count": 56,
+      "news_count": 54,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 59,
+      "urgency_score": 57,
       "news_articles": [
         {
           "title": "宜蘭土鳳梨2-2》二湖獨門工法「斷尾」求甜 加工轉型創生機",
@@ -2341,20 +2313,6 @@
           "time": "2026-07-11 18:57:20",
           "publisher": "Google News→LINE TODAY",
           "severity": null
-        },
-        {
-          "title": "颱風夜車窗沒關 宜蘭暖心男為賓士車貼車窗擋風雨",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uQTNNQnNUdEd2Yi1KQkh1N245bzBxT284WGQ0dGtWWERYeXhaOFJNZFJ1UjdxVGljeXd5aGlxRlFxQ1RSNU02aUx4RWhkOGg2bVE?oc=5",
-          "time": "2026-07-11 18:25:20",
-          "publisher": "Google News→中華新聞雲／中華日報",
-          "severity": null
-        },
-        {
-          "title": "巴威颱風為基隆河上游帶來豪雨 員山子分洪道水位直逼警戒線",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5502037",
-          "time": "2026-07-11 18:19:25",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -2364,11 +2322,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "yellow",
-      "news_count": 64,
+      "news_count": 63,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 73,
+      "urgency_score": 72,
       "news_articles": [
         {
           "title": "新北​毒駕妻載夫回家失控撞臨停車　車主買水幸運「躲過一劫」",
@@ -2810,13 +2768,6 @@
           "time": "2026-07-11 20:02:17",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "巴威狂掃基隆新北逾1.6萬戶停電 台電日夜搶修剩1133戶待復電",
-          "url": "https://more-news.tw/664227/",
-          "time": "2026-07-11 18:18:54",
-          "publisher": "墨新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -2826,11 +2777,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "yellow",
-      "news_count": 68,
+      "news_count": 64,
       "comment_count": 0,
-      "negativity_pct": 10,
+      "negativity_pct": 11,
       "is_urgent": false,
-      "urgency_score": 89,
+      "urgency_score": 85,
       "news_articles": [
         {
           "title": "屏東潮州尚青市場新制惹怨！攤商貨車禁停 違規1天收5百",
@@ -3279,34 +3230,6 @@
           "time": "2026-07-11 18:34:55",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "巴威遠離！屏東7／12正常上班課 高雄5區續放颱風假",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tb3phLXdpZm43OVJzTWhGZWxUU1c1eWtSMkZ2alQ2ZWEzOEQ4Q2UwOWZqdnd3cFdXdklUeHA3OF8wR1lmaVFRZTZBNlNBVmdhVUpEXy1jMnJ4Z2ZWeVd3ZkdkTktLUlhtZjNJX25B?oc=5",
-          "time": "2026-07-11 18:24:56",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "巴威遠離！屏東7／12正常上班課高雄5區續放颱風假- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MeXd2ZS13eS15MldGeWtzYWdzNHk0WGx4aGlrZnAydE9nYVpjRVY4cGotUHRRSUxycU5iTG83c2lIa291RTNFRHlqYXp5dzVHNDNYdm9ZSmZyM0FIODlr?oc=5",
-          "time": "2026-07-11 18:24:00",
-          "publisher": "Google News→工商時報",
-          "severity": null
-        },
-        {
-          "title": "屏東縣7/12正常上班上課",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5502045",
-          "time": "2026-07-11 18:18:59",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "屏東縣7/12正常上班上課",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyODJIeERGQzhaaDdUc1VsQl9QNGs3RGt4NG82aW5rZ0NqNVNaNFh4ZHRlT19JRE9WOEJfc2xnWGlsLU1jMTJTdFhhUUFaWVd2eWdlUmVYZldaU0dDQm84ZWdwVGjSAWpBVV95cUxORU5FYTFqa01nbzc5ZXpkb3U5SWJybXVkTkJPOXNKX19DS05IS1JIWWhKQnFqRWNUWkcwWkRKazNiTUo0eDlzOHhfU05keldCUUV0Y3V1Rnl2aHFvOURsbDZycjZ0czZvcktn?oc=5",
-          "time": "2026-07-11 18:18:59",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []
@@ -3463,11 +3386,11 @@
       "city": "台東",
       "place": "台東縣政府",
       "level": "red",
-      "news_count": 23,
+      "news_count": 21,
       "comment_count": 0,
-      "negativity_pct": 9,
+      "negativity_pct": 10,
       "is_urgent": false,
-      "urgency_score": 29,
+      "urgency_score": 27,
       "news_articles": [
         {
           "title": "尬電師父爭議又起玄濟宮遭報違建 台東縣府限期7/22日前補件",
@@ -3615,20 +3538,6 @@
           "time": "2026-07-11 18:27:00",
           "publisher": "三立新聞網",
           "severity": null
-        },
-        {
-          "title": "不斷更新／台東風雨未達標準 宣布正常上班上課",
-          "url": "https://tw.news.yahoo.com/%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-%E9%A2%A8%E9%9B%A8%E9%A0%90%E6%B8%AC%E6%9C%AA%E9%81%94%E6%A8%99-%E5%8F%B0%E5%8D%97%E6%98%8E%E5%A4%A9%E6%AD%A3%E5%B8%B8%E4%B8%8A%E7%8F%AD%E4%B8%8A%E8%AA%B2-093700174.html",
-          "time": "2026-07-11 18:24:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "不斷更新／台東明正常上班課 7/12颱風假一覽",
-          "url": "https://tw.news.yahoo.com/%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-%E6%9C%AA%E9%81%94%E5%81%9C%E7%8F%AD%E8%AA%B2%E6%A8%99%E6%BA%96-%E5%8F%B0%E5%8D%97%E6%98%8E%E6%AD%A3%E5%B8%B8%E4%B8%8A%E7%8F%AD%E8%AA%B2-7-12%E9%A2%B1%E9%A2%A8%E5%81%87-095028107.html",
-          "time": "2026-07-11 18:23:58",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -3638,11 +3547,11 @@
       "city": "基隆",
       "place": "基隆市政府",
       "level": "red",
-      "news_count": 30,
+      "news_count": 28,
       "comment_count": 0,
       "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 36,
+      "urgency_score": 34,
       "news_articles": [
         {
           "title": "基隆土石滑落撞擊民宅（2） (圖)",
@@ -3839,20 +3748,6 @@
           "time": "2026-07-11 18:40:00",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "巴威颱風為基隆河上游帶來豪雨 員山子分洪道水位直逼警戒線",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5502037",
-          "time": "2026-07-11 18:19:25",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "巴威狂掃基隆新北逾1.6萬戶停電 台電日夜搶修剩1133戶待復電",
-          "url": "https://more-news.tw/664227/",
-          "time": "2026-07-11 18:18:54",
-          "publisher": "墨新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -3862,11 +3757,11 @@
       "city": "彰化",
       "place": "彰化縣政府",
       "level": "red",
-      "news_count": 30,
+      "news_count": 29,
       "comment_count": 0,
       "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 36,
+      "urgency_score": 35,
       "news_articles": [
         {
           "title": "彰化續追中聯致癌油流向 再增鬍鬚張、瓦城、爭鮮",
@@ -4070,13 +3965,6 @@
           "time": "2026-07-11 18:27:00",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "颱風災損可申請稅捐減免 彰化稅務局提醒備妥證明30日內申請",
-          "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E7%81%BD%E6%90%8D%E5%8F%AF%E7%94%B3%E8%AB%8B%E7%A8%85%E6%8D%90%E6%B8%9B%E5%85%8D-%E5%BD%B0%E5%8C%96%E7%A8%85%E5%8B%99%E5%B1%80%E6%8F%90%E9%86%92%E5%82%99%E5%A6%A5%E8%AD%89%E6%98%8E30%E6%97%A5%E5%85%A7%E7%94%B3%E8%AB%8B-102152344.html",
-          "time": "2026-07-11 18:21:52",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -4086,11 +3974,11 @@
       "city": "新竹縣",
       "place": "新竹縣政府",
       "level": "red",
-      "news_count": 37,
+      "news_count": 35,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 37,
+      "urgency_score": 35,
       "news_articles": [
         {
           "title": "新竹縣推動性別友善廁所 強化管理知能打造安全包容如廁環境",
@@ -4335,20 +4223,6 @@
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aTHE4eXJkMi1rZ0VmOTJlQUJ2V0VURVB1NnB2ZHJtSzd2ZFE5cklWRVJwRzJNOE9oU2tLb2pMU0tlbjJFUS1VRjRHRFZZY0txVHZ4aXJkazJKLVZXNVJn0gFkQVVfeXFMTUpTUmI0ZzZtQkdvT01wSGt2QXRYUW1Vc1dwb2RhajlFbTBXdzBkVnNJSnRhV2lKUURiekVGdnJrb3VwemlxTnAtWHFuY2IxWER3bTVmcjJvZThwT0VMNTkyOTNWVA?oc=5",
           "time": "2026-07-11 18:31:44",
           "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "巴威甩雨狂炸新竹縣山區 直擊！尖石秀巒部落山壁滑落",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MUTN4X0VaQnJyRlZpenh3T0EtU0JDbzd5V3ZiNGdlZm5JMUJUMzFoYm1vVUV3aHprVUw4YlEwOGJvRm40Ri1zcVdYOW1uWjZaVlhZTGg4ZXDSAV5BVV95cUxNb0RoSXhWTW1QXzJMR2dkNlJaOVZReW9lWVZuaF9jQnFBSVptaWRJenI1Tkk2emxhQlJWcndDMzQzWGFkZXBrWER0QUVUcXVySEVTalFoNkx0ZjdWQWpR?oc=5",
-          "time": "2026-07-11 18:25:00",
-          "publisher": "Google News→鏡新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "巴威甩雨狂炸新竹縣山區 直擊！尖石秀巒部落山壁滑落｜#鏡新聞",
-          "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOY3M1VERLVVFGQlhvSkdMaUFLWEdIMEpaTWxJb3lYLVhqUndSNHlJdUFmdUZiNnJlTi1DajczWnRqUnpCX2w0Q3k4ZTVta3JUZHpwOEphSU5DRkM2bHhjSFBrRm1tUXBLeTdnUjI4OHg4U0NuTDh3SUo2X3llR2lpVkpWdS1XZ0tYU3VXa1VsX1IyQXB4N3duZ0RhcERiNG84MUFFc3FJRHdySGRJcGxSNFdnUWlUWjFJMTlXZ2lhajdWdWRtNmZfQ0o2cUd1bWU2S04tQ2Jjdl9NQUptTzdvUjNRaGk2ZXlZUW9aQ0xTNWcwekxaN2FjTkZsUE82amlwNGljMng0WkJpSG1sR28xU0x5cjBlX1llQmJza3QwWnJoU0JuOUs1S2NDM0UtNWNoQmFvazRLWXZ0VklGNUpRVEdFemduNHdEd1BWaC03VzBwbFAwbGxzc0hhNWZoS00yN2tXb1B2MmJkcFlyQ1BmRnJYb3dwTnJqb1RhMG9lQjh2ZDJUa2ViT2stWjdqVHM?oc=5",
-          "time": "2026-07-11 18:20:56",
-          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -5031,11 +4905,11 @@
       "city": "金門",
       "place": "金門縣政府",
       "level": "red",
-      "news_count": 56,
+      "news_count": 55,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 56,
+      "urgency_score": 55,
       "news_articles": [
         {
           "title": "對中政策跨國議會聯盟（IPAC）的6國國會議員9日參訪金門海域，國台辦批評遭民進黨利用。陪同參訪行程的民進黨立委范雲今天...",
@@ -5421,13 +5295,6 @@
           "time": "2026-07-11 18:35:00",
           "publisher": "ETtoday",
           "severity": "red"
-        },
-        {
-          "title": "IPAC6國議員赴金門考察李文良憂影響兩岸關係 海委會：自我設限無法確保和平",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lVEExbHZjMmIzakhsUEdZUXhuWWMzQzI0cGZRWFdWYlFWdG1pYzFIZVRfRFB3MGg3c2VZME9RaGpFYTRTQzFib1NIbS1JMzZJa3JJVVJ2VlczWDFFVDh5UFVHZk01Q2VrSGlkc21n?oc=5",
-          "time": "2026-07-11 18:17:59",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -5857,11 +5724,11 @@
       "city": "高雄",
       "place": "高雄市政府",
       "level": "red",
-      "news_count": 110,
+      "news_count": 104,
       "comment_count": 0,
-      "negativity_pct": 6,
+      "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 131,
+      "urgency_score": 125,
       "news_articles": [
         {
           "title": "高雄18歲男學生喝氣泡酒躺客家文物館長椅死亡 警憑發票追出身分",
@@ -6590,48 +6457,6 @@
           "time": "2026-07-11 18:28:00",
           "publisher": "壹蘋新聞網",
           "severity": null
-        },
-        {
-          "title": "快訊／高雄5行政區雨量達標 明停班停課",
-          "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E9%AB%98%E9%9B%845%E8%A1%8C%E6%94%BF%E5%8D%80%E9%9B%A8%E9%87%8F%E9%81%94%E6%A8%99-%E6%98%8E%E5%81%9C%E7%8F%AD%E5%81%9C%E8%AA%B2-102500527.html",
-          "time": "2026-07-11 18:25:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "巴威遠離！屏東7／12正常上班課 高雄5區續放颱風假",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tb3phLXdpZm43OVJzTWhGZWxUU1c1eWtSMkZ2alQ2ZWEzOEQ4Q2UwOWZqdnd3cFdXdklUeHA3OF8wR1lmaVFRZTZBNlNBVmdhVUpEXy1jMnJ4Z2ZWeVd3ZkdkTktLUlhtZjNJX25B?oc=5",
-          "time": "2026-07-11 18:24:56",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "巴威遠離！屏東7／12正常上班課高雄5區續放颱風假- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MeXd2ZS13eS15MldGeWtzYWdzNHk0WGx4aGlrZnAydE9nYVpjRVY4cGotUHRRSUxycU5iTG83c2lIa291RTNFRHlqYXp5dzVHNDNYdm9ZSmZyM0FIODlr?oc=5",
-          "time": "2026-07-11 18:24:00",
-          "publisher": "Google News→工商時報",
-          "severity": null
-        },
-        {
-          "title": "高雄市那瑪夏、桃源、茂林、甲仙及六龜5山區明天仍停班停課",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5502048",
-          "time": "2026-07-11 18:22:32",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "高雄勤和到復興路段落石 當局即時清除一度封閉",
-          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%8B%A4%E5%92%8C%E5%88%B0%E5%BE%A9%E8%88%88%E8%B7%AF%E6%AE%B5%E8%90%BD%E7%9F%B3-%E7%95%B6%E5%B1%80%E5%8D%B3%E6%99%82%E6%B8%85%E9%99%A4-%E5%BA%A6%E5%B0%81%E9%96%89-101303158.html",
-          "time": "2026-07-11 18:19:02",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "快訊／續放颱風假！高雄5行政區「雨量達標」：12日停班停課",
-          "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E7%BA%8C%E6%94%BE%E9%A2%B1%E9%A2%A8%E5%81%87-%E9%AB%98%E9%9B%845%E8%A1%8C%E6%94%BF%E5%8D%80-%E9%9B%A8%E9%87%8F%E9%81%94%E6%A8%99-12%E6%97%A5%E5%81%9C%E7%8F%AD%E5%81%9C%E8%AA%B2-101800576.html",
-          "time": "2026-07-11 18:18:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -6641,11 +6466,11 @@
       "city": "苗栗",
       "place": "苗栗縣政府",
       "level": "red",
-      "news_count": 114,
+      "news_count": 113,
       "comment_count": 0,
       "negativity_pct": 1,
       "is_urgent": false,
-      "urgency_score": 117,
+      "urgency_score": 116,
       "news_articles": [
         {
           "title": "巴威豪雨毀了紅棗！苗栗果園裂果率飆8成 鍾東錦急赴公館視察 | 要聞",
@@ -7436,13 +7261,6 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuejBTeFRxUjlyN3ozVzdlZ1drWG5HYkYxQkozQV9RQmhNb3E4bTJNN2ZseWVDNGo5cUFRbWh3TW00VGlIY3BvREd0aVh6V2M?oc=5",
           "time": "2026-07-11 18:31:00",
           "publisher": "TVBS",
-          "severity": "yellow"
-        },
-        {
-          "title": "巴威颱風重創苗栗！7道路9路段封閉 334人緊急撤離",
-          "url": "https://news.nextapple.com/local/20260711/70BC2A75E15FADC733864BEE33629E45",
-          "time": "2026-07-11 18:26:27",
-          "publisher": "壹蘋新聞網",
           "severity": "yellow"
         }
       ],
@@ -8272,11 +8090,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 126,
+      "news_count": 122,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 132,
+      "urgency_score": 128,
       "news_articles": [
         {
           "title": "巴威重創水蜜桃園！ 農民嘆：路斷不知慘況",
@@ -9131,34 +8949,6 @@
           "time": "2026-07-11 18:31:44",
           "publisher": "自由時報",
           "severity": "yellow"
-        },
-        {
-          "title": "桃園機場颱風天變怎樣？他直擊「人人堅守崗位」：像暴風雨的前夕",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QMTloMFI2Y2xkN01fTTRXUl9jOTdJbEtuX0JNR3lZT1dHMlFremZyMW4xWjVpYnpYQi1ySFdheE9xTXhranJBNFJvVGfSAVJBVV95cUxOTllRS0JlVmZhRlRuQi1wZmR5ekcyQlJ5d3BicUdJOGlUcGxKWW1xcW1fVElsSjlpaGlqU01Gc0hIREpNOGRETmRwUERzS3lnbnhR?oc=5",
-          "time": "2026-07-11 18:20:26",
-          "publisher": "Google News→NOWnews今日新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園復興災情不斷！ 吊橋遭沖垮.巨石滾落砸車- 綜合",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GZnR1ZWtRdVF4d216MHBUckZiZGIyb0s0Zy1WSDRnRG5CVzBpV25MSWpEeGxXYmlEYk9aSWpHVWlPTmd2SVlPdjd0UWV3N3lpd2kwS3VwczdDNjJGeGd0aXdDTEFCZHdjQkhaWmxJLVU?oc=5",
-          "time": "2026-07-11 18:20:00",
-          "publisher": "Google News→華視新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "高雄勤和到復興路段落石 當局即時清除一度封閉",
-          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%8B%A4%E5%92%8C%E5%88%B0%E5%BE%A9%E8%88%88%E8%B7%AF%E6%AE%B5%E8%90%BD%E7%9F%B3-%E7%95%B6%E5%B1%80%E5%8D%B3%E6%99%82%E6%B8%85%E9%99%A4-%E5%BA%A6%E5%B0%81%E9%96%89-101303158.html",
-          "time": "2026-07-11 18:19:02",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "北北基桃明照常上班上課 僅桃園復興區停班課",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxamlWTmQxVUUwamVVTWpkc19pOGZRWW5aUE1qamY2UDZtaDRmZUl6LUJQRzVYTFI1ekJHdlJ0T3oyVXQtRjVzVHRaM0d2dThjN3JZemFSTQ?oc=5",
-          "time": "2026-07-11 18:17:49",
-          "publisher": "Google News→台視新聞網",
-          "severity": null
         }
       ],
       "comments": []
