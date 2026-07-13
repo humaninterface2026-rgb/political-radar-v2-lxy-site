@@ -52159,7 +52159,7 @@
     },
     {
       "date": "2026-07-13",
-      "snapshot_at": "2026-07-13T01:17:14.857862+00:00",
+      "snapshot_at": "2026-07-13T01:22:20.329461+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -52229,32 +52229,6 @@
           ]
         },
         {
-          "title": "垃圾山",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 0,
-          "comment_count": 5,
-          "negativity_pct": 0,
-          "is_urgent": true,
-          "urgency_score": 15,
-          "sample_titles": []
-        },
-        {
-          "title": "藍營路線爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 4,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 9,
-          "sample_titles": [
-            "《#鄭麗文 是票房毒藥？ 走到哪都遭嗆 #共產黨 ！　#盧秀燕 表態將啟程！ 2028藍營將有四個太陽？！》【年代向錢看"
-          ]
-        },
-        {
           "title": "嘉義縣地方動態",
           "city": "嘉義縣",
           "place": "嘉義縣政府",
@@ -52271,16 +52245,18 @@
           ]
         },
         {
-          "title": "廚餘山",
+          "title": "藍營路線爭議",
           "city": "台中",
           "place": "台中市政府",
           "level": "green",
-          "news_count": 0,
-          "comment_count": 6,
+          "news_count": 1,
+          "comment_count": 5,
           "negativity_pct": 0,
           "is_urgent": true,
-          "urgency_score": 18,
-          "sample_titles": []
+          "urgency_score": 12,
+          "sample_titles": [
+            "《#鄭麗文 是票房毒藥？ 走到哪都遭嗆 #共產黨 ！　#盧秀燕 表態將啟程！ 2028藍營將有四個太陽？！》【年代向錢看"
+          ]
         },
         {
           "title": "連江地方動態",
@@ -52315,6 +52291,30 @@
           ]
         },
         {
+          "title": "垃圾山",
+          "city": "台中",
+          "place": "台中市大里區",
+          "level": "green",
+          "news_count": 0,
+          "comment_count": 11,
+          "negativity_pct": 0,
+          "is_urgent": true,
+          "urgency_score": 33,
+          "sample_titles": []
+        },
+        {
+          "title": "廚餘山",
+          "city": "台中",
+          "place": "台中市霧峰區",
+          "level": "green",
+          "news_count": 0,
+          "comment_count": 14,
+          "negativity_pct": 0,
+          "is_urgent": true,
+          "urgency_score": 36,
+          "sample_titles": []
+        },
+        {
           "title": "雲林車禍事件",
           "city": "雲林",
           "place": "雲林縣政府",
@@ -52326,20 +52326,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "中國雲林恐怖車禍！水泥預拌車半路側翻…路過轎車6人遭活活壓死"
-          ]
-        },
-        {
-          "title": "新北弊案爭議",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "千噸廢棄物偷倒宜蘭 新北環保蟑螂17人被判刑"
           ]
         },
         {
@@ -52368,6 +52354,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "AI代寫悔過書檢認犯後態度不佳 基隆偷拍男判刑6月"
+          ]
+        },
+        {
+          "title": "新北弊案爭議",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "千噸廢棄物偷倒宜蘭 新北環保蟑螂17人被判刑"
           ]
         },
         {
@@ -52435,20 +52435,6 @@
           ]
         },
         {
-          "title": "海線立委戰局",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 21,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 22,
-          "sample_titles": [
-            "出席牛馬頭畫會聯展開幕 何欣純：強化台中海線藝文能量"
-          ]
-        },
-        {
           "title": "新竹市地方動態",
           "city": "新竹市",
           "place": "新竹市政府",
@@ -52481,15 +52467,29 @@
           ]
         },
         {
+          "title": "海線立委戰局",
+          "city": "台中",
+          "place": "台中市沙鹿區",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 25,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 26,
+          "sample_titles": [
+            "出席牛馬頭畫會聯展開幕 何欣純：強化台中海線藝文能量"
+          ]
+        },
+        {
           "title": "台中市政動態",
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
           "news_count": 7,
-          "comment_count": 23,
+          "comment_count": 33,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 32,
+          "urgency_score": 44,
           "sample_titles": [
             "颱風巴威來襲 盧秀燕親赴昔日「漂漂河」巡檢：防汛應變不鬆懈",
             "颱風巴威來襲 盧秀燕親赴昔日「漂漂河」巡檢：防汛應變不鬆懈",
@@ -52501,11 +52501,11 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "yellow",
-          "news_count": 56,
+          "news_count": 55,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 56,
+          "urgency_score": 55,
           "sample_titles": [
             "金城盃籃球賽 澎湖5校小將抱回金盃",
             "赴金門考察 國台辦不爽》范雲：IPAC了解中共慣用的各種威嚇",
@@ -52533,11 +52533,11 @@
           "city": "台東",
           "place": "台東縣政府",
           "level": "red",
-          "news_count": 12,
+          "news_count": 11,
           "comment_count": 0,
-          "negativity_pct": 8,
+          "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 15,
+          "urgency_score": 14,
           "sample_titles": [
             "苗栗南庄逾百人受困 東河村今天停班課 (全台總整理)",
             "台東原住民豐年祭 自釀小米酒禁售",
@@ -52565,11 +52565,11 @@
           "city": "基隆",
           "place": "基隆市政府",
           "level": "red",
-          "news_count": 18,
+          "news_count": 17,
           "comment_count": 0,
-          "negativity_pct": 11,
+          "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 24,
+          "urgency_score": 23,
           "sample_titles": [
             "基隆落石砸民宅 幸主結構未破壞",
             "基隆男子疑酒醉路倒巷弄 遭汽車壓車底",
@@ -52593,22 +52593,6 @@
           ]
         },
         {
-          "title": "新竹縣地方動態",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "red",
-          "news_count": 43,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 43,
-          "sample_titles": [
-            "巴威颱風釀災…新竹縣5校13日停班停課花園國小竹林分校正常上班停課| 桃竹苗| 地方",
-            "快訊／巴威颱風重創主要道路！新竹縣五峰鄉公所深夜宣布：13日停班停課",
-            "再放一天假！新竹縣2鄉部分區域「7/13停班停課」"
-          ]
-        },
-        {
           "title": "台南地方動態",
           "city": "台南",
           "place": "台南市政府",
@@ -52625,15 +52609,31 @@
           ]
         },
         {
+          "title": "新竹縣地方動態",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "red",
+          "news_count": 43,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 43,
+          "sample_titles": [
+            "巴威颱風釀災…新竹縣5校13日停班停課花園國小竹林分校正常上班停課| 桃竹苗| 地方",
+            "快訊／巴威颱風重創主要道路！新竹縣五峰鄉公所深夜宣布：13日停班停課",
+            "再放一天假！新竹縣2鄉部分區域「7/13停班停課」"
+          ]
+        },
+        {
           "title": "花蓮地方動態",
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 49,
+          "news_count": 45,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 49,
+          "urgency_score": 45,
           "sample_titles": [
             "【2026年7月活動推薦】大稻埕夏日節、花蓮航海王、桃園蓮花季、宜蘭童玩節...全台熱門景點活動一次看！(不斷更新) |",
             "花蓮鼓王爭霸戰 延至8/1登場",
@@ -52645,31 +52645,15 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 50,
+          "news_count": 49,
           "comment_count": 0,
           "negativity_pct": 14,
           "is_urgent": false,
-          "urgency_score": 71,
+          "urgency_score": 70,
           "sample_titles": [
             "屏東女子酒駕肇事！撞機車測速照相桿 車頭插入排水溝釀兩傷",
             "天文大潮第一波明起來襲 屏東縣府提醒： 沿海警戒防海水倒灌",
             "屏東女酒駕撞外送員再撞測速照相桿"
-          ]
-        },
-        {
-          "title": "宜蘭地方動態",
-          "city": "宜蘭",
-          "place": "宜蘭縣政府",
-          "level": "red",
-          "news_count": 55,
-          "comment_count": 0,
-          "negativity_pct": 7,
-          "is_urgent": false,
-          "urgency_score": 67,
-          "sample_titles": [
-            "【2026年7月活動推薦】大稻埕夏日節、花蓮航海王、桃園蓮花季、宜蘭童玩節...全台熱門景點活動一次看！(不斷更新) |",
-            "千噸廢棄物偷倒宜蘭》環保蟑螂17人判刑 2主嫌判逾2年",
-            "宜蘭二湖土鳳梨扎根百年 甜度破14度"
           ]
         },
         {
@@ -52686,6 +52670,22 @@
             "颱風延期今登場》大學分科測驗 新北4考場完成整備",
             "新北大橋匝道「逆向驚魂」 網怒轟：職業駕駛？",
             "新北市公共運輸恢復正常營運 交通局提醒民眾出門前留意道路管制資訊"
+          ]
+        },
+        {
+          "title": "宜蘭地方動態",
+          "city": "宜蘭",
+          "place": "宜蘭縣政府",
+          "level": "red",
+          "news_count": 55,
+          "comment_count": 0,
+          "negativity_pct": 7,
+          "is_urgent": false,
+          "urgency_score": 67,
+          "sample_titles": [
+            "【2026年7月活動推薦】大稻埕夏日節、花蓮航海王、桃園蓮花季、宜蘭童玩節...全台熱門景點活動一次看！(不斷更新) |",
+            "千噸廢棄物偷倒宜蘭》環保蟑螂17人判刑 2主嫌判逾2年",
+            "宜蘭二湖土鳳梨扎根百年 甜度破14度"
           ]
         },
         {
@@ -52725,11 +52725,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 114,
+          "news_count": 113,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 123,
+          "urgency_score": 122,
           "sample_titles": [
             "【2026年7月活動推薦】大稻埕夏日節、花蓮航海王、桃園蓮花季、宜蘭童玩節...全台熱門景點活動一次看！(不斷更新) |",
             "萬美玲沒誠實申報配偶海川建設持股? 桃園議員參選人質疑隱匿財產",
@@ -52741,11 +52741,11 @@
           "city": "台中",
           "place": "台中市沙鹿區",
           "level": "red",
-          "news_count": 131,
+          "news_count": 130,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 170,
+          "urgency_score": 169,
           "sample_titles": [
             "福壽2產品使用中聯問題油延遲通報 中市府再罰600萬",
             "台中傳虐嬰　11月大女嬰僅「3.3公斤」疑遭餓死",
