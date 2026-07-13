@@ -52159,7 +52159,7 @@
     },
     {
       "date": "2026-07-13",
-      "snapshot_at": "2026-07-13T10:27:04.663267+00:00",
+      "snapshot_at": "2026-07-13T10:34:24.820300+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -52216,6 +52216,20 @@
           ]
         },
         {
+          "title": "新竹市詐騙案",
+          "city": "新竹市",
+          "place": "新竹市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "成功攔阻近640萬！竹市地政神隊友「多問幾句」 戳破詐騙"
+          ]
+        },
+        {
           "title": "高雄詐騙案",
           "city": "高雄",
           "place": "高雄市政府",
@@ -52241,20 +52255,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "苗栗警局攜手日進證券簽MOU 公私協力防堵假投資詐騙。"
-          ]
-        },
-        {
-          "title": "新竹市詐騙案",
-          "city": "新竹市",
-          "place": "新竹市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "成功攔阻近640萬！竹市地政神隊友「多問幾句」 戳破詐騙"
           ]
         },
         {
@@ -52352,6 +52352,21 @@
           ]
         },
         {
+          "title": "台北車禍事件",
+          "city": "台北",
+          "place": "台北市南港區",
+          "level": "yellow",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "同路段又車禍！南港聯結車倒車「猛撞變電箱基座」台電：未影響供電",
+            "北市重大車禍 婦過斑馬線遭衝撞命危搶救中"
+          ]
+        },
+        {
           "title": "屏東詐騙案",
           "city": "屏東",
           "place": "屏東縣政府",
@@ -52404,11 +52419,11 @@
           "city": "南投",
           "place": "南投縣政府",
           "level": "yellow",
-          "news_count": 22,
+          "news_count": 19,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 22,
+          "urgency_score": 19,
           "sample_titles": [
             "分科測驗南投考生稀少 中興高中昔設「包中專區」今年改便當",
             "新北豪雨特報 雲林以北、南投等地防大雨",
@@ -52432,11 +52447,11 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "yellow",
-          "news_count": 28,
+          "news_count": 26,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 28,
+          "urgency_score": 26,
           "sample_titles": [
             "教育部戶外教育課程選拔 澎湖合橫國小拿「學校績優獎」",
             "東嶼坪7旬男工人疑腦中風 澎湖駐地醫療直升機馳援搶命",
@@ -52448,15 +52463,31 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "yellow",
-          "news_count": 49,
+          "news_count": 46,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 49,
+          "urgency_score": 46,
           "sample_titles": [
             "2026金門縣第18屆端午節寫生比賽頒獎典禮圓滿落幕 小畫家揮灑創意綻放藝術光彩",
             "暑假親子遊金門 「金門找金喜－夏日童遊趣」集金幣活動登場",
             "模擬小三通海難突發情境 金門海巡舉行聯合演練"
+          ]
+        },
+        {
+          "title": "屏東地方動態",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "yellow",
+          "news_count": 51,
+          "comment_count": 0,
+          "negativity_pct": 4,
+          "is_urgent": false,
+          "urgency_score": 57,
+          "sample_titles": [
+            "屏東飛車搶劫！ 搶匪後方扯包　女騎士重摔滿身傷",
+            "屏東林業服務小棧適得其所開展",
+            "屏東一個月2起搶劫！ 嫌騎車硬搶包 警15小時逮人"
           ]
         },
         {
@@ -52476,21 +52507,6 @@
           ]
         },
         {
-          "title": "台北車禍事件",
-          "city": "台北",
-          "place": "台北市南港區",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "同路段又車禍！南港聯結車倒車「猛撞變電箱基座」台電：未影響供電",
-            "北市重大車禍 婦過斑馬線遭衝撞命危搶救中"
-          ]
-        },
-        {
           "title": "新北弊案爭議",
           "city": "新北",
           "place": "新北市政府",
@@ -52507,22 +52523,6 @@
           ]
         },
         {
-          "title": "嘉義縣弊案爭議",
-          "city": "嘉義縣",
-          "place": "嘉義縣政府",
-          "level": "red",
-          "news_count": 3,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 12,
-          "sample_titles": [
-            "男騎機車連2天竄嘉義縣市性騷5女 嘉檢羈押起訴 | 社會",
-            "男騎機車連2天竄嘉義縣市性騷5女 嘉檢羈押起訴",
-            "男騎機車連2天竄嘉義縣市性騷5女嘉檢羈押起訴| 社會"
-          ]
-        },
-        {
           "title": "新竹縣弊案爭議",
           "city": "新竹縣",
           "place": "新竹縣政府",
@@ -52536,6 +52536,22 @@
             "新竹天坑案下午宣判 楊文科如因貪污罪判刑將停職",
             "最新／新竹縣長楊文科涉圖利建商遭起訴求重判 一審判決出爐",
             "竹北天坑案「圖利」遭起訴 新竹縣長楊文科今午一審宣判"
+          ]
+        },
+        {
+          "title": "嘉義縣弊案爭議",
+          "city": "嘉義縣",
+          "place": "嘉義縣政府",
+          "level": "red",
+          "news_count": 3,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 12,
+          "sample_titles": [
+            "男騎機車連2天竄嘉義縣市性騷5女 嘉檢羈押起訴 | 社會",
+            "男騎機車連2天竄嘉義縣市性騷5女 嘉檢羈押起訴",
+            "男騎機車連2天竄嘉義縣市性騷5女嘉檢羈押起訴| 社會"
           ]
         },
         {
@@ -52619,6 +52635,22 @@
           ]
         },
         {
+          "title": "彰化地方動態",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "red",
+          "news_count": 37,
+          "comment_count": 0,
+          "negativity_pct": 5,
+          "is_urgent": false,
+          "urgency_score": 43,
+          "sample_titles": [
+            "新北南投雲林豪雨特報 彰化以北及嘉義山區大雨",
+            "瓦城、爭鮮、好市多也中招！彰化再追致癌油 17項產品預防下架",
+            "點亮學習新視界 彰化縣全面完成校園照明優化 守護學童視力健康"
+          ]
+        },
+        {
           "title": "台南地方動態",
           "city": "台南",
           "place": "台南市政府",
@@ -52635,51 +52667,19 @@
           ]
         },
         {
-          "title": "彰化地方動態",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "red",
-          "news_count": 40,
-          "comment_count": 0,
-          "negativity_pct": 5,
-          "is_urgent": false,
-          "urgency_score": 46,
-          "sample_titles": [
-            "新北南投雲林豪雨特報 彰化以北及嘉義山區大雨",
-            "瓦城、爭鮮、好市多也中招！彰化再追致癌油 17項產品預防下架",
-            "點亮學習新視界 彰化縣全面完成校園照明優化 守護學童視力健康"
-          ]
-        },
-        {
           "title": "新竹縣地方動態",
           "city": "新竹縣",
           "place": "新竹縣政府",
           "level": "red",
-          "news_count": 49,
+          "news_count": 47,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 58,
+          "urgency_score": 56,
           "sample_titles": [
             "【新聞一點靈】巴威重創！ 尖石3部落成孤島　停電3天靠囤糧苦撐　巴威肆虐苗栗南庄山區！ 交通中斷居民受困　弓箭拋繩運物資",
             "新竹縣長楊文科竹北「天坑案」獲判無罪。藍營表示，楊文科無罪再次證明司法審理應回歸證據與事實，而非外界臆測或政治操作；縣長",
             "路況不佳！新竹縣五峰鄉學校「7/14停班停課」"
-          ]
-        },
-        {
-          "title": "屏東地方動態",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "red",
-          "news_count": 51,
-          "comment_count": 0,
-          "negativity_pct": 4,
-          "is_urgent": false,
-          "urgency_score": 57,
-          "sample_titles": [
-            "屏東飛車搶劫！ 搶匪後方扯包　女騎士重摔滿身傷",
-            "屏東林業服務小棧適得其所開展",
-            "屏東一個月2起搶劫！ 嫌騎車硬搶包 警15小時逮人"
           ]
         },
         {
@@ -52731,6 +52731,22 @@
           ]
         },
         {
+          "title": "苗栗地方動態",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "red",
+          "news_count": 73,
+          "comment_count": 0,
+          "negativity_pct": 7,
+          "is_urgent": false,
+          "urgency_score": 88,
+          "sample_titles": [
+            "2026全國國中小大露營閃耀新北龍門‧苗栗五校聯團展現山城童軍活力",
+            "【新聞一點靈】巴威重創！ 尖石3部落成孤島　停電3天靠囤糧苦撐　巴威肆虐苗栗南庄山區！ 交通中斷居民受困　弓箭拋繩運物資",
+            "快訊／雨勢升級！12縣市豪、大雨特報 台中、苗栗大雷雨炸1小時"
+          ]
+        },
+        {
           "title": "新北地方動態",
           "city": "新北",
           "place": "新北市政府",
@@ -52747,31 +52763,15 @@
           ]
         },
         {
-          "title": "苗栗地方動態",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "red",
-          "news_count": 77,
-          "comment_count": 0,
-          "negativity_pct": 6,
-          "is_urgent": false,
-          "urgency_score": 92,
-          "sample_titles": [
-            "2026全國國中小大露營閃耀新北龍門‧苗栗五校聯團展現山城童軍活力",
-            "【新聞一點靈】巴威重創！ 尖石3部落成孤島　停電3天靠囤糧苦撐　巴威肆虐苗栗南庄山區！ 交通中斷居民受困　弓箭拋繩運物資",
-            "快訊／雨勢升級！12縣市豪、大雨特報 台中、苗栗大雷雨炸1小時"
-          ]
-        },
-        {
           "title": "高雄地方動態",
           "city": "高雄",
           "place": "高雄市前鎮區",
           "level": "red",
-          "news_count": 116,
+          "news_count": 114,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 122,
+          "urgency_score": 120,
           "sample_titles": [
             "高雄萬豪酒店父親節饗宴登場 自助餐6人同行爸爸免費、中式桌席加菜送啤酒",
             "紐時：日本成俄國間諜巢穴？高市早苗擬建戰後第1個中央情報機構",
@@ -52799,11 +52799,11 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 196,
+          "news_count": 193,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 241,
+          "urgency_score": 238,
           "sample_titles": [
             "台中高美濕地陸蟹巡守活動報名開跑 和潤企業邀您來場生態探索之旅",
             "盧秀燕廣告打到台北捷運 宣傳第2屆智慧台中論壇",
