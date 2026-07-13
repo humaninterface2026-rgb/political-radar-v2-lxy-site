@@ -52159,7 +52159,7 @@
     },
     {
       "date": "2026-07-13",
-      "snapshot_at": "2026-07-13T10:34:24.820300+00:00",
+      "snapshot_at": "2026-07-13T10:42:33.866943+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -52216,9 +52216,9 @@
           ]
         },
         {
-          "title": "新竹市詐騙案",
-          "city": "新竹市",
-          "place": "新竹市政府",
+          "title": "苗栗詐騙案",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -52226,7 +52226,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "成功攔阻近640萬！竹市地政神隊友「多問幾句」 戳破詐騙"
+            "苗栗警局攜手日進證券簽MOU 公私協力防堵假投資詐騙。"
           ]
         },
         {
@@ -52244,9 +52244,9 @@
           ]
         },
         {
-          "title": "苗栗詐騙案",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
+          "title": "新竹市詐騙案",
+          "city": "新竹市",
+          "place": "新竹市政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -52254,7 +52254,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "苗栗警局攜手日進證券簽MOU 公私協力防堵假投資詐騙。"
+            "成功攔阻近640萬！竹市地政神隊友「多問幾句」 戳破詐騙"
           ]
         },
         {
@@ -52431,6 +52431,22 @@
           ]
         },
         {
+          "title": "澎湖地方動態",
+          "city": "澎湖",
+          "place": "澎湖縣政府",
+          "level": "yellow",
+          "news_count": 25,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 25,
+          "sample_titles": [
+            "教育部戶外教育課程選拔 澎湖合橫國小拿「學校績優獎」",
+            "東嶼坪7旬男工人疑腦中風 澎湖駐地醫療直升機馳援搶命",
+            "旺旺匠派為澎湖花火節添風味"
+          ]
+        },
+        {
           "title": "海線立委戰局",
           "city": "台中",
           "place": "台中市沙鹿區",
@@ -52441,22 +52457,6 @@
           "is_urgent": false,
           "urgency_score": 28,
           "sample_titles": []
-        },
-        {
-          "title": "澎湖地方動態",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
-          "level": "yellow",
-          "news_count": 26,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 26,
-          "sample_titles": [
-            "教育部戶外教育課程選拔 澎湖合橫國小拿「學校績優獎」",
-            "東嶼坪7旬男工人疑腦中風 澎湖駐地醫療直升機馳援搶命",
-            "旺旺匠派為澎湖花火節添風味"
-          ]
         },
         {
           "title": "金門地方動態",
@@ -52479,11 +52479,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "yellow",
-          "news_count": 51,
+          "news_count": 50,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 57,
+          "urgency_score": 56,
           "sample_titles": [
             "屏東飛車搶劫！ 搶匪後方扯包　女騎士重摔滿身傷",
             "屏東林業服務小棧適得其所開展",
@@ -52495,11 +52495,11 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
-          "news_count": 32,
+          "news_count": 29,
           "comment_count": 35,
-          "negativity_pct": 6,
+          "negativity_pct": 7,
           "is_urgent": true,
-          "urgency_score": 79,
+          "urgency_score": 76,
           "sample_titles": [
             "藍營全代會又現「選戰指揮權歸總統候選人」倡議 盧秀燕副手：每4年就會有人提",
             "誓言造智慧城市典範 盧秀燕北捷宣傳點燃臺中AI機器人製造基地決心",
@@ -52523,22 +52523,6 @@
           ]
         },
         {
-          "title": "新竹縣弊案爭議",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "red",
-          "news_count": 3,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 12,
-          "sample_titles": [
-            "新竹天坑案下午宣判 楊文科如因貪污罪判刑將停職",
-            "最新／新竹縣長楊文科涉圖利建商遭起訴求重判 一審判決出爐",
-            "竹北天坑案「圖利」遭起訴 新竹縣長楊文科今午一審宣判"
-          ]
-        },
-        {
           "title": "嘉義縣弊案爭議",
           "city": "嘉義縣",
           "place": "嘉義縣政府",
@@ -52552,6 +52536,22 @@
             "男騎機車連2天竄嘉義縣市性騷5女 嘉檢羈押起訴 | 社會",
             "男騎機車連2天竄嘉義縣市性騷5女 嘉檢羈押起訴",
             "男騎機車連2天竄嘉義縣市性騷5女嘉檢羈押起訴| 社會"
+          ]
+        },
+        {
+          "title": "新竹縣弊案爭議",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "red",
+          "news_count": 3,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 12,
+          "sample_titles": [
+            "新竹天坑案下午宣判 楊文科如因貪污罪判刑將停職",
+            "最新／新竹縣長楊文科涉圖利建商遭起訴求重判 一審判決出爐",
+            "竹北天坑案「圖利」遭起訴 新竹縣長楊文科今午一審宣判"
           ]
         },
         {
@@ -52671,11 +52671,11 @@
           "city": "新竹縣",
           "place": "新竹縣政府",
           "level": "red",
-          "news_count": 47,
+          "news_count": 46,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 56,
+          "urgency_score": 55,
           "sample_titles": [
             "【新聞一點靈】巴威重創！ 尖石3部落成孤島　停電3天靠囤糧苦撐　巴威肆虐苗栗南庄山區！ 交通中斷居民受困　弓箭拋繩運物資",
             "新竹縣長楊文科竹北「天坑案」獲判無罪。藍營表示，楊文科無罪再次證明司法審理應回歸證據與事實，而非外界臆測或政治操作；縣長",
@@ -52693,9 +52693,9 @@
           "is_urgent": false,
           "urgency_score": 56,
           "sample_titles": [
+            "邱明玉爆猛料「白派1人出征花蓮市長」！揭藍白2大震撼彈：逼傅崐萁合作？｜#台灣最前線",
             "獨／民眾黨插旗花蓮是「傅崐萁操盤奪權」？魏嘉賢正面回應了",
-            "走過地震陰霾 花蓮富北國中校舍重建將完工",
-            "盛夏接力 兩大國際賽事將在花蓮舉行"
+            "走過地震陰霾 花蓮富北國中校舍重建將完工"
           ]
         },
         {
@@ -52719,11 +52719,11 @@
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "red",
-          "news_count": 61,
+          "news_count": 60,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 67,
+          "urgency_score": 66,
           "sample_titles": [
             "高虹安好姊妹參戰！民政處長施淑婷請辭 投入新竹市西區議員選舉",
             "新竹市建華國中升格為完全中學 明年將招收176名新生",
@@ -52735,11 +52735,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 73,
+          "news_count": 69,
           "comment_count": 0,
-          "negativity_pct": 7,
+          "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 88,
+          "urgency_score": 75,
           "sample_titles": [
             "2026全國國中小大露營閃耀新北龍門‧苗栗五校聯團展現山城童軍活力",
             "【新聞一點靈】巴威重創！ 尖石3部落成孤島　停電3天靠囤糧苦撐　巴威肆虐苗栗南庄山區！ 交通中斷居民受困　弓箭拋繩運物資",
@@ -52751,11 +52751,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 75,
+          "news_count": 76,
           "comment_count": 0,
           "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 99,
+          "urgency_score": 100,
           "sample_titles": [
             "大雷雨夜襲！水利署：新北等4縣市淹水警戒 西螺時雨量破75毫米 | 天氣預報 | 生活",
             "2026全國國中小大露營閃耀新北龍門‧苗栗五校聯團展現山城童軍活力",
@@ -52767,11 +52767,11 @@
           "city": "高雄",
           "place": "高雄市前鎮區",
           "level": "red",
-          "news_count": 114,
+          "news_count": 113,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 120,
+          "urgency_score": 119,
           "sample_titles": [
             "高雄萬豪酒店父親節饗宴登場 自助餐6人同行爸爸免費、中式桌席加菜送啤酒",
             "紐時：日本成俄國間諜巢穴？高市早苗擬建戰後第1個中央情報機構",
@@ -52783,11 +52783,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 134,
+          "news_count": 135,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 149,
+          "urgency_score": 153,
           "sample_titles": [
             "國民黨立委萬美玲之子佀廣洋日前獲國民黨提名參選桃園市議員，卻因學生時期霸凌爭議延燒多日，今晚他發表聲明宣布放棄國民黨提名",
             "國軍第三作戰區下午舉行聯合防禦操演，584旅執行機動進入戰術位置任務，下午陸軍六軍團在桃園體育園區站進行M1A2T機動部",
@@ -52799,15 +52799,15 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 193,
+          "news_count": 195,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 238,
+          "urgency_score": 240,
           "sample_titles": [
+            "中市10月辦沖繩空中婚禮！盧秀燕選前敏感時機訪日？市府回應了",
             "台中高美濕地陸蟹巡守活動報名開跑 和潤企業邀您來場生態探索之旅",
-            "盧秀燕廣告打到台北捷運 宣傳第2屆智慧台中論壇",
-            "台中客委會高效復原客家園區 守護市民休憩空間"
+            "盧秀燕廣告打到台北捷運 宣傳第2屆智慧台中論壇"
           ]
         },
         {
@@ -52815,11 +52815,11 @@
           "city": "台北",
           "place": "台北市內湖區",
           "level": "red",
-          "news_count": 218,
+          "news_count": 220,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 254,
+          "urgency_score": 259,
           "sample_titles": [
             "受訪遭抓包控制秒數！ 蔣萬安79秒轟賴政府　北市府議題34秒冷處理",
             "特輯 巴威颱風風雨中送暖 里長感動心潮協會及時送達1000份物資 攜手守護大台北200戶弱勢里民",

@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "snapshot_at": "2026-07-13T10:34:24.820300+00:00",
+  "snapshot_at": "2026-07-13T10:42:33.866943+00:00",
   "hotspots": [
     {
       "title": "捷運藍線爭議",
@@ -88,9 +88,9 @@
       "comments": []
     },
     {
-      "title": "新竹市詐騙案",
-      "city": "新竹市",
-      "place": "新竹市政府",
+      "title": "苗栗詐騙案",
+      "city": "苗栗",
+      "place": "苗栗縣政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -99,10 +99,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "成功攔阻近640萬！竹市地政神隊友「多問幾句」 戳破詐騙",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBULVVtV2NncVp6WnpyUHNVUmc2WDJtSzZ2bEYwa2VEM2RqMUZETVpONFFDdDdmT0puRHpFVnZFVUVFbHF0Ym5yWG5qXzNjcWI5d3c?oc=5",
-          "time": "2026-07-13 10:55:00",
-          "publisher": "Google News→蕃新聞",
+          "title": "苗栗警局攜手日進證券簽MOU 公私協力防堵假投資詐騙。",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXX01UTVdUVi1HSHBwQmVxc0lfUW5PMGotUHdrd2dLSmFjUlY2b0FPSW56MC1vU1QtaUZpQXZiX0RFMWpzUUptb1VUWjROd3R6VW1hcTBQMjVydER0VGZKTXFHZTdQM1dfRUtaSnZB?oc=5",
+          "time": "2026-07-13 14:18:42",
+          "publisher": "中時新聞網",
           "severity": "yellow"
         }
       ],
@@ -130,9 +130,9 @@
       "comments": []
     },
     {
-      "title": "苗栗詐騙案",
-      "city": "苗栗",
-      "place": "苗栗縣政府",
+      "title": "新竹市詐騙案",
+      "city": "新竹市",
+      "place": "新竹市政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -141,10 +141,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "苗栗警局攜手日進證券簽MOU 公私協力防堵假投資詐騙。",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXX01UTVdUVi1HSHBwQmVxc0lfUW5PMGotUHdrd2dLSmFjUlY2b0FPSW56MC1vU1QtaUZpQXZiX0RFMWpzUUptb1VUWjROd3R6VW1hcTBQMjVydER0VGZKTXFHZTdQM1dfRUtaSnZB?oc=5",
-          "time": "2026-07-13 14:18:42",
-          "publisher": "中時新聞網",
+          "title": "成功攔阻近640萬！竹市地政神隊友「多問幾句」 戳破詐騙",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBULVVtV2NncVp6WnpyUHNVUmc2WDJtSzZ2bEYwa2VEM2RqMUZETVpONFFDdDdmT0puRHpFVnZFVUVFbHF0Ym5yWG5qXzNjcWI5d3c?oc=5",
+          "time": "2026-07-13 10:55:00",
+          "publisher": "Google News→蕃新聞",
           "severity": "yellow"
         }
       ],
@@ -979,6 +979,195 @@
       "comments": []
     },
     {
+      "title": "澎湖地方動態",
+      "city": "澎湖",
+      "place": "澎湖縣政府",
+      "level": "yellow",
+      "news_count": 25,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 25,
+      "news_articles": [
+        {
+          "title": "教育部戶外教育課程選拔 澎湖合橫國小拿「學校績優獎」",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5503742",
+          "time": "2026-07-13 16:31:34",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "東嶼坪7旬男工人疑腦中風 澎湖駐地醫療直升機馳援搶命",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5503614",
+          "time": "2026-07-13 15:09:12",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "旺旺匠派為澎湖花火節添風味",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xV3A2ZGNWb0RFU3lQWmtheW85a2wxaGwxZW90MDJzaHpQcERkRkVISGN1aW9aZGdSZVRudzFkamMydVFrMDBCTERnRU5Ib0k?oc=5",
+          "time": "2026-07-13 14:04:26",
+          "publisher": "Google News→翻爆",
+          "severity": null
+        },
+        {
+          "title": "花火節白沙場限定！澎湖水族館夜間開館看夜行龍蝦、接力賞煙火- 瘋台灣",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85X3UtcWc5RHM2WGtxTGVGWlFYMWdCbkFEWk9uSEhsNjNkZU14dkFWNVJEX2NaN05sbTR6STZGdzBqaDdvZzJnR05PQlVJMTNESXBvU0ZoOUhKVWdfOTk1VkhldGlTdV9uNGl6MA?oc=5",
+          "time": "2026-07-13 13:29:54",
+          "publisher": "Google News→觸mii",
+          "severity": null
+        },
+        {
+          "title": "史上最多！陳光復退選後 澎湖縣長6強開打",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMEc5MEtxbm1zSVlIT1kyXy1UV3J6VWZ0NVhYM3cwT1djUnp6N0hETnhnT2k4ZTN5RFI2VWpLbGNzNU1yYUJZNElFZXMyNkxZQTZ5QWtMOEZoSk9vYVZOeHQxZWdpQ2JGcXFzYUJKSWhrOElKMURzLS1VVXV2eE5NdTF4SndwX283NlVCeVZxMEk5ZHNlT3NnOTJ2TnhNV29rbFp0Rk96YllKNkxCaVZYcDhZTUlUalBCQUktcHpIQnpRUV9mUk5uaVhWc01nVFo5YnJTTlRTYk10VjlkdUwwUmpTX0tId3FWd2E0RnYxN09BUGptOUU0Z3B0RVVlMEZDQ0J4V2ZNekZZck1VSXVUdzhzSGJOWXo2cnhNcmNHeXYxVU0?oc=5",
+          "time": "2026-07-13 13:28:13",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "「匠派」首度跨海聯手澎湖福朋喜來登酒店！璀璨花火之夜限定派樣 職人點心引爆海島夏日熱潮",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZcTVwQ3hYREFNd0RwMk5hbUNDdVdqQTJrVXNIMnVWNGhWTTgwWU5POXpEMC1qSXRWRmJzM0RtU1duaVZwMmlOaWNoYUZockpsOWlVS3pOcFowY3ltTkhfVlcwbGl0amZ5T3RsVg?oc=5",
+          "time": "2026-07-13 13:00:30",
+          "publisher": "Google News→觸mii",
+          "severity": null
+        },
+        {
+          "title": "澎湖水族館搭配花火節白沙場 延長夜間營業",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ebi1XZE9rOW9HQ3JDRE5BZ2J6U3FuQmFPYXhCb1AyWkN0UE5zSFMwRTFacDdXc00tZ3ZiSmlKSUQwYVFPajJsU1A5NDRCWlBacTVxTEx6UjRSYUpDVm12ZGhfak_SAWpBVV95cUxNckotUUQ0YlhaclBOSXdHQzNFaXRjNm80YUh3WU9RblRCX09uYjdYemJaZlpNY2VVcUQyODNESHFuSkprX1dOZ1pDaWd5OE1PcTd3VWotX2hGYl9UalBReWpoc2kxM2QtY29n?oc=5",
+          "time": "2026-07-13 11:48:18",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "廟口開講啟航 無黨澎湖縣長參選人葉竹林深入基層拉票",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5503279",
+          "time": "2026-07-13 10:49:46",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "巴威颱風小三通停航多日 馬祖今天中午加開黃岐港往白沙",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5503235",
+          "time": "2026-07-13 10:13:44",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "嘉市府啟動意願調查 小澎湖第一場公辦都市更新說明會舉行",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiSGhSWkw2Z2d6YXVOd29CTzJWeHE3N09ZanNVN3U5bEdPTHVPaXUyOXBKOVgtNmQ5VWtMS3BYaVpVNVZqYUg1dzhBUE9KTkFiSWIzY0lB?oc=5",
+          "time": "2026-07-13 10:10:07",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "嘉市府啟動意願調查 小澎湖第一場公辦都市更新說明會舉行 - 生活新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam53YTZmYXAyTU14cklzcmdzWU84SDk2TlAyUktLcHBzT1JsbVVkVjBZbFFpLXZzTEUwOFNYQkZmbFFqOWtGdUFjaDFNa0FDbFFaVnhRaU1aZ29FUFEwNFpKcHhzcUhPQl96ZGFkTlVLeml0U0ZSX2dwckhVLWtrTWxSdDA?oc=5",
+          "time": "2026-07-13 10:10:07",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "金城盃籃球賽 澎湖5校小將抱回金盃",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pQUw1STBFNEpIbm8xX0tpUzFBNU9BZTBvbENRS1ZFZk1NSTdYTFVoNS1vaVRtOVUwVG5vdWJOUGc5NF9XdV9aTTZyUy1MTmJCRXQ5VXh1Y2trV1NLTjhwdlo0MmlDeVdJNTh3?oc=5",
+          "time": "2026-07-13 07:59:49",
+          "publisher": "Google News→澎湖日報",
+          "severity": null
+        },
+        {
+          "title": "石空療育-澎湖石友會會員聯展 展出百餘件石藝",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pdEhOdUlidko1OGNxWjh0LW5LVFoxOEdiSGsyZ3U5STFhT0hEN0JjTDR6OUE0cnRmMDQwcEtOdkV0bm1pYVBGVGVkcHVRdUdSRFFtaWo2YUZqLTk0bEU1OWNpZ0VGOUx6eEpV?oc=5",
+          "time": "2026-07-13 07:44:49",
+          "publisher": "Google News→澎湖日報",
+          "severity": null
+        },
+        {
+          "title": "澎湖縣社區大學115年度春季班靜態成果展開幕",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhSHdlMXI1Qkg4OWxVc280RDZPV1RxNkEyeWZlRkZES2cydm9JWUVQNHY2dERKQkRVSVFOakk0VjZQNXFYS3FmRjM3TUpYVW1UMGM3NlJQZ193cGU4X2VIY0pudWlCY1FTWElxMllB?oc=5",
+          "time": "2026-07-13 07:39:49",
+          "publisher": "Google News→澎湖日報",
+          "severity": null
+        },
+        {
+          "title": "澎湖社區大學動態成果展 秀才藝 獻愛心",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfNGdiUnZETGJqUWNEQnlOYVlucWRobUxGWEtBOW5KVlJ4cFktUTJnakFJVWhQLVVVSV9ENnlkWldWYzBkLTRyT0YxWFRXOTNYWTBBMEs1d3V5M0JCUUtnaERWYllkZ29CbHBJ?oc=5",
+          "time": "2026-07-13 07:39:49",
+          "publisher": "Google News→澎湖日報",
+          "severity": null
+        },
+        {
+          "title": "旺旺匠派為澎湖花火節添風味- 時尚消費- 中國時報",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QYkE3cXdXam9NQmJhS3kxaU11UGFyb0VCb2ZBM0hmRG9HdkszRWlobzR3YWlMNGcxUlhoYTRYcGlOYmFQUEdUZ0s4cHlhYWI1X3loVVVkXzNZOUxQa2JqWGlES21HY1BrRUdF?oc=5",
+          "time": "2026-07-13 03:37:46",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "澎湖農產品展售活動7月18日登場 國際廣場安全溯源農產半價促銷",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQdWtjeUs4YjBfaFVVSVNQc0ZudWdRWmJmSTZhNGVTRlk5ank3MUtNVUJqNXZ4bWdhWVl4QllVemlGRkxtLUhFb0ZpdXpwamlKNks0T3RrUmlsdERkLUVGM1M5MExVU0ZtUHAyd25KbkFEbGYzdXpDY0ZSTjlNYmVVZUNCdi1rV3dvdVBUMkk5ZzNiamhuaWltLS1meFBVMURMdnhhQU5aTHNDcWR0UjBKUXBpSGd4UjF4UUg4RUxrZVp5VkoyeEtDZ1ZzbDlfZDFSUGt4X3NGMVpvMkIzZV9jeEktTGVHN2l2T3FhelE4Z2NqUEFjc19LakdJNEc2R0RSWk9yc1FLdjMzbzMyYWYyRTh2V1NjME41aTl3TndraEp4WFpPM1lhTG5DRnhabVA3a3dEWTd0X0p1R28?oc=5",
+          "time": "2026-07-13 00:02:04",
+          "publisher": "Google News→澎湖e傳媒",
+          "severity": null
+        },
+        {
+          "title": "(有影片)/網傳「泰國妹免簽攻陷澎湖」 馬公分局擴大臨檢查獲KTV藏匿2名泰籍女子 | 觀傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zenlkUTBmQkV3ZjJJamVSOVc4RGlwN1NvVEJBQUQ2OHNWdEVzOXI1M2xoenhWWE9mTkJNUURieWJIODRiQWM2OG1sTTJYc3ZGYU8wVk5B?oc=5",
+          "time": "2026-07-12 23:50:14",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "yellow"
+        },
+        {
+          "title": "(有影片)/網傳「泰國妹免簽攻陷澎湖」 馬公分局擴大臨檢查獲KTV藏匿2名泰籍女子",
+          "url": "https://tw.news.yahoo.com/%E6%9C%89%E5%BD%B1%E7%89%87-%E7%B6%B2%E5%82%B3-%E6%B3%B0%E5%9C%8B%E5%A6%B9%E5%85%8D%E7%B0%BD%E6%94%BB%E9%99%B7%E6%BE%8E%E6%B9%96-%E9%A6%AC%E5%85%AC%E5%88%86%E5%B1%80%E6%93%B4%E5%A4%A7%E8%87%A8%E6%AA%A2%E6%9F%A5%E7%8D%B2ktv%E8%97%8F%E5%8C%BF2%E5%90%8D%E6%B3%B0%E7%B1%8D%E5%A5%B3%E5%AD%90-150719315.html",
+          "time": "2026-07-12 23:07:19",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖縣政府表揚特優村里長、績優村里幹事 肯定基層奉獻精神",
+          "url": "https://tw.news.yahoo.com/%E6%BE%8E%E6%B9%96%E7%B8%A3%E6%94%BF%E5%BA%9C%E8%A1%A8%E6%8F%9A%E7%89%B9%E5%84%AA%E6%9D%91%E9%87%8C%E9%95%B7-%E7%B8%BE%E5%84%AA%E6%9D%91%E9%87%8C%E5%B9%B9%E4%BA%8B-%E8%82%AF%E5%AE%9A%E5%9F%BA%E5%B1%A4%E5%A5%89%E7%8D%BB%E7%B2%BE%E7%A5%9E-140027488.html",
+          "time": "2026-07-12 22:00:27",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "陸海警船奔澎湖 與日艦對峙 | 中華日報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yMVpXaWRENER1cUVPdG54eV9ybDNST2hxQXRSNjJSY0pLWU15MGVHUk1OV1E5NnRBWGcyNGotRGkyenNkcTlva1RqajFHWDcwMHZDSHRn?oc=5",
+          "time": "2026-07-12 21:36:02",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖警方查獲2名外籍女子坐檯 林樹國局長頒破案茶慰勉辛勞",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjWFRtOWxHVVdoeTdkTFQzYnJSY0RlRVB3WmRCUG82eWhHQ1VScTk2clZXbEM1MDl2VmxTMmJpdUltOXA0SWFuVXZLbUtPVVpnc1FNcUo3MnB5RmlxeTRYNEdn?oc=5",
+          "time": "2026-07-12 21:20:59",
+          "publisher": "Google News→三星傳媒",
+          "severity": "yellow"
+        },
+        {
+          "title": "陸海警船奔澎湖 與日艦對峙",
+          "url": "https://www.cdns.com.tw/articles/1428794",
+          "time": "2026-07-12 21:16:28",
+          "publisher": "中華日報",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖警方查獲2名外籍女子坐檯 林樹國局長頒破案茶慰勉辛勞 - 社會新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaVV5UHQ2Q1B6SzlrSWhXdGRYcjgzNHp4cm5XT2p0cmJyNGgySGFvRmNsLUF2STVzaW4yVTZGRlNLbGI2aWNOOVZYSTczWUFHcUxxc053ZURmeDh5VTZFbEV1enZYQzdxVmltVnFnY1RiaUM4aWx3Rk1SMGNYRHhiR2JZY3hUd1lySmxPSUd6dllYUQ?oc=5",
+          "time": "2026-07-12 19:08:44",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖警方查獲2名外籍女子坐檯 林樹國局長頒破案茶慰勉辛勞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JLVFjZHp0R1ZHXzFINnNnQ3RQcWJuTnB4ZGEtbk41Rk83LUZ4UzA1elBieGVmT0FBTGZCRFJ1UEg5S3VTQmEwak54ekZKXzdkbVE?oc=5",
+          "time": "2026-07-12 19:08:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "海線立委戰局",
       "city": "台中",
       "place": "台中市沙鹿區",
@@ -1199,202 +1388,6 @@
           "signal": "yellow"
         }
       ]
-    },
-    {
-      "title": "澎湖地方動態",
-      "city": "澎湖",
-      "place": "澎湖縣政府",
-      "level": "yellow",
-      "news_count": 26,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 26,
-      "news_articles": [
-        {
-          "title": "教育部戶外教育課程選拔 澎湖合橫國小拿「學校績優獎」",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5503742",
-          "time": "2026-07-13 16:31:34",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "東嶼坪7旬男工人疑腦中風 澎湖駐地醫療直升機馳援搶命",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5503614",
-          "time": "2026-07-13 15:09:12",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "旺旺匠派為澎湖花火節添風味",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xV3A2ZGNWb0RFU3lQWmtheW85a2wxaGwxZW90MDJzaHpQcERkRkVISGN1aW9aZGdSZVRudzFkamMydVFrMDBCTERnRU5Ib0k?oc=5",
-          "time": "2026-07-13 14:04:26",
-          "publisher": "Google News→翻爆",
-          "severity": null
-        },
-        {
-          "title": "花火節白沙場限定！澎湖水族館夜間開館看夜行龍蝦、接力賞煙火- 瘋台灣",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85X3UtcWc5RHM2WGtxTGVGWlFYMWdCbkFEWk9uSEhsNjNkZU14dkFWNVJEX2NaN05sbTR6STZGdzBqaDdvZzJnR05PQlVJMTNESXBvU0ZoOUhKVWdfOTk1VkhldGlTdV9uNGl6MA?oc=5",
-          "time": "2026-07-13 13:29:54",
-          "publisher": "Google News→觸mii",
-          "severity": null
-        },
-        {
-          "title": "史上最多！陳光復退選後 澎湖縣長6強開打",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMEc5MEtxbm1zSVlIT1kyXy1UV3J6VWZ0NVhYM3cwT1djUnp6N0hETnhnT2k4ZTN5RFI2VWpLbGNzNU1yYUJZNElFZXMyNkxZQTZ5QWtMOEZoSk9vYVZOeHQxZWdpQ2JGcXFzYUJKSWhrOElKMURzLS1VVXV2eE5NdTF4SndwX283NlVCeVZxMEk5ZHNlT3NnOTJ2TnhNV29rbFp0Rk96YllKNkxCaVZYcDhZTUlUalBCQUktcHpIQnpRUV9mUk5uaVhWc01nVFo5YnJTTlRTYk10VjlkdUwwUmpTX0tId3FWd2E0RnYxN09BUGptOUU0Z3B0RVVlMEZDQ0J4V2ZNekZZck1VSXVUdzhzSGJOWXo2cnhNcmNHeXYxVU0?oc=5",
-          "time": "2026-07-13 13:28:13",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "「匠派」首度跨海聯手澎湖福朋喜來登酒店！璀璨花火之夜限定派樣 職人點心引爆海島夏日熱潮",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZcTVwQ3hYREFNd0RwMk5hbUNDdVdqQTJrVXNIMnVWNGhWTTgwWU5POXpEMC1qSXRWRmJzM0RtU1duaVZwMmlOaWNoYUZockpsOWlVS3pOcFowY3ltTkhfVlcwbGl0amZ5T3RsVg?oc=5",
-          "time": "2026-07-13 13:00:30",
-          "publisher": "Google News→觸mii",
-          "severity": null
-        },
-        {
-          "title": "澎湖水族館搭配花火節白沙場 延長夜間營業",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ebi1XZE9rOW9HQ3JDRE5BZ2J6U3FuQmFPYXhCb1AyWkN0UE5zSFMwRTFacDdXc00tZ3ZiSmlKSUQwYVFPajJsU1A5NDRCWlBacTVxTEx6UjRSYUpDVm12ZGhfak_SAWpBVV95cUxNckotUUQ0YlhaclBOSXdHQzNFaXRjNm80YUh3WU9RblRCX09uYjdYemJaZlpNY2VVcUQyODNESHFuSkprX1dOZ1pDaWd5OE1PcTd3VWotX2hGYl9UalBReWpoc2kxM2QtY29n?oc=5",
-          "time": "2026-07-13 11:48:18",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "廟口開講啟航 無黨澎湖縣長參選人葉竹林深入基層拉票",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5503279",
-          "time": "2026-07-13 10:49:46",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "巴威颱風小三通停航多日 馬祖今天中午加開黃岐港往白沙",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5503235",
-          "time": "2026-07-13 10:13:44",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "嘉市府啟動意願調查 小澎湖第一場公辦都市更新說明會舉行",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiSGhSWkw2Z2d6YXVOd29CTzJWeHE3N09ZanNVN3U5bEdPTHVPaXUyOXBKOVgtNmQ5VWtMS3BYaVpVNVZqYUg1dzhBUE9KTkFiSWIzY0lB?oc=5",
-          "time": "2026-07-13 10:10:07",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "嘉市府啟動意願調查 小澎湖第一場公辦都市更新說明會舉行 - 生活新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam53YTZmYXAyTU14cklzcmdzWU84SDk2TlAyUktLcHBzT1JsbVVkVjBZbFFpLXZzTEUwOFNYQkZmbFFqOWtGdUFjaDFNa0FDbFFaVnhRaU1aZ29FUFEwNFpKcHhzcUhPQl96ZGFkTlVLeml0U0ZSX2dwckhVLWtrTWxSdDA?oc=5",
-          "time": "2026-07-13 10:10:07",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "金城盃籃球賽 澎湖5校小將抱回金盃",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pQUw1STBFNEpIbm8xX0tpUzFBNU9BZTBvbENRS1ZFZk1NSTdYTFVoNS1vaVRtOVUwVG5vdWJOUGc5NF9XdV9aTTZyUy1MTmJCRXQ5VXh1Y2trV1NLTjhwdlo0MmlDeVdJNTh3?oc=5",
-          "time": "2026-07-13 07:59:49",
-          "publisher": "Google News→澎湖日報",
-          "severity": null
-        },
-        {
-          "title": "石空療育-澎湖石友會會員聯展 展出百餘件石藝",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pdEhOdUlidko1OGNxWjh0LW5LVFoxOEdiSGsyZ3U5STFhT0hEN0JjTDR6OUE0cnRmMDQwcEtOdkV0bm1pYVBGVGVkcHVRdUdSRFFtaWo2YUZqLTk0bEU1OWNpZ0VGOUx6eEpV?oc=5",
-          "time": "2026-07-13 07:44:49",
-          "publisher": "Google News→澎湖日報",
-          "severity": null
-        },
-        {
-          "title": "澎湖縣社區大學115年度春季班靜態成果展開幕",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhSHdlMXI1Qkg4OWxVc280RDZPV1RxNkEyeWZlRkZES2cydm9JWUVQNHY2dERKQkRVSVFOakk0VjZQNXFYS3FmRjM3TUpYVW1UMGM3NlJQZ193cGU4X2VIY0pudWlCY1FTWElxMllB?oc=5",
-          "time": "2026-07-13 07:39:49",
-          "publisher": "Google News→澎湖日報",
-          "severity": null
-        },
-        {
-          "title": "澎湖社區大學動態成果展 秀才藝 獻愛心",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfNGdiUnZETGJqUWNEQnlOYVlucWRobUxGWEtBOW5KVlJ4cFktUTJnakFJVWhQLVVVSV9ENnlkWldWYzBkLTRyT0YxWFRXOTNYWTBBMEs1d3V5M0JCUUtnaERWYllkZ29CbHBJ?oc=5",
-          "time": "2026-07-13 07:39:49",
-          "publisher": "Google News→澎湖日報",
-          "severity": null
-        },
-        {
-          "title": "旺旺匠派為澎湖花火節添風味- 時尚消費- 中國時報",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QYkE3cXdXam9NQmJhS3kxaU11UGFyb0VCb2ZBM0hmRG9HdkszRWlobzR3YWlMNGcxUlhoYTRYcGlOYmFQUEdUZ0s4cHlhYWI1X3loVVVkXzNZOUxQa2JqWGlES21HY1BrRUdF?oc=5",
-          "time": "2026-07-13 03:37:46",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "澎湖農產品展售活動7月18日登場 國際廣場安全溯源農產半價促銷",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQdWtjeUs4YjBfaFVVSVNQc0ZudWdRWmJmSTZhNGVTRlk5ank3MUtNVUJqNXZ4bWdhWVl4QllVemlGRkxtLUhFb0ZpdXpwamlKNks0T3RrUmlsdERkLUVGM1M5MExVU0ZtUHAyd25KbkFEbGYzdXpDY0ZSTjlNYmVVZUNCdi1rV3dvdVBUMkk5ZzNiamhuaWltLS1meFBVMURMdnhhQU5aTHNDcWR0UjBKUXBpSGd4UjF4UUg4RUxrZVp5VkoyeEtDZ1ZzbDlfZDFSUGt4X3NGMVpvMkIzZV9jeEktTGVHN2l2T3FhelE4Z2NqUEFjc19LakdJNEc2R0RSWk9yc1FLdjMzbzMyYWYyRTh2V1NjME41aTl3TndraEp4WFpPM1lhTG5DRnhabVA3a3dEWTd0X0p1R28?oc=5",
-          "time": "2026-07-13 00:02:04",
-          "publisher": "Google News→澎湖e傳媒",
-          "severity": null
-        },
-        {
-          "title": "(有影片)/網傳「泰國妹免簽攻陷澎湖」 馬公分局擴大臨檢查獲KTV藏匿2名泰籍女子 | 觀傳媒",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zenlkUTBmQkV3ZjJJamVSOVc4RGlwN1NvVEJBQUQ2OHNWdEVzOXI1M2xoenhWWE9mTkJNUURieWJIODRiQWM2OG1sTTJYc3ZGYU8wVk5B?oc=5",
-          "time": "2026-07-12 23:50:14",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "(有影片)/網傳「泰國妹免簽攻陷澎湖」 馬公分局擴大臨檢查獲KTV藏匿2名泰籍女子",
-          "url": "https://tw.news.yahoo.com/%E6%9C%89%E5%BD%B1%E7%89%87-%E7%B6%B2%E5%82%B3-%E6%B3%B0%E5%9C%8B%E5%A6%B9%E5%85%8D%E7%B0%BD%E6%94%BB%E9%99%B7%E6%BE%8E%E6%B9%96-%E9%A6%AC%E5%85%AC%E5%88%86%E5%B1%80%E6%93%B4%E5%A4%A7%E8%87%A8%E6%AA%A2%E6%9F%A5%E7%8D%B2ktv%E8%97%8F%E5%8C%BF2%E5%90%8D%E6%B3%B0%E7%B1%8D%E5%A5%B3%E5%AD%90-150719315.html",
-          "time": "2026-07-12 23:07:19",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖縣政府表揚特優村里長、績優村里幹事 肯定基層奉獻精神",
-          "url": "https://tw.news.yahoo.com/%E6%BE%8E%E6%B9%96%E7%B8%A3%E6%94%BF%E5%BA%9C%E8%A1%A8%E6%8F%9A%E7%89%B9%E5%84%AA%E6%9D%91%E9%87%8C%E9%95%B7-%E7%B8%BE%E5%84%AA%E6%9D%91%E9%87%8C%E5%B9%B9%E4%BA%8B-%E8%82%AF%E5%AE%9A%E5%9F%BA%E5%B1%A4%E5%A5%89%E7%8D%BB%E7%B2%BE%E7%A5%9E-140027488.html",
-          "time": "2026-07-12 22:00:27",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "陸海警船奔澎湖 與日艦對峙 | 中華日報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yMVpXaWRENER1cUVPdG54eV9ybDNST2hxQXRSNjJSY0pLWU15MGVHUk1OV1E5NnRBWGcyNGotRGkyenNkcTlva1RqajFHWDcwMHZDSHRn?oc=5",
-          "time": "2026-07-12 21:36:02",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖警方查獲2名外籍女子坐檯 林樹國局長頒破案茶慰勉辛勞",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjWFRtOWxHVVdoeTdkTFQzYnJSY0RlRVB3WmRCUG82eWhHQ1VScTk2clZXbEM1MDl2VmxTMmJpdUltOXA0SWFuVXZLbUtPVVpnc1FNcUo3MnB5RmlxeTRYNEdn?oc=5",
-          "time": "2026-07-12 21:20:59",
-          "publisher": "Google News→三星傳媒",
-          "severity": "yellow"
-        },
-        {
-          "title": "陸海警船奔澎湖 與日艦對峙",
-          "url": "https://www.cdns.com.tw/articles/1428794",
-          "time": "2026-07-12 21:16:28",
-          "publisher": "中華日報",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖警方查獲2名外籍女子坐檯 林樹國局長頒破案茶慰勉辛勞 - 社會新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaVV5UHQ2Q1B6SzlrSWhXdGRYcjgzNHp4cm5XT2p0cmJyNGgySGFvRmNsLUF2STVzaW4yVTZGRlNLbGI2aWNOOVZYSTczWUFHcUxxc053ZURmeDh5VTZFbEV1enZYQzdxVmltVnFnY1RiaUM4aWx3Rk1SMGNYRHhiR2JZY3hUd1lySmxPSUd6dllYUQ?oc=5",
-          "time": "2026-07-12 19:08:44",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖警方查獲2名外籍女子坐檯 林樹國局長頒破案茶慰勉辛勞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JLVFjZHp0R1ZHXzFINnNnQ3RQcWJuTnB4ZGEtbk41Rk83LUZ4UzA1elBieGVmT0FBTGZCRFJ1UEg5S3VTQmEwak54ekZKXzdkbVE?oc=5",
-          "time": "2026-07-12 19:08:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖馬公颱風夜擴大臨檢KTV廢棄置物櫃赫見2泰妹- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WQnNmNG0wN3RxTnNuQmo2ZEhYdEUtaXhIQWlmd2tKcVpQRVFpcmVyRnUyczJVdkNCOHQtMXVTdndKblkwVnkzZGZNMGlCbnZqLWh3VU9YTms?oc=5",
-          "time": "2026-07-12 18:36:10",
-          "publisher": "Google News→CMoney",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
     },
     {
       "title": "金門地方動態",
@@ -1737,11 +1730,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "yellow",
-      "news_count": 51,
+      "news_count": 50,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 57,
+      "urgency_score": 56,
       "news_articles": [
         {
           "title": "屏東飛車搶劫！ 搶匪後方扯包　女騎士重摔滿身傷",
@@ -2092,13 +2085,6 @@
           "time": "2026-07-12 18:49:15",
           "publisher": "Google News→民視新聞網",
           "severity": "yellow"
-        },
-        {
-          "title": "屏東女駕駛酒駕摔入水溝 整車直插水溝幸僅輕傷",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XeGExYW1nb1gxM2ItTDB0aC1RZGNkZlRLLVZ3c1NCVDlHYXl6VmxMZDBDWDZUc0FSMi1xZmZkTGV0SkR1X0dmQjdWSGc3THg3eW9xVW9MeEh3OGNuZXprMQ?oc=5",
-          "time": "2026-07-12 18:35:43",
-          "publisher": "Google News→民視新聞網",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -2108,11 +2094,11 @@
       "city": "台中",
       "place": "台中市政府",
       "level": "yellow",
-      "news_count": 32,
+      "news_count": 29,
       "comment_count": 35,
-      "negativity_pct": 6,
+      "negativity_pct": 7,
       "is_urgent": true,
-      "urgency_score": 79,
+      "urgency_score": 76,
       "news_articles": [
         {
           "title": "藍營全代會又現「選戰指揮權歸總統候選人」倡議 盧秀燕副手：每4年就會有人提",
@@ -2316,27 +2302,6 @@
           "time": "2026-07-13 07:04:09",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "颱風巴威來襲 盧秀燕親赴昔日「漂漂河」巡檢：防汛應變不鬆懈",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9renZVZVRFY2dVZm4yVWV6bnRheWNuLUVuRy04RlRMTGF2WVVUT1kxZkgtMUU5TXRXcXEzbFoxbWY0LUZvR2ZsNE1MV2Z5Ul92LWhtSGJWUXRlclg5NTNYTVg3SF9VV3Zxd3pqeGpNVF8?oc=5",
-          "time": "2026-07-12 18:40:48",
-          "publisher": "Google News→大成報",
-          "severity": null
-        },
-        {
-          "title": "颱風巴威來襲 盧秀燕親赴昔日「漂漂河」巡檢：防汛應變不鬆懈 - 生活新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdkxtUl9SYklXeDYxeGF0STZmMHp2N01LQ2diN2NwcVVSQ2drQlNiSC1nSjNmRzEyV0xZV05XU09TNmUtS0xqaEVpVXFadE9EOE9jNmluLURxLTVNaS11VkJXNTJTLWRQY0ZzTFhlQ05CMzl6ZUNLblJZRGxqSU1IUlVXVV9LODN5Yi12UQ?oc=5",
-          "time": "2026-07-12 18:39:03",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "颱風巴威來襲 盧秀燕親赴昔日「漂漂河」巡檢：防汛應變不鬆懈",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GMlowX01nMUozZFFZajR2NlRuQ2lLc0hOVTNqVlA5X3dJOG5taEhETGs5aG0wVmlWSG0zNFhJZk51UzBUWnJGQWdSWnJzdl9ZS1E?oc=5",
-          "time": "2026-07-12 18:39:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
         }
       ],
       "comments": [
@@ -2658,41 +2623,6 @@
       "comments": []
     },
     {
-      "title": "新竹縣弊案爭議",
-      "city": "新竹縣",
-      "place": "新竹縣政府",
-      "level": "red",
-      "news_count": 3,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 12,
-      "news_articles": [
-        {
-          "title": "新竹天坑案下午宣判 楊文科如因貪污罪判刑將停職",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5503486",
-          "time": "2026-07-13 13:47:30",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "最新／新竹縣長楊文科涉圖利建商遭起訴求重判 一審判決出爐",
-          "url": "https://tw.news.yahoo.com/%E6%9C%80%E6%96%B0-%E6%96%B0%E7%AB%B9%E7%B8%A3%E9%95%B7%E6%A5%8A%E6%96%87%E7%A7%91%E6%B6%89%E5%9C%96%E5%88%A9%E5%BB%BA%E5%95%86%E9%81%AD%E8%B5%B7%E8%A8%B4%E6%B1%82%E9%87%8D%E5%88%A4-%E5%AF%A9%E5%88%A4%E6%B1%BA%E5%87%BA%E7%88%90-082918073.html",
-          "time": "2026-07-13 08:29:18",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "竹北天坑案「圖利」遭起訴 新竹縣長楊文科今午一審宣判",
-          "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%8C%97%E5%A4%A9%E5%9D%91%E6%A1%88-%E5%9C%96%E5%88%A9-%E9%81%AD%E8%B5%B7%E8%A8%B4-%E6%96%B0%E7%AB%B9%E7%B8%A3%E9%95%B7%E6%A5%8A%E6%96%87%E7%A7%91%E4%BB%8A%E5%8D%88-%E5%AF%A9%E5%AE%A3%E5%88%A4-064520429.html",
-          "time": "2026-07-13 06:45:20",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "嘉義縣弊案爭議",
       "city": "嘉義縣",
       "place": "嘉義縣政府",
@@ -2722,6 +2652,41 @@
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hcEhzRzRobGhOdXd4MmE4VGo5ZGp5NVE2cFdnZEFqdXhrQUZZeVRaUWVKc1JYdzlpcmlXTE9KZlhyZ2N0X1B4NjdDMmE5cTRRWFhFcEJiTzByNThuUnNV?oc=5",
           "time": "2026-07-13 13:48:00",
           "publisher": "中央社",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新竹縣弊案爭議",
+      "city": "新竹縣",
+      "place": "新竹縣政府",
+      "level": "red",
+      "news_count": 3,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 12,
+      "news_articles": [
+        {
+          "title": "新竹天坑案下午宣判 楊文科如因貪污罪判刑將停職",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5503486",
+          "time": "2026-07-13 13:47:30",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "最新／新竹縣長楊文科涉圖利建商遭起訴求重判 一審判決出爐",
+          "url": "https://tw.news.yahoo.com/%E6%9C%80%E6%96%B0-%E6%96%B0%E7%AB%B9%E7%B8%A3%E9%95%B7%E6%A5%8A%E6%96%87%E7%A7%91%E6%B6%89%E5%9C%96%E5%88%A9%E5%BB%BA%E5%95%86%E9%81%AD%E8%B5%B7%E8%A8%B4%E6%B1%82%E9%87%8D%E5%88%A4-%E5%AF%A9%E5%88%A4%E6%B1%BA%E5%87%BA%E7%88%90-082918073.html",
+          "time": "2026-07-13 08:29:18",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "竹北天坑案「圖利」遭起訴 新竹縣長楊文科今午一審宣判",
+          "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%8C%97%E5%A4%A9%E5%9D%91%E6%A1%88-%E5%9C%96%E5%88%A9-%E9%81%AD%E8%B5%B7%E8%A8%B4-%E6%96%B0%E7%AB%B9%E7%B8%A3%E9%95%B7%E6%A5%8A%E6%96%87%E7%A7%91%E4%BB%8A%E5%8D%88-%E5%AF%A9%E5%AE%A3%E5%88%A4-064520429.html",
+          "time": "2026-07-13 06:45:20",
+          "publisher": "Yahoo新聞",
           "severity": "red"
         }
       ],
@@ -4111,11 +4076,11 @@
       "city": "新竹縣",
       "place": "新竹縣政府",
       "level": "red",
-      "news_count": 47,
+      "news_count": 46,
       "comment_count": 0,
-      "negativity_pct": 6,
+      "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 56,
+      "urgency_score": 55,
       "news_articles": [
         {
           "title": "【新聞一點靈】巴威重創！ 尖石3部落成孤島　停電3天靠囤糧苦撐　巴威肆虐苗栗南庄山區！ 交通中斷居民受困　弓箭拋繩運物資",
@@ -4438,13 +4403,6 @@
           "time": "2026-07-12 18:46:00",
           "publisher": "TVBS",
           "severity": "yellow"
-        },
-        {
-          "title": "新竹縣推動性別友善廁所 強化管理知能打造安全包容如廁環境",
-          "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNRVFqbVdhc0R6RE9oY1VJdDRQWks0YlJxVTQwaEpSem1WamFlMExrNHMybEZuVi1MWERmYUdwSXhzUng5YkpSNE9sNWJsSlBZZnBTZVZyalhCMUtyYy1VMVo0c2tGb1p6dk1jSXZmekc4SEgybk5mUm1ic2RpdGVPdlg2T1J5WFpadG9rQVlIb0c2c28xRGhBei0wMW1iWFJoNnlzNGQ5T09CSTBtOFlTRGQ2cTVIclNIMTZNV1lkbVFoUmhkcDJDUGhqa3pYZjFGZXlPa2UwYk0zdG5zNFlqU3dFRm9rZVRDRDFqTnlrTlJ0SmJQdklndnc3dHhGU0NmMGV6Ujl1LTVrQ09na0lEU1JqMnZOZGYzZ2NfQmlCV1pGWmVGNUJYNFdubXBnRVVrZGFqZWhqN29laUVfN2xmSUo2U0VVOHMtOGpycGU4cEIwNVhaOUNzSFdJVnUtaEFoM3dSbHFxbWlnN2F5cl9vUVU0enVxRlJ1UXZjMDIwVENON0M1cjdhRGgwRGRKZjRxcTVPeW9wZ2o?oc=5",
-          "time": "2026-07-12 18:41:53",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -4460,6 +4418,13 @@
       "is_urgent": false,
       "urgency_score": 56,
       "news_articles": [
+        {
+          "title": "邱明玉爆猛料「白派1人出征花蓮市長」！揭藍白2大震撼彈：逼傅崐萁合作？｜#台灣最前線",
+          "url": "https://www.youtube.com/watch?v=Lqj_YkGqHso",
+          "time": "2026-07-13 18:23:55",
+          "publisher": null,
+          "severity": null
+        },
         {
           "title": "獨／民眾黨插旗花蓮是「傅崐萁操盤奪權」？魏嘉賢正面回應了",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03QTZDemJUeTRJODRYWXU2Slo3RkdDcTJ3anRCVWZIM2wxajhZZzg3RkJfbHY2QTFVTDItQVNZM09yb2JRdHlWZnJaSTktZEpEUnczcG9wTzJzWlBITmpUcw?oc=5",
@@ -4822,13 +4787,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hZnJQQjUxZjZXbjdNZzd5U3hjSHI3U2dSbklTMEJfeFR6N0RPbkpLYWxXaS1pUmJRSXVUMDRYSXBzdlhNLXAyZlEtcjhVYkR2dDlmMktR?oc=5",
           "time": "2026-07-12 18:45:12",
           "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "花蓮市暑期羽球營開訓 培育運動新秀",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGMUVENXpFSmNmUktVeXhCcHhJdDhJOFkybHdscF81MHROM0lXNExrbnNzc09Yd2o1QlY2VV9jNDhyMWFRbTN5bmdaQUMtUmZDLWc?oc=5",
-          "time": "2026-07-12 18:35:12",
-          "publisher": "Google News→中華新聞雲／中華日報",
           "severity": null
         }
       ],
@@ -5266,11 +5224,11 @@
       "city": "新竹市",
       "place": "新竹市政府",
       "level": "red",
-      "news_count": 61,
+      "news_count": 60,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 67,
+      "urgency_score": 66,
       "news_articles": [
         {
           "title": "高虹安好姊妹參戰！民政處長施淑婷請辭 投入新竹市西區議員選舉",
@@ -5691,13 +5649,6 @@
           "time": "2026-07-12 18:43:00",
           "publisher": "風傳媒",
           "severity": null
-        },
-        {
-          "title": "強化火場應變與救災安全 竹市義消總隊年度訓練盛大登場",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0Mmc1ekJjUmdIeGhGU0NubVA3NDlJYktFUTBkZWc1SnlxeTAyY2hOaGpyclVuZWV5M0FabDVoX2otWjJOa1p2eVpKWkJNVDliU2c?oc=5",
-          "time": "2026-07-12 18:35:11",
-          "publisher": "Google News→中華新聞雲／中華日報",
-          "severity": null
         }
       ],
       "comments": []
@@ -5707,11 +5658,11 @@
       "city": "苗栗",
       "place": "苗栗縣政府",
       "level": "red",
-      "news_count": 73,
+      "news_count": 69,
       "comment_count": 0,
-      "negativity_pct": 7,
+      "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 88,
+      "urgency_score": 75,
       "news_articles": [
         {
           "title": "2026全國國中小大露營閃耀新北龍門‧苗栗五校聯團展現山城童軍活力",
@@ -6195,34 +6146,6 @@
           "time": "2026-07-12 19:00:19",
           "publisher": "Google News→LINE TODAY",
           "severity": null
-        },
-        {
-          "title": "巴威颱風剛走又有危機？苗栗2天雨量飆765毫米 未來一週降雨趨勢一圖看",
-          "url": "https://newtalk.tw/news/view/2026-07-12/1046616",
-          "time": "2026-07-12 18:42:19",
-          "publisher": "新頭殼",
-          "severity": "yellow"
-        },
-        {
-          "title": "巴威颱風剛走又有危機？苗栗2天雨量飆765毫米未來一週降雨趨勢一圖看| 生活",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sT3Jlc1B1OXA1R3dPRmRSRXdhN2JQTFFjRWFGVm5HdjRiQ0Q1NkNCMWwwU3N3SlNiRG9kc05zOEU3QnVfZ3VWaEtDYmpUSUhYVUhyRFBrUVprQ0E?oc=5",
-          "time": "2026-07-12 18:42:19",
-          "publisher": "Google News→Newtalk新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "巴威颱風剛走又有危機？苗栗2天雨量飆765毫米 未來一週降雨趨勢一圖看",
-          "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPV29sejRjODV3Ml80VDhtSFlFOXJRY3NlVjJqSVl5NEkxTUZfMkpzZllFZWtYVkZSbTE4TTJoM05xZnFTajhjM2NKOWozWU1zZTdMVFFRQTAwSzNOMkduZzBLMUJVR09VZUFTOTlLcmZaY2FkVXVtcnhiSGxSRjBZay1rNzYxclhsaXBHTTlNNEdaNGc4anRDR28wV2pYenFTWHQ1TF85SzZweU1YQmhuTEI4NDhJZ0pKUTJOQ2ZNTXhkWGE5VXhIVEdTYlFQWXZBQkdhUGtBbkg3QlVDaHEzcjA1endpUGJiS28wX1ZaeUdWYkg5ZlRVV0RWSFBYbmRMY05ieXBTeWJZdVc5UVZ6cnNOQ01fSlN1OV9WUGVLcXVTVDhJR1phZ2hVYk9CUTBiNFZJOGVsbnpOSVRpQkVKa1JSVzVUQmFXSzJYWXV2X0s5ZWhjTFZuT0dMZTRkdG0zcGtFYl8wMnVIOFFQbmVNcEhvbm9zaGRnTDdUQ2F0aWItVXBsOHRWTXhVNXR0SE1fajduUXdReWlzMlVLU0R2elJB?oc=5",
-          "time": "2026-07-12 18:42:19",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "颱風巴威致農損2,034萬元苗栗占逾7成最多- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMSktWbjB6WmV5Qmt6dHI5Q05LS3dqVDYtVlNEdGh6eHNOdHkzczFLRHlNUUZvT2xnYmpWV1UzTFU1UTF0ZWVEeGxCV0lEODF6Rmd2YXBuTlBFT3djZmU0?oc=5",
-          "time": "2026-07-12 18:40:00",
-          "publisher": "Google News→工商時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -6232,11 +6155,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 75,
+      "news_count": 76,
       "comment_count": 0,
       "negativity_pct": 11,
       "is_urgent": false,
-      "urgency_score": 99,
+      "urgency_score": 100,
       "news_articles": [
         {
           "title": "大雷雨夜襲！水利署：新北等4縣市淹水警戒 西螺時雨量破75毫米 | 天氣預報 | 生活",
@@ -6286,6 +6209,13 @@
           "time": "2026-07-13 17:10:56",
           "publisher": "中央社",
           "severity": "red"
+        },
+        {
+          "title": "🔴0713【Live】1740-2000東森晚安新聞／「巴威」遠離「海神」颱風接棒 對台影響曝／雨區擴大！新北、桃竹苗10縣市豪大雨特報／致癌油風暴再擴！76業者「好市多、瓦城、鬍鬚張」也中標",
+          "url": "https://www.youtube.com/watch?v=98JponrAHDg",
+          "time": "2026-07-13 17:04:07",
+          "publisher": null,
+          "severity": null
         },
         {
           "title": "新北豪雨特報 雲林以北、南投等地防大雨",
@@ -6771,11 +6701,11 @@
       "city": "高雄",
       "place": "高雄市前鎮區",
       "level": "red",
-      "news_count": 114,
+      "news_count": 113,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 120,
+      "urgency_score": 119,
       "news_articles": [
         {
           "title": "高雄萬豪酒店父親節饗宴登場 自助餐6人同行爸爸免費、中式桌席加菜送啤酒",
@@ -7567,13 +7497,6 @@
           "time": "2026-07-12 19:07:00",
           "publisher": "風傳媒",
           "severity": null
-        },
-        {
-          "title": "雄爭舞鬥暖身起跑！K-POP快閃首站高雄車站登場 四大地標接力炒熱國際街舞賽",
-          "url": "https://www.storm.mg/article/11148720",
-          "time": "2026-07-12 18:36:00",
-          "publisher": "風傳媒",
-          "severity": null
         }
       ],
       "comments": []
@@ -7583,11 +7506,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 134,
+      "news_count": 135,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 149,
+      "urgency_score": 153,
       "news_articles": [
         {
           "title": "國民黨立委萬美玲之子佀廣洋日前獲國民黨提名參選桃園市議員，卻因學生時期霸凌爭議延燒多日，今晚他發表聲明宣布放棄國民黨提名，強調不願個人事件造成黨內同志、長官困擾，也避免影響選戰布局，未來仍將繼續勤走基層、傾聽民意，以更謙卑的態度反省檢討。",
@@ -7693,6 +7616,13 @@
           "time": "2026-07-13 17:05:50",
           "publisher": "Google News→桃園電子報",
           "severity": null
+        },
+        {
+          "title": "【#頭家來開講】蔣萬安整備假出現\"決策後遺症\"！治療遭延誤恐掀\"醫療風暴\"？\"佀爭議\"燒出萬美玲發達之路？藍桃園選情遭拖累？",
+          "url": "https://www.youtube.com/watch?v=8MtPGtkI6Tg",
+          "time": "2026-07-13 16:58:55",
+          "publisher": null,
+          "severity": "yellow"
         },
         {
           "title": "桃園環保局「生活涼感配方」特展 以居家生活情境結合互動體驗",
@@ -8234,6 +8164,13 @@
           "severity": "yellow"
         },
         {
+          "title": "#LIVE【新台派上線】萬美玲兒佀廣洋霸凌案燒不停!傳KMT桃園黨部出手喬退選? 申報裡的財富密碼?中平重劃區.法人土地 萬美玲恐涉申報不實?｜李正皓 主持｜20260713",
+          "url": "https://www.youtube.com/watch?v=nvn0l-KJOQg",
+          "time": "2026-07-13 08:44:45",
+          "publisher": null,
+          "severity": null
+        },
+        {
           "title": "聯合防禦操演 M1A2T行駛桃園領航南橋破除過重疑慮",
           "url": "https://tw.news.yahoo.com/%E8%81%AF%E5%90%88%E9%98%B2%E7%A6%A6%E6%93%8D%E6%BC%94-m1a2t%E8%A1%8C%E9%A7%9B%E6%A1%83%E5%9C%92%E9%A0%98%E8%88%AA%E5%8D%97%E6%A9%8B%E7%A0%B4%E9%99%A4%E9%81%8E%E9%87%8D%E7%96%91%E6%85%AE-081905387.html",
           "time": "2026-07-13 08:19:05",
@@ -8519,13 +8456,6 @@
           "time": "2026-07-12 18:48:10",
           "publisher": "中華日報",
           "severity": "yellow"
-        },
-        {
-          "title": "獨家／傳佀廣洋不認霸凌！ 桃園黨部近期將「宣布退選」｜#鏡新聞",
-          "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOeHl6dHZ5OVdWZ1JrZnc5bjdrQ1AwUWR2VmRuaUhGRW85MVdzY2ZhUXJ4eXp2aXU2M2hWMzhKYjdGNWk3WHFxR3RGenhIb3RvaWVyUVNUdEVyYnhWZ1V2QTItcTBWRE5uQ05PNXo5S0ZyYllqSzlrcEhDbGdXVVlhRlhfeHFFM1otUGxxRW9PclV5OEp0SGZ6bnlaNzVUMS0tM3lSR1FxaDJfaVhjX2t1R3RHZGJaOFpqdngwY1ZMMXZOcjJMMFVBTTZ4UEF1N0hKNVhGeW5KZTgtRWJwdENrX1F2ZHF3dHM5S1ZMT24taEd6TmxfSER2S292YU40X2dCQmNUNXdPQ3JqejlQcE1lOFM1R0dqN3RFbHdJTTIwU2pkLVVId3d5ZldfRWVsTGxYZEliaTFkOHpxY3QwSkgybFY4LTVlWlB3NFFnbExCUDVMeU9RMmVTNlBZa2J2SGI1bjJsNVFVOXpEVUZzTGg4am1WcUpaRnZx?oc=5",
-          "time": "2026-07-12 18:40:40",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -8535,12 +8465,19 @@
       "city": "台中",
       "place": "台中市北屯區",
       "level": "red",
-      "news_count": 193,
+      "news_count": 195,
       "comment_count": 0,
       "negativity_pct": 8,
       "is_urgent": false,
-      "urgency_score": 238,
+      "urgency_score": 240,
       "news_articles": [
+        {
+          "title": "中市10月辦沖繩空中婚禮！盧秀燕選前敏感時機訪日？市府回應了",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JWUNOS2N1Qk5paVhOYktudGd2em5yZjVHbGVVeDdkM0hJSUhKU01BdDNTcEZPTTJVXzBqc0k2RnlkanhRZ3VvSVQyMzQwVjM0N0swd3hVLTY?oc=5",
+          "time": "2026-07-13 18:30:00",
+          "publisher": "Google News→梅花新聞網",
+          "severity": null
+        },
         {
           "title": "台中高美濕地陸蟹巡守活動報名開跑 和潤企業邀您來場生態探索之旅",
           "url": "https://www.ctee.com.tw/news/20260713701482-431208",
@@ -8552,6 +8489,13 @@
           "title": "盧秀燕廣告打到台北捷運 宣傳第2屆智慧台中論壇",
           "url": "https://news.nextapple.com/aitech/20260713/B157484B2699886D44D33A7E294E3261",
           "time": "2026-07-13 18:09:01",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "盧秀燕廣告打到台北捷運 宣傳第2屆智慧台中論壇",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIVlVZc1VHSDJLY2JxZkFfLWZLcU9GeWNhY0xKZDN5b3p1VmV1XzMwX1d1RkhNTG9RZXJyVmxiVXdpdUxnOHE3ZWRnUFo2UENxTzN3U2VCQ3NBeWZBY3NKOVBqNjJ5SGZqYzRhbVhWVjFieVFuZTVwdDdLTlJqQQ?oc=5",
+          "time": "2026-07-13 18:02:00",
           "publisher": "壹蘋新聞網",
           "severity": null
         },
@@ -9900,11 +9844,11 @@
       "city": "台北",
       "place": "台北市內湖區",
       "level": "red",
-      "news_count": 218,
+      "news_count": 220,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 254,
+      "urgency_score": 259,
       "news_articles": [
         {
           "title": "受訪遭抓包控制秒數！ 蔣萬安79秒轟賴政府　北市府議題34秒冷處理",
@@ -9938,6 +9882,13 @@
           "title": "盧秀燕廣告打到台北捷運 宣傳第2屆智慧台中論壇",
           "url": "https://news.nextapple.com/aitech/20260713/B157484B2699886D44D33A7E294E3261",
           "time": "2026-07-13 18:09:01",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "盧秀燕廣告打到台北捷運 宣傳第2屆智慧台中論壇",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIVlVZc1VHSDJLY2JxZkFfLWZLcU9GeWNhY0xKZDN5b3p1VmV1XzMwX1d1RkhNTG9RZXJyVmxiVXdpdUxnOHE3ZWRnUFo2UENxTzN3U2VCQ3NBeWZBY3NKOVBqNjJ5SGZqYzRhbVhWVjFieVFuZTVwdDdLTlJqQQ?oc=5",
+          "time": "2026-07-13 18:02:00",
           "publisher": "壹蘋新聞網",
           "severity": null
         },
@@ -9989,6 +9940,13 @@
           "time": "2026-07-13 17:05:00",
           "publisher": "鏡週刊",
           "severity": null
+        },
+        {
+          "title": "【#頭家來開講】蔣萬安整備假出現\"決策後遺症\"！治療遭延誤恐掀\"醫療風暴\"？\"佀爭議\"燒出萬美玲發達之路？藍桃園選情遭拖累？",
+          "url": "https://www.youtube.com/watch?v=8MtPGtkI6Tg",
+          "time": "2026-07-13 16:58:55",
+          "publisher": null,
+          "severity": "yellow"
         },
         {
           "title": "大茗芒果優格飲買一送一爆紅！台北中山站新店開幕 會員優惠一覽 | 美食旅遊 | 生活",
