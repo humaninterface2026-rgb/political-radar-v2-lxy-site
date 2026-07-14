@@ -52859,7 +52859,7 @@
     },
     {
       "date": "2026-07-14",
-      "snapshot_at": "2026-07-14T10:22:10.712294+00:00",
+      "snapshot_at": "2026-07-14T10:25:06.780599+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -52916,20 +52916,6 @@
           ]
         },
         {
-          "title": "屏東車禍事件",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "調解案8成是車禍…屏東縣成功率破7成 關鍵就在這群人"
-          ]
-        },
-        {
           "title": "高雄車禍事件",
           "city": "高雄",
           "place": "高雄市政府",
@@ -52944,7 +52930,7 @@
           ]
         },
         {
-          "title": "屏東詐騙案",
+          "title": "屏東車禍事件",
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "green",
@@ -52954,7 +52940,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "網購遊戲帳號落入陷阱 屏東東港警及時攔阻詐騙"
+            "調解案8成是車禍…屏東縣成功率破7成 關鍵就在這群人"
           ]
         },
         {
@@ -52983,6 +52969,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "獨家／新北婦被詐騙損2千萬改騙別人？ 遭控用「道士名義」騙60萬"
+          ]
+        },
+        {
+          "title": "屏東詐騙案",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "網購遊戲帳號落入陷阱 屏東東港警及時攔阻詐騙"
           ]
         },
         {
@@ -53158,20 +53158,6 @@
           ]
         },
         {
-          "title": "台南弊案爭議",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "【獨家】檢廉查陳凱凌爆案外案 台南市府政風人員涉包庇光電弊案"
-          ]
-        },
-        {
           "title": "高雄弊案爭議",
           "city": "高雄",
           "place": "高雄市政府",
@@ -53197,6 +53183,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "蘇澳鎮公所農業課涉大豆補助弊案 課員與青農被聲押"
+          ]
+        },
+        {
+          "title": "台南弊案爭議",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "【獨家】檢廉查陳凱凌爆案外案 台南市府政風人員涉包庇光電弊案"
           ]
         },
         {
@@ -53523,11 +53523,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 99,
+          "news_count": 97,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 120,
+          "urgency_score": 118,
           "sample_titles": [
             "黃國昌被問白營花蓮選情「假鬼假怪」？卓冠廷批：說謊成性！｜#頭家來開講",
             "走過考驗、迎接世界！2026雙大國際賽事盛夏接力 花蓮以強韌姿態重回國際舞台",
@@ -53540,10 +53540,10 @@
           "place": "台中市政府",
           "level": "red",
           "news_count": 96,
-          "comment_count": 24,
+          "comment_count": 23,
           "negativity_pct": 2,
           "is_urgent": true,
-          "urgency_score": 132,
+          "urgency_score": 131,
           "sample_titles": [
             "食安風暴未解 盧秀燕反對問題油急上架",
             "數發局長林谷隆接任副秘書長 盧秀燕卸任前小內閣補齊 | 中廣新聞網",
@@ -53571,11 +53571,11 @@
           "city": "台北",
           "place": "台北市內湖區",
           "level": "red",
-          "news_count": 154,
+          "news_count": 153,
           "comment_count": 0,
           "negativity_pct": 13,
           "is_urgent": false,
-          "urgency_score": 214,
+          "urgency_score": 213,
           "sample_titles": [
             "沈伯洋批北市「齊頭式砍樹」！公園處怒駁：自曝不懂市政 | 政治快訊 | 要聞",
             "悚！台北命案「1女明顯死亡、1女有意識送醫搶救」",
@@ -53587,11 +53587,11 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 158,
+          "news_count": 157,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 170,
+          "urgency_score": 169,
           "sample_titles": [
             "中市兼顧治水成效及親水文化建設 市長盧秀燕：打造安居永續城市",
             "10月出席沖繩為空中聯合婚禮證婚順道去訪日？台中市長盧秀燕：沒有出訪行程",
