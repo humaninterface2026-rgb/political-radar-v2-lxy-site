@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "snapshot_at": "2026-07-15T10:46:49.868546+00:00",
+  "snapshot_at": "2026-07-15T10:51:04.028628+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -18,6 +18,27 @@
           "url": "https://tw.news.yahoo.com/%E7%AC%AC1%E5%90%8D%E4%B8%8D%E6%98%AF%E5%8C%97%E5%B1%AF-%E5%8F%B0%E4%B8%AD%E6%96%B0%E5%B1%8B%E4%BA%A4%E6%98%9310%E5%A4%A7%E7%86%B1%E5%8D%80%E5%87%BA%E7%88%90-3%E5%A4%A7%E5%B1%AF%E5%8D%80-%E6%B5%B7%E7%B7%9A4%E9%9B%84%E5%86%8D%E4%B8%8A%E6%A6%9C-055800447.html",
           "time": "2026-07-15 13:58:00",
           "publisher": "Yahoo新聞",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新北火災事件",
+      "city": "新北",
+      "place": "新北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "模擬火災+豪雨來襲 桃園石門大圳防災演練",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5505431",
+          "time": "2026-07-14 22:50:59",
+          "publisher": "自由時報",
           "severity": null
         }
       ],
@@ -66,27 +87,6 @@
       "comments": []
     },
     {
-      "title": "新北火災事件",
-      "city": "新北",
-      "place": "新北市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "模擬火災+豪雨來襲 桃園石門大圳防災演練",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5505431",
-          "time": "2026-07-14 22:50:59",
-          "publisher": "自由時報",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "花蓮車禍事件",
       "city": "花蓮",
       "place": "花蓮縣政府",
@@ -102,27 +102,6 @@
           "url": "https://tw.news.yahoo.com/%E8%8A%B145%E7%B8%A3%E9%81%93%E8%BB%8A%E7%A6%8D2%E5%82%B7-%E8%90%AC%E6%A6%AE%E5%85%AC%E6%89%80%E4%BA%BA%E5%93%A1%E6%8B%92%E7%B5%95%E9%85%92%E6%B8%AC-%E5%9C%96-042124575.html",
           "time": "2026-07-15 12:21:24",
           "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "桃園陳情/抗議",
-      "city": "桃園",
-      "place": "桃園市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "桃園推動靜桃3.0有成 AI聲紋辨識助攻噪音車陳情降4成",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2Sjd6UFhLVF9VMWJqLW9xRmhfdmNpWFhvTlEwdjE0OWJGcEhjVWk3NUhOMzJnc1ctNDc3eEhRTHBhT2VuV2hKZnB2eVI?oc=5",
-          "time": "2026-07-15 17:08:52",
-          "publisher": "Google News→桃園電子報",
           "severity": "yellow"
         }
       ],
@@ -165,6 +144,27 @@
           "url": "https://www.mirrormedia.mg/story/20260715edi008",
           "time": "2026-07-15 10:26:00",
           "publisher": "鏡週刊",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "桃園陳情/抗議",
+      "city": "桃園",
+      "place": "桃園市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "桃園推動靜桃3.0有成 AI聲紋辨識助攻噪音車陳情降4成",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2Sjd6UFhLVF9VMWJqLW9xRmhfdmNpWFhvTlEwdjE0OWJGcEhjVWk3NUhOMzJnc1ctNDc3eEhRTHBhT2VuV2hKZnB2eVI?oc=5",
+          "time": "2026-07-15 17:08:52",
+          "publisher": "Google News→桃園電子報",
           "severity": "yellow"
         }
       ],
@@ -1723,41 +1723,6 @@
       "comments": []
     },
     {
-      "title": "宜蘭弊案爭議",
-      "city": "宜蘭",
-      "place": "宜蘭縣政府",
-      "level": "red",
-      "news_count": 3,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 12,
-      "news_articles": [
-        {
-          "title": "剛辭宜蘭縣黨部主委！林明昌涉偽造罷免書昨遭判刑 鄭麗文：你委屈了",
-          "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNenozUExBNTJNMGlydGZ4QkQ1WUNWYzI3T2hQZXlzaW9JSlE0clRvQ2hPNG5OOFhNNm5RaWlUT0pOZE13SmZmbWpVOEw3Mm1nMjZvbUhjb05RcEpzdEdTUmpjQmlFNmtuN2dLbHlGODdMR1lNaFBaenEwSzFaQmFSRmNhaGp4bTlIN2ppTkhNZGRVaExpZEpnOEdxOVdQejlQOHo5VEQ1SGFUWFhxeGRHVnJaZ1ZyY1d0c3c5MXgza0F0bnJMbFd5dmxaSE1aTjJ1bEZ1RkpPbDBqa0s0em1JWnBIUjJwSVNqenVEbURkcE50ZGxlTnYzR1gzMHNVempYYjVEM0liU1BBRG12bHowNU5EaXBFOHZPMHdJa0pCd3FwSXZTRV9HUDFkYjVTTkRpTXNpQmhCQXZDZVJLQ3p4S2ZONXIxR1pqemNmR2UyUFluZlNmMmFOYnE3ZUlUN25GOHNBai04VFZTc1R0RkM5blZ5cERNajMzekpSQmh6eEF2aDNkRkltbFZKWEJmbzNiV1FOZ3pwMkRpc1VyeUZQRGdqOUtwUm1BNVYyWmd5ZGNNWXc?oc=5",
-          "time": "2026-07-15 15:02:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "涉偽造罷免連署判刑1年半 國民黨宜蘭縣黨部主委林明昌：上訴到底 | 中廣新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfdUVxV2VzbV9pSGRxTWNPZERocmNDRC1DZml1eXExR2hhejBxMnVzOUZOOHlmdDgtT2NoS2dXd1B2ODQ0aDNvNkZ6QWVwMDBmMG1UOXdB?oc=5",
-          "time": "2026-07-14 18:55:16",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "red"
-        },
-        {
-          "title": "蘇澳鎮百大青農胞弟涉補助弊案 課員疑放水2人羈押禁見",
-          "url": "https://more-news.tw/666651/",
-          "time": "2026-07-14 18:53:05",
-          "publisher": "墨新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "彰化弊案爭議",
       "city": "彰化",
       "place": "彰化縣政府",
@@ -1787,6 +1752,41 @@
           "url": "https://www.cna.com.tw/news/asoc/202607150149.aspx",
           "time": "2026-07-15 14:28:08",
           "publisher": "中央社",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "宜蘭弊案爭議",
+      "city": "宜蘭",
+      "place": "宜蘭縣政府",
+      "level": "red",
+      "news_count": 3,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 12,
+      "news_articles": [
+        {
+          "title": "剛辭宜蘭縣黨部主委！林明昌涉偽造罷免書昨遭判刑 鄭麗文：你委屈了",
+          "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNenozUExBNTJNMGlydGZ4QkQ1WUNWYzI3T2hQZXlzaW9JSlE0clRvQ2hPNG5OOFhNNm5RaWlUT0pOZE13SmZmbWpVOEw3Mm1nMjZvbUhjb05RcEpzdEdTUmpjQmlFNmtuN2dLbHlGODdMR1lNaFBaenEwSzFaQmFSRmNhaGp4bTlIN2ppTkhNZGRVaExpZEpnOEdxOVdQejlQOHo5VEQ1SGFUWFhxeGRHVnJaZ1ZyY1d0c3c5MXgza0F0bnJMbFd5dmxaSE1aTjJ1bEZ1RkpPbDBqa0s0em1JWnBIUjJwSVNqenVEbURkcE50ZGxlTnYzR1gzMHNVempYYjVEM0liU1BBRG12bHowNU5EaXBFOHZPMHdJa0pCd3FwSXZTRV9HUDFkYjVTTkRpTXNpQmhCQXZDZVJLQ3p4S2ZONXIxR1pqemNmR2UyUFluZlNmMmFOYnE3ZUlUN25GOHNBai04VFZTc1R0RkM5blZ5cERNajMzekpSQmh6eEF2aDNkRkltbFZKWEJmbzNiV1FOZ3pwMkRpc1VyeUZQRGdqOUtwUm1BNVYyWmd5ZGNNWXc?oc=5",
+          "time": "2026-07-15 15:02:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "涉偽造罷免連署判刑1年半 國民黨宜蘭縣黨部主委林明昌：上訴到底 | 中廣新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfdUVxV2VzbV9pSGRxTWNPZERocmNDRC1DZml1eXExR2hhejBxMnVzOUZOOHlmdDgtT2NoS2dXd1B2ODQ0aDNvNkZ6QWVwMDBmMG1UOXdB?oc=5",
+          "time": "2026-07-14 18:55:16",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "red"
+        },
+        {
+          "title": "蘇澳鎮百大青農胞弟涉補助弊案 課員疑放水2人羈押禁見",
+          "url": "https://more-news.tw/666651/",
+          "time": "2026-07-14 18:53:05",
+          "publisher": "墨新聞",
           "severity": "red"
         }
       ],
@@ -3526,11 +3526,11 @@
       "city": "金門",
       "place": "金門縣政府",
       "level": "red",
-      "news_count": 58,
+      "news_count": 57,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 61,
+      "urgency_score": 60,
       "news_articles": [
         {
           "title": "金門醫療新里程碑！完成首例腹主動脈瘤破裂重建手術 89歲翁成功續命 | 生活 | 要聞",
@@ -3929,13 +3929,6 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vNE9VeHJJZ0wxMUMwYm9jaDVBR3pVZ0hxRFhUR3Y3YkNCbXpQOXFaaWdIWEgtSHJKajhnRkg0bXZoTDMtSDM0N1RPZi03ZXZaTUUyRXlZb1FfQUEyQjdxdkFRZmZySzNGelHSAW9BVV95cUxNd3ZYOGdrRGktZWoyX01oRFJtaThQNi1uSlVLbEZsdFdMNFFNaEdQdXhBUzlYVUJMSVlaTFJoUjM5S2ZoalN6QVZwVmhlUWE5Y3ktWnhDRWFTc1hvbHVzTzBkdFhxZ3hNcFVGeG1kSVU?oc=5",
           "time": "2026-07-14 18:53:24",
           "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "4艘中國海警船襲擾金門水域 海巡：應克制不理性挑釁",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OMGNueVJqWGhVcExUWExiQ0w5VmJuckJ5Y3A4UThYT05pUnRpWC1ISk9ENmlGaXJLZFc5alBmdkhSeHZXQkJyYUU3NHZoMGR4TkJuRGFlcw?oc=5",
-          "time": "2026-07-14 18:46:24",
-          "publisher": "Google News→rti.org.tw",
           "severity": "yellow"
         }
       ],
@@ -9820,11 +9813,11 @@
       "city": "台中",
       "place": "台中市西區府後街",
       "level": "red",
-      "news_count": 276,
+      "news_count": 274,
       "comment_count": 0,
       "negativity_pct": 16,
       "is_urgent": false,
-      "urgency_score": 408,
+      "urgency_score": 406,
       "news_articles": [
         {
           "title": "【新聞一點靈】中聯問題油延燒　卓揆感謝中市府聯手、盧秀燕：中央該道歉　藍營猛攻致癌油「綠友友」翻車　政治獻金紀錄曝光糗大",
@@ -11742,20 +11735,6 @@
           "url": "https://www.thehubnews.net/archives/644285",
           "time": "2026-07-14 19:00:00",
           "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "何欣純提「綠蔭倍增3主張」 推2030綠蔭倍增、10分鐘生活圈打造綠色台中",
-          "url": "https://www.thehubnews.net/archives/644281",
-          "time": "2026-07-14 18:49:00",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "[Gossiping] [新聞] 肉搏站前「肉搏戰」！台中通緝犯拒捕與",
-          "url": "https://www.ptt.cc/bbs/Gossiping/M.1784026077.A.DC5.html",
-          "time": "2026-07-14 18:47:57",
-          "publisher": null,
           "severity": null
         }
       ],
