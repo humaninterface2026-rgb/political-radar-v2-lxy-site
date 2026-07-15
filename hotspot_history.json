@@ -53552,7 +53552,7 @@
     },
     {
       "date": "2026-07-15",
-      "snapshot_at": "2026-07-15T01:21:42.944073+00:00",
+      "snapshot_at": "2026-07-15T01:31:19.575131+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -53597,20 +53597,6 @@
           ]
         },
         {
-          "title": "新竹市槍擊事件",
-          "city": "新竹市",
-          "place": "新竹市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "2026.07.14 16:45 竹市東區驚傳槍擊案！ 嫌犯持槍與警火拼中彈"
-          ]
-        },
-        {
           "title": "新竹縣槍擊事件",
           "city": "新竹縣",
           "place": "新竹縣政府",
@@ -53622,6 +53608,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "快訊／新竹東區爆命案！男遭砍身亡 警開4槍擊中外籍嫌犯"
+          ]
+        },
+        {
+          "title": "新竹市槍擊事件",
+          "city": "新竹市",
+          "place": "新竹市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "2026.07.14 16:45 竹市東區驚傳槍擊案！ 嫌犯持槍與警火拼中彈"
           ]
         },
         {
@@ -53717,21 +53717,6 @@
           "sample_titles": []
         },
         {
-          "title": "桃園車禍事件",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "八德死亡車禍！ 腳踏車騎士被撞飛傷重不治",
-            "桃園八德死亡車禍！自行車遭汽車猛撞 騎士噴飛重摔慘死"
-          ]
-        },
-        {
           "title": "新北車禍事件",
           "city": "新北",
           "place": "新北市政府",
@@ -53744,6 +53729,21 @@
           "sample_titles": [
             "​新北大漢橋嚴重車禍！機車猛撞噴飛汽車道 2人重傷留一灘血",
             "新北大漢橋車禍…2人渾身傷送醫！女騎士見地留一灘血困惑問：是腦漿嗎"
+          ]
+        },
+        {
+          "title": "桃園車禍事件",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "八德死亡車禍！ 腳踏車騎士被撞飛傷重不治",
+            "桃園八德死亡車禍！自行車遭汽車猛撞 騎士噴飛重摔慘死"
           ]
         },
         {
@@ -53955,11 +53955,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 9,
+          "news_count": 7,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 36,
+          "urgency_score": 28,
           "sample_titles": [
             "桃園18人封街飆車燒胎！桃檢偵結起訴 10車全聲請沒收",
             "桃園檢警查緝飆車集團檢察官偵結起訴18人聲請沒收10輛汽機車| 法律前線| 社會",
@@ -54019,11 +54019,11 @@
           "city": "台東",
           "place": "台東縣政府",
           "level": "red",
-          "news_count": 37,
+          "news_count": 35,
           "comment_count": 0,
-          "negativity_pct": 5,
+          "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 43,
+          "urgency_score": 41,
           "sample_titles": [
             "台東卑南溪風飛沙惹民怨 環保局允建預警資訊、續推水覆蓋",
             "出門記得帶傘！午後雨彈開炸「降雨熱區曝光」 台東防焚風來襲",
@@ -54083,11 +54083,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 59,
+          "news_count": 57,
           "comment_count": 0,
-          "negativity_pct": 15,
+          "negativity_pct": 16,
           "is_urgent": false,
-          "urgency_score": 86,
+          "urgency_score": 84,
           "sample_titles": [
             "國民黨宜蘭主委林明昌 判1年半",
             "宜蘭道路改善不當 縣府挨轟賊仔政府",
@@ -54115,11 +54115,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 65,
+          "news_count": 64,
           "comment_count": 0,
           "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 86,
+          "urgency_score": 85,
           "sample_titles": [
             "新北市與嘉義市 頂峰相見！臺灣規模最大 「影響力創新奧斯卡」揭曉",
             "​新北大漢橋嚴重車禍！機車猛撞噴飛汽車道 2人重傷留一灘血",
@@ -54131,11 +54131,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 94,
+          "news_count": 91,
           "comment_count": 0,
-          "negativity_pct": 5,
+          "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 109,
+          "urgency_score": 103,
           "sample_titles": [
             "花蓮萬里溪堰塞湖 距溢流口不到3公尺",
             "花蓮市場旁大火 愛犬救主傳佳話",
@@ -54147,11 +54147,11 @@
           "city": "高雄",
           "place": "高雄市三民區",
           "level": "red",
-          "news_count": 106,
+          "news_count": 105,
           "comment_count": 0,
           "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 142,
+          "urgency_score": 141,
           "sample_titles": [
             "高雄在地廠成全球龍頭！ 股價衝破萬元",
             "當代藝術進駐金融地標 中信當代繪畫獎中信總部、高雄亞灣分行亮相",
@@ -54179,11 +54179,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 129,
+          "news_count": 125,
           "comment_count": 0,
-          "negativity_pct": 13,
+          "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 180,
+          "urgency_score": 170,
           "sample_titles": [
             "萬美玲遭檢舉漏報財產 房地遭揭「桃園巴菲特」？2／丈夫建設公司持股遭質疑未申報 萬美玲：依法辦理",
             "桃園旅遊｜買菜巴士出發！ 不當極限行軍派，我在客庄市場玩上癮",
@@ -54211,11 +54211,11 @@
           "city": "台中",
           "place": "台中市南屯區",
           "level": "red",
-          "news_count": 214,
+          "news_count": 210,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 229,
+          "urgency_score": 225,
           "sample_titles": [
             "中市府出席法國國慶酒會 深化台法夥伴關係、攜手拓展經貿文化交流",
             "台中113年家戶可支配所得成長率六都第一 每戶支配117萬",
