@@ -53552,22 +53552,8 @@
     },
     {
       "date": "2026-07-15",
-      "snapshot_at": "2026-07-15T01:31:19.575131+00:00",
+      "snapshot_at": "2026-07-15T01:37:12.821576+00:00",
       "hotspots": [
-        {
-          "title": "海線立委戰局",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 1,
-          "sample_titles": [
-            "2026米其林必比登搶先報 台中海線2老店連莊：每年都像中獎"
-          ]
-        },
         {
           "title": "盧秀燕訪美外交",
           "city": "台中",
@@ -53639,20 +53625,6 @@
           ]
         },
         {
-          "title": "彰化車禍事件",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "休旅車疑未禮讓鳴笛救護車 彰化秀水車禍4傷送醫"
-          ]
-        },
-        {
           "title": "屏東車禍事件",
           "city": "屏東",
           "place": "屏東縣政府",
@@ -53664,6 +53636,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "調解案8成是車禍…屏東縣成功率破7成 關鍵就在這群人"
+          ]
+        },
+        {
+          "title": "彰化車禍事件",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "休旅車疑未禮讓鳴笛救護車 彰化秀水車禍4傷送醫"
           ]
         },
         {
@@ -53679,42 +53665,6 @@
           "sample_titles": [
             "澎湖小管干市價一斤千元以上 警方籲提防網路低價詐騙"
           ]
-        },
-        {
-          "title": "廚餘山",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 0,
-          "comment_count": 2,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 6,
-          "sample_titles": []
-        },
-        {
-          "title": "垃圾山",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 0,
-          "comment_count": 2,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 6,
-          "sample_titles": []
-        },
-        {
-          "title": "藍營路線爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 0,
-          "comment_count": 2,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 6,
-          "sample_titles": []
         },
         {
           "title": "新北車禍事件",
@@ -53747,6 +53697,18 @@
           ]
         },
         {
+          "title": "藍營路線爭議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 0,
+          "comment_count": 3,
+          "negativity_pct": 0,
+          "is_urgent": true,
+          "urgency_score": 9,
+          "sample_titles": []
+        },
+        {
           "title": "嘉義市地方動態",
           "city": "嘉義市",
           "place": "嘉義市政府",
@@ -53760,6 +53722,20 @@
             "新北市與嘉義市 頂峰相見！臺灣規模最大 「影響力創新奧斯卡」揭曉",
             "9 . 選嘉義市議員！柯莉絲汀徵外牆掛看板 被問「民眾黨嗎」親回應",
             "新北市與嘉義市頂峰相見！臺灣規模最大「影響力創新奧斯卡」揭曉"
+          ]
+        },
+        {
+          "title": "海線立委戰局",
+          "city": "台中",
+          "place": "台中市沙鹿區",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 5,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 8,
+          "sample_titles": [
+            "2026米其林必比登搶先報 台中海線2老店連莊：每年都像中獎"
           ]
         },
         {
@@ -53777,6 +53753,30 @@
             "連江縣政府統計 6月馬祖空中航線直飛率88.9%",
             "說唱藝術進駐馬祖新村 「眷村串門：家家有故事」帶領親子聽相聲"
           ]
+        },
+        {
+          "title": "垃圾山",
+          "city": "台中",
+          "place": "台中市大里區",
+          "level": "green",
+          "news_count": 0,
+          "comment_count": 10,
+          "negativity_pct": 0,
+          "is_urgent": true,
+          "urgency_score": 30,
+          "sample_titles": []
+        },
+        {
+          "title": "廚餘山",
+          "city": "台中",
+          "place": "台中市霧峰區",
+          "level": "green",
+          "news_count": 0,
+          "comment_count": 11,
+          "negativity_pct": 0,
+          "is_urgent": true,
+          "urgency_score": 29,
+          "sample_titles": []
         },
         {
           "title": "嘉義縣地方動態",
@@ -53919,6 +53919,22 @@
           ]
         },
         {
+          "title": "宜蘭弊案爭議",
+          "city": "宜蘭",
+          "place": "宜蘭縣政府",
+          "level": "red",
+          "news_count": 3,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 12,
+          "sample_titles": [
+            "涉幽靈連署罷免國民黨宜蘭主委林明昌判刑1年半| 法律前線| 社會",
+            "涉偽造罷免連署 國民黨宜蘭主委林明昌判刑1年半",
+            "國民黨宜蘭縣黨部主委林明昌涉偽造民進黨立委陳俊宇罷免連署 判刑1年半"
+          ]
+        },
+        {
           "title": "台北狼師事件",
           "city": "台北",
           "place": "台北市政府",
@@ -53932,22 +53948,6 @@
             "北市前偵查隊長涉性侵下屬 二審仍判刑7年",
             "北市前偵查隊長涉性侵下屬 二審仍判刑7年",
             "北市前偵查隊長陳彥錦4度性侵女隊員 二審維持7年徒刑"
-          ]
-        },
-        {
-          "title": "宜蘭弊案爭議",
-          "city": "宜蘭",
-          "place": "宜蘭縣政府",
-          "level": "red",
-          "news_count": 4,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 16,
-          "sample_titles": [
-            "涉幽靈連署罷免國民黨宜蘭主委林明昌判刑1年半| 法律前線| 社會",
-            "涉偽造罷免連署 國民黨宜蘭主委林明昌判刑1年半",
-            "國民黨宜蘭縣黨部主委林明昌涉偽造民進黨立委陳俊宇罷免連署 判刑1年半"
           ]
         },
         {
@@ -54067,11 +54067,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 42,
+          "news_count": 40,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 42,
+          "urgency_score": 40,
           "sample_titles": [
             "苗栗縣115年山城校園歌喉戰決賽 82位選手展現歌藝一較高下",
             "6年練一劍 苗栗市水果新品牌「台中一號」芒果產期有優勢",
@@ -54131,11 +54131,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 91,
+          "news_count": 89,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 103,
+          "urgency_score": 101,
           "sample_titles": [
             "花蓮萬里溪堰塞湖 距溢流口不到3公尺",
             "花蓮市場旁大火 愛犬救主傳佳話",
@@ -54163,15 +54163,15 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "red",
-          "news_count": 101,
-          "comment_count": 7,
+          "news_count": 102,
+          "comment_count": 21,
           "negativity_pct": 2,
-          "is_urgent": false,
-          "urgency_score": 116,
+          "is_urgent": true,
+          "urgency_score": 137,
           "sample_titles": [
             "誓言打造亞洲智慧城市示範重鎮 盧秀燕北捷宣傳點燃臺中打造AI機器人製造基地決心",
-            "兼顧治水成效及親水文化建設 盧秀燕：打造安居永續城市",
-            "臨淵履薄的執政哲學：從人事佈局看盧秀燕的政治深謀與2028全局"
+            "誓言打造亞洲智慧城市示範重鎮 盧秀燕北捷宣傳點燃臺中打造AI機器人製造基地決心",
+            "兼顧治水成效及親水文化建設 盧秀燕：打造安居永續城市"
           ]
         },
         {
@@ -54211,11 +54211,11 @@
           "city": "台中",
           "place": "台中市南屯區",
           "level": "red",
-          "news_count": 210,
+          "news_count": 207,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 225,
+          "urgency_score": 222,
           "sample_titles": [
             "中市府出席法國國慶酒會 深化台法夥伴關係、攜手拓展經貿文化交流",
             "台中113年家戶可支配所得成長率六都第一 每戶支配117萬",
