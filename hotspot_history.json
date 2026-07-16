@@ -54350,7 +54350,7 @@
     },
     {
       "date": "2026-07-16",
-      "snapshot_at": "2026-07-16T10:44:51.855865+00:00",
+      "snapshot_at": "2026-07-16T10:56:07.363332+00:00",
       "hotspots": [
         {
           "title": "台北鼠患事件",
@@ -54381,20 +54381,6 @@
           ]
         },
         {
-          "title": "新竹縣陳情/抗議",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "竹北璞玉自救會赴政院陳情 (圖)"
-          ]
-        },
-        {
           "title": "台中陳情/抗議",
           "city": "台中",
           "place": "台中市政府",
@@ -54409,9 +54395,9 @@
           ]
         },
         {
-          "title": "桃園陳情/抗議",
-          "city": "桃園",
-          "place": "桃園市政府",
+          "title": "新竹縣陳情/抗議",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -54419,35 +54405,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "靜桃3.0科技執法見效 桃園噪音陳情降四成打造安寧城市"
-          ]
-        },
-        {
-          "title": "雲林詐騙案",
-          "city": "雲林",
-          "place": "雲林縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "雲林縣府推AI偵測詐騙 上路1個月揪413則高風險廣告"
-          ]
-        },
-        {
-          "title": "澎湖詐騙案",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "澎湖小管旺季驚現詐騙! 盜用影片稱現撈低價爆卵魷魚 | 民視新聞網"
+            "竹北璞玉自救會赴政院陳情 (圖)"
           ]
         },
         {
@@ -54462,6 +54420,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "影/台中環保局稽查餐廳遭控「態度惡劣像收保護費」！主廚怒轟：以為是詐騙集團！"
+          ]
+        },
+        {
+          "title": "雲林詐騙案",
+          "city": "雲林",
+          "place": "雲林縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "雲林縣府推AI偵測詐騙 上路1個月揪413則高風險廣告"
           ]
         },
         {
@@ -54563,20 +54535,6 @@
           "sample_titles": []
         },
         {
-          "title": "彰化弊案爭議",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "彰化合成皮廠涉逃漏空污費 勾結環工技師造假6人遭起訴"
-          ]
-        },
-        {
           "title": "台北弊案爭議",
           "city": "台北",
           "place": "台北市政府",
@@ -54602,6 +54560,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "國民黨澎湖前議長劉陳昭玲貪污案 判刑7年6月定讞"
+          ]
+        },
+        {
+          "title": "彰化弊案爭議",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "彰化合成皮廠涉逃漏空污費 勾結環工技師造假6人遭起訴"
           ]
         },
         {
@@ -54909,11 +54881,11 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "red",
-          "news_count": 26,
+          "news_count": 25,
           "comment_count": 0,
-          "negativity_pct": 12,
+          "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 35,
+          "urgency_score": 31,
           "sample_titles": [
             "創連10屆當選紀錄！澎湖前議長「劉陳昭玲」涉貪 遭判7年6月定讞",
             "國民黨澎湖前議長劉陳昭玲貪污案 判刑7年6月定讞",
@@ -54969,6 +54941,22 @@
           ]
         },
         {
+          "title": "金門地方動態",
+          "city": "金門",
+          "place": "金門縣政府",
+          "level": "red",
+          "news_count": 42,
+          "comment_count": 0,
+          "negativity_pct": 5,
+          "is_urgent": false,
+          "urgency_score": 48,
+          "sample_titles": [
+            "韓股槓桿風暴後祭鐵腕！禁發新單一股票槓桿ETF 保證金門檻一口氣提高3倍",
+            "竹市加碼838戶社宅 金城安居動土拚2029年完工 | 中廣新聞網",
+            "中聯油品案 金門下架受影響油品近2千公斤"
+          ]
+        },
+        {
           "title": "台南地方動態",
           "city": "台南",
           "place": "台南市政府",
@@ -54985,31 +54973,15 @@
           ]
         },
         {
-          "title": "金門地方動態",
-          "city": "金門",
-          "place": "金門縣政府",
-          "level": "red",
-          "news_count": 43,
-          "comment_count": 0,
-          "negativity_pct": 5,
-          "is_urgent": false,
-          "urgency_score": 49,
-          "sample_titles": [
-            "韓股槓桿風暴後祭鐵腕！禁發新單一股票槓桿ETF 保證金門檻一口氣提高3倍",
-            "竹市加碼838戶社宅 金城安居動土拚2029年完工 | 中廣新聞網",
-            "中聯油品案 金門下架受影響油品近2千公斤"
-          ]
-        },
-        {
           "title": "宜蘭地方動態",
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 57,
+          "news_count": 54,
           "comment_count": 0,
-          "negativity_pct": 16,
+          "negativity_pct": 17,
           "is_urgent": false,
-          "urgency_score": 84,
+          "urgency_score": 81,
           "sample_titles": [
             "影／撐傘騎「電動行李箱」逛大街！悠哉宜蘭女讓人驚嚇 警將開罰",
             "鄭麗文1句激怒綠營！民進黨揭宜蘭藍營2人：要延續貪汙與造假？ | 民視新聞網",
@@ -55053,11 +55025,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 82,
+          "news_count": 81,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 88,
+          "urgency_score": 87,
           "sample_titles": [
             "最新新北國旅補助7/20開跑！全民皆可領1000元 申請方式看圖秒懂 | 美食旅遊 | 生活",
             "新北最高buffet驚傳熄燈！50樓Cafe只營業到9月底 Asia49也要關 | 美食旅遊 | 生活",
@@ -55069,11 +55041,11 @@
           "city": "高雄",
           "place": "高雄市三民區",
           "level": "red",
-          "news_count": 104,
+          "news_count": 102,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 107,
+          "urgency_score": 105,
           "sample_titles": [
             "淨空天際線、升級行人安全中市交通局打造沙鹿三民路友善通行環境",
             "香港樂團點名高雄美食 許願合作YELLOW黃宣",
@@ -55101,11 +55073,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 137,
+          "news_count": 136,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 167,
+          "urgency_score": 163,
           "sample_titles": [
             "注意！桃園21日將停水 估影響1.5萬戶",
             "靈鷲山水陸空大法會7／22桃園巨蛋登場 張善政：安定地方的關鍵力量",
@@ -55117,11 +55089,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 164,
+          "news_count": 159,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 164,
+          "urgency_score": 159,
           "sample_titles": [
             "花蓮萬里溪堰塞湖紅色警戒 萬榮鄉萬榮村15:00起停班停課",
             "花蓮萬里溪堰塞湖紅色警戒！公路封閉 台鐵降速「退票免手續費」",
@@ -55133,11 +55105,11 @@
           "city": "台北",
           "place": "台北市內湖區",
           "level": "red",
-          "news_count": 198,
+          "news_count": 197,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 267,
+          "urgency_score": 266,
           "sample_titles": [
             "苗博雅質疑缺席北市食安會 蔣萬安回嗆：沒蓋牌、更沒神隱",
             "台灣再遇外交逆風！巴紐宣布關閉台北經濟辦事處 官網仍正常運作 | 國際要聞 | 全球",
@@ -55149,11 +55121,11 @@
           "city": "台中",
           "place": "台中市沙鹿區",
           "level": "red",
-          "news_count": 249,
+          "news_count": 248,
           "comment_count": 0,
           "negativity_pct": 18,
           "is_urgent": false,
-          "urgency_score": 384,
+          "urgency_score": 383,
           "sample_titles": [
             "快新聞／中聯油風波延燒！轟中市府查驗不實 綠營嗆盧秀燕：不用道歉？",
             "議員批中聯油4年僅抽驗1次中市府：非每年固定檢驗| 地方",
