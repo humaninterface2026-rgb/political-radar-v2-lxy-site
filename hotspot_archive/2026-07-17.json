@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "snapshot_at": "2026-07-17T02:48:22.617303+00:00",
+  "snapshot_at": "2026-07-17T02:50:00.377025+00:00",
   "hotspots": [
     {
       "title": "台北公廁議題",
@@ -19,27 +19,6 @@
           "time": "2026-07-16 22:43:40",
           "publisher": "墨新聞",
           "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "高雄車禍事件",
-      "city": "高雄",
-      "place": "高雄市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "高雄婦人紅燈左轉釀車禍 2女騎士受傷送醫",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5507407",
-          "time": "2026-07-16 14:40:08",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -87,6 +66,27 @@
       "comments": []
     },
     {
+      "title": "高雄車禍事件",
+      "city": "高雄",
+      "place": "高雄市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "高雄婦人紅燈左轉釀車禍 2女騎士受傷送醫",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5507407",
+          "time": "2026-07-16 14:40:08",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "台中陳情/抗議",
       "city": "台中",
       "place": "台中市政府",
@@ -102,27 +102,6 @@
           "url": "https://www.youtube.com/watch?v=CLPe6XhHAQ4",
           "time": "2026-07-16 21:32:35",
           "publisher": null,
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "新北詐騙案",
-      "city": "新北",
-      "place": "新北市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "影》板橋街頭警匪追逐！ 詐騙車手狂逃仍遭警棍破窗逮捕",
-          "url": "https://www.chinatimes.com/realtimenews/20260716004379-260402",
-          "time": "2026-07-16 19:48:07",
-          "publisher": "中時新聞網",
           "severity": "yellow"
         }
       ],
@@ -186,6 +165,27 @@
           "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQSDhIaHhCay1keGRkZWF1eVpkUmJNMk5Ya2R3akRtcUhDZHZqekF2WmxkR2NJRnp2b0kwVTREajUxZUY0TUJSbk8tT28tekY5ZDlZT3ZCYUJPYTd1SF9jZlVmSktkblVEZ1pGM1VGQUt5bjd6aTVwbHJYSGlVTUU2N2FDNjNKaFJqa2NySkNZSDNlbUlOcktSVHZXM1p6dHNyM3VaRGNvOW5vZTQtUnItdzRSZGdERGxhYWhWM1A0N2d6UzQtN1RqOXd1eE5lRXMxbVJwVHRSNWRTRDM1U2tSUlhOSDJrRWd2M05BbFU2RkFnMG9MQk5kMExvaVVtMVpMUGpUQlk0dG9yMmtwOVByRXQ1bmpLS0Y3LUgyWTRFeGVDQUd2OGhkQm9YMGhpUnZDWUx1Qnh2NTZfbnNLN0FSOVF0QjFuV0JWTDFBT0YtWExOSEZQdnNXX19GUzh1eUhmeVF2d1UwWQ?oc=5",
           "time": "2026-07-16 19:09:09",
           "publisher": "Google News→報新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新北詐騙案",
+      "city": "新北",
+      "place": "新北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "影》板橋街頭警匪追逐！ 詐騙車手狂逃仍遭警棍破窗逮捕",
+          "url": "https://www.chinatimes.com/realtimenews/20260716004379-260402",
+          "time": "2026-07-16 19:48:07",
+          "publisher": "中時新聞網",
           "severity": "yellow"
         }
       ],
@@ -1189,6 +1189,34 @@
       "comments": []
     },
     {
+      "title": "桃園弊案爭議",
+      "city": "桃園",
+      "place": "桃園市政府",
+      "level": "red",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "桃園交警改開較輕罰單 涉圖利3駕駛被起訴",
+          "url": "https://www.cna.com.tw/news/asoc/202607160228.aspx",
+          "time": "2026-07-16 16:22:45",
+          "publisher": "中央社",
+          "severity": "red"
+        },
+        {
+          "title": "桃園「佛系交警」涉圖利罪起訴 取締嚴重違規卻「輕罰」被抓包",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uSkIxSFFldmNGXzFkYTN1dEdnMHhqaUpGb0U4V0lmNDM2Rm0xb2FCVVhoV1pVQ0luTlRVbjdJRmp2S3R1WUVkclo1RHl4R3V0Q3lOcTUxUkk2dW5MWlHSAWhBVV95cUxNWkRRN0Nod1ppOGdEdEZBY2JuOWRkOUNMTnZMaG1wbVFBOFFOSGYzU2c5eDNPajI2bHBuWkhIU1p6cXFPUUZRblIybEFfTVZZX183NEFsUlBfVVVyRWtJdk9JZGVzZWR4Uw?oc=5",
+          "time": "2026-07-16 14:47:00",
+          "publisher": "ETtoday",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "澎湖弊案爭議",
       "city": "澎湖",
       "place": "澎湖縣政府",
@@ -1239,34 +1267,6 @@
           "url": "https://www.chinatimes.com/realtimenews/20260716002578-260402",
           "time": "2026-07-16 12:59:57",
           "publisher": "中時新聞網",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "桃園弊案爭議",
-      "city": "桃園",
-      "place": "桃園市政府",
-      "level": "red",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "桃園交警改開較輕罰單 涉圖利3駕駛被起訴",
-          "url": "https://www.cna.com.tw/news/asoc/202607160228.aspx",
-          "time": "2026-07-16 16:22:45",
-          "publisher": "中央社",
-          "severity": "red"
-        },
-        {
-          "title": "桃園「佛系交警」涉圖利罪起訴 取締嚴重違規卻「輕罰」被抓包",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uSkIxSFFldmNGXzFkYTN1dEdnMHhqaUpGb0U4V0lmNDM2Rm0xb2FCVVhoV1pVQ0luTlRVbjdJRmp2S3R1WUVkclo1RHl4R3V0Q3lOcTUxUkk2dW5MWlHSAWhBVV95cUxNWkRRN0Nod1ppOGdEdEZBY2JuOWRkOUNMTnZMaG1wbVFBOFFOSGYzU2c5eDNPajI2bHBuWkhIU1p6cXFPUUZRblIybEFfTVZZX183NEFsUlBfVVVyRWtJdk9JZGVzZWR4Uw?oc=5",
-          "time": "2026-07-16 14:47:00",
-          "publisher": "ETtoday",
           "severity": "red"
         }
       ],
@@ -2085,272 +2085,6 @@
       "comments": []
     },
     {
-      "title": "新竹市地方動態",
-      "city": "新竹市",
-      "place": "新竹市政府",
-      "level": "red",
-      "news_count": 36,
-      "comment_count": 0,
-      "negativity_pct": 17,
-      "is_urgent": false,
-      "urgency_score": 54,
-      "news_articles": [
-        {
-          "title": "竹市金城安居社宅動土 提供837戶",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxRzduWUR3LUdZUkFYS3B5a3JzMm5EdmExQzM3akZOZDd5UWJuWUg2dm5aeUY0RXVIUC1rRUVEM1BBWEY5dHNDZWY3UnNzbURsY3pDRkc0c1hYcDTSAWBBVV95cUxNTkJCc2xGb1pxY2VXR3JZUUxyWW1UU2N0WHhBTVI4TVAyVjNGdXNOZzBaMC1qSnRTaWZvdWY2MzJCd3MxQnk2c2dXNE5hMXc5ZGkydE4tWU5zcGlBX3lwaGg?oc=5",
-          "time": "2026-07-17 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "竹市第3處社宅838戶動土 預計2029年完工",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03Y2Naa01vajNJWFNoTzI2N3pUZzViMWRCWTRLNFI1NWFuTXg5NnhDQXdGd0RlYmtISHJqMkEwSlZZTE8yMmdDaXB1MFlaMUVK0gFWQVVfeXFMT3Y3LXplUGZSb25VN1ZWRktQWEhWT0s0RTlWMG9yOW1Rd0J2NlR6SFhrdk9EWk9DejBxZUtELXVFQ2ZpcDFWNm0yMkc0UFFEQmU1a0JPUEE?oc=5",
-          "time": "2026-07-17 00:45:43",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "竹市高虹安宣布泡水車慰問金專案啟動！李玫爭取「泡水車納補助」獲採納",
-          "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%B8%82%E9%AB%98%E8%99%B9%E5%AE%89%E5%AE%A3%E5%B8%83%E6%B3%A1%E6%B0%B4%E8%BB%8A%E6%85%B0%E5%95%8F%E9%87%91%E5%B0%88%E6%A1%88%E5%95%9F%E5%8B%95-%E6%9D%8E%E7%8E%AB%E7%88%AD%E5%8F%96-%E6%B3%A1%E6%B0%B4%E8%BB%8A%E7%B4%8D%E8%A3%9C%E5%8A%A9-%E7%8D%B2%E6%8E%A1%E7%B4%8D-151426981.html",
-          "time": "2026-07-16 23:14:26",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "新竹市預算大增200億竟換來工程停擺！莊競程批高虹安把不建設當政績",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5507966",
-          "time": "2026-07-16 22:56:14",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "感謝無名英雄守護城市安全 竹市調升警消協勤人員聯誼活動費",
-          "url": "https://tw.news.yahoo.com/%E6%84%9F%E8%AC%9D%E7%84%A1%E5%90%8D%E8%8B%B1%E9%9B%84%E5%AE%88%E8%AD%B7%E5%9F%8E%E5%B8%82%E5%AE%89%E5%85%A8-%E7%AB%B9%E5%B8%82%E8%AA%BF%E5%8D%87%E8%AD%A6%E6%B6%88%E5%8D%94%E5%8B%A4%E4%BA%BA%E5%93%A1%E8%81%AF%E8%AA%BC%E6%B4%BB%E5%8B%95%E8%B2%BB-112146134.html",
-          "time": "2026-07-16 19:21:46",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "竹市力推青年職涯準備計畫高虹安：打造全方位就業支持，助青年順利接軌職場- 政府消息新聞- PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ1paZWpVQ1dGRmZ3TlBjS2lCX1FUUnVBS0V1V0tkckdwSUwwMFlJdTlpdHI5bVF5VFFyWGRad3VLYzhmdzJRb2tXWTd1NGtJbnY2WVRCWGxVMEZZUHpxazhKTk9XN1dWNjQ5Q3JQLVhKaHZ1MktiRmdYU2l4cVlrRV9DazFqMEhaLTEw?oc=5",
-          "time": "2026-07-16 17:53:36",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "竹市加碼838戶社宅 金城安居動土拚2029年完工 | 中廣新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PaGxCVFJxNnBwQ2xJckxRbVk1QW1pbmZyc0UwUFVGWW9lSHBTbldHdloyRXdidGE1SE55TC1VU3ZxSEhXZzVBcDVqM3FZM3JzQzhWcnR3?oc=5",
-          "time": "2026-07-16 17:11:11",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "維護乾淨選風 竹市檢警攜手強化查賄制暴",
-          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOVk52Q0dhbzVQc0RFbWZhNEp2YjY5Yzhmem5TMl9qV3NDeng4djBtc3RUNmFpdFo2Y1l6WFpWdjFCakZWRjA4OVk5LVMxZEdGNmNlbHFsUHFzWXd0NVZQdHV1SEl5S201a25yR0E0YVlIb1ZGUW9EUmlvVmxEMEVrWTc0dmg4X0NLNGRpYWZkLXdXZngzdTdNTHZ0UXhRRk10NS1jRFNObWRqYmZSanVWSGpwakhLLXZkVktablZQRzVYVnZ4WGZ5T2M1OElzQUV6ampBV214T2Q2SXppMENhMExjaDdKVko3aURMMkIwRjdPZnE2RTFSWi1MOGo4b2pxMlJuZXYwVGIySWtQZ1hndkZqbUlFdUJxQ1hUSDRwMHkwdTZPdmpMN0RXQ2pFWkYwOExZdTJ2UGhod21iaFl4MkJYLWlVellMZVNxQi1rN3pMcURnQmRZRVVvZ2ROUm5nLXNqTnR1aDA?oc=5",
-          "time": "2026-07-16 17:06:12",
-          "publisher": "Google News→台灣好新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "慈濟、新竹市都發處攜手 公寓大廈管理人員防災士培訓",
-          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPdWhKYVNVek9JZXlDcnNhcGtDSzJBMlhiRkdwOWI4TC1HaWdLbDRYY3BvSWNJTmZ0MXk2aUxndVUxQkJTYjc0cGR6R010NlREX1QtOGxEZlV5QXpMdldjVnVmanJWaFBYNVo4bTNhem1wLUVpSHRiUHhndTBDM1dQZ2FGRXAxNlJBSDAyVk41Zks1Z0o2VG14OVJxLVJ5NkctVS1uQm9UMGg0NGE5RzFwZXVXLXdxeHE2SVJuNmVOdHF3M1dkRUt6bUdTTTVrU1pLZkRjRnMxVTZEcUJEcWlvNkszM3JkUGl6YkZIejRDVVVpZE1UcThhZW5HZ2hIaVhJdExYVnJHMlAwbzFmUHJyT2dLOXdjNlE2cUdDbU5vZEU3bUlnanE4RXR0Y1phbUc4TTRDRTB6NTgtdTRPa0JzczJGMmZlaGFuSE05a3ZRV1ZtVGZRRkVHQThjZ0ZIYmRHVzlvRmpmNFFtUQ?oc=5",
-          "time": "2026-07-16 16:45:03",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "慈濟、新竹市都發處攜手 公寓大廈管理人員防災士培訓 - 生活新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLXlkcWo1cGhMN0FjdHBFVHI0aGdCdWxaRXkyVWI3aGZmNUhoeVRMVzR3NUpvTF9HYWVMc2lHb0daVEVEUndUbUtndW53aTBZQ2hITHg1TWFMTXYzR0NDZ2RTY0RQQUN2UTN5Um41Qm4tR1ZaLWhhRkhSdWowSFVZWXZ0UlNFMHgx?oc=5",
-          "time": "2026-07-16 16:45:03",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "竹市社宅開工 馬士元：中央地方合作完善居住照顧",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xYnVycGNQTUVILVBBS0pWZFFRalJZdzNIc0YzdUs5SXg1dUczTFFYREdmS282TlNtdkJGaGpZVkV3cFpRUmpUUWRKczltekVtNmc?oc=5",
-          "time": "2026-07-16 16:28:12",
-          "publisher": "Google News→放言Fount Media",
-          "severity": null
-        },
-        {
-          "title": "重大刑案發生 竹市警二分局全力偵辦並獲慰勉一線同仁依法果斷處置",
-          "url": "https://focus.586.com.tw/2026/07/16/p395636/",
-          "time": "2026-07-16 16:20:57",
-          "publisher": "焦點時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "新竹市衛生局前科長夥男友收賄千萬助廠商規避廣告裁罰！二審仍重判| 三立新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLeU01Nno2WjY5NFdtRVRzNjZxRjQwYXczLVh1U3N6elJBMkQwbTNnS042OWFSNWhUZjhSTGhWem1hUDlQQVdJQ1hLWlZBWDc1SFNqRzVB?oc=5",
-          "time": "2026-07-16 16:17:07",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "red"
-        },
-        {
-          "title": "新竹市衛生局前科長涉貪！千件違規廣告遭「喬掉」 二審判決出爐 | 民視新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11eWJpRnV6emRYRm1CSFI4MEE4ckV2RUxGWHM5SVpNQzc0MjlQTDh2VmdTUGZZNGhGOUxITlJtNlZXbmo0d1BIU0hOQ0F3S29odlNRa3B3?oc=5",
-          "time": "2026-07-16 16:07:21",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "red"
-        },
-        {
-          "title": "行政院動員業務訪評蒞竹市 高虹安市長：強化全社會防衛韌性 打造安全宜居科技城",
-          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=47439d67-acef-4557-a2cd-58d37177f840",
-          "time": "2026-07-16 15:45:56",
-          "publisher": "新竹市政府",
-          "severity": null
-        },
-        {
-          "title": "新竹市衛生局前科長涉貪！千件違規廣告遭「喬掉」 二審判決出爐",
-          "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOcHc0NTZJb2M4NEhKNWFLUFVkYlE4UkxxZWNJbWd6UXNZS3FhY0JkUGo3VHg2SnNGWkJkcHpNajRZTWN2NlRFUTRFZFU1UHpwR2xsdEc2enNJTklRVVE0RUxyZXVHR3IyaW1xLVFFVkU2LTdhUDhwMTQtSERtYUFzQ3FXalQyRnNRYnY0aWI1bFhTZC1kdWZCbkgzX0lSNWRlOE1lXzFMWWIwa3UwNE5kZm9yamU4eHhEMzJ4WkpNeGJOWEtNSkxINGRRVUczbHhaOGVMblAxdnFWZEVITTlLRVRVMjJvT0FPNDEzSTZOUml0ZjQ0TG1zbDNjbUFDX1dLb2ZNMlRBVFFhYzA4OWxpaTl1dWpxcjdUeDVMcU5UenIwVmRBNE03TjNNNnU1OHA2eVBwbXVRRFlseUNPX2JEVHgyWC1VWWpFMEhLZUN4VS1GbERTLVgyRmZlR2RsdXBDaUk4X1hRZVVNSUR0Qk16ZkVCVzRUX2pfYlNEU3ByS1AzSzFtaXNFdjdsZmsyVHM?oc=5",
-          "time": "2026-07-16 15:45:38",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "快新聞／新竹市衛生局前科長涉貪！千件違規廣告遭「喬掉」 二審判決出爐",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SeWRZUjExeC1WdG96LXVjS2JiWTlwTEZtQzRBME5WQXhLcGM0UlB1U1BENFJCTFVaWFFBV3pfY0hNRmNpQjc3ZFE4NVozZHhUZ0ZLVzFvRzVfQVQ0TDRzVg?oc=5",
-          "time": "2026-07-16 15:45:38",
-          "publisher": "Google News→民視新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "收賄千萬護航廠商勾銷罰單 竹市衛局科長鄭舒倫二審維持16年",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5507492",
-          "time": "2026-07-16 15:32:52",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "新竹市衛生局前科長夥男友收賄千萬 助廠商規避廣告裁罰！二審仍重判",
-          "url": "https://tw.news.yahoo.com/%E6%96%B0%E7%AB%B9%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80%E5%89%8D%E7%A7%91%E9%95%B7%E5%A4%A5%E7%94%B7%E5%8F%8B%E6%94%B6%E8%B3%84%E5%8D%83%E8%90%AC-%E5%8A%A9%E5%BB%A0%E5%95%86%E8%A6%8F%E9%81%BF%E5%BB%A3%E5%91%8A%E8%A3%81%E7%BD%B0-%E4%BA%8C%E5%AF%A9%E4%BB%8D%E9%87%8D%E5%88%A4-071800843.html",
-          "time": "2026-07-16 15:18:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "新竹市府前科長伙男友收賄 二審仍重判",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yVzJ3UVgyQXI4MHdMU016bWZHcmt5MXVQZHJjNE8wajVVS1VUQTRVQm03TDQ2N2k3SFhVZ1hvSDZreWp4N3p2NmQtVFNZX1pzQ0lOQ2VpbzJzdGhM0gFiQVVfeXFMUDRta2xFLVpFNXYtZVZXZXFqamNoLVFLZ2lRWXI0WG40UDlnVjMxMVpFUjZLX1MwSUE1R2R3ZUx1dGdiNi1PRDZDbUltRTMyLWdrZS1oaTdNWENTTnlZZTBJa2c?oc=5",
-          "time": "2026-07-16 15:13:00",
-          "publisher": "Google News→鏡週刊Mirror Media",
-          "severity": "red"
-        },
-        {
-          "title": "行政院動員業務訪評蒞竹市 高虹安市長：打造安全宜居科技城",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XejVaaENYNFF2dHFxajNZYzZVQXhfTkl2SWtjMTVLSjNkNGlLYzMxMmt0MlFaeDJ2QVdNOVFzVnR3dE5ON0ZsZUY3Sm1hZ3g3TFRHVW5n?oc=5",
-          "time": "2026-07-16 15:12:59",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "竹市「金城安居」社宅開工 高虹安市長：逐步落實居住正義",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SWmpXN1BVeEZOWEdkU0JORzBBT2JyZTFOVEsxUmg3bkppaERwcUR6eWpsSVBTU2xkN21Xb055eExTRk1ZM3pZQjlSclJzN05nRlE?oc=5",
-          "time": "2026-07-16 15:06:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "助違規廠商免罰二審 前竹市衛生局科長仍判16年",
-          "url": "https://www.cna.com.tw/news/asoc/202607160186.aspx",
-          "time": "2026-07-16 15:01:15",
-          "publisher": "中央社",
-          "severity": "red"
-        },
-        {
-          "title": "新竹市家長聯合會花蓮教育參訪拜訪東華大學飽覽綠色大學風采- 生活新聞- PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2t3eGRUcDdfaDRWd01CdDJ5ZjRySGo5UWRIdk1kVlA0TlAzaGh2NjA0TWJGZTJBNlh6ZTdqLXFya2RJNzhET0VCdXRBcW4wRTFiWks1VzYzek1IRnQ3cEpXRmNEUFBEWi1RX0ZmRFdtV21ZTDRZMDZfbUlDUU94dUJQTng?oc=5",
-          "time": "2026-07-16 14:53:15",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "新竹市家長聯合會花蓮教育參訪 拜訪東華大學飽覽綠色大學風采",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YV2JuUkxmVVhyYXJVM0RmM2NKUmlEVUJYNTJLOGxTaGs5dElEREtYOHhCdURNZ0xlaEVla2o3T28xQ3ZYdjRaOWotQkI2bzRwTzNZb3JR?oc=5",
-          "time": "2026-07-16 14:53:15",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "新竹市家長聯合會花蓮教育參訪 拜訪東華大學飽覽綠色大學風采",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9raVJ5Smhna09QeTdZUkdFTXJiREdCX1RiamJhT1VveE56dHlQckdKYkg0VEIxLXF5OHNXSzJ4TmF4bHFHVldYN3F6QmdsNU1xREE?oc=5",
-          "time": "2026-07-16 14:53:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "竹市「金城安居」社宅開工！高虹安市長：逐步落實居住正義！",
-          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=f92d0060-ea51-41c7-ad5d-c46dafa67838",
-          "time": "2026-07-16 14:24:20",
-          "publisher": "新竹市政府",
-          "severity": null
-        },
-        {
-          "title": "竹市首度調升警消協勤人員聯誼活動費至2,000元！ 高虹安市長：感謝無名英雄守護城市安全",
-          "url": "https://more-news.tw/667974/",
-          "time": "2026-07-16 13:54:26",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "綠營新竹市長參選人莊競程攜手10小雞7/18首場造勢活動",
-          "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPU2Rmd3ZOaGgtcFctSFd6bS1oS1dBd2Nad0ltVFdVR3J2T19RRnF4ZlBHbHFvM1prOEtFTUZBbFdTaW5CYWJuQUFlZ01fX2wtM0FKdkV5R0NXck51SndIbTdnMkpXWkNCeF8tTXVESGVTd21PYkpfblB4UjJmZ2hiUFhhNmlMSC1KNFpTTndDQkdCMFFqaEtrN0RhMWZsOGdqdHJZSTlNRktYbTIwck9Fa2pNS1lxenN6dThSbkJPOE1TdDRLbzNwMm9UNklKZ2Z1aG1JUjE0OU9WR3ZmNWRYVUpVSDJCSi1YRUpUUWRCbXFMR2VJczBpSWtod1B1alhOVWtXV2MwbWNOVnlpbjMzZEtPSWFKNm1wVnNtSGJCN3BKSW5Ua2hNMzhPRTJFcnBDelFzdUlKdFVnSzNtUzdIVUEzcVUxVV9ZNmpQdGJqbGJfY3RlM2Y3elVmcmozRFhBeVZ3?oc=5",
-          "time": "2026-07-16 13:15:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "感謝守護城市安全 竹市首度調升警消協勤人員聯誼活動費至2,000元！",
-          "url": "https://n.yam.com/Article/20260716323315",
-          "time": "2026-07-16 12:00:00",
-          "publisher": "蕃新聞→勁報",
-          "severity": null
-        },
-        {
-          "title": "竹市議會七月慶生會 市長祝福議長身體健康",
-          "url": "https://www.thehubnews.net/archives/644726",
-          "time": "2026-07-16 11:49:36",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "竹市田徑場整修完工 城市馬現正開放報名",
-          "url": "https://www.thehubnews.net/archives/644710",
-          "time": "2026-07-16 11:42:15",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "竹市首度調升警消協勤人員聯誼活動費至2,000元！高虹安市長：感謝無名英雄守護城市安全",
-          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=2215ec4f-dfea-4eb9-9d0c-0d8ca96d6e20",
-          "time": "2026-07-16 11:38:06",
-          "publisher": "新竹市政府",
-          "severity": null
-        },
-        {
-          "title": "感謝無名英雄守護城市安全 竹市調升警消協勤人員聯誼活動費",
-          "url": "https://tw.news.yahoo.com/%E6%84%9F%E8%AC%9D%E7%84%A1%E5%90%8D%E8%8B%B1%E9%9B%84%E5%AE%88%E8%AD%B7%E5%9F%8E%E5%B8%82%E5%AE%89%E5%85%A8-%E7%AB%B9%E5%B8%82%E8%AA%BF%E5%8D%87%E8%AD%A6%E6%B6%88%E5%8D%94%E5%8B%A4%E4%BA%BA%E5%93%A1%E8%81%AF%E8%AA%BC%E6%B4%BB%E5%8B%95%E8%B2%BB-031912885.html",
-          "time": "2026-07-16 11:19:12",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "竹市婦女培力課程報名開跑！高虹安市長：打造全齡女性友善城市",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qcnBLbzl6RGZQM1NRTjZUbXVrRUZJZDJLTnVxdWtMYWk3bnkyN2RWZFRrTlpvOHdMX2JzdWhoVzF2VkVIcDNmY0RXRU5VZW43ZkgtVWZn?oc=5",
-          "time": "2026-07-16 11:14:15",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "新竹市還清百億零負債 網酸：擋綠營財路",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1TG9LRlpfaF9zSDVHelZESHhmLTRhM1A4dG9TcEZTOUFQZEhUZnUyZU9CdWlFRmV3UVB2dE5NV1c4SzF2bzNtbl9HdU9YLVpEWGdXZEtHS2ZMVTRWa0V1OElB0gFnQVVfeXFMUEI2clVnNlF0R1h5VWE1aC1Fb3hqOEt2OUgwMTBrTnFLSnotQ3VvWGNmMmNWMkxDbXNVS0pFajNfRW4ybnliOF92YjkyYjBYMUlyZG81bXRsVkpzYmxOMkdKbk9UT3VNUQ?oc=5",
-          "time": "2026-07-16 11:08:32",
-          "publisher": "Google News→世界新聞網",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "澎湖地方動態",
       "city": "澎湖",
       "place": "澎湖縣政府",
@@ -2612,6 +2346,272 @@
           "time": "2026-07-16 13:00:10",
           "publisher": "壹電視",
           "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新竹市地方動態",
+      "city": "新竹市",
+      "place": "新竹市政府",
+      "level": "red",
+      "news_count": 36,
+      "comment_count": 0,
+      "negativity_pct": 17,
+      "is_urgent": false,
+      "urgency_score": 54,
+      "news_articles": [
+        {
+          "title": "竹市金城安居社宅動土 提供837戶",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxRzduWUR3LUdZUkFYS3B5a3JzMm5EdmExQzM3akZOZDd5UWJuWUg2dm5aeUY0RXVIUC1rRUVEM1BBWEY5dHNDZWY3UnNzbURsY3pDRkc0c1hYcDTSAWBBVV95cUxNTkJCc2xGb1pxY2VXR3JZUUxyWW1UU2N0WHhBTVI4TVAyVjNGdXNOZzBaMC1qSnRTaWZvdWY2MzJCd3MxQnk2c2dXNE5hMXc5ZGkydE4tWU5zcGlBX3lwaGg?oc=5",
+          "time": "2026-07-17 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "竹市第3處社宅838戶動土 預計2029年完工",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03Y2Naa01vajNJWFNoTzI2N3pUZzViMWRCWTRLNFI1NWFuTXg5NnhDQXdGd0RlYmtISHJqMkEwSlZZTE8yMmdDaXB1MFlaMUVK0gFWQVVfeXFMT3Y3LXplUGZSb25VN1ZWRktQWEhWT0s0RTlWMG9yOW1Rd0J2NlR6SFhrdk9EWk9DejBxZUtELXVFQ2ZpcDFWNm0yMkc0UFFEQmU1a0JPUEE?oc=5",
+          "time": "2026-07-17 00:45:43",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "竹市高虹安宣布泡水車慰問金專案啟動！李玫爭取「泡水車納補助」獲採納",
+          "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%B8%82%E9%AB%98%E8%99%B9%E5%AE%89%E5%AE%A3%E5%B8%83%E6%B3%A1%E6%B0%B4%E8%BB%8A%E6%85%B0%E5%95%8F%E9%87%91%E5%B0%88%E6%A1%88%E5%95%9F%E5%8B%95-%E6%9D%8E%E7%8E%AB%E7%88%AD%E5%8F%96-%E6%B3%A1%E6%B0%B4%E8%BB%8A%E7%B4%8D%E8%A3%9C%E5%8A%A9-%E7%8D%B2%E6%8E%A1%E7%B4%8D-151426981.html",
+          "time": "2026-07-16 23:14:26",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "新竹市預算大增200億竟換來工程停擺！莊競程批高虹安把不建設當政績",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5507966",
+          "time": "2026-07-16 22:56:14",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "感謝無名英雄守護城市安全 竹市調升警消協勤人員聯誼活動費",
+          "url": "https://tw.news.yahoo.com/%E6%84%9F%E8%AC%9D%E7%84%A1%E5%90%8D%E8%8B%B1%E9%9B%84%E5%AE%88%E8%AD%B7%E5%9F%8E%E5%B8%82%E5%AE%89%E5%85%A8-%E7%AB%B9%E5%B8%82%E8%AA%BF%E5%8D%87%E8%AD%A6%E6%B6%88%E5%8D%94%E5%8B%A4%E4%BA%BA%E5%93%A1%E8%81%AF%E8%AA%BC%E6%B4%BB%E5%8B%95%E8%B2%BB-112146134.html",
+          "time": "2026-07-16 19:21:46",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "竹市力推青年職涯準備計畫高虹安：打造全方位就業支持，助青年順利接軌職場- 政府消息新聞- PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ1paZWpVQ1dGRmZ3TlBjS2lCX1FUUnVBS0V1V0tkckdwSUwwMFlJdTlpdHI5bVF5VFFyWGRad3VLYzhmdzJRb2tXWTd1NGtJbnY2WVRCWGxVMEZZUHpxazhKTk9XN1dWNjQ5Q3JQLVhKaHZ1MktiRmdYU2l4cVlrRV9DazFqMEhaLTEw?oc=5",
+          "time": "2026-07-16 17:53:36",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "竹市加碼838戶社宅 金城安居動土拚2029年完工 | 中廣新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PaGxCVFJxNnBwQ2xJckxRbVk1QW1pbmZyc0UwUFVGWW9lSHBTbldHdloyRXdidGE1SE55TC1VU3ZxSEhXZzVBcDVqM3FZM3JzQzhWcnR3?oc=5",
+          "time": "2026-07-16 17:11:11",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "維護乾淨選風 竹市檢警攜手強化查賄制暴",
+          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOVk52Q0dhbzVQc0RFbWZhNEp2YjY5Yzhmem5TMl9qV3NDeng4djBtc3RUNmFpdFo2Y1l6WFpWdjFCakZWRjA4OVk5LVMxZEdGNmNlbHFsUHFzWXd0NVZQdHV1SEl5S201a25yR0E0YVlIb1ZGUW9EUmlvVmxEMEVrWTc0dmg4X0NLNGRpYWZkLXdXZngzdTdNTHZ0UXhRRk10NS1jRFNObWRqYmZSanVWSGpwakhLLXZkVktablZQRzVYVnZ4WGZ5T2M1OElzQUV6ampBV214T2Q2SXppMENhMExjaDdKVko3aURMMkIwRjdPZnE2RTFSWi1MOGo4b2pxMlJuZXYwVGIySWtQZ1hndkZqbUlFdUJxQ1hUSDRwMHkwdTZPdmpMN0RXQ2pFWkYwOExZdTJ2UGhod21iaFl4MkJYLWlVellMZVNxQi1rN3pMcURnQmRZRVVvZ2ROUm5nLXNqTnR1aDA?oc=5",
+          "time": "2026-07-16 17:06:12",
+          "publisher": "Google News→台灣好新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "慈濟、新竹市都發處攜手 公寓大廈管理人員防災士培訓",
+          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPdWhKYVNVek9JZXlDcnNhcGtDSzJBMlhiRkdwOWI4TC1HaWdLbDRYY3BvSWNJTmZ0MXk2aUxndVUxQkJTYjc0cGR6R010NlREX1QtOGxEZlV5QXpMdldjVnVmanJWaFBYNVo4bTNhem1wLUVpSHRiUHhndTBDM1dQZ2FGRXAxNlJBSDAyVk41Zks1Z0o2VG14OVJxLVJ5NkctVS1uQm9UMGg0NGE5RzFwZXVXLXdxeHE2SVJuNmVOdHF3M1dkRUt6bUdTTTVrU1pLZkRjRnMxVTZEcUJEcWlvNkszM3JkUGl6YkZIejRDVVVpZE1UcThhZW5HZ2hIaVhJdExYVnJHMlAwbzFmUHJyT2dLOXdjNlE2cUdDbU5vZEU3bUlnanE4RXR0Y1phbUc4TTRDRTB6NTgtdTRPa0JzczJGMmZlaGFuSE05a3ZRV1ZtVGZRRkVHQThjZ0ZIYmRHVzlvRmpmNFFtUQ?oc=5",
+          "time": "2026-07-16 16:45:03",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "慈濟、新竹市都發處攜手 公寓大廈管理人員防災士培訓 - 生活新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLXlkcWo1cGhMN0FjdHBFVHI0aGdCdWxaRXkyVWI3aGZmNUhoeVRMVzR3NUpvTF9HYWVMc2lHb0daVEVEUndUbUtndW53aTBZQ2hITHg1TWFMTXYzR0NDZ2RTY0RQQUN2UTN5Um41Qm4tR1ZaLWhhRkhSdWowSFVZWXZ0UlNFMHgx?oc=5",
+          "time": "2026-07-16 16:45:03",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "竹市社宅開工 馬士元：中央地方合作完善居住照顧",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xYnVycGNQTUVILVBBS0pWZFFRalJZdzNIc0YzdUs5SXg1dUczTFFYREdmS282TlNtdkJGaGpZVkV3cFpRUmpUUWRKczltekVtNmc?oc=5",
+          "time": "2026-07-16 16:28:12",
+          "publisher": "Google News→放言Fount Media",
+          "severity": null
+        },
+        {
+          "title": "重大刑案發生 竹市警二分局全力偵辦並獲慰勉一線同仁依法果斷處置",
+          "url": "https://focus.586.com.tw/2026/07/16/p395636/",
+          "time": "2026-07-16 16:20:57",
+          "publisher": "焦點時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "新竹市衛生局前科長夥男友收賄千萬助廠商規避廣告裁罰！二審仍重判| 三立新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLeU01Nno2WjY5NFdtRVRzNjZxRjQwYXczLVh1U3N6elJBMkQwbTNnS042OWFSNWhUZjhSTGhWem1hUDlQQVdJQ1hLWlZBWDc1SFNqRzVB?oc=5",
+          "time": "2026-07-16 16:17:07",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "red"
+        },
+        {
+          "title": "新竹市衛生局前科長涉貪！千件違規廣告遭「喬掉」 二審判決出爐 | 民視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11eWJpRnV6emRYRm1CSFI4MEE4ckV2RUxGWHM5SVpNQzc0MjlQTDh2VmdTUGZZNGhGOUxITlJtNlZXbmo0d1BIU0hOQ0F3S29odlNRa3B3?oc=5",
+          "time": "2026-07-16 16:07:21",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "red"
+        },
+        {
+          "title": "行政院動員業務訪評蒞竹市 高虹安市長：強化全社會防衛韌性 打造安全宜居科技城",
+          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=47439d67-acef-4557-a2cd-58d37177f840",
+          "time": "2026-07-16 15:45:56",
+          "publisher": "新竹市政府",
+          "severity": null
+        },
+        {
+          "title": "新竹市衛生局前科長涉貪！千件違規廣告遭「喬掉」 二審判決出爐",
+          "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOcHc0NTZJb2M4NEhKNWFLUFVkYlE4UkxxZWNJbWd6UXNZS3FhY0JkUGo3VHg2SnNGWkJkcHpNajRZTWN2NlRFUTRFZFU1UHpwR2xsdEc2enNJTklRVVE0RUxyZXVHR3IyaW1xLVFFVkU2LTdhUDhwMTQtSERtYUFzQ3FXalQyRnNRYnY0aWI1bFhTZC1kdWZCbkgzX0lSNWRlOE1lXzFMWWIwa3UwNE5kZm9yamU4eHhEMzJ4WkpNeGJOWEtNSkxINGRRVUczbHhaOGVMblAxdnFWZEVITTlLRVRVMjJvT0FPNDEzSTZOUml0ZjQ0TG1zbDNjbUFDX1dLb2ZNMlRBVFFhYzA4OWxpaTl1dWpxcjdUeDVMcU5UenIwVmRBNE03TjNNNnU1OHA2eVBwbXVRRFlseUNPX2JEVHgyWC1VWWpFMEhLZUN4VS1GbERTLVgyRmZlR2RsdXBDaUk4X1hRZVVNSUR0Qk16ZkVCVzRUX2pfYlNEU3ByS1AzSzFtaXNFdjdsZmsyVHM?oc=5",
+          "time": "2026-07-16 15:45:38",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "快新聞／新竹市衛生局前科長涉貪！千件違規廣告遭「喬掉」 二審判決出爐",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SeWRZUjExeC1WdG96LXVjS2JiWTlwTEZtQzRBME5WQXhLcGM0UlB1U1BENFJCTFVaWFFBV3pfY0hNRmNpQjc3ZFE4NVozZHhUZ0ZLVzFvRzVfQVQ0TDRzVg?oc=5",
+          "time": "2026-07-16 15:45:38",
+          "publisher": "Google News→民視新聞網",
+          "severity": "red"
+        },
+        {
+          "title": "收賄千萬護航廠商勾銷罰單 竹市衛局科長鄭舒倫二審維持16年",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5507492",
+          "time": "2026-07-16 15:32:52",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "新竹市衛生局前科長夥男友收賄千萬 助廠商規避廣告裁罰！二審仍重判",
+          "url": "https://tw.news.yahoo.com/%E6%96%B0%E7%AB%B9%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80%E5%89%8D%E7%A7%91%E9%95%B7%E5%A4%A5%E7%94%B7%E5%8F%8B%E6%94%B6%E8%B3%84%E5%8D%83%E8%90%AC-%E5%8A%A9%E5%BB%A0%E5%95%86%E8%A6%8F%E9%81%BF%E5%BB%A3%E5%91%8A%E8%A3%81%E7%BD%B0-%E4%BA%8C%E5%AF%A9%E4%BB%8D%E9%87%8D%E5%88%A4-071800843.html",
+          "time": "2026-07-16 15:18:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "新竹市府前科長伙男友收賄 二審仍重判",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yVzJ3UVgyQXI4MHdMU016bWZHcmt5MXVQZHJjNE8wajVVS1VUQTRVQm03TDQ2N2k3SFhVZ1hvSDZreWp4N3p2NmQtVFNZX1pzQ0lOQ2VpbzJzdGhM0gFiQVVfeXFMUDRta2xFLVpFNXYtZVZXZXFqamNoLVFLZ2lRWXI0WG40UDlnVjMxMVpFUjZLX1MwSUE1R2R3ZUx1dGdiNi1PRDZDbUltRTMyLWdrZS1oaTdNWENTTnlZZTBJa2c?oc=5",
+          "time": "2026-07-16 15:13:00",
+          "publisher": "Google News→鏡週刊Mirror Media",
+          "severity": "red"
+        },
+        {
+          "title": "行政院動員業務訪評蒞竹市 高虹安市長：打造安全宜居科技城",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XejVaaENYNFF2dHFxajNZYzZVQXhfTkl2SWtjMTVLSjNkNGlLYzMxMmt0MlFaeDJ2QVdNOVFzVnR3dE5ON0ZsZUY3Sm1hZ3g3TFRHVW5n?oc=5",
+          "time": "2026-07-16 15:12:59",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "竹市「金城安居」社宅開工 高虹安市長：逐步落實居住正義",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SWmpXN1BVeEZOWEdkU0JORzBBT2JyZTFOVEsxUmg3bkppaERwcUR6eWpsSVBTU2xkN21Xb055eExTRk1ZM3pZQjlSclJzN05nRlE?oc=5",
+          "time": "2026-07-16 15:06:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "助違規廠商免罰二審 前竹市衛生局科長仍判16年",
+          "url": "https://www.cna.com.tw/news/asoc/202607160186.aspx",
+          "time": "2026-07-16 15:01:15",
+          "publisher": "中央社",
+          "severity": "red"
+        },
+        {
+          "title": "新竹市家長聯合會花蓮教育參訪拜訪東華大學飽覽綠色大學風采- 生活新聞- PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2t3eGRUcDdfaDRWd01CdDJ5ZjRySGo5UWRIdk1kVlA0TlAzaGh2NjA0TWJGZTJBNlh6ZTdqLXFya2RJNzhET0VCdXRBcW4wRTFiWks1VzYzek1IRnQ3cEpXRmNEUFBEWi1RX0ZmRFdtV21ZTDRZMDZfbUlDUU94dUJQTng?oc=5",
+          "time": "2026-07-16 14:53:15",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "新竹市家長聯合會花蓮教育參訪 拜訪東華大學飽覽綠色大學風采",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YV2JuUkxmVVhyYXJVM0RmM2NKUmlEVUJYNTJLOGxTaGs5dElEREtYOHhCdURNZ0xlaEVla2o3T28xQ3ZYdjRaOWotQkI2bzRwTzNZb3JR?oc=5",
+          "time": "2026-07-16 14:53:15",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "新竹市家長聯合會花蓮教育參訪 拜訪東華大學飽覽綠色大學風采",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9raVJ5Smhna09QeTdZUkdFTXJiREdCX1RiamJhT1VveE56dHlQckdKYkg0VEIxLXF5OHNXSzJ4TmF4bHFHVldYN3F6QmdsNU1xREE?oc=5",
+          "time": "2026-07-16 14:53:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "竹市「金城安居」社宅開工！高虹安市長：逐步落實居住正義！",
+          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=f92d0060-ea51-41c7-ad5d-c46dafa67838",
+          "time": "2026-07-16 14:24:20",
+          "publisher": "新竹市政府",
+          "severity": null
+        },
+        {
+          "title": "竹市首度調升警消協勤人員聯誼活動費至2,000元！ 高虹安市長：感謝無名英雄守護城市安全",
+          "url": "https://more-news.tw/667974/",
+          "time": "2026-07-16 13:54:26",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "綠營新竹市長參選人莊競程攜手10小雞7/18首場造勢活動",
+          "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPU2Rmd3ZOaGgtcFctSFd6bS1oS1dBd2Nad0ltVFdVR3J2T19RRnF4ZlBHbHFvM1prOEtFTUZBbFdTaW5CYWJuQUFlZ01fX2wtM0FKdkV5R0NXck51SndIbTdnMkpXWkNCeF8tTXVESGVTd21PYkpfblB4UjJmZ2hiUFhhNmlMSC1KNFpTTndDQkdCMFFqaEtrN0RhMWZsOGdqdHJZSTlNRktYbTIwck9Fa2pNS1lxenN6dThSbkJPOE1TdDRLbzNwMm9UNklKZ2Z1aG1JUjE0OU9WR3ZmNWRYVUpVSDJCSi1YRUpUUWRCbXFMR2VJczBpSWtod1B1alhOVWtXV2MwbWNOVnlpbjMzZEtPSWFKNm1wVnNtSGJCN3BKSW5Ua2hNMzhPRTJFcnBDelFzdUlKdFVnSzNtUzdIVUEzcVUxVV9ZNmpQdGJqbGJfY3RlM2Y3elVmcmozRFhBeVZ3?oc=5",
+          "time": "2026-07-16 13:15:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "感謝守護城市安全 竹市首度調升警消協勤人員聯誼活動費至2,000元！",
+          "url": "https://n.yam.com/Article/20260716323315",
+          "time": "2026-07-16 12:00:00",
+          "publisher": "蕃新聞→勁報",
+          "severity": null
+        },
+        {
+          "title": "竹市議會七月慶生會 市長祝福議長身體健康",
+          "url": "https://www.thehubnews.net/archives/644726",
+          "time": "2026-07-16 11:49:36",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "竹市田徑場整修完工 城市馬現正開放報名",
+          "url": "https://www.thehubnews.net/archives/644710",
+          "time": "2026-07-16 11:42:15",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "竹市首度調升警消協勤人員聯誼活動費至2,000元！高虹安市長：感謝無名英雄守護城市安全",
+          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=2215ec4f-dfea-4eb9-9d0c-0d8ca96d6e20",
+          "time": "2026-07-16 11:38:06",
+          "publisher": "新竹市政府",
+          "severity": null
+        },
+        {
+          "title": "感謝無名英雄守護城市安全 竹市調升警消協勤人員聯誼活動費",
+          "url": "https://tw.news.yahoo.com/%E6%84%9F%E8%AC%9D%E7%84%A1%E5%90%8D%E8%8B%B1%E9%9B%84%E5%AE%88%E8%AD%B7%E5%9F%8E%E5%B8%82%E5%AE%89%E5%85%A8-%E7%AB%B9%E5%B8%82%E8%AA%BF%E5%8D%87%E8%AD%A6%E6%B6%88%E5%8D%94%E5%8B%A4%E4%BA%BA%E5%93%A1%E8%81%AF%E8%AA%BC%E6%B4%BB%E5%8B%95%E8%B2%BB-031912885.html",
+          "time": "2026-07-16 11:19:12",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "竹市婦女培力課程報名開跑！高虹安市長：打造全齡女性友善城市",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qcnBLbzl6RGZQM1NRTjZUbXVrRUZJZDJLTnVxdWtMYWk3bnkyN2RWZFRrTlpvOHdMX2JzdWhoVzF2VkVIcDNmY0RXRU5VZW43ZkgtVWZn?oc=5",
+          "time": "2026-07-16 11:14:15",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "新竹市還清百億零負債 網酸：擋綠營財路",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1TG9LRlpfaF9zSDVHelZESHhmLTRhM1A4dG9TcEZTOUFQZEhUZnUyZU9CdWlFRmV3UVB2dE5NV1c4SzF2bzNtbl9HdU9YLVpEWGdXZEtHS2ZMVTRWa0V1OElB0gFnQVVfeXFMUEI2clVnNlF0R1h5VWE1aC1Fb3hqOEt2OUgwMTBrTnFLSnotQ3VvWGNmMmNWMkxDbXNVS0pFajNfRW4ybnliOF92YjkyYjBYMUlyZG81bXRsVkpzYmxOMkdKbk9UT3VNUQ?oc=5",
+          "time": "2026-07-16 11:08:32",
+          "publisher": "Google News→世界新聞網",
+          "severity": "yellow"
         }
       ],
       "comments": []
@@ -10678,11 +10678,11 @@
       "city": "台中",
       "place": "台中市清水區",
       "level": "red",
-      "news_count": 251,
+      "news_count": 250,
       "comment_count": 0,
       "negativity_pct": 11,
       "is_urgent": false,
-      "urgency_score": 335,
+      "urgency_score": 334,
       "news_articles": [
         {
           "title": "中聯油品問題油無據實提供　台中市府移送中檢偵辦",
@@ -12433,13 +12433,6 @@
           "time": "2026-07-16 10:53:50",
           "publisher": "Google News→太報 TaiSounds",
           "severity": "yellow"
-        },
-        {
-          "title": "中聯致癌油廠商 台中市府4年來僅抽驗一次油品「上次已是2年前」",
-          "url": "https://www.ettoday.net/news/20260716/3202084.htm",
-          "time": "2026-07-16 10:49:00",
-          "publisher": "ETtoday",
-          "severity": "red"
         }
       ],
       "comments": []

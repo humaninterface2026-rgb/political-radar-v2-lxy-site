@@ -55148,7 +55148,7 @@
     },
     {
       "date": "2026-07-17",
-      "snapshot_at": "2026-07-17T02:48:22.617303+00:00",
+      "snapshot_at": "2026-07-17T02:50:00.377025+00:00",
       "hotspots": [
         {
           "title": "台北公廁議題",
@@ -55162,20 +55162,6 @@
           "urgency_score": 1,
           "sample_titles": [
             "借鏡北市優質公廁 形塑基隆海洋城市新亮點"
-          ]
-        },
-        {
-          "title": "高雄車禍事件",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "高雄婦人紅燈左轉釀車禍 2女騎士受傷送醫"
           ]
         },
         {
@@ -55207,6 +55193,20 @@
           ]
         },
         {
+          "title": "高雄車禍事件",
+          "city": "高雄",
+          "place": "高雄市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "高雄婦人紅燈左轉釀車禍 2女騎士受傷送醫"
+          ]
+        },
+        {
           "title": "台中陳情/抗議",
           "city": "台中",
           "place": "台中市政府",
@@ -55218,20 +55218,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "盧秀燕找人當暗樁抗議被抓包？同場活動只抗議卓榮泰不抗議盧秀燕... 蔣萬安市政爭議燒不停改比秒數？ 藍白推6案催基本盤？"
-          ]
-        },
-        {
-          "title": "新北詐騙案",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "影》板橋街頭警匪追逐！ 詐騙車手狂逃仍遭警棍破窗逮捕"
           ]
         },
         {
@@ -55274,6 +55260,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "苗栗頭份警銀合作阻詐奏效 表揚行員機警攔阻詐騙"
+          ]
+        },
+        {
+          "title": "新北詐騙案",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "影》板橋街頭警匪追逐！ 詐騙車手狂逃仍遭警棍破窗逮捕"
           ]
         },
         {
@@ -55496,6 +55496,21 @@
           ]
         },
         {
+          "title": "桃園弊案爭議",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "桃園交警改開較輕罰單 涉圖利3駕駛被起訴",
+            "桃園「佛系交警」涉圖利罪起訴 取締嚴重違規卻「輕罰」被抓包"
+          ]
+        },
+        {
           "title": "澎湖弊案爭議",
           "city": "澎湖",
           "place": "澎湖縣政府",
@@ -55523,21 +55538,6 @@
           "sample_titles": [
             "屏東狼父4度猥褻、性侵親生女 悖逆倫常判刑6年",
             "捕殺43隻海豚當鯊魚餌 加拿大官方全程空拍 屏東船長遭判刑"
-          ]
-        },
-        {
-          "title": "桃園弊案爭議",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "桃園交警改開較輕罰單 涉圖利3駕駛被起訴",
-            "桃園「佛系交警」涉圖利罪起訴 取締嚴重違規卻「輕罰」被抓包"
           ]
         },
         {
@@ -55669,22 +55669,6 @@
           ]
         },
         {
-          "title": "新竹市地方動態",
-          "city": "新竹市",
-          "place": "新竹市政府",
-          "level": "red",
-          "news_count": 36,
-          "comment_count": 0,
-          "negativity_pct": 17,
-          "is_urgent": false,
-          "urgency_score": 54,
-          "sample_titles": [
-            "竹市金城安居社宅動土 提供837戶",
-            "竹市第3處社宅838戶動土 預計2029年完工",
-            "竹市高虹安宣布泡水車慰問金專案啟動！李玫爭取「泡水車納補助」獲採納"
-          ]
-        },
-        {
           "title": "澎湖地方動態",
           "city": "澎湖",
           "place": "澎湖縣政府",
@@ -55698,6 +55682,22 @@
             "澎湖前議長劉陳昭玲收賄判七年半- 台灣社會- 新聞",
             "澎湖縣青少年國樂團〈來自菊島的風〉風靡南臺灣",
             "115年澎湖縣政府社會救助金專戶、澎湖縣實物銀行1-6月執行情形暨徵信錄"
+          ]
+        },
+        {
+          "title": "新竹市地方動態",
+          "city": "新竹市",
+          "place": "新竹市政府",
+          "level": "red",
+          "news_count": 36,
+          "comment_count": 0,
+          "negativity_pct": 17,
+          "is_urgent": false,
+          "urgency_score": 54,
+          "sample_titles": [
+            "竹市金城安居社宅動土 提供837戶",
+            "竹市第3處社宅838戶動土 預計2029年完工",
+            "竹市高虹安宣布泡水車慰問金專案啟動！李玫爭取「泡水車納補助」獲採納"
           ]
         },
         {
@@ -55881,11 +55881,11 @@
           "city": "台中",
           "place": "台中市清水區",
           "level": "red",
-          "news_count": 251,
+          "news_count": 250,
           "comment_count": 0,
           "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 335,
+          "urgency_score": 334,
           "sample_titles": [
             "中聯油品問題油無據實提供　台中市府移送中檢偵辦",
             "水比想像中的深！中聯毒油案延燒 蓋牌15天竟是在搶經營權？食品巨頭都知情？盧市府稽查失靈？爆4年僅抽驗1次油！台中議員江",
