@@ -55148,7 +55148,7 @@
     },
     {
       "date": "2026-07-17",
-      "snapshot_at": "2026-07-17T10:10:34.333588+00:00",
+      "snapshot_at": "2026-07-17T10:18:42.086973+00:00",
       "hotspots": [
         {
           "title": "嘉義縣公廁議題",
@@ -55193,9 +55193,9 @@
           ]
         },
         {
-          "title": "新竹縣車禍事件",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
+          "title": "高雄車禍事件",
+          "city": "高雄",
+          "place": "高雄市政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -55203,7 +55203,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "邱臣遠竹北路口直擊車禍 中斷拜票造勢維護交通"
+            "高雄詭異車禍！駕駛事故前「1舉動」好怪 突加速自撞砂石車當場喪命"
           ]
         },
         {
@@ -55221,9 +55221,9 @@
           ]
         },
         {
-          "title": "高雄車禍事件",
-          "city": "高雄",
-          "place": "高雄市政府",
+          "title": "新竹縣車禍事件",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -55231,7 +55231,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "高雄詭異車禍！駕駛事故前「1舉動」好怪 突加速自撞砂石車當場喪命"
+            "邱臣遠竹北路口直擊車禍 中斷拜票造勢維護交通"
           ]
         },
         {
@@ -55263,6 +55263,20 @@
           ]
         },
         {
+          "title": "苗栗詐騙案",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "苗栗頭份警銀合作阻詐奏效 表揚行員機警攔阻詐騙"
+          ]
+        },
+        {
           "title": "新北詐騙案",
           "city": "新北",
           "place": "新北市政府",
@@ -55288,20 +55302,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "兄弟齊心反詐騙！嘉市警跨界棒球 局長穿165號球衣霸氣開球"
-          ]
-        },
-        {
-          "title": "苗栗詐騙案",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "苗栗頭份警銀合作阻詐奏效 表揚行員機警攔阻詐騙"
           ]
         },
         {
@@ -55399,9 +55399,9 @@
           "sample_titles": []
         },
         {
-          "title": "花蓮狼師事件",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
+          "title": "台南狼師事件",
+          "city": "台南",
+          "place": "台南市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -55409,7 +55409,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "獨家投訴｜花蓮狼教練涉性侵逐出校園！「這麼做」政府管不到 家長怒「太扯！」"
+            "台版熔爐／台南啟聰學校三十年前爆大量性侵 老師今仍吃案遭監察院彈劾"
           ]
         },
         {
@@ -55427,9 +55427,9 @@
           ]
         },
         {
-          "title": "台南狼師事件",
-          "city": "台南",
-          "place": "台南市政府",
+          "title": "花蓮狼師事件",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -55437,7 +55437,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "台版熔爐／台南啟聰學校三十年前爆大量性侵 老師今仍吃案遭監察院彈劾"
+            "獨家投訴｜花蓮狼教練涉性侵逐出校園！「這麼做」政府管不到 家長怒「太扯！」"
           ]
         },
         {
@@ -55497,20 +55497,6 @@
           ]
         },
         {
-          "title": "澎湖弊案爭議",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "「澎湖王」神話崩毀！六連霸議長劉陳昭玲收賄判刑7年半定讞 法官怒批：根本封建賣官"
-          ]
-        },
-        {
           "title": "苗栗弊案爭議",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -55522,6 +55508,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "緩刑期間再犯！苗栗警處理車禍求方便結案造假紀錄 判刑1年"
+          ]
+        },
+        {
+          "title": "澎湖弊案爭議",
+          "city": "澎湖",
+          "place": "澎湖縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "「澎湖王」神話崩毀！六連霸議長劉陳昭玲收賄判刑7年半定讞 法官怒批：根本封建賣官"
           ]
         },
         {
@@ -55860,11 +55860,11 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "red",
-          "news_count": 32,
+          "news_count": 31,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 35,
+          "urgency_score": 34,
           "sample_titles": [
             "2026.07.17 17:05 推廣澎湖觀光 「白爛貓」乘風海上翻滾引爆話題",
             "推廣澎湖觀光 「白爛貓」乘風海上翻滾引爆話題",
@@ -55952,6 +55952,22 @@
           ]
         },
         {
+          "title": "台中市政動態",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "red",
+          "news_count": 67,
+          "comment_count": 32,
+          "negativity_pct": 4,
+          "is_urgent": true,
+          "urgency_score": 124,
+          "sample_titles": [
+            "蔣萬安號召725上凱道 李四川、盧秀燕、張麗善跟進了",
+            "蔣萬安喊725上凱道 盧秀燕秒回「我參加」！轟中央讓民怨沸騰 | 政治快訊 | 要聞",
+            "宣布725將上凱道 盧秀燕：與蔣萬安共同信念是「人民的健康不能妥協」"
+          ]
+        },
+        {
           "title": "桃園地方動態",
           "city": "桃園",
           "place": "桃園市政府",
@@ -55968,31 +55984,15 @@
           ]
         },
         {
-          "title": "台中市政動態",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "red",
-          "news_count": 68,
-          "comment_count": 32,
-          "negativity_pct": 4,
-          "is_urgent": true,
-          "urgency_score": 125,
-          "sample_titles": [
-            "蔣萬安號召725上凱道 李四川、盧秀燕、張麗善跟進了",
-            "蔣萬安喊725上凱道 盧秀燕秒回「我參加」！轟中央讓民怨沸騰 | 政治快訊 | 要聞",
-            "宣布725將上凱道 盧秀燕：與蔣萬安共同信念是「人民的健康不能妥協」"
-          ]
-        },
-        {
           "title": "花蓮地方動態",
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 113,
+          "news_count": 112,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 122,
+          "urgency_score": 121,
           "sample_titles": [
             "花蓮知卡宣玩水趣DIY升級！ 50元就能做多肉盆、左手香舒緩膏",
             "盤點市有土地活化利用 花蓮市公所研議新港街土地規劃",
@@ -56004,11 +56004,11 @@
           "city": "高雄",
           "place": "高雄市楠梓區",
           "level": "red",
-          "news_count": 120,
+          "news_count": 119,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 141,
+          "urgency_score": 140,
           "sample_titles": [
             "陳其邁挨轟食安會議「神隱」 高市府回應了！",
             "陳其邁挨轟食安會議「神隱」 高市府回應了！",
@@ -56020,11 +56020,11 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "red",
-          "news_count": 133,
+          "news_count": 131,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 160,
+          "urgency_score": 158,
           "sample_titles": [
             "台北旅展開跑搶暑假商機！金門館優惠大放送祭3重好禮 滿千抽機票",
             "中國海漂豬屍驗出「非洲豬瘟」 金門豬禁止輸台1周",
