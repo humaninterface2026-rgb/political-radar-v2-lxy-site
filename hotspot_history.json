@@ -55975,7 +55975,7 @@
     },
     {
       "date": "2026-07-18",
-      "snapshot_at": "2026-07-18T10:16:51.896470+00:00",
+      "snapshot_at": "2026-07-18T10:24:43.881622+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -56004,20 +56004,6 @@
           ]
         },
         {
-          "title": "台南車禍事件",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "六甲水林社區交通安全專題講座宣導路權與車禍應變 守護高齡長輩行車安全"
-          ]
-        },
-        {
           "title": "台中車禍事件",
           "city": "台中",
           "place": "台中市北屯區",
@@ -56029,6 +56015,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "台中北屯嚴重車禍! 駕駛失控連撞翻車 騎士壓車底命危"
+          ]
+        },
+        {
+          "title": "台南車禍事件",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "六甲水林社區交通安全專題講座宣導路權與車禍應變 守護高齡長輩行車安全"
           ]
         },
         {
@@ -56086,21 +56086,6 @@
           "sample_titles": []
         },
         {
-          "title": "新北詐騙案",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "green",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "文化祭驚見「大執法」？北檢聯手新北政風深入烏來 用「這招」教鄉親手撕詐騙、拒絕新興毒品",
-            "面交市價1400萬黃金！台北老婦人遭詐騙 前新北市員警一路尾隨報警逮車手"
-          ]
-        },
-        {
           "title": "台北詐騙案",
           "city": "台北",
           "place": "台北市信義區",
@@ -56112,6 +56097,21 @@
           "urgency_score": 8,
           "sample_titles": [
             "匯款買珠寶、付親友醫療費 信義警連續識破兩起詐騙詭計",
+            "面交市價1400萬黃金！台北老婦人遭詐騙 前新北市員警一路尾隨報警逮車手"
+          ]
+        },
+        {
+          "title": "新北詐騙案",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "文化祭驚見「大執法」？北檢聯手新北政風深入烏來 用「這招」教鄉親手撕詐騙、拒絕新興毒品",
             "面交市價1400萬黃金！台北老婦人遭詐騙 前新北市員警一路尾隨報警逮車手"
           ]
         },
@@ -56213,6 +56213,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "新竹縣5樓住宅疑電動車起火 1女逃生墜樓命危"
+          ]
+        },
+        {
+          "title": "新北弊案爭議",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "新北語言治療師猥褻29童107次 檢方偵結起訴求20年以上重刑"
           ]
         },
         {
@@ -56328,30 +56342,15 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "yellow",
-          "news_count": 43,
+          "news_count": 40,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 46,
+          "urgency_score": 43,
           "sample_titles": [
             "屏東男吸毒騎車上路　8旬老翁遭撞飛送醫不治",
             "青春創意齊反毒！屏東縣首屆「青春護航短影音競賽」開跑 屏科實中、屏榮、美和奪冠獲表揚",
             "屏東毒駕奪命！老翁送文具途中遭撞亡 騎士安非他命陽性送辦"
-          ]
-        },
-        {
-          "title": "新北弊案爭議",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "新北語言治療師猥褻29童107次 檢方偵結起訴求20年以上重刑",
-            "強制猥褻29名幼童 新北檢起訴色狼語言治療師"
           ]
         },
         {
@@ -56451,22 +56450,6 @@
           ]
         },
         {
-          "title": "彰化地方動態",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "red",
-          "news_count": 26,
-          "comment_count": 0,
-          "negativity_pct": 12,
-          "is_urgent": false,
-          "urgency_score": 35,
-          "sample_titles": [
-            "氣象署大雷雨警戒／國家警報響！台中、彰化危險了 注意強風雷擊 | 天氣預報 | 生活",
-            "民進黨彰化縣長參選人陳素月今提政見，縣民TPASS通勤月票降價為699元，國民黨縣長參選人魏平政肯定並強調「一定跟進」，",
-            "中彰投苗跨縣市TPASS通勤月票目前每月999元，台中市民卻獨享優惠每月699元，彰化縣民則多負擔300元，民進黨彰化縣"
-          ]
-        },
-        {
           "title": "新竹市地方動態",
           "city": "新竹市",
           "place": "新竹市政府",
@@ -56483,15 +56466,31 @@
           ]
         },
         {
+          "title": "彰化地方動態",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "red",
+          "news_count": 26,
+          "comment_count": 0,
+          "negativity_pct": 12,
+          "is_urgent": false,
+          "urgency_score": 35,
+          "sample_titles": [
+            "氣象署大雷雨警戒／國家警報響！台中、彰化危險了 注意強風雷擊 | 天氣預報 | 生活",
+            "民進黨彰化縣長參選人陳素月今提政見，縣民TPASS通勤月票降價為699元，國民黨縣長參選人魏平政肯定並強調「一定跟進」，",
+            "中彰投苗跨縣市TPASS通勤月票目前每月999元，台中市民卻獨享優惠每月699元，彰化縣民則多負擔300元，民進黨彰化縣"
+          ]
+        },
+        {
           "title": "金門地方動態",
           "city": "金門",
           "place": "金門縣政府",
           "level": "red",
-          "news_count": 28,
+          "news_count": 27,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 34,
+          "urgency_score": 33,
           "sample_titles": [
             "金門600人放流20萬蛤苗 水試所：挑小苗看潮汐、不會重演蛤屍遍野",
             "梁文韜戰金門縣長！首要防堵陳玉珍 李忠憲力挺：已捐款支持",
@@ -56535,11 +56534,11 @@
           "city": "台北",
           "place": "台北市政府",
           "level": "red",
-          "news_count": 38,
+          "news_count": 36,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 152,
+          "urgency_score": 144,
           "sample_titles": [
             "台北市長蔣萬安昨穿梭立院藍白黨團及國民黨中央，火速敲定725為反毒台上凱道抗議，台中市長盧秀燕隨即響應。據了解，上凱道後",
             "蔣萬安725率藍白凱道抗議 蘇巧慧：食安需要中央地方各司其職",
@@ -56567,11 +56566,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 45,
+          "news_count": 43,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 54,
+          "urgency_score": 52,
           "sample_titles": [
             "桃園南崁國高中周邊道路改善 明年1月完工提升行人安全",
             "桃園男穿梅西10號球衣騎車搖晃 遭警攔查酒駕吃紅牌",
@@ -56583,11 +56582,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 52,
+          "news_count": 51,
           "comment_count": 0,
-          "negativity_pct": 10,
+          "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 67,
+          "urgency_score": 63,
           "sample_titles": [
             "消暑一夏！ 新北主題水樂園免費入場湧人潮",
             "民進黨新北市長參選人蘇巧慧上午與市議員李余典聯合造勢，她強調三重需要像李余典這樣資深的議員繼續連任，讓地方建設和議事規則",
@@ -56631,11 +56630,11 @@
           "city": "台中",
           "place": "台中市西區",
           "level": "red",
-          "news_count": 141,
+          "news_count": 139,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 192,
+          "urgency_score": 190,
           "sample_titles": [
             "快新聞／法規找到了! 台中市府甩鍋大失敗陳其邁一劍封喉：查驗就是地方責任－民視新聞| Watch",
             "快新聞／法規找到了! 台中市府甩鍋大失敗 陳其邁一劍封喉：查驗就是地方責任－民視新聞",
@@ -56647,11 +56646,11 @@
           "city": "台北",
           "place": "台北市萬華區",
           "level": "red",
-          "news_count": 174,
+          "news_count": 169,
           "comment_count": 0,
-          "negativity_pct": 14,
+          "negativity_pct": 15,
           "is_urgent": false,
-          "urgency_score": 249,
+          "urgency_score": 244,
           "sample_titles": [
             "盧秀燕4年驗1次、蔣萬安沒驗過苯駢芘 綠委對比高雄：誰負責、誰甩鍋高下立判",
             "蔣萬安批中央掩蓋真相 廖偉翔：台中查驗數量將近台南、高雄2倍",
