@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "snapshot_at": "2026-07-19T17:00:08.938464+00:00",
+  "snapshot_at": "2026-07-19T17:12:54.212938+00:00",
   "hotspots": [
     {
       "title": "連江公廁議題",
@@ -5941,7 +5941,7 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6ZktMZXFhUHQ1bXM1QmUxcjFtMS1JSjBmRzNucmZFc2RUaW9YbWJzeUFsSUZQMmdNbWxyay1TWWh4blZrU0l0NVBpRzRYNFlLSjZ0dHprR3cxUzJfR2IxZV9fa2pGekRmaGV1TEJn?oc=5",
           "time": "2026-07-20 00:01:30",
           "publisher": "中時新聞網",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "[Gossiping] [新聞] 學學台南怎麼查油！ 林俊憲：盧秀燕8年",
@@ -5962,14 +5962,14 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TclFHZkNDbWlrRXp6SkxlMUg2YUo0YmRZMEFza0NaWmhuWE54dFdvbkV4ZlJVN1BrMExyNEhvSWJHRFVhM3RjUE9YZDNiczBoWHlBdFFfR0RzX1NUeGVTRU16U1YzZjhTSkHSAW9BVV95cUxQajQ5OGlzNlgzNnlVbGFEeTZ4Sk85eGN6UlVPbVFBek5CNlVkOXZUYVFpZjNfYXltMi1iR0NRX0tid3l0dTR4dzZmeUlkMVFQY1F1MUpjcGpGRlJ2anBIMnkyd1BNYjlIdlk4bUk3NjQ?oc=5",
           "time": "2026-07-19 22:47:28",
           "publisher": "自由時報",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "中聯油案中市府公布新一批下游名單增8業者下架| 生活",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMelJ2ZkJ6ZkhjbFhhd3NSajY1WlFxbDlnbkVOYWZjT1RlZ0hOYTJjZ3dITGFkdWxOdW9ZbXBsY24zSzJfS0hzVnRXMEdZeHFhdTk2bHMyOFhfYnA5WmRR?oc=5",
           "time": "2026-07-19 22:00:00",
           "publisher": "中央社",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "[Gossiping] [新聞] 台中兩自小客相撞 波及公車撞進BRT車站4",
@@ -6326,7 +6326,7 @@
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zTC1XZW52M1U4eC1mTWVKalRoSmdJOXlFTkhCZGU2dzlOQnFkbVdyZnNpYV9PdmY2T3ZETTdybjkwQkJndEp0QtIBTEFVX3lxTE9xUjBLalFfdTBKZVhTUEZIbTV5eXJReUZNckVYZzQ2aHR0ZWhzLXpXV05DWlduLUFlWFZGbFNzeUNVZUFIUXU1N0NiMGE?oc=5",
           "time": "2026-07-19 15:57:02",
           "publisher": "三立新聞網",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "七大專業公會同場競技！中市府攜手公會辦運動會 逾700人共創城市建設新動能",
@@ -6452,7 +6452,7 @@
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbHBSeFlqdURydXdzWWZWbUFkZmdyN3pieFp6UkRSNG50US1CTTlNeVVfMzkzLUdMc2xHTFVhUjJuMUFfTGJPeEV2M3lEZjFIQUxsX2R3eGdPOXBBTUlSWlRiQ1FUTnl0dnRYQkdQSXBSek12OXBzU2dJbmVpT1U0SGxxTQ?oc=5",
           "time": "2026-07-19 15:10:00",
           "publisher": "壹蘋新聞網",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "[Gossiping] Re: [新聞] 台中車站大變身！市府祭「霹靂手段」清",
@@ -7229,7 +7229,7 @@
           "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQNlZ3c1BOMThhdUZHS1Q2dnA5UWljVlJhcG54OEMzMUNOSEk2WEFCTWpmc25hMTNZLTI0ZXozaEdHLXItYlhGUmxUY21abWZLNXpqQm5lZzZfd3JsWDZlVklka2JBaS1DWmE0MTV0VzhVSF9IelZMZnN6RzVBY3NaWmxTbEZjMlgyVWFPQTJIWVpuNFFyaERCbUx1bVEzazBGUWdXWk51bGJyUURHcVJodTh4MGg1X2N1UmxIS1JBbzMtMFBjVWRyeVNxYWlvcGE4LTllTzNOSFhFb3dadlN0SmVRTlRzRHZaRHBGa0FwX011MlA0YlBYZTdDd0dwbEV2RTV2dW5JcDZTQzRSN0V5TjBKN2xFNDdOYkpvUGlnV29xTW1HZzZVOXRUZGtLSThoNmZfQndNdzI1R1phRnRtVnQzNUxCTDJmUkQ2QUFxQ3owbmI1Zy11WTlBdU9kZF9FU3VjRURWYmFGeHNmTTROVjVQYWZsUQ?oc=5",
           "time": "2026-07-19 20:30:48",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "「中聯毒油風暴」炸出政壇奇蹟？陳學聖揭秘盧秀燕「上善若水」的隱形整合力",
@@ -7789,7 +7789,7 @@
           "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPa2U2eTVmbEJOR19uNWJ5YWNfOEROaW1wWlZXaThEZ3IzN2tMYkx4Slh2ODN6X09GcjgxVU1mc2F4THk5SmhPX2RWdGRYdVBTYnZPYkVBR3U5UHpsRXZYWDlkYjdldTREeVpTeENTdkRvX1lWckFON3piX05WOVNIRzNpUE1vSzVOQnB2NGpTSUtPQ3JjLVJMdGEwdk9CY3p5SnlUei1KX0ZOMDdKRDRfT2hBRmZKcWdOMkEtQ3hnNXdLVzZqcVAwMXVxajdJNGZCZVR1WXVidWFXNE5DakNseTVLaDdiVGJhQ0lFSHVadkl3bGkzRkZISHdTVG02cjEzSENSVjRZLW5LQ0tHMExVWW44VnB4OVBnVXNUT0JQR1hFUmZoYzNQNHBYRnZqc2JPMFFNMWQ2Y2hWZjlySHZnSDQ5TVozYmRDdWdIdG5QMTdYZ2dYQU9ad2dPWU5uQ3ZULVc4S2kzX3VUbE1pWk91QkJncmdnSklTc2xTWVpEbVlOWVkxZ3Y0ZzFqQlZMVmE0cVlURmZpU24xTmZXSXVZSVc3a0lqeDQ?oc=5",
           "time": "2026-07-19 12:33:55",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "盧秀燕發火了！遭輿論罵翻不認錯 竟嗆聲「被中央政府攻擊」狂討拍",
@@ -7908,14 +7908,14 @@
           "url": "https://n.yam.com/Article/20260719711109",
           "time": "2026-07-19 12:00:00",
           "publisher": "蕃新聞→觀傳媒",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "食安就是國安！盧秀燕號召縣市首長　下週召開「線上國是會議」共商防堵毒油對策",
           "url": "https://n.yam.com/Article/20260719967047",
           "time": "2026-07-19 12:00:00",
           "publisher": "蕃新聞→今傳媒",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "盧秀燕蔣萬安同台砲轟中央 何欣純：把食安當作政治操作大有問題",
