@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "snapshot_at": "2026-07-19T01:18:38.526833+00:00",
+  "snapshot_at": "2026-07-19T01:29:28.756319+00:00",
   "hotspots": [
     {
       "title": "捷運藍線爭議",
@@ -25,27 +25,6 @@
       ]
     },
     {
-      "title": "嘉義縣公廁議題",
-      "city": "嘉義縣",
-      "place": "嘉義縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 1,
-      "news_articles": [
-        {
-          "title": "阿里山奮起湖公廁改善完成 融入地景與山水美學",
-          "url": "https://news.cts.com.tw/cna/local/202607/202607173056639.html",
-          "time": "2026-07-18 19:04:54",
-          "publisher": "華視新聞網",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "連江公廁議題",
       "city": "連江",
       "place": "連江縣（馬祖）",
@@ -61,6 +40,27 @@
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1FR3ZTY0JocWY3Yk15b2xmMXVoQkJBbldmV1R4b21DNDhrcjZZR253ZVRRWHg2bVNNdVZudktvSm40NVR3NVBF?oc=5",
           "time": "2026-07-19 02:11:37",
           "publisher": "Google News→台灣新聞雲",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "嘉義縣公廁議題",
+      "city": "嘉義縣",
+      "place": "嘉義縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 1,
+      "news_articles": [
+        {
+          "title": "阿里山奮起湖公廁改善完成 融入地景與山水美學",
+          "url": "https://news.cts.com.tw/cna/local/202607/202607173056639.html",
+          "time": "2026-07-18 19:04:54",
+          "publisher": "華視新聞網",
           "severity": null
         }
       ],
@@ -2044,11 +2044,11 @@
       "city": "金門",
       "place": "金門縣政府",
       "level": "red",
-      "news_count": 18,
+      "news_count": 17,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 18,
+      "urgency_score": 17,
       "news_articles": [
         {
           "title": "-金門行動旅服上半年瀏覽破155萬 智慧觀光持續升級",
@@ -2168,13 +2168,6 @@
           "time": "2026-07-18 10:45:24",
           "publisher": "自由時報",
           "severity": "yellow"
-        },
-        {
-          "title": "金門海漂豬驗出非洲豬瘟 防檢署：病毒與中國沿海流行株高度相近 | CTWANT",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYVlQaHgzSVM1TzRIZHdCNG1ISFVCdzVfRTRHS2x5R2FPbkVRXzlHWmhseG9DWDVKVmR2c2xiVmJTbTZHQWNYVlRYVG9FNWpjZTM3bTZR?oc=5",
-          "time": "2026-07-18 09:28:50",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -6160,11 +6153,11 @@
       "city": "高雄",
       "place": "高雄市鳳山區",
       "level": "red",
-      "news_count": 162,
+      "news_count": 160,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 174,
+      "urgency_score": 172,
       "news_articles": [
         {
           "title": "全台最大動漫地下街誕生！高雄駅一番街北站開幕",
@@ -6849,7 +6842,7 @@
           "title": "陳其邁跑遍高雄拚城市品牌！動漫經濟、山茶產業雙引擎催動觀光商機 | 徐炳文 | 地方新聞",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XdWttQkRLVVQ1UTdSNUNxR1o4MVF0NThYSVJrMGswLW92YUZKTFc0VFBkbFJwZ0laYkYtSkJheXUzOEl3clhBd282Mzk5dw?oc=5",
           "time": "2026-07-18 15:33:23",
-          "publisher": "Google News→風傳媒",
+          "publisher": "Google News→Storm.mg",
           "severity": null
         },
         {
@@ -7285,20 +7278,6 @@
           "time": "2026-07-18 10:01:02",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "盧秀燕批中央不查廠 綠委：為何高雄抽查18件 台中只驗1次？",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NS0VRQVFjYXJfeFBIMUJ2ZFRwMEZpSUp3dUgyVWw1VmtMc0ZKZFF6djJPSkgydHlOVGhvNWFYZTgydzVYaHNMb0k2cWdoYUV20gFWQVVfeXFMT011MGluX244Q21PdTk0azRLLWwxNk5uLS15WlFXNFBCdFl6Y0lpLUlKcDU4c08tODFQOXlmUmtuSU5CRllpbm02aEZGVlVZY2JVT0tfNkE?oc=5",
-          "time": "2026-07-18 09:26:14",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "盧秀燕批中央不查廠 綠委：為何高雄抽查18件 台中只驗1次？",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QZW0tWnpMenVGM2VnM2piczNJZnpWU1pmUTB3cmNqN19pazlXQ2FVZFVSbnM2c2xuVk1hLWVjYk9fejd5YjJ0QVZwSkdQOW9WVDJv0gFYQVVfeXFMUGY2WmZTb0V2WEVGMGloZFBOMTh4TnBFYnR5SlQ0SnFqdDlHazJpeEs1TjR4UlBhNEJqbHZRNV8xREdHNG5OeHZDX2ZqOVpIVUR6WWZZRVpQTA?oc=5",
-          "time": "2026-07-18 09:26:14",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -7500,7 +7479,7 @@
           "title": "被酸「索資佛地魔」 簡舒培反擊：蔣萬安根本是「台北版佀廣洋」 | 蕭宥宸 | 新聞",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JX0ZfZlNCMDN0cWcxZ1lHU25vWnVFRG1nMFp5VldnYUkxcHV6d091V3JGSDNCR2lwLXV6WWxwYl9EZl9QcWdjNG85VlZFQQ?oc=5",
           "time": "2026-07-18 22:24:04",
-          "publisher": "Google News→風傳媒",
+          "publisher": "Google News→Storm.mg",
           "severity": "yellow"
         },
         {
@@ -8540,11 +8519,11 @@
       "city": "台中",
       "place": "台中市政府",
       "level": "red",
-      "news_count": 176,
+      "news_count": 173,
       "comment_count": 38,
       "negativity_pct": 4,
       "is_urgent": true,
-      "urgency_score": 259,
+      "urgency_score": 256,
       "news_articles": [
         {
           "title": "致癌油風暴》衛福部秀公文 批盧秀燕公然造謠",
@@ -9684,7 +9663,7 @@
           "title": "蔣萬安、盧秀燕誰是在野共主？學者解讀他「725上凱道」閃電出招：不只劍指賴政府| 李瑋萱 | 新聞",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NaVpReWU1R0NGRXVlM0ZseEtIamdvejJfNGxiQzJGSnFSa3hQYjl1bXd5aktPQmlxV3Z3TkxkamNNVEROT0d2NkxnRmxYZw?oc=5",
           "time": "2026-07-18 10:33:53",
-          "publisher": "Google News→風傳媒",
+          "publisher": "Google News→Storm.mg",
           "severity": "yellow"
         },
         {
@@ -9755,27 +9734,6 @@
           "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNa0Z3MC1zU0pWSllTME9lUU9UN2g1Qkh2WUtYeGFSOU0tUWlkamFIM0xoU21VNEkxTmxGTkNrRWU0V251ZmVhOHlVMGVDclNnRkN2ZUVjSmRWRzFJVnNCZWYtX0FtSTFCWmtUbThqQ2FpZ3gtYlFVWmJVYVNrcnlIUUFFRk9rcE05WkdLajJrTDdQNHA0V09xaHh3d1RIZGtadFJFbFM1VzM4cEpjcmY5QkoxRTF3Q2tkaG56MlVhNkFPMW9hb2dOWnBJeU9pdVE3c052OVI3MTBJNGI0c2I2dnI3V3I3b2pibm9sdGZGaklXWGZucVdlSTdQeENvaDhfTHlSdTEydWF0N3VnMnZrSVJlQkxOMXBlZ0dyOU5lNTVzMjQyRXBCN1VWYVo?oc=5",
           "time": "2026-07-18 09:41:15",
           "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "盧秀燕控中央施壓不要查廠 政院反擊：勿將食安操作為政治攻防",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pZ0ZnbngxWjNNQmctV1FqTFA1bEtCOEx1Sm5FRlJqSWNMQU5qZm9zclZxZmNEemsxejd5Z0RGaHNPN2Zjc2ZYdVZBQmTSAVJBVV95cUxNb2FKN3lTZVRYWkFSVVVhY1p6bVBUSHZTQ2tvTG5DZk1QdXU2UHBmYlZ0TDFGSkR1XzVnWkpwSE9UckNaa3ZWaWQ1T2s5TXU1anlB?oc=5",
-          "time": "2026-07-18 09:24:13",
-          "publisher": "Google News→NOWnews今日新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "盧秀燕控中央施壓不要查廠 行政院反擊了！ - 政治新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMDQwSl9sV3Q2cks5dzFSUDBad3A2d0JDRkphS3lyYVNMVXM3RDFZSTZlcDc5UGNtSUljMmRxbDRUNVBrMW1idXFVdU5tR1NJcXBpUG4tUTZXRldTTXUwVUZ5YTJZS1FxTjZDSnRsZWdkeG5ILTMyemZTYWJ1MHB2OU9Ga1dfVDlvTmNQNw?oc=5",
-          "time": "2026-07-18 09:24:13",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "盧秀燕控中央施壓不要查廠 政院反擊：勿將食安操作為政治攻防",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vYUo3eVNlVFhaQVJVVWFjWnptUFRIdlNDa29MbkNmTVB1dTZQcGZiVnRMMUZKRHVfNWdaSnBIT1RyQ1prdlZpZDVPazlNdTVqeUHSAVJBVV95cUxNb2FKN3lTZVRYWkFSVVVhY1p6bVBUSHZTQ2tvTG5DZk1QdXU2UHBmYlZ0TDFGSkR1XzVnWkpwSE9UckNaa3ZWaWQ1T2s5TXU1anlB?oc=5",
-          "time": "2026-07-18 09:24:13",
-          "publisher": "Google News→NOWnews今日新聞",
           "severity": "yellow"
         }
       ],
@@ -10091,12 +10049,19 @@
       "city": "台中",
       "place": "台中市西屯區",
       "level": "red",
-      "news_count": 219,
+      "news_count": 218,
       "comment_count": 0,
       "negativity_pct": 15,
       "is_urgent": false,
-      "urgency_score": 318,
+      "urgency_score": 317,
       "news_articles": [
+        {
+          "title": "烘焙教室化身幸福製造所！ 中市單身聯誼19對有緣人甜蜜連線 創95%高配對率",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yc2k3U1RhYUZ2bXl5SkdnYXRRRk92WXc0RjZoYzFXNjdRZDVrZ0VEOS04TGxpUTAyejRSeFV1SVRzQ1F4enJnbWtFUnF1WHVISzdvTURPSmVBdDdu?oc=5",
+          "time": "2026-07-19 09:07:00",
+          "publisher": "Google News→新華報導",
+          "severity": null
+        },
         {
           "title": "第六屆金質歷程獎成果交流會登場 台中學子獲特優登全國舞台分享學習成果",
           "url": "https://n.yam.com/Article/20260719685910",
@@ -11614,20 +11579,6 @@
           "url": "https://www.ettoday.net/news/20260718/3203309.htm",
           "time": "2026-07-18 09:39:00",
           "publisher": "ETtoday",
-          "severity": "yellow"
-        },
-        {
-          "title": "盧秀燕批中央不查廠 綠委：為何高雄抽查18件 台中只驗1次？",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NS0VRQVFjYXJfeFBIMUJ2ZFRwMEZpSUp3dUgyVWw1VmtMc0ZKZFF6djJPSkgydHlOVGhvNWFYZTgydzVYaHNMb0k2cWdoYUV20gFWQVVfeXFMT011MGluX244Q21PdTk0azRLLWwxNk5uLS15WlFXNFBCdFl6Y0lpLUlKcDU4c08tODFQOXlmUmtuSU5CRllpbm02aEZGVlVZY2JVT0tfNkE?oc=5",
-          "time": "2026-07-18 09:26:14",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "盧秀燕批中央不查廠 綠委：為何高雄抽查18件 台中只驗1次？",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QZW0tWnpMenVGM2VnM2piczNJZnpWU1pmUTB3cmNqN19pazlXQ2FVZFVSbnM2c2xuVk1hLWVjYk9fejd5YjJ0QVZwSkdQOW9WVDJv0gFYQVVfeXFMUGY2WmZTb0V2WEVGMGloZFBOMTh4TnBFYnR5SlQ0SnFqdDlHazJpeEs1TjR4UlBhNEJqbHZRNV8xREdHNG5OeHZDX2ZqOVpIVUR6WWZZRVpQTA?oc=5",
-          "time": "2026-07-18 09:26:14",
-          "publisher": "Google News→UDN",
           "severity": "yellow"
         }
       ],
