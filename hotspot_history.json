@@ -56691,7 +56691,7 @@
     },
     {
       "date": "2026-07-19",
-      "snapshot_at": "2026-07-19T01:29:28.756319+00:00",
+      "snapshot_at": "2026-07-19T01:34:10.721677+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -56706,20 +56706,6 @@
           "sample_titles": []
         },
         {
-          "title": "連江公廁議題",
-          "city": "連江",
-          "place": "連江縣（馬祖）",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 1,
-          "sample_titles": [
-            "連江環資局辦理性別友善公廁推廣課程 建立對性別友善公廁正確認知"
-          ]
-        },
-        {
           "title": "嘉義縣公廁議題",
           "city": "嘉義縣",
           "place": "嘉義縣政府",
@@ -56731,6 +56717,20 @@
           "urgency_score": 1,
           "sample_titles": [
             "阿里山奮起湖公廁改善完成 融入地景與山水美學"
+          ]
+        },
+        {
+          "title": "連江公廁議題",
+          "city": "連江",
+          "place": "連江縣（馬祖）",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 1,
+          "sample_titles": [
+            "連江環資局辦理性別友善公廁推廣課程 建立對性別友善公廁正確認知"
           ]
         },
         {
@@ -57023,22 +57023,6 @@
           ]
         },
         {
-          "title": "台東地方動態",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "yellow",
-          "news_count": 15,
-          "comment_count": 0,
-          "negativity_pct": 7,
-          "is_urgent": false,
-          "urgency_score": 18,
-          "sample_titles": [
-            "侵入果園「咬幾口就丟」…台東猴亂加劇 農民嘆陷被動防禦",
-            "參訪東博會 觀光署長籲深度遊台東",
-            "台東 蔡學良案18年重啟偵查 國防部允配合實彈測試"
-          ]
-        },
-        {
           "title": "雲林地方動態",
           "city": "雲林",
           "place": "雲林縣政府",
@@ -57052,6 +57036,22 @@
             "NCC規劃今年城鎮韌性防空演習期間，14縣市將演練網路受阻，僅能使用語音通話與簡訊，時間統一為下午2時30分至3時。 小",
             "高雄雲林大型徵才 媒合率破五成",
             "雲林食農接軌國際 旅讀華南展現農村金牌食力"
+          ]
+        },
+        {
+          "title": "台東地方動態",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "yellow",
+          "news_count": 15,
+          "comment_count": 0,
+          "negativity_pct": 7,
+          "is_urgent": false,
+          "urgency_score": 18,
+          "sample_titles": [
+            "侵入果園「咬幾口就丟」…台東猴亂加劇 農民嘆陷被動防禦",
+            "參訪東博會 觀光署長籲深度遊台東",
+            "台東 蔡學良案18年重啟偵查 國防部允配合實彈測試"
           ]
         },
         {
@@ -57347,14 +57347,14 @@
           "city": "高雄",
           "place": "高雄市鳳山區",
           "level": "red",
-          "news_count": 160,
+          "news_count": 161,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 172,
+          "urgency_score": 173,
           "sample_titles": [
+            "大港閱冰熱鬧登場陳其邁邀民眾品嚐高雄特色冰品探索哈瑪星與旗津夏日風情– 地方新聞",
             "全台最大動漫地下街誕生！高雄駅一番街北站開幕",
-            "致癌油風暴》被蔣萬安針對 高市府：5年查廠6次 抽驗18件",
             "致癌油風暴》被蔣萬安針對 高市府：5年查廠6次 抽驗18件"
           ]
         },
@@ -57379,15 +57379,15 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "red",
-          "news_count": 173,
+          "news_count": 174,
           "comment_count": 38,
           "negativity_pct": 4,
           "is_urgent": true,
-          "urgency_score": 256,
+          "urgency_score": 257,
           "sample_titles": [
+            "快新聞／蔣萬安揪人了！為問題油案續槓中央 今早與2藍營首長晤盧秀燕",
             "致癌油風暴》衛福部秀公文 批盧秀燕公然造謠",
-            "致癌油風暴》衛福部秀公文 批盧秀燕公然造謠",
-            "共商致癌油善後 蔣萬安今拜會盧秀燕"
+            "致癌油風暴》衛福部秀公文 批盧秀燕公然造謠"
           ]
         },
         {
