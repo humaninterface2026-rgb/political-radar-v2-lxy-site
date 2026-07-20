@@ -57353,7 +57353,7 @@
     },
     {
       "date": "2026-07-20",
-      "snapshot_at": "2026-07-20T11:05:06.537684+00:00",
+      "snapshot_at": "2026-07-20T11:10:29.689071+00:00",
       "hotspots": [
         {
           "title": "嘉義縣車禍事件",
@@ -57785,11 +57785,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 61,
+          "news_count": 60,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 76,
+          "urgency_score": 75,
           "sample_titles": [
             "陪伴台南人近半世紀！名店「阿江鱔魚」中秋後熄燈 老饕崩潰：吃不到了",
             "國道驚魂！閃避鐵塊竟遭聯結車猛撞 台南仁德1死4傷真相待查",
@@ -57801,11 +57801,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 66,
+          "news_count": 65,
           "comment_count": 0,
-          "negativity_pct": 21,
+          "negativity_pct": 22,
           "is_urgent": false,
-          "urgency_score": 108,
+          "urgency_score": 107,
           "sample_titles": [
             "花蓮縣警察局少年隊長韓修愛警廣宣導「青春專案」竊盜防制",
             "暑期親水安全向下扎根 花蓮市長盃戶外水域運動體驗登場",
@@ -57829,6 +57829,22 @@
           ]
         },
         {
+          "title": "高雄地方動態",
+          "city": "高雄",
+          "place": "高雄市楠梓區",
+          "level": "red",
+          "news_count": 81,
+          "comment_count": 0,
+          "negativity_pct": 4,
+          "is_urgent": false,
+          "urgency_score": 90,
+          "sample_titles": [
+            "高雄「大港閱冰」兩天吸4萬人次 周邊商圈買氣增3成",
+            "高雄市榮服處攜手愛心團隊 關懷旗山弱勢族群",
+            "勞工大學擴展東高雄多元學習領域 「全方位伸展瑜珈」美濃班正式開課"
+          ]
+        },
+        {
           "title": "桃園地方動態",
           "city": "桃園",
           "place": "桃園市政府",
@@ -57842,22 +57858,6 @@
             "AI科技教育向下扎根 桃園國際科技夏令營培育未來人才",
             "桃園區12席不再照藍綠劇本 兩場爭議改寫勝負線",
             "暑假遊桃園海線 永安漁港星繽樂7/18登場 音樂、市集、煙火接力登場"
-          ]
-        },
-        {
-          "title": "高雄地方動態",
-          "city": "高雄",
-          "place": "高雄市楠梓區",
-          "level": "red",
-          "news_count": 83,
-          "comment_count": 0,
-          "negativity_pct": 4,
-          "is_urgent": false,
-          "urgency_score": 92,
-          "sample_titles": [
-            "高雄「大港閱冰」兩天吸4萬人次 周邊商圈買氣增3成",
-            "高雄市榮服處攜手愛心團隊 關懷旗山弱勢族群",
-            "勞工大學擴展東高雄多元學習領域 「全方位伸展瑜珈」美濃班正式開課"
           ]
         },
         {
@@ -57881,11 +57881,11 @@
           "city": "台北",
           "place": "台北市士林區",
           "level": "red",
-          "news_count": 153,
+          "news_count": 152,
           "comment_count": 0,
           "negativity_pct": 16,
           "is_urgent": false,
-          "urgency_score": 225,
+          "urgency_score": 224,
           "sample_titles": [
             "蔣萬安稱北市無油品品廠？顏若芳轟：士林有一家豬油煉製加工廠",
             "稽查成績單「台中1次、台北0次」！她嗆爆藍營：蔣上街掩蓋失職 | 要聞",
@@ -57913,11 +57913,11 @@
           "city": "台中",
           "place": "台中市中區",
           "level": "red",
-          "news_count": 265,
+          "news_count": 263,
           "comment_count": 0,
           "negativity_pct": 20,
           "is_urgent": false,
-          "urgency_score": 421,
+          "urgency_score": 419,
           "sample_titles": [
             "政院再揭「2批油品不合格」 黃國昌：中市府早公布 卓榮泰耍寶？",
             "【謠言澄清】外傳中市府提供中央檢驗資料造假 中市府提公文駁斥：中央送驗的",
