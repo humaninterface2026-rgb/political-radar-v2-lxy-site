@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "snapshot_at": "2026-07-20T10:54:58.053105+00:00",
+  "snapshot_at": "2026-07-20T11:05:06.537684+00:00",
   "hotspots": [
     {
       "title": "嘉義縣車禍事件",
@@ -1753,11 +1753,11 @@
       "city": "台中",
       "place": "台中市政府",
       "level": "red",
-      "news_count": 12,
+      "news_count": 13,
       "comment_count": 0,
       "negativity_pct": 100,
       "is_urgent": true,
-      "urgency_score": 48,
+      "urgency_score": 52,
       "news_articles": [
         {
           "title": "藍小雞絕食抗議毒油案 盧秀燕探視喊心疼：注意補充水分",
@@ -1765,6 +1765,13 @@
           "time": "2026-07-20 18:14:09",
           "publisher": "Yahoo新聞",
           "severity": "red"
+        },
+        {
+          "title": "藍小雞絕食抗議毒油案 盧秀燕探視喊心疼：注意補充水分 | 政治 | CTWANT",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84ZUdJajd3Rm52VVZzNm92bm1Vb1BtZjhXXzlObjljLUpSNF9sOFAxbTFtVm9iaVEtb1l2VEdRR0pKcmUtdDN0andkS1BKN1HSAVRBVV95cUxQUlZYQkR2Zkk2SkRQRXAtaXpOWVR5SlpJUi1vZHltNnpWdjNvNWVrRU5TYXVBaGxiYkZCTEtKdzc0cXBIUEhyWjdoYXpMNnZ0bHNURk4?oc=5",
+          "time": "2026-07-20 18:14:09",
+          "publisher": "Google News→CTWANT",
+          "severity": "yellow"
         },
         {
           "title": "中聯油脂案延燒，國民黨台北市議員楊植斗及台北市議員參選人賴苡任等人，在凱道前絕食抗議，台中市長盧秀燕、基隆市長謝國樑今天...",
@@ -3055,11 +3062,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 65,
+      "news_count": 66,
       "comment_count": 0,
-      "negativity_pct": 22,
+      "negativity_pct": 21,
       "is_urgent": false,
-      "urgency_score": 107,
+      "urgency_score": 108,
       "news_articles": [
         {
           "title": "花蓮縣警察局少年隊長韓修愛警廣宣導「青春專案」竊盜防制",
@@ -3262,6 +3269,13 @@
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWXV1NENzeGtxdWtsRy1EWWpZVWhxeENqWWYzbVJTX3VncllDbHVUT3dUNi12VGJlSUkxNWszRjdnRmJ1REpKdlBkdm5aVFRGSGJuRVJTM2QzeHMzRHFHTHIzS3ZaWlUxbGVYLTlhU0Utc1pxTVdiYmt4MlJlMVAyMWY0NWtIcml1OWdfczRtaWpEUTFqcHlybkI5VW1CODBRMEhMcEh1bFowMXR2VXozbm51YzlrNEUxS0k2SmVYY2I4TG5vM2NnNHExRUo1RzZTYVpKX0VVRkZjNGhPMF9oR3hmR2xpdGhFR2ZIbFN2cVBiY3lWZUtnbFJRcUQ?oc=5",
           "time": "2026-07-20 13:02:35",
           "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "2026太平洋南島聯合豐年節「綻放之夜」登場 花蓮六大族群攜手夏威夷、大溪地共譜南島情誼",
+          "url": "https://n.yam.com/Article/20260720665884",
+          "time": "2026-07-20 12:00:00",
+          "publisher": "蕃新聞→台灣產經新聞網",
           "severity": null
         },
         {
@@ -4014,11 +4028,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 80,
+      "news_count": 81,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 86,
+      "urgency_score": 87,
       "news_articles": [
         {
           "title": "AI科技教育向下扎根 桃園國際科技夏令營培育未來人才",
@@ -4382,6 +4396,13 @@
           "url": "https://www.ctwant.com/article/489986/",
           "time": "2026-07-20 12:00:50",
           "publisher": "CTWANT",
+          "severity": null
+        },
+        {
+          "title": "2026太平洋南島聯合豐年節「綻放之夜」登場 花蓮六大族群攜手夏威夷、大溪地共譜南島情誼",
+          "url": "https://n.yam.com/Article/20260720665884",
+          "time": "2026-07-20 12:00:00",
+          "publisher": "蕃新聞→台灣產經新聞網",
           "severity": null
         },
         {
@@ -5841,11 +5862,11 @@
       "city": "台北",
       "place": "台北市士林區",
       "level": "red",
-      "news_count": 155,
+      "news_count": 153,
       "comment_count": 0,
-      "negativity_pct": 15,
+      "negativity_pct": 16,
       "is_urgent": false,
-      "urgency_score": 227,
+      "urgency_score": 225,
       "news_articles": [
         {
           "title": "蔣萬安稱北市無油品品廠？顏若芳轟：士林有一家豬油煉製加工廠",
@@ -6917,20 +6938,6 @@
           "time": "2026-07-19 19:04:05",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "政院酸台中沒晶片？442 億無人機計畫爆搶案！9.8 億標案驗收不過竟藏黑幕？蔣萬安支持度飆破 96% 威脅賴清德連任！【#吵完了你來看】#國民開小會",
-          "url": "https://www.youtube.com/watch?v=bOBPVWTh47g",
-          "time": "2026-07-19 19:00:29",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "分析》蔣萬安登高一呼 台北市長選舉太搶戲 民進黨拚突圍",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBZDE4am93SzhZUElCUFJLTUViRWYzbThDcjZMVk1KQ2tHdzdsRGhLYnIzRTc3eVlPUUtfRXV4NVhhamdJWWJlVG9QLWo1Z0ZJTWlDODRqSGRCcm9xazBZZG43a0tKNFZkUUtTSHRn?oc=5",
-          "time": "2026-07-19 18:59:05",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -6940,12 +6947,26 @@
       "city": "台中",
       "place": "台中市政府",
       "level": "red",
-      "news_count": 151,
+      "news_count": 155,
       "comment_count": 34,
       "negativity_pct": 4,
       "is_urgent": true,
-      "urgency_score": 233,
+      "urgency_score": 237,
       "news_articles": [
+        {
+          "title": "盧秀燕親自到場會勘關心文九設校 陳廷秀要盧照顧整個台灣",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIWXVIMXFHYUVUREVxR3NEMHdlTzhRX0pVSDNzOUJ1cG1xdE1CTzRuS0d2MUlrZjJyZnJVN0JYVDZjckJxRm1kb203bVlrV2QyRlE?oc=5",
+          "time": "2026-07-20 18:49:21",
+          "publisher": "Google News→中華新聞雲／中華日報",
+          "severity": null
+        },
+        {
+          "title": "國民黨食安戰開打！蔣萬安盧秀燕互別苗頭 名嘴揭少主變共主背後盤算",
+          "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNYUpFN01Dd2FCUGNTLWpQY2dYcjNBaDBQZU0zd0x3SG1rWER3bXZ4X1pBWDlQenBjOVhpeTF1amQtVUdiVnhFN3k1M0x2R0tuYV9BcHpPUTVrVnJUMmtqNmQ5ejlMVDZ0bEN0QW0zMFViWkdWdlNqZFN2blEza19zLUFIOEhBVVBodFM0b3k4eTJDbkJpdDBPdE9lNWhONUFTVVkxZGxHM3lZdUtYX1EzRktyMTdpY0RYRFkxZWNYWnhRc3RqSUhZNVpMbzB6ZGN2Y21CMEhBYzhIWHVadjhueFQ4aGFibE15YW52ek16bE1VbGsyNjIyYTJOY1Zmenh3WDdLbk9BQ2pDUEdad3NNd0hZZ2t6THctRU9BVTJnekxwaUVyMklXeUNVa1ZFMy1wNjF0aWM3VUVVOXNSTTJUck9NY1k2cDdnSk9MTDVGc3Uyam1oZWdxaV92cU5EUDB6M3BIODZ3dnFDdlJTUzFlSTYxQmF1ODNIMTlTZWNzc3VVZFB5MUVBZC01YmRSRkl6blllZW5IWlFLSkplMUE4dmt0WlFSTUgwVEFEd3VXTElQUDlLUGxkOXVkQWg0Zw?oc=5",
+          "time": "2026-07-20 18:47:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
         {
           "title": "盧秀燕親自到場會勘關心文九設校 陳廷秀要盧照顧整個台灣 | 中華日報",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJT25HN1M4QUlWWG5COU5NZk5zczVPRVZ2V0xoZC15a3I3NVNTY1o5N0VBa2NSWVZaWndtcHFMR2FoUkh4YXZHRktBbmxIYnAwekhZRFBR?oc=5",
@@ -6975,10 +6996,24 @@
           "severity": "yellow"
         },
         {
+          "title": "盧秀燕號召反毒油國是會議 許淑華籲中央:別當成對抗手段",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPdEk3Q1RfT3p3M0VIMXZaVFJoaXZ5eGRqUkR4VW5UZklUTE9zU1VoRnUwM2lfSjRZQ2hlQ1B6aTVwOUliV1ZoVWRES0lFZGlBN3Y2TzBWVjNsYkhhbXlnR3RUVVBHZkQ1aWUxUEU4UmcyNDAtVDRneU9RdVF3MGQtaV9ZejBiSEpUdG5ndlcxTXQ1MHY2bDkwZ09oWFc1SzhDWlBuTTBXLWc5MFJjb29pMEhTck9RalFOU0pWcXhjNWl2dWMxSGQ4WWppU0FWS3JTcl9wZnJUd0g5Z3FTRFBkT3N3OENIUjNySkdSd25xSGJMZFdkTXNpblZ0aUY5SldRd3o2YlV2WWMySnlnXzJicUY3UXRuZHJuNWRKZml1Ukxta3RvbXplTjZSQ2pDMUhCVmVHV3JwYUZLaWpSMXY5V1M1NXN2aFZ1RzdkUVBkYkNzM1B5ZWlLc3dwdFJNZWZRaU9QaWpoZ3dlU2I2cVRtbFNlZGZZZ014ODBnaUhjVmVYUQ?oc=5",
+          "time": "2026-07-20 18:16:02",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
           "title": "盧秀燕親自到場會勘關心文九設校 陳廷秀要盧照顧整個台灣",
           "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxORXpOZ2V4UTd2NGtpOGF3ZkpnM1lhVzE3aWlubjN4X2lGRTlQMzdDTjlNUHh5dEhJajdxTG01b1pici16VFRLYVJBV2s1WTR6WUZmaFA5VlFwZlpUb3B3Ym1VYThKWElqTFdNTTZmOFRlUWU1aDNqMmFpdHV6eU5Ud0hlRXZLeFdxNEJfVWNTMGZtZnhaeEw4QTN5LUpZUGtXcHpnb1JrTDQtU3JDZENCOC1jWWUwX09GM1Vvd2xpZlhIajN6V3EwUWN5NThaeVFPZldqSmttdDFQSERWMjl3blc3SzE2MHp1bzRZXzVRWlRPc1A5emNaQlZpb2F3dHVoR21qQ1J4WkVOUTZ2NmNJdlVjd1RUWEFBdHZuV1dENHkwMWxHbUI2QTNZVVo5TWtkZkhyVWdnbEtvcFdOeWV4UkNXMHRaUmU5Wi1yVzNvMjE4RjZyLVVEd3J2MHNMQ1N5d1d6cERZWmZRVVV1S0JHYjAyMjI1NUZuN0t5M3ZFX1pwakJWTVp2cGRBNUI?oc=5",
           "time": "2026-07-20 18:10:42",
           "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "盧秀燕號召反毒油國是會議 許淑華籲中央:別當成對抗手段",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WTF9JNXgzTlVNSFJRLTdOQ0dxNDNLWFkxWVJMYW5nY25mTHYtOFQyYkQ2bFdRN2pOalB6cUM5SU9nd3J4QTZVc2JMZmxCaUg5MUxsM1lRYnN5am4xa1JHeQ?oc=5",
+          "time": "2026-07-20 18:03:02",
+          "publisher": "Google News→民視新聞網",
           "severity": null
         },
         {
@@ -7563,7 +7598,7 @@
           "severity": null
         },
         {
-          "title": "蔣萬安、盧秀燕將開「反毒油國是會議」 邀綠營首長：不談選舉、談食安",
+          "title": "【有片】蔣萬安、盧秀燕將開「反毒油國是會議」 邀綠營首長：不談選舉、談食安",
           "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQMzBSWldtaC1TcjRHU2R5VDhETGEwV0ZNaG5jOWQwSE5jcHRRbDdQWUhLMjJFRWxpNk1vRk5PQkt0eEY5YnVMc3hDS09ETHQ0d2VxU2ZWYnBBQUtPRG1QUjVEcHR0cW1vQlVuME5TWld5MHRmRDJPWmVmaXk1NkxFZFVIbXhscGo3czVLY2NDWGtETWdoZm1RZVZzeUpfZ09MZUo3b2lKWXBhZEtlNFloX1VOSnVLejVlem1jWXR2alo4aXItMXN5VXlnZ3RFR3FoOXlaeFVEaGRrVjFKWlpQanRmaEJ2Z091V2d6NkFmR0JKSXh4SGpIVkdDa3B0ME81aFJoYVpDNm9Jbk0tb0U5Wm9teTZNeF9lSFVDSk15N2ZmZ1FmZThrYnlkaktPdjhxTzNSMUhDSVdvSkhzVnoyaDlWLUFJMHUtMFU1YTZyWklXZUJHbHVpN2Z5MklRX3NCTHNvRGs2T0lPUFdTMXNvbDFGUGpHRHd0?oc=5",
           "time": "2026-07-20 12:41:02",
           "publisher": "Yahoo新聞",
@@ -8090,7 +8125,7 @@
           "text": "超好笑！你都被爆料放水中聯油脂了。還敢出來講話喔。2014年自己修法，地方查驗油品的法。你忘記還是怕想起來？馬英九當時還是總統。盧秀燕出來打球啦！你完蛋了",
           "author": "jaggerwang",
           "url": "",
-          "time_text": "6小時",
+          "time_text": "7小時",
           "signal": "yellow"
         },
         {
@@ -8098,7 +8133,7 @@
           "text": "致癌油事發至今中聯油脂還沒道歉盧秀燕還沒道歉…丟臉",
           "author": "migo90493",
           "url": "",
-          "time_text": "2天",
+          "time_text": "3天",
           "signal": "yellow"
         },
         {
@@ -8284,17 +8319,38 @@
       "city": "台中",
       "place": "台中市中區",
       "level": "red",
-      "news_count": 261,
+      "news_count": 265,
       "comment_count": 0,
       "negativity_pct": 20,
       "is_urgent": false,
-      "urgency_score": 414,
+      "urgency_score": 421,
       "news_articles": [
+        {
+          "title": "政院再揭「2批油品不合格」 黃國昌：中市府早公布 卓榮泰耍寶？",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHJTbXpwNG51TVFDS09oeld3eW5rWEhJRFJMX2lPOFljUGVEOGYyVnI4T2NDa2FJTEU2bTUyS2MyelM1ZHgwYnVhdEcwN085YWdIVDVRSktkeDAyeGtUbnlkLWg2UXNTTEJSNG4wSzlwV3owQUZjQmZTT3A2NUwxMFZaWQ?oc=5",
+          "time": "2026-07-20 18:55:00",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "【謠言澄清】外傳中市府提供中央檢驗資料造假 中市府提公文駁斥：中央送驗的",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tMFBZa0w0enBKNVRkM1BYWU5MOVNXY3loajJ4TVFGa3UxaHI3cVh0Z1UzUGpEZEx3YXVtUVczb2ltaC1BLUhKQkZsaEJOX0xpRHc?oc=5",
+          "time": "2026-07-20 18:51:22",
+          "publisher": "Google News→taichung.gov.tw",
+          "severity": "red"
+        },
         {
           "title": "中市首創地價資訊3維化 打造3D「地價地形圖」",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VOXBwZWRfVVZFUlNCMkc3MU9KTEV0a3BtYW1zSEtPNl8wdTUwdWE2RHpwT1JlblFNZHdTQVAzZzFTMmVVZVdXU3BxWjFPdkM4R2g0Sm5B?oc=5",
           "time": "2026-07-20 18:36:08",
           "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "不用久等紅燈中市67處路口試辦夏日號誌減秒 停等少15至25秒 | 王秀禾 | 地方新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zM0JBR3VpeUgxMXV6dFY3UXNpWlpVYklzQkcyUE16eVdFU2VkRkVJUVAtRzdyN3lVczEyaEpudERoc1NkM1FLQXlGVWRVZw?oc=5",
+          "time": "2026-07-20 18:27:52",
+          "publisher": "Google News→風傳媒",
           "severity": null
         },
         {
@@ -8310,6 +8366,13 @@
           "time": "2026-07-20 18:27:01",
           "publisher": "Google News→民視新聞網",
           "severity": "yellow"
+        },
+        {
+          "title": "盧秀燕轟中央\"為甩鍋\"? 溫朗東:台中沒查中聯油脂苯駢芘",
+          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNQ2hhZUVvWVhTVE5ZQ1JTU25XY1BSaVhmVm5QM2tEUmluZXc1ZVNlc2ppV2s2aTZ2UFFYSTdrRUxpazhTWWpwMU9VNHRRRlJPN0JNWFVIZnhZSlZMemtka2lDM0lnaEluZU1Ha2E0c2R5SjFHR3FudGxvcnk4bUp2SnJ2MHk4TWJZdEl3UGl6YmphR2VSTTFBTjFjaXljOE85Wm10V1hLU05MWXJjbi1NNkg4OWotd3lyVmoyaTZkMjI1TWFTM3RXOWRYUGtJTWFocTBGVVFVUFk5ZFFUelpMWmZSTGJ6bl9ackhtUDBjajJkYjNuYkI3ZGtoV2NOSjhSM1p1OXdvdGFZYWV6X3ZERWsyWExsbV9JZGltZ1hzYzVOd3J3XzJoZFl5eUdSdFFEX3VjRUJhWUJXWjE4ZEdlYkNkWkNYcjBZV0ZqZmltT1pfazd1UTFfNEZTX0hjc2NJamctc3JjaGJYcHVOaWc?oc=5",
+          "time": "2026-07-20 18:27:01",
+          "publisher": "Yahoo新聞",
+          "severity": null
         },
         {
           "title": "【謠言澄清】外傳中市府提供中央檢驗資料造假 中市府提公文駁斥：中央送驗的",
@@ -8690,6 +8753,13 @@
           "severity": null
         },
         {
+          "title": "2025漏驗中聯油脂？ 中市府：抽驗名單由食藥署指定",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1qY1VVSTdPWHpOaExCdGV5aXRXTF9TUkFab3hDOVFkSkZ4bGFUbkszNUFCc2xsMUdQd1pZWkRuUE84SEdyZUZHONIBTEFVX3lxTE53QTVjSDRsRTFwSXhmOFQydzljWGFBTm9XUmh1X0NuZHBIbW1lZUh4UlpRNWo5YzFuZDExY2xGelFmblU5VGhoanplRTI?oc=5",
+          "time": "2026-07-20 15:18:00",
+          "publisher": "三立新聞網",
+          "severity": null
+        },
+        {
           "title": "[HatePolitics] [新聞] 毒油破口？溫朗東爆台中隱匿「未驗苯駢",
           "url": "https://www.ptt.cc/bbs/HatePolitics/M.1784531536.A.27C.html",
           "time": "2026-07-20 15:12:16",
@@ -8968,6 +9038,13 @@
           "time": "2026-07-20 14:15:11",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
+        },
+        {
+          "title": "被台中市府斥烏龍爆料 溫朗東曬照：我也是看你們寫的報告......",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12aVphc1hSbzN0TWt4Rk5sLVNPcTZ1UzFpa0k4a2ZyVTBJVTdheGV3LWFBNW9yZWJjX3FraC1FaTBzNHNjLXdaZmVwZFBiMkVneVZES1JUMWVaRDd6Wlg0RzNlSlFCRDdjMkHSAW9BVV95cUxOZ01PYnFPamE1NWNBc1FEeWtfSE0xaWNNLUZjSWI3dmkxLUltZ013bGRtSXM4bF9hcXc2SlpNTHVsNEVqZC1HZ2FXOEJOVk93anlEVm1Md1VJdmw3UXpOQVJmR2piSUFha0otNVJTeUk?oc=5",
+          "time": "2026-07-20 13:55:00",
+          "publisher": "自由時報",
+          "severity": null
         },
         {
           "title": "台中西北大飯店大火燒3小時 看護自責：沒把屋主卑下樓",
@@ -10100,20 +10177,6 @@
           "title": "[Gossiping] [新聞] 台南油廠5年驗19次「台中8年1次」 林俊憲",
           "url": "https://www.ptt.cc/bbs/Gossiping/M.1784459047.A.D06.html",
           "time": "2026-07-19 19:04:07",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "政院酸台中沒晶片？442 億無人機計畫爆搶案！9.8 億標案驗收不過竟藏黑幕？蔣萬安支持度飆破 96% 威脅賴清德連任！【#吵完了你來看】#國民開小會",
-          "url": "https://www.youtube.com/watch?v=bOBPVWTh47g",
-          "time": "2026-07-19 19:00:29",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "[Gossiping] [問卦] 台中百貨公司交通爛是不是房價的關係",
-          "url": "https://www.ptt.cc/bbs/Gossiping/M.1784458519.A.B72.html",
-          "time": "2026-07-19 18:55:19",
           "publisher": null,
           "severity": null
         }
