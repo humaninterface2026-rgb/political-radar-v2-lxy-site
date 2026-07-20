@@ -57353,7 +57353,7 @@
     },
     {
       "date": "2026-07-20",
-      "snapshot_at": "2026-07-20T01:41:52.212371+00:00",
+      "snapshot_at": "2026-07-20T01:47:14.867295+00:00",
       "hotspots": [
         {
           "title": "新北狼師事件",
@@ -57367,34 +57367,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "新北應召女控馬伕持槍抵太陽穴性侵！「不做愛就斃了妳」二審判決大逆轉"
-          ]
-        },
-        {
-          "title": "屏東車禍事件",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "影／台一線枋寮路口車禍 汽車左轉撞飛直行機車騎士骨折"
-          ]
-        },
-        {
-          "title": "彰化車禍事件",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "國1彰化段驚悚車禍！聯結車撞槽車「車頭慘折V字」 南向車道受阻"
           ]
         },
         {
@@ -57412,9 +57384,9 @@
           ]
         },
         {
-          "title": "高雄陳情/抗議",
-          "city": "高雄",
-          "place": "高雄市政府",
+          "title": "彰化車禍事件",
+          "city": "彰化",
+          "place": "彰化縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -57422,7 +57394,21 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "上街抗議甩鍋黨大失敗陳其邁一劍封喉：查驗就是地方責任"
+            "國1彰化段驚悚車禍！聯結車撞槽車「車頭慘折V字」 南向車道受阻"
+          ]
+        },
+        {
+          "title": "屏東車禍事件",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "影／台一線枋寮路口車禍 汽車左轉撞飛直行機車騎士骨折"
           ]
         },
         {
@@ -57437,6 +57423,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "噪音陳情減4成！桃園再出招 深夜爆竹禁令提前、500工地即時監控"
+          ]
+        },
+        {
+          "title": "高雄陳情/抗議",
+          "city": "高雄",
+          "place": "高雄市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "上街抗議甩鍋黨大失敗陳其邁一劍封喉：查驗就是地方責任"
           ]
         },
         {
@@ -57699,11 +57699,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "yellow",
-          "news_count": 61,
+          "news_count": 60,
           "comment_count": 0,
-          "negativity_pct": 7,
+          "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 73,
+          "urgency_score": 69,
           "sample_titles": [
             "色溫路燈 桃園73處路口9月底前換裝",
             "台北夏季旅展桃園館優惠放送- 投資理財- 工商時報",
@@ -57778,11 +57778,11 @@
           "city": "台北",
           "place": "台北市中正區",
           "level": "red",
-          "news_count": 12,
+          "news_count": 11,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 48,
+          "urgency_score": 44,
           "sample_titles": [
             "蔣萬安為何發起凱道毒油抗議？作家揭他一招「幫盧秀燕解套」：送出政治大人情",
             "725凱道抗議成選戰分水嶺？沈政男曝蔣萬安為「總統路」鋪路",
@@ -57874,11 +57874,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 56,
+          "news_count": 55,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 68,
+          "urgency_score": 67,
           "sample_titles": [
             "2026新北市議員選舉逐漸升溫，板橋區議員應選9席，藍綠皆提滿參選人，選情進入白熱化。葉元之票源流向、周勝考與石一佑地方",
             "國民黨新北市長參選人李四川今天出席中和區市政說明會，現場湧入上千名支持者，揮舞國旗、高喊「凍蒜」。李四川表示，若當選將與",

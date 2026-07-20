@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "snapshot_at": "2026-07-20T01:41:52.212371+00:00",
+  "snapshot_at": "2026-07-20T01:47:14.867295+00:00",
   "hotspots": [
     {
       "title": "新北狼師事件",
@@ -18,48 +18,6 @@
           "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E6%87%89%E5%8F%AC%E5%A5%B3%E6%8E%A7%E9%A6%AC%E4%BC%95%E6%8C%81%E6%A7%8D%E6%8A%B5%E5%A4%AA%E9%99%BD%E7%A9%B4%E6%80%A7%E4%BE%B5-%E4%B8%8D%E5%81%9A%E6%84%9B%E5%B0%B1%E6%96%83%E4%BA%86%E5%A6%B3-%E4%BA%8C%E5%AF%A9%E5%88%A4%E6%B1%BA%E5%A4%A7%E9%80%86%E8%BD%89-073824383.html",
           "time": "2026-07-19 15:38:24",
           "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "屏東車禍事件",
-      "city": "屏東",
-      "place": "屏東縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "影／台一線枋寮路口車禍 汽車左轉撞飛直行機車騎士骨折",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QdXRMZ1Y3dVJya0U4MnVfczdPUUVkcWxJb3FOWkgxVFAwZ3Jabk1reklpc0lfRnZHbm9DczBQby1OaXdQNFNFMGF2VDJNcXNN0gFWQVVfeXFMT1J6QkZCblhPSXRsRzhBcjUxd2Z6TnlteTRjUGpuR2Y4Zk9DVEstcG94ejNXQ3FuOXdVSjVlQ0VWSHFlTnhyUHVFeEdmRTJZX3hWVy1PUnc?oc=5",
-          "time": "2026-07-19 11:58:45",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "彰化車禍事件",
-      "city": "彰化",
-      "place": "彰化縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "國1彰化段驚悚車禍！聯結車撞槽車「車頭慘折V字」 南向車道受阻",
-          "url": "https://www.ctwant.com/article/489874/",
-          "time": "2026-07-19 12:03:45",
-          "publisher": "CTWANT",
           "severity": "yellow"
         }
       ],
@@ -87,9 +45,9 @@
       "comments": []
     },
     {
-      "title": "高雄陳情/抗議",
-      "city": "高雄",
-      "place": "高雄市政府",
+      "title": "彰化車禍事件",
+      "city": "彰化",
+      "place": "彰化縣政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -98,10 +56,31 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "上街抗議甩鍋黨大失敗陳其邁一劍封喉：查驗就是地方責任",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90NXk5R3MxMlVwbWpCU1d2Ulc2NkRaYUZ3MEp5d2NQNnRiZWFpc3UtYncwaWFFVk54ZFhHV19qNHpyQ3JiSzV4T09wQTdOaTl4ZDVmN2g0T0dhdkl5OXJBMGlXOWNPUTNLTW9xMw?oc=5",
-          "time": "2026-07-19 10:44:51",
-          "publisher": "Google News→Mobile01",
+          "title": "國1彰化段驚悚車禍！聯結車撞槽車「車頭慘折V字」 南向車道受阻",
+          "url": "https://www.ctwant.com/article/489874/",
+          "time": "2026-07-19 12:03:45",
+          "publisher": "CTWANT",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "屏東車禍事件",
+      "city": "屏東",
+      "place": "屏東縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "影／台一線枋寮路口車禍 汽車左轉撞飛直行機車騎士骨折",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QdXRMZ1Y3dVJya0U4MnVfczdPUUVkcWxJb3FOWkgxVFAwZ3Jabk1reklpc0lfRnZHbm9DczBQby1OaXdQNFNFMGF2VDJNcXNN0gFWQVVfeXFMT1J6QkZCblhPSXRsRzhBcjUxd2Z6TnlteTRjUGpuR2Y4Zk9DVEstcG94ejNXQ3FuOXdVSjVlQ0VWSHFlTnhyUHVFeEdmRTJZX3hWVy1PUnc?oc=5",
+          "time": "2026-07-19 11:58:45",
+          "publisher": "Google News→UDN",
           "severity": "yellow"
         }
       ],
@@ -124,6 +103,27 @@
           "time": "2026-07-19 10:29:55",
           "publisher": "Google News→UDN",
           "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄陳情/抗議",
+      "city": "高雄",
+      "place": "高雄市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "上街抗議甩鍋黨大失敗陳其邁一劍封喉：查驗就是地方責任",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90NXk5R3MxMlVwbWpCU1d2Ulc2NkRaYUZ3MEp5d2NQNnRiZWFpc3UtYncwaWFFVk54ZFhHV19qNHpyQ3JiSzV4T09wQTdOaTl4ZDVmN2g0T0dhdkl5OXJBMGlXOWNPUTNLTW9xMw?oc=5",
+          "time": "2026-07-19 10:44:51",
+          "publisher": "Google News→Mobile01",
+          "severity": "yellow"
         }
       ],
       "comments": []
@@ -1445,11 +1445,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "yellow",
-      "news_count": 61,
+      "news_count": 60,
       "comment_count": 0,
-      "negativity_pct": 7,
+      "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 73,
+      "urgency_score": 69,
       "news_articles": [
         {
           "title": "色溫路燈 桃園73處路口9月底前換裝",
@@ -1870,13 +1870,6 @@
           "time": "2026-07-19 10:20:47",
           "publisher": "Google News→桃園電子報",
           "severity": null
-        },
-        {
-          "title": "桃園區國際路二段騎樓遭占用、違停亂象惹民怨 居民質疑報警仍未改善",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5XY1FyVnNGUFJmZzNHamt2eGloMlZOQVo2SGdOZlE0M29XdVRWZWtaXzhsbS1UeFZGdU5BeUJVN3Bwc0JoSFE?oc=5",
-          "time": "2026-07-19 09:42:47",
-          "publisher": "Google News→台灣新聞雲報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -2096,11 +2089,11 @@
       "city": "台北",
       "place": "台北市中正區",
       "level": "red",
-      "news_count": 12,
+      "news_count": 11,
       "comment_count": 0,
       "negativity_pct": 100,
       "is_urgent": true,
-      "urgency_score": 48,
+      "urgency_score": 44,
       "news_articles": [
         {
           "title": "蔣萬安為何發起凱道毒油抗議？作家揭他一招「幫盧秀燕解套」：送出政治大人情",
@@ -2177,13 +2170,6 @@
           "url": "https://udn.com/news/story/124948/9636871?from=udn-ch1_breaknews-1-cate1-news",
           "time": "2026-07-19 10:45:59",
           "publisher": "聯合新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "蔣萬安為毒油風暴呼籲725上街抗議3.3萬人網路投票一面倒- 政治",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtVDBFeEFWdzhkY0dMck9TTlNfVzJieHlha0N5cGU4aTBGYTFodHFmN2dCVmFndVp4LTl3aHp5SHoxZmltYlozV2FfQWVIUzliT1N5azd4ZnhLY0EtTWktWTBIRjQzU1Y5bmt3bk1R?oc=5",
-          "time": "2026-07-19 09:45:30",
-          "publisher": "中時新聞網",
           "severity": "red"
         }
       ],
@@ -3335,11 +3321,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 56,
+      "news_count": 55,
       "comment_count": 0,
       "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 68,
+      "urgency_score": 67,
       "news_articles": [
         {
           "title": "2026新北市議員選舉逐漸升溫，板橋區議員應選9席，藍綠皆提滿參選人，選情進入白熱化。葉元之票源流向、周勝考與石一佑地方系統能否順利接班，以及藍綠新人能否突破分票壓力，都可能影響最後席次分配。高網路聲量是否能轉化為實際選票，讓板橋不只是議員席次之爭，也被視為新北市長選戰前哨戰。",
@@ -3725,13 +3711,6 @@
           "time": "2026-07-19 10:32:00",
           "publisher": "Yahoo新聞",
           "severity": "red"
-        },
-        {
-          "title": "毛小孩夏天也怕蚊蟲叮咬！ 新北收容犬染焦蟲症險貧血",
-          "url": "https://news.ltn.com.tw/news/NewTaipei/breakingnews/5510113",
-          "time": "2026-07-19 09:42:46",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
