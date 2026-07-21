@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "snapshot_at": "2026-07-21T01:24:02.559113+00:00",
+  "snapshot_at": "2026-07-21T01:26:19.804835+00:00",
   "hotspots": [
     {
       "title": "嘉義縣車禍事件",
@@ -3636,11 +3636,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "red",
-      "news_count": 60,
+      "news_count": 59,
       "comment_count": 0,
       "negativity_pct": 10,
       "is_urgent": false,
-      "urgency_score": 78,
+      "urgency_score": 77,
       "news_articles": [
         {
           "title": "宜蘭金紙行惡火 燒死鄰婦 延燒3透天厝",
@@ -4053,13 +4053,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uejFHdHBKQTU4S1lvYkFaWEVpWWZtRlpzc2wxeHBfRkNYS1NCaUxXRVE1dmpaejQ3a2o0NzdfTzcyclJYdy13M1R2X3NjS2FxX0JEd2Nn?oc=5",
           "time": "2026-07-20 09:46:09",
           "publisher": "Google News→LINE TODAY",
-          "severity": "red"
-        },
-        {
-          "title": "宜蘭金紙行深夜陷火海 消防架梯救10人…67歲婦送醫不治",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFMjhQZHRvcWdTMmlrY05VZ1ZOSVd6R2pTbDVjV1pqUDdlRHRlRjRzV3B1WXNOeEdncUZvRHNDR21MS1paWVNjSXMzV3RIbGE5MDczNDhQNmY1YUw3X2fSAWhBVV95cUxQLUZrN3ZmSDQxZkJrUEx5dEhkcU01TjFtQ290TkwxN2NCTjlEazV6U09Bc0xsNXhkbGVoOU5QNjVKODhWakF6eFpvUGFVaWhIOFJpNDVrZUpvNmdfb0RtUWpVc29NTkJtdw?oc=5",
-          "time": "2026-07-20 09:24:00",
-          "publisher": "ETtoday",
           "severity": "red"
         }
       ],
