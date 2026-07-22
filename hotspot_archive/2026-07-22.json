@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "snapshot_at": "2026-07-22T10:45:29.866179+00:00",
+  "snapshot_at": "2026-07-22T10:48:41.360983+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -87,27 +87,6 @@
       "comments": []
     },
     {
-      "title": "台中陳情/抗議",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "未抽驗中聯油品台中市府難撇責 藍反毒油抗議淪政治造勢?首次主動發起大型遊行活動!反毒油 蔣萬安政治人氣考驗?｜#李正皓 主持｜#新台派上線 20260721｜三立新聞台",
-          "url": "https://www.youtube.com/watch?v=3zYWBPzB9fQ",
-          "time": "2026-07-21 21:30:06",
-          "publisher": null,
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "新北陳情/抗議",
       "city": "新北",
       "place": "新北市政府",
@@ -144,6 +123,27 @@
           "url": "https://more-news.tw/672639/",
           "time": "2026-07-21 18:53:54",
           "publisher": "墨新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台中陳情/抗議",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "未抽驗中聯油品台中市府難撇責 藍反毒油抗議淪政治造勢?首次主動發起大型遊行活動!反毒油 蔣萬安政治人氣考驗?｜#李正皓 主持｜#新台派上線 20260721｜三立新聞台",
+          "url": "https://www.youtube.com/watch?v=3zYWBPzB9fQ",
+          "time": "2026-07-21 21:30:06",
+          "publisher": null,
           "severity": "yellow"
         }
       ],
@@ -1409,34 +1409,6 @@
       "comments": []
     },
     {
-      "title": "高雄弊案爭議",
-      "city": "高雄",
-      "place": "高雄市政府",
-      "level": "red",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "高雄網紅5寶媽丟摔女嬰、悶臉！上訴三審遭駁回 判刑2年定讞",
-          "url": "https://newtalk.tw/news/view/2026-07-22/1048688",
-          "time": "2026-07-22 13:24:54",
-          "publisher": "新頭殼",
-          "severity": "red"
-        },
-        {
-          "title": "高雄網紅保母丟摔虐嬰 判刑2年確定",
-          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E7%B6%B2%E7%B4%85%E4%BF%9D%E6%AF%8D%E4%B8%9F%E6%91%94%E8%99%90%E5%AC%B0-%E5%88%A4%E5%88%912%E5%B9%B4%E7%A2%BA%E5%AE%9A-061918836.html",
-          "time": "2026-07-22 06:19:18",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "桃園弊案爭議",
       "city": "桃園",
       "place": "桃園市政府",
@@ -1459,6 +1431,34 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PbFhpU3lHT2V5eFA1M3QzeXQzb2NiV2x0MVhYeHJ4Y2dxekJRdDQ5SHE5VGlsZW9VeXVLZmkyZW9FY0dNeWRMT19oSVh0cmNJcUotV2JfN0U3eGxWNlBkY1BwTGJLNFE5ZXJRYnJn?oc=5",
           "time": "2026-07-22 10:08:23",
           "publisher": "中時新聞網",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄弊案爭議",
+      "city": "高雄",
+      "place": "高雄市政府",
+      "level": "red",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "高雄網紅5寶媽丟摔女嬰、悶臉！上訴三審遭駁回 判刑2年定讞",
+          "url": "https://newtalk.tw/news/view/2026-07-22/1048688",
+          "time": "2026-07-22 13:24:54",
+          "publisher": "新頭殼",
+          "severity": "red"
+        },
+        {
+          "title": "高雄網紅保母丟摔虐嬰 判刑2年確定",
+          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E7%B6%B2%E7%B4%85%E4%BF%9D%E6%AF%8D%E4%B8%9F%E6%91%94%E8%99%90%E5%AC%B0-%E5%88%A4%E5%88%912%E5%B9%B4%E7%A2%BA%E5%AE%9A-061918836.html",
+          "time": "2026-07-22 06:19:18",
+          "publisher": "Yahoo新聞",
           "severity": "red"
         }
       ],
@@ -3387,11 +3387,11 @@
       "city": "台南",
       "place": "台南市政府",
       "level": "red",
-      "news_count": 51,
+      "news_count": 50,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 60,
+      "urgency_score": 59,
       "news_articles": [
         {
           "title": "台南首摘米其林星級餐廳　首次入選就橫掃三大獎",
@@ -3741,13 +3741,6 @@
           "url": "https://more-news.tw/672653/",
           "time": "2026-07-21 18:54:14",
           "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "2026台灣米其林指南出爐 61家摘星 台南、竹縣首度進榜 | 中央廣播電臺",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jZkJLT182YWZLRGhJRWxaMWMxOHU3eUNoUzB6cWFfdWJFMTBhbUhjbzQ3ZFhyNXdXT0k4MFoxRW8xSTRYMUI2ejIxOXRSbFVLZjNaUDdn?oc=5",
-          "time": "2026-07-21 18:45:30",
-          "publisher": "Google News→LINE TODAY",
           "severity": null
         }
       ],
@@ -7006,11 +6999,11 @@
       "city": "台中",
       "place": "台中市清水區",
       "level": "red",
-      "news_count": 149,
+      "news_count": 145,
       "comment_count": 0,
       "negativity_pct": 13,
       "is_urgent": false,
-      "urgency_score": 206,
+      "urgency_score": 202,
       "news_articles": [
         {
           "title": "[Gossiping] [新聞] 影音／台中秀泰驚見偷拍男！整場開手機拍",
@@ -8026,34 +8019,6 @@
           "time": "2026-07-21 18:49:03",
           "publisher": "Yahoo新聞",
           "severity": "red"
-        },
-        {
-          "title": "中市衛生保健表現亮眼 勇奪全國第一 再摘執法先鋒獎、3衛生所獲獎肯定",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrZzVGczdWVFYtWXExdEhHbWRxUHg0TVh4b0dOY3pXV0ZMVVl4VFk5VzdOSldjQzcxbkl3N2ZTTUV6eDJNV2x3NW5icnlsM09TeTBYSGVGaw?oc=5",
-          "time": "2026-07-21 18:46:14",
-          "publisher": "Google News→觀傳媒",
-          "severity": null
-        },
-        {
-          "title": "中市衛生保健表現亮眼 勇奪全國第一 再摘執法先鋒獎、3衛生所獲獎肯定",
-          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNRnFmVHNVdWNESEQyR2ZZMmpFTFNFOGtVSXlsb0FRQnVXZEdIQ0ZjakRMSEJpWHNHZERTc29TR21lWGF5TWhSVWNneEd6R0xMT29JeG9HYTZkZk00Ui1fMzdLSUJPbXRSemNPaUl6eTlHSjg0ZW9vdTFLX0gwajBnSFN1azh3eEdudzdueWw5aHZoUFZTaF8tUlVFMU1xeFZwLWdsMW9HeHhOWVNxb3Z5Zl9aSmJ2UGl1WndHNjc2U1FlLWRVcW9nVzFjXzVGN3o5bWlCYk51NlZWMllmd0hzWVdxcS1jUldGUmgtUFNhSVhSYURYQTYzN1FwZXhnQU9xdmQ3eVpFWlgyTHRqcC1JTktuMnRzQ29JOHFXQnFtdThIWHhWR0VfOTROTWdVUFNRRnhFcmFnVlhTNmk2RUhhaHp5NjNhanFFZ0VSUFNZd0NvbnpXZmZ5OXdscVV0bVE?oc=5",
-          "time": "2026-07-21 18:46:14",
-          "publisher": "Google News→獨家報導",
-          "severity": null
-        },
-        {
-          "title": "彩虹村毀損案二審宣判 中市府文化局勝訴：捍衛市民權益",
-          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNVFViZmNFbXdhS3VMQkQ2b0xxdVFRRFRpbmhaQk4wUjB4VFQ4Mk9MTWxvTURPekdqblNjOHA2bEVfRk5IX2I2ZE1XUzdrVmd2bVYwY3IzcGlZUi1ldGVoMkNZUjNWbFF1OUlFUEFmc3RtZkNseWo4a1gyeEEyQnp6N0ZOczg4Y2dJOHMtZXB4dEYtR2hUdWlWdEdxMmpweV9qazVtaUNwRzRfMTFFVld1MWROZG9KT0VoemNqVThNUmVONC1lbG90RHRpMVdHSTZBLTQyZ25PcXdscVh4OTZjSnU5QUE2eTlNVnpjdDlqc1p1ZFpKaUNwNFIwRDYtdVR6Zl9jWFVsLXhQZmIxOEk1aUh1eWRRTnJNNlR1Mnl6RkJyNkNsandLVHlIejFZbVNJVzRGQVRXQ21WWG1GRnpaUGxJeUZObG9PdWhnaEowRzl6dmJwZFdSNkx1N3BGdU0xcnQyT3pBTFlUVElJNVQ5emdfV0pmUQ?oc=5",
-          "time": "2026-07-21 18:46:13",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "彩虹村毀損案二審宣判 中市府文化局勝訴：捍衛市民權益",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Tc2NDWDh4WXRPRXRUWWN5LV80V01hcmNCNzN2Rzg4SlNJZjhVd21tZmFKeTBVb21iWUdZdGxlU3plYUJoelFUNm93bWZqeUJJalZMXzBGRQ?oc=5",
-          "time": "2026-07-21 18:46:13",
-          "publisher": "Google News→觀傳媒",
-          "severity": null
         }
       ],
       "comments": []
