@@ -59439,7 +59439,7 @@
     },
     {
       "date": "2026-07-23",
-      "snapshot_at": "2026-07-23T01:22:52.529200+00:00",
+      "snapshot_at": "2026-07-23T01:23:39.120895+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -59498,20 +59498,6 @@
           ]
         },
         {
-          "title": "桃園詐騙案",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "假投資詐騙面交現形 大園警當場查獲車手送辦"
-          ]
-        },
-        {
           "title": "台中詐騙案",
           "city": "台中",
           "place": "台中市政府",
@@ -59523,6 +59509,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "假虛擬資產交易所詐騙逾億元！台中警破獲17人詐團 婦人遭騙8千萬元"
+          ]
+        },
+        {
+          "title": "桃園詐騙案",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "假投資詐騙面交現形 大園警當場查獲車手送辦"
           ]
         },
         {
@@ -59627,22 +59627,6 @@
           ]
         },
         {
-          "title": "嘉義縣地方動態",
-          "city": "嘉義縣",
-          "place": "嘉義縣政府",
-          "level": "green",
-          "news_count": 16,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 16,
-          "sample_titles": [
-            "「足部踏實 公益剪趾」獲嘉義縣政府政府服務獎",
-            "2026全台食育力城市大調查 嘉義縣五星獎六連霸！",
-            "嘉義縣六連霸食育力城市大調查五星城市殊榮 | 觀傳媒"
-          ]
-        },
-        {
           "title": "連江地方動態",
           "city": "連江",
           "place": "連江縣（馬祖）",
@@ -59656,6 +59640,22 @@
             "國民黨中常會通過徵召 王忠銘確定角逐連任連江縣長 王忠銘：要讓馬祖人光榮",
             "第四屆馬祖國際藝術島籌備！ 縣長王忠銘拜會合作夥伴 以誠意感動每一單位",
             "連江縣環資局推動舊衣多元再利用 發揮一物多價值"
+          ]
+        },
+        {
+          "title": "嘉義縣地方動態",
+          "city": "嘉義縣",
+          "place": "嘉義縣政府",
+          "level": "green",
+          "news_count": 16,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 16,
+          "sample_titles": [
+            "「足部踏實 公益剪趾」獲嘉義縣政府政府服務獎",
+            "2026全台食育力城市大調查 嘉義縣五星獎六連霸！",
+            "嘉義縣六連霸食育力城市大調查五星城市殊榮 | 觀傳媒"
           ]
         },
         {
@@ -59939,22 +59939,6 @@
           ]
         },
         {
-          "title": "南投地方動態",
-          "city": "南投",
-          "place": "南投縣政府",
-          "level": "red",
-          "news_count": 36,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 36,
-          "sample_titles": [
-            "南投苗栗交流露營經 打造國旅新商機",
-            "專訪／從滿手鮮血到滿懷理想！明知很難贏 為何温世政有膽回南投 | 政治快訊 | 要聞",
-            "南投 疑持衝鋒槍劫財 逮3嫌追共犯"
-          ]
-        },
-        {
           "title": "金門地方動態",
           "city": "金門",
           "place": "金門縣政府",
@@ -59968,6 +59952,22 @@
             "金門酒廠KK Bar首攜北捷這站走進城市日常 品味微醺新氣象",
             "中職／高中軟式組應屆生職棒第一人 金門洪嘉恩想挑戰極限",
             "金門縣府慰問203旅縣籍役男 轉達陳福海祝福關懷 - 生活新聞 - PChome Online 新聞"
+          ]
+        },
+        {
+          "title": "南投地方動態",
+          "city": "南投",
+          "place": "南投縣政府",
+          "level": "red",
+          "news_count": 36,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 36,
+          "sample_titles": [
+            "南投苗栗交流露營經 打造國旅新商機",
+            "專訪／從滿手鮮血到滿懷理想！明知很難贏 為何温世政有膽回南投 | 政治快訊 | 要聞",
+            "南投 疑持衝鋒槍劫財 逮3嫌追共犯"
           ]
         },
         {
