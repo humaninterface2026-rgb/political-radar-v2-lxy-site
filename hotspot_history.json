@@ -59439,7 +59439,7 @@
     },
     {
       "date": "2026-07-23",
-      "snapshot_at": "2026-07-23T10:26:48.325886+00:00",
+      "snapshot_at": "2026-07-23T10:30:36.174510+00:00",
       "hotspots": [
         {
           "title": "垃圾山",
@@ -59510,20 +59510,6 @@
           ]
         },
         {
-          "title": "新竹市詐騙案",
-          "city": "新竹市",
-          "place": "新竹市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "地面師詐騙頻傳 新竹市成功攔阻近640萬元財損"
-          ]
-        },
-        {
           "title": "台北詐騙案",
           "city": "台北",
           "place": "台北市政府",
@@ -59549,6 +59535,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "假檢警詐騙險得逞 桃園女急領136萬買黃金遭警攔阻"
+          ]
+        },
+        {
+          "title": "新竹市詐騙案",
+          "city": "新竹市",
+          "place": "新竹市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "地面師詐騙頻傳 新竹市成功攔阻近640萬元財損"
           ]
         },
         {
@@ -59803,11 +59803,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "yellow",
-          "news_count": 62,
+          "news_count": 61,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 71,
+          "urgency_score": 70,
           "sample_titles": [
             "退場危機解除！屏東陸興高中、雲林大成商工解除專案輔導",
             "屏東縣表揚村里鄰長及民政人員 連任7屆建國里78歲里長獲表揚",
@@ -60087,11 +60087,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 86,
+          "news_count": 85,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 107,
+          "urgency_score": 106,
           "sample_titles": [
             "新北通報苦茶油中鏢 蔣萬安：昨天即刻清查下架",
             "矽谷工程師通過《大嘻哈3》海選 挑戰36小時往返舊金山台北",
@@ -60167,11 +60167,11 @@
           "city": "台中",
           "place": "台中市烏日區",
           "level": "red",
-          "news_count": 190,
+          "news_count": 187,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 223,
+          "urgency_score": 220,
           "sample_titles": [
             "守護市民黃金救援時間！ 中市全國首創AI辨識救護車警鳴聲首波33處路口啟用、綠燈通過率逾9成",
             "遭批營建土方進港未重開棲地審查 中市函請中央妥處",
