@@ -60223,7 +60223,7 @@
     },
     {
       "date": "2026-07-24",
-      "snapshot_at": "2026-07-24T02:33:13.156259+00:00",
+      "snapshot_at": "2026-07-24T02:38:49.350228+00:00",
       "hotspots": [
         {
           "title": "盧秀燕訪美外交",
@@ -60335,21 +60335,6 @@
           ]
         },
         {
-          "title": "桃園車禍事件",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "國3北大溪段4車連環車禍 車流回堵達7公里",
-            "疑左轉未禮讓？ 桃園路又驚傳車禍"
-          ]
-        },
-        {
           "title": "屏東車禍事件",
           "city": "屏東",
           "place": "屏東縣政府",
@@ -60362,6 +60347,21 @@
           "sample_titles": [
             "屏東分眾交安宣導 半年車禍少1241件、死亡人數年減17人",
             "2026.07.23 11:25 毒駕又惹禍 恆春南灣車禍釀3傷 駕駛坦承吸食喪屍煙彈"
+          ]
+        },
+        {
+          "title": "桃園車禍事件",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "國3北大溪段4車連環車禍 車流回堵達7公里",
+            "疑左轉未禮讓？ 桃園路又驚傳車禍"
           ]
         },
         {
@@ -60421,6 +60421,20 @@
           ]
         },
         {
+          "title": "苗栗弊案爭議",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "苗栗男毒駕超速闖紅燈釀1死1傷 國民法官判刑12年"
+          ]
+        },
+        {
           "title": "澎湖弊案爭議",
           "city": "澎湖",
           "place": "澎湖縣政府",
@@ -60446,20 +60460,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "接收中國資助選立委還外洩國安資料 民眾黨前桃園市黨部發言人馬治薇判刑2年8月定讞"
-          ]
-        },
-        {
-          "title": "苗栗弊案爭議",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "苗栗男毒駕超速闖紅燈釀1死1傷 國民法官判刑12年"
           ]
         },
         {
@@ -60579,15 +60579,31 @@
           "city": "嘉義縣",
           "place": "嘉義縣政府",
           "level": "yellow",
-          "news_count": 28,
+          "news_count": 26,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 28,
+          "urgency_score": 26,
           "sample_titles": [
             "深化本土教育 嘉義縣「家鄉100問」2.0新書發表",
             "嘉義縣「家鄉100問」2.0新書發表 深化本土教育",
             "點亮偏鄉希望 嘉義縣3位教育工作者獲師鐸獎"
+          ]
+        },
+        {
+          "title": "南投地方動態",
+          "city": "南投",
+          "place": "南投縣政府",
+          "level": "yellow",
+          "news_count": 26,
+          "comment_count": 0,
+          "negativity_pct": 4,
+          "is_urgent": false,
+          "urgency_score": 29,
+          "sample_titles": [
+            "南投城隍遶境 警邀陣頭簽公約自律",
+            "亞洲首座國際標準無人機考訓場設南投 115年底完工",
+            "承襲父母服務志業 同鄉總會長林哲生 宣布參選南投縣議員"
           ]
         },
         {
@@ -60611,11 +60627,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "yellow",
-          "news_count": 82,
+          "news_count": 81,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 97,
+          "urgency_score": 96,
           "sample_titles": [
             "輕颱紅霞海警發布 今高溫炎熱北部有焚風 明花蓮以南防雨災",
             "游淑貞敦聘全球前2%「頂尖科學家洪啓峯」任競選顧問擬定「健康洄瀾大計畫」打造社福花蓮新願景",
@@ -60732,22 +60748,6 @@
           ]
         },
         {
-          "title": "南投地方動態",
-          "city": "南投",
-          "place": "南投縣政府",
-          "level": "red",
-          "news_count": 27,
-          "comment_count": 0,
-          "negativity_pct": 4,
-          "is_urgent": false,
-          "urgency_score": 30,
-          "sample_titles": [
-            "南投城隍遶境 警邀陣頭簽公約自律",
-            "亞洲首座國際標準無人機考訓場設南投 115年底完工",
-            "承襲父母服務志業 同鄉總會長林哲生 宣布參選南投縣議員"
-          ]
-        },
-        {
           "title": "基隆地方動態",
           "city": "基隆",
           "place": "基隆市政府",
@@ -60784,11 +60784,11 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "red",
-          "news_count": 37,
+          "news_count": 36,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 37,
+          "urgency_score": 36,
           "sample_titles": [
             "颱風紅霞暴風侵襲率最新預估 金門最高",
             "-金門陶藝家聯展7/25開幕 展期至8/12",
@@ -60800,11 +60800,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 49,
+          "news_count": 48,
           "comment_count": 0,
-          "negativity_pct": 16,
+          "negativity_pct": 17,
           "is_urgent": false,
-          "urgency_score": 73,
+          "urgency_score": 72,
           "sample_titles": [
             "台中臺灣大道建物遭槍擊 犯嫌赴苗栗投案 警方擴大偵辦釐清案情",
             "「藝」鳴驚人!第17屆廣達游藝獎苗栗縣師生摘3捷報 導覽達人奪首獎將赴西班牙參訪",
@@ -60832,11 +60832,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 64,
+          "news_count": 63,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 73,
+          "urgency_score": 72,
           "sample_titles": [
             "鐵道迷看過來！跟著《魚頭君帶路》探訪台南軌道之旅",
             "青銀共「奏」，新營社大喜迎宜蘭青少年國樂團「踢館」",
@@ -60896,11 +60896,11 @@
           "city": "高雄",
           "place": "高雄市鳳山區",
           "level": "red",
-          "news_count": 115,
+          "news_count": 112,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 157,
+          "urgency_score": 154,
           "sample_titles": [
             "陳其邁表揚基層優秀同仁 感謝堅守崗位撐起市政 盼持續攜手打造進步高雄",
             "高雄斥資5億新九如橋「鳥居護欄」被罵醜出天際 他嘆：宛如國旅縮影",
@@ -60928,11 +60928,11 @@
           "city": "台北",
           "place": "台北市南港區",
           "level": "red",
-          "news_count": 171,
+          "news_count": 168,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 198,
+          "urgency_score": 195,
           "sample_titles": [
             "衛福部21日對外公布中聯油脂中游油品共19批可重新上架，共計501批產品，台北市長蔣萬安上午接受「千秋萬事」王淺秋專訪時",
             "致癌油風暴延燒，台中市長盧秀燕近日為此不斷奔波，21日才赴台北參加行政院食安法修法會議，明天則要上凱道參加725反毒油遊",
@@ -60944,11 +60944,11 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 264,
+          "news_count": 263,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 321,
+          "urgency_score": 320,
           "sample_titles": [
             "全球唯一／媽祖熱氣球台中首飛！石岡熱氣球嘉年華8/22-24升空體驗",
             "中央重新上架中聯19批油品 中市府籲廠商「善盡社會責任」勿上架 | CTWANT",
