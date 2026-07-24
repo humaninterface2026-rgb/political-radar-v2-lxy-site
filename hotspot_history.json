@@ -60223,7 +60223,7 @@
     },
     {
       "date": "2026-07-24",
-      "snapshot_at": "2026-07-24T11:22:15.546079+00:00",
+      "snapshot_at": "2026-07-24T11:27:05.071240+00:00",
       "hotspots": [
         {
           "title": "廚餘山",
@@ -60306,20 +60306,6 @@
           ]
         },
         {
-          "title": "台中詐騙案",
-          "city": "台中",
-          "place": "台中市烏日區",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "梨山水蜜桃「10顆200元」竟是詐騙！　婦人險陷「實名認證」騙局　烏日警到宅及時阻詐"
-          ]
-        },
-        {
           "title": "花蓮詐騙案",
           "city": "花蓮",
           "place": "花蓮縣政府",
@@ -60331,6 +60317,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "網路社群Threads「脆」躍登網友最喜愛平台，去年7月花蓮馬太鞍溪堰塞湖溢流，湧入50萬人次志工清除淤泥造就「鏟子超人"
+          ]
+        },
+        {
+          "title": "台中詐騙案",
+          "city": "台中",
+          "place": "台中市烏日區",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "梨山水蜜桃「10顆200元」竟是詐騙！　婦人險陷「實名認證」騙局　烏日警到宅及時阻詐"
           ]
         },
         {
@@ -60411,20 +60411,6 @@
           ]
         },
         {
-          "title": "苗栗弊案爭議",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "苗栗男毒駕超速闖紅燈釀1死1傷 國民法官判刑12年"
-          ]
-        },
-        {
           "title": "台北弊案爭議",
           "city": "台北",
           "place": "台北市政府",
@@ -60436,6 +60422,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "麥當勞前主管涉性侵女工讀生二度不起訴，高檢署5月發回續查。監察委員葉大華今天說，台北市勞動局在此案有未按兒童最佳利益原則"
+          ]
+        },
+        {
+          "title": "苗栗弊案爭議",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "苗栗男毒駕超速闖紅燈釀1死1傷 國民法官判刑12年"
           ]
         },
         {
@@ -60823,15 +60823,15 @@
           "city": "高雄",
           "place": "高雄市鳳山區",
           "level": "red",
-          "news_count": 77,
+          "news_count": 78,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 95,
+          "urgency_score": 96,
           "sample_titles": [
             "高雄市政府再度奪下全國促參王、陳其邁累計減債305億元",
             "司改黨「高雄反毒油」車隊遊行 張靜促陳其邁公開近五年油品抽驗紀錄",
-            "高雄市政府再度奪下全國促參王、陳其邁累計減債305億元"
+            "司改黨「高雄反毒油」車隊遊行張靜促陳其邁公開近五年油品抽驗紀錄| 政治"
           ]
         },
         {
@@ -60839,15 +60839,15 @@
           "city": "台北",
           "place": "台北市松山區",
           "level": "red",
-          "news_count": 132,
+          "news_count": 133,
           "comment_count": 0,
           "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 177,
+          "urgency_score": 178,
           "sample_titles": [
             "台北新創基地開幕不見身影 簡舒培批蔣萬安：無心市政",
-            "【#原音重現】盧秀燕725上凱道轉移責任？李慧芝強調食安講求「科學證據」…再盼食安法修法能明定「權責」！卓榮泰讚新北市「",
-            "蔣萬安棄市政行程趕立院開毒油記者會挨批 北市府反擊：坐視中央重新上架就是食安破口幫兇"
+            "台北新創基地開幕不見身影 簡舒培批蔣萬安：無心市政 | 政治 | CTWANT",
+            "【#原音重現】盧秀燕725上凱道轉移責任？李慧芝強調食安講求「科學證據」…再盼食安法修法能明定「權責」！卓榮泰讚新北市「"
           ]
         },
         {
@@ -60855,11 +60855,11 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "red",
-          "news_count": 198,
+          "news_count": 201,
           "comment_count": 3,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 239,
+          "urgency_score": 242,
           "sample_titles": [
             "蔣萬安、盧秀燕與國民黨團合體喊話：賴清德道歉、卓榮泰下台",
             "蔣萬安氣焰藏不住？他：凱道成盧秀燕考驗",
