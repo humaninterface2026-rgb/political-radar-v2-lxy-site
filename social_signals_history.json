@@ -17709,6 +17709,16 @@
       "red_pct": 4.92,
       "yellow_pct": 94.57,
       "green_pct": 0.52
+    },
+    {
+      "ts": "2026-07-25T01:24:08",
+      "total": 770,
+      "red": 42,
+      "yellow": 724,
+      "green": 4,
+      "red_pct": 5.45,
+      "yellow_pct": 94.03,
+      "green_pct": 0.52
     }
   ],
   "instagram": [
@@ -36021,6 +36031,16 @@
       "red_pct": 37.5,
       "yellow_pct": 62.5,
       "green_pct": 0.0
+    },
+    {
+      "ts": "2026-07-25T01:22:49",
+      "total": 17,
+      "red": 6,
+      "yellow": 10,
+      "green": 1,
+      "red_pct": 35.29,
+      "yellow_pct": 58.82,
+      "green_pct": 5.88
     }
   ],
   "threads": [
@@ -54432,6 +54452,16 @@
       "green": 0,
       "red_pct": 57.89,
       "yellow_pct": 42.11,
+      "green_pct": 0.0
+    },
+    {
+      "ts": "2026-07-25T01:14:38",
+      "total": 61,
+      "red": 31,
+      "yellow": 30,
+      "green": 0,
+      "red_pct": 50.82,
+      "yellow_pct": 49.18,
       "green_pct": 0.0
     }
   ]
