@@ -60223,7 +60223,7 @@
     },
     {
       "date": "2026-07-24",
-      "snapshot_at": "2026-07-24T11:27:05.071240+00:00",
+      "snapshot_at": "2026-07-24T11:38:00.736354+00:00",
       "hotspots": [
         {
           "title": "廚餘山",
@@ -60306,20 +60306,6 @@
           ]
         },
         {
-          "title": "花蓮詐騙案",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "網路社群Threads「脆」躍登網友最喜愛平台，去年7月花蓮馬太鞍溪堰塞湖溢流，湧入50萬人次志工清除淤泥造就「鏟子超人"
-          ]
-        },
-        {
           "title": "台中詐騙案",
           "city": "台中",
           "place": "台中市烏日區",
@@ -60331,6 +60317,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "梨山水蜜桃「10顆200元」竟是詐騙！　婦人險陷「實名認證」騙局　烏日警到宅及時阻詐"
+          ]
+        },
+        {
+          "title": "花蓮詐騙案",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "網路社群Threads「脆」躍登網友最喜愛平台，去年7月花蓮馬太鞍溪堰塞湖溢流，湧入50萬人次志工清除淤泥造就「鏟子超人"
           ]
         },
         {
@@ -60381,6 +60381,22 @@
           ]
         },
         {
+          "title": "藍營路線爭議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 5,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 5,
+          "sample_titles": [
+            "蔣萬安上凱道「劍指盧秀燕」？邱明玉曝結局：全給鄭麗文收割｜#頭家來開講",
+            "陳揮文怒噴鄭麗文：洗勒X喔？不曉得在38什麼又扯頂新！再批盧秀燕三天兩頭跑台北 心已不在台中！受訪稱中央是癌細胞 陳揮文",
+            "柯文哲遭禁奢令鎖喉？陳智菡急護主飆：狗官！李四川購屋款說法連環變？蔣萬安多怕725沒人？C位被鄭麗文狠搶？盧秀燕痛失中商"
+          ]
+        },
+        {
           "title": "嘉義縣地方動態",
           "city": "嘉義縣",
           "place": "嘉義縣政府",
@@ -60411,20 +60427,6 @@
           ]
         },
         {
-          "title": "台北弊案爭議",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "麥當勞前主管涉性侵女工讀生二度不起訴，高檢署5月發回續查。監察委員葉大華今天說，台北市勞動局在此案有未按兒童最佳利益原則"
-          ]
-        },
-        {
           "title": "苗栗弊案爭議",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -60436,6 +60438,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "苗栗男毒駕超速闖紅燈釀1死1傷 國民法官判刑12年"
+          ]
+        },
+        {
+          "title": "台北弊案爭議",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "麥當勞前主管涉性侵女工讀生二度不起訴，高檢署5月發回續查。監察委員葉大華今天說，台北市勞動局在此案有未按兒童最佳利益原則"
           ]
         },
         {
@@ -60466,22 +60482,6 @@
           "sample_titles": [
             "司改黨高雄辦反毒車隊遊行 衛生局派代表收下陳情書",
             "司法改革黨今早針對中聯油脂毒油事件發起車隊遊行，前往高雄市府、行政院南服中心遞交陳情書。市長參選人、黨主席張靜指出，人民"
-          ]
-        },
-        {
-          "title": "藍營路線爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 6,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 6,
-          "sample_titles": [
-            "蔣萬安上凱道「劍指盧秀燕」？邱明玉曝結局：全給鄭麗文收割｜#頭家來開講",
-            "陳揮文怒噴鄭麗文：洗勒X喔？不曉得在38什麼又扯頂新！再批盧秀燕三天兩頭跑台北 心已不在台中！受訪稱中央是癌細胞 陳揮文",
-            "柯文哲遭禁奢令鎖喉？陳智菡急護主飆：狗官！李四川購屋款說法連環變？蔣萬安多怕725沒人？C位被鄭麗文狠搶？盧秀燕痛失中商"
           ]
         },
         {
@@ -60581,21 +60581,6 @@
           ]
         },
         {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "[Gossiping] [新聞] 台中市3連霸里長高敏裕涉貪遭收押　民進",
-            "[TaichungBun] [新聞] 台中市3連霸里長高敏裕涉貪遭收押　民進"
-          ]
-        },
-        {
           "title": "屏東弊案爭議",
           "city": "屏東",
           "place": "屏東縣政府",
@@ -60608,6 +60593,21 @@
           "sample_titles": [
             "幫喬約聘缺竟「送茶葉罐藏30萬」 屏東鄉代主席遭起訴 | 鏡週刊",
             "幫喬約聘缺竟「送茶葉罐藏30萬」 屏東鄉代主席遭起訴"
+          ]
+        },
+        {
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "[Gossiping] [新聞] 台中市3連霸里長高敏裕涉貪遭收押　民進",
+            "[TaichungBun] [新聞] 台中市3連霸里長高敏裕涉貪遭收押　民進"
           ]
         },
         {
