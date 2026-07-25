@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "snapshot_at": "2026-07-25T10:53:16.088257+00:00",
+  "snapshot_at": "2026-07-25T11:01:29.291374+00:00",
   "hotspots": [
     {
       "title": "廚餘山",
@@ -382,27 +382,6 @@
       "comments": []
     },
     {
-      "title": "宜蘭弊案爭議",
-      "city": "宜蘭",
-      "place": "宜蘭縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "捲餐費核銷不實！宜蘭消防局長50萬元交保 趕起訴停職前申請退休竟獲准",
-          "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxNYXNLeEJLb1NKN0xKdlNVeFR4Q2YwclF2NFhYMXI1OFlWOUcwbnVUMU5TOXRWb3ZOcl9EcXJYelJ3WlpIMEZoVmZmYVVBSzZNZHMwNVBOXzFFYlN3a2FrSHByVV84MF9rR3ZTQ3loTUE5OGtodXpCV19QcUx3dlJaQVo1RlJYQy1WM013Sl9Zbzg0TUlxWGhaMVlENkZYOXc0ajNTRzVjY2NfQk1jNmVtUEVxVWtKbzJqRUs4WlpWNHpNN0VoN1duVUxKRHpEek9XZmg2Qm4yNUxPZE5aS0NCR290Wkd1YVJ1TVMzY1VKcmRfWlV4S1lEekx0QV92S3hFam42QkY4eEplSTN0Ukpmb1RkakdhZDdXc0RLLWFVdGg4Ykl0TzZjanFzdjVvYTA2MFdRdTM1OUFpWW55S0RjSi1Ybng4VUVNWGdKMV9iTU5aR2pjOEZfMHVCYWZUSjVUSWdNY2FRdTA5OE1vQ0VpbWhuRlVfWER0OVhJUTRuak9neWpxOXJPOXhrWUw0RkhwWkVaUnhfWjhhMHVOYzJqWDJ6ZEFRdHpITDBBd2tiU0dqcDA4ZzRfZE94SEE2dC11?oc=5",
-          "time": "2026-07-25 12:29:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "基隆弊案爭議",
       "city": "基隆",
       "place": "基隆市政府",
@@ -418,6 +397,27 @@
           "url": "https://news.ltn.com.tw/news/society/breakingnews/5517030",
           "time": "2026-07-25 08:18:05",
           "publisher": "自由時報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "宜蘭弊案爭議",
+      "city": "宜蘭",
+      "place": "宜蘭縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "捲餐費核銷不實！宜蘭消防局長50萬元交保 趕起訴停職前申請退休竟獲准",
+          "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxNYXNLeEJLb1NKN0xKdlNVeFR4Q2YwclF2NFhYMXI1OFlWOUcwbnVUMU5TOXRWb3ZOcl9EcXJYelJ3WlpIMEZoVmZmYVVBSzZNZHMwNVBOXzFFYlN3a2FrSHByVV84MF9rR3ZTQ3loTUE5OGtodXpCV19QcUx3dlJaQVo1RlJYQy1WM013Sl9Zbzg0TUlxWGhaMVlENkZYOXc0ajNTRzVjY2NfQk1jNmVtUEVxVWtKbzJqRUs4WlpWNHpNN0VoN1duVUxKRHpEek9XZmg2Qm4yNUxPZE5aS0NCR290Wkd1YVJ1TVMzY1VKcmRfWlV4S1lEekx0QV92S3hFam42QkY4eEplSTN0Ukpmb1RkakdhZDdXc0RLLWFVdGg4Ykl0TzZjanFzdjVvYTA2MFdRdTM1OUFpWW55S0RjSi1Ybng4VUVNWGdKMV9iTU5aR2pjOEZfMHVCYWZUSjVUSWdNY2FRdTA5OE1vQ0VpbWhuRlVfWER0OVhJUTRuak9neWpxOXJPOXhrWUw0RkhwWkVaUnhfWjhhMHVOYzJqWDJ6ZEFRdHpITDBBd2tiU0dqcDA4ZzRfZE94SEE2dC11?oc=5",
+          "time": "2026-07-25 12:29:00",
+          "publisher": "Yahoo新聞",
           "severity": "red"
         }
       ],
@@ -1662,11 +1662,11 @@
       "city": "新竹市",
       "place": "新竹市政府",
       "level": "red",
-      "news_count": 22,
+      "news_count": 20,
       "comment_count": 0,
-      "negativity_pct": 9,
+      "negativity_pct": 10,
       "is_urgent": false,
-      "urgency_score": 28,
+      "urgency_score": 26,
       "news_articles": [
         {
           "title": "台灣前進陣線（時代力量、小民參政歐巴桑聯盟、台灣基進、台灣綠黨）今天於新竹市舉辦「台灣前進竹竹苗聯合募款餐會」，新竹市、新竹縣、苗栗縣三地在地支持者齊聚一堂，時代力量黨主席王婉諭喊話，竹竹苗值得更好的政治，目標是新竹市3席議員全數連任、新竹縣3席全上並成立黨團、苗栗縣延續8年經驗續留議會，並且首次進軍新埔、竹東、竹北三地的代表會。",
@@ -1805,20 +1805,6 @@
           "title": "打造主動預防健康城市 竹市「慢性病探險島」互動體驗展闖關學健康趣!",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sSkwwRWQyQnFqR3Y5UUNKTDNqYW9GV1dXdFIybFdETUhWTkoyVEpuUThzRzVrZWlqYUN3dTZHT2hOcURHTWZnX1o5VkM3WG9WcXc?oc=5",
           "time": "2026-07-24 19:11:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "竹市明好企業農耕牌炊粉驗出致癌甲醛重創米粉產業 米粉同業說話了",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5516729",
-          "time": "2026-07-24 18:58:35",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "走進那魯灣文化聚落感受原民文化魅力 竹市原住民族文化策展8/1登場",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWTThIQUttdlJaZGtGYzV3SnZMbUwxQmRpSjFhUkwyQjQwZ29haVZWUDgyUkMxZUxtWWJxcGwxbWF3TXJHN2JPamxzNlo5RU9yVFE?oc=5",
-          "time": "2026-07-24 18:58:00",
           "publisher": "Google News→蕃新聞",
           "severity": null
         }
@@ -2677,11 +2663,11 @@
       "city": "台南",
       "place": "台南市政府",
       "level": "red",
-      "news_count": 39,
+      "news_count": 38,
       "comment_count": 0,
       "negativity_pct": 8,
       "is_urgent": false,
-      "urgency_score": 48,
+      "urgency_score": 47,
       "news_articles": [
         {
           "title": "台南「幫浦消防車」下坡沒煞住墜山溝！4消受傷 同款47車全召回檢修",
@@ -2947,13 +2933,6 @@
           "url": "https://www.cdns.com.tw/articles/1434539",
           "time": "2026-07-24 19:34:07",
           "publisher": "中華日報",
-          "severity": null
-        },
-        {
-          "title": "校園無障礙全面升級！臺南市3年獲中央逾1.1億元補助 攜手打造「有愛無礙」友善學習環境",
-          "url": "https://more-news.tw/675570/",
-          "time": "2026-07-24 18:54:21",
-          "publisher": "墨新聞",
           "severity": null
         }
       ],
@@ -3664,11 +3643,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "red",
-      "news_count": 63,
+      "news_count": 62,
       "comment_count": 0,
       "negativity_pct": 11,
       "is_urgent": false,
-      "urgency_score": 84,
+      "urgency_score": 83,
       "news_articles": [
         {
           "title": "國際團隊輪番展演 宜蘭童玩節好戲連台",
@@ -4103,13 +4082,6 @@
           "time": "2026-07-24 19:10:37",
           "publisher": "Google News→LINE TODAY",
           "severity": null
-        },
-        {
-          "title": "宜蘭傳藝10週年限定「2026YA傳藝」 一票暢玩日夜 | 中華日報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fUXFseWNoTF9mYnRTYTg3NEpsLWZkUXBhN25xcUV1elVubDFWSDVmWWFFOEVGWThLQnlTRm9Id2xpSG5LYnlNV3d4bUVhemZEVHJkaDB3?oc=5",
-          "time": "2026-07-24 18:58:31",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
         }
       ],
       "comments": []
@@ -4119,11 +4091,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "red",
-      "news_count": 68,
+      "news_count": 67,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 77,
+      "urgency_score": 76,
       "news_articles": [
         {
           "title": "快訊／不只屏東台東！氣象署10縣市豪大雨特報 桃竹苗雨下到今晚 | 天氣預報 | 生活",
@@ -4593,13 +4565,6 @@
           "time": "2026-07-24 19:55:00",
           "publisher": "中央社",
           "severity": "yellow"
-        },
-        {
-          "title": "承載記憶的屏菸1936文化基地，到各鄉鎮一座座融入地方特色的公園，屏東用屬於自己的步調讓美感流淌在民眾的日常生活，不只是建築變漂亮了，更是讓更多人重新認識自己的家鄉。 在高樹， #奇幻大津 讓瀑布在夜色中綻放光芒； #落山風藝術季 訴說著土地與歷史，",
-          "url": "https://news.google.com/rss/articles/CBMi_AdBVV95cUxPNUQ2aFQyWFl5QmFBS09xRWpRbHhzRW0zblpVQjZzemlpbjNMZWpubWFkTHFsR3ZmSW03NkQ0QklvU0RNYWNTdWh4SFpHTXBYdUw3NmY2UmFORVI3aFpJeUZQMUFFdDlUQ2F0X05hQWltZTZERVRjTDJWMGoxUUVmQ21zZms3X0tqd053YXpOYkc1ZkZLYkw0TjhJU1kzTUVVRl84bG5iaUdTT2JEMjdfajRnakdTUXlVbTBjb1pub3BsejVkdFhTYVZLT3NocHY0a2ZWOGY2M0hURkFERzJ4MHdJX3gxd1hPRm1mUm52OFJJQVEtMHRIRzJ4Y1I3amRicHg4OXppNjFCRVdTTnRBeDFIRUlHREtzZjBSNDBKR1JOc3llNWRZcUJ3aHJBSTRYRkVsTVh5dWVGcHQ2OHE0WHc5YmdFR19NUkt6dmZ5U0lJZzZwcVN4QVdHNHIxdlNNYl94ZTNLMTMtaGt4WV94UkM3OGVJQUtUMnpwOWViQUxxd2haS0hwXzBlS0lVSmxMMGhCSFlaczlIWmVEQUpZQ29ZRWItbm9rS0F1M0tCUlpOX2tzRkp0dVpwZEZ3dzdHQlROLUFSR2lhUWFmUWhsdUs5WmNwMV9RN21VZGRVNmJOVGFiT29QR2Y2WDZRLU84MWgwZXVRWGJ6VXVXOFBQSEZ5cmowanFhUkRieWJiRDNRQ3JFdlJBSzVhZnVMQkV2ZTV1WDZEdlVBZU00bDF0eWlocVF0STlpLWdLcmQ1Q2piX0ZDYUY5SHlsSEpJZlpHYjVqQkFJRjFDR096SjRVSWhQcDVOeUt1S2x4VU5pX3hQaWt6dkVZbWp4UFB1T25EbXpWaGdxenhPVzFlRDdELWplR3Z1dmozRUtYOEI2MUc2elpGMHEzNEV3cjlrQUtDU3B1NTJkUzhFZjYyMjVzM2R5aUVMUzVqWWQ2WU1oNTFFVmctNWNRYXNMZXVZN3pHS3VPaEY3RzE0R1VxZFVVZWczbTc5djdJUGFtRl92MlZObkhxdXloOUJTTGNiYVpodlEzTDBmemotcGs4WUtucUY1Skw4NW9VeThuUVVyN0Y3cTh3a05rRG1WWHVUbjNlbzVaT3lSM3FfM1liVF9vM3Ixb3lYNmpjaEV3emlSMW9ybnZLQmxYREptQVBoNy1KdFk0czRkeXhydnBHRnRRX1F0bFk1WUV5ZU83aTRHZXcxcU8yUVBPTnFmV0xHSF9UYzJlZGU5VGo2eDI0R3UtcUxqaGRiaU1CY3lmTks1elFDRm41a3FXd0l2enB6V1dsVnFHNDZYTkF6N0lKM1ZmMlNWRzNPMWhTUTctZWEwY0RGWW5xYkt1dGxHeWM?oc=5",
-          "time": "2026-07-24 19:01:16",
-          "publisher": "Google News→facebook.com",
-          "severity": null
         }
       ],
       "comments": []
@@ -4609,11 +4574,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 72,
+      "news_count": 70,
       "comment_count": 0,
       "negativity_pct": 14,
       "is_urgent": false,
-      "urgency_score": 102,
+      "urgency_score": 100,
       "news_articles": [
         {
           "title": "進口白蘿蔔農藥超標5倍 新北果菜公司：同批恐已流入市面",
@@ -5104,20 +5069,6 @@
           "time": "2026-07-24 19:23:13",
           "publisher": "壹蘋新聞網",
           "severity": "red"
-        },
-        {
-          "title": "新北「永續未來學院」培育綠色人才 大學營隊從參訪體驗到提案",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5516619",
-          "time": "2026-07-24 18:57:19",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "新北野生動物救援292件、白鼻心及鼬獾占七成 動保處提醒「2不1要」守護人寵安全",
-          "url": "https://www.storm.mg/article/11151556",
-          "time": "2026-07-24 18:57:00",
-          "publisher": "風傳媒",
-          "severity": null
         }
       ],
       "comments": []
@@ -5127,11 +5078,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 79,
+      "news_count": 78,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 85,
+      "urgency_score": 84,
       "news_articles": [
         {
           "title": "桃園攜手中央展現臺灣文化魅力 十鼓擊樂團國慶文化訪問團行前公演圓滿落幕",
@@ -5676,13 +5627,6 @@
           "title": "國土綠蔭氣候調適說明會桃園登場 蘇俊賓：善用埤塘、水圳跟都市林資源 營造適宜的城市微氣候",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DT2Z1cXBPSzJvZnhwUHA1M2dNa3NSaXJBdTk2Qy1uZzQwV3B2UG9sWnhWN0pnTXV1T0VtVER1cVBYV2VmRVB2YUxwRVhnZW9rcnVoZGxWRUI4WWZuX2ZWY1dRUVRFZXlpVUQyTA?oc=5",
           "time": "2026-07-24 19:04:44",
-          "publisher": "Google News→tycg.gov.tw",
-          "severity": null
-        },
-        {
-          "title": "2026亞洲植物博覽會首度移師桃園 張市長：串聯國際資源拓展農業新市場",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wd3ZQMVhKSW9tSHRvcHJoaGhSS29oV3Q5NXZwaktDeEN4d01jYkpGb29BQlJkS3FyTTVWckFXbGZIeGk3enk4Y3dqdElxZWxjTnBYNmk3ZzZkZGQ0RWdVWlZDYk1NT0hHRzIyag?oc=5",
-          "time": "2026-07-24 19:00:40",
           "publisher": "Google News→tycg.gov.tw",
           "severity": null
         }
@@ -6296,11 +6240,11 @@
       "city": "高雄",
       "place": "高雄市左營區",
       "level": "red",
-      "news_count": 96,
+      "news_count": 95,
       "comment_count": 0,
       "negativity_pct": 1,
       "is_urgent": false,
-      "urgency_score": 99,
+      "urgency_score": 98,
       "news_articles": [
         {
           "title": "高市打造情報司令塔\"安倍舊臣領軍\" 陸媒控日菲勾連攪局\"包藏禍心\" 【國際360】20260725@全球大視野Global_Vision",
@@ -6966,13 +6910,6 @@
           "time": "2026-07-24 19:24:42",
           "publisher": "自由時報",
           "severity": "yellow"
-        },
-        {
-          "title": "高雄首件跨區公辦都更動土！岡山新行政中心啟建打造北高雄科技副都心",
-          "url": "https://www.storm.mg/article/11151604",
-          "time": "2026-07-24 19:00:00",
-          "publisher": "風傳媒",
-          "severity": null
         }
       ],
       "comments": []
@@ -6982,11 +6919,11 @@
       "city": "台中",
       "place": "台中市豐原區",
       "level": "red",
-      "news_count": 128,
+      "news_count": 126,
       "comment_count": 0,
       "negativity_pct": 20,
       "is_urgent": false,
-      "urgency_score": 203,
+      "urgency_score": 201,
       "news_articles": [
         {
           "title": "中市梧棲低窪地積水不退 區公所將邀權責單位會勘",
@@ -7869,20 +7806,6 @@
           "time": "2026-07-24 19:13:00",
           "publisher": "Google News→工商時報",
           "severity": "yellow"
-        },
-        {
-          "title": "中聯油脂問題油持續清查 台中稽查逾兩千家、下架67萬公斤",
-          "url": "https://www.cdns.com.tw/articles/1434510",
-          "time": "2026-07-24 18:56:16",
-          "publisher": "中華日報",
-          "severity": "red"
-        },
-        {
-          "title": "國３台中沙鹿段火燒車 轎車追撞大貨車駕駛受困成焦屍",
-          "url": "https://www.cdns.com.tw/articles/1434506",
-          "time": "2026-07-24 18:54:44",
-          "publisher": "中華日報",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -8148,7 +8071,7 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfeDlCT0VnSGd6V1ZDc3M0REptcU1uTFFnUll6aEJHQXA0ZFYyT0pNbWdMWTBwR2JwMkZFdlFlN1BtbHFxaG5Ib1lSSWh1RUxYYkxZVnZB?oc=5",
           "time": "2026-07-25 13:05:14",
           "publisher": "Google News→LINE TODAY",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "天母某按摩店遭丟穢物恐嚇 北市警逮8人送辦",
