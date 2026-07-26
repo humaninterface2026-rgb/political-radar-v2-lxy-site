@@ -61592,7 +61592,7 @@
     },
     {
       "date": "2026-07-26",
-      "snapshot_at": "2026-07-26T10:48:36.990282+00:00",
+      "snapshot_at": "2026-07-26T10:54:50.418704+00:00",
       "hotspots": [
         {
           "title": "廚餘山",
@@ -61677,6 +61677,20 @@
           ]
         },
         {
+          "title": "南投陳情/抗議",
+          "city": "南投",
+          "place": "南投縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "國民黨今天傍晚發起「我是人、我反毒台」集會，號召群眾走上凱道抗議食安風暴。南投縣長許淑華批評中央處理中聯油脂致癌油事件荒"
+          ]
+        },
+        {
           "title": "桃園陳情/抗議",
           "city": "桃園",
           "place": "桃園市政府",
@@ -61705,9 +61719,9 @@
           ]
         },
         {
-          "title": "南投陳情/抗議",
-          "city": "南投",
-          "place": "南投縣政府",
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -61715,7 +61729,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "國民黨今天傍晚發起「我是人、我反毒台」集會，號召群眾走上凱道抗議食安風暴。南投縣長許淑華批評中央處理中聯油脂致癌油事件荒"
+            "中聯油脂案 台中地院裁定泰山沈、蔡兩任總經理收押禁見"
           ]
         },
         {
@@ -61730,20 +61744,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "狂傳訊求復合又嗆提告 台東男違反保護令遭判刑"
-          ]
-        },
-        {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "中聯油脂案 台中地院裁定泰山沈、蔡兩任總經理收押禁見"
           ]
         },
         {
@@ -61811,22 +61811,6 @@
           ]
         },
         {
-          "title": "台東地方動態",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "yellow",
-          "news_count": 16,
-          "comment_count": 0,
-          "negativity_pct": 6,
-          "is_urgent": false,
-          "urgency_score": 19,
-          "sample_titles": [
-            "天氣／出門注意！南方雲系北移「2縣市大雨特報」 大雷雨轟台東",
-            "快訊／氣象署大雨特報！屏東、台東下到晚上 新北5縣市防8級強風 | 天氣預報 | 生活",
-            "快訊／2縣市大雨特報！台東下到一片發紅 大雷雨來了"
-          ]
-        },
-        {
           "title": "澎湖地方動態",
           "city": "澎湖",
           "place": "澎湖縣政府",
@@ -61840,6 +61824,22 @@
             "一週天氣預報 - 週五西半部午後雷陣雨增多，週中北台飆36°C炎熱，澎湖偏南強風",
             "台北市兒童新樂園摩天輪今天化身為象徵平安與幸福的「神天輪」，台北市長蔣萬安捧著白沙屯媽祖登上摩天輪，透過登高望遠為台北祈",
             "全台首例！白沙屯拱天宮獲國際碳註銷證書 苗栗推3低碳旅遊路線"
+          ]
+        },
+        {
+          "title": "台東地方動態",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "yellow",
+          "news_count": 16,
+          "comment_count": 0,
+          "negativity_pct": 6,
+          "is_urgent": false,
+          "urgency_score": 19,
+          "sample_titles": [
+            "天氣／出門注意！南方雲系北移「2縣市大雨特報」 大雷雨轟台東",
+            "快訊／氣象署大雨特報！屏東、台東下到晚上 新北5縣市防8級強風 | 天氣預報 | 生活",
+            "快訊／2縣市大雨特報！台東下到一片發紅 大雷雨來了"
           ]
         },
         {
@@ -61891,6 +61891,22 @@
           ]
         },
         {
+          "title": "宜蘭地方動態",
+          "city": "宜蘭",
+          "place": "宜蘭縣政府",
+          "level": "yellow",
+          "news_count": 33,
+          "comment_count": 0,
+          "negativity_pct": 9,
+          "is_urgent": false,
+          "urgency_score": 42,
+          "sample_titles": [
+            "宜蘭高鐵效益遭質疑！整體成本將飆6千億？鐵道局揭數據澄清 | Newtalk",
+            "一週大事／高鐵延伸宜蘭計畫拍板、兒少未來帳戶三讀通過（2026.7.20-7.26）",
+            "宜蘭高鐵效益遭質疑！整體成本將飆6千億？鐵道局揭數據澄清"
+          ]
+        },
+        {
           "title": "苗栗地方動態",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -61904,22 +61920,6 @@
             "嘉義縣村里活動中心廁所升級，翁章梁視察六腳三義社區改善成果",
             "魏嘉彥率市政團隊苗栗通霄交流取經祈求媽祖賜福花蓮",
             "苗栗星空栗險記8月開跑 4場戶外電影邀民眾共下FUN影趣"
-          ]
-        },
-        {
-          "title": "宜蘭地方動態",
-          "city": "宜蘭",
-          "place": "宜蘭縣政府",
-          "level": "yellow",
-          "news_count": 34,
-          "comment_count": 0,
-          "negativity_pct": 9,
-          "is_urgent": false,
-          "urgency_score": 43,
-          "sample_titles": [
-            "宜蘭高鐵效益遭質疑！整體成本將飆6千億？鐵道局揭數據澄清 | Newtalk",
-            "一週大事／高鐵延伸宜蘭計畫拍板、兒少未來帳戶三讀通過（2026.7.20-7.26）",
-            "宜蘭高鐵效益遭質疑！整體成本將飆6千億？鐵道局揭數據澄清"
           ]
         },
         {
@@ -61989,11 +61989,11 @@
           "city": "南投",
           "place": "南投縣政府",
           "level": "red",
-          "news_count": 12,
+          "news_count": 11,
           "comment_count": 0,
-          "negativity_pct": 8,
+          "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 15,
+          "urgency_score": 14,
           "sample_titles": [
             "日月潭男大生溺水失蹤 南投消防局尋獲遺體",
             "日月潭男大生溺水失蹤 南投消防擴大搜救",
@@ -62021,11 +62021,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 27,
+          "news_count": 26,
           "comment_count": 0,
-          "negativity_pct": 7,
+          "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 33,
+          "urgency_score": 32,
           "sample_titles": [
             "台南百貨櫃位「水從天降」 民眾逛街遇室內下雨",
             "《停看聽》59歲玉女歌手現蹤台南近況曝光！民歌天后激瘦13公斤 身旁出現小鮮肉",
@@ -62037,11 +62037,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 35,
+          "news_count": 34,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 35,
+          "urgency_score": 34,
           "sample_titles": [
             "屏東枋寮貴金屬公司負責人遭綑綁重擊！初判死因是失血過多 家中監視器全壞難解",
             "屏東枋寮貴金屬老闆「遭綑綁慘死」 相驗初判失血過多",
@@ -62069,11 +62069,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 66,
+          "news_count": 65,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 69,
+          "urgency_score": 68,
           "sample_titles": [
             "花蓮泛藍分裂 鄭麗文、盧秀燕籲挺「正藍軍」邱淑貞",
             "花蓮泛藍分裂 鄭麗文、盧秀燕籲挺「正藍軍」邱淑貞",
@@ -62149,11 +62149,11 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "red",
-          "news_count": 116,
+          "news_count": 111,
           "comment_count": 8,
           "negativity_pct": 0,
           "is_urgent": true,
-          "urgency_score": 134,
+          "urgency_score": 129,
           "sample_titles": [
             "反毒油先反失職！台灣中社轟盧秀燕：8年食安成績單拿出來",
             "批盧秀燕、蔣萬安甩鍋中央 民進黨：行政不力還搞對立 | 政治 | CTWANT",
