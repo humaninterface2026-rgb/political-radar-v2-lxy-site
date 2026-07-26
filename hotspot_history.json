@@ -61592,7 +61592,7 @@
     },
     {
       "date": "2026-07-26",
-      "snapshot_at": "2026-07-26T02:14:58.836826+00:00",
+      "snapshot_at": "2026-07-26T02:21:51.841094+00:00",
       "hotspots": [
         {
           "title": "廚餘山",
@@ -61829,6 +61829,22 @@
           ]
         },
         {
+          "title": "基隆地方動態",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "yellow",
+          "news_count": 16,
+          "comment_count": 0,
+          "negativity_pct": 19,
+          "is_urgent": false,
+          "urgency_score": 25,
+          "sample_titles": [
+            "快訊／死亡多日！基隆外木山休旅車飄惡臭 警消破窗驚見駕駛陳屍車內",
+            "柯文哲 黃國昌赴基隆 陪議員參選人拜廟｜LIVE",
+            "基隆推觀光 童子瑋︰打造山海休憩城"
+          ]
+        },
+        {
           "title": "澎湖地方動態",
           "city": "澎湖",
           "place": "澎湖縣政府",
@@ -61849,11 +61865,11 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "yellow",
-          "news_count": 47,
+          "news_count": 45,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 47,
+          "urgency_score": 45,
           "sample_titles": [
             "「紅霞」減弱 金門小三通金廈線10點5分復航",
             "金門115年中秋配售酒8/17起展開配售認證或恢復請期限內申辦 | 勁報",
@@ -61970,22 +61986,6 @@
           ]
         },
         {
-          "title": "基隆地方動態",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "red",
-          "news_count": 17,
-          "comment_count": 0,
-          "negativity_pct": 18,
-          "is_urgent": false,
-          "urgency_score": 26,
-          "sample_titles": [
-            "快訊／死亡多日！基隆外木山休旅車飄惡臭 警消破窗驚見駕駛陳屍車內",
-            "柯文哲 黃國昌赴基隆 陪議員參選人拜廟｜LIVE",
-            "基隆推觀光 童子瑋︰打造山海休憩城"
-          ]
-        },
-        {
           "title": "南投地方動態",
           "city": "南投",
           "place": "南投縣政府",
@@ -62038,11 +62038,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 29,
+          "news_count": 27,
           "comment_count": 0,
-          "negativity_pct": 10,
+          "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 38,
+          "urgency_score": 36,
           "sample_titles": [
             "苗栗縣去年還債21億歷來最多 審計室：量入為出、加速還債",
             "花蓮、苗栗深化市政交流 攜手推動觀光與客家文化",
@@ -62182,11 +62182,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 90,
+          "news_count": 89,
           "comment_count": 0,
-          "negativity_pct": 13,
+          "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 126,
+          "urgency_score": 122,
           "sample_titles": [
             "暑假不用跑山區！ 新北2大森林景點打造城市避暑新選擇",
             "雙北最近常見「綠色怪蟲」出沒！ 新北農業局喊：不用趕盡殺絕",
@@ -62194,31 +62194,15 @@
           ]
         },
         {
-          "title": "桃園地方動態",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "red",
-          "news_count": 92,
-          "comment_count": 0,
-          "negativity_pct": 4,
-          "is_urgent": false,
-          "urgency_score": 104,
-          "sample_titles": [
-            "桃園住都中心攜手國防部 辦理55場國軍招募助擴展職涯",
-            "桃園誠品統領店9月熄燈 在地人爆陰謀論「全為青埔」引發兩派論戰",
-            "桃園誠品統領店9月熄燈在地人爆陰謀論「全為青埔」引發兩派論戰- 生活"
-          ]
-        },
-        {
           "title": "台中地方動態",
           "city": "台中",
           "place": "台中市南屯區",
           "level": "red",
-          "news_count": 94,
+          "news_count": 89,
           "comment_count": 0,
-          "negativity_pct": 14,
+          "negativity_pct": 13,
           "is_urgent": false,
-          "urgency_score": 133,
+          "urgency_score": 125,
           "sample_titles": [
             "星空馬戲壓軸登場 台中「玩劇場生活節」嗨翻夏夜",
             "台中12歲男童暑假玩抖音想賺3千零用錢 險被騙寄SIM卡淪詐團工具",
@@ -62226,15 +62210,31 @@
           ]
         },
         {
+          "title": "桃園地方動態",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "red",
+          "news_count": 91,
+          "comment_count": 0,
+          "negativity_pct": 4,
+          "is_urgent": false,
+          "urgency_score": 103,
+          "sample_titles": [
+            "桃園住都中心攜手國防部 辦理55場國軍招募助擴展職涯",
+            "桃園誠品統領店9月熄燈 在地人爆陰謀論「全為青埔」引發兩派論戰",
+            "桃園誠品統領店9月熄燈在地人爆陰謀論「全為青埔」引發兩派論戰- 生活"
+          ]
+        },
+        {
           "title": "台北地方動態",
           "city": "台北",
           "place": "台北市北投區",
           "level": "red",
-          "news_count": 108,
+          "news_count": 107,
           "comment_count": 0,
           "negativity_pct": 17,
           "is_urgent": false,
-          "urgency_score": 162,
+          "urgency_score": 161,
           "sample_titles": [
             "台北市長蔣萬安號召725抗凱道反毒油，昨天凱道集會爆滿，民怨爆表。對於府院黨昨天連夜發出三份聲明，北市研考會主委殷瑋嘆「",
             "台北青年理想生活節 展現青創能量",
@@ -62247,10 +62247,10 @@
           "place": "台中市政府",
           "level": "red",
           "news_count": 116,
-          "comment_count": 7,
+          "comment_count": 8,
           "negativity_pct": 2,
           "is_urgent": true,
-          "urgency_score": 137,
+          "urgency_score": 140,
           "sample_titles": [
             "算中柯文哲空亡！命理師斷言「盧秀燕運快沒了」 預言這3人沒總統命",
             "算中柯文哲空亡！命理師斷言「盧秀燕運快沒了」 預言這3人沒總統命",
