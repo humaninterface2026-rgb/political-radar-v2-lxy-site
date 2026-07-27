@@ -62185,7 +62185,7 @@
     },
     {
       "date": "2026-07-27",
-      "snapshot_at": "2026-07-27T12:19:02.164206+00:00",
+      "snapshot_at": "2026-07-27T12:22:46.310163+00:00",
       "hotspots": [
         {
           "title": "廚餘山",
@@ -62212,20 +62212,6 @@
           "sample_titles": []
         },
         {
-          "title": "桃園車禍事件",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "新／桃園嚴重車禍！貨車猛撞電杆害近700戶停電"
-          ]
-        },
-        {
           "title": "高雄車禍事件",
           "city": "高雄",
           "place": "高雄市政府",
@@ -62237,6 +62223,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "高雄大寮驚傳車禍 計程車撞分隔島三輪朝天"
+          ]
+        },
+        {
+          "title": "桃園車禍事件",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "新／桃園嚴重車禍！貨車猛撞電杆害近700戶停電"
           ]
         },
         {
@@ -62296,6 +62296,20 @@
           ]
         },
         {
+          "title": "台東詐騙案",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "台東警超商購物意外阻詐！員警憑一句「銀行認證」識破假購物詐騙"
+          ]
+        },
+        {
           "title": "台北陳情/抗議",
           "city": "台北",
           "place": "台北市政府",
@@ -62323,6 +62337,21 @@
           "sample_titles": [
             "烏日警暑假防詐不停歇　深入社區揭密網購詐騙關鍵字　守護民眾荷包",
             "烏日警揭密網購「詐騙關鍵字」　護鄉親財產"
+          ]
+        },
+        {
+          "title": "新竹縣詐騙案",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "北榮新竹醫院結合竹東分局偵查隊推動醫院反詐騙宣導",
+            "北榮新竹分院x竹東警分局偵查隊 攜手宣導反詐騙不輕信不匯款"
           ]
         },
         {
@@ -62358,22 +62387,6 @@
           ]
         },
         {
-          "title": "連江地方動態",
-          "city": "連江",
-          "place": "連江縣（馬祖）",
-          "level": "green",
-          "news_count": 10,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 10,
-          "sample_titles": [
-            "馬祖地質公園學會遠道而來 山海姊妹公園交流 | 台灣生活新聞",
-            "馬祖地質公園學會遠道而來 山海姊妹公園交流",
-            "離島運動會9/29馬祖登場 今日起受理報名"
-          ]
-        },
-        {
           "title": "嘉義縣地方動態",
           "city": "嘉義縣",
           "place": "嘉義縣政府",
@@ -62390,17 +62403,19 @@
           ]
         },
         {
-          "title": "台北狼師事件",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "yellow",
-          "news_count": 1,
+          "title": "連江地方動態",
+          "city": "連江",
+          "place": "連江縣（馬祖）",
+          "level": "green",
+          "news_count": 10,
           "comment_count": 0,
-          "negativity_pct": 100,
+          "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 4,
+          "urgency_score": 10,
           "sample_titles": [
-            "監察院糾正麥當勞性侵案 北市勞動局推中央：沒有全國一致SOP"
+            "馬祖地質公園學會遠道而來 山海姊妹公園交流 | 台灣生活新聞",
+            "馬祖地質公園學會遠道而來 山海姊妹公園交流",
+            "離島運動會9/29馬祖登場 今日起受理報名"
           ]
         },
         {
@@ -62418,6 +62433,20 @@
           ]
         },
         {
+          "title": "台北狼師事件",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "監察院糾正麥當勞性侵案 北市勞動局推中央：沒有全國一致SOP"
+          ]
+        },
+        {
           "title": "基隆弊案爭議",
           "city": "基隆",
           "place": "基隆市政府",
@@ -62429,35 +62458,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "慣竊溜進基隆知名飯店搜刮藝品還盜刷飯店大亨信用卡 被判刑3月"
-          ]
-        },
-        {
-          "title": "台東詐騙案",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台東警超商購物意外阻詐！員警憑一句「銀行認證」識破假購物詐騙"
-          ]
-        },
-        {
-          "title": "新竹縣詐騙案",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "yellow",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "北榮新竹醫院結合竹東分局偵查隊推動醫院反詐騙宣導",
-            "北榮新竹分院x竹東警分局偵查隊 攜手宣導反詐騙不輕信不匯款"
           ]
         },
         {
