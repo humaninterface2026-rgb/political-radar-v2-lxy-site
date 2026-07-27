@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "snapshot_at": "2026-07-27T01:43:38.565570+00:00",
+  "snapshot_at": "2026-07-27T01:49:18.589652+00:00",
   "hotspots": [
     {
       "title": "廚餘山",
@@ -124,6 +124,62 @@
       "comments": []
     },
     {
+      "title": "嘉義縣地方動態",
+      "city": "嘉義縣",
+      "place": "嘉義縣政府",
+      "level": "green",
+      "news_count": 6,
+      "comment_count": 0,
+      "negativity_pct": 17,
+      "is_urgent": false,
+      "urgency_score": 9,
+      "news_articles": [
+        {
+          "title": "嘉義縣「2026東石海之夏」壓軸煙火秀登場 單日破7萬人次湧入碼頭看煙火！",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuRVByMkxuR0RYSEFQdC0xRDZVRGlRTmxpSUswOEUzeTVSa0U2YjNkMlNqMmRUZVgza3JRRU1kU2V3V1hfemZSTlZUNGhSc0FySVdpRmVMNzdSYmlTQy1BZkhuYWdsTTZVT1Rv?oc=5",
+          "time": "2026-07-26 22:12:51",
+          "publisher": "Google News→台灣華報",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣「家鄉100問」2.0新書發表 深化在地認同|藝文臺灣",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XUi1ZY3VMS214WHl4b0VmRWpYaEJOVmgtOGZmYWh4eW1aV3hXaXhFbE9nd21URkVSX3NtZGNKazlKc3RITlN6dlRsQQ?oc=5",
+          "time": "2026-07-26 21:00:00",
+          "publisher": "Google News→僑新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣農會打造寓教於樂暑期盛會",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UQzB6Ynk2Y21rd2pGWllPeXVsdzVMMVkxbTlMS1JkdGpEVWtjc2s1Z1RmQ0Nmd0FMUHBFWHZnd2ZOaXR6QXZsN3EyWFBwZ09rVUQ0RQ?oc=5",
+          "time": "2026-07-26 19:16:50",
+          "publisher": "Google News→臺灣導報",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣村里活動中心廁所升級，翁章梁視察六腳三義社區改善成果",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=256158",
+          "time": "2026-07-26 16:18:21",
+          "publisher": "嘉義縣政府",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣課程博覽會親子體驗日 陪孩子探索未來學習力",
+          "url": "https://more-news.tw/676704/",
+          "time": "2026-07-26 14:06:12",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "國民黨高雄市長參選人、立委柯志恩昨晚參加凱道反毒油遊行，今早現身高雄參加大林蒲鳳林宮藝文活動前受訪表示，昨晚的凱道畫面非常震撼，很多人擠不進來就走了；執政黨所有委員對於食安問題都沒有看法，只有不斷攻擊台中市政府及台北市政府有沒有做檢驗、圍繞在政治口水上面，令人遺憾。",
+          "url": "https://udn.com/news/story/124948/9651630?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-26 13:00:15",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "連江地方動態",
       "city": "連江",
       "place": "連江縣（馬祖）",
@@ -181,69 +237,6 @@
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxNDRNMjRpU0hFa1htUXBHWWFQbnZwR0pqeWItRldaX0lFNHVTdFVvZUd6MnRQVlhWWHA1MVlLUjQ2dWpaQVhObHhXZ0tob2lUVmgxYk5PREd4OWd1aUE?oc=5",
           "time": "2026-07-26 16:01:35",
           "publisher": "Google News→matsu-news.gov.tw",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "嘉義縣地方動態",
-      "city": "嘉義縣",
-      "place": "嘉義縣政府",
-      "level": "green",
-      "news_count": 7,
-      "comment_count": 0,
-      "negativity_pct": 14,
-      "is_urgent": false,
-      "urgency_score": 10,
-      "news_articles": [
-        {
-          "title": "嘉義縣「2026東石海之夏」壓軸煙火秀登場 單日破7萬人次湧入碼頭看煙火！",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuRVByMkxuR0RYSEFQdC0xRDZVRGlRTmxpSUswOEUzeTVSa0U2YjNkMlNqMmRUZVgza3JRRU1kU2V3V1hfemZSTlZUNGhSc0FySVdpRmVMNzdSYmlTQy1BZkhuYWdsTTZVT1Rv?oc=5",
-          "time": "2026-07-26 22:12:51",
-          "publisher": "Google News→台灣華報",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣「家鄉100問」2.0新書發表 深化在地認同|藝文臺灣",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XUi1ZY3VMS214WHl4b0VmRWpYaEJOVmgtOGZmYWh4eW1aV3hXaXhFbE9nd21URkVSX3NtZGNKazlKc3RITlN6dlRsQQ?oc=5",
-          "time": "2026-07-26 21:00:00",
-          "publisher": "Google News→僑新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣農會打造寓教於樂暑期盛會",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UQzB6Ynk2Y21rd2pGWllPeXVsdzVMMVkxbTlMS1JkdGpEVWtjc2s1Z1RmQ0Nmd0FMUHBFWHZnd2ZOaXR6QXZsN3EyWFBwZ09rVUQ0RQ?oc=5",
-          "time": "2026-07-26 19:16:50",
-          "publisher": "Google News→臺灣導報",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣村里活動中心廁所升級，翁章梁視察六腳三義社區改善成果",
-          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=256158",
-          "time": "2026-07-26 16:18:21",
-          "publisher": "嘉義縣政府",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣課程博覽會親子體驗日 陪孩子探索未來學習力",
-          "url": "https://more-news.tw/676704/",
-          "time": "2026-07-26 14:06:12",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "國民黨高雄市長參選人、立委柯志恩昨晚參加凱道反毒油遊行，今早現身高雄參加大林蒲鳳林宮藝文活動前受訪表示，昨晚的凱道畫面非常震撼，很多人擠不進來就走了；執政黨所有委員對於食安問題都沒有看法，只有不斷攻擊台中市政府及台北市政府有沒有做檢驗、圍繞在政治口水上面，令人遺憾。",
-          "url": "https://udn.com/news/story/124948/9651630?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-26 13:00:15",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "百年老屋華麗轉身 嘉義縣南靖社區老人食堂揭牌啟用 榮獲建築園冶獎肯定",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5HNmNzb1pwUi1QWERUVkx0N19mMXZfZGJlMG9NSTE2LUdwUVhHcHEwR1NITXAzb1ZIak0wNUZ5b2gwWXB1U0FB?oc=5",
-          "time": "2026-07-26 09:46:49",
-          "publisher": "Google News→台灣新聞雲",
           "severity": null
         }
       ],
@@ -677,6 +670,48 @@
       "comments": []
     },
     {
+      "title": "台北陳情/抗議",
+      "city": "台北",
+      "place": "台北市政府",
+      "level": "yellow",
+      "news_count": 4,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 16,
+      "news_articles": [
+        {
+          "title": "政治操作？藍再動員上凱道抗議毒酒駕 蔣萬安遭爆10次毒防會議「全缺席」",
+          "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOY3pYWlNsdkRweC12NWVRSU0tMV9aaUF1a0hBR0FYSnUwRy1qVm5BY3FrRU5LRjR0dV9DTWI0YnVvdHFRcEpiS1lSMXE3VFczMDRnRDRvTnJ5UHNITjNUZGNVM3dwenRTa3hRWUNwcVpfaVdtOVV0eGRSSE0yemhINXdIbDBsanBNVHJqVjZsREFOSlluaXI1TnBTOFctS0drZXVqMTdHUXVwTDdtS1E4Z2dVQ1JGTkp6Zjg1aHV1TTVGNkFRY1p1bTZDdEphcG03blZKTkxURWJjU3VVZW5WWlNoZG5rX09vWjVyaUJSdFR3bktUNFdKRFJXblpORWVjcWZxcnRibldyWHJqTnBCNnZ6RlB1OTdpOXk5LUJncDVYU2lGSURVck1Eem9KSWZobzR4ay1SRXVjLVlxd0N5ckFvQ2tkYXJWWHkybEI4MTlQSnNwQmJkcnJyZXhwR1lsdnI0WUxkcGJXM1dIRWwwZ1Mzd1Q4bndGdTBDN0I0MDBubHIxVHNxNlFGcnRULUJDeTBlbjZvbkNUUzZFYUpLLVZlMUxqa04tdEhWSHlwdklkZUtJUUE?oc=5",
+          "time": "2026-07-27 07:06:36",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "毒油風暴延燒，國民黨昨晚號召人民上凱道抗議賴政府，藍營小雞北市議員楊植斗、議員參選人賴苡任、何元楷、張家馨更在上周日參與絕食活動，昨天活動當場幾人被用輪椅推上台，身體相當虛弱，一結束馬上被送醫，絕食活動領銜人楊植斗今天早上也在臉書報平安，身體大致無礙，但目前仍會頭暈。",
+          "url": "https://udn.com/news/story/124948/9651642?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-26 13:00:15",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "725凱道反毒油遊行落幕，但場面盛大，時事評論者、醫師沈政男今表示，昨天抗議人潮滿過凱道，台北市長蔣萬安出手大成功，有助建立藍白共主形象，更將「致癌油總統」5字貼在賴清德額頭上，可見致癌油3個字，威力大過亡國感。",
+          "url": "https://udn.com/news/story/124948/9651621?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-26 13:00:15",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "抗議毒油被賴政府嗆快回工作崗位 蔣萬安怒轟「家父長制」",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wVkVYVXVjc3RJbEg3emhId1hNTldLVGJ1enNqaDdQTDVqNUtyS1Z0SjE2SVNxZTZCX3ZXdFVsYUZMc2ZXd0x4TWpPUFpLZHBWYUdCX2luN1R4S2U0eENWdlU1Um1LT09NZEtDR2Nn?oc=5",
+          "time": "2026-07-26 12:17:49",
+          "publisher": "中時新聞網",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "花蓮陳情/抗議",
       "city": "花蓮",
       "place": "花蓮縣政府",
@@ -761,48 +796,6 @@
       "comments": []
     },
     {
-      "title": "台北陳情/抗議",
-      "city": "台北",
-      "place": "台北市政府",
-      "level": "yellow",
-      "news_count": 4,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 16,
-      "news_articles": [
-        {
-          "title": "政治操作？藍再動員上凱道抗議毒酒駕 蔣萬安遭爆10次毒防會議「全缺席」",
-          "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOY3pYWlNsdkRweC12NWVRSU0tMV9aaUF1a0hBR0FYSnUwRy1qVm5BY3FrRU5LRjR0dV9DTWI0YnVvdHFRcEpiS1lSMXE3VFczMDRnRDRvTnJ5UHNITjNUZGNVM3dwenRTa3hRWUNwcVpfaVdtOVV0eGRSSE0yemhINXdIbDBsanBNVHJqVjZsREFOSlluaXI1TnBTOFctS0drZXVqMTdHUXVwTDdtS1E4Z2dVQ1JGTkp6Zjg1aHV1TTVGNkFRY1p1bTZDdEphcG03blZKTkxURWJjU3VVZW5WWlNoZG5rX09vWjVyaUJSdFR3bktUNFdKRFJXblpORWVjcWZxcnRibldyWHJqTnBCNnZ6RlB1OTdpOXk5LUJncDVYU2lGSURVck1Eem9KSWZobzR4ay1SRXVjLVlxd0N5ckFvQ2tkYXJWWHkybEI4MTlQSnNwQmJkcnJyZXhwR1lsdnI0WUxkcGJXM1dIRWwwZ1Mzd1Q4bndGdTBDN0I0MDBubHIxVHNxNlFGcnRULUJDeTBlbjZvbkNUUzZFYUpLLVZlMUxqa04tdEhWSHlwdklkZUtJUUE?oc=5",
-          "time": "2026-07-27 07:06:36",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "毒油風暴延燒，國民黨昨晚號召人民上凱道抗議賴政府，藍營小雞北市議員楊植斗、議員參選人賴苡任、何元楷、張家馨更在上周日參與絕食活動，昨天活動當場幾人被用輪椅推上台，身體相當虛弱，一結束馬上被送醫，絕食活動領銜人楊植斗今天早上也在臉書報平安，身體大致無礙，但目前仍會頭暈。",
-          "url": "https://udn.com/news/story/124948/9651642?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-26 13:00:15",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "725凱道反毒油遊行落幕，但場面盛大，時事評論者、醫師沈政男今表示，昨天抗議人潮滿過凱道，台北市長蔣萬安出手大成功，有助建立藍白共主形象，更將「致癌油總統」5字貼在賴清德額頭上，可見致癌油3個字，威力大過亡國感。",
-          "url": "https://udn.com/news/story/124948/9651621?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-26 13:00:15",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "抗議毒油被賴政府嗆快回工作崗位 蔣萬安怒轟「家父長制」",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wVkVYVXVjc3RJbEg3emhId1hNTldLVGJ1enNqaDdQTDVqNUtyS1Z0SjE2SVNxZTZCX3ZXdFVsYUZMc2ZXd0x4TWpPUFpLZHBWYUdCX2luN1R4S2U0eENWdlU1Um1LT09NZEtDR2Nn?oc=5",
-          "time": "2026-07-26 12:17:49",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "花蓮車禍事件",
       "city": "花蓮",
       "place": "花蓮縣政府",
@@ -845,111 +838,6 @@
           "title": "花蓮路口驚悚車禍！機車遭撞「滑行再撞1車」 騎士命危送醫",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00Zll3ODhVX1BWZHd3dHRWN0p2NmxzZlJ5OVhXbDc4NzlGR1BXUGZuLXYzLVc2WEVLcnUycXpRLUMxazFUQ0QydE5INEhacVU?oc=5",
           "time": "2026-07-26 18:39:00",
-          "publisher": "TVBS",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "基隆地方動態",
-      "city": "基隆",
-      "place": "基隆市政府",
-      "level": "yellow",
-      "news_count": 13,
-      "comment_count": 0,
-      "negativity_pct": 15,
-      "is_urgent": false,
-      "urgency_score": 19,
-      "news_articles": [
-        {
-          "title": "基隆市長參選人童子瑋今天在往安樂市場、南興市場拜票，藝人郭子乾化身「賴青德」總統為他助講，吸引不少目光。童子瑋說，市場是生活第一線，是最能感受市民需求的地方，他會繼續走進基層，說明「生活市長」的競選理念。",
-          "url": "https://udn.com/news/story/124652/9652064?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-27 08:58:29",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "謠言終結站 》 衛福部基隆醫院粉專賣保健品？衛福部：假的",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1764236",
-          "time": "2026-07-27 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "柯文哲攜手黃國昌基隆輔選 喊議員「4席全上」成立民眾黨團",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5518456",
-          "time": "2026-07-26 22:00:38",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "台灣民眾黨提名4人參選基隆市議員，今天安排「雙主席」輔選行程。創黨主席柯文哲說，在擔任市黨部主委的基隆副市長邱佩琳領導下，一定要4席全上。現任黨主黃國昌也說，成立基隆市議會黨團，扮演好監督的角色，是這場選戰的主軸。",
-          "url": "https://udn.com/news/story/124652/9652150?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-26 21:34:07",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "國家警報大響！新北雙溪規模5.6地震 最大震度3級：基隆到苗票",
-          "url": "https://www.taisounds.com/news/content/139/279676",
-          "time": "2026-07-26 21:34:00",
-          "publisher": "太報",
-          "severity": "yellow"
-        },
-        {
-          "title": "親子攜手闖關學防災 基隆暑期消防體驗營熱鬧登場",
-          "url": "https://more-news.tw/676834/",
-          "time": "2026-07-26 19:37:53",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "「賴青德」陪童子瑋基隆市場掃街 巧遇黃國昌、柯文哲",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5518125",
-          "time": "2026-07-26 13:30:49",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "對於2028年藍白合作，民眾黨創黨主席柯文哲今天在基隆受訪說，說不定民眾黨有更強的總統候選人；民眾黨主席黃國昌則表示，目...",
-          "url": "https://udn.com/news/story/6656/9651688?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-26 13:00:15",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "民眾黨創黨主席柯文哲未在昨晚凱道現身，今早他在基隆對「毒油」案表達看法，指民眾想知道致癌油怎麼發生的？油到哪裡去？將來要怎麼辦？ 政府花了一個月都講不清楚很奇怪，不可能是笨到不知道原因，質疑政府到底是在掩蓋什麼？",
-          "url": "https://udn.com/news/story/124948/9651629?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-07-26 13:00:15",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "基隆鎖管季主題日熱鬧登場 謝國樑邀全民感受最鮮海味",
-          "url": "https://more-news.tw/676549/",
-          "time": "2026-07-26 12:58:51",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "2026基隆鎖管季主題日嗨翻八斗子 謝國樑邀民眾品嚐尚青小卷、體驗海洋文化",
-          "url": "https://n.yam.com/Article/20260726335396",
-          "time": "2026-07-26 12:00:00",
-          "publisher": "蕃新聞→報新聞",
-          "severity": null
-        },
-        {
-          "title": "2026和平島王爺海上遊江圓滿落幕　基隆民俗文化資產傳承海洋信仰",
-          "url": "https://n.yam.com/Article/20260726339370",
-          "time": "2026-07-26 12:00:00",
-          "publisher": "蕃新聞→報新聞",
-          "severity": null
-        },
-        {
-          "title": "快訊／死亡多日！基隆外木山休旅車飄惡臭 警消破窗驚見駕駛陳屍車內",
-          "url": "https://news.tvbs.com.tw/local/3267870",
-          "time": "2026-07-26 09:49:41",
           "publisher": "TVBS",
           "severity": "yellow"
         }
@@ -1057,6 +945,111 @@
           "time": "2026-07-26 11:25:00",
           "publisher": "Google News→工商時報",
           "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "基隆地方動態",
+      "city": "基隆",
+      "place": "基隆市政府",
+      "level": "yellow",
+      "news_count": 13,
+      "comment_count": 0,
+      "negativity_pct": 15,
+      "is_urgent": false,
+      "urgency_score": 19,
+      "news_articles": [
+        {
+          "title": "基隆市長參選人童子瑋今天在往安樂市場、南興市場拜票，藝人郭子乾化身「賴青德」總統為他助講，吸引不少目光。童子瑋說，市場是生活第一線，是最能感受市民需求的地方，他會繼續走進基層，說明「生活市長」的競選理念。",
+          "url": "https://udn.com/news/story/124652/9652064?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-27 08:58:29",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "謠言終結站 》 衛福部基隆醫院粉專賣保健品？衛福部：假的",
+          "url": "https://news.ltn.com.tw/news/politics/paper/1764236",
+          "time": "2026-07-27 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "柯文哲攜手黃國昌基隆輔選 喊議員「4席全上」成立民眾黨團",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5518456",
+          "time": "2026-07-26 22:00:38",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "台灣民眾黨提名4人參選基隆市議員，今天安排「雙主席」輔選行程。創黨主席柯文哲說，在擔任市黨部主委的基隆副市長邱佩琳領導下，一定要4席全上。現任黨主黃國昌也說，成立基隆市議會黨團，扮演好監督的角色，是這場選戰的主軸。",
+          "url": "https://udn.com/news/story/124652/9652150?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-26 21:34:07",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "國家警報大響！新北雙溪規模5.6地震 最大震度3級：基隆到苗票",
+          "url": "https://www.taisounds.com/news/content/139/279676",
+          "time": "2026-07-26 21:34:00",
+          "publisher": "太報",
+          "severity": "yellow"
+        },
+        {
+          "title": "親子攜手闖關學防災 基隆暑期消防體驗營熱鬧登場",
+          "url": "https://more-news.tw/676834/",
+          "time": "2026-07-26 19:37:53",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "「賴青德」陪童子瑋基隆市場掃街 巧遇黃國昌、柯文哲",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5518125",
+          "time": "2026-07-26 13:30:49",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "對於2028年藍白合作，民眾黨創黨主席柯文哲今天在基隆受訪說，說不定民眾黨有更強的總統候選人；民眾黨主席黃國昌則表示，目...",
+          "url": "https://udn.com/news/story/6656/9651688?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-26 13:00:15",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "民眾黨創黨主席柯文哲未在昨晚凱道現身，今早他在基隆對「毒油」案表達看法，指民眾想知道致癌油怎麼發生的？油到哪裡去？將來要怎麼辦？ 政府花了一個月都講不清楚很奇怪，不可能是笨到不知道原因，質疑政府到底是在掩蓋什麼？",
+          "url": "https://udn.com/news/story/124948/9651629?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-07-26 13:00:15",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "基隆鎖管季主題日熱鬧登場 謝國樑邀全民感受最鮮海味",
+          "url": "https://more-news.tw/676549/",
+          "time": "2026-07-26 12:58:51",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "2026基隆鎖管季主題日嗨翻八斗子 謝國樑邀民眾品嚐尚青小卷、體驗海洋文化",
+          "url": "https://n.yam.com/Article/20260726335396",
+          "time": "2026-07-26 12:00:00",
+          "publisher": "蕃新聞→報新聞",
+          "severity": null
+        },
+        {
+          "title": "2026和平島王爺海上遊江圓滿落幕　基隆民俗文化資產傳承海洋信仰",
+          "url": "https://n.yam.com/Article/20260726339370",
+          "time": "2026-07-26 12:00:00",
+          "publisher": "蕃新聞→報新聞",
+          "severity": null
+        },
+        {
+          "title": "快訊／死亡多日！基隆外木山休旅車飄惡臭 警消破窗驚見駕駛陳屍車內",
+          "url": "https://news.tvbs.com.tw/local/3267870",
+          "time": "2026-07-26 09:49:41",
+          "publisher": "TVBS",
+          "severity": "yellow"
         }
       ],
       "comments": []
@@ -3231,7 +3224,7 @@
           "text": "@tsaiyisiou_3 你叫盧秀燕先下台再說吧😍",
           "author": "f04710016",
           "url": "",
-          "time_text": "15小時",
+          "time_text": "16小時",
           "signal": "red"
         },
         {
@@ -3239,7 +3232,7 @@
           "text": "盧秀燕只愛做秀。不敢面對啞巴。",
           "author": "bear6879",
           "url": "",
-          "time_text": "13小時",
+          "time_text": "14小時",
           "signal": "yellow"
         },
         {
@@ -3247,7 +3240,7 @@
           "text": "盧秀燕下台",
           "author": "sho5230",
           "url": "",
-          "time_text": "23小時",
+          "time_text": "1 天",
           "signal": "red"
         },
         {
@@ -3842,11 +3835,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 97,
+      "news_count": 96,
       "comment_count": 0,
       "negativity_pct": 12,
       "is_urgent": false,
-      "urgency_score": 133,
+      "urgency_score": 132,
       "news_articles": [
         {
           "title": "【2026年7月活動推薦】大稻埕夏日節、花蓮航海王、宜蘭童玩節、蓮花季...全台熱門景點活動一次看！(不斷更新) |【玩樂行事曆】",
@@ -4519,13 +4512,6 @@
           "time": "2026-07-26 10:13:17",
           "publisher": "Google News→UDN",
           "severity": "yellow"
-        },
-        {
-          "title": "花蓮市長參選人網路票選為佳燕拔頭籌",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX25zeUVZTEpMWnJQdlh0dXc3Nm9XZjVoYmVYRDA4RjJneE4tLXN1eXpzTzBmRmUySUw4aG90QjIxc0V0QURwZ1VxbW1kaGJzeXpQLUNyUkRlTk5QOXdsNzEwZXZCeUMzVE5PVzcxM0NLUXFtVm9EdnZZNzRwZlJ4RVo0blNkN0xmZzFuWEdUY3psNEJPck11MDF5QW9kOTZIcm0wVXlJdDA2SWtBQXBtMEpDVk94ckxmY0MwclpfaTFBM1NvOGZr?oc=5",
-          "time": "2026-07-26 09:47:35",
-          "publisher": "Google News→花蓮最速報",
-          "severity": null
         }
       ],
       "comments": []
@@ -6999,11 +6985,11 @@
       "city": "台中",
       "place": "台中市沙鹿區",
       "level": "red",
-      "news_count": 132,
+      "news_count": 131,
       "comment_count": 0,
       "negativity_pct": 10,
       "is_urgent": false,
-      "urgency_score": 171,
+      "urgency_score": 170,
       "news_articles": [
         {
           "title": "彩虹村彩繪遭毀案二審改判 中市文化局勝訴維護公產權益",
@@ -7920,13 +7906,6 @@
           "url": "https://n.yam.com/Article/20260726687962",
           "time": "2026-07-26 09:50:33",
           "publisher": "蕃新聞→互傳媒",
-          "severity": null
-        },
-        {
-          "title": "台中玩劇場生活節驚喜 沉浸中山堂全齡共享市民劇場",
-          "url": "https://www.cna.com.tw/news/aloc/202607260021.aspx",
-          "time": "2026-07-26 09:47:52",
-          "publisher": "中央社",
           "severity": null
         }
       ],
