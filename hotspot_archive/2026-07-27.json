@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "snapshot_at": "2026-07-27T12:22:46.310163+00:00",
+  "snapshot_at": "2026-07-27T12:34:48.703656+00:00",
   "hotspots": [
     {
       "title": "廚餘山",
@@ -47,27 +47,6 @@
       ]
     },
     {
-      "title": "高雄車禍事件",
-      "city": "高雄",
-      "place": "高雄市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "高雄大寮驚傳車禍 計程車撞分隔島三輪朝天",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5519121",
-          "time": "2026-07-27 13:49:41",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "桃園車禍事件",
       "city": "桃園",
       "place": "桃園市政府",
@@ -83,6 +62,27 @@
           "url": "https://news.ebc.net.tw/news/society/563265",
           "time": "2026-07-27 13:39:00",
           "publisher": "東森新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄車禍事件",
+      "city": "高雄",
+      "place": "高雄市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "高雄大寮驚傳車禍 計程車撞分隔島三輪朝天",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5519121",
+          "time": "2026-07-27 13:49:41",
+          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -131,9 +131,9 @@
       "comments": []
     },
     {
-      "title": "屏東詐騙案",
-      "city": "屏東",
-      "place": "屏東縣政府",
+      "title": "台東詐騙案",
+      "city": "台東",
+      "place": "台東縣政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -142,10 +142,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "婦人遭網戀詐騙！機警店員QR Code報案 東港警即時攔阻",
-          "url": "https://news.nextapple.com/local/20260727/5251C08DB2B1B6725EFE8E32AAA24043",
-          "time": "2026-07-27 10:23:02",
-          "publisher": "壹蘋新聞網",
+          "title": "台東警超商購物意外阻詐！員警憑一句「銀行認證」識破假購物詐騙",
+          "url": "https://n.yam.com/Article/20260727190243",
+          "time": "2026-07-27 12:00:00",
+          "publisher": "蕃新聞→報新聞",
           "severity": "yellow"
         }
       ],
@@ -173,9 +173,9 @@
       "comments": []
     },
     {
-      "title": "台東詐騙案",
-      "city": "台東",
-      "place": "台東縣政府",
+      "title": "屏東詐騙案",
+      "city": "屏東",
+      "place": "屏東縣政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -184,10 +184,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "台東警超商購物意外阻詐！員警憑一句「銀行認證」識破假購物詐騙",
-          "url": "https://n.yam.com/Article/20260727190243",
-          "time": "2026-07-27 12:00:00",
-          "publisher": "蕃新聞→報新聞",
+          "title": "婦人遭網戀詐騙！機警店員QR Code報案 東港警即時攔阻",
+          "url": "https://news.nextapple.com/local/20260727/5251C08DB2B1B6725EFE8E32AAA24043",
+          "time": "2026-07-27 10:23:02",
+          "publisher": "壹蘋新聞網",
           "severity": "yellow"
         }
       ],
@@ -222,34 +222,6 @@
       "comments": []
     },
     {
-      "title": "台中詐騙案",
-      "city": "台中",
-      "place": "台中市烏日區",
-      "level": "green",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "烏日警暑假防詐不停歇　深入社區揭密網購詐騙關鍵字　守護民眾荷包",
-          "url": "https://n.yam.com/Article/20260727675441",
-          "time": "2026-07-27 12:00:00",
-          "publisher": "蕃新聞→News586",
-          "severity": "yellow"
-        },
-        {
-          "title": "烏日警揭密網購「詐騙關鍵字」　護鄉親財產",
-          "url": "https://n.yam.com/Article/20260727638126",
-          "time": "2026-07-27 12:00:00",
-          "publisher": "蕃新聞→台灣好新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "新竹縣詐騙案",
       "city": "新竹縣",
       "place": "新竹縣政府",
@@ -273,6 +245,34 @@
           "time": "2026-07-27 14:44:12",
           "publisher": "焦點時報",
           "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台中詐騙案",
+      "city": "台中",
+      "place": "台中市烏日區",
+      "level": "green",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "烏日警暑假防詐不停歇　深入社區揭密網購詐騙關鍵字　守護民眾荷包",
+          "url": "https://n.yam.com/Article/20260727675441",
+          "time": "2026-07-27 12:00:00",
+          "publisher": "蕃新聞→News586",
+          "severity": "yellow"
+        },
+        {
+          "title": "烏日警揭密網購「詐騙關鍵字」　護鄉親財產",
+          "url": "https://n.yam.com/Article/20260727638126",
+          "time": "2026-07-27 12:00:00",
+          "publisher": "蕃新聞→台灣好新聞",
+          "severity": "yellow"
         }
       ],
       "comments": []
@@ -356,90 +356,6 @@
           "url": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxNNjZLM0xrX1NXeGI2OG1RbWFZa3FSVDMtZHdrRzJiQ05nbjRrbUtkNlJZUjI3akQ5XzdtMjB6VEhETVdxNnVyMWk2cTltWGYyTkNIOUNETE5pODZjQm5SWjYydmdXbmJ1UnZqZWVpS29JcTJnVXVRSHY2UmpUU2RWekI2UnNLa0Z6ZlVxYi1WTV9qOHNXMW94MVR1WjdxTllzdXpmdG5ocE9BY195dGhNVWRXMEtJUHdEM3o2X0swWWtDMlE3ei1aSjJHLWt6QTlpMU41U2ozZHBacnhoWEFyeFpsR25WMHBTZndiY2hOSjcta0ktQXZhTFBZdmlhSG14UVNBV1NyLWpNdVdob2dqM21aRVNRSURmQkVTMDZoWGh5dGNMNkFZSjI0eFU3YTEzcWFwYm5fbkdEMkU3bTNPUGdFdlkwS2NwdXNacXpCRFNCNWduZDc1Z2RiaE9xazMxSTREbF8yQWlJWWdUMzN5am5WQWFzOXk1cVJRU040SUNkZEpKbmZvMUx3aGxNeUV0b29mcV9MU0VCaU1BbzFlRDJQRGlfTi10aUwtbVlpeUxxX2QyVjJzMmRNd0JDdWxFaC1fSUJPRHZRc001dVpnNEI5aXJ6SjdKRXI5NVp6RUlFUmxHZ0FxUTExN1F3N2tfb19FSzR1RUJTaThCUVphWkpJb1piRWRzZjQzclAyT3YxeHNZSjlDd2o1eE9ualNuQmJDd3NnRlg0QnN4ek5fdnNWdF9vLTVrYWZyRW5hYlpMNy1pcnNXUkRLODVXbnAyR25mUXZ6UEVPVktF?oc=5",
           "time": "2026-07-26 21:03:50",
           "publisher": "Yahoo新聞",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "嘉義縣地方動態",
-      "city": "嘉義縣",
-      "place": "嘉義縣政府",
-      "level": "green",
-      "news_count": 10,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 10,
-      "news_articles": [
-        {
-          "title": "嘉義縣人口密集機構感染管制不鬆懈，3大策略守護住民健康",
-          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=256179",
-          "time": "2026-07-27 16:14:06",
-          "publisher": "嘉義縣政府",
-          "severity": null
-        },
-        {
-          "title": "為助人者充電，嘉義縣衛生局推心衛訪視人員韌性培力計畫",
-          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=256178",
-          "time": "2026-07-27 16:14:06",
-          "publisher": "嘉義縣政府",
-          "severity": null
-        },
-        {
-          "title": "響應世界肝炎日 嘉義縣14鄉鎮衛生所開設肝膽腸胃科門診",
-          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNZFJtWkJnNzdoRXo1cmxRR0s5ZHB3QTNzVGtMY1BPUGYyZkdxbjk1WkpjazhycWVDQWh2ZF93N0tRdkFsQ2N2M2lxd1VEcnVlS1ZMWWVOazAyeEpWLTdlRW5RVWJYM00wOHJFQnl1Smhjc3JjWjNYX0huMFFiMkdIbllOY3UwcllaVnVoQkswOHV4Q1pnbXVGd3FtazBGU2U0bGRoRnVqbFZoV24tRHl6NmlITTJiaEhwdWlYMWYzU2w1WjdZa0dTMWh5WWdmQ1VQd3J1bWpmUDdfT3pIT3VXSkVrazJjVnlSb2xQdW9wZHNDZ01JbndrR3pmQ0VVRzRpQk1xcnkybUMya1N3clFmUFJ6NVJxM2RqQmlHODVhOUZqMEE3SldoY3ZRVFRfejcwRzNnS3UtNlhZRkZFbndlbThDRQ?oc=5",
-          "time": "2026-07-27 14:10:26",
-          "publisher": "Google News→東南亞財經新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣深耕廉政治理 財稅局入圍透明晶質獎接受實地評核",
-          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=256169",
-          "time": "2026-07-27 12:08:42",
-          "publisher": "嘉義縣政府",
-          "severity": null
-        },
-        {
-          "title": "響應世界肝炎日 嘉義縣開辦B、C肝專科巡迴門診 | 中華日報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZbUF3anBfVV9UdG4tWFozLU1ReVpNdk93N2RGVVl5QUN5MnkxTU1xRG9BeGFfMGxWSXoyN21pNmEwcFhqU0Y0dGRPRnNvblRfbFdqall3?oc=5",
-          "time": "2026-07-27 10:54:54",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "響應世界肝炎日 嘉義縣開辦B、C肝專科巡迴門診",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrTXpwRXZoc3U0dHppMmRadFhvUDM1TEo1UFB2OWxGdVBITWJ6Sko3SWZPMWRpZzNRTWliMl9DbGp3dVdpYnhBSHVubVFOOW5lRVE?oc=5",
-          "time": "2026-07-27 10:49:03",
-          "publisher": "Google News→中華新聞雲／中華日報",
-          "severity": null
-        },
-        {
-          "title": "響應世界肝炎日　嘉義縣14鄉鎮衛生所開設肝膽腸胃科門診",
-          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=256160",
-          "time": "2026-07-27 10:31:55",
-          "publisher": "嘉義縣政府",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣村里活動中心廁所升級 翁章梁視察六腳三義社區改善成果",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vM3BHSU92U00tbEdKSXgzNG5BdU9jR2djZDZlWmpyS2pScFFZOTNIeTdJa2NRU0luOXRDVnkzUmRUYkQzMFJZUEpaN1dITnJEdGpfR1RR?oc=5",
-          "time": "2026-07-27 10:04:29",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣「2026東石海之夏」壓軸煙火秀登場 單日破7萬人次湧入碼頭看煙火！",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuRVByMkxuR0RYSEFQdC0xRDZVRGlRTmxpSUswOEUzeTVSa0U2YjNkMlNqMmRUZVgza3JRRU1kU2V3V1hfemZSTlZUNGhSc0FySVdpRmVMNzdSYmlTQy1BZkhuYWdsTTZVT1Rv?oc=5",
-          "time": "2026-07-26 22:12:51",
-          "publisher": "Google News→台灣華報",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣「家鄉100問」2.0新書發表 深化在地認同|藝文臺灣",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XUi1ZY3VMS214WHl4b0VmRWpYaEJOVmgtOGZmYWh4eW1aV3hXaXhFbE9nd21URkVSX3NtZGNKazlKc3RITlN6dlRsQQ?oc=5",
-          "time": "2026-07-26 21:00:00",
-          "publisher": "Google News→僑新聞",
           "severity": null
         }
       ],
@@ -530,22 +446,85 @@
       "comments": []
     },
     {
-      "title": "台中狼師事件",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "yellow",
-      "news_count": 1,
+      "title": "嘉義縣地方動態",
+      "city": "嘉義縣",
+      "place": "嘉義縣政府",
+      "level": "green",
+      "news_count": 10,
       "comment_count": 0,
-      "negativity_pct": 100,
+      "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 4,
+      "urgency_score": 10,
       "news_articles": [
         {
-          "title": "台中女童控繼父性侵害起訴！法庭上認了：都是我編的",
-          "url": "https://news.ebc.net.tw/news/society/563198",
-          "time": "2026-07-26 22:46:00",
-          "publisher": "東森新聞",
-          "severity": "red"
+          "title": "嘉義縣人口密集機構感染管制不鬆懈，3大策略守護住民健康",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=256179",
+          "time": "2026-07-27 16:14:06",
+          "publisher": "嘉義縣政府",
+          "severity": null
+        },
+        {
+          "title": "為助人者充電，嘉義縣衛生局推心衛訪視人員韌性培力計畫",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=256178",
+          "time": "2026-07-27 16:14:06",
+          "publisher": "嘉義縣政府",
+          "severity": null
+        },
+        {
+          "title": "響應世界肝炎日 嘉義縣14鄉鎮衛生所開設肝膽腸胃科門診",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNZFJtWkJnNzdoRXo1cmxRR0s5ZHB3QTNzVGtMY1BPUGYyZkdxbjk1WkpjazhycWVDQWh2ZF93N0tRdkFsQ2N2M2lxd1VEcnVlS1ZMWWVOazAyeEpWLTdlRW5RVWJYM00wOHJFQnl1Smhjc3JjWjNYX0huMFFiMkdIbllOY3UwcllaVnVoQkswOHV4Q1pnbXVGd3FtazBGU2U0bGRoRnVqbFZoV24tRHl6NmlITTJiaEhwdWlYMWYzU2w1WjdZa0dTMWh5WWdmQ1VQd3J1bWpmUDdfT3pIT3VXSkVrazJjVnlSb2xQdW9wZHNDZ01JbndrR3pmQ0VVRzRpQk1xcnkybUMya1N3clFmUFJ6NVJxM2RqQmlHODVhOUZqMEE3SldoY3ZRVFRfejcwRzNnS3UtNlhZRkZFbndlbThDRQ?oc=5",
+          "time": "2026-07-27 14:10:26",
+          "publisher": "Google News→東南亞財經新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣深耕廉政治理 財稅局入圍透明晶質獎接受實地評核",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=256169",
+          "time": "2026-07-27 12:08:42",
+          "publisher": "嘉義縣政府",
+          "severity": null
+        },
+        {
+          "title": "響應世界肝炎日 嘉義縣開辦B、C肝專科巡迴門診 | 中華日報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZbUF3anBfVV9UdG4tWFozLU1ReVpNdk93N2RGVVl5QUN5MnkxTU1xRG9BeGFfMGxWSXoyN21pNmEwcFhqU0Y0dGRPRnNvblRfbFdqall3?oc=5",
+          "time": "2026-07-27 10:54:54",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "響應世界肝炎日 嘉義縣開辦B、C肝專科巡迴門診",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrTXpwRXZoc3U0dHppMmRadFhvUDM1TEo1UFB2OWxGdVBITWJ6Sko3SWZPMWRpZzNRTWliMl9DbGp3dVdpYnhBSHVubVFOOW5lRVE?oc=5",
+          "time": "2026-07-27 10:49:03",
+          "publisher": "Google News→中華新聞雲／中華日報",
+          "severity": null
+        },
+        {
+          "title": "響應世界肝炎日　嘉義縣14鄉鎮衛生所開設肝膽腸胃科門診",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=256160",
+          "time": "2026-07-27 10:31:55",
+          "publisher": "嘉義縣政府",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣村里活動中心廁所升級 翁章梁視察六腳三義社區改善成果",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vM3BHSU92U00tbEdKSXgzNG5BdU9jR2djZDZlWmpyS2pScFFZOTNIeTdJa2NRU0luOXRDVnkzUmRUYkQzMFJZUEpaN1dITnJEdGpfR1RR?oc=5",
+          "time": "2026-07-27 10:04:29",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣「2026東石海之夏」壓軸煙火秀登場 單日破7萬人次湧入碼頭看煙火！",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuRVByMkxuR0RYSEFQdC0xRDZVRGlRTmxpSUswOEUzeTVSa0U2YjNkMlNqMmRUZVgza3JRRU1kU2V3V1hfemZSTlZUNGhSc0FySVdpRmVMNzdSYmlTQy1BZkhuYWdsTTZVT1Rv?oc=5",
+          "time": "2026-07-26 22:12:51",
+          "publisher": "Google News→台灣華報",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣「家鄉100問」2.0新書發表 深化在地認同|藝文臺灣",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XUi1ZY3VMS214WHl4b0VmRWpYaEJOVmgtOGZmYWh4eW1aV3hXaXhFbE9nd21URkVSX3NtZGNKazlKc3RITlN6dlRsQQ?oc=5",
+          "time": "2026-07-26 21:00:00",
+          "publisher": "Google News→僑新聞",
+          "severity": null
         }
       ],
       "comments": []
@@ -566,6 +545,27 @@
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5518853",
           "time": "2026-07-27 10:55:28",
           "publisher": "自由時報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台中狼師事件",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "台中女童控繼父性侵害起訴！法庭上認了：都是我編的",
+          "url": "https://news.ebc.net.tw/news/society/563198",
+          "time": "2026-07-26 22:46:00",
+          "publisher": "東森新聞",
           "severity": "red"
         }
       ],
@@ -2424,11 +2424,11 @@
       "city": "台中",
       "place": "台中市沙鹿區",
       "level": "red",
-      "news_count": 8,
+      "news_count": 7,
       "comment_count": 0,
       "negativity_pct": 100,
       "is_urgent": true,
-      "urgency_score": 32,
+      "urgency_score": 28,
       "news_articles": [
         {
           "title": "齊心抗空污！ 台中市環保局表揚績優機車定檢站 展現公私協力成效",
@@ -2478,13 +2478,6 @@
           "time": "2026-07-26 21:03:20",
           "publisher": "自由時報",
           "severity": "red"
-        },
-        {
-          "title": "台中裝修老屋申報許可還不夠 漏報空污費恐挨罰 議員促設一站式機制",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5518317",
-          "time": "2026-07-26 20:30:38",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -3992,11 +3985,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "red",
-      "news_count": 72,
+      "news_count": 70,
       "comment_count": 0,
       "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 87,
+      "urgency_score": 85,
       "news_articles": [
         {
           "title": "快訊／張景森才退黨又投震撼彈：不排除遷戶籍選宜蘭縣長",
@@ -4487,20 +4480,6 @@
           "time": "2026-07-26 20:34:58",
           "publisher": "Google News→LINE TODAY",
           "severity": "yellow"
-        },
-        {
-          "title": "棕簑貓頻繁現身 宜蘭居民憂心不安",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTEN2Tzl2V3ZNdlhTcE9pX0pJaUY2emtwTnpvMWlFeGZMbnpvMERPekVoR3JGSEZsT01XMnZTaHpmek1SN1Z1Q1BpTEdFSjhQdTc4SE9oOEU4V2tneWs2ano4c3B4cEl4Ty12WGNFRDZNSUs2QmotMXlHaU9CT1hqZEhvLWVCbVo4ak9NT19JTEtzaW9EUjZIal94aS1NZVJPYndhRlAwYnRvTl9VeWw1UmlNZmIxZHRRck9lUDF4OGcwXzd1ODJtV0pZMERZY3hETkJ1RFI3NTlsRTBoazFEYkw5Qm1VZlhfdF94akpyVXZaWjhVYmttZzI2OENZYmpfN2hZS0tpUG0?oc=5",
-          "time": "2026-07-26 20:26:11",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "宜蘭粉鳥林傳落水 34歲女卡岩縫身亡 | 太報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aMVNUdVM2WTJhNEFpZXhDYjBJSHBqeFZVQzFTWmNBLTU2NmF3djhZZmlFU01tS1B6LVZzdmhmZ1c3Nzg0ZGdSOWFZd2dkZEY2TFlQdDBR?oc=5",
-          "time": "2026-07-26 20:23:37",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -5106,10 +5085,10 @@
       "place": "台中市政府",
       "level": "red",
       "news_count": 74,
-      "comment_count": 10,
+      "comment_count": 9,
       "negativity_pct": 1,
       "is_urgent": true,
-      "urgency_score": 97,
+      "urgency_score": 96,
       "news_articles": [
         {
           "title": "毒油延燒！ 綠議員包圍盧秀燕喊道歉被護離場",
@@ -5699,14 +5678,6 @@
           "platform": "threads",
           "text": "盧秀燕妳要跟台中人道歉了嗎？凱道2萬人左右說20萬妳還有什麼不能說謊的？？",
           "author": "wangzhi424",
-          "url": "",
-          "time_text": "1天",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "盧秀燕2028出局",
-          "author": "jiann_cherng_lin",
           "url": "",
           "time_text": "1天",
           "signal": "yellow"
@@ -6376,11 +6347,11 @@
       "city": "台中",
       "place": "台中市豐原區",
       "level": "red",
-      "news_count": 113,
+      "news_count": 112,
       "comment_count": 0,
-      "negativity_pct": 19,
+      "negativity_pct": 18,
       "is_urgent": false,
-      "urgency_score": 176,
+      "urgency_score": 172,
       "news_articles": [
         {
           "title": "黑暗流浪者》中央硬起來 讓中市府為失職負行政責任",
@@ -7165,13 +7136,6 @@
           "time": "2026-07-26 20:43:52",
           "publisher": null,
           "severity": null
-        },
-        {
-          "title": "台中裝修老屋申報許可還不夠 漏報空污費恐挨罰 議員促設一站式機制",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5518317",
-          "time": "2026-07-26 20:30:38",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -7181,11 +7145,11 @@
       "city": "台北",
       "place": "台北市北投區",
       "level": "red",
-      "news_count": 115,
+      "news_count": 114,
       "comment_count": 0,
       "negativity_pct": 13,
       "is_urgent": false,
-      "urgency_score": 160,
+      "urgency_score": 159,
       "news_articles": [
         {
           "title": "綠嗆蔣萬安「好好上班」！北市府回擊：這句話該送給中央政府",
@@ -7983,13 +7947,6 @@
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwRU5vQV9kRm5jNEdvWmFvc0prMGxReUpWMmRTZEdsRVMtNXhWa2tMZnhsOW5qaGg5cG1rQVhyQXc2WEhBaUtib0U2bnBOeFdlWlI4azV4YmhRWWd2enJ4cTg4d0Z2aWZCY0ZQdlJPUUZXZEhIS2dMNA?oc=5",
           "time": "2026-07-26 20:36:00",
           "publisher": "Google News→中央氣象署地震測報中心",
-          "severity": null
-        },
-        {
-          "title": "國有房地出租新制上路！可續租3次、最長20年 「台北星鑽」率先登場",
-          "url": "https://estate.ltn.com.tw/article/28517",
-          "time": "2026-07-26 20:30:00",
-          "publisher": "自由時報",
           "severity": null
         }
       ],
