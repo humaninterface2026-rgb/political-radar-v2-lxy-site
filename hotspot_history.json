@@ -62185,7 +62185,7 @@
     },
     {
       "date": "2026-07-27",
-      "snapshot_at": "2026-07-27T01:49:18.589652+00:00",
+      "snapshot_at": "2026-07-27T01:59:20.261663+00:00",
       "hotspots": [
         {
           "title": "廚餘山",
@@ -62304,6 +62304,22 @@
           ]
         },
         {
+          "title": "基隆地方動態",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "green",
+          "news_count": 12,
+          "comment_count": 0,
+          "negativity_pct": 8,
+          "is_urgent": false,
+          "urgency_score": 15,
+          "sample_titles": [
+            "基隆市長參選人童子瑋今天在往安樂市場、南興市場拜票，藝人郭子乾化身「賴青德」總統為他助講，吸引不少目光。童子瑋說，市場是",
+            "謠言終結站 》 衛福部基隆醫院粉專賣保健品？衛福部：假的",
+            "柯文哲攜手黃國昌基隆輔選 喊議員「4席全上」成立民眾黨團"
+          ]
+        },
+        {
           "title": "新竹市地方動態",
           "city": "新竹市",
           "place": "新竹市政府",
@@ -62392,22 +62408,6 @@
           ]
         },
         {
-          "title": "台北陳情/抗議",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "yellow",
-          "news_count": 4,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 16,
-          "sample_titles": [
-            "政治操作？藍再動員上凱道抗議毒酒駕 蔣萬安遭爆10次毒防會議「全缺席」",
-            "毒油風暴延燒，國民黨昨晚號召人民上凱道抗議賴政府，藍營小雞北市議員楊植斗、議員參選人賴苡任、何元楷、張家馨更在上周日參與",
-            "725凱道反毒油遊行落幕，但場面盛大，時事評論者、醫師沈政男今表示，昨天抗議人潮滿過凱道，台北市長蔣萬安出手大成功，有助"
-          ]
-        },
-        {
           "title": "花蓮陳情/抗議",
           "city": "花蓮",
           "place": "花蓮縣政府",
@@ -62440,6 +62440,22 @@
           ]
         },
         {
+          "title": "台北陳情/抗議",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "yellow",
+          "news_count": 4,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 16,
+          "sample_titles": [
+            "政治操作？藍再動員上凱道抗議毒酒駕 蔣萬安遭爆10次毒防會議「全缺席」",
+            "毒油風暴延燒，國民黨昨晚號召人民上凱道抗議賴政府，藍營小雞北市議員楊植斗、議員參選人賴苡任、何元楷、張家馨更在上周日參與",
+            "725凱道反毒油遊行落幕，但場面盛大，時事評論者、醫師沈政男今表示，昨天抗議人潮滿過凱道，台北市長蔣萬安出手大成功，有助"
+          ]
+        },
+        {
           "title": "花蓮車禍事件",
           "city": "花蓮",
           "place": "花蓮縣政府",
@@ -62469,22 +62485,6 @@
             "白天漫遊澎湖 夜晚追七龍珠花火！",
             "澎湖縣白沙屯媽祖聯誼會成就急難救助一樁美事",
             "童話結合京劇展現戲曲新魅力「澎湖吸館－親子遊樂園」《森林七矮人》8月8日登場"
-          ]
-        },
-        {
-          "title": "基隆地方動態",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "yellow",
-          "news_count": 13,
-          "comment_count": 0,
-          "negativity_pct": 15,
-          "is_urgent": false,
-          "urgency_score": 19,
-          "sample_titles": [
-            "基隆市長參選人童子瑋今天在往安樂市場、南興市場拜票，藝人郭子乾化身「賴青德」總統為他助講，吸引不少目光。童子瑋說，市場是",
-            "謠言終結站 》 衛福部基隆醫院粉專賣保健品？衛福部：假的",
-            "柯文哲攜手黃國昌基隆輔選 喊議員「4席全上」成立民眾黨團"
           ]
         },
         {
@@ -62524,11 +62524,11 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
-          "news_count": 34,
+          "news_count": 35,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 34,
+          "urgency_score": 35,
           "sample_titles": [
             "國民黨花蓮造勢》鄭麗文盧秀燕站台 籲支持正藍軍游淑貞",
             "國民黨花蓮造勢》鄭麗文盧秀燕站台 籲支持正藍軍游淑貞",
@@ -62551,22 +62551,6 @@
           ]
         },
         {
-          "title": "台中空氣污染",
-          "city": "台中",
-          "place": "台中市沙鹿區",
-          "level": "red",
-          "news_count": 7,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 28,
-          "sample_titles": [
-            "【輿情回應】 避免民眾誤觸法規 中市府室內裝修許可將同步提醒申報空污費",
-            "福壽沙鹿飼料廠火警黑煙 中市府依空污法告發 最重可裁罰500萬",
-            "福壽沙鹿飼料廠火警黑煙 中市府依空污法告發 最重可裁罰500萬"
-          ]
-        },
-        {
           "title": "南投地方動態",
           "city": "南投",
           "place": "南投縣政府",
@@ -62580,6 +62564,22 @@
             "不怕得罪媽祖？ 南投暴走女「掀翻供桌」還補踹　廟方看傻眼",
             "打造「臺灣之心」！卓揆視察南投 助推車埕與埔里虎頭山觀光",
             "日月潭男大生溺水失蹤 南投消防局尋獲遺體"
+          ]
+        },
+        {
+          "title": "台中空氣污染",
+          "city": "台中",
+          "place": "台中市沙鹿區",
+          "level": "red",
+          "news_count": 8,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 32,
+          "sample_titles": [
+            "【輿情回應】 避免民眾誤觸法規 中市府室內裝修許可將同步提醒申報空污費",
+            "福壽沙鹿飼料廠火警黑煙 中市府依空污法告發 最重可裁罰500萬",
+            "福壽沙鹿飼料廠火警黑煙 中市府依空污法告發 最重可裁罰500萬"
           ]
         },
         {
@@ -62651,11 +62651,11 @@
           "city": "高雄",
           "place": "高雄市鳳山區",
           "level": "red",
-          "news_count": 50,
+          "news_count": 48,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 56,
+          "urgency_score": 54,
           "sample_titles": [
             "高市府逆轉勝！澄清湖高球場規避稽查 終審判決翻盤",
             "高雄九如橋欄杆加護網 月底如期通車",
@@ -62667,15 +62667,15 @@
           "city": "台中",
           "place": "台中市霧峰區",
           "level": "red",
-          "news_count": 52,
-          "comment_count": 10,
+          "news_count": 54,
+          "comment_count": 12,
           "negativity_pct": 4,
           "is_urgent": true,
-          "urgency_score": 78,
+          "urgency_score": 82,
           "sample_titles": [
-            "陳嘉宏專欄：盧秀燕的七傷拳",
-            "陳嘉宏專欄：盧秀燕的七傷拳",
-            "批盧秀燕食安停擺 何欣純：換有準備的團隊"
+            "盧秀燕喊話賴清德上班處理食安 大老酸爆：總統職權空前的一次偉大提昇",
+            "只燒盧秀燕、不動柯文哲？凱道後競選布條遭火燒破臉 白營揪凶",
+            "陳嘉宏專欄：盧秀燕的七傷拳"
           ]
         },
         {
@@ -62683,11 +62683,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 77,
+          "news_count": 76,
           "comment_count": 0,
           "negativity_pct": 13,
           "is_urgent": false,
-          "urgency_score": 107,
+          "urgency_score": 106,
           "sample_titles": [
             "親綠人士頻為宜蘭高鐵背書 張景森逐反擊嗆：不該為錯誤政策辯護！",
             "【2026年7月活動推薦】大稻埕夏日節、花蓮航海王、宜蘭童玩節、蓮花季...全台熱門景點活動一次看！(不斷更新) |【玩",
@@ -62715,11 +62715,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 106,
+          "news_count": 104,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 112,
+          "urgency_score": 110,
           "sample_titles": [
             "專訪1｜桃園青年局長侯佳齡解密「532政策」黃金比例 打造全台最年輕城市",
             "無人機預算遭刪凍》新北、桃園暫不受影響 南市籲勿刪凍",
@@ -62731,11 +62731,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 117,
+          "news_count": 115,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 129,
+          "urgency_score": 127,
           "sample_titles": [
             "726強震！ 新北雙溪「規模5.6地震」北部超有感",
             "新北雙溪昨5.6地震罕見！氣象署：一週內防規模5餘震",
@@ -62747,11 +62747,11 @@
           "city": "台北",
           "place": "台北市北投區",
           "level": "red",
-          "news_count": 123,
+          "news_count": 120,
           "comment_count": 0,
           "negativity_pct": 16,
           "is_urgent": false,
-          "urgency_score": 183,
+          "urgency_score": 177,
           "sample_titles": [
             "毒駕頻傳，警方強力掃蕩只要快篩陽性，車輛就移置保管，被扣車輛暴增，台北等6都公有拖吊保管場幾近滿載，許多被扣車輛暫置警務",
             "北市死亡事故！婦遭公車輾斃 倒右前輪蓋布",
@@ -62765,9 +62765,9 @@
           "level": "red",
           "news_count": 131,
           "comment_count": 0,
-          "negativity_pct": 10,
+          "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 170,
+          "urgency_score": 173,
           "sample_titles": [
             "彩虹村彩繪遭毀案二審改判 中市文化局勝訴維護公產權益",
             "民主議政園區化身月老殿堂 中市單身聯誼創97%高配對率",
