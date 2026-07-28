@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "snapshot_at": "2026-07-28T01:55:49.586783+00:00",
+  "snapshot_at": "2026-07-28T02:02:51.279388+00:00",
   "hotspots": [
     {
       "title": "廚餘山",
@@ -89,9 +89,9 @@
       "comments": []
     },
     {
-      "title": "屏東車禍事件",
-      "city": "屏東",
-      "place": "屏東縣政府",
+      "title": "苗栗車禍事件",
+      "city": "苗栗",
+      "place": "苗栗縣政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -100,10 +100,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "國道三號南州段平面道路死亡車禍！ 機車撞路緣石墩騎士摔落水溝死亡",
-          "url": "https://www.thehubnews.net/archives/648601",
-          "time": "2026-07-27 18:05:00",
-          "publisher": "新頭條",
+          "title": "通霄鎮國道3號南下151.8K內側車道車禍案件",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=976664",
+          "time": "2026-07-28 08:38:20",
+          "publisher": "苗栗縣政府",
           "severity": "yellow"
         }
       ],
@@ -131,27 +131,6 @@
       "comments": []
     },
     {
-      "title": "新北車禍事件",
-      "city": "新北",
-      "place": "新北市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "1至5月車禍死亡比2023年增9人 新北：至7月死傷降幅近12％",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5519572",
-          "time": "2026-07-27 20:04:11",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "高雄車禍事件",
       "city": "高雄",
       "place": "高雄市政府",
@@ -173,9 +152,9 @@
       "comments": []
     },
     {
-      "title": "苗栗車禍事件",
-      "city": "苗栗",
-      "place": "苗栗縣政府",
+      "title": "屏東車禍事件",
+      "city": "屏東",
+      "place": "屏東縣政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -184,19 +163,19 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "通霄鎮國道3號南下151.8K內側車道車禍案件",
-          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=976664",
-          "time": "2026-07-28 08:38:20",
-          "publisher": "苗栗縣政府",
+          "title": "國道三號南州段平面道路死亡車禍！ 機車撞路緣石墩騎士摔落水溝死亡",
+          "url": "https://www.thehubnews.net/archives/648601",
+          "time": "2026-07-27 18:05:00",
+          "publisher": "新頭條",
           "severity": "yellow"
         }
       ],
       "comments": []
     },
     {
-      "title": "高雄空氣污染",
-      "city": "高雄",
-      "place": "高雄市政府",
+      "title": "新北車禍事件",
+      "city": "新北",
+      "place": "新北市政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -205,9 +184,9 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "高雄廟會放鞭炮釀空污又擴音擾人 環保局：最重可罰13萬元",
-          "url": "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5519187",
-          "time": "2026-07-27 14:39:01",
+          "title": "1至5月車禍死亡比2023年增9人 新北：至7月死傷降幅近12％",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5519572",
+          "time": "2026-07-27 20:04:11",
           "publisher": "自由時報",
           "severity": "yellow"
         }
@@ -236,9 +215,9 @@
       "comments": []
     },
     {
-      "title": "台東詐騙案",
-      "city": "台東",
-      "place": "台東縣政府",
+      "title": "高雄空氣污染",
+      "city": "高雄",
+      "place": "高雄市政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -247,31 +226,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "台東警超商購物意外阻詐！員警憑一句「銀行認證」識破假購物詐騙",
-          "url": "https://n.yam.com/Article/20260727190243",
-          "time": "2026-07-27 12:00:00",
-          "publisher": "蕃新聞→報新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "屏東詐騙案",
-      "city": "屏東",
-      "place": "屏東縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "婦人遭網戀詐騙！機警店員QR Code報案 東港警即時攔阻",
-          "url": "https://news.nextapple.com/local/20260727/5251C08DB2B1B6725EFE8E32AAA24043",
-          "time": "2026-07-27 10:23:02",
-          "publisher": "壹蘋新聞網",
+          "title": "高雄廟會放鞭炮釀空污又擴音擾人 環保局：最重可罰13萬元",
+          "url": "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5519187",
+          "time": "2026-07-27 14:39:01",
+          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -314,6 +272,48 @@
           "url": "https://focus.586.com.tw/2026/07/28/p397226/",
           "time": "2026-07-28 07:43:31",
           "publisher": "焦點時報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "屏東詐騙案",
+      "city": "屏東",
+      "place": "屏東縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "婦人遭網戀詐騙！機警店員QR Code報案 東港警即時攔阻",
+          "url": "https://news.nextapple.com/local/20260727/5251C08DB2B1B6725EFE8E32AAA24043",
+          "time": "2026-07-27 10:23:02",
+          "publisher": "壹蘋新聞網",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台東詐騙案",
+      "city": "台東",
+      "place": "台東縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "台東警超商購物意外阻詐！員警憑一句「銀行認證」識破假購物詐騙",
+          "url": "https://n.yam.com/Article/20260727190243",
+          "time": "2026-07-27 12:00:00",
+          "publisher": "蕃新聞→報新聞",
           "severity": "yellow"
         }
       ],
@@ -677,27 +677,6 @@
       "comments": []
     },
     {
-      "title": "台中狼師事件",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "[Gossiping] [新聞] 台中繼父涉性侵案「大逆轉」！女童庭上改",
-          "url": "https://www.ptt.cc/bbs/Gossiping/M.1785142214.A.817.html",
-          "time": "2026-07-27 16:50:14",
-          "publisher": null,
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台北狼師事件",
       "city": "台北",
       "place": "台北市政府",
@@ -713,6 +692,27 @@
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5518853",
           "time": "2026-07-27 10:55:28",
           "publisher": "自由時報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台中狼師事件",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "[Gossiping] [新聞] 台中繼父涉性侵案「大逆轉」！女童庭上改",
+          "url": "https://www.ptt.cc/bbs/Gossiping/M.1785142214.A.817.html",
+          "time": "2026-07-27 16:50:14",
+          "publisher": null,
           "severity": "red"
         }
       ],
@@ -1556,11 +1556,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "yellow",
-      "news_count": 61,
+      "news_count": 59,
       "comment_count": 0,
-      "negativity_pct": 13,
+      "negativity_pct": 14,
       "is_urgent": false,
-      "urgency_score": 85,
+      "urgency_score": 83,
       "news_articles": [
         {
           "title": "[Gossiping] Re: [新聞] 台中里民旅遊爆丟包爭議 8旬歲獨留八里",
@@ -1974,20 +1974,6 @@
           "time": "2026-07-27 10:32:07",
           "publisher": "蕃新聞→大成報",
           "severity": null
-        },
-        {
-          "title": "侯友宜、谷立言、片山和之同遊新北 搭船欣賞淡江大橋",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5518758",
-          "time": "2026-07-27 09:59:38",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "新北推華語扶助8年 陪伴逾1600名中途返臺生自信表達",
-          "url": "https://www.cdns.com.tw/articles/1435484",
-          "time": "2026-07-27 09:58:19",
-          "publisher": "中華日報",
-          "severity": null
         }
       ],
       "comments": []
@@ -1997,11 +1983,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "yellow",
-      "news_count": 87,
+      "news_count": 86,
       "comment_count": 0,
       "negativity_pct": 8,
       "is_urgent": false,
-      "urgency_score": 108,
+      "urgency_score": 107,
       "news_articles": [
         {
           "title": "宜蘭國際童玩藝術節 飽覽世界各地豐富多元的民俗藝術",
@@ -2603,13 +2589,6 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wb2R3ZnUwM2xJM1AwNVI2c2I1TzdsT094XzNYM3VtckJ1enliN1JzMlZBRHFlbm10S2JoTE1HblY2SlNITEk2Ymxhbk5NUWPSAU5BVV95cUxQQW13WkJWYWNYZmwwczAxUXNQYU9paldpYkgweURsajFkUms1ODBPTXVyaVpORy1MT3d5N19HQTd4bVJRWVcyWTNUNkdVOHc?oc=5",
           "time": "2026-07-27 10:18:00",
           "publisher": "ETtoday",
-          "severity": null
-        },
-        {
-          "title": "自由開講》高鐵延伸宜蘭 是翻轉東部AI與半導體風險的戰略引信",
-          "url": "https://talk.ltn.com.tw/article/breakingnews/5517643",
-          "time": "2026-07-27 10:00:00",
-          "publisher": "自由時報",
           "severity": null
         }
       ],
@@ -4181,11 +4160,11 @@
       "city": "澎湖",
       "place": "澎湖縣政府",
       "level": "red",
-      "news_count": 49,
+      "news_count": 48,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 49,
+      "urgency_score": 48,
       "news_articles": [
         {
           "title": "北醫楓杏抵達澎湖義診 感謝立榮航空協助",
@@ -4521,13 +4500,6 @@
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yUEt1LTNZMnd6VXI3Z3IxaWlYRl9mbkN6MjFBeUxzYzNfV01HX1Zxd3JUYVhXOTM3cnhFN0tFTmV0TGltU3FzY05uanJvaXUxb0RfaDRYSDFOLVNW?oc=5",
           "time": "2026-07-27 10:03:34",
           "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "北醫楓杏醫療服務列車 連續16年開抵澎湖",
-          "url": "https://health.ltn.com.tw/article/breakingnews/5518730",
-          "time": "2026-07-27 09:56:47",
-          "publisher": "自由時報",
           "severity": null
         }
       ],
@@ -4909,11 +4881,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 55,
+      "news_count": 53,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 58,
+      "urgency_score": 56,
       "news_articles": [
         {
           "title": "今高溫上看36度! 屏東清晨防大雨、午後西半部及宜蘭花蓮有雷陣雨",
@@ -5285,20 +5257,6 @@
           "time": "2026-07-27 10:24:54",
           "publisher": "Google News→民視新聞網",
           "severity": null
-        },
-        {
-          "title": "花蓮傅氏帝國終結了？接班人選情崩盤「驚傳換將」 本人緊急回應",
-          "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNd052S015YTNDR0FoSlB4Wk9LbTJHUHh1ajNQTFFjaFVsTHRMc2JnRkJxY094dllsUjBLWGdlQnVJbXBuVE9VMXRFUk5fRTBtMmprdWFsakpJSXpZWmxjWHFxa1dhLTJKLVhrV3VjVUtTNGZzUXBlRFRyOVotYzg4ZmFXbTRaZVFFZGhNcEFLd0dyQ0dUTWlNNWgxNnRPSFhPNVRYdnNBOWRaVFo0NVV0VVRNS3d3S2JraEVvTDQyY0lOQkhzZGxXVTZCZnFNa29jOFlEVE1oNXZudURrUUwtVE9WcGhBZHFoQzQtVk5NTUpPUnZKcHdESVV4QV9TZXhJMS1raUJEWmlYUklKNTVHUUxIcFJ2eGc4Nm5melZlQ0FRc0lXWmM0UDFjZmk5VFJzRkVtYWtVb3JIMl9tUUpzRUVKZTFQME9fOFFqUk5KdUtvN2ExUWFhUW8takNWVnVySzFMT3p2Qk5OcWxia3VTcmFvNXZkS0VvR2QwUVdyWmx4ZU5lU3YtcElTZEZ6Tm8?oc=5",
-          "time": "2026-07-27 10:02:20",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "傅崐萁回鍋親征花蓮？林金結拋「換柱教訓」轟：游淑貞提名不能再給我動",
-          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQMlFkRmZxYzI2OVNMZWRCd2EzaUdZOFZzMjdSY1RBczZsUl9qN3dLS0gzLXZObG1yVkwtclkzcmNwUThKVjF4UUpPZzMyd21pUVo3ckY0T1pUc0dIdEZfdTB2WmpuU0ppNFBWcGlyM3ZaQnptVW85SmhZbWpGT0tsZTloSWZCQTRhRkF0d3A3d3dhdzlhcXAzeW13SkgyRWh6VDBLRlp6Sjdla0UwNmNOdGJzVDhOVGJOSkl3aHdzaFJxYl9JQndsMkJrZU5VdGx0M0tsVTN2NzJQczJhU0pmWXd0b2NyYzVJbm05RFFncGFfOWdXdVlOdkY1Vk1CWHd0Mk5Nc05kN2VQaUtwdDhMUTRNNTg4OGNVbVIwblZCcGZndnYtRXQ4RXNvblc0eHVGM0cwSDEzSzJITjNwTzdjTW14SldpVFhkOU92ajJMNWpjVW5aRmxqUkhwaHUwN2QwMm42blNwbXF3VVlLTHIwX0tRSUU2SzNtd25BQkxMN2lhVUlwN2ZZMV9LNWFsM1ZheW5aMXRwblo4dVpzRThLcEMtZWxpZG00U1VPUWFMRzdRakNL?oc=5",
-          "time": "2026-07-27 10:02:20",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -5971,11 +5929,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 105,
+      "news_count": 104,
       "comment_count": 0,
       "negativity_pct": 1,
       "is_urgent": false,
-      "urgency_score": 108,
+      "urgency_score": 107,
       "news_articles": [
         {
           "title": "桃園市兒童美術館開館兩週年 入館人次穩健成長，攜手校園深耕美學教育",
@@ -6704,13 +6662,6 @@
           "time": "2026-07-27 10:02:49",
           "publisher": "Google News→經濟日報",
           "severity": null
-        },
-        {
-          "title": "桃園市政府觀光旅遊局新聞稿聲音上岸世界連線！ 8/1-8/2「2026桃園珍珠海岸國際音樂節」 交通攻略大公開",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qT0ViaTZ6Nm1haXZMYXM0bFFrY05iUV96MUJPQlF2dHNfVElqb2ZWdFA1SFlvaGxCd2tuYTZ5aDQtQjJ1NkpvSkRDMHo0VnJGSlV1RE1TTXI2Yldj?oc=5",
-          "time": "2026-07-27 10:00:00",
-          "publisher": "Google News→桃園觀光導覽網",
-          "severity": null
         }
       ],
       "comments": []
@@ -6720,11 +6671,11 @@
       "city": "台中",
       "place": "台中市豐原區",
       "level": "red",
-      "news_count": 136,
+      "news_count": 135,
       "comment_count": 0,
-      "negativity_pct": 12,
+      "negativity_pct": 13,
       "is_urgent": false,
-      "urgency_score": 187,
+      "urgency_score": 186,
       "news_articles": [
         {
           "title": "[Gossiping] Re: [新聞] 台中里民旅遊爆丟包爭議 8旬歲獨留八里",
@@ -7670,13 +7621,6 @@
           "time": "2026-07-27 10:07:27",
           "publisher": "Google News→NOWnews今日新聞",
           "severity": null
-        },
-        {
-          "title": "[TaichungBun] [廣宣] 回饋台中鄉里 分離式冷氣清洗",
-          "url": "https://www.ptt.cc/bbs/TaichungBun/M.1785117694.A.71A.html",
-          "time": "2026-07-27 10:01:34",
-          "publisher": null,
-          "severity": null
         }
       ],
       "comments": []
@@ -7686,11 +7630,11 @@
       "city": "高雄",
       "place": "高雄市三民區",
       "level": "red",
-      "news_count": 141,
+      "news_count": 140,
       "comment_count": 0,
       "negativity_pct": 9,
       "is_urgent": false,
-      "urgency_score": 177,
+      "urgency_score": 176,
       "news_articles": [
         {
           "title": "食安修法會議發飆？蔣萬安曝陳其邁質問20％標準 高市府反擊",
@@ -8671,13 +8615,6 @@
           "time": "2026-07-27 10:10:53",
           "publisher": "中央社",
           "severity": null
-        },
-        {
-          "title": "高雄鳳山轉運站疑街友群聚、髒亂 通勤族不敢靠近",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5518776",
-          "time": "2026-07-27 09:58:38",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -8687,11 +8624,11 @@
       "city": "台北",
       "place": "台北市中山區",
       "level": "red",
-      "news_count": 163,
+      "news_count": 161,
       "comment_count": 0,
       "negativity_pct": 13,
       "is_urgent": false,
-      "urgency_score": 226,
+      "urgency_score": 224,
       "news_articles": [
         {
           "title": "食安修法會議發飆？蔣萬安曝陳其邁質問20％標準 高市府反擊",
@@ -9819,20 +9756,6 @@
           "time": "2026-07-27 10:07:39",
           "publisher": "自由時報",
           "severity": null
-        },
-        {
-          "title": "台北遠東香格里拉推中秋禮盒 14款奢華月餅早鳥85折",
-          "url": "https://news.nextapple.com/eattravel/20260727/E4961471C76E346D51C956FA976CCB57",
-          "time": "2026-07-27 10:00:00",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "北市天龍三溫暖前爆猝死案！ 男子下車坐路邊突倒地身亡",
-          "url": "https://www.mirrormedia.mg/story/20260727edi005",
-          "time": "2026-07-27 10:00:00",
-          "publisher": "鏡週刊",
-          "severity": "yellow"
         }
       ],
       "comments": []
