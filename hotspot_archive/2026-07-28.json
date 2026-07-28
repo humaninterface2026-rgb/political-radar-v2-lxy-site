@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "snapshot_at": "2026-07-28T10:39:35.211944+00:00",
+  "snapshot_at": "2026-07-28T10:40:00.854516+00:00",
   "hotspots": [
     {
       "title": "廚餘山",
@@ -131,27 +131,6 @@
       "comments": []
     },
     {
-      "title": "新北車禍事件",
-      "city": "新北",
-      "place": "新北市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "1至5月車禍死亡比2023年增9人 新北：至7月死傷降幅近12％",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5519572",
-          "time": "2026-07-27 20:04:11",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台南車禍事件",
       "city": "台南",
       "place": "台南市政府",
@@ -167,6 +146,27 @@
           "url": "https://news.nextapple.com/local/20260728/EE3F503E524547A93DB182443E853D52",
           "time": "2026-07-28 11:21:05",
           "publisher": "壹蘋新聞網",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新北車禍事件",
+      "city": "新北",
+      "place": "新北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "1至5月車禍死亡比2023年增9人 新北：至7月死傷降幅近12％",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5519572",
+          "time": "2026-07-27 20:04:11",
+          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -215,27 +215,6 @@
       "comments": []
     },
     {
-      "title": "宜蘭詐騙案",
-      "city": "宜蘭",
-      "place": "宜蘭縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "結合文健站廉政宣導 宜蘭地政提醒拒絕賄選、防範投資詐騙",
-          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPWWh4aG56R0paUnZ5YzRDd0hXTDlfcFJaVEZWQUVFdC1xS29CLTZ0RHNkaFI1b1J5N2MwaVk4d0d3bS1PRklNbk1zTV9ZOC03ekZrWG9RbmxFRXJHcWlhNXgtZ0tKb2x3M1hMTVBiVFRMTHROdGQ2cnVxT2QwZDdMdU9FTEh1ZUZNRzNQVlpnQmRyaWlvajFsLTNVRjBWcnZnRjdKWFg1bUhGcVNMOC1haWFma3VTRmYxYzhWa0FhM1FnQkRTbHlpNXAtdXlRaENkX1kwbEJkZ0pmQWQ3NXR6ZzJCSHZXYWh4eVRzRVlqWkFNTFRQbW5CT2t4N0VZRzdSc3hwOEVtNndnNWQybGlHR0lFc3BydkcxbVJPRlM1VjRuc2gxNlg3OVVnNWotMUl1RWVDbWE0VnUweThfZ1hQal9ydHA0S1h4Nk5mRVZFLXZBS0lmdVFWZXN6YnZPZUVaMjVKcVBXMU9IU0ZvVTNLc21vZUJrXzN0dTdUTlhOVUFfUQ?oc=5",
-          "time": "2026-07-28 13:34:25",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "高雄詐騙案",
       "city": "高雄",
       "place": "高雄市政府",
@@ -252,6 +231,27 @@
           "time": "2026-07-28 07:43:31",
           "publisher": "焦點時報",
           "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "宜蘭詐騙案",
+      "city": "宜蘭",
+      "place": "宜蘭縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "結合文健站廉政宣導 宜蘭地政提醒拒絕賄選、防範投資詐騙",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPWWh4aG56R0paUnZ5YzRDd0hXTDlfcFJaVEZWQUVFdC1xS29CLTZ0RHNkaFI1b1J5N2MwaVk4d0d3bS1PRklNbk1zTV9ZOC03ekZrWG9RbmxFRXJHcWlhNXgtZ0tKb2x3M1hMTVBiVFRMTHROdGQ2cnVxT2QwZDdMdU9FTEh1ZUZNRzNQVlpnQmRyaWlvajFsLTNVRjBWcnZnRjdKWFg1bUhGcVNMOC1haWFma3VTRmYxYzhWa0FhM1FnQkRTbHlpNXAtdXlRaENkX1kwbEJkZ0pmQWQ3NXR6ZzJCSHZXYWh4eVRzRVlqWkFNTFRQbW5CT2t4N0VZRzdSc3hwOEVtNndnNWQybGlHR0lFc3BydkcxbVJPRlM1VjRuc2gxNlg3OVVnNWotMUl1RWVDbWE0VnUweThfZ1hQal9ydHA0S1h4Nk5mRVZFLXZBS0lmdVFWZXN6YnZPZUVaMjVKcVBXMU9IU0ZvVTNLc21vZUJrXzN0dTdUTlhOVUFfUQ?oc=5",
+          "time": "2026-07-28 13:34:25",
+          "publisher": "Yahoo新聞",
+          "severity": null
         }
       ],
       "comments": []

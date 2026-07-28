@@ -62946,7 +62946,7 @@
     },
     {
       "date": "2026-07-28",
-      "snapshot_at": "2026-07-28T10:39:35.211944+00:00",
+      "snapshot_at": "2026-07-28T10:40:00.854516+00:00",
       "hotspots": [
         {
           "title": "廚餘山",
@@ -63029,20 +63029,6 @@
           ]
         },
         {
-          "title": "新北車禍事件",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "1至5月車禍死亡比2023年增9人 新北：至7月死傷降幅近12％"
-          ]
-        },
-        {
           "title": "台南車禍事件",
           "city": "台南",
           "place": "台南市政府",
@@ -63054,6 +63040,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "七股死亡車禍！5大學生暑假出遊玩太累 撞死雜貨店「鋟蚵女」"
+          ]
+        },
+        {
+          "title": "新北車禍事件",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "1至5月車禍死亡比2023年增9人 新北：至7月死傷降幅近12％"
           ]
         },
         {
@@ -63085,20 +63085,6 @@
           ]
         },
         {
-          "title": "宜蘭詐騙案",
-          "city": "宜蘭",
-          "place": "宜蘭縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "結合文健站廉政宣導 宜蘭地政提醒拒絕賄選、防範投資詐騙"
-          ]
-        },
-        {
           "title": "高雄詐騙案",
           "city": "高雄",
           "place": "高雄市政府",
@@ -63110,6 +63096,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "暑期防詐大作戰！高市刑大提醒SIM卡外寄恐成詐騙幫兇"
+          ]
+        },
+        {
+          "title": "宜蘭詐騙案",
+          "city": "宜蘭",
+          "place": "宜蘭縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "結合文健站廉政宣導 宜蘭地政提醒拒絕賄選、防範投資詐騙"
           ]
         },
         {
