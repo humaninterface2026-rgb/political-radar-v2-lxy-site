@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "snapshot_at": "2026-07-29T01:34:29.716329+00:00",
+  "snapshot_at": "2026-07-29T01:34:41.850274+00:00",
   "hotspots": [
     {
       "title": "嘉義縣火災事件",
@@ -24,27 +24,6 @@
       "comments": []
     },
     {
-      "title": "台北車禍事件",
-      "city": "台北",
-      "place": "台北市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "文山公車盲區釀死亡車禍 陳峙穎揭公車少了一項救命偵測系統",
-          "url": "https://newtalk.tw/news/view/2026-07-28/1049760",
-          "time": "2026-07-28 11:06:28",
-          "publisher": "新頭殼",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "花蓮車禍事件",
       "city": "花蓮",
       "place": "花蓮縣政府",
@@ -60,6 +39,27 @@
           "url": "https://news.nextapple.com/local/20260728/DA4B695F9C1338D5AC606C8A5FCAC08F",
           "time": "2026-07-28 13:03:54",
           "publisher": "壹蘋新聞網",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台北車禍事件",
+      "city": "台北",
+      "place": "台北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "文山公車盲區釀死亡車禍 陳峙穎揭公車少了一項救命偵測系統",
+          "url": "https://newtalk.tw/news/view/2026-07-28/1049760",
+          "time": "2026-07-28 11:06:28",
+          "publisher": "新頭殼",
           "severity": "yellow"
         }
       ],
@@ -580,9 +580,9 @@
       "comments": []
     },
     {
-      "title": "台北弊案爭議",
-      "city": "台北",
-      "place": "台北市政府",
+      "title": "嘉義縣弊案爭議",
+      "city": "嘉義縣",
+      "place": "嘉義縣政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -591,10 +591,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "北市醫美診所槍擊案 北檢追加起訴4嫌",
-          "url": "https://www.cna.com.tw/news/asoc/202607280083.aspx",
-          "time": "2026-07-28 12:07:26",
-          "publisher": "中央社",
+          "title": "嘉義縣刑事警察大隊偵查延伸至虛擬資產 破獲虛擬貨幣高額洗錢案判刑",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CMkptUVk0WllXNjNJSVJacUpLcGJHVlc1a256Vk43a2Q3dFZpODUzWFc2SlRyMVBQOXQtdzQ3SGVLV1NLXzBfUHQtOEpGaDVoOTh4RHRuV1ViN1VneHNTNFd5ZERjckI2aWZF?oc=5",
+          "time": "2026-07-28 15:14:56",
+          "publisher": "Google News→台灣華報",
           "severity": "red"
         }
       ],
@@ -622,9 +622,9 @@
       "comments": []
     },
     {
-      "title": "嘉義縣弊案爭議",
-      "city": "嘉義縣",
-      "place": "嘉義縣政府",
+      "title": "台北弊案爭議",
+      "city": "台北",
+      "place": "台北市政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -633,10 +633,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "嘉義縣刑事警察大隊偵查延伸至虛擬資產 破獲虛擬貨幣高額洗錢案判刑",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CMkptUVk0WllXNjNJSVJacUpLcGJHVlc1a256Vk43a2Q3dFZpODUzWFc2SlRyMVBQOXQtdzQ3SGVLV1NLXzBfUHQtOEpGaDVoOTh4RHRuV1ViN1VneHNTNFd5ZERjckI2aWZF?oc=5",
-          "time": "2026-07-28 15:14:56",
-          "publisher": "Google News→台灣華報",
+          "title": "北市醫美診所槍擊案 北檢追加起訴4嫌",
+          "url": "https://www.cna.com.tw/news/asoc/202607280083.aspx",
+          "time": "2026-07-28 12:07:26",
+          "publisher": "中央社",
           "severity": "red"
         }
       ],

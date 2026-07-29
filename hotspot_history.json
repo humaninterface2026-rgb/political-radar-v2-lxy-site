@@ -63728,7 +63728,7 @@
     },
     {
       "date": "2026-07-29",
-      "snapshot_at": "2026-07-29T01:34:29.716329+00:00",
+      "snapshot_at": "2026-07-29T01:34:41.850274+00:00",
       "hotspots": [
         {
           "title": "嘉義縣火災事件",
@@ -63745,20 +63745,6 @@
           ]
         },
         {
-          "title": "台北車禍事件",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "文山公車盲區釀死亡車禍 陳峙穎揭公車少了一項救命偵測系統"
-          ]
-        },
-        {
           "title": "花蓮車禍事件",
           "city": "花蓮",
           "place": "花蓮縣政府",
@@ -63770,6 +63756,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "花蓮車禍! 女騎士疑闖紅燈遭無照女撞重傷"
+          ]
+        },
+        {
+          "title": "台北車禍事件",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "文山公車盲區釀死亡車禍 陳峙穎揭公車少了一項救命偵測系統"
           ]
         },
         {
@@ -63977,9 +63977,9 @@
           ]
         },
         {
-          "title": "台北弊案爭議",
-          "city": "台北",
-          "place": "台北市政府",
+          "title": "嘉義縣弊案爭議",
+          "city": "嘉義縣",
+          "place": "嘉義縣政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -63987,7 +63987,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "北市醫美診所槍擊案 北檢追加起訴4嫌"
+            "嘉義縣刑事警察大隊偵查延伸至虛擬資產 破獲虛擬貨幣高額洗錢案判刑"
           ]
         },
         {
@@ -64005,9 +64005,9 @@
           ]
         },
         {
-          "title": "嘉義縣弊案爭議",
-          "city": "嘉義縣",
-          "place": "嘉義縣政府",
+          "title": "台北弊案爭議",
+          "city": "台北",
+          "place": "台北市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -64015,7 +64015,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "嘉義縣刑事警察大隊偵查延伸至虛擬資產 破獲虛擬貨幣高額洗錢案判刑"
+            "北市醫美診所槍擊案 北檢追加起訴4嫌"
           ]
         },
         {
