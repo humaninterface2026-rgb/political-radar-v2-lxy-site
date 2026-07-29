@@ -63728,7 +63728,7 @@
     },
     {
       "date": "2026-07-29",
-      "snapshot_at": "2026-07-29T11:06:32.977015+00:00",
+      "snapshot_at": "2026-07-29T11:17:45.277650+00:00",
       "hotspots": [
         {
           "title": "廚餘山",
@@ -63771,6 +63771,20 @@
           ]
         },
         {
+          "title": "新北狼師事件",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "影/蘆洲變態男穿薄紗扮女裝 尾隨女子闖民宅性侵未遂"
+          ]
+        },
+        {
           "title": "嘉義縣火災事件",
           "city": "嘉義縣",
           "place": "嘉義縣政府",
@@ -63799,20 +63813,6 @@
           ]
         },
         {
-          "title": "台中陳情/抗議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "蔣萬安變戰狼 藍營天王角力再升溫！一場凱道抗議，讓鄭麗文、盧秀燕角色更尷尬"
-          ]
-        },
-        {
           "title": "台南陳情/抗議",
           "city": "台南",
           "place": "台南市政府",
@@ -63827,9 +63827,9 @@
           ]
         },
         {
-          "title": "高雄詐騙案",
-          "city": "高雄",
-          "place": "高雄市鳳山區",
+          "title": "台中陳情/抗議",
+          "city": "台中",
+          "place": "台中市政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -63837,7 +63837,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "AI股獲利千萬險遭假投資詐騙 鳳山警銀聯手保住900萬元"
+            "蔣萬安變戰狼 藍營天王角力再升溫！一場凱道抗議，讓鄭麗文、盧秀燕角色更尷尬"
           ]
         },
         {
@@ -63852,6 +63852,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "新北跨機關聯手攔阻詐騙 守住七旬婦700萬元不動產"
+          ]
+        },
+        {
+          "title": "高雄詐騙案",
+          "city": "高雄",
+          "place": "高雄市鳳山區",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "AI股獲利千萬險遭假投資詐騙 鳳山警銀聯手保住900萬元"
           ]
         },
         {
@@ -63947,20 +63961,6 @@
             "城市最溫暖的服務者！嘉市警第二分局感恩表揚績優志工",
             "嘉義市購物節買氣火熱！發票登錄破億元 滿千送百8/3開跑",
             "嘉市湖子內新建非營利幼兒園8/1開園 開放登記"
-          ]
-        },
-        {
-          "title": "新北狼師事件",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "影/蘆洲變態男穿薄紗扮女裝 尾隨女子闖民宅性侵未遂"
           ]
         },
         {
@@ -64263,11 +64263,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 48,
+          "news_count": 46,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 54,
+          "urgency_score": 52,
           "sample_titles": [
             "聯電宣布新加坡擴產及台南興建新廠 因應AI需求加速成長",
             "近日網路傳出台南市議員謝舒凡的姊姊謝婉琪疑在對岸涉及不法，入境時遭海關攔下長期滯留迄今，由於謝舒凡剛當選民進黨中執委引發",
@@ -64295,11 +64295,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 62,
+          "news_count": 61,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 68,
+          "urgency_score": 67,
           "sample_titles": [
             "波蘭人聽完感動到邀請去家裡住！屏東孩子用美聲驚豔歐洲 | 自由電子報",
             "屏東縣警局加強演習整備 主任率隊前往東港分局進行防空演練訓練",
@@ -64311,11 +64311,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 68,
+          "news_count": 67,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 68,
+          "urgency_score": 67,
           "sample_titles": [
             "「捐款他又搶頭香」金額比照2年前花蓮大地震",
             "花蓮家扶歡慶60週年 系列活動文創園區溫馨登場",
@@ -64343,11 +64343,11 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "red",
-          "news_count": 89,
+          "news_count": 86,
           "comment_count": 9,
           "negativity_pct": 2,
           "is_urgent": true,
-          "urgency_score": 114,
+          "urgency_score": 111,
           "sample_titles": [
             "何欣純小雞喊話江啟臣 走出盧秀燕陰影、正面回應市政責任",
             "關心熊本震災 盧秀燕指示特搜隊待命將捐助10萬美元賑災 | 王秀禾 | 地方新聞",
@@ -64375,11 +64375,11 @@
           "city": "台中",
           "place": "台中市豐原區",
           "level": "red",
-          "news_count": 146,
+          "news_count": 144,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 155,
+          "urgency_score": 153,
           "sample_titles": [
             "台中流行影音中心完工6年未啟用 市府年底對外營運",
             "查毒油風暴 中市議會專案報告 盧秀燕:會這麼多攻防因選舉到了",
@@ -64391,11 +64391,11 @@
           "city": "高雄",
           "place": "高雄市鳳山區",
           "level": "red",
-          "news_count": 185,
+          "news_count": 183,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 215,
+          "urgency_score": 213,
           "sample_titles": [
             "高雄市高風險幼兒醫療照護計畫 8月起四家醫學中心加入施行",
             "高市攜手台鋼雄鷹打造循環杯減塑減碳新標竿",
