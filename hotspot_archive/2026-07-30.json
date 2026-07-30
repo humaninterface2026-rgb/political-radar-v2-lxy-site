@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "snapshot_at": "2026-07-30T11:08:13.935350+00:00",
+  "snapshot_at": "2026-07-30T11:16:54.400331+00:00",
   "hotspots": [
     {
       "title": "垃圾山",
@@ -109,9 +109,9 @@
       "comments": []
     },
     {
-      "title": "高雄車禍事件",
-      "city": "高雄",
-      "place": "高雄市政府",
+      "title": "南投車禍事件",
+      "city": "南投",
+      "place": "南投縣政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -120,10 +120,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "路竹2死車禍內幕曝光！ 肇事男連考5次駕照都沒過 長期無照上路釀禍",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5522957",
-          "time": "2026-07-30 14:25:25",
-          "publisher": "自由時報",
+          "title": "南投台14甲死亡車禍！18歲重機男摔車外拋捲車底…「身體對折」遭輾斃",
+          "url": "https://tw.news.yahoo.com/%E5%8D%97%E6%8A%95%E5%8F%B014%E7%94%B2%E6%AD%BB%E4%BA%A1%E8%BB%8A%E7%A6%8D-18%E6%AD%B2%E9%87%8D%E6%A9%9F%E7%94%B7%E6%91%94%E8%BB%8A%E5%A4%96%E6%8B%8B%E6%8D%B2%E8%BB%8A%E5%BA%95-%E8%BA%AB%E9%AB%94%E5%B0%8D%E6%8A%98-%E9%81%AD%E8%BC%BE%E6%96%83-025500662.html",
+          "time": "2026-07-30 10:55:00",
+          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -151,9 +151,9 @@
       "comments": []
     },
     {
-      "title": "南投車禍事件",
-      "city": "南投",
-      "place": "南投縣政府",
+      "title": "高雄車禍事件",
+      "city": "高雄",
+      "place": "高雄市政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -162,31 +162,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "南投台14甲死亡車禍！18歲重機男摔車外拋捲車底…「身體對折」遭輾斃",
-          "url": "https://tw.news.yahoo.com/%E5%8D%97%E6%8A%95%E5%8F%B014%E7%94%B2%E6%AD%BB%E4%BA%A1%E8%BB%8A%E7%A6%8D-18%E6%AD%B2%E9%87%8D%E6%A9%9F%E7%94%B7%E6%91%94%E8%BB%8A%E5%A4%96%E6%8B%8B%E6%8D%B2%E8%BB%8A%E5%BA%95-%E8%BA%AB%E9%AB%94%E5%B0%8D%E6%8A%98-%E9%81%AD%E8%BC%BE%E6%96%83-025500662.html",
-          "time": "2026-07-30 10:55:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "台南陳情/抗議",
-      "city": "台南",
-      "place": "台南市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "台安藥局驚傳大量解雇、欠薪 受害員工陳情 南市府2波裁罰52萬",
-          "url": "https://news.nextapple.com/local/20260730/0B9F8817A0139C0782C8F29B23D24811",
-          "time": "2026-07-30 11:22:47",
-          "publisher": "壹蘋新聞網",
+          "title": "路竹2死車禍內幕曝光！ 肇事男連考5次駕照都沒過 長期無照上路釀禍",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5522957",
+          "time": "2026-07-30 14:25:25",
+          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -214,7 +193,7 @@
       "comments": []
     },
     {
-      "title": "台南詐騙案",
+      "title": "台南陳情/抗議",
       "city": "台南",
       "place": "台南市政府",
       "level": "green",
@@ -225,10 +204,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "健康食品也成詐騙話術？台南女欲領47萬 警揭假投資陷阱",
-          "url": "https://tw.news.yahoo.com/%E5%81%A5%E5%BA%B7%E9%A3%9F%E5%93%81%E4%B9%9F%E6%88%90%E8%A9%90%E9%A8%99%E8%A9%B1%E8%A1%93-%E5%8F%B0%E5%8D%97%E5%A5%B3%E6%AC%B2%E9%A0%9847%E8%90%AC-%E8%AD%A6%E6%8F%AD%E5%81%87%E6%8A%95%E8%B3%87%E9%99%B7%E9%98%B1-081342044.html",
-          "time": "2026-07-30 08:13:42",
-          "publisher": "Yahoo新聞",
+          "title": "台安藥局驚傳大量解雇、欠薪 受害員工陳情 南市府2波裁罰52萬",
+          "url": "https://news.nextapple.com/local/20260730/0B9F8817A0139C0782C8F29B23D24811",
+          "time": "2026-07-30 11:22:47",
+          "publisher": "壹蘋新聞網",
           "severity": "yellow"
         }
       ],
@@ -250,6 +229,27 @@
           "url": "https://www.thehubnews.net/archives/649440",
           "time": "2026-07-30 10:18:42",
           "publisher": "新頭條",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台南詐騙案",
+      "city": "台南",
+      "place": "台南市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "健康食品也成詐騙話術？台南女欲領47萬 警揭假投資陷阱",
+          "url": "https://tw.news.yahoo.com/%E5%81%A5%E5%BA%B7%E9%A3%9F%E5%93%81%E4%B9%9F%E6%88%90%E8%A9%90%E9%A8%99%E8%A9%B1%E8%A1%93-%E5%8F%B0%E5%8D%97%E5%A5%B3%E6%AC%B2%E9%A0%9847%E8%90%AC-%E8%AD%A6%E6%8F%AD%E5%81%87%E6%8A%95%E8%B3%87%E9%99%B7%E9%98%B1-081342044.html",
+          "time": "2026-07-30 08:13:42",
+          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -389,6 +389,83 @@
       "comments": []
     },
     {
+      "title": "南投地方動態",
+      "city": "南投",
+      "place": "南投縣政府",
+      "level": "green",
+      "news_count": 9,
+      "comment_count": 0,
+      "negativity_pct": 11,
+      "is_urgent": false,
+      "urgency_score": 12,
+      "news_articles": [
+        {
+          "title": "南投理事長培訓營登場 47個社區熱烈響應 實戰教學厚植在地能量",
+          "url": "https://more-news.tw/680198/",
+          "time": "2026-07-30 15:07:09",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "2026/07/30 12:00 蝦米！9萬元就能入手南投市農地",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5522716",
+          "time": "2026-07-30 13:12:07",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "實戰教學厚植在地能量！南投理事長培訓營登場 47個社區熱烈響應",
+          "url": "https://n.yam.com/Article/20260730393588",
+          "time": "2026-07-30 12:00:00",
+          "publisher": "蕃新聞→台灣好報",
+          "severity": null
+        },
+        {
+          "title": "南投台14甲死亡車禍！18歲重機男摔車外拋捲車底…「身體對折」遭輾斃",
+          "url": "https://tw.news.yahoo.com/%E5%8D%97%E6%8A%95%E5%8F%B014%E7%94%B2%E6%AD%BB%E4%BA%A1%E8%BB%8A%E7%A6%8D-18%E6%AD%B2%E9%87%8D%E6%A9%9F%E7%94%B7%E6%91%94%E8%BB%8A%E5%A4%96%E6%8B%8B%E6%8D%B2%E8%BB%8A%E5%BA%95-%E8%BA%AB%E9%AB%94%E5%B0%8D%E6%8A%98-%E9%81%AD%E8%BC%BE%E6%96%83-025500662.html",
+          "time": "2026-07-30 10:55:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "瑞士青年深耕南投部落 言凱明投入族語傳承 盼為台灣原住民族文化盡一份心力",
+          "url": "https://n.yam.com/Article/20260730696451",
+          "time": "2026-07-30 09:41:20",
+          "publisher": "蕃新聞→互傳媒",
+          "severity": null
+        },
+        {
+          "title": "「白海豚」長胖 南投3橋設4監控風吹草動回傳",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5522481",
+          "time": "2026-07-30 09:22:55",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "南投未牽繩遛毛小孩 最高罰飼主1.5萬",
+          "url": "https://news.ltn.com.tw/news/Nantou/paper/1764613",
+          "time": "2026-07-30 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "南投觀光聯盟交接 茆晉日牂接任理事長",
+          "url": "https://n.yam.com/Article/20260730270631",
+          "time": "2026-07-30 02:29:32",
+          "publisher": "蕃新聞→今傳媒",
+          "severity": null
+        },
+        {
+          "title": "整備應變戰力 深化保育實力 林業保育署南投分署辦理臺灣黑熊衝突應變指引與滋擾防治演練",
+          "url": "https://more-news.tw/679631/",
+          "time": "2026-07-29 20:43:18",
+          "publisher": "墨新聞",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "嘉義市地方動態",
       "city": "嘉義市",
       "place": "嘉義市政府",
@@ -466,90 +543,6 @@
       "comments": []
     },
     {
-      "title": "南投地方動態",
-      "city": "南投",
-      "place": "南投縣政府",
-      "level": "green",
-      "news_count": 10,
-      "comment_count": 0,
-      "negativity_pct": 10,
-      "is_urgent": false,
-      "urgency_score": 13,
-      "news_articles": [
-        {
-          "title": "南投理事長培訓營登場 47個社區熱烈響應 實戰教學厚植在地能量",
-          "url": "https://more-news.tw/680198/",
-          "time": "2026-07-30 15:07:09",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "2026/07/30 12:00 蝦米！9萬元就能入手南投市農地",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5522716",
-          "time": "2026-07-30 13:12:07",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "實戰教學厚植在地能量！南投理事長培訓營登場 47個社區熱烈響應",
-          "url": "https://n.yam.com/Article/20260730393588",
-          "time": "2026-07-30 12:00:00",
-          "publisher": "蕃新聞→台灣好報",
-          "severity": null
-        },
-        {
-          "title": "南投台14甲死亡車禍！18歲重機男摔車外拋捲車底…「身體對折」遭輾斃",
-          "url": "https://tw.news.yahoo.com/%E5%8D%97%E6%8A%95%E5%8F%B014%E7%94%B2%E6%AD%BB%E4%BA%A1%E8%BB%8A%E7%A6%8D-18%E6%AD%B2%E9%87%8D%E6%A9%9F%E7%94%B7%E6%91%94%E8%BB%8A%E5%A4%96%E6%8B%8B%E6%8D%B2%E8%BB%8A%E5%BA%95-%E8%BA%AB%E9%AB%94%E5%B0%8D%E6%8A%98-%E9%81%AD%E8%BC%BE%E6%96%83-025500662.html",
-          "time": "2026-07-30 10:55:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "瑞士青年深耕南投部落 言凱明投入族語傳承 盼為台灣原住民族文化盡一份心力",
-          "url": "https://n.yam.com/Article/20260730696451",
-          "time": "2026-07-30 09:41:20",
-          "publisher": "蕃新聞→互傳媒",
-          "severity": null
-        },
-        {
-          "title": "「白海豚」長胖 南投3橋設4監控風吹草動回傳",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5522481",
-          "time": "2026-07-30 09:22:55",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "南投未牽繩遛毛小孩 最高罰飼主1.5萬",
-          "url": "https://news.ltn.com.tw/news/Nantou/paper/1764613",
-          "time": "2026-07-30 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "南投觀光聯盟交接 茆晉日牂接任理事長",
-          "url": "https://n.yam.com/Article/20260730270631",
-          "time": "2026-07-30 02:29:32",
-          "publisher": "蕃新聞→今傳媒",
-          "severity": null
-        },
-        {
-          "title": "整備應變戰力 深化保育實力 林業保育署南投分署辦理臺灣黑熊衝突應變指引與滋擾防治演練",
-          "url": "https://more-news.tw/679631/",
-          "time": "2026-07-29 20:43:18",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "南投縣觀光產業聯盟協會第九、十屆理事長交接 許縣長：攜手產官學共創南投觀光新榮景",
-          "url": "https://more-news.tw/679358/",
-          "time": "2026-07-29 19:08:44",
-          "publisher": "墨新聞",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台北車禍事件",
       "city": "台北",
       "place": "台北市政府",
@@ -592,27 +585,6 @@
       "comments": []
     },
     {
-      "title": "高雄弊案爭議",
-      "city": "高雄",
-      "place": "高雄市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "陳其邁拍桌震怒扯出大弊案?苦茶油中標!綠查不出保大咖?【#大新聞大爆卦】精華版6 @大新聞大爆卦HotNewsTalk",
-          "url": "https://www.youtube.com/watch?v=drKaIs02szA",
-          "time": "2026-07-30 16:38:58",
-          "publisher": null,
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "桃園弊案爭議",
       "city": "桃園",
       "place": "桃園市政府",
@@ -649,6 +621,27 @@
           "url": "https://www.cna.com.tw/news/asoc/202607300212.aspx",
           "time": "2026-07-30 15:42:18",
           "publisher": "中央社",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄弊案爭議",
+      "city": "高雄",
+      "place": "高雄市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "陳其邁拍桌震怒扯出大弊案?苦茶油中標!綠查不出保大咖?【#大新聞大爆卦】精華版6 @大新聞大爆卦HotNewsTalk",
+          "url": "https://www.youtube.com/watch?v=drKaIs02szA",
+          "time": "2026-07-30 16:38:58",
+          "publisher": null,
           "severity": "red"
         }
       ],
@@ -918,11 +911,11 @@
       "city": "彰化",
       "place": "彰化縣政府",
       "level": "yellow",
-      "news_count": 17,
+      "news_count": 16,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 20,
+      "urgency_score": 19,
       "news_articles": [
         {
           "title": "民進黨彰化縣長參選人陳素月今天公布教育政策白皮書，宣示推動國際雙語、一校一保全校園安全守護、家庭支持、台語／品格教育、AI智慧教育等五項重點工程，陳素月強調，教育是她當選後的施政重點，打造孩子有希望、家長能安心、教師有尊嚴的教育城市，全面提升彰化縣下一代人才競爭力。",
@@ -1034,13 +1027,6 @@
           "url": "https://udn.com/news/story/124652/9658826?from=udn-ch1_breaknews-1-cate1-news",
           "time": "2026-07-29 19:33:35",
           "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "欠「鐵拳」？彰化老喜美駕駛超囂張 行車糾紛伸鋁棒劍指鄰車",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5522127",
-          "time": "2026-07-29 19:09:03",
-          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -3011,11 +2997,11 @@
       "city": "台南",
       "place": "台南市政府",
       "level": "red",
-      "news_count": 42,
+      "news_count": 41,
       "comment_count": 0,
       "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 51,
+      "urgency_score": 50,
       "news_articles": [
         {
           "title": "8人座廂型車「狂塞10童」！ 台南補習班遭抓違規超載",
@@ -3301,13 +3287,6 @@
           "title": "南市體育局力推運動熱區專案 結合營養講座掀起全民運動新風潮",
           "url": "https://tw.news.yahoo.com/%E5%8D%97%E5%B8%82%E9%AB%94%E8%82%B2%E5%B1%80%E5%8A%9B%E6%8E%A8%E9%81%8B%E5%8B%95%E7%86%B1%E5%8D%80%E5%B0%88%E6%A1%88-%E7%B5%90%E5%90%88%E7%87%9F%E9%A4%8A%E8%AC%9B%E5%BA%A7%E6%8E%80%E8%B5%B7%E5%85%A8%E6%B0%91%E9%81%8B%E5%8B%95%E6%96%B0%E9%A2%A8%E6%BD%AE-111836277.html",
           "time": "2026-07-29 19:18:36",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "南市動保處設流犬誘捕籠 強化熱點巡查管制",
-          "url": "https://tw.news.yahoo.com/%E5%8D%97%E5%B8%82%E5%8B%95%E4%BF%9D%E8%99%95%E8%A8%AD%E6%B5%81%E7%8A%AC%E8%AA%98%E6%8D%95%E7%B1%A0-%E5%BC%B7%E5%8C%96%E7%86%B1%E9%BB%9E%E5%B7%A1%E6%9F%A5%E7%AE%A1%E5%88%B6-111559633.html",
-          "time": "2026-07-29 19:15:59",
           "publisher": "Yahoo新聞",
           "severity": null
         }
@@ -4089,11 +4068,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "red",
-      "news_count": 68,
+      "news_count": 67,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 77,
+      "urgency_score": 76,
       "news_articles": [
         {
           "title": "屏東出版長照專書 分享六大創新照護工程",
@@ -4563,13 +4542,6 @@
           "time": "2026-07-29 19:19:11",
           "publisher": "自由時報",
           "severity": "yellow"
-        },
-        {
-          "title": "屏東縣與日本愛媛縣締結姐妹縣 簽MOU加深雙方交流",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13LTlJOEJZdDFSM2c3SlpadkFXTzFpc0hKbmtGckNTdGFIWFpSTkhWNzhFZUo4Z19CSnhQUFVsRjhHeTJlRExSenVWc1NSTzByWDBJZnZTelhLd9IBX0FVX3lxTFBySlpPZGRCdjlrbldzSHRzUmpUNHJuU0VVSG1xaWtkZHJhZi1UajJzZDBiSHRWTldRZF9DQUdUQ2hFdDNTMFA4OFBFbmVfVFdDWkpJUExnWmREeFZpcUZz?oc=5",
-          "time": "2026-07-29 19:10:47",
-          "publisher": "Google News→經濟日報",
-          "severity": null
         }
       ],
       "comments": []
@@ -4579,17 +4551,31 @@
       "city": "高雄",
       "place": "高雄市鳳山區",
       "level": "red",
-      "news_count": 123,
+      "news_count": 125,
       "comment_count": 0,
-      "negativity_pct": 7,
+      "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 147,
+      "urgency_score": 149,
       "news_articles": [
+        {
+          "title": "熊本有難！高市府宣布捐1500萬日圓、陳其邁個人捐50萬日圓",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zY09QbVdONDBiWmRjcW85OTIwR1c3eGdPWWxVSXQtcnhxTmljZ0RvYnhVcWdYX3daUHQtWnVsam5MTkZ2ZlFDZk8yU01KODRf0gFWQVVfeXFMTW1zVVM5N2plak5nYy1UX01IVFZsbFhGMGlCLVhHN25LcFBzNnBfQ0psX0tWWGxIMllJRlJnYm1zczFTT09Cc3gzTE5WR1N2bFRLZ2NwdGc?oc=5",
+          "time": "2026-07-30 19:10:11",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
         {
           "title": "高市府即日起受理熊本賑災捐款陳其邁拋磚引玉捐50萬日圓| 政治",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5bmZNOHZFb0ZTdU5LbnpkQVF5U0FjRmtVZDl2SGpMeko1Y05ZcklMRV9EWGw4cFllMmxtNDlvUHp4VmZrYUFrQnZndllaaXYzNlZHQ3pldW5VaWs?oc=5",
           "time": "2026-07-30 18:40:34",
           "publisher": "Google News→Newtalk新聞",
+          "severity": null
+        },
+        {
+          "title": "高市府即日起受理熊本賑災捐款 陳其邁拋磚引玉捐50萬日圓",
+          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQVkRSVVF3OU9ITVFmMnV2WXJ3Sk1CaDlydHZNQTd5cUFxa3llTHF5Vk9KRkpuRlBnMC1MemlRMFk1MUd6R3puaTh2WHhSQTRsVU52RkVjLVBsSm50ckQzSGQ3Z3RUZDM0M05DTm9MQzJqN29ZbWdvX091QjhlUUFNUHhCQnM4TWEwSjN1TXU0aUxaMWdFWlFyQl82OGxaS2ZSZmlLODBIaUlZeTkzYnM4UmlHR0E2LTl6b3Iyd2JCRHBEOUFWLWFxb2lhY2lnakx5R2RZWmFFRWZSLVlFR1ZPRHNkUWJZdkpZYXVuTVIyaVBRWU02RTMtWU54MkZUVUZfWnZ3ZVYza1NjN004UXM1ZG1VLUhQYklXWXB0NWZBWWQyOGV2SGdrRDNkdTlBV2hTZ3JSS196aWFJUVZWbVNRRHBkTm8xQWt1NVRjWFo2YzFQOFd0Y3NkZnkyLVhva0xvVFppbEdQd211YzdiSTRadXFsTm0wUzdKeWczVW0wdTZrOTg?oc=5",
+          "time": "2026-07-30 18:40:34",
+          "publisher": "Yahoo新聞",
           "severity": null
         },
         {
@@ -5454,12 +5440,19 @@
       "city": "台中",
       "place": "台中市西屯區",
       "level": "red",
-      "news_count": 134,
+      "news_count": 133,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 155,
+      "urgency_score": 154,
       "news_articles": [
+        {
+          "title": "盧秀燕喊話中央公平支持台中捷運建設 眾多議員力挺市府及捷工局",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fT29ldGtQaXlpeHRpUkZRV1d0cl9UU0lORk9sQjBrS0ZGRE80ZUg3TWg2eDUtSEZ2cC1hekVhM3phb0dFWHhOdG1JTmRycVR6TXc?oc=5",
+          "time": "2026-07-30 18:54:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
         {
           "title": "打擊非法爆竹不手軟中市消防局揭5大爆竹煙火違規態樣| 青年日報",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EUzJCbnA0cVczTFJOLU9ZUEZsTFAtcGxRU3dSeUFRai1EaUJ0LUtsWWZ1bXBSaEsySkJFNUd3c1NTZkZwTFlfWWlKMFJDSUtxQ0xKTTFR?oc=5",
@@ -5517,7 +5510,7 @@
           "severity": "yellow"
         },
         {
-          "title": "游盈隆赴中市府拜會 盧秀燕：天塌下來台中會女媧補天",
+          "title": "年底合併選舉？游盈隆赴中市府拜會 盧秀燕：天塌下來台中會女媧補天",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54eU5kUlBmTWlUODdaQWZZdTU1VUEyR2hMWnRBcWhucDBOVzR5OGcxWEpzbERFNmozdlkwT3h6NWJfbU9EOWFjd2did0pwdEti0gFWQVVfeXFMUDF3Wk1iRmczTlZZTjZsR3lNakt3NmpxYmVXRFlMaGRIeWc5WlhnYUtnZHR1bUI0cFEyNFVRbE9WUy0wRV9XNWlaWnBGcXZ5bHpQdUxYNFE?oc=5",
           "time": "2026-07-30 17:01:06",
           "publisher": "Google News→UDN",
@@ -6383,20 +6376,6 @@
           "time": "2026-07-29 19:25:18",
           "publisher": "臺灣導報",
           "severity": "yellow"
-        },
-        {
-          "title": "台中皮膚科名醫證實離世！診所慟發公告：永久歇業",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%9A%AE%E8%86%9A%E7%A7%91%E5%90%8D%E9%86%AB%E8%AD%89%E5%AF%A6%E9%9B%A2%E4%B8%96-%E8%A8%BA%E6%89%80%E6%85%9F%E7%99%BC%E5%85%AC%E5%91%8A-%E6%B0%B8%E4%B9%85%E6%AD%87%E6%A5%AD-111200256.html",
-          "time": "2026-07-29 19:12:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台中皮膚科名醫證實離世！診所慟發公告：永久歇業",
-          "url": "https://news.ebc.net.tw/news/living/563696",
-          "time": "2026-07-29 19:12:00",
-          "publisher": "東森新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -6406,11 +6385,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 135,
+      "news_count": 134,
       "comment_count": 0,
       "negativity_pct": 1,
       "is_urgent": false,
-      "urgency_score": 138,
+      "urgency_score": 137,
       "news_articles": [
         {
           "title": "桃園男追求女同事遭拒 趁她買飲料猛刺背部1刀再自殘！判6年半",
@@ -7349,13 +7328,6 @@
           "time": "2026-07-29 19:22:50",
           "publisher": "匯流新聞網",
           "severity": "yellow"
-        },
-        {
-          "title": "桃園區公所溫馨表揚146位績優暨資深鄰長",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KVTJxR3RTaTJzXzMtSW5Rd3hQSUFRdGN5RVFBMExqdHRKWVJ5ZEJuYktJWTlVVEVuQlBZVExHZV85SU9xY1NzaXZVaWVHa3VEMFFQWQ?oc=5",
-          "time": "2026-07-29 19:14:28",
-          "publisher": "Google News→臺灣導報",
-          "severity": null
         }
       ],
       "comments": []
@@ -8373,12 +8345,19 @@
       "city": "台中",
       "place": "台中市清水區",
       "level": "red",
-      "news_count": 177,
-      "comment_count": 9,
-      "negativity_pct": 5,
+      "news_count": 181,
+      "comment_count": 8,
+      "negativity_pct": 4,
       "is_urgent": true,
-      "urgency_score": 220,
+      "urgency_score": 223,
       "news_articles": [
+        {
+          "title": "免費營養午餐四菜變三菜 盧秀燕：僅少數學校，將深入了解原因",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Ddldad1dFaDZRSEhQaFdldHVrSEkxSzZhMXMyVUZEaVdMaUUxTDRudEp1MGFlRFNaZjBnSm9zOElwNU5ydTh3UzBPY2xPaHVTR0hfcFphc3R6NG51UDVPRVgwNG9ST1Jyb1N3aENEUDByQdIBVkFVX3lxTE5kNWRxY1U5VkNQSjVRZU9DM1VkdFZZRWFGTU1hbDQweGxFZVZxRTRYTm9BOV9QQ0R3WUxiSWhaUFh4UHBNcmp2N3FqSWFYU3BlU3B5YV9R?oc=5",
+          "time": "2026-07-30 19:12:31",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
         {
           "title": "盧秀燕拋解散國會、中央地方選舉合併游盈隆：只比天塌下來機會大一點| 太報",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uQVNnOXg0Nm9TbzFWLW5wRlJQVHRZYndYWmYyVGx1Mkh0UHJCRXBKeU5jLW5CUEdqQkphWEJBYWJYaER3amdpemxhZklDRGVOOEM2T2ZR?oc=5",
@@ -8391,6 +8370,20 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nQ3gzamVOeTU5SnBiZ3Nyc1FRUDF1amF6VW40dDZCY2lHUzFPTk9BRWswNzBVcVc2MFZpWjI3RGlBWEl4WjNWZTBRZVoxNk5jdmNZ?oc=5",
           "time": "2026-07-30 18:46:04",
           "publisher": "Google News→民眾新聞網",
+          "severity": null
+        },
+        {
+          "title": "年底合併選舉機會不大？ 盧秀燕「女媧補天」妙回游盈隆 - 政府消息新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU3loOUg5S0lmdXRJbGFsY1JGc0JzTXJRZlJBQWg2RVZQZ25IYzFEX0tVSklGV3VScGlISHpaa1R3R0FVdE1XaHQyaGN6bFFwVlROX1M3QnZiSS1WUVFnak9SQnVBWVRIMFZCM0d5WEk4V0R1UVlPSTBaNmQ2dWRDODdVekJUWUJhcnVV?oc=5",
+          "time": "2026-07-30 18:46:04",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "盧秀燕提議若倒閣成功「中央地方併選」 游盈隆笑：比天塌下來機率大一點點",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJS0xzdl80dmVyQ3BmTjZrTEthMDFqTGlzdmJnMXh0MTVvWDJ1TEZIU3JXWVc3TVdQaUZacHVGVU4xQVUxVFJlNGZMNkVMY0Ryc3lCM3puMVpjM2fSAWBBVV95cUxPVmVaZVo3UVBieUEzajhCNkdqRjVWRHhueDNmYnhvM3V6QlcyYjhvRWRVX01JVG1RVjZyMUpBTHAxZUMzV2VtMG1nOWhJdEFDbjJvOGpSR3RwUlh1aEVNcDE?oc=5",
+          "time": "2026-07-30 18:44:00",
+          "publisher": "Google News→鏡週刊Mirror Media",
           "severity": null
         },
         {
@@ -8581,6 +8574,13 @@
           "time": "2026-07-30 15:31:05",
           "publisher": "Google News→LINE TODAY",
           "severity": "yellow"
+        },
+        {
+          "title": "盧秀燕喊若倒閣成功「年底一起選」 游盈隆：機會只比天塌下來高一點",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jWXNINHo3ODQ4bWVHS2ZTNkFMWE9fUmExblZFRVViRkg4dElrRUwwZUpuOWotby02cC1Xa0M2ZzBiR2ZLVGpZS0FnRFVtWUdyZVBESWNqV2d0eXM?oc=5",
+          "time": "2026-07-30 15:29:45",
+          "publisher": "Google News→上報Up Media",
+          "severity": null
         },
         {
           "title": "盧秀燕喊倒閣成功合併選舉 游盈隆妙喻：機會比天塌下來大一點而已",
@@ -9621,17 +9621,17 @@
       ],
       "comments": [
         {
-          "platform": "facebook",
-          "text": "2026-07-29 11:29:00 記者游瓊華／台中報導 日本熊本發生大地震釀多人死傷，台中市長盧秀燕宣布，市府捐出10萬美金協助賑災。盧秀燕指出，熊本有三個町與台中市建立姊妹區，因此台中跟熊本關係相當密切，這些都是對友好城市的協助跟關心，後續還是會繼續保持聯絡。 讚嘆！ 讚嘆！ 讚嘆！ 隨喜功德！ 王書華 ·",
-          "author": "盧秀燕宣布捐10萬美金助熊本賑災 曝知事木村敬是「救災專家」",
-          "url": "",
-          "time_text": "1天",
-          "signal": "yellow"
-        },
-        {
           "platform": "instagram",
           "text": "食安罪魁禍首就是盧秀燕",
           "author": "tea.and.pot",
+          "url": "",
+          "time_text": "4天",
+          "signal": "red"
+        },
+        {
+          "platform": "instagram",
+          "text": "@tsaiyisiou_3 你叫盧秀燕先下台再說吧😍",
+          "author": "f04710016",
           "url": "",
           "time_text": "4天",
           "signal": "red"
@@ -9643,14 +9643,6 @@
           "url": "",
           "time_text": "2天",
           "signal": "yellow"
-        },
-        {
-          "platform": "instagram",
-          "text": "@tsaiyisiou_3 你叫盧秀燕先下台再說吧😍",
-          "author": "f04710016",
-          "url": "",
-          "time_text": "4天",
-          "signal": "red"
         },
         {
           "platform": "instagram",
@@ -9681,7 +9673,7 @@
           "text": "盧秀燕只愛做秀。不敢面對啞巴。",
           "author": "bear6879",
           "url": "",
-          "time_text": "3天",
+          "time_text": "4天",
           "signal": "yellow"
         },
         {
@@ -9699,11 +9691,11 @@
       "city": "台北",
       "place": "台北市信義區",
       "level": "red",
-      "news_count": 201,
+      "news_count": 200,
       "comment_count": 0,
-      "negativity_pct": 5,
+      "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 234,
+      "urgency_score": 233,
       "news_articles": [
         {
           "title": "風向變了?挺盧台中議員掛\"蔣萬安推薦\"看板 綠營猛酸",
@@ -11103,13 +11095,6 @@
           "url": "https://news.nextapple.com/politics/20260729/A2A4146B010FB44D981715A4CFD5FF40",
           "time": "2026-07-29 19:22:27",
           "publisher": "壹蘋新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "北市抽驗飲冰品2手搖店兩度違規挨重罰 大龍峒紅茶屋也上榜",
-          "url": "https://tw.news.yahoo.com/%E5%8C%97%E5%B8%82%E6%8A%BD%E9%A9%97%E9%A3%B2%E5%86%B0%E5%93%812%E6%89%8B%E6%90%96%E5%BA%97%E5%85%A9%E5%BA%A6%E9%81%95%E8%A6%8F%E6%8C%A8%E9%87%8D%E7%BD%B0-%E5%A4%A7%E9%BE%8D%E5%B3%92%E7%B4%85%E8%8C%B6%E5%B1%8B%E4%B9%9F%E4%B8%8A%E6%A6%9C-110915271.html",
-          "time": "2026-07-29 19:09:15",
-          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
