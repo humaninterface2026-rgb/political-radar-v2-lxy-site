@@ -64410,7 +64410,7 @@
     },
     {
       "date": "2026-07-30",
-      "snapshot_at": "2026-07-30T11:01:05.556535+00:00",
+      "snapshot_at": "2026-07-30T11:08:13.935350+00:00",
       "hotspots": [
         {
           "title": "垃圾山",
@@ -64481,20 +64481,6 @@
           ]
         },
         {
-          "title": "屏東車禍事件",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "獨／屏東2死車禍！2人雙雙噴進排水溝 送醫身亡"
-          ]
-        },
-        {
           "title": "高雄車禍事件",
           "city": "高雄",
           "place": "高雄市政府",
@@ -64506,6 +64492,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "路竹2死車禍內幕曝光！ 肇事男連考5次駕照都沒過 長期無照上路釀禍"
+          ]
+        },
+        {
+          "title": "屏東車禍事件",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "獨／屏東2死車禍！2人雙雙噴進排水溝 送醫身亡"
           ]
         },
         {
@@ -64551,20 +64551,6 @@
           ]
         },
         {
-          "title": "台北詐騙案",
-          "city": "台北",
-          "place": "台北市北投區",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "670萬裝潢款疑點重重 北投警銀合作成功攔阻詐騙"
-          ]
-        },
-        {
           "title": "台南詐騙案",
           "city": "台南",
           "place": "台南市政府",
@@ -64576,6 +64562,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "健康食品也成詐騙話術？台南女欲領47萬 警揭假投資陷阱"
+          ]
+        },
+        {
+          "title": "台北詐騙案",
+          "city": "台北",
+          "place": "台北市北投區",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "670萬裝潢款疑點重重 北投警銀合作成功攔阻詐騙"
           ]
         },
         {
@@ -64795,11 +64795,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "yellow",
-          "news_count": 18,
+          "news_count": 17,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 21,
+          "urgency_score": 20,
           "sample_titles": [
             "民進黨彰化縣長參選人陳素月今天公布教育政策白皮書，宣示推動國際雙語、一校一保全校園安全守護、家庭支持、台語／品格教育、A",
             "台中捷運藍線工程經費暴增 民進黨台中市議員林德宇痛批中市府是「寅吃卯糧」，毫無節制揮霍經費",
@@ -64823,22 +64823,6 @@
           ]
         },
         {
-          "title": "苗栗地方動態",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "yellow",
-          "news_count": 34,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 34,
-          "sample_titles": [
-            "苗栗縣免費法律諮詢",
-            "榮服處表揚新住民幸福家庭　邱副縣長致賀並肯定融入苗栗一分子",
-            "苗栗難得一見「熟成炸豬排」專賣店！內用越光米、味噌湯、高麗菜絲、熱紅茶無限享用"
-          ]
-        },
-        {
           "title": "澎湖地方動態",
           "city": "澎湖",
           "place": "澎湖縣政府",
@@ -64852,6 +64836,22 @@
             "陸片《澎湖海戰》7原因上映前撤檔 學者：拍習近平馬屁拍到馬腿",
             "澎湖西嶼陸域風電異地說明會突喊停 各界嚴陣以待防範捲土重來",
             "武統神話翻車？《澎湖海戰》突撤檔學者揭：7大死穴嚇壞北京| Newtalk"
+          ]
+        },
+        {
+          "title": "苗栗地方動態",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "yellow",
+          "news_count": 34,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 34,
+          "sample_titles": [
+            "苗栗縣免費法律諮詢",
+            "榮服處表揚新住民幸福家庭　邱副縣長致賀並肯定融入苗栗一分子",
+            "苗栗難得一見「熟成炸豬排」專賣店！內用越光米、味噌湯、高麗菜絲、熱紅茶無限享用"
           ]
         },
         {
@@ -64953,11 +64953,11 @@
           "city": "基隆",
           "place": "基隆市政府",
           "level": "red",
-          "news_count": 22,
+          "news_count": 21,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 25,
+          "urgency_score": 24,
           "sample_titles": [
             "退而不休的幼教微光 基隆建德幼兒園前園長陳麗琴獲「教育奉獻獎」",
             "基市光華地下道改善8月動工 童子瑋：爭取多時終於開花結果",
@@ -65017,11 +65017,11 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "red",
-          "news_count": 45,
+          "news_count": 42,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 54,
+          "urgency_score": 51,
           "sample_titles": [
             "悠遊卡公司攜手金門縣政府推動TWQR行動支付打造智慧金門數位生活新里程| 地方亮點",
             "金門醫院住宿長照動工 斥資近2億元增81床",
@@ -65049,11 +65049,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 71,
+          "news_count": 68,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 80,
+          "urgency_score": 77,
           "sample_titles": [
             "屏東出版長照專書 分享六大創新照護工程",
             "屏東出版長照專書分享六大創新照護工程- 生活",
@@ -65145,11 +65145,11 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 202,
+          "news_count": 201,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 235,
+          "urgency_score": 234,
           "sample_titles": [
             "風向變了?挺盧台中議員掛\"蔣萬安推薦\"看板 綠營猛酸",
             "風向變了?挺盧台中議員掛\"蔣萬安推薦\"看板 綠營猛酸",
