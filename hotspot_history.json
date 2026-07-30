@@ -64410,7 +64410,7 @@
     },
     {
       "date": "2026-07-30",
-      "snapshot_at": "2026-07-30T01:51:50.686565+00:00",
+      "snapshot_at": "2026-07-30T01:59:09.296017+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -64455,20 +64455,6 @@
           ]
         },
         {
-          "title": "台中陳情/抗議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "蔣萬安變戰狼 藍營天王角力再升溫！一場凱道抗議，讓鄭麗文、盧秀燕角色更尷尬"
-          ]
-        },
-        {
           "title": "台南陳情/抗議",
           "city": "台南",
           "place": "台南市政府",
@@ -64480,6 +64466,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "連鎖藥局再爆欠薪爭議員工陳情 黃偉哲允協助假扣押防脫產"
+          ]
+        },
+        {
+          "title": "台中陳情/抗議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "蔣萬安變戰狼 藍營天王角力再升溫！一場凱道抗議，讓鄭麗文、盧秀燕角色更尷尬"
           ]
         },
         {
@@ -64538,6 +64538,21 @@
           "sample_titles": [
             "台中又傳毒駕車禍！休旅車追撞休旅再撞對向自小客車 肇事車內搜出毒品駕駛還是通緝犯",
             "台中「運兵車」車禍竟是毒駕！3車連環撞釀3傷"
+          ]
+        },
+        {
+          "title": "台北陳情/抗議",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "蔣萬安變戰狼 藍營天王角力再升溫！一場凱道抗議，讓鄭麗文、盧秀燕角色更尷尬",
+            "轟蔣萬安不務正業 律師：建議台北市民組成「如影隨形抗議團」"
           ]
         },
         {
@@ -64689,21 +64704,6 @@
           ]
         },
         {
-          "title": "新北車禍事件",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "yellow",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "新北土城擺接堡路死亡車禍頻傳 經部協調拓寬道路",
-            "土城死亡車禍！砂石車右切撞機車 女騎士臟器外露當場死亡"
-          ]
-        },
-        {
           "title": "南投車禍事件",
           "city": "南投",
           "place": "南投縣政府",
@@ -64719,19 +64719,18 @@
           ]
         },
         {
-          "title": "台北陳情/抗議",
-          "city": "台北",
-          "place": "台北市政府",
+          "title": "新北車禍事件",
+          "city": "新北",
+          "place": "新北市政府",
           "level": "yellow",
-          "news_count": 3,
+          "news_count": 2,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 12,
+          "urgency_score": 8,
           "sample_titles": [
-            "蔣萬安變戰狼 藍營天王角力再升溫！一場凱道抗議，讓鄭麗文、盧秀燕角色更尷尬",
-            "轟蔣萬安不務正業 律師：建議台北市民組成「如影隨形抗議團」",
-            "快新聞／蔣萬安想選總統？凱道抗議內幕曝光 週刊驚爆他幫「這藍營大咖」抬轎"
+            "新北土城擺接堡路死亡車禍頻傳 經部協調拓寬道路",
+            "土城死亡車禍！砂石車右切撞機車 女騎士臟器外露當場死亡"
           ]
         },
         {
@@ -64787,11 +64786,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "yellow",
-          "news_count": 77,
+          "news_count": 76,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 86,
+          "urgency_score": 85,
           "sample_titles": [
             "曾年營收達9億！宜蘭第一家百貨公司連年虧損終熄燈",
             "針對高鐵延伸宜蘭計畫，縣長參選人吳宗憲晚間在臉書貼文表示，這是完成台灣環島高速鐵路網重要的一步，也是攸關後代子孫發展重要",
@@ -64878,22 +64877,6 @@
           ]
         },
         {
-          "title": "台東地方動態",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "red",
-          "news_count": 26,
-          "comment_count": 0,
-          "negativity_pct": 23,
-          "is_urgent": false,
-          "urgency_score": 44,
-          "sample_titles": [
-            "2026.07.30 09:35 涉用公帑替台東議長家族開農路 農業處長聲押",
-            "台東縣府爆為吳秀華家族渡假村開15米路 吳靜怡：國民黨選情恐添變數",
-            "台東縣府拓寬農路大家走仍構成圖利？法界剖析關鍵紅線"
-          ]
-        },
-        {
           "title": "南投地方動態",
           "city": "南投",
           "place": "南投縣政府",
@@ -64907,6 +64890,22 @@
             "瑞士青年深耕南投部落 言凱明投入族語傳承 盼為台灣原住民族文化盡一份心力",
             "「白海豚」長胖 南投3橋設4監控風吹草動回傳",
             "南投未牽繩遛毛小孩 最高罰飼主1.5萬"
+          ]
+        },
+        {
+          "title": "台東地方動態",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "red",
+          "news_count": 26,
+          "comment_count": 0,
+          "negativity_pct": 23,
+          "is_urgent": false,
+          "urgency_score": 44,
+          "sample_titles": [
+            "2026.07.30 09:35 涉用公帑替台東議長家族開農路 農業處長聲押",
+            "台東縣府爆為吳秀華家族渡假村開15米路 吳靜怡：國民黨選情恐添變數",
+            "台東縣府拓寬農路大家走仍構成圖利？法界剖析關鍵紅線"
           ]
         },
         {
@@ -64962,11 +64961,11 @@
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "red",
-          "news_count": 74,
+          "news_count": 73,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 86,
+          "urgency_score": 85,
           "sample_titles": [
             "節電宣導結合反賄反詐！竹市府政風處攜手里鄰長共築清廉選風",
             "落實文化平權打造友善參與環境　竹市府攜手社福團體走進演武場認識文資",
@@ -65074,11 +65073,11 @@
           "city": "高雄",
           "place": "高雄市楠梓區",
           "level": "red",
-          "news_count": 197,
+          "news_count": 194,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 233,
+          "urgency_score": 230,
           "sample_titles": [
             "從教室到海洋 高雄大學國際華語學員搭雙語交通探索臺灣",
             "高雄市桃源區樂齡學習中心參訪台中龍井農會",
