@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "snapshot_at": "2026-07-31T10:51:08.434686+00:00",
+  "snapshot_at": "2026-07-31T10:52:54.637946+00:00",
   "hotspots": [
     {
       "title": "垃圾山",
@@ -46,27 +46,6 @@
       "comments": []
     },
     {
-      "title": "台北車禍事件",
-      "city": "台北",
-      "place": "台北市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "北市深夜路口車禍！小客車「外線鬼切」右轉 單車騎士遭擦撞",
-          "url": "https://www.chinatimes.com/realtimenews/20260731003518-260402",
-          "time": "2026-07-31 00:35:18",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "桃園車禍事件",
       "city": "桃園",
       "place": "桃園市政府",
@@ -82,6 +61,27 @@
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40NVB6UjFPN2RqSUtPcVVET2FzNTBXOG9pUkQzQXpsblVMejBBdlQtdnZaY0pFaGFpR2RlbFJtWi04TUVhRGh3aDU1R0Y?oc=5",
           "time": "2026-07-31 11:27:11",
           "publisher": "Google News→桃園電子報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台北車禍事件",
+      "city": "台北",
+      "place": "台北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "北市深夜路口車禍！小客車「外線鬼切」右轉 單車騎士遭擦撞",
+          "url": "https://www.chinatimes.com/realtimenews/20260731003518-260402",
+          "time": "2026-07-31 00:35:18",
+          "publisher": "中時新聞網",
           "severity": "yellow"
         }
       ],
@@ -438,27 +438,6 @@
       "comments": []
     },
     {
-      "title": "新北弊案爭議",
-      "city": "新北",
-      "place": "新北市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "新北刑大模範警察「偷尿替換毒犯」！調包安毒開價20萬 判刑6年",
-          "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E5%88%91%E5%A4%A7%E6%A8%A1%E7%AF%84%E8%AD%A6%E5%AF%9F-%E5%81%B7%E5%B0%BF%E6%9B%BF%E6%8F%9B%E6%AF%92%E7%8A%AF-%E8%AA%BF%E5%8C%85%E5%AE%89%E6%AF%92%E9%96%8B%E5%83%B920%E8%90%AC-%E5%88%A4%E5%88%916%E5%B9%B4-063700274.html",
-          "time": "2026-07-31 06:37:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "花蓮弊案爭議",
       "city": "花蓮",
       "place": "花蓮縣政府",
@@ -474,6 +453,27 @@
           "url": "https://taronews.tw/2026/07/31/1205153/",
           "time": "2026-07-31 08:51:19",
           "publisher": "芋傳媒",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新北弊案爭議",
+      "city": "新北",
+      "place": "新北市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "新北刑大模範警察「偷尿替換毒犯」！調包安毒開價20萬 判刑6年",
+          "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E5%88%91%E5%A4%A7%E6%A8%A1%E7%AF%84%E8%AD%A6%E5%AF%9F-%E5%81%B7%E5%B0%BF%E6%9B%BF%E6%8F%9B%E6%AF%92%E7%8A%AF-%E8%AA%BF%E5%8C%85%E5%AE%89%E6%AF%92%E9%96%8B%E5%83%B920%E8%90%AC-%E5%88%A4%E5%88%916%E5%B9%B4-063700274.html",
+          "time": "2026-07-31 06:37:00",
+          "publisher": "Yahoo新聞",
           "severity": "red"
         }
       ],
@@ -3935,11 +3935,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 55,
+      "news_count": 53,
       "comment_count": 0,
-      "negativity_pct": 22,
+      "negativity_pct": 23,
       "is_urgent": false,
-      "urgency_score": 91,
+      "urgency_score": 89,
       "news_articles": [
         {
           "title": "【#頭家來開講】2026.07.31 韓國瑜、傅崐萁\"不挺倒閣\"？藍白各懷鬼胎？花蓮地震27億捐款遭追查？傅崐萁搬張善政當擋箭牌？",
@@ -4311,20 +4311,6 @@
           "time": "2026-07-30 19:18:00",
           "publisher": "Google News→news.ipcf.org.tw",
           "severity": "red"
-        },
-        {
-          "title": "花蓮27.8億善款疑帳目不清！于北辰曝傅崐萁急了：無心審預算｜#台灣最前線",
-          "url": "https://www.youtube.com/watch?v=RVJhtPOiY_g",
-          "time": "2026-07-30 18:51:29",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "花蓮27.8億善款疑帳目不清！于北辰曝傅崐萁急了：無心審預算｜#台灣最前線",
-          "url": "https://www.youtube.com/watch?v=d-P2fp-kCZA",
-          "time": "2026-07-30 18:51:13",
-          "publisher": null,
-          "severity": null
         }
       ],
       "comments": []
@@ -6185,11 +6171,11 @@
       "city": "台中",
       "place": "台中市大里區",
       "level": "red",
-      "news_count": 126,
+      "news_count": 125,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 144,
+      "urgency_score": 143,
       "news_articles": [
         {
           "title": "[HatePolitics] Re: [討論] 食藥署：台中市食安處也要求中聯列席說明",
@@ -7064,13 +7050,6 @@
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fT29ldGtQaXlpeHRpUkZRV1d0cl9UU0lORk9sQjBrS0ZGRE80ZUg3TWg2eDUtSEZ2cC1hekVhM3phb0dFWHhOdG1JTmRycVR6TXc?oc=5",
           "time": "2026-07-30 18:54:00",
           "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "打擊非法爆竹不手軟 中市消防局揭5大爆竹煙火違規態樣 | 青年日報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EUzJCbnA0cVczTFJOLU9ZUEZsTFAtcGxRU3dSeUFRai1EaUJ0LUtsWWZ1bXBSaEsySkJFNUd3c1NTZkZwTFlfWWlKMFJDSUtxQ0xKTTFR?oc=5",
-          "time": "2026-07-30 18:51:04",
-          "publisher": "Google News→LINE TODAY",
           "severity": null
         }
       ],

@@ -65222,7 +65222,7 @@
     },
     {
       "date": "2026-07-31",
-      "snapshot_at": "2026-07-31T10:51:08.434686+00:00",
+      "snapshot_at": "2026-07-31T10:52:54.637946+00:00",
       "hotspots": [
         {
           "title": "垃圾山",
@@ -65251,20 +65251,6 @@
           ]
         },
         {
-          "title": "台北車禍事件",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "北市深夜路口車禍！小客車「外線鬼切」右轉 單車騎士遭擦撞"
-          ]
-        },
-        {
           "title": "桃園車禍事件",
           "city": "桃園",
           "place": "桃園市政府",
@@ -65276,6 +65262,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "恍神逆向連撞3車！桃園永安路車禍 2人受傷送醫"
+          ]
+        },
+        {
+          "title": "台北車禍事件",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "北市深夜路口車禍！小客車「外線鬼切」右轉 單車騎士遭擦撞"
           ]
         },
         {
@@ -65428,20 +65428,6 @@
           ]
         },
         {
-          "title": "新北弊案爭議",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "新北刑大模範警察「偷尿替換毒犯」！調包安毒開價20萬 判刑6年"
-          ]
-        },
-        {
           "title": "花蓮弊案爭議",
           "city": "花蓮",
           "place": "花蓮縣政府",
@@ -65453,6 +65439,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "《曾韋禎專欄》兩小報極力掩蓋花蓮地震善款弊案"
+          ]
+        },
+        {
+          "title": "新北弊案爭議",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "新北刑大模範警察「偷尿替換毒犯」！調包安毒開價20萬 判刑6年"
           ]
         },
         {
@@ -65842,11 +65842,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 55,
+          "news_count": 53,
           "comment_count": 0,
-          "negativity_pct": 22,
+          "negativity_pct": 23,
           "is_urgent": false,
-          "urgency_score": 91,
+          "urgency_score": 89,
           "sample_titles": [
             "【#頭家來開講】2026.07.31 韓國瑜、傅崐萁\"不挺倒閣\"？藍白各懷鬼胎？花蓮地震27億捐款遭追查？傅崐萁搬張善政",
             "花蓮台9線新豐平大橋自8月3日至8月4日進行橋塔箱內檢查作業實施交管",
@@ -65906,11 +65906,11 @@
           "city": "台中",
           "place": "台中市大里區",
           "level": "red",
-          "news_count": 126,
+          "news_count": 125,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 144,
+          "urgency_score": 143,
           "sample_titles": [
             "[HatePolitics] Re: [討論] 食藥署：台中市食安處也要求中聯列席說明",
             "[Gossiping] [新聞] 台中男拍桌辱罵護理師「蕭查某」　逆轉",
