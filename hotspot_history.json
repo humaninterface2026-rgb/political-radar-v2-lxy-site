@@ -65968,7 +65968,7 @@
     },
     {
       "date": "2026-08-01",
-      "snapshot_at": "2026-08-01T02:01:19.295219+00:00",
+      "snapshot_at": "2026-08-01T02:14:58.494849+00:00",
       "hotspots": [
         {
           "title": "垃圾山",
@@ -65981,20 +65981,6 @@
           "is_urgent": false,
           "urgency_score": 3,
           "sample_titles": []
-        },
-        {
-          "title": "海線立委戰局",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "中市橘線海線延伸「不增反減」議員王立任質疑市府承諾跳票"
-          ]
         },
         {
           "title": "藍營路線爭議",
@@ -66078,6 +66064,21 @@
           "urgency_score": 4,
           "sample_titles": [
             "中市議員陳廷秀力挺市府及捷工局 肯定8月捷運藍線開工背後「看不見的辛酸及努力」"
+          ]
+        },
+        {
+          "title": "海線立委戰局",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 50,
+          "is_urgent": true,
+          "urgency_score": 5,
+          "sample_titles": [
+            "盧秀燕、楊瓊瓔任中市長競總正副主委 江啟臣：幸福是基石，超越是使命| 政治焦點",
+            "中市橘線海線延伸「不增反減」議員王立任質疑市府承諾跳票"
           ]
         },
         {
@@ -66265,11 +66266,11 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "yellow",
-          "news_count": 29,
+          "news_count": 27,
           "comment_count": 0,
-          "negativity_pct": 17,
+          "negativity_pct": 19,
           "is_urgent": false,
-          "urgency_score": 44,
+          "urgency_score": 42,
           "sample_titles": [
             "不知道又是哪裡來的傳言 #澎湖海戰 #中國 #撤檔 #周興哲 #主題曲 #光復 #電影 #戰爭電影",
             "促統片《澎湖海戰》遭撤檔！周興哲莫明被點名 經紀公司急發聲「否認演唱主題曲」",
@@ -66281,11 +66282,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "yellow",
-          "news_count": 35,
+          "news_count": 34,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 35,
+          "urgency_score": 34,
           "sample_titles": [
             "德內ㄦ攜手扶輪社 深入彰化偏鄉推動老幼視力教育",
             "彰化縣28位高中小學校長交接 11位校長榮退",
@@ -66456,11 +66457,11 @@
           "city": "南投",
           "place": "南投縣政府",
           "level": "red",
-          "news_count": 23,
+          "news_count": 22,
           "comment_count": 0,
-          "negativity_pct": 17,
+          "negativity_pct": 18,
           "is_urgent": false,
-          "urgency_score": 35,
+          "urgency_score": 34,
           "sample_titles": [
             "南投狼校長性侵「淪台版熔爐」 7教職員竟包庇！監院出手了",
             "跨世代傳承與共學 南投四楷模榮獲全國殊榮",
@@ -66488,15 +66489,31 @@
           "city": "新竹縣",
           "place": "新竹縣政府",
           "level": "red",
-          "news_count": 29,
+          "news_count": 28,
           "comment_count": 0,
-          "negativity_pct": 10,
+          "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 38,
+          "urgency_score": 37,
           "sample_titles": [
             "國民黨主席鄭麗文今日接受專訪分析新竹選情時坦言，因初選裂痕，與民進黨新竹縣長參選人鄭朝方呈五五波，藍營方面仍需時間整合副",
             "坦言新竹縣選情待整合 鄭麗文：陳見賢初選受傷最重",
             "坦言新竹縣選情待整合鄭麗文：陳見賢初選受傷最重| 縣市長議員選戰| 要聞"
+          ]
+        },
+        {
+          "title": "基隆地方動態",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "red",
+          "news_count": 31,
+          "comment_count": 0,
+          "negativity_pct": 3,
+          "is_urgent": false,
+          "urgency_score": 34,
+          "sample_titles": [
+            "《基隆市長激戰》童子瑋民調36％ 僅差謝國樑2.5％",
+            "基隆男偷公車毒駕 害3路線停駛",
+            "王爺巡江海上遶境展信仰溫度 邱佩琳：海上王爺文化祭是基隆的靈魂"
           ]
         },
         {
@@ -66532,31 +66549,15 @@
           ]
         },
         {
-          "title": "基隆地方動態",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "red",
-          "news_count": 34,
-          "comment_count": 0,
-          "negativity_pct": 3,
-          "is_urgent": false,
-          "urgency_score": 37,
-          "sample_titles": [
-            "《基隆市長激戰》童子瑋民調36％ 僅差謝國樑2.5％",
-            "基隆男偷公車毒駕 害3路線停駛",
-            "王爺巡江海上遶境展信仰溫度 邱佩琳：海上王爺文化祭是基隆的靈魂"
-          ]
-        },
-        {
           "title": "新竹市地方動態",
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "red",
-          "news_count": 52,
+          "news_count": 49,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 52,
+          "urgency_score": 49,
           "sample_titles": [
             "竹市西大路地下道往林森路 左右轉政策朝令夕改",
             "115年市長盃田徑公開賽登場  9縣市91隊會師竹市競技  高虹安市長鳴槍為1,101名選手加油",
@@ -66600,11 +66601,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 66,
+          "news_count": 64,
           "comment_count": 0,
-          "negativity_pct": 14,
+          "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 93,
+          "urgency_score": 85,
           "sample_titles": [
             "夏日正藍，花蓮正好：煙波 30 週年，收藏一場山海、職人與土地記憶旅行",
             "【2026年8月活動推薦】高雄親子遊樂園區、淡水漁人碼頭煙火、八里沙雕展、花蓮金針花季、將軍吼...全台熱門景點活動一次",
@@ -66632,11 +66633,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 89,
+          "news_count": 87,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 95,
+          "urgency_score": 93,
           "sample_titles": [
             "2026第三屆新北市耶誕馬拉松接力賽 手刀即刻報名",
             "【2026年8月活動推薦】高雄親子遊樂園區、淡水漁人碼頭煙火、八里沙雕展、花蓮金針花季、將軍吼...全台熱門景點活動一次",
@@ -66648,11 +66649,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 104,
+          "news_count": 103,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 125,
+          "urgency_score": 124,
           "sample_titles": [
             "才藝不設限 屏東縣半島達人秀徵選10組登上決賽舞台",
             "屏東「半島達人秀」開放報名 鼓勵6至17歲南國孩子秀出自我",
@@ -66664,14 +66665,14 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "red",
-          "news_count": 115,
+          "news_count": 116,
           "comment_count": 10,
           "negativity_pct": 2,
           "is_urgent": true,
-          "urgency_score": 141,
+          "urgency_score": 142,
           "sample_titles": [
+            "藍營塑造「盧蔣配」拚2028大選？沈伯洋要盧秀燕做這1事",
             "盧秀燕備戰2028不藏了？鄭照新「一句話」妙回",
-            "蔣萬安毒油門診vs.盧秀燕鍋烤節！于北辰酸：吃烤肉完馬上看門診｜#台灣向前行",
             "蔣萬安毒油門診vs.盧秀燕鍋烤節！于北辰酸：吃烤肉完馬上看門診｜#台灣向前行"
           ]
         },
@@ -66680,11 +66681,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 148,
+          "news_count": 142,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 175,
+          "urgency_score": 169,
           "sample_titles": [
             "桃園機場8月新制！臨停逾3分鐘罰1200元 接機做錯1事噴2.5萬",
             "2026桃園購物節今開跑：消費百元抽千萬大獎、天天送萬元現金",
@@ -66702,9 +66703,9 @@
           "is_urgent": false,
           "urgency_score": 201,
           "sample_titles": [
+            "盧秀燕、楊瓊瓔任中市長競總正副主委 江啟臣：幸福是基石，超越是使命| 政治焦點",
             "中市打造智慧空氣防護網 物聯網即時掌握空污變化",
-            "8月生日優惠50家餐廳總整理！台中、台北、高雄燒肉火鍋吃到飽當月壽星優惠一次看！",
-            "「賴著不走」也能當賀詞？台中大雅國小校長16年來首連任 地方開心送匾額"
+            "8月生日優惠50家餐廳總整理！台中、台北、高雄燒肉火鍋吃到飽當月壽星優惠一次看！"
           ]
         },
         {
@@ -66712,15 +66713,15 @@
           "city": "高雄",
           "place": "高雄市鳳山區",
           "level": "red",
-          "news_count": 223,
+          "news_count": 221,
           "comment_count": 0,
-          "negativity_pct": 9,
+          "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 283,
+          "urgency_score": 275,
           "sample_titles": [
             "高雄氣爆滿12年！陳其邁點燭光追思 揭市府具體精進措施",
-            "高市早苗致謝多國漏掉台灣？矢板明夫：已從日相官邸得到清楚答覆 | 國際要聞 | 全球",
-            "高雄議員陳明澤涉恐嚇綠能業者索賄 遭羈押禁見"
+            "高雄氣爆32死！12年後…紀念公園飄花香 陳其邁：會一直記得",
+            "高雄氣爆滿12年！陳其邁點燭光追思 揭市府具體精進措施"
           ]
         },
         {
@@ -66735,8 +66736,8 @@
           "urgency_score": 303,
           "sample_titles": [
             "壹蘋民調｜蔣萬安與沈伯洋都積極爭取聲量，你支持誰當台北市長？",
-            "周末熱爆！北市恐飆36度高溫 氣象署：下周五起防「白海豚」颱風靠近",
-            "北市抽驗苦茶油第2波結果出爐！「高仰三」2批苯駢芘超標 2349瓶流向曝光"
+            "壹蘋民調｜蔣萬安與沈伯洋都積極爭取聲量，你支持誰當台北市長？",
+            "周末熱爆！北市恐飆36度高溫 氣象署：下周五起防「白海豚」颱風靠近"
           ]
         }
       ]
