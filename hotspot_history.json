@@ -65968,7 +65968,7 @@
     },
     {
       "date": "2026-08-01",
-      "snapshot_at": "2026-08-01T10:57:36.266260+00:00",
+      "snapshot_at": "2026-08-01T11:06:30.819144+00:00",
       "hotspots": [
         {
           "title": "藍營路線爭議",
@@ -65999,20 +65999,6 @@
           ]
         },
         {
-          "title": "花蓮車禍事件",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "花蓮車禍！小貨車疑闖紅燈撞上機車 騎士右手骨折送醫"
-          ]
-        },
-        {
           "title": "彰化車禍事件",
           "city": "彰化",
           "place": "彰化縣政府",
@@ -66027,9 +66013,9 @@
           ]
         },
         {
-          "title": "新竹縣陳情/抗議",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
+          "title": "花蓮車禍事件",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -66037,49 +66023,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "民眾投訴｜遠東新新埔廠「砍樹式」偷拆巨型煙囪 無照施工遭勒令停工"
-          ]
-        },
-        {
-          "title": "基隆陳情/抗議",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "原民團體到基市府陳情爭取職安訓練補助 副市長允1個月內回覆"
-          ]
-        },
-        {
-          "title": "新竹市陳情/抗議",
-          "city": "新竹市",
-          "place": "新竹市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "中正市場搬遷攤商陳情要求補助 竹市府：持續溝通"
-          ]
-        },
-        {
-          "title": "高雄陳情/抗議",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "獨漏賴清德遭抗議！高市再發感謝文「補上台灣」 方恩格驚揪1細節"
+            "花蓮車禍！小貨車疑闖紅燈撞上機車 騎士右手骨折送醫"
           ]
         },
         {
@@ -66097,6 +66041,62 @@
           ]
         },
         {
+          "title": "高雄陳情/抗議",
+          "city": "高雄",
+          "place": "高雄市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "獨漏賴清德遭抗議！高市再發感謝文「補上台灣」 方恩格驚揪1細節"
+          ]
+        },
+        {
+          "title": "新竹縣陳情/抗議",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "民眾投訴｜遠東新新埔廠「砍樹式」偷拆巨型煙囪 無照施工遭勒令停工"
+          ]
+        },
+        {
+          "title": "新竹市陳情/抗議",
+          "city": "新竹市",
+          "place": "新竹市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "中正市場搬遷攤商陳情要求補助 竹市府：持續溝通"
+          ]
+        },
+        {
+          "title": "基隆陳情/抗議",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "原民團體到基市府陳情爭取職安訓練補助 副市長允1個月內回覆"
+          ]
+        },
+        {
           "title": "桃園空氣污染",
           "city": "桃園",
           "place": "桃園市政府",
@@ -66108,6 +66108,20 @@
           "urgency_score": 1,
           "sample_titles": [
             "桃園砂石分篩場距民宅20公尺內！噪音、揚塵擾鄰 居民喊遷廠"
+          ]
+        },
+        {
+          "title": "台北詐騙案",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "黃偉哲「以其人之道」放深偽音檔！蔣萬安反擊：AI科普、詐騙不同"
           ]
         },
         {
@@ -66136,20 +66150,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "龍潭鐵馬青春逍遙遊 宣導「反毒、反詐騙、顧健康」主軸"
-          ]
-        },
-        {
-          "title": "台北詐騙案",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "黃偉哲「以其人之道」放深偽音檔！蔣萬安反擊：AI科普、詐騙不同"
           ]
         },
         {
@@ -66197,6 +66197,21 @@
           ]
         },
         {
+          "title": "台中車禍事件",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "台中嚴重車禍！23歲男走斑馬線遭撞卡輪下 現場救援畫面曝",
+            "台中驚悚車禍！行人走斑馬線遭貨車撞倒輾過 一度受困"
+          ]
+        },
+        {
           "title": "台中空氣污染",
           "city": "台中",
           "place": "台中市政府",
@@ -66230,11 +66245,11 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "green",
-          "news_count": 5,
+          "news_count": 4,
           "comment_count": 0,
-          "negativity_pct": 20,
+          "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 8,
+          "urgency_score": 4,
           "sample_titles": [
             "藍營姐弟情深！ 盧秀燕、楊瓊瓔接競總正副主委｜#鏡新聞",
             "盧秀燕、楊瓊瓔任中市長競總正副主委 江啟臣：幸福是基石，超越是使命",
@@ -66288,20 +66303,6 @@
           ]
         },
         {
-          "title": "新竹縣火災事件",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "新竹湖口工業區火災！工廠突爆炸竄濃煙影片曝 數公里外都看得到"
-          ]
-        },
-        {
           "title": "新北火災事件",
           "city": "新北",
           "place": "新北市政府",
@@ -66316,9 +66317,9 @@
           ]
         },
         {
-          "title": "台南弊案爭議",
-          "city": "台南",
-          "place": "台南市政府",
+          "title": "新竹縣火災事件",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -66326,7 +66327,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "老爸遺言「把兒子關到死」…不滿被挖起床吃午餐 台南逆子弒父判刑18年"
+            "新竹湖口工業區火災！工廠突爆炸竄濃煙影片曝 數公里外都看得到"
           ]
         },
         {
@@ -66344,6 +66345,35 @@
           ]
         },
         {
+          "title": "台南弊案爭議",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "老爸遺言「把兒子關到死」…不滿被挖起床吃午餐 台南逆子弒父判刑18年"
+          ]
+        },
+        {
+          "title": "高雄車禍事件",
+          "city": "高雄",
+          "place": "高雄市政府",
+          "level": "yellow",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "高雄梓官死亡車禍！75歲翁遭小貨車擦撞 傷重3天後不治",
+            "林園砂石車、機車車禍1死1重傷 警大執法"
+          ]
+        },
+        {
           "title": "垃圾山",
           "city": "台中",
           "place": "台中市政府",
@@ -66357,22 +66387,6 @@
             "反轟盧秀燕「毒油、垃圾山由妳領航」 蔡其昌曝台中民調最新差距 | 政治快訊 | 要聞",
             "蔡其昌反酸盧秀燕：毒油、垃圾山領航全台 | NOWNEWS今日新聞",
             "蔡其昌反酸盧秀燕：毒油、垃圾山領航全台"
-          ]
-        },
-        {
-          "title": "新竹縣地方動態",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "yellow",
-          "news_count": 16,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 16,
-          "sample_titles": [
-            "新竹縣互力精密化工廠竄大量火舌 黑煙密布天際 | 中華日報",
-            "新竹縣互力精密化工廠竄大量火舌 黑煙密布天際",
-            "新竹縣藍營整合再添變數 陳見賢與邱臣遠會面「支持黨外」引發關注"
           ]
         },
         {
@@ -66412,11 +66426,11 @@
           "city": "南投",
           "place": "南投縣政府",
           "level": "yellow",
-          "news_count": 21,
+          "news_count": 20,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 24,
+          "urgency_score": 23,
           "sample_titles": [
             "南投縣後備指揮部教保中心舉辦畢業典禮 「小小農夫」成果展見證幼兒成長",
             "台灣好生活政策說明 南投場聚焦\"焚化爐\" 温世政提解方",
@@ -66428,11 +66442,11 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "yellow",
-          "news_count": 35,
+          "news_count": 34,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 41,
+          "urgency_score": 37,
           "sample_titles": [
             "澎湖縣表揚115年度模範父親 表彰對家庭、社會的付出貢獻 | 觀傳媒",
             "澎湖縣表揚115年度模範父親 表彰對家庭、社會的付出貢獻",
@@ -66453,36 +66467,6 @@
             "2026苗栗海洋觀光季系列活動-宣導晚會",
             "苗栗市表揚模範父親！追認已故里長獲獎 | 中華日報",
             "苗栗市表揚模範父親！追認已故里長獲獎"
-          ]
-        },
-        {
-          "title": "台中車禍事件",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "台中嚴重車禍！23歲男走斑馬線遭撞卡輪下 現場救援畫面曝",
-            "台中驚悚車禍！行人走斑馬線遭貨車撞倒輾過 一度受困"
-          ]
-        },
-        {
-          "title": "高雄車禍事件",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "高雄梓官死亡車禍！75歲翁遭小貨車擦撞 傷重3天後不治",
-            "林園砂石車、機車車禍1死1重傷 警大執法"
           ]
         },
         {
@@ -66521,11 +66505,11 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "red",
-          "news_count": 7,
+          "news_count": 6,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 28,
+          "urgency_score": 24,
           "sample_titles": [
             "中聯致癌油風暴持續延燒，台中地檢署依違反食安法聲押中聯廠長陳明榮，經台中地院100萬元交保，檢方抗告成功，中院今重開羈押",
             "中聯油脂致癌物案件持續延燒，煉油廠廠長陳明榮日前遭中檢聲押，法院裁定加保新台幣100萬元，經檢方提起抗告，台中高分院昨發",
@@ -66549,6 +66533,22 @@
           ]
         },
         {
+          "title": "新竹縣地方動態",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "red",
+          "news_count": 16,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 16,
+          "sample_titles": [
+            "新竹縣互力精密化工廠竄大量火舌 黑煙密布天際 | 中華日報",
+            "新竹縣互力精密化工廠竄大量火舌 黑煙密布天際",
+            "新竹縣藍營整合再添變數 陳見賢與邱臣遠會面「支持黨外」引發關注"
+          ]
+        },
+        {
           "title": "嘉義縣地方動態",
           "city": "嘉義縣",
           "place": "嘉義縣政府",
@@ -66569,11 +66569,11 @@
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "red",
-          "news_count": 25,
+          "news_count": 24,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 28,
+          "urgency_score": 27,
           "sample_titles": [
             "觀音菩薩成道紀念日 高虹安市長赴金山寺、竹蓮寺參香祝禱 祈求竹市風調雨順、國泰民安",
             "竹市稅務盃3對3籃球賽登場！178隊同場競技 高虹安市長開球勉勵全力以赴、享受比賽",
@@ -66585,11 +66585,11 @@
           "city": "台東",
           "place": "台東縣政府",
           "level": "red",
-          "news_count": 38,
+          "news_count": 37,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 38,
+          "urgency_score": 37,
           "sample_titles": [
             "3 . 劉櫂豪無預警宣布退出台東縣長選舉 陳瑩回應了",
             "劉櫂豪宣布不參選2026台東縣長 聲明曝光",
@@ -66617,11 +66617,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 49,
+          "news_count": 47,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 49,
+          "urgency_score": 47,
           "sample_titles": [
             "丹青不老～宜蘭美術館回顧魏琴孫藝術人生",
             "獨家》宜蘭人上車前先買！ 手搖飲插旗「南港轉運站」",
@@ -66649,11 +66649,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 61,
+          "news_count": 59,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 70,
+          "urgency_score": 68,
           "sample_titles": [
             "配合漢光42演習教召 台南137旅逾2千後備軍人配美援M4A1突擊步槍",
             "台南潑猴竄逃14天落網！認出麻醉槍逼獸醫變裝 屋頂吃龍眼遭逮",
@@ -66681,11 +66681,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 73,
+          "news_count": 71,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 82,
+          "urgency_score": 80,
           "sample_titles": [
             "2026.08.01 18:45 病牛也收！林口驚現非法屠宰場 新北農業局突襲查緝",
             "新北1小時2起落海！3美遊客剛獲救 又有3人困暗礁",
@@ -66697,11 +66697,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 123,
+          "news_count": 119,
           "comment_count": 0,
-          "negativity_pct": 2,
+          "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 132,
+          "urgency_score": 128,
           "sample_titles": [
             "綠營黃世杰批張善政自承「市政推動速度可以更快」 桃園人難接受",
             "桃園女做美甲「手指滲血」！反映後被嗆 美甲師：不能給負評 | TVBS",
@@ -66713,11 +66713,11 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "red",
-          "news_count": 125,
+          "news_count": 123,
           "comment_count": 10,
           "negativity_pct": 1,
           "is_urgent": true,
-          "urgency_score": 148,
+          "urgency_score": 146,
           "sample_titles": [
             "盧秀燕讚江啟臣「一路領航」 何欣純：謝謝他們拿香對拜",
             "盧秀燕「緩慢前行」換檔？喊2028倒賴 陳學聖曝她已謀定不缺席",
@@ -66729,11 +66729,11 @@
           "city": "高雄",
           "place": "高雄市楠梓區",
           "level": "red",
-          "news_count": 168,
+          "news_count": 162,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 207,
+          "urgency_score": 201,
           "sample_titles": [
             "高雄旗津風箏節開跑！ 30米大鯨魚壓軸登場　小朋友喊好好玩",
             "熊本強震36死 永旺商場內部最新影像曝1／熊本強震36死、1543棟房毀！ 高市8/3赴災區視察",
@@ -66745,11 +66745,11 @@
           "city": "台中",
           "place": "台中市豐原區",
           "level": "red",
-          "news_count": 176,
+          "news_count": 170,
           "comment_count": 0,
-          "negativity_pct": 11,
+          "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 236,
+          "urgency_score": 221,
           "sample_titles": [
             "盧秀燕年底備戰2028？鄭照新：不會讓大家失望 蔣萬安飄了？倒閣說惹議藍委私下透露沒人挺？北市選情風雲變色？蔣沈8月支持",
             "致癌油風暴延燒，中聯公司廠長陳明榮日前100萬元交保遭撤銷，台中地院今重開羈押庭，法官揭露陳5月就經台糖公司反映苯駢芘超",
@@ -66761,11 +66761,11 @@
           "city": "台北",
           "place": "台北市南港區",
           "level": "red",
-          "news_count": 213,
+          "news_count": 202,
           "comment_count": 0,
-          "negativity_pct": 8,
+          "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 261,
+          "urgency_score": 247,
           "sample_titles": [
             "林俊易0:2不敵俞泰彬！無緣台北公開賽決賽 下周仍將升上世界第8 | 綜合 | 運動",
             "北市聯醫傳護理師墜樓 和平院區：傷患緊急救治中 | 生活焦點 | 要聞",
