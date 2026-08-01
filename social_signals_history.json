@@ -39011,6 +39011,16 @@
       "red_pct": 28.44,
       "yellow_pct": 63.3,
       "green_pct": 8.26
+    },
+    {
+      "ts": "2026-08-01T23:08:12",
+      "total": 109,
+      "red": 31,
+      "yellow": 69,
+      "green": 9,
+      "red_pct": 28.44,
+      "yellow_pct": 63.3,
+      "green_pct": 8.26
     }
   ],
   "threads": [
@@ -59093,6 +59103,16 @@
       "red_pct": 23.33,
       "yellow_pct": 76.67,
       "green_pct": 0.0
+    },
+    {
+      "ts": "2026-08-01T22:53:07",
+      "total": 129,
+      "red": 40,
+      "yellow": 88,
+      "green": 1,
+      "red_pct": 31.01,
+      "yellow_pct": 68.22,
+      "green_pct": 0.78
     }
   ]
 }
