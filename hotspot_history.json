@@ -65968,7 +65968,7 @@
     },
     {
       "date": "2026-08-01",
-      "snapshot_at": "2026-08-01T01:56:56.754664+00:00",
+      "snapshot_at": "2026-08-01T02:01:19.295219+00:00",
       "hotspots": [
         {
           "title": "垃圾山",
@@ -66096,21 +66096,6 @@
           ]
         },
         {
-          "title": "苗栗車禍事件",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "green",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "苗栗驚悚車禍！77歲婦開車自撞 鏟斷電桿慘死",
-            "苗栗驚悚車禍！77歲婦開車自撞 鏟斷電桿慘死"
-          ]
-        },
-        {
           "title": "新竹市空氣污染",
           "city": "新竹市",
           "place": "新竹市政府",
@@ -66187,20 +66172,6 @@
           ]
         },
         {
-          "title": "新北弊案爭議",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "新北模範警涉侵占扣案毒品現金、調包尿液 判刑6年"
-          ]
-        },
-        {
           "title": "花蓮弊案爭議",
           "city": "花蓮",
           "place": "花蓮縣政府",
@@ -66212,6 +66183,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "【#本周精選】傅崐萁再捲司法風暴？檢調包圍後山…花蓮縣府弊案連環爆！翁曉玲無差別砍預算…羅廷瑋把李洋晾一旁？立院亂象永無"
+          ]
+        },
+        {
+          "title": "新北弊案爭議",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "新北模範警涉侵占扣案毒品現金、調包尿液 判刑6年"
           ]
         },
         {
@@ -66264,11 +66249,11 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "yellow",
-          "news_count": 24,
+          "news_count": 23,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 24,
+          "urgency_score": 23,
           "sample_titles": [
             "金門榮服處×中華佛教善緣慈善會攜手祝賀百歲榮民黃張廉嬤紀壽",
             "金門縣115學年度國中小學校長聯合佈達暨交接典禮陳福海勉校長創新辦學打造幸福教育新未來",
@@ -66419,22 +66404,6 @@
           ]
         },
         {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "red",
-          "news_count": 7,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 28,
-          "sample_titles": [
-            "瑪莎拉蒂案3惡煞判刑定讞 台中遭毆男大生現況曝光",
-            "涉違規出租活動中心、詐領租金 中檢起訴台中3連霸里長高敏裕",
-            "台中瑪莎拉蒂3惡少「暴打男大生害腦傷」！判刑定讞"
-          ]
-        },
-        {
           "title": "台南弊案爭議",
           "city": "台南",
           "place": "台南市政府",
@@ -66448,6 +66417,22 @@
             "老爸遺言「把兒子關到死」…不滿被挖起床吃午餐 台南逆子弒父判刑18年",
             "校園隨機擄人！台南女高中生險遭拖入空屋性侵 光電作業員判刑6年",
             "2026.07.31 15:03 台南男當街擄走女高中生摀鼻拖草叢 法院依強盜未遂判刑6年"
+          ]
+        },
+        {
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "red",
+          "news_count": 7,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 28,
+          "sample_titles": [
+            "瑪莎拉蒂案3惡煞判刑定讞 台中遭毆男大生現況曝光",
+            "涉違規出租活動中心、詐領租金 中檢起訴台中3連霸里長高敏裕",
+            "台中瑪莎拉蒂3惡少「暴打男大生害腦傷」！判刑定讞"
           ]
         },
         {
@@ -66503,15 +66488,31 @@
           "city": "新竹縣",
           "place": "新竹縣政府",
           "level": "red",
-          "news_count": 30,
+          "news_count": 29,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 39,
+          "urgency_score": 38,
           "sample_titles": [
             "國民黨主席鄭麗文今日接受專訪分析新竹選情時坦言，因初選裂痕，與民進黨新竹縣長參選人鄭朝方呈五五波，藍營方面仍需時間整合副",
             "坦言新竹縣選情待整合 鄭麗文：陳見賢初選受傷最重",
             "坦言新竹縣選情待整合鄭麗文：陳見賢初選受傷最重| 縣市長議員選戰| 要聞"
+          ]
+        },
+        {
+          "title": "雲林地方動態",
+          "city": "雲林",
+          "place": "雲林縣政府",
+          "level": "red",
+          "news_count": 32,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 32,
+          "sample_titles": [
+            "從校工到校長！杏壇作育英才52載 雲林教育傳奇呂松林退休",
+            "苯駢芘超標苦茶油溯源 雲林排除草嶺村原料來源",
+            "雲林縣政說明會前進莿桐 交通治水產業照顧全面升級"
           ]
         },
         {
@@ -66528,22 +66529,6 @@
             "《請世界吃桌》紐約辦桌先到台東魔鬼特訓 安排登山到山頂喝茶",
             "台東最美星空音樂體驗活動8/1長濱八仙洞登場",
             "台東美麗灣案──原建築換名稱再招商 環評失去公共信任"
-          ]
-        },
-        {
-          "title": "雲林地方動態",
-          "city": "雲林",
-          "place": "雲林縣政府",
-          "level": "red",
-          "news_count": 33,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 33,
-          "sample_titles": [
-            "從校工到校長！杏壇作育英才52載 雲林教育傳奇呂松林退休",
-            "苯駢芘超標苦茶油溯源 雲林排除草嶺村原料來源",
-            "雲林縣政說明會前進莿桐 交通治水產業照顧全面升級"
           ]
         },
         {
@@ -66567,11 +66552,11 @@
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "red",
-          "news_count": 54,
+          "news_count": 52,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 54,
+          "urgency_score": 52,
           "sample_titles": [
             "竹市西大路地下道往林森路 左右轉政策朝令夕改",
             "115年市長盃田徑公開賽登場  9縣市91隊會師竹市競技  高虹安市長鳴槍為1,101名選手加油",
@@ -66583,11 +66568,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 62,
+          "news_count": 60,
           "comment_count": 0,
-          "negativity_pct": 3,
+          "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 68,
+          "urgency_score": 60,
           "sample_titles": [
             "「山城點燈 愛不漏接」苗栗縣捐款平台滿週年  鍾東錦縣長感念各界「讓溫暖及時到位」",
             "陽明交大攜手禾榮 推動苗栗醫療園區",
@@ -66599,11 +66584,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 64,
+          "news_count": 61,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 67,
+          "urgency_score": 64,
           "sample_titles": [
             "「宜起評公廁，蘭來抽好禮」　宜蘭縣公廁民眾評鑑開跑",
             "「宜起評公廁，蘭來抽好禮」 宜蘭縣公廁民眾評鑑開跑",
@@ -66663,11 +66648,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 105,
+          "news_count": 104,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 126,
+          "urgency_score": 125,
           "sample_titles": [
             "才藝不設限 屏東縣半島達人秀徵選10組登上決賽舞台",
             "屏東「半島達人秀」開放報名 鼓勵6至17歲南國孩子秀出自我",
@@ -66727,11 +66712,11 @@
           "city": "高雄",
           "place": "高雄市鳳山區",
           "level": "red",
-          "news_count": 225,
+          "news_count": 223,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 285,
+          "urgency_score": 283,
           "sample_titles": [
             "高雄氣爆滿12年！陳其邁點燭光追思 揭市府具體精進措施",
             "高市早苗致謝多國漏掉台灣？矢板明夫：已從日相官邸得到清楚答覆 | 國際要聞 | 全球",
