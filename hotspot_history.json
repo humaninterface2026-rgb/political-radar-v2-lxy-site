@@ -67363,7 +67363,7 @@
     },
     {
       "date": "2026-08-03",
-      "snapshot_at": "2026-08-03T01:53:45.537930+00:00",
+      "snapshot_at": "2026-08-03T01:59:48.742673+00:00",
       "hotspots": [
         {
           "title": "廚餘山",
@@ -67432,20 +67432,6 @@
           ]
         },
         {
-          "title": "桃園車禍事件",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "桃園大林義消辦理車禍搶救訓練 強化臨場判斷能力"
-          ]
-        },
-        {
           "title": "高雄車禍事件",
           "city": "高雄",
           "place": "高雄市政府",
@@ -67457,6 +67443,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "高雄仁武車禍引熱議 違規騎士翻車後狂飆國罵"
+          ]
+        },
+        {
+          "title": "桃園車禍事件",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "桃園大林義消辦理車禍搶救訓練 強化臨場判斷能力"
           ]
         },
         {
@@ -67578,20 +67578,6 @@
           ]
         },
         {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "獨家》慶祝盧秀燕當選也行？台中前地政局長吳存金貪污緩刑5年確定"
-          ]
-        },
-        {
           "title": "新北弊案爭議",
           "city": "新北",
           "place": "新北市政府",
@@ -67684,22 +67670,6 @@
           ]
         },
         {
-          "title": "金門地方動態",
-          "city": "金門",
-          "place": "金門縣政府",
-          "level": "yellow",
-          "news_count": 18,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 18,
-          "sample_titles": [
-            "響應世界急救日金門 CPR＋AED急救教育宣導 8/4起網路報名",
-            "響應世界急救日金門 CPR＋AED急救教育宣導 8/4起網路報名 - 生活新聞 - PChome Online 新聞",
-            "-金中學子結合金門特色 AI作品勇奪全國雙獎"
-          ]
-        },
-        {
           "title": "雲林地方動態",
           "city": "雲林",
           "place": "雲林縣政府",
@@ -67713,6 +67683,22 @@
             "雲林「極限3000分鐘」開拍 8團隊挑戰",
             "桃園市雲林同鄉總會 攜手雲林慈善基金會 舉辦「讓愛飛翔」公益活動",
             "雲林 x 臺師大 新高中籌備處揭牌啟新程"
+          ]
+        },
+        {
+          "title": "金門地方動態",
+          "city": "金門",
+          "place": "金門縣政府",
+          "level": "yellow",
+          "news_count": 18,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 18,
+          "sample_titles": [
+            "響應世界急救日金門 CPR＋AED急救教育宣導 8/4起網路報名",
+            "響應世界急救日金門 CPR＋AED急救教育宣導 8/4起網路報名 - 生活新聞 - PChome Online 新聞",
+            "-金中學子結合金門特色 AI作品勇奪全國雙獎"
           ]
         },
         {
@@ -67880,11 +67866,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 89,
+          "news_count": 87,
           "comment_count": 0,
-          "negativity_pct": 12,
+          "negativity_pct": 13,
           "is_urgent": false,
-          "urgency_score": 122,
+          "urgency_score": 120,
           "sample_titles": [
             "五大農場跨域取經拓展農業新視野 借鏡屏東成功經驗打造智慧農業與品牌新典範",
             "屏東色警拍偷女同事如廁！被記過調職送辦 法院判決出爐",
@@ -67912,11 +67898,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 111,
+          "news_count": 109,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 150,
+          "urgency_score": 148,
           "sample_titles": [
             "廠商全招了！桃園籃球賽「大量AI幽靈球隊」報名灌水 體育局怒批詐欺要求賠償",
             "2075隊報名 桃園盃三對三籃球賽竟是AI灌水",
@@ -67928,11 +67914,11 @@
           "city": "高雄",
           "place": "高雄市楠梓區",
           "level": "red",
-          "news_count": 112,
+          "news_count": 111,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 121,
+          "urgency_score": 120,
           "sample_titles": [
             "台日「雙美濃」創生交流再深化 高雄青年實地取經百年紙藝文化",
             "高雄紀念幣名錶收購 在地18年免費到府鑑定 現金交易更安心",
@@ -67960,11 +67946,11 @@
           "city": "台中",
           "place": "台中市清水區",
           "level": "red",
-          "news_count": 197,
+          "news_count": 193,
           "comment_count": 11,
           "negativity_pct": 2,
           "is_urgent": true,
-          "urgency_score": 227,
+          "urgency_score": 223,
           "sample_titles": [
             "盧秀燕出席民眾黨慶批綠「荒腔走板」 何欣純：心思不在市政",
             "[HatePolitics] [新聞] 台糖5月早知情 盧秀燕批吃案",
@@ -67976,11 +67962,11 @@
           "city": "台中",
           "place": "台中市大里區",
           "level": "red",
-          "news_count": 211,
+          "news_count": 210,
           "comment_count": 0,
-          "negativity_pct": 7,
+          "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 253,
+          "urgency_score": 249,
           "sample_titles": [
             "台中地院法官揭露早在五月台糖就已採購到中聯問題粗油，苯駢芘超標高達14.7ppb，並告知中聯換油。經濟部、衛福部和民進黨",
             "中聯油脂致癌油風波延燒，台中地院指台糖5月就知道中聯苯駢芘超標一事。北市研考會主委殷瑋今在臉書嘆「這個政府不能要了」。殷",
