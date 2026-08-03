@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "snapshot_at": "2026-08-03T10:59:37.314434+00:00",
+  "snapshot_at": "2026-08-03T11:00:49.488077+00:00",
   "hotspots": [
     {
       "title": "垃圾山",
@@ -258,118 +258,6 @@
       "comments": []
     },
     {
-      "title": "嘉義縣地方動態",
-      "city": "嘉義縣",
-      "place": "嘉義縣政府",
-      "level": "green",
-      "news_count": 14,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 14,
-      "news_articles": [
-        {
-          "title": "蔡易餘嘉義縣長競選總部入厝祈福 18鄉鎮組織架構完成",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE55cmgzMGs0Y3VGNEs0NFMxYnpMUGduQlpSWkozWkJRRm5LRjRVVm1HQmw4YVo5bE00NlQ1TUg4blpOMmhidXZn?oc=5",
-          "time": "2026-08-03 15:02:18",
-          "publisher": "Google News→台灣新聞雲",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣推動節能減碳 5,366台公務自行車投入",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbWswTGVXa0dmY3FzeTI5NWk3MUZjcFFvVjd4NzVld1R4aExLalVMN29nUk42bjlWN1hMa1NQV3kwdXFHMHJWNGxfR2R2eXZza3FCaU9CWHM3cVpzVGdLU2F3ajdQa0o5bmlQSlc4ZFlRSGp0MkJpbjNFdDRVbUg3RzJsS1hvYUZRWk04LWt6OU5iQmJwdzlEVjVB?oc=5",
-          "time": "2026-08-03 13:47:36",
-          "publisher": "Google News→idn.com.tw",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣推動村里自行車節能減碳計畫　5,366台公務自行車全面投入基層服務",
-          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=256344",
-          "time": "2026-08-03 12:54:27",
-          "publisher": "嘉義縣政府",
-          "severity": null
-        },
-        {
-          "title": "台積電進駐、Outlet將營運　蔡易餘未雨綢繆盤點嘉義縣治特區停車資源",
-          "url": "https://n.yam.com/Article/20260803527769",
-          "time": "2026-08-03 12:00:00",
-          "publisher": "匯流新聞網",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣推動村里自行車節能減碳計畫 5,366台公務自行車全面投入基層服務",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBndXRYREszYXE0a2FNNjd4YUZQV0o1Rnd4OTZPZFB1NHptLWJfZnBqT05SQXlTN01tNnRhWHFSWjdqOUJYeVJ0RldSQ0Z0VTEtMmxURFJZQ1RseTBGTHVRR243T042YWQ3?oc=5",
-          "time": "2026-08-03 11:44:47",
-          "publisher": "Google News→博識網頁設計",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣社會局社工榮獲衛福部社安網績優人員 陪伴弱勢家庭翻轉未來",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uUDc3VXFOUWVkMjF3bEk0eWs5WGtpWk1oQkJVOEEteEZRREdxLVlkVEl6SDZ0d2taRUVlN2psNkx2aWFLRGF5cmlCTE92Z1R6bVh4SUtR?oc=5",
-          "time": "2026-08-03 10:12:29",
-          "publisher": "Google News→cna.com.tw",
-          "severity": null
-        },
-        {
-          "title": "蔡易餘出席嘉義縣115年模範父親暨好人好事代表表揚活動 向典範致敬祝福父親節快樂",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4xQ3lQWi1qNzh4WGVSUy16eGhDcUJVMHVGRnd0Njl1VUZkSzRBeVdsN1h5TzJHblktOUVmMHZHLTJ3TTNaY01N?oc=5",
-          "time": "2026-08-03 05:32:51",
-          "publisher": "Google News→台灣新聞雲",
-          "severity": null
-        },
-        {
-          "title": "《嘉義縣長選戰》蔡易餘提百億教育預算 吳品叡倡提高生育補助",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1765214",
-          "time": "2026-08-03 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣源春製油廠今天再度發聲明，國際機能公司委託生產苦茶油的油品原料，為製油廠向在地農民收購，進貨單據提供主管機關釐清。...",
-          "url": "https://udn.com/news/story/124948/9666604?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-08-03 00:30:43",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "嘉義縣, 嘉義市 1日遊｜Funliday 規劃 • 旅遊 • 分享",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSloyamlESURXU2xmYVhNdU1iajM5M3FpR2cwRmVFUGUtMDFjNThwZXlIUzhPOGlSZ0JfTjg2dVdpS0JKMHlLSm8ySWh6d0NzTEppb3NyYkg2SkJDVndUY0JpUGJpaEp1MXliR2NnRUMyT2RrYThwdTBrYlp0UnV0YU00VU1uUHhORW43YXdsS2RzZXc1REE?oc=5",
-          "time": "2026-08-03 00:26:06",
-          "publisher": "Google News→funliday.com",
-          "severity": null
-        },
-        {
-          "title": "歡慶父親節 嘉義縣向父愛與善行致敬",
-          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOZTE0YndSUEhlZXFtQjJ0azRTTjNYdS1PLWEzMzVZdHdyWHhGdWpBT1Q3UGZOVnF1OV9ybW1SdHZuMW9OcFVXRDdxMklCcUxHMV9Za3kxM1MycldmSndHd3NJbnRFd0JpeDV4ak1UNVUxcDVPdkctYzU5aEx5WmtOZjlhTUJyajNjQzRhSjN1RHJzd21oZEtIX1hnMXFWVWxzaEtXcW1LNkFUS2pPMWxpSGE3N0owN2FXS0cwOEhxbkVHX1cxRHdaSVU1QkRfcl9sWDJRVWVKQ0p1dUFSenRnWHZOY2d5bG15bHFVTExsUnJpV3dCS0hBMnNjUFBuVDR1dG8xazk5WHVqZEx4MHlBOEtaUlg4ajlmdDZfYzBFMTRGR2FVNVhBbVp3?oc=5",
-          "time": "2026-08-02 22:44:29",
-          "publisher": "Google News→新唐人亞太電視台",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣表揚38位模範父親及好人好事代表",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xTFlwb1pRWDVBN0NGVUYwTmFSakRJaHBxQlpxYVRCT3hCMHNsM3g4cUcyREdxdEQ3MGZrQ0NZX3R6aVBoZUU0V3VwSnR5MWR3amNWMmtTcVpGNGx4OU0w0gFkQVVfeXFMTUUzVFBteVFzSEllQUtSbU9aUzJnOUJ1YU9UYXkzMXF5aHd5RWFrdWVUNXktRXlPRmJHV2VIZnhGaWFVZlZtRlVPWmJaMFU4UzV0a2VYRVpzNGdtSkpzbi13Z1NMUA?oc=5",
-          "time": "2026-08-02 22:03:00",
-          "publisher": "Google News→大纪元",
-          "severity": null
-        },
-        {
-          "title": "「最嘉主角」傳遞愛與善意 嘉義縣表揚38位模範父親及好人好事代表",
-          "url": "https://more-news.tw/683133/",
-          "time": "2026-08-02 21:39:33",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣表揚模範父親及好人好事代表 「最嘉主角」默默奉獻",
-          "url": "https://www.thehubnews.net/archives/650441",
-          "time": "2026-08-02 19:37:33",
-          "publisher": "新頭條",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "新竹縣地方動態",
       "city": "新竹縣",
       "place": "新竹縣政府",
@@ -476,6 +364,118 @@
           "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%8C%97%E5%B8%82%E9%95%B7%E9%BB%83%E5%9C%8B%E6%98%8C%E5%8A%9B%E6%8C%BA%E9%82%B1%E8%87%A3%E9%81%A0-%E5%BE%90%E6%AC%A3%E7%91%A9-%E8%97%8D%E7%99%BD%E9%AB%98%E5%B1%A4%E6%9C%89-%E8%89%AF%E5%A5%BD%E6%A9%9F%E5%88%B6-215318805.html",
           "time": "2026-08-02 21:53:18",
           "publisher": "Yahoo新聞",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "嘉義縣地方動態",
+      "city": "嘉義縣",
+      "place": "嘉義縣政府",
+      "level": "green",
+      "news_count": 14,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 14,
+      "news_articles": [
+        {
+          "title": "蔡易餘嘉義縣長競選總部入厝祈福 18鄉鎮組織架構完成",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE55cmgzMGs0Y3VGNEs0NFMxYnpMUGduQlpSWkozWkJRRm5LRjRVVm1HQmw4YVo5bE00NlQ1TUg4blpOMmhidXZn?oc=5",
+          "time": "2026-08-03 15:02:18",
+          "publisher": "Google News→台灣新聞雲",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣推動節能減碳 5,366台公務自行車投入",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbWswTGVXa0dmY3FzeTI5NWk3MUZjcFFvVjd4NzVld1R4aExLalVMN29nUk42bjlWN1hMa1NQV3kwdXFHMHJWNGxfR2R2eXZza3FCaU9CWHM3cVpzVGdLU2F3ajdQa0o5bmlQSlc4ZFlRSGp0MkJpbjNFdDRVbUg3RzJsS1hvYUZRWk04LWt6OU5iQmJwdzlEVjVB?oc=5",
+          "time": "2026-08-03 13:47:36",
+          "publisher": "Google News→idn.com.tw",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣推動村里自行車節能減碳計畫　5,366台公務自行車全面投入基層服務",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=256344",
+          "time": "2026-08-03 12:54:27",
+          "publisher": "嘉義縣政府",
+          "severity": null
+        },
+        {
+          "title": "台積電進駐、Outlet將營運　蔡易餘未雨綢繆盤點嘉義縣治特區停車資源",
+          "url": "https://n.yam.com/Article/20260803527769",
+          "time": "2026-08-03 12:00:00",
+          "publisher": "匯流新聞網",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣推動村里自行車節能減碳計畫 5,366台公務自行車全面投入基層服務",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBndXRYREszYXE0a2FNNjd4YUZQV0o1Rnd4OTZPZFB1NHptLWJfZnBqT05SQXlTN01tNnRhWHFSWjdqOUJYeVJ0RldSQ0Z0VTEtMmxURFJZQ1RseTBGTHVRR243T042YWQ3?oc=5",
+          "time": "2026-08-03 11:44:47",
+          "publisher": "Google News→博識網頁設計",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣社會局社工榮獲衛福部社安網績優人員 陪伴弱勢家庭翻轉未來",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uUDc3VXFOUWVkMjF3bEk0eWs5WGtpWk1oQkJVOEEteEZRREdxLVlkVEl6SDZ0d2taRUVlN2psNkx2aWFLRGF5cmlCTE92Z1R6bVh4SUtR?oc=5",
+          "time": "2026-08-03 10:12:29",
+          "publisher": "Google News→cna.com.tw",
+          "severity": null
+        },
+        {
+          "title": "蔡易餘出席嘉義縣115年模範父親暨好人好事代表表揚活動 向典範致敬祝福父親節快樂",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4xQ3lQWi1qNzh4WGVSUy16eGhDcUJVMHVGRnd0Njl1VUZkSzRBeVdsN1h5TzJHblktOUVmMHZHLTJ3TTNaY01N?oc=5",
+          "time": "2026-08-03 05:32:51",
+          "publisher": "Google News→台灣新聞雲",
+          "severity": null
+        },
+        {
+          "title": "《嘉義縣長選戰》蔡易餘提百億教育預算 吳品叡倡提高生育補助",
+          "url": "https://news.ltn.com.tw/news/politics/paper/1765214",
+          "time": "2026-08-03 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣源春製油廠今天再度發聲明，國際機能公司委託生產苦茶油的油品原料，為製油廠向在地農民收購，進貨單據提供主管機關釐清。...",
+          "url": "https://udn.com/news/story/124948/9666604?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-08-03 00:30:43",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "嘉義縣, 嘉義市 1日遊｜Funliday 規劃 • 旅遊 • 分享",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSloyamlESURXU2xmYVhNdU1iajM5M3FpR2cwRmVFUGUtMDFjNThwZXlIUzhPOGlSZ0JfTjg2dVdpS0JKMHlLSm8ySWh6d0NzTEppb3NyYkg2SkJDVndUY0JpUGJpaEp1MXliR2NnRUMyT2RrYThwdTBrYlp0UnV0YU00VU1uUHhORW43YXdsS2RzZXc1REE?oc=5",
+          "time": "2026-08-03 00:26:06",
+          "publisher": "Google News→funliday.com",
+          "severity": null
+        },
+        {
+          "title": "歡慶父親節 嘉義縣向父愛與善行致敬",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOZTE0YndSUEhlZXFtQjJ0azRTTjNYdS1PLWEzMzVZdHdyWHhGdWpBT1Q3UGZOVnF1OV9ybW1SdHZuMW9OcFVXRDdxMklCcUxHMV9Za3kxM1MycldmSndHd3NJbnRFd0JpeDV4ak1UNVUxcDVPdkctYzU5aEx5WmtOZjlhTUJyajNjQzRhSjN1RHJzd21oZEtIX1hnMXFWVWxzaEtXcW1LNkFUS2pPMWxpSGE3N0owN2FXS0cwOEhxbkVHX1cxRHdaSVU1QkRfcl9sWDJRVWVKQ0p1dUFSenRnWHZOY2d5bG15bHFVTExsUnJpV3dCS0hBMnNjUFBuVDR1dG8xazk5WHVqZEx4MHlBOEtaUlg4ajlmdDZfYzBFMTRGR2FVNVhBbVp3?oc=5",
+          "time": "2026-08-02 22:44:29",
+          "publisher": "Google News→新唐人亞太電視台",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣表揚38位模範父親及好人好事代表",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xTFlwb1pRWDVBN0NGVUYwTmFSakRJaHBxQlpxYVRCT3hCMHNsM3g4cUcyREdxdEQ3MGZrQ0NZX3R6aVBoZUU0V3VwSnR5MWR3amNWMmtTcVpGNGx4OU0w0gFkQVVfeXFMTUUzVFBteVFzSEllQUtSbU9aUzJnOUJ1YU9UYXkzMXF5aHd5RWFrdWVUNXktRXlPRmJHV2VIZnhGaWFVZlZtRlVPWmJaMFU4UzV0a2VYRVpzNGdtSkpzbi13Z1NMUA?oc=5",
+          "time": "2026-08-02 22:03:00",
+          "publisher": "Google News→大纪元",
+          "severity": null
+        },
+        {
+          "title": "「最嘉主角」傳遞愛與善意 嘉義縣表揚38位模範父親及好人好事代表",
+          "url": "https://more-news.tw/683133/",
+          "time": "2026-08-02 21:39:33",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣表揚模範父親及好人好事代表 「最嘉主角」默默奉獻",
+          "url": "https://www.thehubnews.net/archives/650441",
+          "time": "2026-08-02 19:37:33",
+          "publisher": "新頭條",
           "severity": null
         }
       ],
@@ -892,11 +892,11 @@
       "city": "雲林",
       "place": "雲林縣政府",
       "level": "yellow",
-      "news_count": 21,
+      "news_count": 20,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 21,
+      "urgency_score": 20,
       "news_articles": [
         {
           "title": "搶攻AI產業鏈物流商機 建新台北港物流中心揭牌",
@@ -1036,13 +1036,6 @@
           "url": "https://taiwanreports.com/archives/1003464",
           "time": "2026-08-02 19:24:04",
           "publisher": "臺灣導報",
-          "severity": null
-        },
-        {
-          "title": "58本金鼎、金漫得獎作品一次看！雲林縣府閱讀活動加碼創意競賽最高得5000元禮券",
-          "url": "https://news.ltn.com.tw/news/art/breakingnews/5526038",
-          "time": "2026-08-02 18:59:55",
-          "publisher": "自由時報",
           "severity": null
         }
       ],
@@ -2022,202 +2015,6 @@
       "comments": []
     },
     {
-      "title": "基隆地方動態",
-      "city": "基隆",
-      "place": "基隆市政府",
-      "level": "red",
-      "news_count": 26,
-      "comment_count": 0,
-      "negativity_pct": 8,
-      "is_urgent": false,
-      "urgency_score": 32,
-      "news_articles": [
-        {
-          "title": "基隆師「抓下巴、後頸離地」涉虐童　園方稱「經驗不足」請求和解",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-08-03/2425543.html",
-          "time": "2026-08-03 16:23:23",
-          "publisher": "壹電視",
-          "severity": "yellow"
-        },
-        {
-          "title": "基隆慶安宮「漳州媽祖安座紀念三獻典禮」邱佩琳代表謝國樑到場參與",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5527073",
-          "time": "2026-08-03 16:01:27",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "基隆市再傳「幼兒園虐童案」 謝國樑態度曝光",
-          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E5%B8%82%E5%86%8D%E5%82%B3-%E5%B9%BC%E5%85%92%E5%9C%92%E8%99%90%E7%AB%A5%E6%A1%88-%E8%AC%9D%E5%9C%8B%E6%A8%91%E6%85%8B%E5%BA%A6%E6%9B%9D%E5%85%89-073502575.html",
-          "time": "2026-08-03 15:35:02",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "基隆再爆幼園涉虐 童遭掐頸關廁、排擠對待",
-          "url": "https://news.ebc.net.tw/news/society/564438",
-          "time": "2026-08-03 15:19:00",
-          "publisher": "東森新聞",
-          "severity": "red"
-        },
-        {
-          "title": "基隆慶安宮舉辦漳州媽祖安座三獻典禮 邱佩琳祈願國泰民安、市運昌隆",
-          "url": "https://more-news.tw/683496/",
-          "time": "2026-08-03 15:09:34",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "迎戰2026年地方選舉，民眾黨主席黃國昌今天說，民眾黨今年沒有擴大提名，而是相對採取精準提名，也就是在適當選區提名1席議員，自己心中的選戰目標就是議員席次翻倍，包括基隆市、台北市、新北市、新竹市、新竹縣、台中市及彰化縣都要成立議會黨團。",
-          "url": "https://udn.com/news/story/124652/9667531?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-08-03 14:31:05",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "基隆幼兒園爆虐童！童遭抓下巴、後頸懸空拎起 家長怒提告",
-          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E5%B9%BC%E5%85%92%E5%9C%92%E7%88%86%E8%99%90%E7%AB%A5-%E7%AB%A5%E9%81%AD%E6%8A%93%E4%B8%8B%E5%B7%B4-%E5%BE%8C%E9%A0%B8%E6%87%B8%E7%A9%BA%E6%8B%8E%E8%B5%B7-%E5%AE%B6%E9%95%B7%E6%80%92%E6%8F%90%E5%91%8A-055659673.html",
-          "time": "2026-08-03 13:56:59",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "基隆血庫吃緊！黃忠賢帶頭捐熱血 攜手海洋獅子會募得233袋搶救血荒",
-          "url": "https://more-news.tw/683419/",
-          "time": "2026-08-03 13:39:33",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "基隆幼兒園又爆不當對待！家長PO文控：心都碎了 市府回應了",
-          "url": "https://newtalk.tw/news/view/2026-08-03/1050961",
-          "time": "2026-08-03 13:24:52",
-          "publisher": "新頭殼",
-          "severity": "yellow"
-        },
-        {
-          "title": "基隆藍議員收押、虐童案夾擊！他示警：謝國樑選情真的急了",
-          "url": "https://newtalk.tw/news/view/2026-08-03/1050999",
-          "time": "2026-08-03 13:07:52",
-          "publisher": "新頭殼",
-          "severity": "red"
-        },
-        {
-          "title": "基隆又爆虐童！幼師涉掐頸壓桌、關廁所 家長看監視器心碎提告",
-          "url": "https://www.mirrormedia.mg/story/20260803edi055",
-          "time": "2026-08-03 12:58:00",
-          "publisher": "鏡週刊",
-          "severity": "red"
-        },
-        {
-          "title": "基隆男童遭教保員不當對待 幼兒園：施暴師已離職、會配合後續調查",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5526839",
-          "time": "2026-08-03 12:55:48",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "基隆再爆不當管教！幼童被抓頸離地、關小房間 家長慟：整個心都碎了",
-          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E5%86%8D%E7%88%86%E4%B8%8D%E7%95%B6%E7%AE%A1%E6%95%99-%E5%B9%BC%E7%AB%A5%E8%A2%AB%E6%8A%93%E9%A0%B8%E9%9B%A2%E5%9C%B0-%E9%97%9C%E5%B0%8F%E6%88%BF%E9%96%93-%E5%AE%B6%E9%95%B7%E6%85%9F-%E6%95%B4%E5%80%8B%E5%BF%83%E9%83%BD%E7%A2%8E%E4%BA%86-042800646.html",
-          "time": "2026-08-03 12:28:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "基隆幼兒園再爆案件 母看畫面：心都碎了",
-          "url": "https://today.line.me/tw/v2/article/285797645",
-          "time": "2026-08-03 11:18:41",
-          "publisher": "Line Today",
-          "severity": "yellow"
-        },
-        {
-          "title": "基隆又傳幼兒園虐童案 謝國樑下令：8/15完成行政處分",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5526675",
-          "time": "2026-08-03 11:08:22",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "基隆又爆幼兒園涉虐！幼童遭抓頸壓桌5分鐘 市府回應了",
-          "url": "https://news.nextapple.com/local/20260803/B7E5E633B963F6F30461A0CCBC175304",
-          "time": "2026-08-03 10:35:32",
-          "publisher": "壹蘋新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "基隆童滿臉傷…竟是遭師掐脖、關廁所！母一看監視器心碎",
-          "url": "https://news.nextapple.com/local/20260803/2B1F5F62F3112B0A1CF23DE6A051561C",
-          "time": "2026-08-03 10:27:23",
-          "publisher": "壹蘋新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "幼童臉傷還被帶進廁所！基隆再爆幼兒園涉虐 家長PO網控訴並提告",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5526505",
-          "time": "2026-08-03 08:22:07",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "童子瑋提基隆包車通勤 王義川建議常客優先訂位",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1765219",
-          "time": "2026-08-03 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "基隆再爆幼童遭抓頸壓制 市府8/15完成審議 (圖)",
-          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E5%86%8D%E7%88%86%E5%B9%BC%E7%AB%A5%E9%81%AD%E6%8A%93%E9%A0%B8%E5%A3%93%E5%88%B6-%E5%B8%82%E5%BA%9C8-15%E5%AE%8C%E6%88%90%E5%AF%A9%E8%AD%B0-%E5%9C%96-042856432.html",
-          "time": "2026-08-03 04:28:56",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "家長控幼童遭抓頸壓制 基市府：8/15完成審議",
-          "url": "https://tw.news.yahoo.com/%E5%AE%B6%E9%95%B7%E6%8E%A7%E5%B9%BC%E7%AB%A5%E9%81%AD%E6%8A%93%E9%A0%B8%E5%A3%93%E5%88%B6-%E5%9F%BA%E5%B8%82%E5%BA%9C-8-15%E5%AE%8C%E6%88%90%E5%AF%A9%E8%AD%B0-040318644.html",
-          "time": "2026-08-03 04:03:18",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "基隆曲水里里民活動中心正式啟用　打造社區交流與公共服務新據點",
-          "url": "https://n.yam.com/Article/20260803444757",
-          "time": "2026-08-03 01:59:01",
-          "publisher": "蕃新聞→報新聞",
-          "severity": null
-        },
-        {
-          "title": "基隆某國中收匿名恐嚇信 警IP追出同校生「惡作劇」：好玩",
-          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E6%9F%90%E5%9C%8B%E4%B8%AD%E6%94%B6%E5%8C%BF%E5%90%8D%E6%81%90%E5%9A%87%E4%BF%A1-%E8%AD%A6ip%E8%BF%BD%E5%87%BA%E5%90%8C%E6%A0%A1%E7%94%9F-%E6%83%A1%E4%BD%9C%E5%8A%87-%E5%A5%BD%E7%8E%A9-125400549.html",
-          "time": "2026-08-02 20:54:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "公嬤活力秀北區賽 基市４不可擋",
-          "url": "https://tw.news.yahoo.com/%E5%85%AC%E5%AC%A4%E6%B4%BB%E5%8A%9B%E7%A7%80%E5%8C%97%E5%8D%80%E8%B3%BD-%E5%9F%BA%E5%B8%82-%E4%B8%8D%E5%8F%AF%E6%93%8B-122641281.html",
-          "time": "2026-08-02 20:26:41",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "基隆市議長、基隆市長參選人童子瑋今天說，昨接受「這樣川正好」主持人、立委王義川專訪，提及服務通勤族的客運政策，王曾任台中市交通局長，因此也向他討教。王的建議是可以優先給客運常客訂位權，打造類似通勤VIP的方案，作為普及公共運輸的誘因。",
-          "url": "https://udn.com/news/story/124652/9666273?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-08-02 19:34:12",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "基隆國中生收恐嚇電子郵件 涉案同校學生遭責付家長管教",
-          "url": "https://news.pts.org.tw/article/820473",
-          "time": "2026-08-02 19:17:36",
-          "publisher": "公視 即時",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "苗栗地方動態",
       "city": "苗栗",
       "place": "苗栗縣政府",
@@ -2408,6 +2205,202 @@
           "url": "https://www.thehubnews.net/archives/650476",
           "time": "2026-08-02 19:06:00",
           "publisher": "新頭條",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "基隆地方動態",
+      "city": "基隆",
+      "place": "基隆市政府",
+      "level": "red",
+      "news_count": 26,
+      "comment_count": 0,
+      "negativity_pct": 8,
+      "is_urgent": false,
+      "urgency_score": 32,
+      "news_articles": [
+        {
+          "title": "基隆師「抓下巴、後頸離地」涉虐童　園方稱「經驗不足」請求和解",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-08-03/2425543.html",
+          "time": "2026-08-03 16:23:23",
+          "publisher": "壹電視",
+          "severity": "yellow"
+        },
+        {
+          "title": "基隆慶安宮「漳州媽祖安座紀念三獻典禮」邱佩琳代表謝國樑到場參與",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5527073",
+          "time": "2026-08-03 16:01:27",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "基隆市再傳「幼兒園虐童案」 謝國樑態度曝光",
+          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E5%B8%82%E5%86%8D%E5%82%B3-%E5%B9%BC%E5%85%92%E5%9C%92%E8%99%90%E7%AB%A5%E6%A1%88-%E8%AC%9D%E5%9C%8B%E6%A8%91%E6%85%8B%E5%BA%A6%E6%9B%9D%E5%85%89-073502575.html",
+          "time": "2026-08-03 15:35:02",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "基隆再爆幼園涉虐 童遭掐頸關廁、排擠對待",
+          "url": "https://news.ebc.net.tw/news/society/564438",
+          "time": "2026-08-03 15:19:00",
+          "publisher": "東森新聞",
+          "severity": "red"
+        },
+        {
+          "title": "基隆慶安宮舉辦漳州媽祖安座三獻典禮 邱佩琳祈願國泰民安、市運昌隆",
+          "url": "https://more-news.tw/683496/",
+          "time": "2026-08-03 15:09:34",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "迎戰2026年地方選舉，民眾黨主席黃國昌今天說，民眾黨今年沒有擴大提名，而是相對採取精準提名，也就是在適當選區提名1席議員，自己心中的選戰目標就是議員席次翻倍，包括基隆市、台北市、新北市、新竹市、新竹縣、台中市及彰化縣都要成立議會黨團。",
+          "url": "https://udn.com/news/story/124652/9667531?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-08-03 14:31:05",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "基隆幼兒園爆虐童！童遭抓下巴、後頸懸空拎起 家長怒提告",
+          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E5%B9%BC%E5%85%92%E5%9C%92%E7%88%86%E8%99%90%E7%AB%A5-%E7%AB%A5%E9%81%AD%E6%8A%93%E4%B8%8B%E5%B7%B4-%E5%BE%8C%E9%A0%B8%E6%87%B8%E7%A9%BA%E6%8B%8E%E8%B5%B7-%E5%AE%B6%E9%95%B7%E6%80%92%E6%8F%90%E5%91%8A-055659673.html",
+          "time": "2026-08-03 13:56:59",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "基隆血庫吃緊！黃忠賢帶頭捐熱血 攜手海洋獅子會募得233袋搶救血荒",
+          "url": "https://more-news.tw/683419/",
+          "time": "2026-08-03 13:39:33",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "基隆幼兒園又爆不當對待！家長PO文控：心都碎了 市府回應了",
+          "url": "https://newtalk.tw/news/view/2026-08-03/1050961",
+          "time": "2026-08-03 13:24:52",
+          "publisher": "新頭殼",
+          "severity": "yellow"
+        },
+        {
+          "title": "基隆藍議員收押、虐童案夾擊！他示警：謝國樑選情真的急了",
+          "url": "https://newtalk.tw/news/view/2026-08-03/1050999",
+          "time": "2026-08-03 13:07:52",
+          "publisher": "新頭殼",
+          "severity": "red"
+        },
+        {
+          "title": "基隆又爆虐童！幼師涉掐頸壓桌、關廁所 家長看監視器心碎提告",
+          "url": "https://www.mirrormedia.mg/story/20260803edi055",
+          "time": "2026-08-03 12:58:00",
+          "publisher": "鏡週刊",
+          "severity": "red"
+        },
+        {
+          "title": "基隆男童遭教保員不當對待 幼兒園：施暴師已離職、會配合後續調查",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5526839",
+          "time": "2026-08-03 12:55:48",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "基隆再爆不當管教！幼童被抓頸離地、關小房間 家長慟：整個心都碎了",
+          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E5%86%8D%E7%88%86%E4%B8%8D%E7%95%B6%E7%AE%A1%E6%95%99-%E5%B9%BC%E7%AB%A5%E8%A2%AB%E6%8A%93%E9%A0%B8%E9%9B%A2%E5%9C%B0-%E9%97%9C%E5%B0%8F%E6%88%BF%E9%96%93-%E5%AE%B6%E9%95%B7%E6%85%9F-%E6%95%B4%E5%80%8B%E5%BF%83%E9%83%BD%E7%A2%8E%E4%BA%86-042800646.html",
+          "time": "2026-08-03 12:28:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "基隆幼兒園再爆案件 母看畫面：心都碎了",
+          "url": "https://today.line.me/tw/v2/article/285797645",
+          "time": "2026-08-03 11:18:41",
+          "publisher": "Line Today",
+          "severity": "yellow"
+        },
+        {
+          "title": "基隆又傳幼兒園虐童案 謝國樑下令：8/15完成行政處分",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5526675",
+          "time": "2026-08-03 11:08:22",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "基隆又爆幼兒園涉虐！幼童遭抓頸壓桌5分鐘 市府回應了",
+          "url": "https://news.nextapple.com/local/20260803/B7E5E633B963F6F30461A0CCBC175304",
+          "time": "2026-08-03 10:35:32",
+          "publisher": "壹蘋新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "基隆童滿臉傷…竟是遭師掐脖、關廁所！母一看監視器心碎",
+          "url": "https://news.nextapple.com/local/20260803/2B1F5F62F3112B0A1CF23DE6A051561C",
+          "time": "2026-08-03 10:27:23",
+          "publisher": "壹蘋新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "幼童臉傷還被帶進廁所！基隆再爆幼兒園涉虐 家長PO網控訴並提告",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5526505",
+          "time": "2026-08-03 08:22:07",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "童子瑋提基隆包車通勤 王義川建議常客優先訂位",
+          "url": "https://news.ltn.com.tw/news/politics/paper/1765219",
+          "time": "2026-08-03 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "基隆再爆幼童遭抓頸壓制 市府8/15完成審議 (圖)",
+          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E5%86%8D%E7%88%86%E5%B9%BC%E7%AB%A5%E9%81%AD%E6%8A%93%E9%A0%B8%E5%A3%93%E5%88%B6-%E5%B8%82%E5%BA%9C8-15%E5%AE%8C%E6%88%90%E5%AF%A9%E8%AD%B0-%E5%9C%96-042856432.html",
+          "time": "2026-08-03 04:28:56",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "家長控幼童遭抓頸壓制 基市府：8/15完成審議",
+          "url": "https://tw.news.yahoo.com/%E5%AE%B6%E9%95%B7%E6%8E%A7%E5%B9%BC%E7%AB%A5%E9%81%AD%E6%8A%93%E9%A0%B8%E5%A3%93%E5%88%B6-%E5%9F%BA%E5%B8%82%E5%BA%9C-8-15%E5%AE%8C%E6%88%90%E5%AF%A9%E8%AD%B0-040318644.html",
+          "time": "2026-08-03 04:03:18",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "基隆曲水里里民活動中心正式啟用　打造社區交流與公共服務新據點",
+          "url": "https://n.yam.com/Article/20260803444757",
+          "time": "2026-08-03 01:59:01",
+          "publisher": "蕃新聞→報新聞",
+          "severity": null
+        },
+        {
+          "title": "基隆某國中收匿名恐嚇信 警IP追出同校生「惡作劇」：好玩",
+          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E6%9F%90%E5%9C%8B%E4%B8%AD%E6%94%B6%E5%8C%BF%E5%90%8D%E6%81%90%E5%9A%87%E4%BF%A1-%E8%AD%A6ip%E8%BF%BD%E5%87%BA%E5%90%8C%E6%A0%A1%E7%94%9F-%E6%83%A1%E4%BD%9C%E5%8A%87-%E5%A5%BD%E7%8E%A9-125400549.html",
+          "time": "2026-08-02 20:54:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "公嬤活力秀北區賽 基市４不可擋",
+          "url": "https://tw.news.yahoo.com/%E5%85%AC%E5%AC%A4%E6%B4%BB%E5%8A%9B%E7%A7%80%E5%8C%97%E5%8D%80%E8%B3%BD-%E5%9F%BA%E5%B8%82-%E4%B8%8D%E5%8F%AF%E6%93%8B-122641281.html",
+          "time": "2026-08-02 20:26:41",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "基隆市議長、基隆市長參選人童子瑋今天說，昨接受「這樣川正好」主持人、立委王義川專訪，提及服務通勤族的客運政策，王曾任台中市交通局長，因此也向他討教。王的建議是可以優先給客運常客訂位權，打造類似通勤VIP的方案，作為普及公共運輸的誘因。",
+          "url": "https://udn.com/news/story/124652/9666273?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-08-02 19:34:12",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "基隆國中生收恐嚇電子郵件 涉案同校學生遭責付家長管教",
+          "url": "https://news.pts.org.tw/article/820473",
+          "time": "2026-08-02 19:17:36",
+          "publisher": "公視 即時",
           "severity": "yellow"
         }
       ],
@@ -7837,10 +7830,10 @@
       "place": "台中市清水區",
       "level": "red",
       "news_count": 208,
-      "comment_count": 10,
+      "comment_count": 11,
       "negativity_pct": 3,
       "is_urgent": true,
-      "urgency_score": 249,
+      "urgency_score": 250,
       "news_articles": [
         {
           "title": "盧秀燕毒油轟中央慘遭迴力鏢！ 綠營轟「毒媽媽」送鏡喊：照清自己",
@@ -9318,19 +9311,19 @@
         },
         {
           "platform": "instagram",
-          "text": "食安罪魁禍首就是盧秀燕",
-          "author": "tea.and.pot",
-          "url": "",
-          "time_text": "1 週",
-          "signal": "red"
-        },
-        {
-          "platform": "instagram",
           "text": "盧秀燕出來負責",
           "author": "925.520ray",
           "url": "",
           "time_text": "1 週",
           "signal": "yellow"
+        },
+        {
+          "platform": "instagram",
+          "text": "食安罪魁禍首就是盧秀燕",
+          "author": "tea.and.pot",
+          "url": "",
+          "time_text": "1 週",
+          "signal": "red"
         },
         {
           "platform": "instagram",
@@ -9355,6 +9348,14 @@
           "url": "",
           "time_text": "6天",
           "signal": "red"
+        },
+        {
+          "platform": "instagram",
+          "text": "請問盧秀燕你家炒菜是用92 還95無鉛汽油？",
+          "author": "7dayswilson",
+          "url": "",
+          "time_text": "24分鐘",
+          "signal": "yellow"
         },
         {
           "platform": "instagram",

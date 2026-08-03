@@ -67363,7 +67363,7 @@
     },
     {
       "date": "2026-08-03",
-      "snapshot_at": "2026-08-03T10:59:37.314434+00:00",
+      "snapshot_at": "2026-08-03T11:00:49.488077+00:00",
       "hotspots": [
         {
           "title": "垃圾山",
@@ -67464,22 +67464,6 @@
           ]
         },
         {
-          "title": "嘉義縣地方動態",
-          "city": "嘉義縣",
-          "place": "嘉義縣政府",
-          "level": "green",
-          "news_count": 14,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 14,
-          "sample_titles": [
-            "蔡易餘嘉義縣長競選總部入厝祈福 18鄉鎮組織架構完成",
-            "嘉義縣推動節能減碳 5,366台公務自行車投入",
-            "嘉義縣推動村里自行車節能減碳計畫　5,366台公務自行車全面投入基層服務"
-          ]
-        },
-        {
           "title": "新竹縣地方動態",
           "city": "新竹縣",
           "place": "新竹縣政府",
@@ -67493,6 +67477,22 @@
             "新竹縣借閱證新北市嘛ㄟ通！一證通今正式啟用",
             "新竹縣國民黨軍系整合 國民黨副主席季麟連高喊全力支持徐欣瑩",
             "國民黨新竹縣分裂危機 鄭麗文拆彈"
+          ]
+        },
+        {
+          "title": "嘉義縣地方動態",
+          "city": "嘉義縣",
+          "place": "嘉義縣政府",
+          "level": "green",
+          "news_count": 14,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 14,
+          "sample_titles": [
+            "蔡易餘嘉義縣長競選總部入厝祈福 18鄉鎮組織架構完成",
+            "嘉義縣推動節能減碳 5,366台公務自行車投入",
+            "嘉義縣推動村里自行車節能減碳計畫　5,366台公務自行車全面投入基層服務"
           ]
         },
         {
@@ -67636,11 +67636,11 @@
           "city": "雲林",
           "place": "雲林縣政府",
           "level": "yellow",
-          "news_count": 21,
+          "news_count": 20,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 21,
+          "urgency_score": 20,
           "sample_titles": [
             "搶攻AI產業鏈物流商機 建新台北港物流中心揭牌",
             "張麗善攜手台師大設立高中 負責任為雲林留住人才投資未來",
@@ -67758,22 +67758,6 @@
           ]
         },
         {
-          "title": "基隆地方動態",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "red",
-          "news_count": 26,
-          "comment_count": 0,
-          "negativity_pct": 8,
-          "is_urgent": false,
-          "urgency_score": 32,
-          "sample_titles": [
-            "基隆師「抓下巴、後頸離地」涉虐童　園方稱「經驗不足」請求和解",
-            "基隆慶安宮「漳州媽祖安座紀念三獻典禮」邱佩琳代表謝國樑到場參與",
-            "基隆市再傳「幼兒園虐童案」 謝國樑態度曝光"
-          ]
-        },
-        {
           "title": "苗栗地方動態",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -67787,6 +67771,22 @@
             "全縣國中小學校長會議    鍾縣長期勉校長發揮專長讓每一位孩子都能在苗栗安心學習",
             "115年7月底苗栗縣人口數",
             "苗栗環保局輔導尚順君樂飯店取得「銅級環保標章旅宿」認證 攜手打造苗栗永續綠旅遊"
+          ]
+        },
+        {
+          "title": "基隆地方動態",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "red",
+          "news_count": 26,
+          "comment_count": 0,
+          "negativity_pct": 8,
+          "is_urgent": false,
+          "urgency_score": 32,
+          "sample_titles": [
+            "基隆師「抓下巴、後頸離地」涉虐童　園方稱「經驗不足」請求和解",
+            "基隆慶安宮「漳州媽祖安座紀念三獻典禮」邱佩琳代表謝國樑到場參與",
+            "基隆市再傳「幼兒園虐童案」 謝國樑態度曝光"
           ]
         },
         {
@@ -67939,10 +67939,10 @@
           "place": "台中市清水區",
           "level": "red",
           "news_count": 208,
-          "comment_count": 10,
+          "comment_count": 11,
           "negativity_pct": 3,
           "is_urgent": true,
-          "urgency_score": 249,
+          "urgency_score": 250,
           "sample_titles": [
             "盧秀燕毒油轟中央慘遭迴力鏢！ 綠營轟「毒媽媽」送鏡喊：照清自己",
             "蔣萬安盧秀燕質疑護航台糖經濟部、食藥署駁斥| 地方",
