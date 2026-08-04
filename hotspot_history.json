@@ -68001,7 +68001,7 @@
     },
     {
       "date": "2026-08-04",
-      "snapshot_at": "2026-08-04T02:05:43.026751+00:00",
+      "snapshot_at": "2026-08-04T02:16:00.198912+00:00",
       "hotspots": [
         {
           "title": "廚餘山",
@@ -68174,6 +68174,22 @@
           ]
         },
         {
+          "title": "嘉義縣地方動態",
+          "city": "嘉義縣",
+          "place": "嘉義縣政府",
+          "level": "green",
+          "news_count": 19,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 19,
+          "sample_titles": [
+            "嘉義縣推動村里自行車節能減碳計畫 5,366台公務自行車全面投入基層服務",
+            "氣象署提醒中彰投雲嘉5縣市防大雨 嘉義縣留意豪雨",
+            "2026國家卓越建設獎頒獎 嘉義縣長翁章梁榮獲「國土建設特別貢獻獎」！"
+          ]
+        },
+        {
           "title": "新北弊案爭議",
           "city": "新北",
           "place": "新北市政府",
@@ -68266,31 +68282,15 @@
           ]
         },
         {
-          "title": "嘉義縣地方動態",
-          "city": "嘉義縣",
-          "place": "嘉義縣政府",
-          "level": "yellow",
-          "news_count": 20,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 20,
-          "sample_titles": [
-            "嘉義縣推動村里自行車節能減碳計畫 5,366台公務自行車全面投入基層服務",
-            "氣象署提醒中彰投雲嘉5縣市防大雨 嘉義縣留意豪雨",
-            "2026國家卓越建設獎頒獎 嘉義縣長翁章梁榮獲「國土建設特別貢獻獎」！"
-          ]
-        },
-        {
           "title": "南投地方動態",
           "city": "南投",
           "place": "南投縣政府",
           "level": "yellow",
-          "news_count": 21,
+          "news_count": 20,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 24,
+          "urgency_score": 23,
           "sample_titles": [
             "南投「活死人」已死7年犯竊盜遭活捉！法院撤銷宣告成功「復活」",
             "南投中興新村慢旅行 2天1夜漫步綠意眷村",
@@ -68334,11 +68334,11 @@
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "yellow",
-          "news_count": 43,
+          "news_count": 42,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 43,
+          "urgency_score": 42,
           "sample_titles": [
             "多物種剩1隻無法互動 竹市動物園被糾正",
             "竹市「夏日乾杯計畫」圓滿落幕！ 2天吸引逾6萬人次 高虹安市長：帶動海港觀光、活絡南寮經濟",
@@ -68350,11 +68350,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "yellow",
-          "news_count": 57,
+          "news_count": 56,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 57,
+          "urgency_score": 56,
           "sample_titles": [
             "MOOVO公共自行車進駐花蓮 10月開騎",
             "MOOVO公共自行車進駐花蓮10月開騎- 花蓮縣",
@@ -68429,11 +68429,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 27,
+          "news_count": 26,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 30,
+          "urgency_score": 29,
           "sample_titles": [
             "苗栗攜四縣市攻星國 網紅踩線帶動旅遊訂單",
             "苗栗推偏鄉數位培力 AI結合生態體驗長輩樂學科技",
@@ -68509,11 +68509,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 93,
+          "news_count": 92,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 114,
+          "urgency_score": 113,
           "sample_titles": [
             "盧秀燕炮轟台糖油品部設在台南 黃偉哲：勿把馮京當馬涼",
             "南市研投AI深蹲挑戰助手 將數位科技融入健康促進",
@@ -68525,11 +68525,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 95,
+          "news_count": 94,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 98,
+          "urgency_score": 97,
           "sample_titles": [
             "屏東貴金屬老闆「曖昧10女」被綠帽夫發現 情欲生活曝光",
             "屏東貴金屬老闆命案疑「情仇殺」 照片曝光被綑成木乃伊",
@@ -68557,11 +68557,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 142,
+          "news_count": 141,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 193,
+          "urgency_score": 192,
           "sample_titles": [
             "桃園巨蛋BOT案8/25開標 散場規劃增捷運、公車班次疏運|發展臺灣",
             "桃園盃爆「AI幽靈隊」灌水 市府封殺不良廠商：追究詐欺",
