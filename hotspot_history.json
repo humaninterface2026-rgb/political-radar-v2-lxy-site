@@ -68738,7 +68738,7 @@
     },
     {
       "date": "2026-08-05",
-      "snapshot_at": "2026-08-05T01:39:47.352415+00:00",
+      "snapshot_at": "2026-08-05T01:49:29.263727+00:00",
       "hotspots": [
         {
           "title": "垃圾山",
@@ -68751,20 +68751,6 @@
           "is_urgent": false,
           "urgency_score": 3,
           "sample_titles": []
-        },
-        {
-          "title": "藍營路線爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 1,
-          "sample_titles": [
-            "[Gossiping] Re: [新聞] 熊本強震》鄭麗文、盧秀燕捐款日本惹怒"
-          ]
         },
         {
           "title": "高雄狼師事件",
@@ -68874,11 +68860,11 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "green",
-          "news_count": 12,
+          "news_count": 11,
           "comment_count": 2,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 18,
+          "urgency_score": 17,
           "sample_titles": [
             "中市專案報告不敢寫 審計處揭露中捷藍線待執行預算已破1629億、缺口千億",
             "中捷藍線健走暖身登場 盧秀燕邀市民迎新里程",
@@ -68944,34 +68930,6 @@
           ]
         },
         {
-          "title": "屏東弊案爭議",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "屏東鎢金大亨黑歷史曝光 曾涉多起官司 「詐騙遭判刑」"
-          ]
-        },
-        {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "警高官女淪詐騙／借錢卻成詐團共犯 中市警局長吳敬田愛女遭判刑"
-          ]
-        },
-        {
           "title": "高雄弊案爭議",
           "city": "高雄",
           "place": "高雄市政府",
@@ -69000,7 +68958,21 @@
           ]
         },
         {
-          "title": "屏東詐騙案",
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "警高官女淪詐騙／借錢卻成詐團共犯 中市警局長吳敬田愛女遭判刑"
+          ]
+        },
+        {
+          "title": "屏東弊案爭議",
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "yellow",
@@ -69025,6 +68997,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "糗了？桃園籃球賽遭「AI幽靈隊伍」灌水？于北辰酸：AI市長被AI詐騙｜#台灣最前線"
+          ]
+        },
+        {
+          "title": "屏東詐騙案",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "屏東鎢金大亨黑歷史曝光 曾涉多起官司 「詐騙遭判刑」"
           ]
         },
         {
@@ -69140,11 +69126,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "yellow",
-          "news_count": 72,
+          "news_count": 71,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 75,
+          "urgency_score": 74,
           "sample_titles": [
             "花蓮避難包剩2萬組 挨批浪費公帑",
             "花蓮避難包剩1萬組 9／30前還可領",
@@ -69167,22 +69153,6 @@
           ]
         },
         {
-          "title": "嘉義市地方動態",
-          "city": "嘉義市",
-          "place": "嘉義市政府",
-          "level": "red",
-          "news_count": 14,
-          "comment_count": 0,
-          "negativity_pct": 7,
-          "is_urgent": false,
-          "urgency_score": 17,
-          "sample_titles": [
-            "2026/08/05 07:57 買預售屋有履保就安心？嘉市府提醒民眾5種機制保障大不同",
-            "買預售屋有履保就安心？嘉市府提醒民眾5種機制保障大不同",
-            "嘉義市前瞻停車場建設勇奪國家卓越建設獎3金1優質 打造人本永續城市"
-          ]
-        },
-        {
           "title": "南投地方動態",
           "city": "南投",
           "place": "南投縣政府",
@@ -69196,6 +69166,22 @@
             "南投小半天高架橋辦法會 罕見包公夜審慰靈祈安",
             "凱博觀點／台商「中國+1」的越南投資策略",
             "南投弒母案遭押739天無罪 王忠義提補償「獲賠295萬6千」"
+          ]
+        },
+        {
+          "title": "嘉義市地方動態",
+          "city": "嘉義市",
+          "place": "嘉義市政府",
+          "level": "red",
+          "news_count": 14,
+          "comment_count": 0,
+          "negativity_pct": 7,
+          "is_urgent": false,
+          "urgency_score": 17,
+          "sample_titles": [
+            "2026/08/05 07:57 買預售屋有履保就安心？嘉市府提醒民眾5種機制保障大不同",
+            "買預售屋有履保就安心？嘉市府提醒民眾5種機制保障大不同",
+            "嘉義市前瞻停車場建設勇奪國家卓越建設獎3金1優質 打造人本永續城市"
           ]
         },
         {
@@ -69247,22 +69233,6 @@
           ]
         },
         {
-          "title": "新竹市地方動態",
-          "city": "新竹市",
-          "place": "新竹市政府",
-          "level": "red",
-          "news_count": 41,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 41,
-          "sample_titles": [
-            "竹市農耕牌炊粉 3度驗出甲醛 | 自由電子報",
-            "高齡博覽會8/7登場 竹市衛生局打造互動體驗 學健康、拿好禮",
-            "高齡博覽會8/7登場 竹市衛生局打造互動體驗 學健康、拿好禮 - 生活新聞 - PChome Online 新聞"
-          ]
-        },
-        {
           "title": "苗栗地方動態",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -69276,6 +69246,22 @@
             "【苗栗沙雕作品「撞臉劉德華」爆紅！深邃五官粉絲驚：偶像在通霄】 （圖／翻攝臉書／通霄沙雕藝術節） 劉德華到此一遊～～(#",
             "苗栗沙雕作品「撞臉劉德華」爆紅！深邃五官粉絲驚：偶像在通霄",
             "苗栗議會參訪通霄沙雕 深化國際藝文交流"
+          ]
+        },
+        {
+          "title": "新竹市地方動態",
+          "city": "新竹市",
+          "place": "新竹市政府",
+          "level": "red",
+          "news_count": 41,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 41,
+          "sample_titles": [
+            "竹市農耕牌炊粉 3度驗出甲醛 | 自由電子報",
+            "高齡博覽會8/7登場 竹市衛生局打造互動體驗 學健康、拿好禮",
+            "高齡博覽會8/7登場 竹市衛生局打造互動體驗 學健康、拿好禮 - 生活新聞 - PChome Online 新聞"
           ]
         },
         {
@@ -69337,9 +69323,9 @@
           "is_urgent": false,
           "urgency_score": 131,
           "sample_titles": [
+            "盧秀燕扯「台糖甩鍋台南」糗翻車？王瑞德酸：誰才是真正的門神？｜#台灣最前線",
             "台南人哭了！高CP值名店「提拉米蘇蛋糕店」宣布熄燈 網哀號：不要離開",
-            "中聯福懋各重罰300萬 台南驗出苦茶油有毒",
-            "台南忠義路三段拓寬 拚11月底通車"
+            "中聯福懋各重罰300萬 台南驗出苦茶油有毒"
           ]
         },
         {
@@ -69363,11 +69349,11 @@
           "city": "高雄",
           "place": "高雄市鳳山區",
           "level": "red",
-          "news_count": 139,
+          "news_count": 137,
           "comment_count": 0,
-          "negativity_pct": 4,
+          "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 154,
+          "urgency_score": 149,
           "sample_titles": [
             "AAA第二波名單太狂！邊佑錫、安孝燮確定來台 4大韓劇男神12月炸高雄",
             "老機廠變身親子秘境！高雄熊、香蕉哥哥陪玩 限定水樂園嗨翻暑假",
@@ -69411,11 +69397,11 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "red",
-          "news_count": 171,
+          "news_count": 170,
           "comment_count": 12,
           "negativity_pct": 7,
           "is_urgent": true,
-          "urgency_score": 231,
+          "urgency_score": 230,
           "sample_titles": [
             "1分鐘看政治》毒油案盧秀燕怒轟高官嘴臉噁心 公投一票多案？游盈隆拜託暫緩",
             "1分鐘看政治》毒油案盧秀燕怒轟高官嘴臉噁心公投一票多案？游盈隆拜託暫緩- 政治",
@@ -69427,15 +69413,15 @@
           "city": "台中",
           "place": "台中市清水區",
           "level": "red",
-          "news_count": 280,
+          "news_count": 277,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 328,
+          "urgency_score": 325,
           "sample_titles": [
+            "盧秀燕扯「台糖甩鍋台南」糗翻車？王瑞德酸：誰才是真正的門神？｜#台灣最前線",
             "王義川點破「中聯公文細節」…李正皓驚喊：這不是串通什麼叫串通！酸爆：台中市府展現出 台灣公務體系「從未有的行政效率」！｜",
-            "毒油食安風暴持續，民進黨秘書長徐國勇稱台中市政府7月3日「密會」中聯油脂，國民黨北市議員游淑慧轟「根本是指鹿為馬。」痛批",
-            "震撼！台中海線上週名醫陳世倫驟逝、神外名醫李偉裕今失業"
+            "毒油食安風暴持續，民進黨秘書長徐國勇稱台中市政府7月3日「密會」中聯油脂，國民黨北市議員游淑慧轟「根本是指鹿為馬。」痛批"
           ]
         }
       ]

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "snapshot_at": "2026-08-05T01:39:47.352415+00:00",
+  "snapshot_at": "2026-08-05T01:49:29.263727+00:00",
   "hotspots": [
     {
       "title": "垃圾山",
@@ -23,27 +23,6 @@
           "signal": "red"
         }
       ]
-    },
-    {
-      "title": "藍營路線爭議",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 1,
-      "news_articles": [
-        {
-          "title": "[Gossiping] Re: [新聞] 熊本強震》鄭麗文、盧秀燕捐款日本惹怒",
-          "url": "https://www.ptt.cc/bbs/Gossiping/M.1785807579.A.C1D.html",
-          "time": "2026-08-04 09:39:39",
-          "publisher": null,
-          "severity": null
-        }
-      ],
-      "comments": []
     },
     {
       "title": "高雄狼師事件",
@@ -267,11 +246,11 @@
       "city": "台中",
       "place": "台中市政府",
       "level": "green",
-      "news_count": 12,
+      "news_count": 11,
       "comment_count": 2,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 18,
+      "urgency_score": 17,
       "news_articles": [
         {
           "title": "中市專案報告不敢寫 審計處揭露中捷藍線待執行預算已破1629億、缺口千億",
@@ -348,13 +327,6 @@
           "url": "https://n.yam.com/Article/20260804130080",
           "time": "2026-08-04 12:00:00",
           "publisher": "蕃新聞→台灣好新聞",
-          "severity": null
-        },
-        {
-          "title": "中捷藍線土建工程8月12日開工 市府辦台中港到童綜合醫院健走",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44NmRsTEdwSk1lN2tXV1QyaTZadExQUkdxRmlFZ2JDaGFSeXJuVXpFRFlPZWhLT2NaZ0pGakJvaHUwLWJDNzBFd2FTT1FCaVR50gFWQVVfeXFMUElialNLV2QyTXJReFppVFlHT0wxMm51RjREMmJtbGc2QUVPNi1ncTQtckNZaG1uY29ZYkswVVVsRm5UbHFYcVZvbk5HR2pZc2ZyMkY4LXc?oc=5",
-          "time": "2026-08-04 09:47:11",
-          "publisher": "Google News→UDN",
           "severity": null
         }
       ],
@@ -553,48 +525,6 @@
       "comments": []
     },
     {
-      "title": "屏東弊案爭議",
-      "city": "屏東",
-      "place": "屏東縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "屏東鎢金大亨黑歷史曝光 曾涉多起官司 「詐騙遭判刑」",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UcEhORHY1ZWx1MjBQWktpbF96QksxdlVJZWJxYVU3OFc4LWQwbGZuakx0aVFvLU1GaDlmVTIzOGQtOWx6R2tlTnN4Y3RDNWZGZGo2R05FYzZZNkNpZjVLOS12MEZWMWRCM3lpNDFaZDJ3RlcyemFvVURlMFIxUFU?oc=5",
-          "time": "2026-08-04 13:16:00",
-          "publisher": "Google News→壹電視",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "台中弊案爭議",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "警高官女淪詐騙／借錢卻成詐團共犯 中市警局長吳敬田愛女遭判刑",
-          "url": "https://tw.news.yahoo.com/%E8%AD%A6%E9%AB%98%E5%AE%98%E5%A5%B3%E6%B7%AA%E8%A9%90%E9%A8%99-%E5%80%9F%E9%8C%A2%E5%8D%BB%E6%88%90%E8%A9%90%E5%9C%98%E5%85%B1%E7%8A%AF-%E4%B8%AD%E5%B8%82%E8%AD%A6%E5%B1%80%E9%95%B7%E5%90%B3%E6%95%AC%E7%94%B0%E6%84%9B%E5%A5%B3%E9%81%AD%E5%88%A4%E5%88%91-232859292.html",
-          "time": "2026-08-04 23:28:59",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "高雄弊案爭議",
       "city": "高雄",
       "place": "高雄市政府",
@@ -637,7 +567,28 @@
       "comments": []
     },
     {
-      "title": "屏東詐騙案",
+      "title": "台中弊案爭議",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "警高官女淪詐騙／借錢卻成詐團共犯 中市警局長吳敬田愛女遭判刑",
+          "url": "https://tw.news.yahoo.com/%E8%AD%A6%E9%AB%98%E5%AE%98%E5%A5%B3%E6%B7%AA%E8%A9%90%E9%A8%99-%E5%80%9F%E9%8C%A2%E5%8D%BB%E6%88%90%E8%A9%90%E5%9C%98%E5%85%B1%E7%8A%AF-%E4%B8%AD%E5%B8%82%E8%AD%A6%E5%B1%80%E9%95%B7%E5%90%B3%E6%95%AC%E7%94%B0%E6%84%9B%E5%A5%B3%E9%81%AD%E5%88%A4%E5%88%91-232859292.html",
+          "time": "2026-08-04 23:28:59",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "屏東弊案爭議",
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "yellow",
@@ -673,6 +624,27 @@
           "url": "https://www.youtube.com/watch?v=895pNRmN1Wo",
           "time": "2026-08-04 13:00:30",
           "publisher": null,
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "屏東詐騙案",
+      "city": "屏東",
+      "place": "屏東縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "屏東鎢金大亨黑歷史曝光 曾涉多起官司 「詐騙遭判刑」",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UcEhORHY1ZWx1MjBQWktpbF96QksxdlVJZWJxYVU3OFc4LWQwbGZuakx0aVFvLU1GaDlmVTIzOGQtOWx6R2tlTnN4Y3RDNWZGZGo2R05FYzZZNkNpZjVLOS12MEZWMWRCM3lpNDFaZDJ3RlcyemFvVURlMFIxUFU?oc=5",
+          "time": "2026-08-04 13:16:00",
+          "publisher": "Google News→壹電視",
           "severity": "red"
         }
       ],
@@ -1257,11 +1229,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "yellow",
-      "news_count": 72,
+      "news_count": 71,
       "comment_count": 0,
       "negativity_pct": 1,
       "is_urgent": false,
-      "urgency_score": 75,
+      "urgency_score": 74,
       "news_articles": [
         {
           "title": "花蓮避難包剩2萬組 挨批浪費公帑",
@@ -1759,13 +1731,6 @@
           "time": "2026-08-04 10:06:04",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "2026國際少年運動會跆拳道開打 地主花蓮首日勇奪3金1銀2銅",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNV05YalFPZmN3c1ktanh5Mm5Kb2hoLWNSVFdHN2RHUHBQQVpVOFFrYVVFM1p1bWNRYVdQX3V2SXNlRzY0RFM2U2d1RzNmeDN1WGtMRDhrcVZYRGZFa3BhenBLcWQ2RE5tWkpXSDlWZ0ZsN2Mtd2JWOGpEeThlUnJqRVA0T29FcVlrdEpiYTY5dXpEWkxrSUlGSk5BZ1otelNqc0NPY0ZqVkxRVTBWOVp3TlBaM2hka2F4LWdqWVdQclV2eS1oMEstZG9MNTFCRW9EMElTZ3VxUTVHN2FldVZsNHFpZG5SV0E?oc=5",
-          "time": "2026-08-04 09:41:38",
-          "publisher": "Google News→花蓮最速報",
-          "severity": null
         }
       ],
       "comments": []
@@ -1794,118 +1759,6 @@
           "time": "2026-08-04 13:10:45",
           "publisher": "中央社",
           "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "嘉義市地方動態",
-      "city": "嘉義市",
-      "place": "嘉義市政府",
-      "level": "red",
-      "news_count": 14,
-      "comment_count": 0,
-      "negativity_pct": 7,
-      "is_urgent": false,
-      "urgency_score": 17,
-      "news_articles": [
-        {
-          "title": "2026/08/05 07:57 買預售屋有履保就安心？嘉市府提醒民眾5種機制保障大不同",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5528813",
-          "time": "2026-08-05 08:18:37",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "買預售屋有履保就安心？嘉市府提醒民眾5種機制保障大不同",
-          "url": "https://tw.news.yahoo.com/%E8%B2%B7%E9%A0%90%E5%94%AE%E5%B1%8B%E6%9C%89%E5%B1%A5%E4%BF%9D%E5%B0%B1%E5%AE%89%E5%BF%83-%E5%98%89%E5%B8%82%E5%BA%9C%E6%8F%90%E9%86%92%E6%B0%91%E7%9C%BE5%E7%A8%AE%E6%A9%9F%E5%88%B6%E4%BF%9D%E9%9A%9C%E5%A4%A7%E4%B8%8D%E5%90%8C-235708691.html",
-          "time": "2026-08-05 07:57:08",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉義市前瞻停車場建設勇奪國家卓越建設獎3金1優質 打造人本永續城市",
-          "url": "https://www.thehubnews.net/archives/651262",
-          "time": "2026-08-04 21:10:21",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "嘉市前瞻停車場建設再獲肯定",
-          "url": "https://taiwanreports.com/archives/1003930",
-          "time": "2026-08-04 18:57:27",
-          "publisher": "臺灣導報",
-          "severity": null
-        },
-        {
-          "title": "台南問題苦茶油源頭有嘉義市 地檢署火速分案 突擊查扣封存",
-          "url": "https://www.chinatimes.com/realtimenews/20260804004090-260402",
-          "time": "2026-08-04 18:48:43",
-          "publisher": "中時新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "嘉義市追查問題苦茶油流向及下架回收情形",
-          "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E5%B8%82%E8%BF%BD%E6%9F%A5%E5%95%8F%E9%A1%8C%E8%8B%A6%E8%8C%B6%E6%B2%B9%E6%B5%81%E5%90%91%E5%8F%8A%E4%B8%8B%E6%9E%B6%E5%9B%9E%E6%94%B6%E6%83%85%E5%BD%A2-083000207.html",
-          "time": "2026-08-04 16:30:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "東山苦茶油購自嘉義市源發製油廠 衛生局稽查封存20公斤庫存",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5528281",
-          "time": "2026-08-04 16:25:54",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "嘉義市源發油廠苦茶油苯駢芘超標 問題產品下架封存",
-          "url": "https://www.cna.com.tw/news/aloc/202608040177.aspx",
-          "time": "2026-08-04 15:58:20",
-          "publisher": "中央社",
-          "severity": "red"
-        },
-        {
-          "title": "嘉市公共建設再傳捷報 國家卓越建設獎摘3金1優質",
-          "url": "https://focus.586.com.tw/2026/08/04/p398271/",
-          "time": "2026-08-04 15:45:59",
-          "publisher": "焦點時報",
-          "severity": null
-        },
-        {
-          "title": "東山苦茶油超標燒進嘉市 衛生局追流向、下游全面通知停售",
-          "url": "https://more-news.tw/684637/",
-          "time": "2026-08-04 15:09:55",
-          "publisher": "墨新聞",
-          "severity": "red"
-        },
-        {
-          "title": "嘉義市追查臺南市衛生局通知問題苦茶油流向及下架回收情形",
-          "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E5%B8%82%E8%BF%BD%E6%9F%A5%E8%87%BA%E5%8D%97%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80%E9%80%9A%E7%9F%A5%E5%95%8F%E9%A1%8C%E8%8B%A6%E8%8C%B6%E6%B2%B9%E6%B5%81%E5%90%91%E5%8F%8A%E4%B8%8B%E6%9E%B6%E5%9B%9E%E6%94%B6%E6%83%85%E5%BD%A2-064216003.html",
-          "time": "2026-08-04 14:42:16",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "嘉市追查臺南市衛生局通知問題苦茶油流向及下架回收情形",
-          "url": "https://n.yam.com/Article/20260804247115",
-          "time": "2026-08-04 12:00:00",
-          "publisher": "蕃新聞→三星傳媒",
-          "severity": "red"
-        },
-        {
-          "title": "男子疑似遭假交友詐騙 嘉市警民合作逮獲二名嫌犯",
-          "url": "https://tw.news.yahoo.com/%E7%94%B7%E5%AD%90%E7%96%91%E4%BC%BC%E9%81%AD%E5%81%87%E4%BA%A4%E5%8F%8B%E8%A9%90%E9%A8%99-%E5%98%89%E5%B8%82%E8%AD%A6%E6%B0%91%E5%90%88%E4%BD%9C%E9%80%AE%E7%8D%B2%E4%BA%8C%E5%90%8D%E5%AB%8C%E7%8A%AF-113615774.html",
-          "time": "2026-08-04 11:36:15",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "嘉義市屋頂光電加碼補助上路 最高可領32萬",
-          "url": "https://more-news.tw/684288/",
-          "time": "2026-08-04 10:28:03",
-          "publisher": "墨新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -2017,6 +1870,118 @@
           "url": "https://n.yam.com/Article/20260804923607",
           "time": "2026-08-04 12:00:00",
           "publisher": "蕃新聞→互傳媒",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "嘉義市地方動態",
+      "city": "嘉義市",
+      "place": "嘉義市政府",
+      "level": "red",
+      "news_count": 14,
+      "comment_count": 0,
+      "negativity_pct": 7,
+      "is_urgent": false,
+      "urgency_score": 17,
+      "news_articles": [
+        {
+          "title": "2026/08/05 07:57 買預售屋有履保就安心？嘉市府提醒民眾5種機制保障大不同",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5528813",
+          "time": "2026-08-05 08:18:37",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "買預售屋有履保就安心？嘉市府提醒民眾5種機制保障大不同",
+          "url": "https://tw.news.yahoo.com/%E8%B2%B7%E9%A0%90%E5%94%AE%E5%B1%8B%E6%9C%89%E5%B1%A5%E4%BF%9D%E5%B0%B1%E5%AE%89%E5%BF%83-%E5%98%89%E5%B8%82%E5%BA%9C%E6%8F%90%E9%86%92%E6%B0%91%E7%9C%BE5%E7%A8%AE%E6%A9%9F%E5%88%B6%E4%BF%9D%E9%9A%9C%E5%A4%A7%E4%B8%8D%E5%90%8C-235708691.html",
+          "time": "2026-08-05 07:57:08",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉義市前瞻停車場建設勇奪國家卓越建設獎3金1優質 打造人本永續城市",
+          "url": "https://www.thehubnews.net/archives/651262",
+          "time": "2026-08-04 21:10:21",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "嘉市前瞻停車場建設再獲肯定",
+          "url": "https://taiwanreports.com/archives/1003930",
+          "time": "2026-08-04 18:57:27",
+          "publisher": "臺灣導報",
+          "severity": null
+        },
+        {
+          "title": "台南問題苦茶油源頭有嘉義市 地檢署火速分案 突擊查扣封存",
+          "url": "https://www.chinatimes.com/realtimenews/20260804004090-260402",
+          "time": "2026-08-04 18:48:43",
+          "publisher": "中時新聞網",
+          "severity": "red"
+        },
+        {
+          "title": "嘉義市追查問題苦茶油流向及下架回收情形",
+          "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E5%B8%82%E8%BF%BD%E6%9F%A5%E5%95%8F%E9%A1%8C%E8%8B%A6%E8%8C%B6%E6%B2%B9%E6%B5%81%E5%90%91%E5%8F%8A%E4%B8%8B%E6%9E%B6%E5%9B%9E%E6%94%B6%E6%83%85%E5%BD%A2-083000207.html",
+          "time": "2026-08-04 16:30:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "東山苦茶油購自嘉義市源發製油廠 衛生局稽查封存20公斤庫存",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5528281",
+          "time": "2026-08-04 16:25:54",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "嘉義市源發油廠苦茶油苯駢芘超標 問題產品下架封存",
+          "url": "https://www.cna.com.tw/news/aloc/202608040177.aspx",
+          "time": "2026-08-04 15:58:20",
+          "publisher": "中央社",
+          "severity": "red"
+        },
+        {
+          "title": "嘉市公共建設再傳捷報 國家卓越建設獎摘3金1優質",
+          "url": "https://focus.586.com.tw/2026/08/04/p398271/",
+          "time": "2026-08-04 15:45:59",
+          "publisher": "焦點時報",
+          "severity": null
+        },
+        {
+          "title": "東山苦茶油超標燒進嘉市 衛生局追流向、下游全面通知停售",
+          "url": "https://more-news.tw/684637/",
+          "time": "2026-08-04 15:09:55",
+          "publisher": "墨新聞",
+          "severity": "red"
+        },
+        {
+          "title": "嘉義市追查臺南市衛生局通知問題苦茶油流向及下架回收情形",
+          "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E5%B8%82%E8%BF%BD%E6%9F%A5%E8%87%BA%E5%8D%97%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80%E9%80%9A%E7%9F%A5%E5%95%8F%E9%A1%8C%E8%8B%A6%E8%8C%B6%E6%B2%B9%E6%B5%81%E5%90%91%E5%8F%8A%E4%B8%8B%E6%9E%B6%E5%9B%9E%E6%94%B6%E6%83%85%E5%BD%A2-064216003.html",
+          "time": "2026-08-04 14:42:16",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "嘉市追查臺南市衛生局通知問題苦茶油流向及下架回收情形",
+          "url": "https://n.yam.com/Article/20260804247115",
+          "time": "2026-08-04 12:00:00",
+          "publisher": "蕃新聞→三星傳媒",
+          "severity": "red"
+        },
+        {
+          "title": "男子疑似遭假交友詐騙 嘉市警民合作逮獲二名嫌犯",
+          "url": "https://tw.news.yahoo.com/%E7%94%B7%E5%AD%90%E7%96%91%E4%BC%BC%E9%81%AD%E5%81%87%E4%BA%A4%E5%8F%8B%E8%A9%90%E9%A8%99-%E5%98%89%E5%B8%82%E8%AD%A6%E6%B0%91%E5%90%88%E4%BD%9C%E9%80%AE%E7%8D%B2%E4%BA%8C%E5%90%8D%E5%AB%8C%E7%8A%AF-113615774.html",
+          "time": "2026-08-04 11:36:15",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "嘉義市屋頂光電加碼補助上路 最高可領32萬",
+          "url": "https://more-news.tw/684288/",
+          "time": "2026-08-04 10:28:03",
+          "publisher": "墨新聞",
           "severity": null
         }
       ],
@@ -2758,307 +2723,6 @@
       "comments": []
     },
     {
-      "title": "新竹市地方動態",
-      "city": "新竹市",
-      "place": "新竹市政府",
-      "level": "red",
-      "news_count": 41,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 41,
-      "news_articles": [
-        {
-          "title": "竹市農耕牌炊粉 3度驗出甲醛 | 自由電子報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JMHAyVlZJZ3l4WWFCSDJHVC1uNXZmTXJXbm13anhZTWxyaldKdkRMa3BTUUZmaUktWTJCSmR6QXNRUU9zS2IwLXBncm5hNUwxcHJqUU9R?oc=5",
-          "time": "2026-08-05 07:37:30",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "red"
-        },
-        {
-          "title": "高齡博覽會8/7登場 竹市衛生局打造互動體驗 學健康、拿好禮",
-          "url": "https://cnews.com.tw/%e9%ab%98%e9%bd%a1%e5%8d%9a%e8%a6%bd%e6%9c%838-7%e7%99%bb%e5%a0%b4%e3%80%80%e7%ab%b9%e5%b8%82%e8%a1%9b%e7%94%9f%e5%b1%80%e6%89%93%e9%80%a0%e4%ba%92%e5%8b%95%e9%ab%94%e9%a9%97-%e5%ad%b8%e5%81%a5/",
-          "time": "2026-08-05 07:00:02",
-          "publisher": "匯流新聞網",
-          "severity": null
-        },
-        {
-          "title": "高齡博覽會8/7登場 竹市衛生局打造互動體驗 學健康、拿好禮 - 生活新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW5DdmN5Ul9EUjRvcXFIdHhzUGlRUmppaHR3aE5HaDhtQTEzNDZMY2pheHVWamU3REsteVVwdkRKS2dQZExtc1hhMzVhaVg0YUZWZUVORExWUE5OSjdmTklXN0kzWEtDZ2E1TEZkY1huTTdBeEpQUkkyc3ZwZ0d1OHZFZV9YQ2M?oc=5",
-          "time": "2026-08-05 07:00:02",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "農耕牌炊粉複驗4品項仍含甲醛 竹市府重罰明好企業384萬元",
-          "url": "https://tw.news.yahoo.com/%E8%BE%B2%E8%80%95%E7%89%8C%E7%82%8A%E7%B2%89%E8%A4%87%E9%A9%974%E5%93%81%E9%A0%85%E4%BB%8D%E5%90%AB%E7%94%B2%E9%86%9B-%E7%AB%B9%E5%B8%82%E5%BA%9C%E9%87%8D%E7%BD%B0%E6%98%8E%E5%A5%BD%E4%BC%81%E6%A5%AD384%E8%90%AC%E5%85%83-220128748.html",
-          "time": "2026-08-05 06:01:28",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "農耕牌4款炊粉複驗仍驗出甲醛 新竹市府重罰384萬元",
-          "url": "https://tw.news.yahoo.com/%E8%BE%B2%E8%80%95%E7%89%8C4%E6%AC%BE%E7%82%8A%E7%B2%89%E8%A4%87%E9%A9%97%E4%BB%8D%E9%A9%97%E5%87%BA%E7%94%B2%E9%86%9B-%E6%96%B0%E7%AB%B9%E5%B8%82%E5%BA%9C%E9%87%8D%E7%BD%B0384%E8%90%AC%E5%85%83-213734879.html",
-          "time": "2026-08-05 05:37:34",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "竹市西大路地下道動線3年改2次 議員批越改越糟",
-          "url": "https://news.ltn.com.tw/news/HsinchuCity/paper/1765429",
-          "time": "2026-08-05 05:30:00",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "竹市東區發布高溫黃色燈號 市府啟動跨局處熱應變措施",
-          "url": "https://n.yam.com/Article/20260805816413",
-          "time": "2026-08-05 03:43:17",
-          "publisher": "蕃新聞→今傳媒",
-          "severity": null
-        },
-        {
-          "title": "新竹市逮獲移工非法運送狗肉 當場起出＂半隻狗肉塊＂",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55THY0WWhIYnhyQVZyUUZORzNKSDR0MzVuYjI2aThsVUNyaWU3QXRTM3hYS0Y2M1NtNHVTQmVwSTlaVTlYRloxUFFpbWRVeU50c05vSDZvSkRVZnp5eVV1Yw?oc=5",
-          "time": "2026-08-04 23:13:10",
-          "publisher": "Google News→民視新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "農耕牌炊粉第4度檢出甲醛 楊玲宜：新竹市衛生局長下台 | 自由電子報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QYWNyRjdaVWY3NXFfdmo0N1JWaENUYVVqZTVNVTlzajA4RFJ1M2J5ZVFJWXFZaV9pRG8xeHg5Zy1QS21zMWJYaFFsM0taZWlSNkhrWUdR?oc=5",
-          "time": "2026-08-04 22:36:55",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "red"
-        },
-        {
-          "title": "農耕牌炊粉第4度檢出甲醛 楊玲宜：新竹市衛生局長下台",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5528648",
-          "time": "2026-08-04 21:59:58",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "農耕牌炊粉第4度檢出甲醛楊玲宜：新竹市衛生局長下台- 政治",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oZVRRbm44WjR4WVRDaWxVVFY3TEJra3pxbnFsbGZVcDZKSU1jQ2hfa2M4dHpuRjNfdF9UR1FzelFXMTdoaGhJR0R6YjRMNUU5UzZYVFpZQlc1cXZ4OFVBR01YVnA1Q3dqS3c?oc=5",
-          "time": "2026-08-04 21:59:58",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "「政務官用成果說話！」施淑婷高情商挺過政治炮火 全力爭取竹市議員席次",
-          "url": "https://tw.news.yahoo.com/%E6%94%BF%E5%8B%99%E5%AE%98%E7%94%A8%E6%88%90%E6%9E%9C%E8%AA%AA%E8%A9%B1-%E6%96%BD%E6%B7%91%E5%A9%B7%E9%AB%98%E6%83%85%E5%95%86%E6%8C%BA%E9%81%8E%E6%94%BF%E6%B2%BB%E7%82%AE%E7%81%AB-%E5%85%A8%E5%8A%9B%E7%88%AD%E5%8F%96%E7%AB%B9%E5%B8%82%E8%AD%B0%E5%93%A1%E5%B8%AD%E6%AC%A1-135700028.html",
-          "time": "2026-08-04 21:57:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "「農耕牌」炊粉又驗出甲醛！竹市重罰明好企業384萬 全面下架停售",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hbmhoYklzTUI1cEM4bWVZV2ppMGRtM3psd1JCUjZCTWE5QzR5Nm5WTzZXLU5MZUFFM0ZSRUZmdFBFNjh4bkc2NWhfaU9FX1BJMTZEeG9rbFJOcVJjaEHSAUtBVV95cUxPdzVhNThHc0hlb19DMFlqNHVXQkYxdDJUa1BjWGJoOVpVcFdHMHNfakFaSHVCREFLWmRqVUFUSjVmU1FuNEF0bzVBV28?oc=5",
-          "time": "2026-08-04 21:45:00",
-          "publisher": "ETtoday",
-          "severity": "red"
-        },
-        {
-          "title": "帶動海港觀光、活絡南寮經濟 竹市「夏日乾杯計畫」2天吸引逾6萬人次 | 勁報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02eUJXX21iVXpYSkloUmNZNUNzNXMxaGRURUhDTW9DUGxPV0NqOVIzc3pPVUYwYUVtbTc3ckpnWi12RU5lNFdlbUg3ZDh4OC1JUlRSY2x3?oc=5",
-          "time": "2026-08-04 21:36:42",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "複驗還是過不了！明好企業「甲醛炊粉」仍有4品項不合格 新竹市府重罰384萬",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qT2JTUG9kVU12QzNsNzd2YW51bXRKaDRWcHR5Y1JNbkhLZUVzQm9BQXlxNEJjRkFYbVpxUmVDXy1yX3lzVnVJczJXenRxM24ta1E?oc=5",
-          "time": "2026-08-04 21:33:00",
-          "publisher": "Google News→鏡報",
-          "severity": "red"
-        },
-        {
-          "title": "新竹市今年新增21處無人回收站！",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9BWWw4TzZHcjNZRWhiOG1YLXNHVlZZWFVtU1RkYkVjX3BkQlB1bEE2eW9zblFaRHBjdWRpM2xzVWxjaTBjWi00?oc=5",
-          "time": "2026-08-04 21:15:56",
-          "publisher": "Google News→台灣新聞雲",
-          "severity": null
-        },
-        {
-          "title": "竹市明好米粉複驗再驗出甲醛！ 市府重罰384萬移送法辦",
-          "url": "https://news.nextapple.com/life/20260804/8242F56C7CD5306DE55487FBC5EAE9CC",
-          "time": "2026-08-04 21:11:19",
-          "publisher": "壹蘋新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "為新竹海線觀光注入新動能 竹市「夏日乾杯計畫」圓滿謝幕帶動海港觀光",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYWVrX2ZiWXlZR3ZrOXNRZ08wNGg1SHRSNU9vWUc2eTRDZElIdkd0VWhtZWxsRUJmUmg2VERJTS1mN0ZUQkZveXZ3S0dJSG5HWGM5MU5zcjBGeWt5SWxGbzhURExYRUNneWt1X3VDbk5fYUNOM2RhdEptN0dsNzRtYV9EUkMwWklpajBOWQ?oc=5",
-          "time": "2026-08-04 21:07:56",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "農耕牌炊粉複驗仍含甲醛竹市府重罰明好企業384萬元- 新竹市",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UYmVzZkpfcEh2UEl0NktJMjRfTVBmLUs5UEJuU2dhNmhzc3V4SjB1OER3YTlLX1hiWEhsTjdCZkZlR0N1QXN1NW9yZ2tJYTdtcU1rWmFfTklOcTQybjFOTlZ0VGI3OUt6dXVIbThB?oc=5",
-          "time": "2026-08-04 21:04:09",
-          "publisher": "Google News→news.ltn.com.tw",
-          "severity": "red"
-        },
-        {
-          "title": "農耕牌炊粉複驗仍含甲醛 竹市府重罰明好企業384萬元",
-          "url": "https://news.ltn.com.tw/news/HsinchuCity/breakingnews/5528635",
-          "time": "2026-08-04 21:04:09",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "農耕牌炊粉複驗仍含甲醛竹市府重罰明好企業384萬元- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDQXpkX3V4Y0lIbjN6NFVOR0lJUnJsRW9NOXBYazNMZjNNNm52R0RJbFBXZlVlX3VtN3RUR0pBY0pkN1V1U0VtejU3SjVSUVJ1SE5qejJ4NXpKbmdqekhvdThNM0o?oc=5",
-          "time": "2026-08-04 21:04:09",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "2天吸引逾6萬人次 竹市「夏日乾杯計畫」圓滿謝幕活絡南寮觀光經濟",
-          "url": "https://focus.586.com.tw/2026/08/04/p398337/",
-          "time": "2026-08-04 20:59:21",
-          "publisher": "焦點時報",
-          "severity": null
-        },
-        {
-          "title": "新竹市明好企業部分產品複驗仍含甲醛 依法重罰384萬元",
-          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=e7a3329a-4098-4b26-adc9-6b7314e8acf1",
-          "time": "2026-08-04 20:48:38",
-          "publisher": "新竹市政府",
-          "severity": "red"
-        },
-        {
-          "title": "鋁罐、寶特瓶、牛奶瓶都能收 新竹市47處智慧回收站一次看",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlbmVZbE11dFZyTHU1aEktb3F2ek80Z0w3aEZxUDNrRE5KYXduLXVyTXplYWNFaEhMSVNsY3NGU0ptUEFkSXAzUmEyMUtwNXcy?oc=5",
-          "time": "2026-08-04 19:01:54",
-          "publisher": "Google News→客新聞 HakkaNews",
-          "severity": null
-        },
-        {
-          "title": "竹市本週市務會議聚焦智慧交通與暑期活動　高虹安市長：科技賦能提升公共服務 打造智慧宜居城市",
-          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=31068988-b3ef-4375-8ac8-c3e79d147b58",
-          "time": "2026-08-04 18:49:26",
-          "publisher": "新竹市政府",
-          "severity": null
-        },
-        {
-          "title": "展現世代共融溫暖力 竹市府推動跨世代共學打造幸福社區",
-          "url": "https://news.nextapple.com/politics/20260804/12D5D8417E92C199A29237B8FCFF797C",
-          "time": "2026-08-04 18:40:00",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "竹市府推動跨世代共學打造幸福社區 高虹安市長：展現世代共融溫暖力",
-          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=9c84405a-d222-44c0-8518-193bed829be3",
-          "time": "2026-08-04 15:02:22",
-          "publisher": "新竹市政府",
-          "severity": null
-        },
-        {
-          "title": "行動不便老翁外出體力不支返家受阻 竹市警二分局暖心護送平安返家",
-          "url": "https://focus.586.com.tw/2026/08/04/p398278/",
-          "time": "2026-08-04 14:58:20",
-          "publisher": "焦點時報",
-          "severity": null
-        },
-        {
-          "title": "竹市府攜手清大簽署MOU 邁向城市共好",
-          "url": "https://www.thehubnews.net/archives/651058",
-          "time": "2026-08-04 14:28:45",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "父愛撐起幸福家園! 竹市表揚162位模範父親",
-          "url": "https://www.thehubnews.net/archives/651053",
-          "time": "2026-08-04 14:23:10",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "快樂暑假安全不休假 竹市展開青春專案",
-          "url": "https://www.thehubnews.net/archives/650724",
-          "time": "2026-08-04 14:18:02",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "竹市東區發布高溫黃色燈號！高虹安市長啟動跨局處熱應變措施 守護市民健康",
-          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=3f2a4a6a-3c83-4809-82b9-cb37b99d612f",
-          "time": "2026-08-04 13:22:05",
-          "publisher": "新竹市政府",
-          "severity": null
-        },
-        {
-          "title": "首屆竹市文化風鼎獎 張德南、蕭在淦終身奉獻獎 劉江濱、吳慶杰獲卓越貢獻獎",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XTVFOOWtZbkxDZGFNenk2VTdQWmR0OWZsdG8zem9CbGR2cURORnRsZ1lGcE9keGNSTEZwSTRDa1BtOUVQb3UwTXlyeXRsd3llN2locnZEUll0RGp5MHJIaA?oc=5",
-          "time": "2026-08-04 12:23:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "竹市東區發布高溫黃色燈號 市府啟動跨局處熱應變措施",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OdV9WSzRCT0pLN2R5Snh6S1RPZnhLLVZHc3FzMzA2a2dRUXU4OVRhT3pjRlFEelN3UHJMNGJrRnFrUHFWTU8zelBJSG82MGxaeVE?oc=5",
-          "time": "2026-08-04 12:16:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "竹市西大路地下道交通政策高虹安市府3年改2次 議員批越改越糟整個塞爆 | 自由電子報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtNHRzY3VfVjk4aEp1TWlPa244a1lmeGFsS1RDQVlHQmRxcUZLZVQ0RU5OeUJ5OXNSLWVnOU5VOC1qYmRQbXp2dmRFYmh3QkFhTGlZQUlB?oc=5",
-          "time": "2026-08-04 12:09:01",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "炎熱高溫 竹市府發布東區高溫黃色燈號並啟動跨局處熱應變措施",
-          "url": "https://n.yam.com/Article/20260804270122",
-          "time": "2026-08-04 12:00:00",
-          "publisher": "蕃新聞→勁報",
-          "severity": null
-        },
-        {
-          "title": "竹市西大路地下道交通政策高虹安市府3年改2次 議員批越改越糟整個塞爆",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5527832",
-          "time": "2026-08-04 11:51:12",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "竹市西大路地下道交通政策高虹安市府3年改2次議員批越改越糟整個塞爆- 政治",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84MDFIbEstOE5DM0poalFUb1FYNUN0X2pDWUVGeEd0cDRQVl9Ta0FvNm1JcnNqcU0xWi1zMGRpRTVJMFVhMjJ2WllCeXdmdXlid3NPaE9OWmdCSDBfcVg4N0Nva3RLSk1DalE?oc=5",
-          "time": "2026-08-04 11:51:12",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "新竹市文化風鼎獎得獎名單出爐 高虹安：向文化深耕者致敬 樹立城市新典範",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5laG0tZkV4ZmFoX0h4YjNoV09ZajJYZ3dLWTEwTnhMcnJlR3VUYXJBWEZ1d0ZfcThsNW85eFhuX3Vlb25mem5lQVdZblh3QjFlMWc?oc=5",
-          "time": "2026-08-04 10:47:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "首屆「新竹市文化風鼎獎」得獎名單出爐！高虹安市長：向文化深耕者致敬  樹立城市新典範",
-          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=de264754-2448-43ad-a4e7-41e1d648d03e",
-          "time": "2026-08-04 10:17:31",
-          "publisher": "新竹市政府",
-          "severity": null
-        },
-        {
-          "title": "竹市今年新增21處無人回收站！高虹安市長：打造便利永續共享生活圈",
-          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=fe899b78-895f-4835-b608-4d0481bbd451",
-          "time": "2026-08-04 10:17:31",
-          "publisher": "新竹市政府",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "苗栗地方動態",
       "city": "苗栗",
       "place": "苗栗縣政府",
@@ -3355,6 +3019,307 @@
           "time": "2026-08-04 10:57:00",
           "publisher": "Google News→蕃新聞",
           "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新竹市地方動態",
+      "city": "新竹市",
+      "place": "新竹市政府",
+      "level": "red",
+      "news_count": 41,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 41,
+      "news_articles": [
+        {
+          "title": "竹市農耕牌炊粉 3度驗出甲醛 | 自由電子報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JMHAyVlZJZ3l4WWFCSDJHVC1uNXZmTXJXbm13anhZTWxyaldKdkRMa3BTUUZmaUktWTJCSmR6QXNRUU9zS2IwLXBncm5hNUwxcHJqUU9R?oc=5",
+          "time": "2026-08-05 07:37:30",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "red"
+        },
+        {
+          "title": "高齡博覽會8/7登場 竹市衛生局打造互動體驗 學健康、拿好禮",
+          "url": "https://cnews.com.tw/%e9%ab%98%e9%bd%a1%e5%8d%9a%e8%a6%bd%e6%9c%838-7%e7%99%bb%e5%a0%b4%e3%80%80%e7%ab%b9%e5%b8%82%e8%a1%9b%e7%94%9f%e5%b1%80%e6%89%93%e9%80%a0%e4%ba%92%e5%8b%95%e9%ab%94%e9%a9%97-%e5%ad%b8%e5%81%a5/",
+          "time": "2026-08-05 07:00:02",
+          "publisher": "匯流新聞網",
+          "severity": null
+        },
+        {
+          "title": "高齡博覽會8/7登場 竹市衛生局打造互動體驗 學健康、拿好禮 - 生活新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW5DdmN5Ul9EUjRvcXFIdHhzUGlRUmppaHR3aE5HaDhtQTEzNDZMY2pheHVWamU3REsteVVwdkRKS2dQZExtc1hhMzVhaVg0YUZWZUVORExWUE5OSjdmTklXN0kzWEtDZ2E1TEZkY1huTTdBeEpQUkkyc3ZwZ0d1OHZFZV9YQ2M?oc=5",
+          "time": "2026-08-05 07:00:02",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "農耕牌炊粉複驗4品項仍含甲醛 竹市府重罰明好企業384萬元",
+          "url": "https://tw.news.yahoo.com/%E8%BE%B2%E8%80%95%E7%89%8C%E7%82%8A%E7%B2%89%E8%A4%87%E9%A9%974%E5%93%81%E9%A0%85%E4%BB%8D%E5%90%AB%E7%94%B2%E9%86%9B-%E7%AB%B9%E5%B8%82%E5%BA%9C%E9%87%8D%E7%BD%B0%E6%98%8E%E5%A5%BD%E4%BC%81%E6%A5%AD384%E8%90%AC%E5%85%83-220128748.html",
+          "time": "2026-08-05 06:01:28",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "農耕牌4款炊粉複驗仍驗出甲醛 新竹市府重罰384萬元",
+          "url": "https://tw.news.yahoo.com/%E8%BE%B2%E8%80%95%E7%89%8C4%E6%AC%BE%E7%82%8A%E7%B2%89%E8%A4%87%E9%A9%97%E4%BB%8D%E9%A9%97%E5%87%BA%E7%94%B2%E9%86%9B-%E6%96%B0%E7%AB%B9%E5%B8%82%E5%BA%9C%E9%87%8D%E7%BD%B0384%E8%90%AC%E5%85%83-213734879.html",
+          "time": "2026-08-05 05:37:34",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "竹市西大路地下道動線3年改2次 議員批越改越糟",
+          "url": "https://news.ltn.com.tw/news/HsinchuCity/paper/1765429",
+          "time": "2026-08-05 05:30:00",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "竹市東區發布高溫黃色燈號 市府啟動跨局處熱應變措施",
+          "url": "https://n.yam.com/Article/20260805816413",
+          "time": "2026-08-05 03:43:17",
+          "publisher": "蕃新聞→今傳媒",
+          "severity": null
+        },
+        {
+          "title": "新竹市逮獲移工非法運送狗肉 當場起出＂半隻狗肉塊＂",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55THY0WWhIYnhyQVZyUUZORzNKSDR0MzVuYjI2aThsVUNyaWU3QXRTM3hYS0Y2M1NtNHVTQmVwSTlaVTlYRloxUFFpbWRVeU50c05vSDZvSkRVZnp5eVV1Yw?oc=5",
+          "time": "2026-08-04 23:13:10",
+          "publisher": "Google News→民視新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "農耕牌炊粉第4度檢出甲醛 楊玲宜：新竹市衛生局長下台 | 自由電子報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QYWNyRjdaVWY3NXFfdmo0N1JWaENUYVVqZTVNVTlzajA4RFJ1M2J5ZVFJWXFZaV9pRG8xeHg5Zy1QS21zMWJYaFFsM0taZWlSNkhrWUdR?oc=5",
+          "time": "2026-08-04 22:36:55",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "red"
+        },
+        {
+          "title": "農耕牌炊粉第4度檢出甲醛 楊玲宜：新竹市衛生局長下台",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5528648",
+          "time": "2026-08-04 21:59:58",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "農耕牌炊粉第4度檢出甲醛楊玲宜：新竹市衛生局長下台- 政治",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oZVRRbm44WjR4WVRDaWxVVFY3TEJra3pxbnFsbGZVcDZKSU1jQ2hfa2M4dHpuRjNfdF9UR1FzelFXMTdoaGhJR0R6YjRMNUU5UzZYVFpZQlc1cXZ4OFVBR01YVnA1Q3dqS3c?oc=5",
+          "time": "2026-08-04 21:59:58",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "「政務官用成果說話！」施淑婷高情商挺過政治炮火 全力爭取竹市議員席次",
+          "url": "https://tw.news.yahoo.com/%E6%94%BF%E5%8B%99%E5%AE%98%E7%94%A8%E6%88%90%E6%9E%9C%E8%AA%AA%E8%A9%B1-%E6%96%BD%E6%B7%91%E5%A9%B7%E9%AB%98%E6%83%85%E5%95%86%E6%8C%BA%E9%81%8E%E6%94%BF%E6%B2%BB%E7%82%AE%E7%81%AB-%E5%85%A8%E5%8A%9B%E7%88%AD%E5%8F%96%E7%AB%B9%E5%B8%82%E8%AD%B0%E5%93%A1%E5%B8%AD%E6%AC%A1-135700028.html",
+          "time": "2026-08-04 21:57:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "「農耕牌」炊粉又驗出甲醛！竹市重罰明好企業384萬 全面下架停售",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hbmhoYklzTUI1cEM4bWVZV2ppMGRtM3psd1JCUjZCTWE5QzR5Nm5WTzZXLU5MZUFFM0ZSRUZmdFBFNjh4bkc2NWhfaU9FX1BJMTZEeG9rbFJOcVJjaEHSAUtBVV95cUxPdzVhNThHc0hlb19DMFlqNHVXQkYxdDJUa1BjWGJoOVpVcFdHMHNfakFaSHVCREFLWmRqVUFUSjVmU1FuNEF0bzVBV28?oc=5",
+          "time": "2026-08-04 21:45:00",
+          "publisher": "ETtoday",
+          "severity": "red"
+        },
+        {
+          "title": "帶動海港觀光、活絡南寮經濟 竹市「夏日乾杯計畫」2天吸引逾6萬人次 | 勁報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02eUJXX21iVXpYSkloUmNZNUNzNXMxaGRURUhDTW9DUGxPV0NqOVIzc3pPVUYwYUVtbTc3ckpnWi12RU5lNFdlbUg3ZDh4OC1JUlRSY2x3?oc=5",
+          "time": "2026-08-04 21:36:42",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "複驗還是過不了！明好企業「甲醛炊粉」仍有4品項不合格 新竹市府重罰384萬",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qT2JTUG9kVU12QzNsNzd2YW51bXRKaDRWcHR5Y1JNbkhLZUVzQm9BQXlxNEJjRkFYbVpxUmVDXy1yX3lzVnVJczJXenRxM24ta1E?oc=5",
+          "time": "2026-08-04 21:33:00",
+          "publisher": "Google News→鏡報",
+          "severity": "red"
+        },
+        {
+          "title": "新竹市今年新增21處無人回收站！",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9BWWw4TzZHcjNZRWhiOG1YLXNHVlZZWFVtU1RkYkVjX3BkQlB1bEE2eW9zblFaRHBjdWRpM2xzVWxjaTBjWi00?oc=5",
+          "time": "2026-08-04 21:15:56",
+          "publisher": "Google News→台灣新聞雲",
+          "severity": null
+        },
+        {
+          "title": "竹市明好米粉複驗再驗出甲醛！ 市府重罰384萬移送法辦",
+          "url": "https://news.nextapple.com/life/20260804/8242F56C7CD5306DE55487FBC5EAE9CC",
+          "time": "2026-08-04 21:11:19",
+          "publisher": "壹蘋新聞網",
+          "severity": "red"
+        },
+        {
+          "title": "為新竹海線觀光注入新動能 竹市「夏日乾杯計畫」圓滿謝幕帶動海港觀光",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYWVrX2ZiWXlZR3ZrOXNRZ08wNGg1SHRSNU9vWUc2eTRDZElIdkd0VWhtZWxsRUJmUmg2VERJTS1mN0ZUQkZveXZ3S0dJSG5HWGM5MU5zcjBGeWt5SWxGbzhURExYRUNneWt1X3VDbk5fYUNOM2RhdEptN0dsNzRtYV9EUkMwWklpajBOWQ?oc=5",
+          "time": "2026-08-04 21:07:56",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "農耕牌炊粉複驗仍含甲醛竹市府重罰明好企業384萬元- 新竹市",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UYmVzZkpfcEh2UEl0NktJMjRfTVBmLUs5UEJuU2dhNmhzc3V4SjB1OER3YTlLX1hiWEhsTjdCZkZlR0N1QXN1NW9yZ2tJYTdtcU1rWmFfTklOcTQybjFOTlZ0VGI3OUt6dXVIbThB?oc=5",
+          "time": "2026-08-04 21:04:09",
+          "publisher": "Google News→news.ltn.com.tw",
+          "severity": "red"
+        },
+        {
+          "title": "農耕牌炊粉複驗仍含甲醛 竹市府重罰明好企業384萬元",
+          "url": "https://news.ltn.com.tw/news/HsinchuCity/breakingnews/5528635",
+          "time": "2026-08-04 21:04:09",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "農耕牌炊粉複驗仍含甲醛竹市府重罰明好企業384萬元- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDQXpkX3V4Y0lIbjN6NFVOR0lJUnJsRW9NOXBYazNMZjNNNm52R0RJbFBXZlVlX3VtN3RUR0pBY0pkN1V1U0VtejU3SjVSUVJ1SE5qejJ4NXpKbmdqekhvdThNM0o?oc=5",
+          "time": "2026-08-04 21:04:09",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "2天吸引逾6萬人次 竹市「夏日乾杯計畫」圓滿謝幕活絡南寮觀光經濟",
+          "url": "https://focus.586.com.tw/2026/08/04/p398337/",
+          "time": "2026-08-04 20:59:21",
+          "publisher": "焦點時報",
+          "severity": null
+        },
+        {
+          "title": "新竹市明好企業部分產品複驗仍含甲醛 依法重罰384萬元",
+          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=e7a3329a-4098-4b26-adc9-6b7314e8acf1",
+          "time": "2026-08-04 20:48:38",
+          "publisher": "新竹市政府",
+          "severity": "red"
+        },
+        {
+          "title": "鋁罐、寶特瓶、牛奶瓶都能收 新竹市47處智慧回收站一次看",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlbmVZbE11dFZyTHU1aEktb3F2ek80Z0w3aEZxUDNrRE5KYXduLXVyTXplYWNFaEhMSVNsY3NGU0ptUEFkSXAzUmEyMUtwNXcy?oc=5",
+          "time": "2026-08-04 19:01:54",
+          "publisher": "Google News→客新聞 HakkaNews",
+          "severity": null
+        },
+        {
+          "title": "竹市本週市務會議聚焦智慧交通與暑期活動　高虹安市長：科技賦能提升公共服務 打造智慧宜居城市",
+          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=31068988-b3ef-4375-8ac8-c3e79d147b58",
+          "time": "2026-08-04 18:49:26",
+          "publisher": "新竹市政府",
+          "severity": null
+        },
+        {
+          "title": "展現世代共融溫暖力 竹市府推動跨世代共學打造幸福社區",
+          "url": "https://news.nextapple.com/politics/20260804/12D5D8417E92C199A29237B8FCFF797C",
+          "time": "2026-08-04 18:40:00",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "竹市府推動跨世代共學打造幸福社區 高虹安市長：展現世代共融溫暖力",
+          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=9c84405a-d222-44c0-8518-193bed829be3",
+          "time": "2026-08-04 15:02:22",
+          "publisher": "新竹市政府",
+          "severity": null
+        },
+        {
+          "title": "行動不便老翁外出體力不支返家受阻 竹市警二分局暖心護送平安返家",
+          "url": "https://focus.586.com.tw/2026/08/04/p398278/",
+          "time": "2026-08-04 14:58:20",
+          "publisher": "焦點時報",
+          "severity": null
+        },
+        {
+          "title": "竹市府攜手清大簽署MOU 邁向城市共好",
+          "url": "https://www.thehubnews.net/archives/651058",
+          "time": "2026-08-04 14:28:45",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "父愛撐起幸福家園! 竹市表揚162位模範父親",
+          "url": "https://www.thehubnews.net/archives/651053",
+          "time": "2026-08-04 14:23:10",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "快樂暑假安全不休假 竹市展開青春專案",
+          "url": "https://www.thehubnews.net/archives/650724",
+          "time": "2026-08-04 14:18:02",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "竹市東區發布高溫黃色燈號！高虹安市長啟動跨局處熱應變措施 守護市民健康",
+          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=3f2a4a6a-3c83-4809-82b9-cb37b99d612f",
+          "time": "2026-08-04 13:22:05",
+          "publisher": "新竹市政府",
+          "severity": null
+        },
+        {
+          "title": "首屆竹市文化風鼎獎 張德南、蕭在淦終身奉獻獎 劉江濱、吳慶杰獲卓越貢獻獎",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XTVFOOWtZbkxDZGFNenk2VTdQWmR0OWZsdG8zem9CbGR2cURORnRsZ1lGcE9keGNSTEZwSTRDa1BtOUVQb3UwTXlyeXRsd3llN2locnZEUll0RGp5MHJIaA?oc=5",
+          "time": "2026-08-04 12:23:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "竹市東區發布高溫黃色燈號 市府啟動跨局處熱應變措施",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OdV9WSzRCT0pLN2R5Snh6S1RPZnhLLVZHc3FzMzA2a2dRUXU4OVRhT3pjRlFEelN3UHJMNGJrRnFrUHFWTU8zelBJSG82MGxaeVE?oc=5",
+          "time": "2026-08-04 12:16:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "竹市西大路地下道交通政策高虹安市府3年改2次 議員批越改越糟整個塞爆 | 自由電子報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtNHRzY3VfVjk4aEp1TWlPa244a1lmeGFsS1RDQVlHQmRxcUZLZVQ0RU5OeUJ5OXNSLWVnOU5VOC1qYmRQbXp2dmRFYmh3QkFhTGlZQUlB?oc=5",
+          "time": "2026-08-04 12:09:01",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "yellow"
+        },
+        {
+          "title": "炎熱高溫 竹市府發布東區高溫黃色燈號並啟動跨局處熱應變措施",
+          "url": "https://n.yam.com/Article/20260804270122",
+          "time": "2026-08-04 12:00:00",
+          "publisher": "蕃新聞→勁報",
+          "severity": null
+        },
+        {
+          "title": "竹市西大路地下道交通政策高虹安市府3年改2次 議員批越改越糟整個塞爆",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5527832",
+          "time": "2026-08-04 11:51:12",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "竹市西大路地下道交通政策高虹安市府3年改2次議員批越改越糟整個塞爆- 政治",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84MDFIbEstOE5DM0poalFUb1FYNUN0X2pDWUVGeEd0cDRQVl9Ta0FvNm1JcnNqcU0xWi1zMGRpRTVJMFVhMjJ2WllCeXdmdXlid3NPaE9OWmdCSDBfcVg4N0Nva3RLSk1DalE?oc=5",
+          "time": "2026-08-04 11:51:12",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "新竹市文化風鼎獎得獎名單出爐 高虹安：向文化深耕者致敬 樹立城市新典範",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5laG0tZkV4ZmFoX0h4YjNoV09ZajJYZ3dLWTEwTnhMcnJlR3VUYXJBWEZ1d0ZfcThsNW85eFhuX3Vlb25mem5lQVdZblh3QjFlMWc?oc=5",
+          "time": "2026-08-04 10:47:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "首屆「新竹市文化風鼎獎」得獎名單出爐！高虹安市長：向文化深耕者致敬  樹立城市新典範",
+          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=de264754-2448-43ad-a4e7-41e1d648d03e",
+          "time": "2026-08-04 10:17:31",
+          "publisher": "新竹市政府",
+          "severity": null
+        },
+        {
+          "title": "竹市今年新增21處無人回收站！高虹安市長：打造便利永續共享生活圈",
+          "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=fe899b78-895f-4835-b608-4d0481bbd451",
+          "time": "2026-08-04 10:17:31",
+          "publisher": "新竹市政府",
+          "severity": null
         }
       ],
       "comments": []
@@ -4645,6 +4610,13 @@
       "urgency_score": 131,
       "news_articles": [
         {
+          "title": "盧秀燕扯「台糖甩鍋台南」糗翻車？王瑞德酸：誰才是真正的門神？｜#台灣最前線",
+          "url": "https://www.youtube.com/watch?v=rpoozO9ZhKQ",
+          "time": "2026-08-05 09:00:22",
+          "publisher": null,
+          "severity": null
+        },
+        {
           "title": "台南人哭了！高CP值名店「提拉米蘇蛋糕店」宣布熄燈 網哀號：不要離開",
           "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E4%BA%BA%E5%93%AD%E4%BA%86-%E9%AB%98cp%E5%80%BC%E5%90%8D%E5%BA%97-%E6%8F%90%E6%8B%89%E7%B1%B3%E8%98%87%E8%9B%8B%E7%B3%95%E5%BA%97-%E5%AE%A3%E5%B8%83%E7%86%84%E7%87%88-%E7%B6%B2%E5%93%80%E8%99%9F-235900686.html",
           "time": "2026-08-05 07:59:00",
@@ -5299,7 +5271,7 @@
           "title": "台糖油品部不管食用油…黃偉哲諷馮京當馬涼 盧秀燕：總公司就在台南",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtbDM1VVRCWldZRDdQX25qRTlFcjJRTm1BNkZacmtXczdFZXZDX1RkbjgzR0RBYVpXdzJnQ19HQzZZdjdLbVIzZU1OOGI1MHFEZzFj0gFYQVVfeXFMUFVhR2tDZHd6U2JpX3JCZTlJSTNlZ0YyTmhDNzNmWXNxNGs2QWpqam9hWEJhd2JHNHM2c0JHTFBwRTJhUEhCX0QxMkZSbUJnR1V4MDVmR2d2Tw?oc=5",
           "time": "2026-08-04 10:56:38",
-          "publisher": "Google News→UDN",
+          "publisher": "Google News→udn",
           "severity": "yellow"
         },
         {
@@ -5363,13 +5335,6 @@
           "url": "https://tw.news.yahoo.com/%E9%BB%83%E5%8D%9A%E9%83%8E%E8%A7%80%E9%BB%9E-%E5%8F%B0%E5%8D%97%E7%AC%AC%E4%BA%8C%E9%81%B8%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E6%88%B0-5%E8%80%81%E5%B0%87%E5%9C%8D%E5%89%BF1%E6%96%B0%E4%BA%BA-%E5%AD%B8%E7%94%B2%E5%B7%B7%E6%88%B0%E5%BC%95%E7%88%86%E5%A4%A7%E5%8C%97%E9%96%80%E6%94%BF%E6%B2%BB%E9%9C%87%E7%9B%AA-095559156.html",
           "time": "2026-08-04 09:55:59",
           "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "盧秀燕炮轟台糖油品部設在台南 黃偉哲：勿把馮京當馬涼",
-          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQQUQ3OFBNUDVaMXk5aG1tUXJXM1I3SUZ2QjJfRVhqV1p5cE5pUEdYWVl2Rmp2ZjFnNjlZaHV1VmxZNmhmTHpOVEFPZl9PSkVucmVmX2o3UjZRNXRpcUJyZFc5d2JYV25HcUIyR0ZVSVRkOTRWQVo5RUw1SUt6U2lFdWV2VWRYVHhWdjBrQ25zR2V1RVlRSVFVb3lNcWJFaXRHODA4YW1wR0tPOXh3WGZickxQOTd4Tk5BLVRKUEFXanBOb0V5ZmhYM2ZxN09lZnpGM2dpeGxIUFVSNTNfN1dDYUZacTY5cXloNktwLXU3RUR5VmxVd1g0LUstV0tCVjhWMXh5blMyNUJyd1p0SW14d0w5V1pHY1FHTVZVWDZERENjSVVYWnY1T3RqcmtZQjVISlM1RnhxeDZRMUxiWFNGWmFkYkIzSElSSGJlZU9ybGk1b3ZteFB4eUVEZW1uYWlmYjliRFNmUzFnbVhEZkp5emV5Q2JHZw?oc=5",
-          "time": "2026-08-04 09:43:57",
-          "publisher": "Google News→tw.news.yahoo.com",
           "severity": "yellow"
         }
       ],
@@ -6283,11 +6248,11 @@
       "city": "高雄",
       "place": "高雄市鳳山區",
       "level": "red",
-      "news_count": 139,
+      "news_count": 137,
       "comment_count": 0,
-      "negativity_pct": 4,
+      "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 154,
+      "urgency_score": 149,
       "news_articles": [
         {
           "title": "AAA第二波名單太狂！邊佑錫、安孝燮確定來台 4大韓劇男神12月炸高雄",
@@ -7247,20 +7212,6 @@
           "time": "2026-08-04 09:58:54",
           "publisher": "Google News→taidaily.com",
           "severity": null
-        },
-        {
-          "title": "砰！高雄女駕車恍神失控「擦撞停車格」當場翻覆 驚險爬出滿手血就醫",
-          "url": "https://tw.news.yahoo.com/%E7%A0%B0-%E9%AB%98%E9%9B%84%E5%A5%B3%E9%A7%95%E8%BB%8A%E6%81%8D%E7%A5%9E%E5%A4%B1%E6%8E%A7-%E6%93%A6%E6%92%9E%E5%81%9C%E8%BB%8A%E6%A0%BC-%E7%95%B6%E5%A0%B4%E7%BF%BB%E8%A6%86-%E9%A9%9A%E9%9A%AA%E7%88%AC%E5%87%BA%E6%BB%BF%E6%89%8B%E8%A1%80%E5%B0%B1%E9%86%AB-014900894.html",
-          "time": "2026-08-04 09:49:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "高雄海洋局「斜槓」興建國中校舍出槌 審計部批6大疏漏",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5527659",
-          "time": "2026-08-04 09:47:50",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -8457,7 +8408,7 @@
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMTHlSd2R0SGZsaFpnWVVBdUpKM2x1VUpPWmJqc3JsdDJvdk9ZRGt0dmo1YUg5MFpEdmF4dlN2eENFRURVTGFRRmROV3dncWl6ZGlUSE0ycW1jaTcxZUE?oc=5",
           "time": "2026-08-05 08:45:00",
           "publisher": "Google News→鉅聞天下",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "遮蔣萬安簽名！台北麵線老店邀沈伯洋簽旁邊藍綠支持者戰翻| 縣市長議員選戰| 要聞",
@@ -8470,7 +8421,7 @@
           "title": "遮蔣萬安簽名！台北麵線老店邀沈伯洋簽旁邊藍綠支持者戰翻| 縣市長議員選戰| 要聞",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4RmMtZ2Vfc2JZM3MzWlJLR3ZOdTFRZ3RaYlVBb3lELXNEb2Vva3lVdG0wd1QxR1ZQNV9QV3BHTHlLOElfb2J2NTBXUTlJNnR6bWhV?oc=5",
           "time": "2026-08-05 08:38:59",
-          "publisher": "Google News→UDN",
+          "publisher": "Google News→udn",
           "severity": "yellow"
         },
         {
@@ -8484,8 +8435,8 @@
           "title": "遮蔣萬安簽名！台北麵線老店邀沈伯洋簽旁邊藍綠支持者戰翻| 2026九合一選舉",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcjhDNjlaTGJCNjRtbGpSSDIxY1cycGpET1VCVHhzWU1yb3dUcVJYSDVFOGtGVjA3bjNuUTJkRzVOZWFJODBiSURxZEY0d2gwSnVTUUZjeGhBaDREUGYwRWpQOWJSUVVnT2diaXJual9iTlQ4UU5UOU5BSmFCTE8yV1VR?oc=5",
           "time": "2026-08-05 08:38:59",
-          "publisher": "Google News→UDN",
-          "severity": null
+          "publisher": "Google News→udn",
+          "severity": "yellow"
         },
         {
           "title": "不敗定情聖地新菜單！台北君悅〈寶艾〉西餐廳吃得到「台灣和牛」牛排",
@@ -9636,11 +9587,11 @@
       "city": "台中",
       "place": "台中市政府",
       "level": "red",
-      "news_count": 171,
+      "news_count": 170,
       "comment_count": 12,
       "negativity_pct": 7,
       "is_urgent": true,
-      "urgency_score": 231,
+      "urgency_score": 230,
       "news_articles": [
         {
           "title": "1分鐘看政治》毒油案盧秀燕怒轟高官嘴臉噁心 公投一票多案？游盈隆拜託暫緩",
@@ -10115,7 +10066,7 @@
           "title": "盧秀燕分不清食用油、汽柴油？林俊憲：想選總統別民調下滑就急推責",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpdkxNRjFnZ0V1V2lGUXFFeGQ2eTYwVDNoQ1JWNHItVjh3dWFfay1hWmFnT3IxeGY2Rnd0NV9pMUI2c3lkd2szbWhnNlRmdURiRXFF0gFYQVVfeXFMTUZaTnU0MHl6c1VqcDhCRFRnM2pYdUdNSTA0OTJHSWlFNDlUcU5DWWFndkx1X25Rd0dERGhTMUx0MDJ1MzR4ZldtZlhrZjJnUHN4dVZMVnd1NA?oc=5",
           "time": "2026-08-04 15:50:17",
-          "publisher": "Google News→UDN",
+          "publisher": "Google News→udn",
           "severity": "yellow"
         },
         {
@@ -10822,7 +10773,7 @@
           "title": "油品戰火諷盧秀燕 黃偉哲：此油非彼油、食用油跟汽油傻傻分不清",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95UVRXdm5rdkZFU2JBbjNOaTJuTXZGNmZ0aS1VdUFzQ3kxTHVFeExhU1RUQXk2WmZwb2FOMG1IUXpvbHhQVkRpZE9RdDI0SEFv0gFWQVVfeXFMUEUyZWFlZVUzdEpJQWg4NVA5N2VVMG9od1JJWmRqaF83dnRyTk84OFlzWWVzOGZqMnhhUGpWcUpNaDlSeHpCMTdIQUk5aS14N01odlY5dnc?oc=5",
           "time": "2026-08-04 09:49:45",
-          "publisher": "Google News→UDN",
+          "publisher": "Google News→udn",
           "severity": "yellow"
         },
         {
@@ -10830,13 +10781,6 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95UVRXdm5rdkZFU2JBbjNOaTJuTXZGNmZ0aS1VdUFzQ3kxTHVFeExhU1RUQXk2WmZwb2FOMG1IUXpvbHhQVkRpZE9RdDI0SEFv?oc=5",
           "time": "2026-08-04 09:49:45",
           "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "油品戰火諷盧秀燕黃偉哲：此油非彼油、食用油跟汽油傻傻分不清| 時事",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyMFlvanlSdU5kVlVYdFY4alFvZWZGVzNJTHBjWEZIem85R1liUmhyQmEwUUp5MDExMTJNYUJqMVlpMjZXck9SX1J3?oc=5",
-          "time": "2026-08-04 09:49:00",
-          "publisher": "聯合新聞網",
           "severity": "yellow"
         }
       ],
@@ -10859,14 +10803,6 @@
         },
         {
           "platform": "instagram",
-          "text": "盧秀燕封鎖我臉書欸！望周知！",
-          "author": "7dayswilson",
-          "url": "",
-          "time_text": "1 週",
-          "signal": "yellow"
-        },
-        {
-          "platform": "instagram",
           "text": "@tsaiyisiou_3 你叫盧秀燕先下台再說吧😍",
           "author": "f04710016",
           "url": "",
@@ -10880,6 +10816,14 @@
           "url": "",
           "time_text": "1 週",
           "signal": "red"
+        },
+        {
+          "platform": "instagram",
+          "text": "盧秀燕封鎖我臉書欸！望周知！",
+          "author": "7dayswilson",
+          "url": "",
+          "time_text": "1 週",
+          "signal": "yellow"
         },
         {
           "platform": "instagram",
@@ -10944,12 +10888,19 @@
       "city": "台中",
       "place": "台中市清水區",
       "level": "red",
-      "news_count": 280,
+      "news_count": 277,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 328,
+      "urgency_score": 325,
       "news_articles": [
+        {
+          "title": "盧秀燕扯「台糖甩鍋台南」糗翻車？王瑞德酸：誰才是真正的門神？｜#台灣最前線",
+          "url": "https://www.youtube.com/watch?v=rpoozO9ZhKQ",
+          "time": "2026-08-05 09:00:22",
+          "publisher": null,
+          "severity": null
+        },
         {
           "title": "王義川點破「中聯公文細節」…李正皓驚喊：這不是串通什麼叫串通！酸爆：台中市府展現出 台灣公務體系「從未有的行政效率」！｜李正皓 主持｜三立新聞台",
           "url": "https://www.youtube.com/watch?v=gbsxftp2ja0",
@@ -12214,7 +12165,7 @@
           "title": "高檢署主任檢察官指台糖通報是義務 陳培瑜：中市府主責卻沒道歉",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZRXdSSllDNUVJNkNXTE1pczdyejVuYlIxbzNjb2VYMnJRVklvN3VIbVZyaEs0X0puT054VkVseGNDTG5SeThaYzNtbnNDclE2LXBB0gFYQVVfeXFMTXlGaEhRdEhHQk9NMi1Cb3FlOHA0dFpIZW9RVWVCZkJ5TWxQaTBIVEVaR3JkXzVrMWtTd0ExNXUtZVdQdkdZcXotS1BHUm9SYlo2a1VfdzM5Mw?oc=5",
           "time": "2026-08-04 13:49:53",
-          "publisher": "Google News→UDN",
+          "publisher": "Google News→udn",
           "severity": "yellow"
         },
         {
@@ -12760,7 +12711,7 @@
           "title": "台糖油品部不管食用油…黃偉哲諷馮京當馬涼 盧秀燕：總公司就在台南",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtbDM1VVRCWldZRDdQX25qRTlFcjJRTm1BNkZacmtXczdFZXZDX1RkbjgzR0RBYVpXdzJnQ19HQzZZdjdLbVIzZU1OOGI1MHFEZzFj0gFYQVVfeXFMUFVhR2tDZHd6U2JpX3JCZTlJSTNlZ0YyTmhDNzNmWXNxNGs2QWpqam9hWEJhd2JHNHM2c0JHTFBwRTJhUEhCX0QxMkZSbUJnR1V4MDVmR2d2Tw?oc=5",
           "time": "2026-08-04 10:56:38",
-          "publisher": "Google News→UDN",
+          "publisher": "Google News→udn",
           "severity": "yellow"
         },
         {
@@ -12881,34 +12832,6 @@
           "time": "2026-08-04 10:02:00",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "中捷藍線土建工程8月12日開工 市府辦台中港到童綜合醫院健走",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44NmRsTEdwSk1lN2tXV1QyaTZadExQUkdxRmlFZ2JDaGFSeXJuVXpFRFlPZWhLT2NaZ0pGakJvaHUwLWJDNzBFd2FTT1FCaVR50gFWQVVfeXFMUElialNLV2QyTXJReFppVFlHT0wxMm51RjREMmJtbGc2QUVPNi1ncTQtckNZaG1uY29ZYkswVVVsRm5UbHFYcVZvbk5HR2pZc2ZyMkY4LXc?oc=5",
-          "time": "2026-08-04 09:47:11",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "[HatePolitics] Re: [討論] 為啥台中盧媽交通滿意75%",
-          "url": "https://www.ptt.cc/bbs/HatePolitics/M.1785807876.A.981.html",
-          "time": "2026-08-04 09:44:36",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "盧秀燕炮轟台糖油品部設在台南 黃偉哲：勿把馮京當馬涼",
-          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQQUQ3OFBNUDVaMXk5aG1tUXJXM1I3SUZ2QjJfRVhqV1p5cE5pUEdYWVl2Rmp2ZjFnNjlZaHV1VmxZNmhmTHpOVEFPZl9PSkVucmVmX2o3UjZRNXRpcUJyZFc5d2JYV25HcUIyR0ZVSVRkOTRWQVo5RUw1SUt6U2lFdWV2VWRYVHhWdjBrQ25zR2V1RVlRSVFVb3lNcWJFaXRHODA4YW1wR0tPOXh3WGZickxQOTd4Tk5BLVRKUEFXanBOb0V5ZmhYM2ZxN09lZnpGM2dpeGxIUFVSNTNfN1dDYUZacTY5cXloNktwLXU3RUR5VmxVd1g0LUstV0tCVjhWMXh5blMyNUJyd1p0SW14d0w5V1pHY1FHTVZVWDZERENjSVVYWnY1T3RqcmtZQjVISlM1RnhxeDZRMUxiWFNGWmFkYkIzSElSSGJlZU9ybGk1b3ZteFB4eUVEZW1uYWlmYjliRFNmUzFnbVhEZkp5emV5Q2JHZw?oc=5",
-          "time": "2026-08-04 09:43:57",
-          "publisher": "Google News→tw.news.yahoo.com",
-          "severity": "yellow"
-        },
-        {
-          "title": "盧秀燕親自證婚！台中市民聯合婚禮首航沖繩吸引1300對新人報名- 生活",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VX284QU42WmNFMi1MOFJkU0ZJSFhsWlNnbzJCd3FrZEhlU00zWWRYekQwLTlxaHlWSFBKUkxpTkVIYnBLX0hDTHUtbDJvc2k3UzNXLVBCNHF6SXZJZXpmQUw5T1RfdnpSTGZCeA?oc=5",
-          "time": "2026-08-04 09:40:00",
-          "publisher": "Google News→華視新聞網",
-          "severity": null
         }
       ],
       "comments": []
