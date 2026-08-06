@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "snapshot_at": "2026-08-06T01:24:28.337636+00:00",
+  "snapshot_at": "2026-08-06T01:28:46.631703+00:00",
   "hotspots": [
     {
       "title": "台北車禍事件",
@@ -24,27 +24,6 @@
       "comments": []
     },
     {
-      "title": "台南詐騙案",
-      "city": "台南",
-      "place": "台南市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "詐騙集團盜LINE帳號 台南少年隊揭鎖定青少年手法",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5529107",
-          "time": "2026-08-05 12:11:03",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "彰化詐騙案",
       "city": "彰化",
       "place": "彰化縣政府",
@@ -59,6 +38,27 @@
           "title": "彰化男急領鉅款網購翡翠 警識破假買賣詐騙險噴92萬",
           "url": "https://news.ltn.com.tw/news/society/breakingnews/5530125",
           "time": "2026-08-06 08:32:26",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台南詐騙案",
+      "city": "台南",
+      "place": "台南市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "詐騙集團盜LINE帳號 台南少年隊揭鎖定青少年手法",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5529107",
+          "time": "2026-08-05 12:11:03",
           "publisher": "自由時報",
           "severity": "yellow"
         }
@@ -1151,11 +1151,11 @@
       "city": "苗栗",
       "place": "苗栗縣政府",
       "level": "yellow",
-      "news_count": 32,
+      "news_count": 31,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 32,
+      "urgency_score": 31,
       "news_articles": [
         {
           "title": "公私協力守護弱勢長者 苗栗縣推動失能安置加碼補助 減輕家庭照顧負擔",
@@ -1372,13 +1372,6 @@
           "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOTG5DMHJueVVNUWJNNUIwUDB6RUdDZ1Q2WnhCcmdjRURNVjkwakQ0RUpnQThkNmlhQmQtdHV2bmNOYl9vR1dGazVpdzlXV3QwLTFnWDJqZmczb0lkN2RBb1haY1lvUTBVdFFRT3FGRnFqT0UxcGJyd19jV3VGQzFlVzIxNEkxZ192SFZiQThpR0JmaVN4aXZLRWdhYkstNEpWdklIUXJUU0YwYjZaUHNmUWNzUHVtOGh4eGRwWG9MVzM2MUJ4T1hGNzljUDlhUWc4SzNUUTdidzJkekNvZ2hXenlYWFhBbmNLREN3dmtmSGlEOUlQVXQ0TGVETGpmS2RsUHJZUWxSd1FQdGxXdVpzczNtbkJnWG9VMThlV0phaWhVZw?oc=5",
           "time": "2026-08-05 09:36:45",
           "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "「撞臉」劉德華！ 苗栗通霄沙雕藝術節引討論",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5528878",
-          "time": "2026-08-05 09:25:51",
-          "publisher": "自由時報",
           "severity": null
         }
       ],
@@ -1781,11 +1774,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "yellow",
-      "news_count": 66,
+      "news_count": 65,
       "comment_count": 0,
       "negativity_pct": 12,
       "is_urgent": false,
-      "urgency_score": 90,
+      "urgency_score": 89,
       "news_articles": [
         {
           "title": "宜蘭首台AI智慧回收機 有回饋機制",
@@ -2241,13 +2234,6 @@
           "time": "2026-08-05 09:49:00",
           "publisher": "Google News→工商時報",
           "severity": null
-        },
-        {
-          "title": "宜蘭礁溪美食｜早吳吃麵：隱身稻田的古早味麵店，想吃記得早點來- SayDigi",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1eWlVNGo2VVdNUDlPXzJGNDc1S1hlak1lVlJMMkhVSjQ3U3lPSVlNVC12RjFzNUNmS3JrRjZNdHVnRjRQMWd4SmhkZkVfbGNaMzFRalc4RQ?oc=5",
-          "time": "2026-08-05 09:25:35",
-          "publisher": "Google News→SayDigi | 點子生活",
-          "severity": null
         }
       ],
       "comments": []
@@ -2275,41 +2261,6 @@
           "url": "https://www.youtube.com/watch?v=tCQZPwpPFUc",
           "time": "2026-08-05 16:10:35",
           "publisher": null,
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "高雄弊案爭議",
-      "city": "高雄",
-      "place": "高雄市政府",
-      "level": "red",
-      "news_count": 3,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 12,
-      "news_articles": [
-        {
-          "title": "病患無生命跡象！高雄護理師「擅自宣告死亡時間」遭判刑",
-          "url": "https://www.taisounds.com/news/content/92/281512",
-          "time": "2026-08-05 16:42:41",
-          "publisher": "太報",
-          "severity": "red"
-        },
-        {
-          "title": "未通知醫師到場！高雄女護理師「自行宣告病患死亡」 遭法院判刑下場曝",
-          "url": "https://tw.news.yahoo.com/%E6%9C%AA%E9%80%9A%E7%9F%A5%E9%86%AB%E5%B8%AB%E5%88%B0%E5%A0%B4-%E9%AB%98%E9%9B%84%E5%A5%B3%E8%AD%B7%E7%90%86%E5%B8%AB-%E8%87%AA%E8%A1%8C%E5%AE%A3%E5%91%8A%E7%97%85%E6%82%A3%E6%AD%BB%E4%BA%A1-%E9%81%AD%E6%B3%95%E9%99%A2%E5%88%A4%E5%88%91%E4%B8%8B%E5%A0%B4%E6%9B%9D-063300174.html",
-          "time": "2026-08-05 14:33:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "高雄男子索錢不成砍老闆全家 二審仍判刑9年半",
-          "url": "https://www.cna.com.tw/news/asoc/202608050119.aspx",
-          "time": "2026-08-05 13:16:43",
-          "publisher": "中央社",
           "severity": "red"
         }
       ],
@@ -2345,6 +2296,41 @@
           "url": "https://news.ltn.com.tw/news/society/breakingnews/5529015",
           "time": "2026-08-05 11:01:55",
           "publisher": "自由時報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄弊案爭議",
+      "city": "高雄",
+      "place": "高雄市政府",
+      "level": "red",
+      "news_count": 3,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 12,
+      "news_articles": [
+        {
+          "title": "病患無生命跡象！高雄護理師「擅自宣告死亡時間」遭判刑",
+          "url": "https://www.taisounds.com/news/content/92/281512",
+          "time": "2026-08-05 16:42:41",
+          "publisher": "太報",
+          "severity": "red"
+        },
+        {
+          "title": "未通知醫師到場！高雄女護理師「自行宣告病患死亡」 遭法院判刑下場曝",
+          "url": "https://tw.news.yahoo.com/%E6%9C%AA%E9%80%9A%E7%9F%A5%E9%86%AB%E5%B8%AB%E5%88%B0%E5%A0%B4-%E9%AB%98%E9%9B%84%E5%A5%B3%E8%AD%B7%E7%90%86%E5%B8%AB-%E8%87%AA%E8%A1%8C%E5%AE%A3%E5%91%8A%E7%97%85%E6%82%A3%E6%AD%BB%E4%BA%A1-%E9%81%AD%E6%B3%95%E9%99%A2%E5%88%A4%E5%88%91%E4%B8%8B%E5%A0%B4%E6%9B%9D-063300174.html",
+          "time": "2026-08-05 14:33:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "高雄男子索錢不成砍老闆全家 二審仍判刑9年半",
+          "url": "https://www.cna.com.tw/news/asoc/202608050119.aspx",
+          "time": "2026-08-05 13:16:43",
+          "publisher": "中央社",
           "severity": "red"
         }
       ],
@@ -8543,7 +8529,7 @@
           "severity": "yellow"
         },
         {
-          "title": "賴清德「全程0看稿」酸盧秀燕5大痛處！他看驚：8年總帳一次掀翻",
+          "title": "賴清德「全程0看稿」嗆爆盧秀燕5大痛處！他看驚總統級嘲諷：8年總帳一次掀翻",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhTUVzdC05TndONzhNVU9qZVU4YzRkalNaNE8zLVlxWXJJNHFrTWtqN0ljbHVSYlc4clNlakxKakFIcS0tR2VmU24tR1dIUFNadXZfdVlwWncyeVRFSm9zbA?oc=5",
           "time": "2026-08-06 08:46:42",
           "publisher": "Google News→民視新聞網",
@@ -8707,7 +8693,7 @@
           "title": "全台最狂「轉運站」！盧秀燕燕化身帶貨女王：史努比二周備貨「秒殺」",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94d2pIbkVfSlpBWDJPa1hLSlNGRVNHZEpRamIzV090cmNsWHZDcWd1ZFdFRXVvdXVHWG4wZ2tRckV4c0s0QXlfOG9HQ0dEQ2NVNHd2ZUY2aG1PR2h3RTZpNDV4Rlp2QUROcVdNSkNTTktRTjF6MDQw0gFfQVVfeXFMTlQ1cEtIM25kVXJ6aHhPS2RpNkFfQ2hLVlFFSWlkdHV0QUZvWmNaSDVTYzV5aHNxT3ZFWGYwbURmZWNoMTc2RGRtX000OTBzRVdiVHphMkxueDhhc3l6YkU?oc=5",
           "time": "2026-08-05 21:58:49",
-          "publisher": "Google News→money.udn.com",
+          "publisher": "Google News→經濟日報",
           "severity": null
         },
         {
@@ -8882,7 +8868,7 @@
           "title": "水湳轉運中心啟用！市長盧秀燕：打造「七轉七接」交通任意門",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZEg2UDN0MkIxU2pfSi1RZ1FvYnd3cm96SXBOcDZEY1FsMUxwQ2NQY3NVZEJ3TzgtN0t5ZlNwaTlqR2tiTVRacXdwb1B2Wm90RGdtUw?oc=5",
           "time": "2026-08-05 17:26:33",
-          "publisher": "Google News→新頭條",
+          "publisher": "Google News→thehubnews.net",
           "severity": null
         },
         {
@@ -9022,7 +9008,7 @@
           "title": "盧秀燕酸賴清德 蔡其昌反擊「賴中央」 - 政治新聞 - PChome Online 新聞",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcUF6RWJnUXFCU01FNnBHN0wzSlRrTXhsTDlyNlZ3aGJQY0luT2VtRkpwc2ZaOFRra1YxeGZIUHNTNHZ3a0Zsald2NHdNekZYazRnQjMzNFNRLTB3R2RUcHk0M0tLaklvcXd4TnVBTXo3T3JMRzljMm96aWZSdFNxcW1PeE0xWjhTSFBWTg?oc=5",
           "time": "2026-08-05 16:08:09",
-          "publisher": "Google News→PChome Online 新聞",
+          "publisher": "Google News→news.pchome.com.tw",
           "severity": "yellow"
         },
         {
@@ -10794,6 +10780,13 @@
       "urgency_score": 419,
       "news_articles": [
         {
+          "title": "賴清德在綠台中行動中常會噴盧秀燕！ 他揭目的：到妳地盤把總帳一次掀翻！",
+          "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNVGN0b0dDcUwtVVpmR1FmWDNfdmVEcC1PLV9sbVpiUk8tTmdsY0YxdWFzN1RLVHpTZWF1YlhwekJTSVNHeUhTMDExbHJxclZuQnJGUk92dTloblFJamoweHl1cnhtZnphaUllaF8xTWEtZkdzc1YybDktOTZGRVFyYmdidWZZV3BpLWptc2l3WG92Z0tpbFRnRTNOa3VVOE8wNlpEaVZsbzFsYjRUek9MV0VhMGxJTEFUaG5wYmZqa0hWMG1leEFJMUJWMFp5dWdId29nNlhNVVVxc1UwZjBhNWliRGZ2TU5XS2xVUkRxVmU2bnl3a1haMjZQUmFTclVCc3o5TDRFN096OE4wd2dBX1JRSWk0MnltelZRWklJVkU4a2EwUTI2T3VpZTBrUzNXOE1VN2tpSDNTSHkxVG9wbGJIOGNCNWhsZzVETWtjNFRUQThfc3VOZGRyajVkRFF4ZmM0T2J4ZXI0eXdSenUwX21rSFh1SUZhM0V4am93NTU2ZFJFdTR4dUMydHFQS2t3WjEtRVU0aXVFYnBfOU13RHhsT1JIdm9fNkZ4OG1iRndnbXlSY3k2MnNyQUxPU1E?oc=5",
+          "time": "2026-08-06 09:07:16",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
           "title": "2026.08.06 08:18 賴清德批盧秀燕滿意度落後 中市府拿民調回擊：分數低笑分數高",
           "url": "https://www.mnews.tw/story/20260806nm003",
           "time": "2026-08-06 08:56:40",
@@ -10860,7 +10853,7 @@
           "title": "中市地政推建物第一次測量多元申辦 新成屋產權登記更快速便捷",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVTktYzRqVk5SUFFydW1HeVFVaDJfVW9zVl9IVUJqN1QtTzBDR1ZxY2Vxdll3Y0Y1bktUbDV3TEhiRjJ4dF9NcTRORVp5elJ0NkZBbkx5YVRZU1BUY0lIU0JvcTNHVXl0T2ZzRGNaRVVRb2laaTkzQmF0TGNtc0ZJR0F4M0t5bVE?oc=5",
           "time": "2026-08-06 08:10:18",
-          "publisher": "Google News→PChome Online 新聞",
+          "publisher": "Google News→news.pchome.com.tw",
           "severity": null
         },
         {
@@ -11420,7 +11413,7 @@
           "title": "獲獎全壘打！台中市水利局勇奪2026國家卓越建設獎5項大獎",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtSTRVazNwTks3eTZ6T2NWNHRxdjdTUXNNajJSNjRPM1dTTXRpSXFXTVM3SE9CVU5aTkJQX0ozWHFmSW1TcVRQMkR6ZjNNU19uU1JISHphZw?oc=5",
           "time": "2026-08-05 19:49:47",
-          "publisher": "Google News→觀傳媒",
+          "publisher": "Google News→watchmedia01.com",
           "severity": null
         },
         {
@@ -11623,7 +11616,7 @@
           "title": "中市校長會議創新跨域參訪 強化教育領導力 - 政府消息新聞 - PChome Online 新聞",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUmdjMHFBTWU1TmwxdzJuWjVuOXBhdnZ0M2JHZTNSaExjX2FGc094eTc2Q1pIVGRXVVZhUzNHU2E1dGxSUXJEUlR6TWhSSUdvbTZLYUcyVFBJMk9sLXQ2MGhDUHBoMS12SVgzYzFaNW1uZlRSS1hBRld3XzAwZjI2VGVrNDBDdVIyaEE?oc=5",
           "time": "2026-08-05 18:21:56",
-          "publisher": "Google News→PChome Online 新聞",
+          "publisher": "Google News→news.pchome.com.tw",
           "severity": null
         },
         {
@@ -12127,7 +12120,7 @@
           "title": "賴清德今赴台中 盧秀燕籲正面回應食安危機：別只顧選舉",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkekk4N0tKNGdCVTVhM3lRQ3YybjhTZFRIdVFCckZsLWU4RDB6SXhDM2xfMEpJSURCSU1ZTnZMbHFNWFd5VmxBTjByMFZRQTJvV25hWkxlRV9HZ3M?oc=5",
           "time": "2026-08-05 15:30:00",
-          "publisher": "Google News→上報Up Media",
+          "publisher": "Google News→upmedia.mg",
           "severity": "red"
         },
         {
@@ -13130,13 +13123,6 @@
           "time": "2026-08-05 09:49:42",
           "publisher": "自由時報",
           "severity": "yellow"
-        },
-        {
-          "title": "中科台中園區核准二家廠商進駐 投資金額6500萬元",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5528869",
-          "time": "2026-08-05 09:24:37",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []

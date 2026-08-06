@@ -69480,7 +69480,7 @@
     },
     {
       "date": "2026-08-06",
-      "snapshot_at": "2026-08-06T01:24:28.337636+00:00",
+      "snapshot_at": "2026-08-06T01:28:46.631703+00:00",
       "hotspots": [
         {
           "title": "台北車禍事件",
@@ -69497,20 +69497,6 @@
           ]
         },
         {
-          "title": "台南詐騙案",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "詐騙集團盜LINE帳號 台南少年隊揭鎖定青少年手法"
-          ]
-        },
-        {
           "title": "彰化詐騙案",
           "city": "彰化",
           "place": "彰化縣政府",
@@ -69522,6 +69508,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "彰化男急領鉅款網購翡翠 警識破假買賣詐騙險噴92萬"
+          ]
+        },
+        {
+          "title": "台南詐騙案",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "詐騙集團盜LINE帳號 台南少年隊揭鎖定青少年手法"
           ]
         },
         {
@@ -69798,11 +69798,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "yellow",
-          "news_count": 32,
+          "news_count": 31,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 32,
+          "urgency_score": 31,
           "sample_titles": [
             "公私協力守護弱勢長者 苗栗縣推動失能安置加碼補助 減輕家庭照顧負擔",
             "苗栗縣114年死因統計揭健康警訊 打造無菸家庭 共同守護全家健康與健康平權",
@@ -69830,11 +69830,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "yellow",
-          "news_count": 66,
+          "news_count": 65,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 90,
+          "urgency_score": 89,
           "sample_titles": [
             "宜蘭首台AI智慧回收機 有回饋機制",
             "AI回收新里程 宜蘭永續向前行",
@@ -69857,22 +69857,6 @@
           ]
         },
         {
-          "title": "高雄弊案爭議",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "red",
-          "news_count": 3,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 12,
-          "sample_titles": [
-            "病患無生命跡象！高雄護理師「擅自宣告死亡時間」遭判刑",
-            "未通知醫師到場！高雄女護理師「自行宣告病患死亡」 遭法院判刑下場曝",
-            "高雄男子索錢不成砍老闆全家 二審仍判刑9年半"
-          ]
-        },
-        {
           "title": "屏東弊案爭議",
           "city": "屏東",
           "place": "屏東縣政府",
@@ -69886,6 +69870,22 @@
             "缺錢偷竊失風… 離職員工虐殺屏東鎢金董座、遭法院裁定收押",
             "前亞洲鎢王命案屏東地院裁准凶嫌收押禁見| 自由電子報",
             "前亞洲鎢王命案 屏東地院裁准凶嫌收押禁見"
+          ]
+        },
+        {
+          "title": "高雄弊案爭議",
+          "city": "高雄",
+          "place": "高雄市政府",
+          "level": "red",
+          "news_count": 3,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 12,
+          "sample_titles": [
+            "病患無生命跡象！高雄護理師「擅自宣告死亡時間」遭判刑",
+            "未通知醫師到場！高雄女護理師「自行宣告病患死亡」 遭法院判刑下場曝",
+            "高雄男子索錢不成砍老闆全家 二審仍判刑9年半"
           ]
         },
         {
@@ -70140,7 +70140,7 @@
           "urgency_score": 174,
           "sample_titles": [
             "賴清德重砲回擊盧秀燕 張育萌：八年總帳一次掀翻 | 自由電子報",
-            "賴清德「全程0看稿」酸盧秀燕5大痛處！他看驚：8年總帳一次掀翻",
+            "賴清德「全程0看稿」嗆爆盧秀燕5大痛處！他看驚總統級嘲諷：8年總帳一次掀翻",
             "藍猛打台糖、故弄玄虛！林楚茵：為了救盧秀燕和蔣萬安"
           ]
         },
@@ -70171,9 +70171,9 @@
           "is_urgent": false,
           "urgency_score": 419,
           "sample_titles": [
+            "賴清德在綠台中行動中常會噴盧秀燕！ 他揭目的：到妳地盤把總帳一次掀翻！",
             "2026.08.06 08:18 賴清德批盧秀燕滿意度落後 中市府拿民調回擊：分數低笑分數高",
-            "中聯毒油風暴持續延燒，賴清德總統劍指台中市長盧秀燕，抨擊台中是食安問題的破口。國民黨文傳會主委陳以信今反批，衛福部蓋牌一",
-            "賴清德批盧秀燕滿意度落後 中市府拿民調回擊：分數低笑分數高"
+            "中聯毒油風暴持續延燒，賴清德總統劍指台中市長盧秀燕，抨擊台中是食安問題的破口。國民黨文傳會主委陳以信今反批，衛福部蓋牌一"
           ]
         }
       ]
