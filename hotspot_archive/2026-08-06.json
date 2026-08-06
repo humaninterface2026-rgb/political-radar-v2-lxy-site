@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "snapshot_at": "2026-08-06T12:23:48.142087+00:00",
+  "snapshot_at": "2026-08-06T12:29:53.751741+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -87,9 +87,9 @@
       "comments": []
     },
     {
-      "title": "宜蘭車禍事件",
-      "city": "宜蘭",
-      "place": "宜蘭縣政府",
+      "title": "苗栗車禍事件",
+      "city": "苗栗",
+      "place": "苗栗縣政府",
       "level": "green",
       "news_count": 2,
       "comment_count": 0,
@@ -98,17 +98,17 @@
       "urgency_score": 8,
       "news_articles": [
         {
-          "title": "宜蘭車禍！ 泛舟貨車碰撞轎車「衝入田裡」 | TVBS",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yZUdBMlZOaWZsazRyUkdBTWhFRWExeVdsRlFhcVhxOXVtY3VJOHk0c1VrZEZBS1V4Y1RtazJVbEpEQm9SaEpPWTV2QUwyYTJMdkFPOFZn?oc=5",
-          "time": "2026-08-05 22:59:55",
-          "publisher": "Google News→LINE TODAY",
+          "title": "苗栗離奇車禍！26歲男騎機車自摔亡 「這原因」16天後才被發現",
+          "url": "https://news.nextapple.com/local/20260806/85E4C08BA2721172EF559DCADBAA5EBA",
+          "time": "2026-08-06 11:49:30",
+          "publisher": "壹蘋新聞網",
           "severity": "yellow"
         },
         {
-          "title": "宜蘭車禍！ 泛舟貨車碰撞轎車「衝入田裡」",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzZkdEQnNjdUdRa2g5T1o5b3gxb2xjLWNiRjU0bi1PN2NCMW9MUjdWbEZhMWRWMzVMQmxON1NvZ2VrWnVSUzk4Q3ZiZjhHems?oc=5",
-          "time": "2026-08-05 22:47:00",
-          "publisher": "TVBS",
+          "title": "苗栗離奇車禍！26歲男騎機車自摔 陳屍農地草叢16天才被發現",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42WE5iTjdtU19oQTR2VkdKRzhCSFNaWGY5VVQwR19BWmFRUTNPTC05eWQ5Vm9KZmpBTWtFc09LS0N4Vmxfc1dtWC1VQzZTdUJGWjBzYjBobTItbmJzUFdIR3B1Mml1YzE1LTFGVDJGQWlRb091eXRhQnVaSGpWanc?oc=5",
+          "time": "2026-08-06 11:44:00",
+          "publisher": "壹蘋新聞網",
           "severity": "yellow"
         }
       ],
@@ -143,9 +143,9 @@
       "comments": []
     },
     {
-      "title": "苗栗車禍事件",
-      "city": "苗栗",
-      "place": "苗栗縣政府",
+      "title": "宜蘭車禍事件",
+      "city": "宜蘭",
+      "place": "宜蘭縣政府",
       "level": "green",
       "news_count": 2,
       "comment_count": 0,
@@ -154,17 +154,17 @@
       "urgency_score": 8,
       "news_articles": [
         {
-          "title": "苗栗離奇車禍！26歲男騎機車自摔亡 「這原因」16天後才被發現",
-          "url": "https://news.nextapple.com/local/20260806/85E4C08BA2721172EF559DCADBAA5EBA",
-          "time": "2026-08-06 11:49:30",
-          "publisher": "壹蘋新聞網",
+          "title": "宜蘭車禍！ 泛舟貨車碰撞轎車「衝入田裡」 | TVBS",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yZUdBMlZOaWZsazRyUkdBTWhFRWExeVdsRlFhcVhxOXVtY3VJOHk0c1VrZEZBS1V4Y1RtazJVbEpEQm9SaEpPWTV2QUwyYTJMdkFPOFZn?oc=5",
+          "time": "2026-08-05 22:59:55",
+          "publisher": "Google News→LINE TODAY",
           "severity": "yellow"
         },
         {
-          "title": "苗栗離奇車禍！26歲男騎機車自摔 陳屍農地草叢16天才被發現",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42WE5iTjdtU19oQTR2VkdKRzhCSFNaWGY5VVQwR19BWmFRUTNPTC05eWQ5Vm9KZmpBTWtFc09LS0N4Vmxfc1dtWC1VQzZTdUJGWjBzYjBobTItbmJzUFdIR3B1Mml1YzE1LTFGVDJGQWlRb091eXRhQnVaSGpWanc?oc=5",
-          "time": "2026-08-06 11:44:00",
-          "publisher": "壹蘋新聞網",
+          "title": "宜蘭車禍！ 泛舟貨車碰撞轎車「衝入田裡」",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzZkdEQnNjdUdRa2g5T1o5b3gxb2xjLWNiRjU0bi1PN2NCMW9MUjdWbEZhMWRWMzVMQmxON1NvZ2VrWnVSUzk4Q3ZiZjhHems?oc=5",
+          "time": "2026-08-05 22:47:00",
+          "publisher": "TVBS",
           "severity": "yellow"
         }
       ],
@@ -439,27 +439,6 @@
       "comments": []
     },
     {
-      "title": "屏東弊案爭議",
-      "city": "屏東",
-      "place": "屏東縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "【新聞一點靈】屏東鎢金董座命案非關國安！ 警逮前員工　疑偷竊失風犯案　屏東鎢金大亨黑歷史曝光　曾涉多起官司 「詐騙遭判刑」",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-08-04/2428612.html",
-          "time": "2026-08-06 15:47:13",
-          "publisher": "壹電視",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台南弊案爭議",
       "city": "台南",
       "place": "台南市政府",
@@ -475,6 +454,27 @@
           "url": "https://news.ltn.com.tw/news/society/paper/1765481",
           "time": "2026-08-06 05:30:00",
           "publisher": "自由時報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "屏東弊案爭議",
+      "city": "屏東",
+      "place": "屏東縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "【新聞一點靈】屏東鎢金董座命案非關國安！ 警逮前員工　疑偷竊失風犯案　屏東鎢金大亨黑歷史曝光　曾涉多起官司 「詐騙遭判刑」",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-08-04/2428612.html",
+          "time": "2026-08-06 15:47:13",
+          "publisher": "壹電視",
           "severity": "red"
         }
       ],
@@ -5069,11 +5069,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 69,
+      "news_count": 68,
       "comment_count": 0,
       "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 84,
+      "urgency_score": 83,
       "news_articles": [
         {
           "title": "賴清德總統6日前往新北八里視導漢光42號演習，實地了解八里守備區部隊執行戰力防護、兵力保存及戰場應變作為，並慰勉參演官兵辛勞。",
@@ -5550,13 +5550,6 @@
           "time": "2026-08-05 20:55:04",
           "publisher": "新頭殼",
           "severity": "yellow"
-        },
-        {
-          "title": "最佳管理奪金 新北中和安邦社宅獲國家卓越建設獎",
-          "url": "https://cnews.com.tw/204260805a10/",
-          "time": "2026-08-05 20:24:44",
-          "publisher": "匯流新聞網",
-          "severity": null
         }
       ],
       "comments": []

@@ -69480,7 +69480,7 @@
     },
     {
       "date": "2026-08-06",
-      "snapshot_at": "2026-08-06T12:23:48.142087+00:00",
+      "snapshot_at": "2026-08-06T12:29:53.751741+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -69539,9 +69539,9 @@
           ]
         },
         {
-          "title": "宜蘭車禍事件",
-          "city": "宜蘭",
-          "place": "宜蘭縣政府",
+          "title": "苗栗車禍事件",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
           "level": "green",
           "news_count": 2,
           "comment_count": 0,
@@ -69549,8 +69549,8 @@
           "is_urgent": true,
           "urgency_score": 8,
           "sample_titles": [
-            "宜蘭車禍！ 泛舟貨車碰撞轎車「衝入田裡」 | TVBS",
-            "宜蘭車禍！ 泛舟貨車碰撞轎車「衝入田裡」"
+            "苗栗離奇車禍！26歲男騎機車自摔亡 「這原因」16天後才被發現",
+            "苗栗離奇車禍！26歲男騎機車自摔 陳屍農地草叢16天才被發現"
           ]
         },
         {
@@ -69569,9 +69569,9 @@
           ]
         },
         {
-          "title": "苗栗車禍事件",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
+          "title": "宜蘭車禍事件",
+          "city": "宜蘭",
+          "place": "宜蘭縣政府",
           "level": "green",
           "news_count": 2,
           "comment_count": 0,
@@ -69579,8 +69579,8 @@
           "is_urgent": true,
           "urgency_score": 8,
           "sample_titles": [
-            "苗栗離奇車禍！26歲男騎機車自摔亡 「這原因」16天後才被發現",
-            "苗栗離奇車禍！26歲男騎機車自摔 陳屍農地草叢16天才被發現"
+            "宜蘭車禍！ 泛舟貨車碰撞轎車「衝入田裡」 | TVBS",
+            "宜蘭車禍！ 泛舟貨車碰撞轎車「衝入田裡」"
           ]
         },
         {
@@ -69683,20 +69683,6 @@
           ]
         },
         {
-          "title": "屏東弊案爭議",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "【新聞一點靈】屏東鎢金董座命案非關國安！ 警逮前員工　疑偷竊失風犯案　屏東鎢金大亨黑歷史曝光　曾涉多起官司 「詐騙遭判刑"
-          ]
-        },
-        {
           "title": "台南弊案爭議",
           "city": "台南",
           "place": "台南市政府",
@@ -69708,6 +69694,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "政治獻金 挪用償還債務 ​台南前議長郭信良涉吞千萬 起訴"
+          ]
+        },
+        {
+          "title": "屏東弊案爭議",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "【新聞一點靈】屏東鎢金董座命案非關國安！ 警逮前員工　疑偷竊失風犯案　屏東鎢金大亨黑歷史曝光　曾涉多起官司 「詐騙遭判刑"
           ]
         },
         {
@@ -70125,11 +70125,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 69,
+          "news_count": 68,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 84,
+          "urgency_score": 83,
           "sample_titles": [
             "賴清德總統6日前往新北八里視導漢光42號演習，實地了解八里守備區部隊執行戰力防護、兵力保存及戰場應變作為，並慰勉參演官兵",
             "2026.08.06 17:15 割頸案新進展！ 新北教育局依法公開「楊承勳」姓名",
