@@ -70239,7 +70239,7 @@
     },
     {
       "date": "2026-08-07",
-      "snapshot_at": "2026-08-07T10:43:16.253043+00:00",
+      "snapshot_at": "2026-08-07T10:56:25.202058+00:00",
       "hotspots": [
         {
           "title": "藍營路線爭議",
@@ -70267,6 +70267,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "曾性侵2女關12年⋯他闖宿舍「出聲殺死妳」再次得逞！台南惡狼下場曝光"
+          ]
+        },
+        {
+          "title": "彰化車禍事件",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "礁溪路口車禍頻傳 議員林聰池會勘研議左轉道明年7月可望完工"
           ]
         },
         {
@@ -70309,20 +70323,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "大園連環車禍！小貨車轉彎與砂石車相撞 砂石車再撞停等紅燈機車路邊停車"
-          ]
-        },
-        {
-          "title": "彰化車禍事件",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "礁溪路口車禍頻傳 議員林聰池會勘研議左轉道明年7月可望完工"
           ]
         },
         {
@@ -70396,6 +70396,21 @@
           "sample_titles": [
             "三峽警跨縣市緝槍 槍擊案主嫌落網、槍毒全查扣",
             "三峽槍擊案偵破！ 狡猾藥頭連換3車逃亡仍落網、起出兇槍"
+          ]
+        },
+        {
+          "title": "高雄詐騙案",
+          "city": "高雄",
+          "place": "高雄市前鎮區",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "高雄市長選舉的對決局勢今天突然升溫，藍綠市長參選人柯志恩、賴瑞隆先為雙語政見開嗆，雙方你來往我往，不斷透過新聞稿攻擊。賴",
+            "詐團假貸款真詐騙 前鎮警瓦解重要金流節點"
           ]
         },
         {
@@ -70531,9 +70546,9 @@
           ]
         },
         {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
+          "title": "高雄弊案爭議",
+          "city": "高雄",
+          "place": "高雄市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -70541,7 +70556,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "前彰化律師公會理事長陳昱瑄涉嫌假冒採購疫苗詐騙慈濟基金會10.6億元，遭台中地檢署起訴。民進黨點名台北市長蔣萬安，民眾黨"
+            "快訊／驚爆涉貪污！高雄議員范織欽…遭檢調帶回漏夜偵訊"
           ]
         },
         {
@@ -70559,9 +70574,9 @@
           ]
         },
         {
-          "title": "高雄弊案爭議",
-          "city": "高雄",
-          "place": "高雄市政府",
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -70569,7 +70584,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "快訊／驚爆涉貪污！高雄議員范織欽…遭檢調帶回漏夜偵訊"
+            "前彰化律師公會理事長陳昱瑄涉嫌假冒採購疫苗詐騙慈濟基金會10.6億元，遭台中地檢署起訴。民進黨點名台北市長蔣萬安，民眾黨"
           ]
         },
         {
@@ -70584,21 +70599,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "律師「BNT疫苗詐騙」狠削慈濟10億！？ 豪宅堆出「現金床」還藏158公斤黃金山！ 【關鍵時刻】20260806-6 張"
-          ]
-        },
-        {
-          "title": "高雄詐騙案",
-          "city": "高雄",
-          "place": "高雄市前鎮區",
-          "level": "yellow",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "高雄市長選舉的對決局勢今天突然升溫，藍綠市長參選人柯志恩、賴瑞隆先為雙語政見開嗆，雙方你來往我往，不斷透過新聞稿攻擊。賴",
-            "詐團假貸款真詐騙 前鎮警瓦解重要金流節點"
           ]
         },
         {
@@ -70650,22 +70650,6 @@
           ]
         },
         {
-          "title": "苗栗地方動態",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "yellow",
-          "news_count": 64,
-          "comment_count": 0,
-          "negativity_pct": 3,
-          "is_urgent": false,
-          "urgency_score": 70,
-          "sample_titles": [
-            "苗栗縣長鍾東錦受邀演講　「苗栗甦醒」分享近年轉變",
-            "天下城市高峰論壇 鍾東錦分享苗栗甦醒",
-            "苗栗三灣鄉8/13起發生活補助5000元 1499名長者匯款入帳"
-          ]
-        },
-        {
           "title": "宜蘭地方動態",
           "city": "宜蘭",
           "place": "宜蘭縣政府",
@@ -70679,6 +70663,22 @@
             "2026東北角外澳月夜連兩天開唱！宜蘭14家旅宿推出限定住房專案",
             "陳琬惠問林國漳是選宜蘭縣長還是選教育部長？",
             "遊宜蘭疑遭藤蔓勾倒 連人帶車重摔送醫"
+          ]
+        },
+        {
+          "title": "苗栗地方動態",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "yellow",
+          "news_count": 64,
+          "comment_count": 0,
+          "negativity_pct": 3,
+          "is_urgent": false,
+          "urgency_score": 70,
+          "sample_titles": [
+            "苗栗縣長鍾東錦受邀演講　「苗栗甦醒」分享近年轉變",
+            "天下城市高峰論壇 鍾東錦分享苗栗甦醒",
+            "苗栗三灣鄉8/13起發生活補助5000元 1499名長者匯款入帳"
           ]
         },
         {
@@ -70825,22 +70825,6 @@
           ]
         },
         {
-          "title": "基隆地方動態",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "red",
-          "news_count": 22,
-          "comment_count": 0,
-          "negativity_pct": 9,
-          "is_urgent": false,
-          "urgency_score": 28,
-          "sample_titles": [
-            "男子基隆大武崙遭浪捲走失蹤1天 空拍機尋獲遺體",
-            "基隆地檢署反賄選 檢察長陳佳秀寄信給251里長",
-            "白海豚海警發布！暴風圈最快明觸陸 基隆、新北首當其衝"
-          ]
-        },
-        {
           "title": "新竹縣地方動態",
           "city": "新竹縣",
           "place": "新竹縣政府",
@@ -70854,6 +70838,22 @@
             "中颱白海豚逼近北台 新竹縣全面整備防颱",
             "鄭朝方出手了！聯手「這鄉鎮」解決用水問題 新竹縣民有福了",
             "國民黨主席鄭麗文今表示，新竹縣長初選致副縣長陳見賢與立委徐欣瑩皆受傷，徐欣瑩釋出很多善意，應該還沒有見到陳見賢，但沒有關"
+          ]
+        },
+        {
+          "title": "基隆地方動態",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "red",
+          "news_count": 22,
+          "comment_count": 0,
+          "negativity_pct": 9,
+          "is_urgent": false,
+          "urgency_score": 28,
+          "sample_titles": [
+            "男子基隆大武崙遭浪捲走失蹤1天 空拍機尋獲遺體",
+            "基隆地檢署反賄選 檢察長陳佳秀寄信給251里長",
+            "白海豚海警發布！暴風圈最快明觸陸 基隆、新北首當其衝"
           ]
         },
         {
@@ -70973,15 +70973,15 @@
           "city": "台中",
           "place": "台中市烏日區",
           "level": "red",
-          "news_count": 59,
+          "news_count": 60,
           "comment_count": 10,
           "negativity_pct": 8,
           "is_urgent": true,
-          "urgency_score": 96,
+          "urgency_score": 97,
           "sample_titles": [
             "10億騙局律師背景曝光！他酸爆「望周知」：怎又跟盧秀燕有關 | 要聞",
             "10億騙局律師背景曝！他酸爆：又有關盧秀燕",
-            "烏日區旭日國小校舍動工 盧秀燕任內第10所新校開工"
+            "「你的油我要通報什麼」？黃偉哲2句話打臉盧秀燕"
           ]
         },
         {
@@ -71037,11 +71037,11 @@
           "city": "高雄",
           "place": "高雄市鼓山區",
           "level": "red",
-          "news_count": 133,
+          "news_count": 131,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 166,
+          "urgency_score": 164,
           "sample_titles": [
             "蕭美琴赴高雄視察城鎮韌性演習　AIT高雄分處長史崇理到場觀摩",
             "高雄市長選舉的對決局勢今天突然升溫，藍綠市長參選人柯志恩、賴瑞隆先為雙語政見開嗆，雙方你來往我往，不斷透過新聞稿攻擊。賴",
@@ -71053,11 +71053,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 151,
+          "news_count": 149,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 178,
+          "urgency_score": 176,
           "sample_titles": [
             "桃園殺妻！老翁持鐵棍、鐵尺暴打 8旬婦「右半臉被砸爛」慘死",
             "疑不堪碎念！桃園老翁殺85歲妻 金屬拐杖「打斷成兩截」",
@@ -71069,11 +71069,11 @@
           "city": "台北",
           "place": "台北市大安區",
           "level": "red",
-          "news_count": 194,
+          "news_count": 193,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 254,
+          "urgency_score": 250,
           "sample_titles": [
             "前總統蔡英文將出任民進黨新北市長參選人蘇巧慧的競選總部主委。蘇巧慧今天受訪時證實，之前邀請蔡總統擔任，她一口答應，蔡英文",
             "年底地方縣市選舉逐漸白熱化，近期發生「東發號」簽名事件外，連大安區知名黃禎憲皮膚科診所在2022年貼出蔣萬安布條，近期也",
@@ -71085,15 +71085,15 @@
           "city": "台中",
           "place": "台中市清水區",
           "level": "red",
-          "news_count": 308,
+          "news_count": 306,
           "comment_count": 0,
           "negativity_pct": 24,
           "is_urgent": false,
-          "urgency_score": 527,
+          "urgency_score": 525,
           "sample_titles": [
+            "中市自由一期立體停車場分享評價 送史努比好禮 | 青年日報",
             "白海豚海警！ 雨彈將炸台中以北　不排除明發陸警",
-            "石崇良喊公開7/3會議紀錄 中市府反嗆「貴人多忘事」：食藥署也在場",
-            "[Gossiping] [新聞] 涉詐慈濟10億！女律師被爆曾任中市府法扶"
+            "石崇良喊公開7/3會議紀錄 中市府反嗆「貴人多忘事」：食藥署也在場"
           ]
         }
       ]

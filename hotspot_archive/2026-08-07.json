@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "snapshot_at": "2026-08-07T10:43:16.253043+00:00",
+  "snapshot_at": "2026-08-07T10:56:25.202058+00:00",
   "hotspots": [
     {
       "title": "藍營路線爭議",
@@ -18,7 +18,7 @@
           "url": "https://www.mnews.tw/story/20260807nm029",
           "time": "2026-08-07 18:30:49",
           "publisher": "鏡新聞",
-          "severity": null
+          "severity": "yellow"
         }
       ],
       "comments": []
@@ -39,6 +39,27 @@
           "url": "https://tw.news.yahoo.com/%E6%9B%BE%E6%80%A7%E4%BE%B52%E5%A5%B3%E9%97%9C12%E5%B9%B4-%E4%BB%96%E9%97%96%E5%AE%BF%E8%88%8D-%E5%87%BA%E8%81%B2%E6%AE%BA%E6%AD%BB%E5%A6%B3-%E5%86%8D%E6%AC%A1%E5%BE%97%E9%80%9E-%E5%8F%B0%E5%8D%97%E6%83%A1%E7%8B%BC%E4%B8%8B%E5%A0%B4%E6%9B%9D%E5%85%89-015200813.html",
           "time": "2026-08-07 09:52:00",
           "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "彰化車禍事件",
+      "city": "彰化",
+      "place": "彰化縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "礁溪路口車禍頻傳 議員林聰池會勘研議左轉道明年7月可望完工",
+          "url": "https://www.cdns.com.tw/articles/1441216",
+          "time": "2026-08-07 17:43:42",
+          "publisher": "中華日報",
           "severity": "yellow"
         }
       ],
@@ -102,27 +123,6 @@
           "url": "https://www.thehubnews.net/archives/652051",
           "time": "2026-08-06 19:51:00",
           "publisher": "新頭條",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "彰化車禍事件",
-      "city": "彰化",
-      "place": "彰化縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "礁溪路口車禍頻傳 議員林聰池會勘研議左轉道明年7月可望完工",
-          "url": "https://www.cdns.com.tw/articles/1441216",
-          "time": "2026-08-07 17:43:42",
-          "publisher": "中華日報",
           "severity": "yellow"
         }
       ],
@@ -249,6 +249,34 @@
           "url": "https://news.ltn.com.tw/news/society/breakingnews/5531740",
           "time": "2026-08-07 12:32:29",
           "publisher": "自由時報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄詐騙案",
+      "city": "高雄",
+      "place": "高雄市前鎮區",
+      "level": "green",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "高雄市長選舉的對決局勢今天突然升溫，藍綠市長參選人柯志恩、賴瑞隆先為雙語政見開嗆，雙方你來往我往，不斷透過新聞稿攻擊。賴跟黨內初選時的競爭對手邱議瑩、許智傑同一陣線，齊聲攻擊柯志恩是詐騙集團的共犯、幫凶，須為當年的疫苗採購案向時任...",
+          "url": "https://udn.com/news/story/124652/9677734?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-08-07 18:30:49",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "詐團假貸款真詐騙 前鎮警瓦解重要金流節點",
+          "url": "https://tw.news.yahoo.com/%E8%A9%90%E5%9C%98%E5%81%87%E8%B2%B8%E6%AC%BE%E7%9C%9F%E8%A9%90%E9%A8%99-%E5%89%8D%E9%8E%AE%E8%AD%A6%E7%93%A6%E8%A7%A3%E9%87%8D%E8%A6%81%E9%87%91%E6%B5%81%E7%AF%80%E9%BB%9E-095900984.html",
+          "time": "2026-08-07 17:59:00",
+          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -592,9 +620,9 @@
       "comments": []
     },
     {
-      "title": "台中弊案爭議",
-      "city": "台中",
-      "place": "台中市政府",
+      "title": "高雄弊案爭議",
+      "city": "高雄",
+      "place": "高雄市政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -603,10 +631,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "前彰化律師公會理事長陳昱瑄涉嫌假冒採購疫苗詐騙慈濟基金會10.6億元，遭台中地檢署起訴。民進黨點名台北市長蔣萬安，民眾黨前主席柯文哲等7名政要應向當初抹黑的民進黨政府及防疫團隊道歉。民眾黨立院黨團主任陳智菡指出，綠營將詐騙案與當年BNT疫苗採購爭議混為一談非常荒謬，當年質疑的是疫情緊急、疫苗都不夠了，為什麼還要用意識形態區分疫苗？",
-          "url": "https://udn.com/news/story/6656/9677155?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-08-07 14:20:57",
-          "publisher": "聯合新聞網",
+          "title": "快訊／驚爆涉貪污！高雄議員范織欽…遭檢調帶回漏夜偵訊",
+          "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E9%A9%9A%E7%88%86%E6%B6%89%E8%B2%AA%E6%B1%A1-%E9%AB%98%E9%9B%84%E8%AD%B0%E5%93%A1%E8%8C%83%E7%B9%94%E6%AC%BD-%E9%81%AD%E6%AA%A2%E8%AA%BF%E5%B8%B6%E5%9B%9E%E6%BC%8F%E5%A4%9C%E5%81%B5%E8%A8%8A-005500343.html",
+          "time": "2026-08-07 08:55:00",
+          "publisher": "Yahoo新聞",
           "severity": "red"
         }
       ],
@@ -634,9 +662,9 @@
       "comments": []
     },
     {
-      "title": "高雄弊案爭議",
-      "city": "高雄",
-      "place": "高雄市政府",
+      "title": "台中弊案爭議",
+      "city": "台中",
+      "place": "台中市政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -645,10 +673,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "快訊／驚爆涉貪污！高雄議員范織欽…遭檢調帶回漏夜偵訊",
-          "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E9%A9%9A%E7%88%86%E6%B6%89%E8%B2%AA%E6%B1%A1-%E9%AB%98%E9%9B%84%E8%AD%B0%E5%93%A1%E8%8C%83%E7%B9%94%E6%AC%BD-%E9%81%AD%E6%AA%A2%E8%AA%BF%E5%B8%B6%E5%9B%9E%E6%BC%8F%E5%A4%9C%E5%81%B5%E8%A8%8A-005500343.html",
-          "time": "2026-08-07 08:55:00",
-          "publisher": "Yahoo新聞",
+          "title": "前彰化律師公會理事長陳昱瑄涉嫌假冒採購疫苗詐騙慈濟基金會10.6億元，遭台中地檢署起訴。民進黨點名台北市長蔣萬安，民眾黨前主席柯文哲等7名政要應向當初抹黑的民進黨政府及防疫團隊道歉。民眾黨立院黨團主任陳智菡指出，綠營將詐騙案與當年BNT疫苗採購爭議混為一談非常荒謬，當年質疑的是疫情緊急、疫苗都不夠了，為什麼還要用意識形態區分疫苗？",
+          "url": "https://udn.com/news/story/6656/9677155?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-08-07 14:20:57",
+          "publisher": "聯合新聞網",
           "severity": "red"
         }
       ],
@@ -671,34 +699,6 @@
           "time": "2026-08-07 01:25:41",
           "publisher": null,
           "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "高雄詐騙案",
-      "city": "高雄",
-      "place": "高雄市前鎮區",
-      "level": "yellow",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "高雄市長選舉的對決局勢今天突然升溫，藍綠市長參選人柯志恩、賴瑞隆先為雙語政見開嗆，雙方你來往我往，不斷透過新聞稿攻擊。賴跟黨內初選時的競爭對手邱議瑩、許智傑同一陣線，齊聲攻擊柯志恩是詐騙集團的共犯、幫凶，須為當年的疫苗採購案向時任...",
-          "url": "https://udn.com/news/story/124652/9677734?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-08-07 18:30:49",
-          "publisher": "聯合新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "詐團假貸款真詐騙 前鎮警瓦解重要金流節點",
-          "url": "https://tw.news.yahoo.com/%E8%A9%90%E5%9C%98%E5%81%87%E8%B2%B8%E6%AC%BE%E7%9C%9F%E8%A9%90%E9%A8%99-%E5%89%8D%E9%8E%AE%E8%AD%A6%E7%93%A6%E8%A7%A3%E9%87%8D%E8%A6%81%E9%87%91%E6%B5%81%E7%AF%80%E9%BB%9E-095900984.html",
-          "time": "2026-08-07 17:59:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -852,7 +852,7 @@
           "url": "https://udn.com/news/story/124652/9677692?from=udn-ch1_breaknews-1-cate1-news",
           "time": "2026-08-07 18:30:49",
           "publisher": "聯合新聞網",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "115年南投縣「0-5歲嬰幼兒閱讀推廣」活動開始報名 歡迎民眾踴躍參加",
@@ -1069,468 +1069,6 @@
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPX3dXeFVPUzJOeTB6aG5RZ3pLQVhVY0VwS2k1MFQ2R0JPRmNkYXdtSm42NW1PNXZoTzg2YUlWcEkyRHNCQmdRLVFmNUJJdXBKYlZVWTB3bHNxbXlaTzZLNEZ4Y0piQ21fTHhVX2dhTlZXNEtFMkJWSk9ZbFNLem1TN2JGSVpjZFNQWkxSN3JmYmVDYjkzQ19tUXMwVXVPOXl2VG1fZmt4NVVQMVpFZHBzZUgya3VlbVNnMlFjcU9JQld4cFczNjJUZWQ4Vzl6MHl0RXUyN090ZjhMc3pSbmxhZFk3S1Y5bThiOUxVaHpTOTBueS0zWmdqOFl6YWNzUQ?oc=5",
           "time": "2026-08-06 20:23:04",
           "publisher": "Yahoo新聞",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "苗栗地方動態",
-      "city": "苗栗",
-      "place": "苗栗縣政府",
-      "level": "yellow",
-      "news_count": 64,
-      "comment_count": 0,
-      "negativity_pct": 3,
-      "is_urgent": false,
-      "urgency_score": 70,
-      "news_articles": [
-        {
-          "title": "苗栗縣長鍾東錦受邀演講　「苗栗甦醒」分享近年轉變",
-          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=981290",
-          "time": "2026-08-07 18:30:56",
-          "publisher": "苗栗縣政府",
-          "severity": null
-        },
-        {
-          "title": "天下城市高峰論壇 鍾東錦分享苗栗甦醒",
-          "url": "https://tw.news.yahoo.com/%E5%A4%A9%E4%B8%8B%E5%9F%8E%E5%B8%82%E9%AB%98%E5%B3%B0%E8%AB%96%E5%A3%87-%E9%8D%BE%E6%9D%B1%E9%8C%A6%E5%88%86%E4%BA%AB%E8%8B%97%E6%A0%97%E7%94%A6%E9%86%92-094945726.html",
-          "time": "2026-08-07 17:49:45",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "苗栗三灣鄉8/13起發生活補助5000元 1499名長者匯款入帳",
-          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOOWZqa0pPZ1ozXy1iZEZ5OVdtWjNqcnJFUmtQeXU2Zi1SWXBQOTJtM24zUHNMTTM3NGVubEpXY0x1cnhBQVVHSThySXE2Qm94blg2el9VOHI3dVZXZXNlaXZmMkZMRHAzQkNQWmNUbVNFaUVBWno4bURHdDl2cV9HRkpnTVlCUE9UUHU4cWo5U0RuQWgzV0NCeGo5dWlHWmxJNVFtTWt1MGl1RF8wS3g5WFNIczJJR3UtLWcwd1NpYkhSdU9wSks2MmlqSUxsUTg3ZzVYTFpGakxNUV80ZElkSThFZVVyblJ1OVMtNEVQOUJPeW51Wl96dEFySEVDd0tiRVhGekhBejNOUmNkdFFxNFRXWDZRNW5lYzlGQURYZW9ySGUtSG1QQTJwLU5ZWXgwM1A5eFV2WUQyRmFfekJrQWZSNXRhcndN?oc=5",
-          "time": "2026-08-07 17:30:08",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "苗栗南庄301農路修不修？ 縣長、議員不同調議會互槓",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4QjJrbXFUaG43RzVGbzdhUXdNUVllU2JVazFNRDdXZ0l1TEpXWjJlS0JRel9hb1F3T2EyUVQ4aE5RRVVtZzJYdVFoRTd2c01ick5KYkFIdTV5QUhtUWZkeg?oc=5",
-          "time": "2026-08-07 17:29:27",
-          "publisher": "Google News→民視新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "賴清德高級酸嗆爆盧秀燕！林育卉批盧：連苗栗都比不上｜#頭家來開講",
-          "url": "https://www.youtube.com/watch?v=mMe8wafIzzU",
-          "time": "2026-08-07 17:20:16",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "苗栗農村綠色照顧成果登上全國舞台 後龍水尾、埔頂社區參展高齡健康產業博覽會",
-          "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNX3Y4a3REU2xWRHp6MW4td1R4SmZiUFhkN0dMLVVEU3RmM2RJR1RWTWprcG81RUZWR1ctZ2FzYnhpRWZBOU1BREpydFhtNEEzd2k4a2wtd2FKRVRvNHI2YUR1ajZNWjhOZkk1VFQ0THozR19kWHNDelZIWkstcXVwZ1ZRSVpJV1ZYcXdqNmo2YVRfNmlNX1FTMEpFY1V3OHZsQy1nVVVqVEJsd040WnJsb2lvbk11UVhCZ25JVmhWbUplRkdueUx3MDI4dFljaVRrM3JFSmxRZmZCbzdWTjNDVEZZZTZGOVVLVnVqeVZtMDNYYVFtVWFIZGZhLVR2RERkSUk5QklUNF9oWFJRM1ZuT29tRTNKNmowTFJxdG1pNWxlRVNuQjRuejQxUDExQk9QQlFhaWRENk5KVjdpNEVyb21wOUpRUVJQWjRkQU9FaExaaFYybzdKN2pkcmp0a1ZHcl84alhqTGFjc2d1Y2dSOWFaTTdmajM5UmlMeldObWhLREh4dllLYzlleTFIZDhpVzV4OTJQdDVJQkJ6V3VHV3V1ZXJwS2dDX01iLUF6QUlMMW5GekRybWlhZHdfeGxCMWNuTjB2cHNUNm8xMlgyc1N1dnRjdklPOW43d2N5clpuMEFGNVRIV3lKbW9tZG9WTDl5UDluTVhZQQ?oc=5",
-          "time": "2026-08-07 17:04:59",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "苗栗縣頭份市某私立幼兒園疑似不當對待幼兒案件說明稿",
-          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=981157",
-          "time": "2026-08-07 17:03:55",
-          "publisher": "苗栗縣政府",
-          "severity": "yellow"
-        },
-        {
-          "title": "苗栗通霄沙雕節迎父親節放風箏 七夕接吻66秒喜抽黃金",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBZnkyYlpHX1JPNUhrQWlaZEhCbnJhcXZVcXpwcUVzTWxTM3lYSmVEQUxQQWtKODN6bG16MGRwcjJhQWlOVnE1R3NLZ2I4OEs10gFWQVVfeXFMTkdRSTRfUlVPTWNwdUJ4ZHI0UnpLTnp4RHZnOGxRbUV2UTlnRG0wNmc4NzdodWVGNmZfR3g0ZXRYdlNGS3dEREpoUzBnVE5feEU5cGltX0E?oc=5",
-          "time": "2026-08-07 17:01:52",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "苗栗客家青少年訪問團赴馬來西亞 深化台馬客家文化交流 - 社會新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaEE2eUU3R25OZnA3dHBSeG1QbWtjSmt5bEpIMW41LVhOdDhrbGljek1yZHlFSjVDRjNWd3NYWUNfaVpZakNMMV9sSno3NHh6bXh6Zzl1TXVmeEowWTRKMmNraWhsMVBkeWlRUkNSYXhVM2Yybm5wNE5IYkJ5Ym51UVk1Z2FfY0JzRUczMQ?oc=5",
-          "time": "2026-08-07 16:55:16",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "白海豚颱風逼近 台電苗栗區處戒備",
-          "url": "https://taiwanreports.com/archives/1004446",
-          "time": "2026-08-07 16:51:18",
-          "publisher": "臺灣導報",
-          "severity": null
-        },
-        {
-          "title": "苗栗蜂蜜飄香全國 展現養蜂實力",
-          "url": "https://taiwanreports.com/archives/1004444",
-          "time": "2026-08-07 16:50:28",
-          "publisher": "臺灣導報",
-          "severity": null
-        },
-        {
-          "title": "苗栗農村綠色照顧成果 登上全國舞台",
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDgza1RHZUNkTlBoNTlzRy1QZkZwZzhpaTN3SGNQY0tTNW5PMXYzS2xBMUNrMnhYcEVmQzRsV1AycVlXclZhdVZrdW1kdlRXSEZKWV9mdzZ5eEY5S29Fbi1xbTNJTnI1YVl1bXNkVkFST3AwVDNWZ0lUV0pKUkR4dnJqdlFmRW9ySl9zU05LeFFlNlpqRHpCQmhSaDVyUjZOMlpYT0xtbnB6bzJ0SkFjUkp1VzA3cTFSaXROZjhLa0RmOHQ5azBwUFBod1ZiWFpzX0hFMi1aeWhBOE5HMDRGcWRDRzR0TmU0SWsxaVBGOFBWdjNoMUJXd1AxOTRwT0RuZVBkZW5MT0tyM2ZuelBvZWhkcVM?oc=5",
-          "time": "2026-08-07 15:40:11",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "苗栗3校赴新馬交流 齊聚新加坡展國際教育成果",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MMHZmTk1jbVlwN3lNZFZJSi1BVVVJQm5JRHpDNFpoWmtNZm5TVGxiajFkMW9jaWYtTE5tWmFwaEE5Zjl3eTdKd2N4RDRFZzg2SV9xcmJwSkhoTWZKTjJsRHJEUkFJcUllU04yLV93?oc=5",
-          "time": "2026-08-07 15:24:43",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "苗栗市後備軍人輔導中心協力自強演習 支援聯合徵集作業",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3RmJYOTJ1dHFqYlRkTllidzJSM05CSGY2VUhBR0tWNW8wLWlyTGVvNFF0el9yYndEX3JzczdwRDkxdUxvWkN4RlV1SFRPV0hLWWRyRWlsNVBYYmZTTFd6QVkycDlJSGFP?oc=5",
-          "time": "2026-08-07 15:19:30",
-          "publisher": "Google News→元丰傳媒",
-          "severity": null
-        },
-        {
-          "title": "苗栗客家青少年訪問團前進馬來西亞 深化國際客家文化交流",
-          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQWWowcmN4Y2V5SjJaWUZCVlY4RVdyLWtld2RqTnVYREhJX0pYZVJIVkZTblJvRXE2SXdBaUdCTVEzaTNpdVdzSVlWSlRNZHRXRmlqUEJGNXBkRTNYbE9KYlQ0MVFUNW1UdFNHRHY3MnItQ3lzYnFKSDQxanlaZnByNlduZklJMmhOdGNpM0psTGxIbFRNVzJOcU1tOFhEZTg4UWVvMUpKcF8xSS0tSnVFdU5iYnFrZE9Kc3hPV0VWTDBVM3BVR1ZjLUh3eDhBVFRRYi1GR1hfQ3g2azBuTXdhUjFlSFhOQWV6alVscTV5bUhZdGQ1MXFnY0xicHZBb3dleHBUTWgxLUNldzZoUmR1Y3BjUzZKaEZaNlU4RUlkSHN5d2IyclgxVGZDeHUxRHdEWlFuQzRmX0IybTNwZUhxMVl5bkNkOXhHTjZnSVZwb3I2ZE9ud3p2dEh3MnNyRlZUazluZEZjeHllRmJJb01tVjg1elV3dXlkVV9HQnMtdG1MN1UyR1VXWm1BZFU?oc=5",
-          "time": "2026-08-07 15:07:12",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "苗栗客家青少年訪問團前進馬來西亞  深化國際客家文化交流",
-          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=981066",
-          "time": "2026-08-07 14:21:05",
-          "publisher": "苗栗縣政府",
-          "severity": null
-        },
-        {
-          "title": "撿海漂物、種友善菜園 苗栗後龍農村走出高齡照顧新路",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91akVkLTZ4UkNCV0M5OG45THR1T1FqOXpDeU5ydFhuZFZCdVEtTnNJWEJkbVdNY2tKbk94dUwwR0hOVFV6LUQtOF9Ta2xObGVJcnZEeTQxYm5ZRWpSZWxWdkVFdDJBR3RvMFgxUkhB?oc=5",
-          "time": "2026-08-07 14:20:30",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "賴清德高級酸嗆爆盧秀燕！林育卉批盧：連苗栗都比不上｜#頭家來開講",
-          "url": "https://www.youtube.com/watch?v=1ea5kVT2Yf8",
-          "time": "2026-08-07 14:00:28",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "苗栗通霄沙雕節迎父親節、七夕 放風箏、接吻66秒抽黃金",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5531853",
-          "time": "2026-08-07 13:56:09",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "苗栗通霄沙雕節迎父親節、七夕放風箏、接吻66秒抽黃金- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBINlZjVmdBX2RGMXFOalZZdF92UkxQSlQ5aHMwTGtrczliaHdjUWxpUk40R3Bfa1pJOTh6Z2xfandkZlJKU0lXdTVVT21HNloxc1lLaTBWWEVTVFgzZHNnbkpvS0k?oc=5",
-          "time": "2026-08-07 13:56:09",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "苗栗地檢署檢察長遞交宣導信 嚴防境外勢力介選 邀請村里長一齊維繫公平選舉",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LZHd5QThDc2dTcVk2dGJYT3BoekZTYWxGcWNtUEZCT0VVN2NqOFJUZUI2U3hENzA5bmVKamdIV2VFTzN3aFpnbjBxM2lnZzdLdVE?oc=5",
-          "time": "2026-08-07 13:56:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "苗栗借問站增至55處 打卡填問卷抽行李箱",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5531870",
-          "time": "2026-08-07 13:54:47",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "苗栗借問站增至55處打卡填問卷抽行李箱- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xa2VPRjB5NFB4bHlkQmYyOVB5WGpTNV9QcHpMbTJaUnBQVUdsQW1BRkNZbE0tOEZTeHQxcmVHUlpIR3lxWUk5ajJRUzhUQnhZa2hYWmdXZWVVU3c3Q1UzeXpVWDk?oc=5",
-          "time": "2026-08-07 13:54:47",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "父親節捐10張雲端發票換200元商品卡 苗栗稅務局8日加碼限量100份",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ReW1KQzJhakNkSXo0MkwxTnZFVGtCaURZZmdscWZKdGs4Sm9NalBBZ2hNMmlaT005bUZxOWRmS0FoQ18wOEdQMVlLV2xDZTdodjFubXRrUzUxcTQyX1NoUE5UY0N3RlZy?oc=5",
-          "time": "2026-08-07 13:50:49",
-          "publisher": "Google News→博識網頁設計",
-          "severity": null
-        },
-        {
-          "title": "苗栗頭份警銀聯手導入QR Code通報機制",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQdnBrUDE2bW82RTdIYXdvMHk0c2g4OGpoYXNHeFM3RUQxWHdMN0ZWSU9oNXJYbzFIR01mZG9YT1VHbkN5RndkcnpsZVMxUGRwOTlNQkRlaGJPNFlVaktPa2xHOVdZVnc2UUJDTkRVUEhjRm10WEVveGZZOUloR1paaTJOcDQ0ckpNQUdsVUxWOGQtYXNsWkd6Uml5ZG9UY09OY3BFcGlzRXhNZHhsVkZnYkxUOHJUczVoZzdPYjEyblNiWDRFZFpIeHhoZFdLSDE1aEZ5NV8ySHVuNkFOa09KNUc2M2hRaEhQVWdFcEdHNVJEX1VLeDdqbkRuMTIya1NZN1d5c3VaaWRRdTJzazFoNA?oc=5",
-          "time": "2026-08-07 13:48:54",
-          "publisher": "Google News→報新聞",
-          "severity": null
-        },
-        {
-          "title": "苗栗頭份警走入社區宣導防詐 提升民眾識詐能力守護財產安全",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uelhuWE9ORW56Wml2VmtvQ2dUVFlHSzF6NEZWSUR1VWxqcGtiaWpGUnBPalNZZHY5ZzNPVmowVGlDTUxxYmxHaVJzWFYzNHdvX3c?oc=5",
-          "time": "2026-08-07 13:48:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "苗栗三灣鄉發錢了！8／13起開領5000元生活補助",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjT3ZnMlF6LWVoYndsUHM5SUNzYTJid3lndEtRbk1xNHFUXzQ5SVRvcmdTaTd0VHhOa2QzQ05BOHY3TGs2cE4tbTRXc25oTFJyQlJEakdRbDRualp6cUl5ZGVORlRqeC1GYThCaWpB?oc=5",
-          "time": "2026-08-07 13:46:40",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "苗栗三灣鄉發錢了！8／13起開領5000元生活補助- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmLXNsSF9DdDF5U1MwM1NpaWczMll5akRuWHFSWmEwYUxtR0pmcU1XSl9FUkgzZXZERWVHcVRFSXRqTkI1WDFNTjFxZnkxVnpwblZTNlZfU0dlWnNrMXE0?oc=5",
-          "time": "2026-08-07 13:46:00",
-          "publisher": "Google News→工商時報",
-          "severity": null
-        },
-        {
-          "title": "賴清德高級酸嗆爆盧秀燕！林育卉批盧：連苗栗都比不上｜#頭家來開講",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qRVRMTzQ2ckphOW5nWTkyNjEzUlVJTzNZbU00R25Udk1pU3VKbUZOczBsX29LLXJmZTRGcTBqMFJ5S1dJc2prLTdYQmFodTlfOUNDN2hhaFZLZWp6enBYYWZQMXhsOUk?oc=5",
-          "time": "2026-08-07 13:09:05",
-          "publisher": "Google News→民視新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "把握國際交流契機　苗栗縣政府搭建海外合作橋梁　為在地產業爭取更多國際市場機會",
-          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=980930",
-          "time": "2026-08-07 12:58:28",
-          "publisher": "苗栗縣政府",
-          "severity": null
-        },
-        {
-          "title": "買地建屋前先「地套繪查詢」└苗栗縣政府推動多元便民諮詢服務",
-          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=980943",
-          "time": "2026-08-07 12:58:28",
-          "publisher": "苗栗縣政府",
-          "severity": null
-        },
-        {
-          "title": "身陷食安風暴與究責聲浪中的總統賴清德啟動行動中常會，不僅地點選台中，還猛批台中市長盧秀燕的施政滿意度遠遠不及高雄市長陳其邁，在中部縣市中也不如雲林、南投、苗栗，只勉強贏過彰化縣長王惠美；這種比較法看似一石多鳥，其實充滿破綻，不僅和盤托出賴清德2026及2028的選戰策略，更是賴深層憂慮的告白。",
-          "url": "https://udn.com/news/story/6656/9676930?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-08-07 12:58:20",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "強化阻詐防線！ 苗栗推QR Code警銀聯防通報方式",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LVzBBOEk3OVB0aEtrQ2lUdU1oR2RlT2RnRVJQdzZCT0ViaHVjQ2Z5RUx2QzBaeWtLY20zUkFRVWtyTTRaTjdhNjdJa3h1YWt20gFWQVVfeXFMT2c5WTNTUHBQUFRJdlU3V3M2Ti1nMl9HbXRyY3Z3eUt6QndJSHI3SmNYSXZJQ0VGRU1pNXpFLWUzUXZLRC0tM2l6ZFludlhwd0E4ZEtrOGc?oc=5",
-          "time": "2026-08-07 12:54:03",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "點彩之夏｜從藝術課，看見高齡者社會參與的價值：苗栗竹南聖福社區的愛與關懷",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10a0JPZGJ0R2Q3NENfM3IwOXVaUFBRVkh0ZG55bjBlWWloaEttaFpuUHpNUjlMTjZQWkF4RXJONWJMTlpXWlpWYw?oc=5",
-          "time": "2026-08-07 12:33:00",
-          "publisher": "Google News→peopo.org",
-          "severity": null
-        },
-        {
-          "title": "苗栗客家青少年訪問團赴馬來西亞 深化台馬客家文化交流",
-          "url": "https://n.yam.com/Article/20260807361418",
-          "time": "2026-08-07 12:00:00",
-          "publisher": "蕃新聞→互傳媒",
-          "severity": null
-        },
-        {
-          "title": "苗栗農村綠色照顧成果登上全國舞台！ 後龍水尾、埔頂社區前進2026高齡健康產業博覽會",
-          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=980872",
-          "time": "2026-08-07 11:36:55",
-          "publisher": "苗栗縣政府",
-          "severity": null
-        },
-        {
-          "title": "苗栗26歲男失蹤16天　疑騎車自摔卡雜草堆、腐屍飄惡臭",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-08-07/2429268.html",
-          "time": "2026-08-07 11:36:51",
-          "publisher": "壹電視",
-          "severity": "yellow"
-        },
-        {
-          "title": "苗栗地檢署檢察長遞交守護家鄉宣導信 嚴防境外勢力介選邀請村里長一齊維繫公平選舉",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00UFhFTENFbFRmX2ttOUhGclE0NnRSa2pWYldoc0R1T1B3UjlqZXVabk9nbkxfWUVXcGJBZVQ2Z2Jra1FYbFdXR1VFSkRGLVhoclE?oc=5",
-          "time": "2026-08-07 10:43:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "苗栗縣辦理115年度校園性別事件調查專業人員進階培訓 深化調查實務能力　持續打造安全友善校園",
-          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=980926",
-          "time": "2026-08-07 10:21:24",
-          "publisher": "苗栗縣政府",
-          "severity": null
-        },
-        {
-          "title": "苗栗縣率中臺灣觀光叩關新加坡　 齊聚16家旅行社、三大航空　NATAS旅展開賣主題遊程",
-          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=980897",
-          "time": "2026-08-07 10:21:24",
-          "publisher": "苗栗縣政府",
-          "severity": null
-        },
-        {
-          "title": "新竹房價高、購屋族往苗栗看！竹南頭份「公園區」值得買嗎？在地房仲解析優缺點| 住展",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfeXNpRFcySXNyYmRKSUEyckEza0JoSDhsYmR4VG5ndnJfMEJWQ3hPR0NSNEZKRDJNbXBhT3Y5eUZxSTUwZWh0dzJPUU5JcTZnZ2tNSEF3?oc=5",
-          "time": "2026-08-07 10:07:00",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "苗栗強化校園性別事件調查量能 31小時進階培訓守護學生權益",
-          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNdDNOOXhQVkx5QUhpSWJtOUVWTC1hcTRMWjFBcVBhcWh1ZklQRzNrT3N3SnJkb2J1T3RDRXdaNWE2aHV4M0pTZVdEaDhfaER4eW1mVkVOT2FHLTBxYXpaNUo1cFk2Q3V6SmhaYXRiclA3UGlid08zQkZMb0RBQ1J1bm5qZG1FU2FVNVgydzJoeldlUUJ2T2lkY0JvMDRUb3l2SHR0dV80OUR0bVZDZzAzZktwUUhSTmpjVFR0UGRoR3RHV2liQkhwcWJORHlfU3AtUEVDZm9rQjRnWERiY2Z0X0ctbmVzTkpyUFI5R0FKUzR0eUY3eWRRZnlwMS15REp3eEJBcTlMRmVjWnlNQjBSWmJGbmE0cTBmX0UtdVp6ZFdKcGpkX0pzSlNvaHpoa2wxWlRqdUU5R1Q1a0U2dkhDbDRyRkhsQTFSRjhoNWJR?oc=5",
-          "time": "2026-08-07 10:04:17",
-          "publisher": "Google News→yesmedia.com.tw",
-          "severity": null
-        },
-        {
-          "title": "新竹房價高、購屋族往苗栗看！竹南頭份「公園區」值得買嗎？在地房仲解析優缺點",
-          "url": "https://tw.stock.yahoo.com/news/%E6%96%B0%E7%AB%B9%E6%88%BF%E5%83%B9%E9%AB%98%E3%80%81%E8%B3%BC%E5%B1%8B%E6%97%8F%E5%BE%80%E8%8B%97%E6%A0%97%E7%9C%8B%EF%BC%81%E7%AB%B9%E5%8D%97%E9%A0%AD%E4%BB%BD%E3%80%8C%E5%85%AC%E5%9C%92%E5%8D%80%E3%80%8D%E5%80%BC%E5%BE%97%E8%B2%B7%E5%97%8E%EF%BC%9F%E5%9C%A8%E5%9C%B0%E6%88%BF%E4%BB%B2%E8%A7%A3%E6%9E%90%E5%84%AA%E7%BC%BA%E9%BB%9E-020326937.html",
-          "time": "2026-08-07 10:03:26",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "銀行攔阻詐騙更快！ 苗栗推QR Code通報警銀聯防",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5531475",
-          "time": "2026-08-07 09:15:54",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "銀行攔阻詐騙更快！ 苗栗推QR Code通報警銀聯防- 社會",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ONGdzR1B4QkQxSzNBNmhfdE8zcERhVWU4MjJlZXVJemRCYV8wZkdUc3VrQWlJUDlQY0d4NDVzUHdTQVFPUXpoZEVwNEVjTGRVMlp0WGpnWFoyOHdMU2R1UlU0MkRIQTZn?oc=5",
-          "time": "2026-08-07 09:15:54",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "冠軍建材「近零展望建材館」啟用　攜手苗栗邁向低碳建築新未來",
-          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=980298",
-          "time": "2026-08-07 09:15:14",
-          "publisher": "苗栗縣政府",
-          "severity": null
-        },
-        {
-          "title": "苗栗玉清宮捐贈500萬元給縣府        挹注弱勢家庭服務及長照醫療資源",
-          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=980776",
-          "time": "2026-08-07 09:15:14",
-          "publisher": "苗栗縣政府",
-          "severity": null
-        },
-        {
-          "title": "苗栗縣賽夏族民俗文物館開辦「苧麻文化人才培育」及「導覽人才研習課程」共同推廣在地原住民族文化傳承，邀請大家踴躍報名!",
-          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=286&sms=9463&s=979909",
-          "time": "2026-08-07 09:15:14",
-          "publisher": "苗栗縣政府",
-          "severity": null
-        },
-        {
-          "title": "歡慶原住民族日 「八月苗栗・原力全開！」  原民八月系列活動熱情登場 傳統競技、特展、手作一次體驗",
-          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=286&sms=9463&s=974820",
-          "time": "2026-08-07 09:15:14",
-          "publisher": "苗栗縣政府",
-          "severity": null
-        },
-        {
-          "title": "苗栗縣第236處關懷據點在苗栗市維祥里揭牌",
-          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=275&sms=9459&s=979469",
-          "time": "2026-08-07 09:15:14",
-          "publisher": "苗栗縣政府",
-          "severity": null
-        },
-        {
-          "title": "苗栗首創氫能BOT　獲財政部「突破之翼」肯定",
-          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=275&sms=9459&s=976414",
-          "time": "2026-08-07 09:15:14",
-          "publisher": "苗栗縣政府",
-          "severity": null
-        },
-        {
-          "title": "網路取代馬路 打造主動式數位便民服務 苗栗便民快e通 2.0智慧升級啟用",
-          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=275&sms=9459&s=975374",
-          "time": "2026-08-07 09:15:14",
-          "publisher": "苗栗縣政府",
-          "severity": null
-        },
-        {
-          "title": "「苗栗幣」10日起下載好康多多　啟動數位經濟打造智慧消費生活",
-          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=275&sms=9459&s=973132",
-          "time": "2026-08-07 09:15:14",
-          "publisher": "苗栗縣政府",
-          "severity": null
-        },
-        {
-          "title": "苗栗敬老卡 小黃、農會300點擬混用",
-          "url": "https://news.ltn.com.tw/news/Miaoli/paper/1765692",
-          "time": "2026-08-07 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "苗栗敬老卡小黃、農會300點擬混用- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wb3RzVXVWam4wSVRnNld0RkRocV96Njh1d2lLWV9laloxR1pybGc5S1lHY3c4ZXgycFNxNkR5MFlMQm1WMnBMWUpiTDRidGdEYUx3V1dqWE9hMlk?oc=5",
-          "time": "2026-08-07 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "苗栗玉清宮捐贈500萬元給縣府 挹注弱勢家庭服務及長照醫療資源",
-          "url": "https://tw.news.yahoo.com/%E8%8B%97%E6%A0%97%E7%8E%89%E6%B8%85%E5%AE%AE%E6%8D%90%E8%B4%88500%E8%90%AC%E5%85%83%E7%B5%A6%E7%B8%A3%E5%BA%9C-%E6%8C%B9%E6%B3%A8%E5%BC%B1%E5%8B%A2%E5%AE%B6%E5%BA%AD%E6%9C%8D%E5%8B%99%E5%8F%8A%E9%95%B7%E7%85%A7%E9%86%AB%E7%99%82%E8%B3%87%E6%BA%90-164200794.html",
-          "time": "2026-08-07 00:42:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "苗栗玉清宮捐贈500萬元給縣府 挹注弱勢家庭服務及長照醫療資源",
-          "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQQ3V3aGFjei1kdjVBRXJybFRHQlFJSG9UaWw3UmVwNm5uRDNxYVQwN1M0aDVxRU5MYk4wR3dFd1JPcm9UYi1pcVpTamx2cWQ1UnJjS1Z4SWpla3hNTFEyQkZEajg4TmNWcVhsOXBpWi1EZUZXZm9zVFpDNTJSSHlheHlIbk54ejJ1VDFzeXNDa3RDRXQ4OFE1SHJzb1F3eFV0ekUxWWxQcDFzckt2R2pETXhXMm5oZzAzMFJSOHdXV21iUFVMNjlLUnhkRVMzY0M2WERJdWk3c21uZURvWU5weW5pLW5TclUzYVl4Ykp6Vl9BVzBmdlBfQWRNUjNVSGZoX1U2b0lvRjc5clVlS0Rualk0LVo1MzhlMUZXZHFsNk5DcE0tTkNaMlAyUlQ2aHd3VmQ0R25xQm9hSWNrZWdFSEIwRFlHM2pBV2UwUElHUG9ZbmxLWFozTXFsWkRvYThiTHBrNWF2OEhFOWxhNXJqRmktVkMtTkpjNGYxdWtWLTVMS2RLR1gycFV1V2FhQU1RTk44d0ZlRndwNTBp?oc=5",
-          "time": "2026-08-07 00:42:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "頭份私幼遭爆不當管教！幼童被綁手、拉倒 苗栗縣府介入調查",
-          "url": "https://www.chinatimes.com/realtimenews/20260807003638-260405",
-          "time": "2026-08-07 00:36:38",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "苗栗近零展望建材館啟用",
-          "url": "https://tw.news.yahoo.com/%E8%8B%97%E6%A0%97%E8%BF%91%E9%9B%B6%E5%B1%95%E6%9C%9B%E5%BB%BA%E6%9D%90%E9%A4%A8%E5%95%9F%E7%94%A8-130455096.html",
-          "time": "2026-08-06 21:04:55",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "玉清宮捐款 挹注苗栗弱勢家庭",
-          "url": "https://tw.news.yahoo.com/%E7%8E%89%E6%B8%85%E5%AE%AE%E6%8D%90%E6%AC%BE-%E6%8C%B9%E6%B3%A8%E8%8B%97%E6%A0%97%E5%BC%B1%E5%8B%A2%E5%AE%B6%E5%BA%AD-130455765.html",
-          "time": "2026-08-06 21:04:55",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "關懷弱勢邊緣戶 苗栗玉清宮捐500萬善款 | 客家電視",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQT2M1Y1ZyR0UyTFgwVUI4dHBEWlNxbURBWWxwemszNFNpbW5mY2VwaV96cjNWU3N3NEQ0UEVfWVRhbU1qeEltb3E1NlZWd2N0b01wUlBn?oc=5",
-          "time": "2026-08-06 20:18:23",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "輔導會視察苗栗榮服處聯袂拜會企業協助退除役官兵就業 | 勁報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iQTRzb041VlNrNnVVbXlrYllOSTc4dG5GZFFTZW11cno2V0drd2w3eEc2OTBpNk84MFh2UmZpXzYxNzhxNDJIUUJaQWF1MEpvWnN2dVVB?oc=5",
-          "time": "2026-08-06 19:31:45",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "苗栗玉清宮捐500萬元助弱勢與長照 4度挹注累計2千萬元",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lc0RjRGxVMjd2MW5QZ3VzSmVrZEVkSWpzcklsaXExTlBYOThiOTRSX0xBUmhROW9wSG9VcWtUYno5cE5Hc1NfT200N3BfMWhabFE?oc=5",
-          "time": "2026-08-06 19:24:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "輔導會視察苗栗榮服處聯袂拜會企業 協助退除役官兵就業 - 生活新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2hpY0xvdkItQmRQN2Q1ZE02dFVpOThrbmJuZWIwUFBNNWFBa0tHTWNXU1VBX2w5bktJSk54Y252WDdQQWcyemFYM2JobnM0REotZFhxNXZqSE1sN3c5NHk0M0RUUXlNcUFSdlFYUVRXZ2pZdUxwdGw3ZEl4cTdubkp1SGUwaUFEbE84X2paRQ?oc=5",
-          "time": "2026-08-06 19:05:00",
-          "publisher": "Google News→news.pchome.com.tw",
           "severity": null
         }
       ],
@@ -1993,6 +1531,468 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KWG01TnBGVjJZbGtsWE9PVUVpak56aGxWOGo5YTVHT0lfUHVjcHBESEVXTkg3dkNQeHlYTTRIRzNCV1RFUzA0RktsQ3JQOUEt0gFWQVVfeXFMT2FVWHV2dlIzbkhVN0N0NEo3Vm9QdUdteTRnSVZEX0RpeThUQ0x4TTZfallDWDhQNjNJcnVfWFlNMWVoRkhlT0o4X1RnbWh6NWh2Z0V0eWc?oc=5",
           "time": "2026-08-06 19:59:33",
           "publisher": "Google News→UDN",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "苗栗地方動態",
+      "city": "苗栗",
+      "place": "苗栗縣政府",
+      "level": "yellow",
+      "news_count": 64,
+      "comment_count": 0,
+      "negativity_pct": 3,
+      "is_urgent": false,
+      "urgency_score": 70,
+      "news_articles": [
+        {
+          "title": "苗栗縣長鍾東錦受邀演講　「苗栗甦醒」分享近年轉變",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=981290",
+          "time": "2026-08-07 18:30:56",
+          "publisher": "苗栗縣政府",
+          "severity": null
+        },
+        {
+          "title": "天下城市高峰論壇 鍾東錦分享苗栗甦醒",
+          "url": "https://tw.news.yahoo.com/%E5%A4%A9%E4%B8%8B%E5%9F%8E%E5%B8%82%E9%AB%98%E5%B3%B0%E8%AB%96%E5%A3%87-%E9%8D%BE%E6%9D%B1%E9%8C%A6%E5%88%86%E4%BA%AB%E8%8B%97%E6%A0%97%E7%94%A6%E9%86%92-094945726.html",
+          "time": "2026-08-07 17:49:45",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "苗栗三灣鄉8/13起發生活補助5000元 1499名長者匯款入帳",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOOWZqa0pPZ1ozXy1iZEZ5OVdtWjNqcnJFUmtQeXU2Zi1SWXBQOTJtM24zUHNMTTM3NGVubEpXY0x1cnhBQVVHSThySXE2Qm94blg2el9VOHI3dVZXZXNlaXZmMkZMRHAzQkNQWmNUbVNFaUVBWno4bURHdDl2cV9HRkpnTVlCUE9UUHU4cWo5U0RuQWgzV0NCeGo5dWlHWmxJNVFtTWt1MGl1RF8wS3g5WFNIczJJR3UtLWcwd1NpYkhSdU9wSks2MmlqSUxsUTg3ZzVYTFpGakxNUV80ZElkSThFZVVyblJ1OVMtNEVQOUJPeW51Wl96dEFySEVDd0tiRVhGekhBejNOUmNkdFFxNFRXWDZRNW5lYzlGQURYZW9ySGUtSG1QQTJwLU5ZWXgwM1A5eFV2WUQyRmFfekJrQWZSNXRhcndN?oc=5",
+          "time": "2026-08-07 17:30:08",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "苗栗南庄301農路修不修？ 縣長、議員不同調議會互槓",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4QjJrbXFUaG43RzVGbzdhUXdNUVllU2JVazFNRDdXZ0l1TEpXWjJlS0JRel9hb1F3T2EyUVQ4aE5RRVVtZzJYdVFoRTd2c01ick5KYkFIdTV5QUhtUWZkeg?oc=5",
+          "time": "2026-08-07 17:29:27",
+          "publisher": "Google News→民視新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "賴清德高級酸嗆爆盧秀燕！林育卉批盧：連苗栗都比不上｜#頭家來開講",
+          "url": "https://www.youtube.com/watch?v=mMe8wafIzzU",
+          "time": "2026-08-07 17:20:16",
+          "publisher": null,
+          "severity": null
+        },
+        {
+          "title": "苗栗農村綠色照顧成果登上全國舞台 後龍水尾、埔頂社區參展高齡健康產業博覽會",
+          "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNX3Y4a3REU2xWRHp6MW4td1R4SmZiUFhkN0dMLVVEU3RmM2RJR1RWTWprcG81RUZWR1ctZ2FzYnhpRWZBOU1BREpydFhtNEEzd2k4a2wtd2FKRVRvNHI2YUR1ajZNWjhOZkk1VFQ0THozR19kWHNDelZIWkstcXVwZ1ZRSVpJV1ZYcXdqNmo2YVRfNmlNX1FTMEpFY1V3OHZsQy1nVVVqVEJsd040WnJsb2lvbk11UVhCZ25JVmhWbUplRkdueUx3MDI4dFljaVRrM3JFSmxRZmZCbzdWTjNDVEZZZTZGOVVLVnVqeVZtMDNYYVFtVWFIZGZhLVR2RERkSUk5QklUNF9oWFJRM1ZuT29tRTNKNmowTFJxdG1pNWxlRVNuQjRuejQxUDExQk9QQlFhaWRENk5KVjdpNEVyb21wOUpRUVJQWjRkQU9FaExaaFYybzdKN2pkcmp0a1ZHcl84alhqTGFjc2d1Y2dSOWFaTTdmajM5UmlMeldObWhLREh4dllLYzlleTFIZDhpVzV4OTJQdDVJQkJ6V3VHV3V1ZXJwS2dDX01iLUF6QUlMMW5GekRybWlhZHdfeGxCMWNuTjB2cHNUNm8xMlgyc1N1dnRjdklPOW43d2N5clpuMEFGNVRIV3lKbW9tZG9WTDl5UDluTVhZQQ?oc=5",
+          "time": "2026-08-07 17:04:59",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "苗栗縣頭份市某私立幼兒園疑似不當對待幼兒案件說明稿",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=981157",
+          "time": "2026-08-07 17:03:55",
+          "publisher": "苗栗縣政府",
+          "severity": "yellow"
+        },
+        {
+          "title": "苗栗通霄沙雕節迎父親節放風箏 七夕接吻66秒喜抽黃金",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBZnkyYlpHX1JPNUhrQWlaZEhCbnJhcXZVcXpwcUVzTWxTM3lYSmVEQUxQQWtKODN6bG16MGRwcjJhQWlOVnE1R3NLZ2I4OEs10gFWQVVfeXFMTkdRSTRfUlVPTWNwdUJ4ZHI0UnpLTnp4RHZnOGxRbUV2UTlnRG0wNmc4NzdodWVGNmZfR3g0ZXRYdlNGS3dEREpoUzBnVE5feEU5cGltX0E?oc=5",
+          "time": "2026-08-07 17:01:52",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "苗栗客家青少年訪問團赴馬來西亞 深化台馬客家文化交流 - 社會新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaEE2eUU3R25OZnA3dHBSeG1QbWtjSmt5bEpIMW41LVhOdDhrbGljek1yZHlFSjVDRjNWd3NYWUNfaVpZakNMMV9sSno3NHh6bXh6Zzl1TXVmeEowWTRKMmNraWhsMVBkeWlRUkNSYXhVM2Yybm5wNE5IYkJ5Ym51UVk1Z2FfY0JzRUczMQ?oc=5",
+          "time": "2026-08-07 16:55:16",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "白海豚颱風逼近 台電苗栗區處戒備",
+          "url": "https://taiwanreports.com/archives/1004446",
+          "time": "2026-08-07 16:51:18",
+          "publisher": "臺灣導報",
+          "severity": null
+        },
+        {
+          "title": "苗栗蜂蜜飄香全國 展現養蜂實力",
+          "url": "https://taiwanreports.com/archives/1004444",
+          "time": "2026-08-07 16:50:28",
+          "publisher": "臺灣導報",
+          "severity": null
+        },
+        {
+          "title": "苗栗農村綠色照顧成果 登上全國舞台",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDgza1RHZUNkTlBoNTlzRy1QZkZwZzhpaTN3SGNQY0tTNW5PMXYzS2xBMUNrMnhYcEVmQzRsV1AycVlXclZhdVZrdW1kdlRXSEZKWV9mdzZ5eEY5S29Fbi1xbTNJTnI1YVl1bXNkVkFST3AwVDNWZ0lUV0pKUkR4dnJqdlFmRW9ySl9zU05LeFFlNlpqRHpCQmhSaDVyUjZOMlpYT0xtbnB6bzJ0SkFjUkp1VzA3cTFSaXROZjhLa0RmOHQ5azBwUFBod1ZiWFpzX0hFMi1aeWhBOE5HMDRGcWRDRzR0TmU0SWsxaVBGOFBWdjNoMUJXd1AxOTRwT0RuZVBkZW5MT0tyM2ZuelBvZWhkcVM?oc=5",
+          "time": "2026-08-07 15:40:11",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "苗栗3校赴新馬交流 齊聚新加坡展國際教育成果",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MMHZmTk1jbVlwN3lNZFZJSi1BVVVJQm5JRHpDNFpoWmtNZm5TVGxiajFkMW9jaWYtTE5tWmFwaEE5Zjl3eTdKd2N4RDRFZzg2SV9xcmJwSkhoTWZKTjJsRHJEUkFJcUllU04yLV93?oc=5",
+          "time": "2026-08-07 15:24:43",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "苗栗市後備軍人輔導中心協力自強演習 支援聯合徵集作業",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3RmJYOTJ1dHFqYlRkTllidzJSM05CSGY2VUhBR0tWNW8wLWlyTGVvNFF0el9yYndEX3JzczdwRDkxdUxvWkN4RlV1SFRPV0hLWWRyRWlsNVBYYmZTTFd6QVkycDlJSGFP?oc=5",
+          "time": "2026-08-07 15:19:30",
+          "publisher": "Google News→元丰傳媒",
+          "severity": null
+        },
+        {
+          "title": "苗栗客家青少年訪問團前進馬來西亞 深化國際客家文化交流",
+          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQWWowcmN4Y2V5SjJaWUZCVlY4RVdyLWtld2RqTnVYREhJX0pYZVJIVkZTblJvRXE2SXdBaUdCTVEzaTNpdVdzSVlWSlRNZHRXRmlqUEJGNXBkRTNYbE9KYlQ0MVFUNW1UdFNHRHY3MnItQ3lzYnFKSDQxanlaZnByNlduZklJMmhOdGNpM0psTGxIbFRNVzJOcU1tOFhEZTg4UWVvMUpKcF8xSS0tSnVFdU5iYnFrZE9Kc3hPV0VWTDBVM3BVR1ZjLUh3eDhBVFRRYi1GR1hfQ3g2azBuTXdhUjFlSFhOQWV6alVscTV5bUhZdGQ1MXFnY0xicHZBb3dleHBUTWgxLUNldzZoUmR1Y3BjUzZKaEZaNlU4RUlkSHN5d2IyclgxVGZDeHUxRHdEWlFuQzRmX0IybTNwZUhxMVl5bkNkOXhHTjZnSVZwb3I2ZE9ud3p2dEh3MnNyRlZUazluZEZjeHllRmJJb01tVjg1elV3dXlkVV9HQnMtdG1MN1UyR1VXWm1BZFU?oc=5",
+          "time": "2026-08-07 15:07:12",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "苗栗客家青少年訪問團前進馬來西亞  深化國際客家文化交流",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=981066",
+          "time": "2026-08-07 14:21:05",
+          "publisher": "苗栗縣政府",
+          "severity": null
+        },
+        {
+          "title": "撿海漂物、種友善菜園 苗栗後龍農村走出高齡照顧新路",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91akVkLTZ4UkNCV0M5OG45THR1T1FqOXpDeU5ydFhuZFZCdVEtTnNJWEJkbVdNY2tKbk94dUwwR0hOVFV6LUQtOF9Ta2xObGVJcnZEeTQxYm5ZRWpSZWxWdkVFdDJBR3RvMFgxUkhB?oc=5",
+          "time": "2026-08-07 14:20:30",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "賴清德高級酸嗆爆盧秀燕！林育卉批盧：連苗栗都比不上｜#頭家來開講",
+          "url": "https://www.youtube.com/watch?v=1ea5kVT2Yf8",
+          "time": "2026-08-07 14:00:28",
+          "publisher": null,
+          "severity": null
+        },
+        {
+          "title": "苗栗通霄沙雕節迎父親節、七夕 放風箏、接吻66秒抽黃金",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5531853",
+          "time": "2026-08-07 13:56:09",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "苗栗通霄沙雕節迎父親節、七夕放風箏、接吻66秒抽黃金- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBINlZjVmdBX2RGMXFOalZZdF92UkxQSlQ5aHMwTGtrczliaHdjUWxpUk40R3Bfa1pJOTh6Z2xfandkZlJKU0lXdTVVT21HNloxc1lLaTBWWEVTVFgzZHNnbkpvS0k?oc=5",
+          "time": "2026-08-07 13:56:09",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "苗栗地檢署檢察長遞交宣導信 嚴防境外勢力介選 邀請村里長一齊維繫公平選舉",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LZHd5QThDc2dTcVk2dGJYT3BoekZTYWxGcWNtUEZCT0VVN2NqOFJUZUI2U3hENzA5bmVKamdIV2VFTzN3aFpnbjBxM2lnZzdLdVE?oc=5",
+          "time": "2026-08-07 13:56:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "苗栗借問站增至55處 打卡填問卷抽行李箱",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5531870",
+          "time": "2026-08-07 13:54:47",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "苗栗借問站增至55處打卡填問卷抽行李箱- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xa2VPRjB5NFB4bHlkQmYyOVB5WGpTNV9QcHpMbTJaUnBQVUdsQW1BRkNZbE0tOEZTeHQxcmVHUlpIR3lxWUk5ajJRUzhUQnhZa2hYWmdXZWVVU3c3Q1UzeXpVWDk?oc=5",
+          "time": "2026-08-07 13:54:47",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "父親節捐10張雲端發票換200元商品卡 苗栗稅務局8日加碼限量100份",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ReW1KQzJhakNkSXo0MkwxTnZFVGtCaURZZmdscWZKdGs4Sm9NalBBZ2hNMmlaT005bUZxOWRmS0FoQ18wOEdQMVlLV2xDZTdodjFubXRrUzUxcTQyX1NoUE5UY0N3RlZy?oc=5",
+          "time": "2026-08-07 13:50:49",
+          "publisher": "Google News→博識網頁設計",
+          "severity": null
+        },
+        {
+          "title": "苗栗頭份警銀聯手導入QR Code通報機制",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQdnBrUDE2bW82RTdIYXdvMHk0c2g4OGpoYXNHeFM3RUQxWHdMN0ZWSU9oNXJYbzFIR01mZG9YT1VHbkN5RndkcnpsZVMxUGRwOTlNQkRlaGJPNFlVaktPa2xHOVdZVnc2UUJDTkRVUEhjRm10WEVveGZZOUloR1paaTJOcDQ0ckpNQUdsVUxWOGQtYXNsWkd6Uml5ZG9UY09OY3BFcGlzRXhNZHhsVkZnYkxUOHJUczVoZzdPYjEyblNiWDRFZFpIeHhoZFdLSDE1aEZ5NV8ySHVuNkFOa09KNUc2M2hRaEhQVWdFcEdHNVJEX1VLeDdqbkRuMTIya1NZN1d5c3VaaWRRdTJzazFoNA?oc=5",
+          "time": "2026-08-07 13:48:54",
+          "publisher": "Google News→報新聞",
+          "severity": null
+        },
+        {
+          "title": "苗栗頭份警走入社區宣導防詐 提升民眾識詐能力守護財產安全",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uelhuWE9ORW56Wml2VmtvQ2dUVFlHSzF6NEZWSUR1VWxqcGtiaWpGUnBPalNZZHY5ZzNPVmowVGlDTUxxYmxHaVJzWFYzNHdvX3c?oc=5",
+          "time": "2026-08-07 13:48:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "苗栗三灣鄉發錢了！8／13起開領5000元生活補助",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjT3ZnMlF6LWVoYndsUHM5SUNzYTJid3lndEtRbk1xNHFUXzQ5SVRvcmdTaTd0VHhOa2QzQ05BOHY3TGs2cE4tbTRXc25oTFJyQlJEakdRbDRualp6cUl5ZGVORlRqeC1GYThCaWpB?oc=5",
+          "time": "2026-08-07 13:46:40",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "苗栗三灣鄉發錢了！8／13起開領5000元生活補助- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmLXNsSF9DdDF5U1MwM1NpaWczMll5akRuWHFSWmEwYUxtR0pmcU1XSl9FUkgzZXZERWVHcVRFSXRqTkI1WDFNTjFxZnkxVnpwblZTNlZfU0dlWnNrMXE0?oc=5",
+          "time": "2026-08-07 13:46:00",
+          "publisher": "Google News→工商時報",
+          "severity": null
+        },
+        {
+          "title": "賴清德高級酸嗆爆盧秀燕！林育卉批盧：連苗栗都比不上｜#頭家來開講",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qRVRMTzQ2ckphOW5nWTkyNjEzUlVJTzNZbU00R25Udk1pU3VKbUZOczBsX29LLXJmZTRGcTBqMFJ5S1dJc2prLTdYQmFodTlfOUNDN2hhaFZLZWp6enBYYWZQMXhsOUk?oc=5",
+          "time": "2026-08-07 13:09:05",
+          "publisher": "Google News→民視新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "把握國際交流契機　苗栗縣政府搭建海外合作橋梁　為在地產業爭取更多國際市場機會",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=980930",
+          "time": "2026-08-07 12:58:28",
+          "publisher": "苗栗縣政府",
+          "severity": null
+        },
+        {
+          "title": "買地建屋前先「地套繪查詢」└苗栗縣政府推動多元便民諮詢服務",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=980943",
+          "time": "2026-08-07 12:58:28",
+          "publisher": "苗栗縣政府",
+          "severity": null
+        },
+        {
+          "title": "身陷食安風暴與究責聲浪中的總統賴清德啟動行動中常會，不僅地點選台中，還猛批台中市長盧秀燕的施政滿意度遠遠不及高雄市長陳其邁，在中部縣市中也不如雲林、南投、苗栗，只勉強贏過彰化縣長王惠美；這種比較法看似一石多鳥，其實充滿破綻，不僅和盤托出賴清德2026及2028的選戰策略，更是賴深層憂慮的告白。",
+          "url": "https://udn.com/news/story/6656/9676930?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-08-07 12:58:20",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "強化阻詐防線！ 苗栗推QR Code警銀聯防通報方式",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LVzBBOEk3OVB0aEtrQ2lUdU1oR2RlT2RnRVJQdzZCT0ViaHVjQ2Z5RUx2QzBaeWtLY20zUkFRVWtyTTRaTjdhNjdJa3h1YWt20gFWQVVfeXFMT2c5WTNTUHBQUFRJdlU3V3M2Ti1nMl9HbXRyY3Z3eUt6QndJSHI3SmNYSXZJQ0VGRU1pNXpFLWUzUXZLRC0tM2l6ZFludlhwd0E4ZEtrOGc?oc=5",
+          "time": "2026-08-07 12:54:03",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "點彩之夏｜從藝術課，看見高齡者社會參與的價值：苗栗竹南聖福社區的愛與關懷",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10a0JPZGJ0R2Q3NENfM3IwOXVaUFBRVkh0ZG55bjBlWWloaEttaFpuUHpNUjlMTjZQWkF4RXJONWJMTlpXWlpWYw?oc=5",
+          "time": "2026-08-07 12:33:00",
+          "publisher": "Google News→peopo.org",
+          "severity": null
+        },
+        {
+          "title": "苗栗客家青少年訪問團赴馬來西亞 深化台馬客家文化交流",
+          "url": "https://n.yam.com/Article/20260807361418",
+          "time": "2026-08-07 12:00:00",
+          "publisher": "蕃新聞→互傳媒",
+          "severity": null
+        },
+        {
+          "title": "苗栗農村綠色照顧成果登上全國舞台！ 後龍水尾、埔頂社區前進2026高齡健康產業博覽會",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=980872",
+          "time": "2026-08-07 11:36:55",
+          "publisher": "苗栗縣政府",
+          "severity": null
+        },
+        {
+          "title": "苗栗26歲男失蹤16天　疑騎車自摔卡雜草堆、腐屍飄惡臭",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-08-07/2429268.html",
+          "time": "2026-08-07 11:36:51",
+          "publisher": "壹電視",
+          "severity": "yellow"
+        },
+        {
+          "title": "苗栗地檢署檢察長遞交守護家鄉宣導信 嚴防境外勢力介選邀請村里長一齊維繫公平選舉",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00UFhFTENFbFRmX2ttOUhGclE0NnRSa2pWYldoc0R1T1B3UjlqZXVabk9nbkxfWUVXcGJBZVQ2Z2Jra1FYbFdXR1VFSkRGLVhoclE?oc=5",
+          "time": "2026-08-07 10:43:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "苗栗縣辦理115年度校園性別事件調查專業人員進階培訓 深化調查實務能力　持續打造安全友善校園",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=980926",
+          "time": "2026-08-07 10:21:24",
+          "publisher": "苗栗縣政府",
+          "severity": null
+        },
+        {
+          "title": "苗栗縣率中臺灣觀光叩關新加坡　 齊聚16家旅行社、三大航空　NATAS旅展開賣主題遊程",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=980897",
+          "time": "2026-08-07 10:21:24",
+          "publisher": "苗栗縣政府",
+          "severity": null
+        },
+        {
+          "title": "新竹房價高、購屋族往苗栗看！竹南頭份「公園區」值得買嗎？在地房仲解析優缺點| 住展",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfeXNpRFcySXNyYmRKSUEyckEza0JoSDhsYmR4VG5ndnJfMEJWQ3hPR0NSNEZKRDJNbXBhT3Y5eUZxSTUwZWh0dzJPUU5JcTZnZ2tNSEF3?oc=5",
+          "time": "2026-08-07 10:07:00",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "yellow"
+        },
+        {
+          "title": "苗栗強化校園性別事件調查量能 31小時進階培訓守護學生權益",
+          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNdDNOOXhQVkx5QUhpSWJtOUVWTC1hcTRMWjFBcVBhcWh1ZklQRzNrT3N3SnJkb2J1T3RDRXdaNWE2aHV4M0pTZVdEaDhfaER4eW1mVkVOT2FHLTBxYXpaNUo1cFk2Q3V6SmhaYXRiclA3UGlid08zQkZMb0RBQ1J1bm5qZG1FU2FVNVgydzJoeldlUUJ2T2lkY0JvMDRUb3l2SHR0dV80OUR0bVZDZzAzZktwUUhSTmpjVFR0UGRoR3RHV2liQkhwcWJORHlfU3AtUEVDZm9rQjRnWERiY2Z0X0ctbmVzTkpyUFI5R0FKUzR0eUY3eWRRZnlwMS15REp3eEJBcTlMRmVjWnlNQjBSWmJGbmE0cTBmX0UtdVp6ZFdKcGpkX0pzSlNvaHpoa2wxWlRqdUU5R1Q1a0U2dkhDbDRyRkhsQTFSRjhoNWJR?oc=5",
+          "time": "2026-08-07 10:04:17",
+          "publisher": "Google News→yesmedia.com.tw",
+          "severity": null
+        },
+        {
+          "title": "新竹房價高、購屋族往苗栗看！竹南頭份「公園區」值得買嗎？在地房仲解析優缺點",
+          "url": "https://tw.stock.yahoo.com/news/%E6%96%B0%E7%AB%B9%E6%88%BF%E5%83%B9%E9%AB%98%E3%80%81%E8%B3%BC%E5%B1%8B%E6%97%8F%E5%BE%80%E8%8B%97%E6%A0%97%E7%9C%8B%EF%BC%81%E7%AB%B9%E5%8D%97%E9%A0%AD%E4%BB%BD%E3%80%8C%E5%85%AC%E5%9C%92%E5%8D%80%E3%80%8D%E5%80%BC%E5%BE%97%E8%B2%B7%E5%97%8E%EF%BC%9F%E5%9C%A8%E5%9C%B0%E6%88%BF%E4%BB%B2%E8%A7%A3%E6%9E%90%E5%84%AA%E7%BC%BA%E9%BB%9E-020326937.html",
+          "time": "2026-08-07 10:03:26",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "銀行攔阻詐騙更快！ 苗栗推QR Code通報警銀聯防",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5531475",
+          "time": "2026-08-07 09:15:54",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "銀行攔阻詐騙更快！ 苗栗推QR Code通報警銀聯防- 社會",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ONGdzR1B4QkQxSzNBNmhfdE8zcERhVWU4MjJlZXVJemRCYV8wZkdUc3VrQWlJUDlQY0d4NDVzUHdTQVFPUXpoZEVwNEVjTGRVMlp0WGpnWFoyOHdMU2R1UlU0MkRIQTZn?oc=5",
+          "time": "2026-08-07 09:15:54",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "冠軍建材「近零展望建材館」啟用　攜手苗栗邁向低碳建築新未來",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=980298",
+          "time": "2026-08-07 09:15:14",
+          "publisher": "苗栗縣政府",
+          "severity": null
+        },
+        {
+          "title": "苗栗玉清宮捐贈500萬元給縣府        挹注弱勢家庭服務及長照醫療資源",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=980776",
+          "time": "2026-08-07 09:15:14",
+          "publisher": "苗栗縣政府",
+          "severity": null
+        },
+        {
+          "title": "苗栗縣賽夏族民俗文物館開辦「苧麻文化人才培育」及「導覽人才研習課程」共同推廣在地原住民族文化傳承，邀請大家踴躍報名!",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=286&sms=9463&s=979909",
+          "time": "2026-08-07 09:15:14",
+          "publisher": "苗栗縣政府",
+          "severity": null
+        },
+        {
+          "title": "歡慶原住民族日 「八月苗栗・原力全開！」  原民八月系列活動熱情登場 傳統競技、特展、手作一次體驗",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=286&sms=9463&s=974820",
+          "time": "2026-08-07 09:15:14",
+          "publisher": "苗栗縣政府",
+          "severity": null
+        },
+        {
+          "title": "苗栗縣第236處關懷據點在苗栗市維祥里揭牌",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=275&sms=9459&s=979469",
+          "time": "2026-08-07 09:15:14",
+          "publisher": "苗栗縣政府",
+          "severity": null
+        },
+        {
+          "title": "苗栗首創氫能BOT　獲財政部「突破之翼」肯定",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=275&sms=9459&s=976414",
+          "time": "2026-08-07 09:15:14",
+          "publisher": "苗栗縣政府",
+          "severity": null
+        },
+        {
+          "title": "網路取代馬路 打造主動式數位便民服務 苗栗便民快e通 2.0智慧升級啟用",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=275&sms=9459&s=975374",
+          "time": "2026-08-07 09:15:14",
+          "publisher": "苗栗縣政府",
+          "severity": null
+        },
+        {
+          "title": "「苗栗幣」10日起下載好康多多　啟動數位經濟打造智慧消費生活",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=275&sms=9459&s=973132",
+          "time": "2026-08-07 09:15:14",
+          "publisher": "苗栗縣政府",
+          "severity": null
+        },
+        {
+          "title": "苗栗敬老卡 小黃、農會300點擬混用",
+          "url": "https://news.ltn.com.tw/news/Miaoli/paper/1765692",
+          "time": "2026-08-07 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "苗栗敬老卡小黃、農會300點擬混用- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wb3RzVXVWam4wSVRnNld0RkRocV96Njh1d2lLWV9laloxR1pybGc5S1lHY3c4ZXgycFNxNkR5MFlMQm1WMnBMWUpiTDRidGdEYUx3V1dqWE9hMlk?oc=5",
+          "time": "2026-08-07 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "苗栗玉清宮捐贈500萬元給縣府 挹注弱勢家庭服務及長照醫療資源",
+          "url": "https://tw.news.yahoo.com/%E8%8B%97%E6%A0%97%E7%8E%89%E6%B8%85%E5%AE%AE%E6%8D%90%E8%B4%88500%E8%90%AC%E5%85%83%E7%B5%A6%E7%B8%A3%E5%BA%9C-%E6%8C%B9%E6%B3%A8%E5%BC%B1%E5%8B%A2%E5%AE%B6%E5%BA%AD%E6%9C%8D%E5%8B%99%E5%8F%8A%E9%95%B7%E7%85%A7%E9%86%AB%E7%99%82%E8%B3%87%E6%BA%90-164200794.html",
+          "time": "2026-08-07 00:42:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "苗栗玉清宮捐贈500萬元給縣府 挹注弱勢家庭服務及長照醫療資源",
+          "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQQ3V3aGFjei1kdjVBRXJybFRHQlFJSG9UaWw3UmVwNm5uRDNxYVQwN1M0aDVxRU5MYk4wR3dFd1JPcm9UYi1pcVpTamx2cWQ1UnJjS1Z4SWpla3hNTFEyQkZEajg4TmNWcVhsOXBpWi1EZUZXZm9zVFpDNTJSSHlheHlIbk54ejJ1VDFzeXNDa3RDRXQ4OFE1SHJzb1F3eFV0ekUxWWxQcDFzckt2R2pETXhXMm5oZzAzMFJSOHdXV21iUFVMNjlLUnhkRVMzY0M2WERJdWk3c21uZURvWU5weW5pLW5TclUzYVl4Ykp6Vl9BVzBmdlBfQWRNUjNVSGZoX1U2b0lvRjc5clVlS0Rualk0LVo1MzhlMUZXZHFsNk5DcE0tTkNaMlAyUlQ2aHd3VmQ0R25xQm9hSWNrZWdFSEIwRFlHM2pBV2UwUElHUG9ZbmxLWFozTXFsWkRvYThiTHBrNWF2OEhFOWxhNXJqRmktVkMtTkpjNGYxdWtWLTVMS2RLR1gycFV1V2FhQU1RTk44d0ZlRndwNTBp?oc=5",
+          "time": "2026-08-07 00:42:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "頭份私幼遭爆不當管教！幼童被綁手、拉倒 苗栗縣府介入調查",
+          "url": "https://www.chinatimes.com/realtimenews/20260807003638-260405",
+          "time": "2026-08-07 00:36:38",
+          "publisher": "中時新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "苗栗近零展望建材館啟用",
+          "url": "https://tw.news.yahoo.com/%E8%8B%97%E6%A0%97%E8%BF%91%E9%9B%B6%E5%B1%95%E6%9C%9B%E5%BB%BA%E6%9D%90%E9%A4%A8%E5%95%9F%E7%94%A8-130455096.html",
+          "time": "2026-08-06 21:04:55",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "玉清宮捐款 挹注苗栗弱勢家庭",
+          "url": "https://tw.news.yahoo.com/%E7%8E%89%E6%B8%85%E5%AE%AE%E6%8D%90%E6%AC%BE-%E6%8C%B9%E6%B3%A8%E8%8B%97%E6%A0%97%E5%BC%B1%E5%8B%A2%E5%AE%B6%E5%BA%AD-130455765.html",
+          "time": "2026-08-06 21:04:55",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "關懷弱勢邊緣戶 苗栗玉清宮捐500萬善款 | 客家電視",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQT2M1Y1ZyR0UyTFgwVUI4dHBEWlNxbURBWWxwemszNFNpbW5mY2VwaV96cjNWU3N3NEQ0UEVfWVRhbU1qeEltb3E1NlZWd2N0b01wUlBn?oc=5",
+          "time": "2026-08-06 20:18:23",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "輔導會視察苗栗榮服處聯袂拜會企業協助退除役官兵就業 | 勁報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iQTRzb041VlNrNnVVbXlrYllOSTc4dG5GZFFTZW11cno2V0drd2w3eEc2OTBpNk84MFh2UmZpXzYxNzhxNDJIUUJaQWF1MEpvWnN2dVVB?oc=5",
+          "time": "2026-08-06 19:31:45",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "苗栗玉清宮捐500萬元助弱勢與長照 4度挹注累計2千萬元",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lc0RjRGxVMjd2MW5QZ3VzSmVrZEVkSWpzcklsaXExTlBYOThiOTRSX0xBUmhROW9wSG9VcWtUYno5cE5Hc1NfT200N3BfMWhabFE?oc=5",
+          "time": "2026-08-06 19:24:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "輔導會視察苗栗榮服處聯袂拜會企業 協助退除役官兵就業 - 生活新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2hpY0xvdkItQmRQN2Q1ZE02dFVpOThrbmJuZWIwUFBNNWFBa0tHTWNXU1VBX2w5bktJSk54Y252WDdQQWcyemFYM2JobnM0REotZFhxNXZqSE1sN3c5NHk0M0RUUXlNcUFSdlFYUVRXZ2pZdUxwdGw3ZEl4cTdubkp1SGUwaUFEbE84X2paRQ?oc=5",
+          "time": "2026-08-06 19:05:00",
+          "publisher": "Google News→news.pchome.com.tw",
           "severity": null
         }
       ],
@@ -2741,174 +2741,6 @@
       "comments": []
     },
     {
-      "title": "基隆地方動態",
-      "city": "基隆",
-      "place": "基隆市政府",
-      "level": "red",
-      "news_count": 22,
-      "comment_count": 0,
-      "negativity_pct": 9,
-      "is_urgent": false,
-      "urgency_score": 28,
-      "news_articles": [
-        {
-          "title": "男子基隆大武崙遭浪捲走失蹤1天 空拍機尋獲遺體",
-          "url": "https://www.cna.com.tw/news/asoc/202608070241.aspx",
-          "time": "2026-08-07 17:31:44",
-          "publisher": "中央社",
-          "severity": "red"
-        },
-        {
-          "title": "基隆地檢署反賄選 檢察長陳佳秀寄信給251里長",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5532045",
-          "time": "2026-08-07 17:09:20",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "白海豚海警發布！暴風圈最快明觸陸 基隆、新北首當其衝",
-          "url": "https://newtalk.tw/news/view/2026-08-07/1051987",
-          "time": "2026-08-07 17:08:26",
-          "publisher": "新頭殼",
-          "severity": "yellow"
-        },
-        {
-          "title": "白海豚颱風逼近北台灣 馬祖明晚恐遭暴風圈壟罩 基隆新北不排除發布陸警",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ibzJpVzdqZ2JqMHplNjlFVDM3aFVURDl1cWZlZG5PbWJtYjBYc1RXbi1LcVhYU2RCWEdnV2FYMnNKaWVrM0c3UDVWQ2Z5Q3ptaWkybFhiUlVuZDZZWmc?oc=5",
-          "time": "2026-08-07 16:48:17",
-          "publisher": "Google News→鉅聞天下",
-          "severity": "yellow"
-        },
-        {
-          "title": "白海豚暴風圈恐掃過「新北、基隆」！氣象署：明下午不排除發陸警 | 天氣預報 | 生活",
-          "url": "https://www.nownews.com/news/6863934",
-          "time": "2026-08-07 15:40:18",
-          "publisher": "NOWnews今日新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "新北、基隆不排除明下午發陸警 馬祖明晚進入暴風圈",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1INUR4VVhVcWtJU0s4TW5sTHVGakpMeHR1R1VpSFFLdEZDdVVJd0lqVE8yVGhfUjIxLWE2cG1OczQzTnp6bFB2Um9NYThKTnQ3eUlMMjQ3bTNxUU13RmfSAUtBVV95cUxPdFh3UWFvWk4xdXExV1BfbEJXdEROSXlMVDNMcm5xQ3d3TG1VcXBLNkVMck8tb3Y1U0tiQ3ZTSU9JNEpsOFNNc3B0ek0?oc=5",
-          "time": "2026-08-07 15:09:00",
-          "publisher": "ETtoday",
-          "severity": "yellow"
-        },
-        {
-          "title": "基隆市議員選舉 親民黨推3女將",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5531833",
-          "time": "2026-08-07 14:03:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "「基隆400童樂會」9月登場 首波紙風車藝術卡車來基隆",
-          "url": "https://news.ltn.com.tw/news/art/breakingnews/5531581",
-          "time": "2026-08-07 12:29:01",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "基隆人行環境再獲中央肯定！光明路工程奪優良獎 市府勇奪3項大獎",
-          "url": "https://n.yam.com/Article/20260807437136",
-          "time": "2026-08-07 12:00:00",
-          "publisher": "蕃新聞→報新聞",
-          "severity": null
-        },
-        {
-          "title": "中颱白海豚短暫回血！基隆侵襲率45%、連江57% 今晚恐發海警",
-          "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOVWZ0REc4TktXWWZhSWF5cjVEUGZaRERzSUFRbDBDSDB2YURMbVh4cDFtb2MwMWxPU1BLdGRuajAtWGpjWEpOSkt3dk5CRXpkZDA2d01GQWZPMnY1dzZOdmJBaVJCbHlkdUFYUG5ab193ckpCZlNtVUFTTDhFSHFBV3YyT0tZa05ldnJDaGhXSHJYcklMTHV1QlVLdmpnc3Bjdk13b2ZrSUhyUFVFNlZmaVEyY050WHRjRVJld0xVejVpb3I0dkNuczVwdHhSUTJnZ0FranMzb0FSWHhyREZqblhwNVR5S2dneXBfdWlvbWJ5b293Q09iam9YOUlRdDVIQlRlZW94aW0wNmtPamRsMUJ2Wkw3eS14TFBBaFhqZGoxeGRHMVVmSmpmTERfdTZDWHpwQ21Gek1aVU5QQno1Rmp5dkVBVnI2V2dzQVFXUDFzclg3T3RKNTFFdjlVamFoYnJiNg?oc=5",
-          "time": "2026-08-07 11:16:58",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "教育部青發署金援 基隆暖暖高中赴日本近畿見學",
-          "url": "https://news.ltn.com.tw/news/Keelung/breakingnews/5531552",
-          "time": "2026-08-07 10:35:35",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "防颱強化用電安全防線 基隆台電提前走訪畜牧養殖業",
-          "url": "https://tw.news.yahoo.com/%E9%98%B2%E9%A2%B1%E5%BC%B7%E5%8C%96%E7%94%A8%E9%9B%BB%E5%AE%89%E5%85%A8%E9%98%B2%E7%B7%9A-%E5%9F%BA%E9%9A%86%E5%8F%B0%E9%9B%BB%E6%8F%90%E5%89%8D%E8%B5%B0%E8%A8%AA%E7%95%9C%E7%89%A7%E9%A4%8A%E6%AE%96%E6%A5%AD-085125524.html",
-          "time": "2026-08-07 08:51:25",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "基隆關辦理廉政法紀專案宣導講習 深化關員法紀素養",
-          "url": "https://www.cdns.com.tw/articles/1440681",
-          "time": "2026-08-07 08:00:49",
-          "publisher": "中華日報",
-          "severity": null
-        },
-        {
-          "title": "基隆大武崙救生員遭大浪捲走 失蹤一天今尋獲遺體",
-          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E5%A4%A7%E6%AD%A6%E5%B4%99%E6%95%91%E7%94%9F%E5%93%A1%E9%81%AD%E5%A4%A7%E6%B5%AA%E6%8D%B2%E8%B5%B0-%E5%A4%B1%E8%B9%A4-%E5%A4%A9%E4%BB%8A%E5%B0%8B%E7%8D%B2%E9%81%BA%E9%AB%94-065100300.html",
-          "time": "2026-08-07 06:51:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "《台肥、業者願續租》基隆六合停車場 市府：收到土地租約1週發證",
-          "url": "https://news.ltn.com.tw/news/Keelung/paper/1765684",
-          "time": "2026-08-07 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "童子瑋拋基隆交通政策「公車維新」 4大改革方向一次看",
-          "url": "https://www.ettoday.net/news/20260806/3214837.htm",
-          "time": "2026-08-06 23:12:00",
-          "publisher": "ETtoday",
-          "severity": null
-        },
-        {
-          "title": "基隆六合停車場協調會 台肥允2週內提供土地租約解決爭議",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5531330",
-          "time": "2026-08-06 23:04:45",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "基隆長庚成立全台首座圓錐角膜中心 守護國人視力健康",
-          "url": "https://more-news.tw/687046/",
-          "time": "2026-08-06 22:16:44",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "基隆善心人士捐輪椅、AED 為仁愛之家增添安全防護",
-          "url": "https://more-news.tw/686582/",
-          "time": "2026-08-06 22:09:25",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "中颱白海豚暴風圈「輕掃過北部」！侵襲基隆機率破5成",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E9%A2%B1%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%9A%B4%E9%A2%A8%E5%9C%88-%E8%BC%95%E6%8E%83%E9%81%8E%E5%8C%97%E9%83%A8-%E4%BE%B5%E8%A5%B2%E5%9F%BA%E9%9A%86%E6%A9%9F%E7%8E%87%E7%A0%B45%E6%88%90-134951356.html",
-          "time": "2026-08-06 21:49:51",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "守護國境安全 海巡基隆港安檢所查扣違規品函送裁處",
-          "url": "https://more-news.tw/686952/",
-          "time": "2026-08-06 19:56:53",
-          "publisher": "墨新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "北市基隆路3段民宅火警 7旬婦人身亡",
-          "url": "https://www.cna.com.tw/news/asoc/202608060307.aspx",
-          "time": "2026-08-06 19:13:05",
-          "publisher": "中央社",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "新竹縣地方動態",
       "city": "新竹縣",
       "place": "新竹縣政府",
@@ -3072,6 +2904,174 @@
           "time": "2026-08-06 19:00:03",
           "publisher": "自由時報",
           "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "基隆地方動態",
+      "city": "基隆",
+      "place": "基隆市政府",
+      "level": "red",
+      "news_count": 22,
+      "comment_count": 0,
+      "negativity_pct": 9,
+      "is_urgent": false,
+      "urgency_score": 28,
+      "news_articles": [
+        {
+          "title": "男子基隆大武崙遭浪捲走失蹤1天 空拍機尋獲遺體",
+          "url": "https://www.cna.com.tw/news/asoc/202608070241.aspx",
+          "time": "2026-08-07 17:31:44",
+          "publisher": "中央社",
+          "severity": "red"
+        },
+        {
+          "title": "基隆地檢署反賄選 檢察長陳佳秀寄信給251里長",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5532045",
+          "time": "2026-08-07 17:09:20",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "白海豚海警發布！暴風圈最快明觸陸 基隆、新北首當其衝",
+          "url": "https://newtalk.tw/news/view/2026-08-07/1051987",
+          "time": "2026-08-07 17:08:26",
+          "publisher": "新頭殼",
+          "severity": "yellow"
+        },
+        {
+          "title": "白海豚颱風逼近北台灣 馬祖明晚恐遭暴風圈壟罩 基隆新北不排除發布陸警",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ibzJpVzdqZ2JqMHplNjlFVDM3aFVURDl1cWZlZG5PbWJtYjBYc1RXbi1LcVhYU2RCWEdnV2FYMnNKaWVrM0c3UDVWQ2Z5Q3ptaWkybFhiUlVuZDZZWmc?oc=5",
+          "time": "2026-08-07 16:48:17",
+          "publisher": "Google News→鉅聞天下",
+          "severity": "yellow"
+        },
+        {
+          "title": "白海豚暴風圈恐掃過「新北、基隆」！氣象署：明下午不排除發陸警 | 天氣預報 | 生活",
+          "url": "https://www.nownews.com/news/6863934",
+          "time": "2026-08-07 15:40:18",
+          "publisher": "NOWnews今日新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "新北、基隆不排除明下午發陸警 馬祖明晚進入暴風圈",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1INUR4VVhVcWtJU0s4TW5sTHVGakpMeHR1R1VpSFFLdEZDdVVJd0lqVE8yVGhfUjIxLWE2cG1OczQzTnp6bFB2Um9NYThKTnQ3eUlMMjQ3bTNxUU13RmfSAUtBVV95cUxPdFh3UWFvWk4xdXExV1BfbEJXdEROSXlMVDNMcm5xQ3d3TG1VcXBLNkVMck8tb3Y1U0tiQ3ZTSU9JNEpsOFNNc3B0ek0?oc=5",
+          "time": "2026-08-07 15:09:00",
+          "publisher": "ETtoday",
+          "severity": "yellow"
+        },
+        {
+          "title": "基隆市議員選舉 親民黨推3女將",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5531833",
+          "time": "2026-08-07 14:03:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "「基隆400童樂會」9月登場 首波紙風車藝術卡車來基隆",
+          "url": "https://news.ltn.com.tw/news/art/breakingnews/5531581",
+          "time": "2026-08-07 12:29:01",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "基隆人行環境再獲中央肯定！光明路工程奪優良獎 市府勇奪3項大獎",
+          "url": "https://n.yam.com/Article/20260807437136",
+          "time": "2026-08-07 12:00:00",
+          "publisher": "蕃新聞→報新聞",
+          "severity": null
+        },
+        {
+          "title": "中颱白海豚短暫回血！基隆侵襲率45%、連江57% 今晚恐發海警",
+          "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOVWZ0REc4TktXWWZhSWF5cjVEUGZaRERzSUFRbDBDSDB2YURMbVh4cDFtb2MwMWxPU1BLdGRuajAtWGpjWEpOSkt3dk5CRXpkZDA2d01GQWZPMnY1dzZOdmJBaVJCbHlkdUFYUG5ab193ckpCZlNtVUFTTDhFSHFBV3YyT0tZa05ldnJDaGhXSHJYcklMTHV1QlVLdmpnc3Bjdk13b2ZrSUhyUFVFNlZmaVEyY050WHRjRVJld0xVejVpb3I0dkNuczVwdHhSUTJnZ0FranMzb0FSWHhyREZqblhwNVR5S2dneXBfdWlvbWJ5b293Q09iam9YOUlRdDVIQlRlZW94aW0wNmtPamRsMUJ2Wkw3eS14TFBBaFhqZGoxeGRHMVVmSmpmTERfdTZDWHpwQ21Gek1aVU5QQno1Rmp5dkVBVnI2V2dzQVFXUDFzclg3T3RKNTFFdjlVamFoYnJiNg?oc=5",
+          "time": "2026-08-07 11:16:58",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "教育部青發署金援 基隆暖暖高中赴日本近畿見學",
+          "url": "https://news.ltn.com.tw/news/Keelung/breakingnews/5531552",
+          "time": "2026-08-07 10:35:35",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "防颱強化用電安全防線 基隆台電提前走訪畜牧養殖業",
+          "url": "https://tw.news.yahoo.com/%E9%98%B2%E9%A2%B1%E5%BC%B7%E5%8C%96%E7%94%A8%E9%9B%BB%E5%AE%89%E5%85%A8%E9%98%B2%E7%B7%9A-%E5%9F%BA%E9%9A%86%E5%8F%B0%E9%9B%BB%E6%8F%90%E5%89%8D%E8%B5%B0%E8%A8%AA%E7%95%9C%E7%89%A7%E9%A4%8A%E6%AE%96%E6%A5%AD-085125524.html",
+          "time": "2026-08-07 08:51:25",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "基隆關辦理廉政法紀專案宣導講習 深化關員法紀素養",
+          "url": "https://www.cdns.com.tw/articles/1440681",
+          "time": "2026-08-07 08:00:49",
+          "publisher": "中華日報",
+          "severity": null
+        },
+        {
+          "title": "基隆大武崙救生員遭大浪捲走 失蹤一天今尋獲遺體",
+          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E5%A4%A7%E6%AD%A6%E5%B4%99%E6%95%91%E7%94%9F%E5%93%A1%E9%81%AD%E5%A4%A7%E6%B5%AA%E6%8D%B2%E8%B5%B0-%E5%A4%B1%E8%B9%A4-%E5%A4%A9%E4%BB%8A%E5%B0%8B%E7%8D%B2%E9%81%BA%E9%AB%94-065100300.html",
+          "time": "2026-08-07 06:51:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "《台肥、業者願續租》基隆六合停車場 市府：收到土地租約1週發證",
+          "url": "https://news.ltn.com.tw/news/Keelung/paper/1765684",
+          "time": "2026-08-07 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "童子瑋拋基隆交通政策「公車維新」 4大改革方向一次看",
+          "url": "https://www.ettoday.net/news/20260806/3214837.htm",
+          "time": "2026-08-06 23:12:00",
+          "publisher": "ETtoday",
+          "severity": null
+        },
+        {
+          "title": "基隆六合停車場協調會 台肥允2週內提供土地租約解決爭議",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5531330",
+          "time": "2026-08-06 23:04:45",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "基隆長庚成立全台首座圓錐角膜中心 守護國人視力健康",
+          "url": "https://more-news.tw/687046/",
+          "time": "2026-08-06 22:16:44",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "基隆善心人士捐輪椅、AED 為仁愛之家增添安全防護",
+          "url": "https://more-news.tw/686582/",
+          "time": "2026-08-06 22:09:25",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "中颱白海豚暴風圈「輕掃過北部」！侵襲基隆機率破5成",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E9%A2%B1%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%9A%B4%E9%A2%A8%E5%9C%88-%E8%BC%95%E6%8E%83%E9%81%8E%E5%8C%97%E9%83%A8-%E4%BE%B5%E8%A5%B2%E5%9F%BA%E9%9A%86%E6%A9%9F%E7%8E%87%E7%A0%B45%E6%88%90-134951356.html",
+          "time": "2026-08-06 21:49:51",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "守護國境安全 海巡基隆港安檢所查扣違規品函送裁處",
+          "url": "https://more-news.tw/686952/",
+          "time": "2026-08-06 19:56:53",
+          "publisher": "墨新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "北市基隆路3段民宅火警 7旬婦人身亡",
+          "url": "https://www.cna.com.tw/news/asoc/202608060307.aspx",
+          "time": "2026-08-06 19:13:05",
+          "publisher": "中央社",
+          "severity": "red"
         }
       ],
       "comments": []
@@ -5363,23 +5363,30 @@
       "city": "台中",
       "place": "台中市烏日區",
       "level": "red",
-      "news_count": 59,
+      "news_count": 60,
       "comment_count": 10,
       "negativity_pct": 8,
       "is_urgent": true,
-      "urgency_score": 96,
+      "urgency_score": 97,
       "news_articles": [
         {
           "title": "10億騙局律師背景曝光！他酸爆「望周知」：怎又跟盧秀燕有關 | 要聞",
           "url": "https://www.nownews.com/news/6863999",
           "time": "2026-08-07 18:30:58",
           "publisher": "NOWnews今日新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "10億騙局律師背景曝！他酸爆：又有關盧秀燕",
           "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQNDNJZU5pczB0N2J6SzlqN1ZOZk56VEJrVk9FWC1FcWs0Q2NqWU5zQ0F4cjJ0VFdiY0RjQ0RKWHJaOVZTN1dka0o0XzlsVjgyZjlqalQ4dUhJNTVaTUEzZ2k2clVGNFZrcTFVMDNWX0tXTEpMZXV6a0p5alotWUkzQW1LSEhNcHNmMU45aXJjcUdhVGQtd2lZQ28tZlI0OGJKRlZqRjJkU3d4Z2NLclY0SHhGWEpJVjlUQ1ZoM1drckxJcS1TOEZmM1Q2RUlmRXpPcGRwZWhmX1NpazRzUVJZQXFFWThkMHFyZ0FFclB4dEhhVFplY0xKdGI1bkxRQmJkUjZLZGw3YVZWUXZTRTJ6SGllYzQxTEwxazF2Ti1BX0ZlalRr?oc=5",
           "time": "2026-08-07 18:05:59",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "「你的油我要通報什麼」？黃偉哲2句話打臉盧秀燕",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxON0NMVVZXZXVpRGxqcGdGQW5ZTnhSUHVleWdqZHhraHZTVG53VHAyNTViTDhvUnJaelMwRFpkNGtBMFpUWXFnTEJEVUllLW1qRzRiOGtTQlJPYTZvdHYzYnRGb1FYSWVja1U1VjhkMW9hN0diLWlOSGRJRnlYTFN1Snl5bDRaZUNkVkw2SEJDTG81XzFqalBzc3JINTFkbFp2S2lfeFoxTGZobEg3a19ZYUs0REo2eFFiVEF6VW9GNjMxR2RWSnlkbW5MdUtjQ2pKdEtRLTlJU0U4OUxKSWlpbTFIeWh3ZWxLeVRMakVRN1BibTlnX01WNF9NVmd0alpTTWpxb1NQSElvZDNJMjZGYTd0U1FNdHM5YmdOZXBfNlhsaXg2b0tHUWwwQUhtR0oxXzFDaHhvUVBSQQ?oc=5",
+          "time": "2026-08-07 18:05:57",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
         },
@@ -5471,7 +5478,7 @@
           "title": "（影） 大酸賴總統 盧秀燕：「關注我比關注食安還多」 | Newtalk",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54MzgxanZ6VFNTdS1EeXVYV3RhR0RidVQ2Ni1EUG5hRWZUS0w5MEExSE5oQ3pBU1JzQklPSHhwRDV3SDctTmNhRk1kMXYxQkpZOThyM0d3?oc=5",
           "time": "2026-08-07 14:41:42",
-          "publisher": "Google News→LINE TODAY",
+          "publisher": "Google News→today.line.me",
           "severity": "yellow"
         },
         {
@@ -5569,7 +5576,7 @@
           "title": "挨賴清德子彈 盧秀燕憋1天回批神隱1個月問題沒解決還更嚴重",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11SnVrZTZobnZ0em53Z3dCRGNqOXFHV1V1SnljNWpTVWJKN2ExQjUxU2ptcXQxTUJnYVJVS0lfb1M1SENOS1dLQktkYk9lb0Rac1hGYnVPaWhsdHRqdGdCSi13Wm5uMmV4cnRGNElR?oc=5",
           "time": "2026-08-07 11:22:35",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": "yellow"
         },
         {
@@ -5611,7 +5618,7 @@
           "title": "「溫暖的教育家」 盧秀燕發文悼念高希均：為台灣留下珍貴精神資產- 政治",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HdkJNSXVpTGkwTTVMckpmT09MUVB4aWJ5M2otem9DUlllMkZYWDhNTFRTTXhxcDNKUnBJc2FFMk8wRjEtOXBJa0NHWEI4cWE2Zjh2cWx0NVZXRjVfQjNUSzhOSVgxZVVyMnlvd05n?oc=5",
           "time": "2026-08-07 09:32:53",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": null
         },
         {
@@ -7016,7 +7023,7 @@
           "url": "https://www.nownews.com/news/6863986",
           "time": "2026-08-07 18:30:58",
           "publisher": "NOWnews今日新聞",
-          "severity": "red"
+          "severity": "yellow"
         },
         {
           "title": "前總統蔡英文將出任民進黨新北市長參選人蘇巧慧的競選總部主委。蘇巧慧今天受訪時證實，之前邀請蔡總統擔任，她一口答應，蔡英文選過新北市長、在新北市住過這麼長時間，大家對她擔任總統的成績也都津津樂道，非常高興蔡英文答應出來擔任、帶領這次的競選團隊。",
@@ -7712,11 +7719,11 @@
       "city": "高雄",
       "place": "高雄市鼓山區",
       "level": "red",
-      "news_count": 133,
+      "news_count": 131,
       "comment_count": 0,
       "negativity_pct": 8,
       "is_urgent": false,
-      "urgency_score": 166,
+      "urgency_score": 164,
       "news_articles": [
         {
           "title": "蕭美琴赴高雄視察城鎮韌性演習　AIT高雄分處長史崇理到場觀摩",
@@ -7730,7 +7737,7 @@
           "url": "https://udn.com/news/story/124652/9677734?from=udn-ch1_breaknews-1-cate1-news",
           "time": "2026-08-07 18:30:49",
           "publisher": "聯合新聞網",
-          "severity": "red"
+          "severity": "yellow"
         },
         {
           "title": "台灣人壽成養生村大戶 台南每月4萬、高雄直通長庚、台中位處水湳經貿",
@@ -8634,20 +8641,6 @@
           "time": "2026-08-06 19:29:44",
           "publisher": null,
           "severity": null
-        },
-        {
-          "title": "超人再起、讓愛發光！雙福基金會高雄舉辦公益電影場，點亮身障者生命無限可能",
-          "url": "https://more-news.tw/686917/",
-          "time": "2026-08-06 18:54:06",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "大寮社宅申請首日詢問破百 高雄再推凱旋青樹社宅8月10日接力受理",
-          "url": "https://www.storm.mg/article/11154725",
-          "time": "2026-08-06 18:46:00",
-          "publisher": "風傳媒",
-          "severity": null
         }
       ],
       "comments": []
@@ -8657,18 +8650,18 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 151,
+      "news_count": 149,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 178,
+      "urgency_score": 176,
       "news_articles": [
         {
           "title": "桃園殺妻！老翁持鐵棍、鐵尺暴打 8旬婦「右半臉被砸爛」慘死",
           "url": "https://www.ctwant.com/article/492533/",
           "time": "2026-08-07 18:30:51",
           "publisher": "CTWANT",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "疑不堪碎念！桃園老翁殺85歲妻 金屬拐杖「打斷成兩截」",
@@ -9705,20 +9698,6 @@
           "time": "2026-08-06 19:07:16",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "桃園民宅火警濃煙狂竄 警消疏散8人4人送醫",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpYkpOOFJZaVQ5V25Ca3VFRUxraVpEbWI3YUdmWUU2amlYSVVybkxLS0NwRzNWNVhNR2xVVkFoUGl1dkcyR3R6bVVJMm1XVmpIampn?oc=5",
-          "time": "2026-08-06 18:44:15",
-          "publisher": "Google News→中天新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "桃園電影節公布六部話題新片！小薰攜喜劇新作回娘家",
-          "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPWnFnMmF3SHVXVGp2VER1LXFzR2R0LUVJSVlIalQ0RThPQmlzMDFHclJuUnowSXRJN1hNSkJWOEpNOGpucHAyM0pTNjNmZ3VDc2pEbmRJRlRiVlowQmVCZ1oteXRpREtlUTFMMTZnNkh4YTI2ckVKcnIwNzFhb2ZLckNzWFU2TWFBdXhXWURXaGg3eENWNk9DVVYyWkJoT2lqT3lnY2VJekZHTUozQjVJOUFabW5NZktSeU9JR3VicHcydzhWRFRSYXZEd3ZxYTVtRUZhZ2dVYldVejlFcnBESk1HQlVZc3I2dWxXamY0YXlyUTFxQVQxbXVDQkIyNFY4Y1A4Ul9PLVFPaEVNbU5RQWZzajFfWVNZTmJGejVEQzZnZDVmUUlJS2V0X0pYMkRiSF9vWkd5YVRwUXhfaURoRnJ3OU10TkxKZmFzNWNfNVpXUDVpMldGZ2Rmb1NPYU1Kb2RXUU55NHU0ZHdPM2k4dmVUTQ?oc=5",
-          "time": "2026-08-06 18:44:07",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -9728,11 +9707,11 @@
       "city": "台北",
       "place": "台北市大安區",
       "level": "red",
-      "news_count": 194,
+      "news_count": 193,
       "comment_count": 0,
       "negativity_pct": 10,
       "is_urgent": false,
-      "urgency_score": 254,
+      "urgency_score": 250,
       "news_articles": [
         {
           "title": "前總統蔡英文將出任民進黨新北市長參選人蘇巧慧的競選總部主委。蘇巧慧今天受訪時證實，之前邀請蔡總統擔任，她一口答應，蔡英文選過新北市長、在新北市住過這麼長時間，大家對她擔任總統的成績也都津津樂道，非常高興蔡英文答應出來擔任、帶領這次的競選團隊。",
@@ -9746,14 +9725,14 @@
           "url": "https://udn.com/news/story/124652/9677692?from=udn-ch1_breaknews-1-cate1-news",
           "time": "2026-08-07 18:30:49",
           "publisher": "聯合新聞網",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "南港LaLaport鷹架、天花板突崩落！65歲婦後腦遭砸送醫 北市府開罰30萬",
           "url": "https://www.taisounds.com/news/content/71/281978",
           "time": "2026-08-07 18:30:47",
           "publisher": "太報",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "新北市美人茶評鑑 三芝茶農粟益民三度獲特等獎",
@@ -10242,7 +10221,7 @@
           "title": "北市爆兒虐與食安事件 綠批蔣萬安政治翻車 只會裝死閃避",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxbU9mbEd5eHYxU09uTVZLNGNOT2lSd3RNM1dzQU9MU2tfVWYzMG53VHV1a3hfRndYZmJ1VnVOY0pnR3A4Ri0zVWJTR0ZoNUd3YnVzSUtrWkdpaHpUQWVrdGpiR0lZekt2TUthdmd3?oc=5",
           "time": "2026-08-07 13:17:26",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": "yellow"
         },
         {
@@ -11084,13 +11063,6 @@
           "time": "2026-08-06 18:57:58",
           "publisher": "Google News→經濟日報",
           "severity": "red"
-        },
-        {
-          "title": "【#台灣最前線】Live直播2026.08.06 蔣沈簽名全塗掉！店家飽受攻擊？午餐廚餘給弱勢吃？北市府狂言？",
-          "url": "https://www.youtube.com/watch?v=gsm5KHi5ahk",
-          "time": "2026-08-06 18:54:38",
-          "publisher": null,
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -11100,25 +11072,32 @@
       "city": "台中",
       "place": "台中市清水區",
       "level": "red",
-      "news_count": 308,
+      "news_count": 306,
       "comment_count": 0,
       "negativity_pct": 24,
       "is_urgent": false,
-      "urgency_score": 527,
+      "urgency_score": 525,
       "news_articles": [
+        {
+          "title": "中市自由一期立體停車場分享評價 送史努比好禮 | 青年日報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OM1ZXSmlxSmxFMWJDNU1ZMEFzVlk0US1XcmFIdFozRS1nMFVob3k5ZWdMeDJHS09wUF81ZW9iMlZqWFRfRGN2TkQ3cEZSQjlTdDRxbkp3?oc=5",
+          "time": "2026-08-07 18:32:37",
+          "publisher": "Google News→today.line.me",
+          "severity": null
+        },
         {
           "title": "白海豚海警！ 雨彈將炸台中以北　不排除明發陸警",
           "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-08-07/2429836.html",
           "time": "2026-08-07 18:30:53",
           "publisher": "壹電視",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "石崇良喊公開7/3會議紀錄 中市府反嗆「貴人多忘事」：食藥署也在場",
           "url": "https://www.taisounds.com/news/content/71/281971",
           "time": "2026-08-07 18:30:47",
           "publisher": "太報",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "[Gossiping] [新聞] 涉詐慈濟10億！女律師被爆曾任中市府法扶",
@@ -11439,14 +11418,14 @@
           "title": "中市人口創新高 盧秀燕任內第10所新校開工 | 中廣新聞網",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3QzQzMWxYa0hxTk5UZ1ZXWjBOTUlyN28yYzJGVkFZNjI0cmEwNnVMazBRRVIta25CUTRGTGd1Y01yMDU2dFE3MGVXLUVqaFhxMVA5eUJ3?oc=5",
           "time": "2026-08-07 16:35:01",
-          "publisher": "Google News→LINE TODAY",
+          "publisher": "Google News→today.line.me",
           "severity": null
         },
         {
           "title": "臺中市長最新民調出爐江啟臣青年支持度領先何欣純僅在蔡其昌選區居前- 政治",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBma1oyM1REeE1sMUxCdXZncVNRYUI3cVVvUHRZVTY1RXlmN0lDMEhyLU9jUC1JRFF0SDlSUS15a251b0hYVHNTLXI5WGZzb19vVVRpOFFlSDM3SGRSdkFCUXhIaDBxT3BYTmNxeHJ3?oc=5",
           "time": "2026-08-07 16:34:17",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": null
         },
         {
@@ -11495,7 +11474,7 @@
           "title": "致癌油再駁火！石崇良喊公開紀錄 中市府酸「部長貴人多忘事」",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YZkU0dklOWE56NHNOOXl3Q09YaWhnN1FZb3I2cUlFa2x0dDZGdTdYTXBCTVJsN3dkeXJzaUk2UlNjZnNoSHdVZUhFMTB6UXMwTWY3T3dudTVCampNTVZKUDV6LW4ycjNxcTlGS3hR?oc=5",
           "time": "2026-08-07 16:18:13",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": "red"
         },
         {
@@ -12587,7 +12566,7 @@
           "title": "改善措施難驗證 中市駁中聯復工",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KOE5fcmFKZmI3RklWa2xhdW95Y3cyLXJwZUQyZGZQblVJb3dLMmk5NUlXZEtRNmhJN0pzVjU5MFhpZ3BvNzJ4UERJdDJqYS1HTlZ1cXNDM3hydk0tTjFuNjNJalp3a1hGaUlN?oc=5",
           "time": "2026-08-07 04:10:00",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": "yellow"
         },
         {
@@ -13168,7 +13147,7 @@
           "title": "中聯想復工遭駁回！中市府：超標原因未明、未完整改善",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JZEQ5Z2t2X2xLWFVkVDh5RHVGdHpPbmQ1U3EwbWZVWTd1ZUlDQjhmTXVMemwzOGlLVllkU0pQa0QtY3VWMmIxYlk1Vi16alpldS0zS3Vfa1NYM2RoellpSmxMNkcyaTdTbGlMSWhn?oc=5",
           "time": "2026-08-06 19:44:35",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": "red"
         },
         {
@@ -13240,27 +13219,6 @@
           "time": "2026-08-06 19:00:57",
           "publisher": "Google News→ctwant.com",
           "severity": "yellow"
-        },
-        {
-          "title": "[Gossiping] [新聞] 台中行車糾紛！阿北持刀嗆人反遭打趴 「",
-          "url": "https://www.ptt.cc/bbs/Gossiping/M.1786013656.A.B59.html",
-          "time": "2026-08-06 18:54:16",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "台中市府公告藏「五星旗國徽」 他最早轉貼狠批主管甩鍋 | 自由電子報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxVUR1cXRVMk1uVFBobEFwQnZOR2llaVdIVmJBWllRbXRRemlNLTVfWnd6M0NVZmlBQnp0OUtoc1BORy0zVmIzOWdYT1VuSzE5ZFlNNXBn?oc=5",
-          "time": "2026-08-06 18:52:21",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "中市府8/14太平區徵才登場 10家廠商逾300個職缺、全面E化免帶履歷 | 王秀禾 | 地方新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SX1VRVTBqTGhkV3I1WmtCLXpMb2czQWU3N0U2YTM0V19QRGdEcC1ob3U0a3pMYy1VZWEzOERDaHJBRjBtYm5jS3cxZjVnZw?oc=5",
-          "time": "2026-08-06 18:49:35",
-          "publisher": "Google News→風傳媒",
-          "severity": null
         }
       ],
       "comments": []
