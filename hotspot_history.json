@@ -70239,7 +70239,7 @@
     },
     {
       "date": "2026-08-07",
-      "snapshot_at": "2026-08-07T01:45:07.775604+00:00",
+      "snapshot_at": "2026-08-07T01:55:12.137230+00:00",
       "hotspots": [
         {
           "title": "台中公廁議題",
@@ -70299,21 +70299,6 @@
           ]
         },
         {
-          "title": "苗栗車禍事件",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "green",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "苗栗離奇車禍！26歲男騎機車自摔亡 「這原因」16天後才被發現",
-            "苗栗離奇車禍！26歲男騎機車自摔 陳屍農地草叢16天才被發現"
-          ]
-        },
-        {
           "title": "花蓮車禍事件",
           "city": "花蓮",
           "place": "花蓮縣政府",
@@ -70326,6 +70311,21 @@
           "sample_titles": [
             "花蓮恐怖車禍! 婦過馬路遭騎士衝撞 頭部出血失去意識",
             "花蓮恐怖車禍！老翁騎車猛撞行人再撞2車 8旬婦頭部出血重傷"
+          ]
+        },
+        {
+          "title": "苗栗車禍事件",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "苗栗離奇車禍！26歲男騎機車自摔亡 「這原因」16天後才被發現",
+            "苗栗離奇車禍！26歲男騎機車自摔 陳屍農地草叢16天才被發現"
           ]
         },
         {
@@ -70447,6 +70447,20 @@
           ]
         },
         {
+          "title": "屏東弊案爭議",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "【新聞一點靈】屏東鎢金董座命案非關國安！ 警逮前員工　疑偷竊失風犯案　屏東鎢金大亨黑歷史曝光　曾涉多起官司 「詐騙遭判刑"
+          ]
+        },
+        {
           "title": "高雄弊案爭議",
           "city": "高雄",
           "place": "高雄市政府",
@@ -70461,7 +70475,7 @@
           ]
         },
         {
-          "title": "屏東弊案爭議",
+          "title": "屏東詐騙案",
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "yellow",
@@ -70486,20 +70500,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "律師「BNT疫苗詐騙」狠削慈濟10億！？ 豪宅堆出「現金床」還藏158公斤黃金山！ 【關鍵時刻】20260806-6 張"
-          ]
-        },
-        {
-          "title": "屏東詐騙案",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "【新聞一點靈】屏東鎢金董座命案非關國安！ 警逮前員工　疑偷竊失風犯案　屏東鎢金大亨黑歷史曝光　曾涉多起官司 「詐騙遭判刑"
           ]
         },
         {
@@ -70618,11 +70618,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "yellow",
-          "news_count": 63,
+          "news_count": 60,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 72,
+          "urgency_score": 69,
           "sample_titles": [
             "「宜蘭蓋漳」行腳 林國漳完成168村里",
             "「JINHO宜蘭敬好生活」台灣文博會展出 循蘭陽溪走讀生活美學",
@@ -70634,11 +70634,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "yellow",
-          "news_count": 72,
+          "news_count": 69,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 78,
+          "urgency_score": 75,
           "sample_titles": [
             "嘉縣長選戰加溫，民進黨提名參選人蔡易餘日前完成競選總部進駐，接著將陸續成立18鄉鎮市後援會，展開陸戰；國民黨支持無黨籍朴",
             "漢光42號》新北後備輔導幹部支援淡江大橋阻絕設置 協力軍事作戰",
@@ -70647,6 +70647,21 @@
         },
         {
           "title": "台東狼師事件",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "名醫爆性侵！竟逼男病人跪地口交 台東「傻瓜醫生」判刑",
+            "精神科名醫爆性侵！義診弱勢竟逼男病患口交 台東「傻瓜醫生」判刑"
+          ]
+        },
+        {
+          "title": "台東弊案爭議",
           "city": "台東",
           "place": "台東縣政府",
           "level": "red",
@@ -70673,21 +70688,6 @@
           "sample_titles": [
             "北竿棄屍案 連江地檢署起訴凶嫌 (圖)",
             "通緝犯投靠馬祖友人持刀刺死對方 棄屍山谷遭起訴"
-          ]
-        },
-        {
-          "title": "台東弊案爭議",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "名醫爆性侵！竟逼男病人跪地口交 台東「傻瓜醫生」判刑",
-            "精神科名醫爆性侵！義診弱勢竟逼男病患口交 台東「傻瓜醫生」判刑"
           ]
         },
         {
@@ -70786,6 +70786,22 @@
           ]
         },
         {
+          "title": "澎湖地方動態",
+          "city": "澎湖",
+          "place": "澎湖縣政府",
+          "level": "red",
+          "news_count": 30,
+          "comment_count": 0,
+          "negativity_pct": 3,
+          "is_urgent": false,
+          "urgency_score": 33,
+          "sample_titles": [
+            "澎湖地檢前進派出所強化查賄知能深入社區宣導反賄重點",
+            "【禁聞】《澎湖海戰》上映喊停 疑避習川會敏感期",
+            "放火澎湖垃圾山找不到相機！民宿離譜理由「誤認按摩棒丟掉」 網怒質疑"
+          ]
+        },
+        {
           "title": "新竹市地方動態",
           "city": "新竹市",
           "place": "新竹市政府",
@@ -70799,22 +70815,6 @@
             "颱風可能來亂 新竹市宣佈「港港好」首週8/8-8/9活動取消",
             "竹市道路半夜重鋪 民怨擾人清夢",
             "竹市道路半夜重鋪民怨擾人清夢- 生活"
-          ]
-        },
-        {
-          "title": "澎湖地方動態",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
-          "level": "red",
-          "news_count": 32,
-          "comment_count": 0,
-          "negativity_pct": 3,
-          "is_urgent": false,
-          "urgency_score": 35,
-          "sample_titles": [
-            "澎湖地檢前進派出所強化查賄知能深入社區宣導反賄重點",
-            "【禁聞】《澎湖海戰》上映喊停 疑避習川會敏感期",
-            "放火澎湖垃圾山找不到相機！民宿離譜理由「誤認按摩棒丟掉」 網怒質疑"
           ]
         },
         {
@@ -70870,11 +70870,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 64,
+          "news_count": 63,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 76,
+          "urgency_score": 72,
           "sample_titles": [
             "8/7防空演習有垃圾車嗎？台南15區受影響、高屏異動：做錯罰15萬 | 生活",
             "從臭水溝到親水景點 台南竹溪2期工程拚明年完工",
@@ -70934,11 +70934,11 @@
           "city": "高雄",
           "place": "高雄市左營區",
           "level": "red",
-          "news_count": 118,
+          "news_count": 116,
           "comment_count": 0,
           "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 157,
+          "urgency_score": 155,
           "sample_titles": [
             "快訊／驚爆涉貪污！高雄議員范織欽…遭檢調帶回漏夜偵訊",
             "城鎮韌性演習8/7南部登場 台南高雄屏東高鐵台鐵捷運公車營運情況一次看",
@@ -70950,11 +70950,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 168,
+          "news_count": 167,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 213,
+          "urgency_score": 212,
           "sample_titles": [
             "關聖帝君誕辰 桃園副市長蘇俊賓挑戰神將腳…扛40公斤關平將軍大仙尪",
             "桃園捷運站周邊46處積淹水 改善35處",
@@ -70966,11 +70966,11 @@
           "city": "台北",
           "place": "台北市大安區",
           "level": "red",
-          "news_count": 228,
+          "news_count": 226,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 255,
+          "urgency_score": 253,
           "sample_titles": [
             "嘉縣長選戰加溫，民進黨提名參選人蔡易餘日前完成競選總部進駐，接著將陸續成立18鄉鎮市後援會，展開陸戰；國民黨支持無黨籍朴",
             "台北市大安區師範大學附近知名皮膚科黃禎憲診所日前在診所招牌下方貼出藍營參選人布條，遭人拍下後放到社群說可以「避雷」不用去",
@@ -70982,11 +70982,11 @@
           "city": "台中",
           "place": "台中市西屯區",
           "level": "red",
-          "news_count": 308,
+          "news_count": 306,
           "comment_count": 0,
           "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 410,
+          "urgency_score": 408,
           "sample_titles": [
             "10億BNT詐騙案燒出台中市府！他轟盧秀燕：潮水退了 沒穿褲子的都現形",
             "民進黨發言人李坤城今天表示，慈濟採購疫苗詐騙案，當年那段採購疫苗期間，不斷抹黑詆毀民進黨政府及防疫團隊的藍白政治人物，必",
