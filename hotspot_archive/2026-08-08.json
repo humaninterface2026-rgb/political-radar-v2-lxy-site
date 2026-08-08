@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "snapshot_at": "2026-08-08T11:03:23.957569+00:00",
+  "snapshot_at": "2026-08-08T11:03:37.724455+00:00",
   "hotspots": [
     {
       "title": "藍營路線爭議",
@@ -320,27 +320,6 @@
       "comments": []
     },
     {
-      "title": "高雄狼師事件",
-      "city": "高雄",
-      "place": "高雄市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "高雄出差順便「插旗」 女網友控性侵卻相約「明年去北海道滑雪」",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5532663",
-          "time": "2026-08-08 09:23:31",
-          "publisher": "自由時報",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台東狼師事件",
       "city": "台東",
       "place": "台東縣政府",
@@ -356,6 +335,27 @@
           "url": "https://tw.news.yahoo.com/%E6%9B%BE%E9%81%A0%E8%B5%B4%E8%A5%BF%E8%97%8F%E7%BE%A9%E8%A8%BA-%E5%8F%B0%E6%9D%B1%E5%90%8D%E9%86%AB%E9%A9%9A%E5%82%B3%E6%80%A7%E4%BE%B5%E7%97%85%E6%82%A3-%E9%81%AD%E5%88%A44%E5%B9%B48%E6%9C%88-112800782.html",
           "time": "2026-08-07 19:28:00",
           "publisher": "Yahoo新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄狼師事件",
+      "city": "高雄",
+      "place": "高雄市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "高雄出差順便「插旗」 女網友控性侵卻相約「明年去北海道滑雪」",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5532663",
+          "time": "2026-08-08 09:23:31",
+          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -2954,286 +2954,6 @@
       "comments": []
     },
     {
-      "title": "屏東地方動態",
-      "city": "屏東",
-      "place": "屏東縣政府",
-      "level": "red",
-      "news_count": 38,
-      "comment_count": 0,
-      "negativity_pct": 3,
-      "is_urgent": false,
-      "urgency_score": 41,
-      "news_articles": [
-        {
-          "title": "首屆全國原鄉盃排球賽屏東登場",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wS0Rmc1JMU0RWOWo2QkZBeFQwQzJ3Q2YzYTBlWUJ0b3JVazZVVnJOZUplbG9IdGJGRUs2bzdpQWxnQ2YwUjRPWQ?oc=5",
-          "time": "2026-08-08 16:51:51",
-          "publisher": "Google News→台灣民眾電子報",
-          "severity": null
-        },
-        {
-          "title": "屏東男徒步1小時到台電「辦戶口」 潮州警一眼認出助他返家",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2T0w3T3JCRE1xUUowcTg0anNsWkh1ZnZRZmlYR01OOXR2RVdrUlNESmFzQkhnYmpINWpTbHhFRHN2MzJuR0FPWnFOUGJTRjRtaHFpMXJkVDZhMHd4TUHSAUtBVV95cUxQNThOTTJPM2VtNXVLSy1kc0x2OWRfa2tyMEdoMWFlVFJwWUpfbnNPU3U2MF9XdFQzeUhmZG0zQVdxQTFUT2lfNmRMMXc?oc=5",
-          "time": "2026-08-08 16:44:00",
-          "publisher": "ETtoday",
-          "severity": null
-        },
-        {
-          "title": "全國原鄉盃排球賽屏東開打！29隊同場競技 總獎金高達40萬元",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TU1JQSW9wTnVwX3pQRERvRi1xUDEwdG5MQzVXWlJXaFg0d0U0ZjZEYjB1NHkxLVpBQzd5QVE2WmQ5YmJSU2dsUHEwTUdFd1lHa2syNnNweXFpaVM0NnZOaTQzdDZEd0xFVlpPeDNR?oc=5",
-          "time": "2026-08-08 16:14:34",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "佛心價吸客！屏東自助餐「雞肉加3蔬菜」銅板價55元",
-          "url": "https://tw.news.yahoo.com/%E4%BD%9B%E5%BF%83%E5%83%B9%E5%90%B8%E5%AE%A2-%E5%B1%8F%E6%9D%B1%E8%87%AA%E5%8A%A9%E9%A4%90-%E9%9B%9E%E8%82%89%E5%8A%A03%E8%94%AC%E8%8F%9C-%E9%8A%85%E6%9D%BF%E5%83%B955%E5%85%83-074300707.html",
-          "time": "2026-08-08 15:43:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台灣黑熊現蹤屏東三地門安坡村",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WUUNTR3VMNEhFX05TQ0I4R3VucDBWXzJxUHBIN1VMRllYLWVkbzR5eDlUWWllUGs5X2RRejlzLWJ3X2FRMkw5VWFYcUZSUmY3bGxSc3BaVG03S0VQZk85b2hmUEcwUmVZSnlF?oc=5",
-          "time": "2026-08-08 15:26:04",
-          "publisher": "Google News→台灣華報",
-          "severity": null
-        },
-        {
-          "title": "屏東潮州毛小孩有福了！鎮公所研議增設大型寵物公園",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yQXlpMnZ0ZC1BWTd0MlJBVm1CaVJVcnJoU2lMdnBzX0Q0RmdsaDRIdjVIS2hJMW1zdWMwWWdvTDktRjZEc0xfRHc0MmpFVkwtQjNIYXFnVENsTk9ZSkFDYndnNUhYbWF0S1BjcDFB?oc=5",
-          "time": "2026-08-08 12:34:12",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "2026南國漫讀節打造國際閱讀盛會 萬城目學、妹島和世親臨屏東",
-          "url": "https://www.thehubnews.net/archives/652581",
-          "time": "2026-08-08 11:56:05",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "好幸運！今彩539開出4注頭獎 其中一注獎落屏東市",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2RGEzT080M2JIMXlRUE43N1ZWaV9VVUpYb3ZGbkpGN2FpaTh0M3BqRHZKbGF0c3QzMElrRjZwOG0zeGJIb0lNZzZEVFNEUQ?oc=5",
-          "time": "2026-08-08 11:29:00",
-          "publisher": "Google News→news.tw789.net",
-          "severity": null
-        },
-        {
-          "title": "老窗花變身國際時尚 「珍珠母貝公主」陳希亞以珠寶淬鍊屏東溫情",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RWWFMSllZZzNiV0k0aEFSYUdIU29CSUhpcGg5a2E0ME4zclRNNGpiRVZGUldoM2xnVWdTVjhRcEdGOVItRi15d0VzbmNfVWtNTXFQMFdpNENnTnpyZVJCSw?oc=5",
-          "time": "2026-08-08 10:20:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "屏東《日常事務所》開展 把日常變最好玩的藝術體驗 | 中華日報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wNzBjay1BVGtUY0hFQmNuaUducVZIQ3hXNFE5ZUxTVExGdVJEUWkzaVhJS09SMU5VdklRbE51SDc2WkpGdnZWWEdvN2I5NklUcG9oMURn?oc=5",
-          "time": "2026-08-08 09:36:41",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "屏東縣警察局人事調整 交通隊長由程大維陞任",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5532645",
-          "time": "2026-08-08 09:33:08",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "屏東縣警察局人事調整交通隊長由程大維陞任- 社會",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wZVdGdzdwSXJHb2kxZkR1TFNtSzAtOWczcXVlTG5rUkVKdE1sWHUwbk1wcFZkUW90U0JTa09vN3VhWE5lbk5RQUlWdWFOUWpsMlhqNlBzel9FOWtzTU5WenF0bVV6cG9t?oc=5",
-          "time": "2026-08-08 09:33:08",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "屏東《日常事務所》開展 把日常變最好玩的藝術體驗",
-          "url": "https://www.cdns.com.tw/articles/1441485",
-          "time": "2026-08-08 09:09:11",
-          "publisher": "中華日報",
-          "severity": null
-        },
-        {
-          "title": "影/屏東噁男狂問美容店「有做全套嗎」 恐吞1.2萬罰單或拘留",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B1-%E5%B1%8F%E6%9D%B1%E5%99%81%E7%94%B7%E7%8B%82%E5%95%8F%E7%BE%8E%E5%AE%B9%E5%BA%97-%E6%9C%89%E5%81%9A%E5%85%A8%E5%A5%97%E5%97%8E-%E6%81%90%E5%90%9E1-2%E8%90%AC%E7%BD%B0%E5%96%AE%E6%88%96%E6%8B%98%E7%95%99-083000762.html",
-          "time": "2026-08-08 08:30:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "廖大乙堪輿「屏東木乃伊」命案現場：天有異象冤屈未解",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uVHlBNmVSS1JVYUJLaGczWV9KdVQtYkVscjZ2TmIxM0hFMGhzbXlZYS10Q1Fid0ZqLTFJM09KWjZGb3ZvZmdaeS1KVkFpTm9ZenA5S3VFZnhGc2NJS0HSAUtBVV95cUxQemFIUm5PNElQWm1YVHRSUzhTZ1Yta2lKbTdJWmdNMXpVdWJ0NkFLQi1TZ21wN015ZTZHd2tPNnZ0RmZGUXQ3Y05JZHM?oc=5",
-          "time": "2026-08-08 06:54:00",
-          "publisher": "Google News→ettoday.net",
-          "severity": "yellow"
-        },
-        {
-          "title": "英仙座流星雨8/15璀璨登場 屏東邀您相約佳樂水追星許願",
-          "url": "https://tw.news.yahoo.com/%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A88-15%E7%92%80%E7%92%A8%E7%99%BB%E5%A0%B4-%E5%B1%8F%E6%9D%B1%E9%82%80%E6%82%A8%E7%9B%B8%E7%B4%84%E4%BD%B3%E6%A8%82%E6%B0%B4%E8%BF%BD%E6%98%9F%E8%A8%B1%E9%A1%98-220000684.html",
-          "time": "2026-08-08 06:00:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "城鎮韌性演習》模擬潮州大橋斷無人機運醫衛材- 屏東縣",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QcUZveFVFZERwLWRfSDBnUURVaGtVX1lHUmN4c1Q1Z0pMcDFId1REMGU0N3JOOHpGQjB1ZlZWLVhQVmRaZTlKeFF6US1sOWMzcnJoWHBhT0RhbEdRNWpYWA?oc=5",
-          "time": "2026-08-08 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "屏東內埔鄉後備輔導中心投入城鎮韌性演習協力醫療降載地下化與第三類急救站開設 張惇涵視察肯定後備整備能量",
-          "url": "https://more-news.tw/688101/",
-          "time": "2026-08-08 01:54:04",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "屏東後備旅瑪家鄉山地連教召訓練 強化火力支援效能 | 青年日報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YTHJGWTdqek1qWkRNaVZic2lRdGdJcFBqaUZCaWJjaVRDb3RlbUZndnFUNXVaR3JaSmQzZHdGMXFTd2JMMy03VURfTkRmbWlNV2Z2UzVn?oc=5",
-          "time": "2026-08-08 00:32:27",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "屏東後備旅瑪家鄉山地連教召訓練 強化火力支援效能",
-          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E5%BE%8C%E5%82%99%E6%97%85%E7%91%AA%E5%AE%B6%E9%84%89%E5%B1%B1%E5%9C%B0%E9%80%A3%E6%95%99%E5%8F%AC%E8%A8%93%E7%B7%B4-%E5%BC%B7%E5%8C%96%E7%81%AB%E5%8A%9B%E6%94%AF%E6%8F%B4%E6%95%88%E8%83%BD-163200453.html",
-          "time": "2026-08-08 00:32:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "免費送中國清瘟膠囊涉賄選 屏東議員郭再添妻二審重判3年6月",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtRGwtekpIQUw4MW14OFNyRTF1UFlLa0FueVFjM0NxdW5DYWpzbXVncXU0UDU2d0tEVUlFQ195c1JGSkNRQW1jVkxQb3d4dm1hMUZOSGNWZUxSMVRVa2fSAUtBVV95cUxNa0lYcDJCNUdiVXdDQzE0R01HYU9ibXcxTXU3UmdoUk9lZ3liaS1NY2o5R2VnRGY1WU9EZGltQ2N1MTB4YThRRWpBeWs?oc=5",
-          "time": "2026-08-07 23:26:00",
-          "publisher": "ETtoday",
-          "severity": "red"
-        },
-        {
-          "title": "今天，全台最想上班的地方在屏東！ 《日常事務所》開展 把每天的日常變成最好玩的藝術體驗",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHVmRWSmw2MXRmVTJFUFJsTXNnMDhQSU4wSzFIblFzN3I0ZnpuRlROU0k3OHJPRWxqWWdJWXJuZ1JndXMwZDRId19PNDNWQjJKYXc?oc=5",
-          "time": "2026-08-07 22:23:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "屏東縣政府交通旅遊處布局菲律賓觀光市場 拜會航空公司與旅遊巨頭共拓國際客源",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuVnpaWE51cWo5bjdraURHX3ZLY1A4LUR1R09EZUdFVFFCWElUZE1WWllKXzJDRHF3NnFDRWFLNURPUnYtdWhObmhMYUxGYl9HbGc?oc=5",
-          "time": "2026-08-07 22:19:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "「2026城鎮韌性防空演習」登場 屏東縣縣長視導軍民協力實地操演",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xOVZ3a0pMRU94aGhISGVERVZ6Y19EQndqeTR5UWUzVFdDTFg5RHhQMm1qR045UHNvdTF4dFNOTmhFbDYtVTV0YUdpaEVYTW5WemFMcUx5SVlOYy1vSmNyQlduOA?oc=5",
-          "time": "2026-08-07 22:16:56",
-          "publisher": "Google News→波新聞",
-          "severity": null
-        },
-        {
-          "title": "全台最想「上班」的地方！屏東看海美術館《日常事務所》開張",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5532497",
-          "time": "2026-08-07 21:56:48",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "屏東三地門部落驚見不只一隻黑熊出沒 林保署證實留下新鮮排遺與爪痕",
-          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E4%B8%89%E5%9C%B0%E9%96%80%E9%83%A8%E8%90%BD%E9%A9%9A%E8%A6%8B%E4%B8%8D%E5%8F%AA-%E9%9A%BB%E9%BB%91%E7%86%8A%E5%87%BA%E6%B2%92-%E6%9E%97%E4%BF%9D%E7%BD%B2%E8%AD%89%E5%AF%A6%E7%95%99%E4%B8%8B%E6%96%B0%E9%AE%AE%E6%8E%92%E9%81%BA%E8%88%87%E7%88%AA%E7%97%95-134516402.html",
-          "time": "2026-08-07 21:45:16",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "屏東三地門部落驚見不只一隻黑熊出沒林保署證實留下新鮮排遺與爪痕– 地方",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wUmwyX2RNd3ZMcVBSSFBMSkRvbkk0czYtdktrOVBoMGNUNWJNdk1IdFphc1A2OXpZRXFYSnFGWHdCMUhiV1VRd0FQVzNtdw?oc=5",
-          "time": "2026-08-07 21:45:16",
-          "publisher": "Google News→創新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "屏東城鎮韌性防空演習登場 周春米視導軍民協力實地操演",
-          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E5%9F%8E%E9%8E%AE%E9%9F%8C%E6%80%A7%E9%98%B2%E7%A9%BA%E6%BC%94%E7%BF%92%E7%99%BB%E5%A0%B4-%E5%91%A8%E6%98%A5%E7%B1%B3%E8%A6%96%E5%B0%8E%E8%BB%8D%E6%B0%91%E5%8D%94%E5%8A%9B%E5%AF%A6%E5%9C%B0%E6%93%8D%E6%BC%94-214224554.html",
-          "time": "2026-08-07 21:42:24",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "屏東追星季 佳樂水觀賞英仙座流星雨",
-          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E8%BF%BD%E6%98%9F%E5%AD%A3-%E4%BD%B3%E6%A8%82%E6%B0%B4%E8%A7%80%E8%B3%9E%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8-132225052.html",
-          "time": "2026-08-07 21:22:25",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "屏東推4大主題旅遊線 搶攻菲律賓市場",
-          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E6%8E%A84%E5%A4%A7%E4%B8%BB%E9%A1%8C%E6%97%85%E9%81%8A%E7%B7%9A-%E6%90%B6%E6%94%BB%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%B8%82%E5%A0%B4-123524771.html",
-          "time": "2026-08-07 20:35:24",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "屏東推4大主題旅遊線搶攻菲律賓市場| 生活",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zaGFiNGhIdXEwWENvSkFaQzdWZl9jYmlybUtTNm1ZZWtiYTRQRncyci03OUItSThiUWl4TnFfM2xVSDZfRTNyRHNFNGgwUnVSSWtiLWlCeUNBeG04U0Vv?oc=5",
-          "time": "2026-08-07 20:35:00",
-          "publisher": "Google News→cna.com.tw",
-          "severity": null
-        },
-        {
-          "title": "屏東現蹤台灣黑熊離部落僅8公里 林業署研判不只1隻",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BRDluel9saGZrS0JWOFFDdzBlVGVYRld6dGdaVHpVbzlpOUttVEJNZWg2T1pMUnhLTGhCM2dPeW95TWZ5Rk1UR1dTNWxWVVU?oc=5",
-          "time": "2026-08-07 20:32:59",
-          "publisher": "Google News→公視新聞網PNN",
-          "severity": null
-        },
-        {
-          "title": "屏東縣內埔鄉後備輔導中心投入城鎮韌性演習 張惇涵視察肯定後備整備能量",
-          "url": "https://more-news.tw/687975/",
-          "time": "2026-08-07 19:55:14",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "副業女王詹子晴屏東開講 百位青年搶聽創業秘辛",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5532286",
-          "time": "2026-08-07 19:36:21",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "副業女王詹子晴屏東開講 百位青年搶聽創業秘辛",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMa2tCRGJsRTR5MzFRMjN5RExkTTZYcXVBcUJHOGpiRF9TSEc2S2FYZm9Jei1jTGhFb0dNWGJNNE5JZjNybFBha0R2T19lNTRrV1M1MDZlaXdOSHdk?oc=5",
-          "time": "2026-08-07 19:36:21",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "屏東追星季 佳樂水迎英仙座流星雨",
-          "url": "https://taiwanreports.com/archives/1004650",
-          "time": "2026-08-07 19:35:57",
-          "publisher": "臺灣導報",
-          "severity": null
-        },
-        {
-          "title": "屏東議員郭再添中籍配偶涉行賄二審改重判3年半| 社會",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KM0JFMGZDY1NERGJGc2tTZ042Nl94dURCU3pVU1dPM0pZWVV1UGpZZW5VaTZZbHdmN2RobElaYVZabjNqZWpVWGI1aHJxR1lIX1hoY1ZmbHBObVNzN293?oc=5",
-          "time": "2026-08-07 19:16:00",
-          "publisher": "Google News→cna.com.tw",
-          "severity": "red"
-        },
-        {
-          "title": "屏東推永久屋地籍分割分照 解長年產權難題",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WLTRnNWdJczhnMUtOY2xsaTFFM29jVTF0NENzWTF4cTNwb3lERWlqWnhuS3Zja290WTczX0xqSm9nUEstQUE?oc=5",
-          "time": "2026-08-07 19:12:00",
-          "publisher": "Google News→原住民族文化事業基金會",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "彰化地方動態",
       "city": "彰化",
       "place": "彰化縣政府",
@@ -3508,6 +3228,286 @@
           "url": "https://www.storm.mg/article/11154954",
           "time": "2026-08-07 19:10:00",
           "publisher": "風傳媒",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "屏東地方動態",
+      "city": "屏東",
+      "place": "屏東縣政府",
+      "level": "red",
+      "news_count": 38,
+      "comment_count": 0,
+      "negativity_pct": 3,
+      "is_urgent": false,
+      "urgency_score": 41,
+      "news_articles": [
+        {
+          "title": "首屆全國原鄉盃排球賽屏東登場",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wS0Rmc1JMU0RWOWo2QkZBeFQwQzJ3Q2YzYTBlWUJ0b3JVazZVVnJOZUplbG9IdGJGRUs2bzdpQWxnQ2YwUjRPWQ?oc=5",
+          "time": "2026-08-08 16:51:51",
+          "publisher": "Google News→台灣民眾電子報",
+          "severity": null
+        },
+        {
+          "title": "屏東男徒步1小時到台電「辦戶口」 潮州警一眼認出助他返家",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2T0w3T3JCRE1xUUowcTg0anNsWkh1ZnZRZmlYR01OOXR2RVdrUlNESmFzQkhnYmpINWpTbHhFRHN2MzJuR0FPWnFOUGJTRjRtaHFpMXJkVDZhMHd4TUHSAUtBVV95cUxQNThOTTJPM2VtNXVLSy1kc0x2OWRfa2tyMEdoMWFlVFJwWUpfbnNPU3U2MF9XdFQzeUhmZG0zQVdxQTFUT2lfNmRMMXc?oc=5",
+          "time": "2026-08-08 16:44:00",
+          "publisher": "ETtoday",
+          "severity": null
+        },
+        {
+          "title": "全國原鄉盃排球賽屏東開打！29隊同場競技 總獎金高達40萬元",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TU1JQSW9wTnVwX3pQRERvRi1xUDEwdG5MQzVXWlJXaFg0d0U0ZjZEYjB1NHkxLVpBQzd5QVE2WmQ5YmJSU2dsUHEwTUdFd1lHa2syNnNweXFpaVM0NnZOaTQzdDZEd0xFVlpPeDNR?oc=5",
+          "time": "2026-08-08 16:14:34",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "佛心價吸客！屏東自助餐「雞肉加3蔬菜」銅板價55元",
+          "url": "https://tw.news.yahoo.com/%E4%BD%9B%E5%BF%83%E5%83%B9%E5%90%B8%E5%AE%A2-%E5%B1%8F%E6%9D%B1%E8%87%AA%E5%8A%A9%E9%A4%90-%E9%9B%9E%E8%82%89%E5%8A%A03%E8%94%AC%E8%8F%9C-%E9%8A%85%E6%9D%BF%E5%83%B955%E5%85%83-074300707.html",
+          "time": "2026-08-08 15:43:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "台灣黑熊現蹤屏東三地門安坡村",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WUUNTR3VMNEhFX05TQ0I4R3VucDBWXzJxUHBIN1VMRllYLWVkbzR5eDlUWWllUGs5X2RRejlzLWJ3X2FRMkw5VWFYcUZSUmY3bGxSc3BaVG03S0VQZk85b2hmUEcwUmVZSnlF?oc=5",
+          "time": "2026-08-08 15:26:04",
+          "publisher": "Google News→台灣華報",
+          "severity": null
+        },
+        {
+          "title": "屏東潮州毛小孩有福了！鎮公所研議增設大型寵物公園",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yQXlpMnZ0ZC1BWTd0MlJBVm1CaVJVcnJoU2lMdnBzX0Q0RmdsaDRIdjVIS2hJMW1zdWMwWWdvTDktRjZEc0xfRHc0MmpFVkwtQjNIYXFnVENsTk9ZSkFDYndnNUhYbWF0S1BjcDFB?oc=5",
+          "time": "2026-08-08 12:34:12",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "2026南國漫讀節打造國際閱讀盛會 萬城目學、妹島和世親臨屏東",
+          "url": "https://www.thehubnews.net/archives/652581",
+          "time": "2026-08-08 11:56:05",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "好幸運！今彩539開出4注頭獎 其中一注獎落屏東市",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2RGEzT080M2JIMXlRUE43N1ZWaV9VVUpYb3ZGbkpGN2FpaTh0M3BqRHZKbGF0c3QzMElrRjZwOG0zeGJIb0lNZzZEVFNEUQ?oc=5",
+          "time": "2026-08-08 11:29:00",
+          "publisher": "Google News→news.tw789.net",
+          "severity": null
+        },
+        {
+          "title": "老窗花變身國際時尚 「珍珠母貝公主」陳希亞以珠寶淬鍊屏東溫情",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RWWFMSllZZzNiV0k0aEFSYUdIU29CSUhpcGg5a2E0ME4zclRNNGpiRVZGUldoM2xnVWdTVjhRcEdGOVItRi15d0VzbmNfVWtNTXFQMFdpNENnTnpyZVJCSw?oc=5",
+          "time": "2026-08-08 10:20:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "屏東《日常事務所》開展 把日常變最好玩的藝術體驗 | 中華日報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wNzBjay1BVGtUY0hFQmNuaUducVZIQ3hXNFE5ZUxTVExGdVJEUWkzaVhJS09SMU5VdklRbE51SDc2WkpGdnZWWEdvN2I5NklUcG9oMURn?oc=5",
+          "time": "2026-08-08 09:36:41",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "屏東縣警察局人事調整 交通隊長由程大維陞任",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5532645",
+          "time": "2026-08-08 09:33:08",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "屏東縣警察局人事調整交通隊長由程大維陞任- 社會",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wZVdGdzdwSXJHb2kxZkR1TFNtSzAtOWczcXVlTG5rUkVKdE1sWHUwbk1wcFZkUW90U0JTa09vN3VhWE5lbk5RQUlWdWFOUWpsMlhqNlBzel9FOWtzTU5WenF0bVV6cG9t?oc=5",
+          "time": "2026-08-08 09:33:08",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "屏東《日常事務所》開展 把日常變最好玩的藝術體驗",
+          "url": "https://www.cdns.com.tw/articles/1441485",
+          "time": "2026-08-08 09:09:11",
+          "publisher": "中華日報",
+          "severity": null
+        },
+        {
+          "title": "影/屏東噁男狂問美容店「有做全套嗎」 恐吞1.2萬罰單或拘留",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B1-%E5%B1%8F%E6%9D%B1%E5%99%81%E7%94%B7%E7%8B%82%E5%95%8F%E7%BE%8E%E5%AE%B9%E5%BA%97-%E6%9C%89%E5%81%9A%E5%85%A8%E5%A5%97%E5%97%8E-%E6%81%90%E5%90%9E1-2%E8%90%AC%E7%BD%B0%E5%96%AE%E6%88%96%E6%8B%98%E7%95%99-083000762.html",
+          "time": "2026-08-08 08:30:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "廖大乙堪輿「屏東木乃伊」命案現場：天有異象冤屈未解",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uVHlBNmVSS1JVYUJLaGczWV9KdVQtYkVscjZ2TmIxM0hFMGhzbXlZYS10Q1Fid0ZqLTFJM09KWjZGb3ZvZmdaeS1KVkFpTm9ZenA5S3VFZnhGc2NJS0HSAUtBVV95cUxQemFIUm5PNElQWm1YVHRSUzhTZ1Yta2lKbTdJWmdNMXpVdWJ0NkFLQi1TZ21wN015ZTZHd2tPNnZ0RmZGUXQ3Y05JZHM?oc=5",
+          "time": "2026-08-08 06:54:00",
+          "publisher": "Google News→ettoday.net",
+          "severity": "yellow"
+        },
+        {
+          "title": "英仙座流星雨8/15璀璨登場 屏東邀您相約佳樂水追星許願",
+          "url": "https://tw.news.yahoo.com/%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A88-15%E7%92%80%E7%92%A8%E7%99%BB%E5%A0%B4-%E5%B1%8F%E6%9D%B1%E9%82%80%E6%82%A8%E7%9B%B8%E7%B4%84%E4%BD%B3%E6%A8%82%E6%B0%B4%E8%BF%BD%E6%98%9F%E8%A8%B1%E9%A1%98-220000684.html",
+          "time": "2026-08-08 06:00:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "城鎮韌性演習》模擬潮州大橋斷無人機運醫衛材- 屏東縣",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QcUZveFVFZERwLWRfSDBnUURVaGtVX1lHUmN4c1Q1Z0pMcDFId1REMGU0N3JOOHpGQjB1ZlZWLVhQVmRaZTlKeFF6US1sOWMzcnJoWHBhT0RhbEdRNWpYWA?oc=5",
+          "time": "2026-08-08 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "屏東內埔鄉後備輔導中心投入城鎮韌性演習協力醫療降載地下化與第三類急救站開設 張惇涵視察肯定後備整備能量",
+          "url": "https://more-news.tw/688101/",
+          "time": "2026-08-08 01:54:04",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "屏東後備旅瑪家鄉山地連教召訓練 強化火力支援效能 | 青年日報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YTHJGWTdqek1qWkRNaVZic2lRdGdJcFBqaUZCaWJjaVRDb3RlbUZndnFUNXVaR3JaSmQzZHdGMXFTd2JMMy03VURfTkRmbWlNV2Z2UzVn?oc=5",
+          "time": "2026-08-08 00:32:27",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "屏東後備旅瑪家鄉山地連教召訓練 強化火力支援效能",
+          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E5%BE%8C%E5%82%99%E6%97%85%E7%91%AA%E5%AE%B6%E9%84%89%E5%B1%B1%E5%9C%B0%E9%80%A3%E6%95%99%E5%8F%AC%E8%A8%93%E7%B7%B4-%E5%BC%B7%E5%8C%96%E7%81%AB%E5%8A%9B%E6%94%AF%E6%8F%B4%E6%95%88%E8%83%BD-163200453.html",
+          "time": "2026-08-08 00:32:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "免費送中國清瘟膠囊涉賄選 屏東議員郭再添妻二審重判3年6月",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtRGwtekpIQUw4MW14OFNyRTF1UFlLa0FueVFjM0NxdW5DYWpzbXVncXU0UDU2d0tEVUlFQ195c1JGSkNRQW1jVkxQb3d4dm1hMUZOSGNWZUxSMVRVa2fSAUtBVV95cUxNa0lYcDJCNUdiVXdDQzE0R01HYU9ibXcxTXU3UmdoUk9lZ3liaS1NY2o5R2VnRGY1WU9EZGltQ2N1MTB4YThRRWpBeWs?oc=5",
+          "time": "2026-08-07 23:26:00",
+          "publisher": "ETtoday",
+          "severity": "red"
+        },
+        {
+          "title": "今天，全台最想上班的地方在屏東！ 《日常事務所》開展 把每天的日常變成最好玩的藝術體驗",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHVmRWSmw2MXRmVTJFUFJsTXNnMDhQSU4wSzFIblFzN3I0ZnpuRlROU0k3OHJPRWxqWWdJWXJuZ1JndXMwZDRId19PNDNWQjJKYXc?oc=5",
+          "time": "2026-08-07 22:23:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "屏東縣政府交通旅遊處布局菲律賓觀光市場 拜會航空公司與旅遊巨頭共拓國際客源",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuVnpaWE51cWo5bjdraURHX3ZLY1A4LUR1R09EZUdFVFFCWElUZE1WWllKXzJDRHF3NnFDRWFLNURPUnYtdWhObmhMYUxGYl9HbGc?oc=5",
+          "time": "2026-08-07 22:19:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "「2026城鎮韌性防空演習」登場 屏東縣縣長視導軍民協力實地操演",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xOVZ3a0pMRU94aGhISGVERVZ6Y19EQndqeTR5UWUzVFdDTFg5RHhQMm1qR045UHNvdTF4dFNOTmhFbDYtVTV0YUdpaEVYTW5WemFMcUx5SVlOYy1vSmNyQlduOA?oc=5",
+          "time": "2026-08-07 22:16:56",
+          "publisher": "Google News→波新聞",
+          "severity": null
+        },
+        {
+          "title": "全台最想「上班」的地方！屏東看海美術館《日常事務所》開張",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5532497",
+          "time": "2026-08-07 21:56:48",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "屏東三地門部落驚見不只一隻黑熊出沒 林保署證實留下新鮮排遺與爪痕",
+          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E4%B8%89%E5%9C%B0%E9%96%80%E9%83%A8%E8%90%BD%E9%A9%9A%E8%A6%8B%E4%B8%8D%E5%8F%AA-%E9%9A%BB%E9%BB%91%E7%86%8A%E5%87%BA%E6%B2%92-%E6%9E%97%E4%BF%9D%E7%BD%B2%E8%AD%89%E5%AF%A6%E7%95%99%E4%B8%8B%E6%96%B0%E9%AE%AE%E6%8E%92%E9%81%BA%E8%88%87%E7%88%AA%E7%97%95-134516402.html",
+          "time": "2026-08-07 21:45:16",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "屏東三地門部落驚見不只一隻黑熊出沒林保署證實留下新鮮排遺與爪痕– 地方",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wUmwyX2RNd3ZMcVBSSFBMSkRvbkk0czYtdktrOVBoMGNUNWJNdk1IdFphc1A2OXpZRXFYSnFGWHdCMUhiV1VRd0FQVzNtdw?oc=5",
+          "time": "2026-08-07 21:45:16",
+          "publisher": "Google News→創新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "屏東城鎮韌性防空演習登場 周春米視導軍民協力實地操演",
+          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E5%9F%8E%E9%8E%AE%E9%9F%8C%E6%80%A7%E9%98%B2%E7%A9%BA%E6%BC%94%E7%BF%92%E7%99%BB%E5%A0%B4-%E5%91%A8%E6%98%A5%E7%B1%B3%E8%A6%96%E5%B0%8E%E8%BB%8D%E6%B0%91%E5%8D%94%E5%8A%9B%E5%AF%A6%E5%9C%B0%E6%93%8D%E6%BC%94-214224554.html",
+          "time": "2026-08-07 21:42:24",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "屏東追星季 佳樂水觀賞英仙座流星雨",
+          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E8%BF%BD%E6%98%9F%E5%AD%A3-%E4%BD%B3%E6%A8%82%E6%B0%B4%E8%A7%80%E8%B3%9E%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8-132225052.html",
+          "time": "2026-08-07 21:22:25",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "屏東推4大主題旅遊線 搶攻菲律賓市場",
+          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E6%8E%A84%E5%A4%A7%E4%B8%BB%E9%A1%8C%E6%97%85%E9%81%8A%E7%B7%9A-%E6%90%B6%E6%94%BB%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%B8%82%E5%A0%B4-123524771.html",
+          "time": "2026-08-07 20:35:24",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "屏東推4大主題旅遊線搶攻菲律賓市場| 生活",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zaGFiNGhIdXEwWENvSkFaQzdWZl9jYmlybUtTNm1ZZWtiYTRQRncyci03OUItSThiUWl4TnFfM2xVSDZfRTNyRHNFNGgwUnVSSWtiLWlCeUNBeG04U0Vv?oc=5",
+          "time": "2026-08-07 20:35:00",
+          "publisher": "Google News→cna.com.tw",
+          "severity": null
+        },
+        {
+          "title": "屏東現蹤台灣黑熊離部落僅8公里 林業署研判不只1隻",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BRDluel9saGZrS0JWOFFDdzBlVGVYRld6dGdaVHpVbzlpOUttVEJNZWg2T1pMUnhLTGhCM2dPeW95TWZ5Rk1UR1dTNWxWVVU?oc=5",
+          "time": "2026-08-07 20:32:59",
+          "publisher": "Google News→公視新聞網PNN",
+          "severity": null
+        },
+        {
+          "title": "屏東縣內埔鄉後備輔導中心投入城鎮韌性演習 張惇涵視察肯定後備整備能量",
+          "url": "https://more-news.tw/687975/",
+          "time": "2026-08-07 19:55:14",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "副業女王詹子晴屏東開講 百位青年搶聽創業秘辛",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5532286",
+          "time": "2026-08-07 19:36:21",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "副業女王詹子晴屏東開講 百位青年搶聽創業秘辛",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMa2tCRGJsRTR5MzFRMjN5RExkTTZYcXVBcUJHOGpiRF9TSEc2S2FYZm9Jei1jTGhFb0dNWGJNNE5JZjNybFBha0R2T19lNTRrV1M1MDZlaXdOSHdk?oc=5",
+          "time": "2026-08-07 19:36:21",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "屏東追星季 佳樂水迎英仙座流星雨",
+          "url": "https://taiwanreports.com/archives/1004650",
+          "time": "2026-08-07 19:35:57",
+          "publisher": "臺灣導報",
+          "severity": null
+        },
+        {
+          "title": "屏東議員郭再添中籍配偶涉行賄二審改重判3年半| 社會",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KM0JFMGZDY1NERGJGc2tTZ042Nl94dURCU3pVU1dPM0pZWVV1UGpZZW5VaTZZbHdmN2RobElaYVZabjNqZWpVWGI1aHJxR1lIX1hoY1ZmbHBObVNzN293?oc=5",
+          "time": "2026-08-07 19:16:00",
+          "publisher": "Google News→cna.com.tw",
+          "severity": "red"
+        },
+        {
+          "title": "屏東推永久屋地籍分割分照 解長年產權難題",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WLTRnNWdJczhnMUtOY2xsaTFFM29jVTF0NENzWTF4cTNwb3lERWlqWnhuS3Zja290WTczX0xqSm9nUEstQUE?oc=5",
+          "time": "2026-08-07 19:12:00",
+          "publisher": "Google News→原住民族文化事業基金會",
           "severity": null
         }
       ],

@@ -71088,7 +71088,7 @@
     },
     {
       "date": "2026-08-08",
-      "snapshot_at": "2026-08-08T11:03:23.957569+00:00",
+      "snapshot_at": "2026-08-08T11:03:37.724455+00:00",
       "hotspots": [
         {
           "title": "藍營路線爭議",
@@ -71210,20 +71210,6 @@
           ]
         },
         {
-          "title": "高雄狼師事件",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "高雄出差順便「插旗」 女網友控性侵卻相約「明年去北海道滑雪」"
-          ]
-        },
-        {
           "title": "台東狼師事件",
           "city": "台東",
           "place": "台東縣政府",
@@ -71235,6 +71221,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "曾遠赴西藏義診！台東名醫驚傳性侵病患 遭判4年8月"
+          ]
+        },
+        {
+          "title": "高雄狼師事件",
+          "city": "高雄",
+          "place": "高雄市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "高雄出差順便「插旗」 女網友控性侵卻相約「明年去北海道滑雪」"
           ]
         },
         {
@@ -71580,22 +71580,6 @@
           ]
         },
         {
-          "title": "屏東地方動態",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "red",
-          "news_count": 38,
-          "comment_count": 0,
-          "negativity_pct": 3,
-          "is_urgent": false,
-          "urgency_score": 41,
-          "sample_titles": [
-            "首屆全國原鄉盃排球賽屏東登場",
-            "屏東男徒步1小時到台電「辦戶口」 潮州警一眼認出助他返家",
-            "全國原鄉盃排球賽屏東開打！29隊同場競技 總獎金高達40萬元"
-          ]
-        },
-        {
           "title": "彰化地方動態",
           "city": "彰化",
           "place": "彰化縣政府",
@@ -71609,6 +71593,22 @@
             "彰化市公所表揚56位模範父親",
             "今晚回家注意！台中清水「送肉粽」路線跨彰化4鄉鎮",
             "「115年百工風華 諸羅獻藝工藝展」跨域移師彰化溪湖展出"
+          ]
+        },
+        {
+          "title": "屏東地方動態",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "red",
+          "news_count": 38,
+          "comment_count": 0,
+          "negativity_pct": 3,
+          "is_urgent": false,
+          "urgency_score": 41,
+          "sample_titles": [
+            "首屆全國原鄉盃排球賽屏東登場",
+            "屏東男徒步1小時到台電「辦戶口」 潮州警一眼認出助他返家",
+            "全國原鄉盃排球賽屏東開打！29隊同場競技 總獎金高達40萬元"
           ]
         },
         {
