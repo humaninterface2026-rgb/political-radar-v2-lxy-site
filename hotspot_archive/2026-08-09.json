@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "snapshot_at": "2026-08-09T01:29:00.150151+00:00",
+  "snapshot_at": "2026-08-09T01:33:28.500447+00:00",
   "hotspots": [
     {
       "title": "嘉義縣公廁議題",
@@ -45,27 +45,6 @@
       "comments": []
     },
     {
-      "title": "台南詐騙案",
-      "city": "台南",
-      "place": "台南市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "丙午年佳里區國家三級古蹟震興宮舉辦平安福宴餐會，佳里警分局派員至現場辦理反詐騙宣導活動。",
-          "url": "https://n.yam.com/Article/20260809701031",
-          "time": "2026-08-09 08:23:56",
-          "publisher": "聯合新聞網",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台中詐騙案",
       "city": "台中",
       "place": "台中市政府",
@@ -82,6 +61,27 @@
           "time": "2026-08-08 19:00:00",
           "publisher": "三立新聞網",
           "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台南詐騙案",
+      "city": "台南",
+      "place": "台南市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "丙午年佳里區國家三級古蹟震興宮舉辦平安福宴餐會，佳里警分局派員至現場辦理反詐騙宣導活動。",
+          "url": "https://n.yam.com/Article/20260809701031",
+          "time": "2026-08-09 08:23:56",
+          "publisher": "聯合新聞網",
+          "severity": null
         }
       ],
       "comments": []
@@ -509,174 +509,6 @@
       "comments": []
     },
     {
-      "title": "新竹縣地方動態",
-      "city": "新竹縣",
-      "place": "新竹縣政府",
-      "level": "yellow",
-      "news_count": 22,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 22,
-      "news_articles": [
-        {
-          "title": "白海豚颱風逼近！連江縣今停班停課 新竹縣8校停課、照常上班",
-          "url": "https://tw.news.yahoo.com/%E7%99%BD%E6%B5%B7%E8%B1%9A%E9%A2%B1%E9%A2%A8%E9%80%BC%E8%BF%91-%E9%80%A3%E6%B1%9F%E7%B8%A3%E4%BB%8A%E5%81%9C%E7%8F%AD%E5%81%9C%E8%AA%B2-%E6%96%B0%E7%AB%B9%E7%B8%A38%E6%A0%A1%E5%81%9C%E8%AA%B2-%E7%85%A7%E5%B8%B8%E4%B8%8A%E7%8F%AD-233708999.html",
-          "time": "2026-08-09 07:37:08",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "豪雨特報 新竹縣、苗栗縣慎防大豪雨",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5533380",
-          "time": "2026-08-09 05:30:07",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "豪雨特報新竹縣、苗栗縣慎防大豪雨| 生活",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12QUVKSVA4OUhZX2RSaTFOVUNrZ1N2S2EzZ3J1eUwyV0F5elo0dlFfd0VyZ3NNYmR4WV9xVHNveWNHYzVDb0JjaHNfbHBWWUtCRDZnR2drX0lOSjNpLUNz?oc=5",
-          "time": "2026-08-09 05:20:00",
-          "publisher": "Google News→cna.com.tw",
-          "severity": "yellow"
-        },
-        {
-          "title": "新竹縣府宣布： 8校明停課",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMDdnbTdTdkIteUVlZ1FkYTlLLXNObW5rZ0JLZGE0a0hXVU55c09ZY0g5NmNwbV90VFZId212VWZ0V3Nack1Ic3NqcDM5R3RtdkNKZ1p0Tng3bnY4RGlDNHpSOGYwTzl5Z3BtX2ZCOXhfSER6M0lOSG8yd2hJUExXX1NqUWI4UkV6TDdSUHVhaGhYa2NRSzF1aTV0TXlpVEJ0cGdVMkN4N2RvNnBuU0IzMXd3VzNrMGZVMXFQenBZOC1VRi1qVThsaUV0ekoydVpNYnJlWHlfZXJldGpub2t3aUFn?oc=5",
-          "time": "2026-08-08 23:45:00",
-          "publisher": "Google News→facebook.com",
-          "severity": "yellow"
-        },
-        {
-          "title": "白海豚颱風假！ 新竹縣尖石、五峰8校明停課、正常上班",
-          "url": "https://www.ctee.com.tw/news/20260808700728-431401",
-          "time": "2026-08-08 22:39:01",
-          "publisher": "工商時報",
-          "severity": null
-        },
-        {
-          "title": "風雨達停止上課標準！新竹縣府宣布：8間國小9日停課",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YcnJQR1FlbzdnMUtBb2xXMlRVMkh6Vjg4VmFSQV9GemFLMmJQMk5oaU1maTFLV1lzeXF1ekFveUk5U0Y3SmdySFBQOF9VZEVhcDdMOVNQOWhiRWEyRHfSAUtBVV95cUxNWk5ra0ZuVG80ajIyNXR6RFc5QnRiemxMcGJNTlNKRXFEY2xpSzk0eUNxRW82cTVTYVAxaDRjU1p0ODFoV0RtT21YenM?oc=5",
-          "time": "2026-08-08 21:48:00",
-          "publisher": "Google News→ettoday.net",
-          "severity": "yellow"
-        },
-        {
-          "title": "快訊／新竹縣府急宣布！五峰尖石明日8校停課 但正常上班",
-          "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E6%96%B0%E7%AB%B9%E7%B8%A3%E5%BA%9C%E6%80%A5%E5%AE%A3%E5%B8%83-%E4%BA%94%E5%B3%B0%E5%B0%96%E7%9F%B3%E6%98%8E%E6%97%A58%E6%A0%A1%E5%81%9C%E8%AA%B2-%E4%BD%86%E6%AD%A3%E5%B8%B8%E4%B8%8A%E7%8F%AD-132500569.html",
-          "time": "2026-08-08 21:25:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "白海豚颱風假！ 新竹縣尖石、五峰8校明停課、正常上班- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ULUtmdUVsRnJXeFRGRURlT18xTjFfckE2TFY5VXdFY1NVMFBsVEtUb3dqQnJsb3picFlwOU1FVFM2MkZua2FGYndITXptZ2ZxY0JUWGNRRE53ajZ0eE9F?oc=5",
-          "time": "2026-08-08 21:21:00",
-          "publisher": "Google News→工商時報",
-          "severity": null
-        },
-        {
-          "title": "不斷更新／颱風假宣布了 明「新竹縣8校」停課不停班",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTM2Zid2UtTEhRRS03TTh2Y0hYSEpVR0tFN2VFRGxlcjV4U01KZW5Ed0N4bkNoZV9KZ25QZ3ZHU3lNWWNidlRYTdIBTEFVX3lxTE5IVVk0SGdhQlljUkUyRDhEc3cycVZJRUdYN3NfVmF5TUJOWUkzT2JKQTZCOW1XSWJiOHpMdV80UHUzenRpOHR3a19BOVU?oc=5",
-          "time": "2026-08-08 21:04:00",
-          "publisher": "三立新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "颱風白海豚逼近 新竹縣尖石、五峰8校明停課、正常上班",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iNGdMLThMMlUzNHNFVVBRRVY3dXZFRThQUWlod3lwU2NCcm5tUC1lTUZnejFiRFNoNlJmU1dITWJHTUtqSF8zSTE0SHhjdkxqSFJFWGFlM2dHbjFUWEoyYzBHV1h2eXJiS0pjUXVR?oc=5",
-          "time": "2026-08-08 20:52:57",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "颱風白海豚逼近新竹縣尖石、五峰8校明停課、正常上班- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRYzdQZjN0T2JFVTJkWVQ3MDduOUo5NXJCcU9yRzhOY2dYNjFuSlB1dGVLTzM3TzhPZ2g5cmUteEJyYlZlT3ZhUlNJbkxQRDZ6MFpadjFMSzE3UjF5bjhv?oc=5",
-          "time": "2026-08-08 20:52:00",
-          "publisher": "Google News→工商時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "山區雨量達標！ 新竹縣明日8校停止上課、正常上班",
-          "url": "https://tw.news.yahoo.com/%E5%B1%B1%E5%8D%80%E9%9B%A8%E9%87%8F%E9%81%94%E6%A8%99-%E6%96%B0%E7%AB%B9%E7%B8%A3%E6%98%8E%E6%97%A58%E6%A0%A1%E5%81%9C%E6%AD%A2%E4%B8%8A%E8%AA%B2-%E6%AD%A3%E5%B8%B8%E4%B8%8A%E7%8F%AD-124935755.html",
-          "time": "2026-08-08 20:49:35",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "白海豚逼近！新竹縣山區8校明停課、照常上班",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40WVZYOGU5YTdST1hxRHlxdS1aNzBGcUJTZGptRFFwOXRleXNMRE5kTlNzTnVacjZ2QjNEMWh5WHJMVVNuREpGV0pyUDJDbGlv0gFWQVVfeXFMUG5rdDAxYUpGRFlBazNOczg0ZTdHRC12QW43TmVMVEw4WUctWnEwVGluc1haWV8wZkRfTUIxcXFsOHBYOEQ0WXhpaUJCdTlMT1A2ajBXUnc?oc=5",
-          "time": "2026-08-08 20:46:37",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "白海豚颱風逼近！新竹縣宣布 山區8校明停課、照常上班",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00VnY1SFNiWDZLazEtOUJHbl9FZktRNTZvc2c0RkpscEdHay1uRzlYSzNJTWF5dm5SX1hlZURhbVF2OGh1QndXaGFXRjZDUE5E0gFWQVVfeXFMTk9CQ1BPaVJxMHlyQjRid0s5bllkeEZKWHNIU1ViQXVSWFlZaDVKb3F5MExtQUNiUHFjaGlQYzNPOG5UeGVNcnZ4cW9kS3FyUlEyM052QWc?oc=5",
-          "time": "2026-08-08 20:46:37",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "快訊／白海豚逼近！新竹縣尖石、五峰「8校停課」",
-          "url": "https://news.ebc.net.tw/news/living/565370",
-          "time": "2026-08-08 20:44:00",
-          "publisher": "東森新聞",
-          "severity": null
-        },
-        {
-          "title": "藍營新竹縣「整合不利」！吳子嘉酸鄭麗文「拜票女王」！【頭家來開講】2026.08.08",
-          "url": "https://www.youtube.com/watch?v=pdbLCpckiwc",
-          "time": "2026-08-08 20:15:35",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "表揚19位模範父親！新竹縣慶祝父親節 楊文科盼喚醒大眾感恩之心",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TVUNnS1cxRThYV0NhUW9MV3JjNkVtSlVudEJnRDdhdDkyRjFiNENhclVNY1ZXaXYwUGowWGx2TVdmaU1UQWNpUHM1T1QwVmNoTXc?oc=5",
-          "time": "2026-08-08 19:44:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "爸爸就像魔術師 新竹縣115年度模範父親表揚活動溫馨登場",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ob3NIcnIzOWtKUVI4QkdZOEpmUDBtbGRsMEJWeV9ObzY0YVo2VEJDcnkxdG1XVk45a2Njelg1SmpqUEtTZURkZ1B1NDQwN3NFdmc?oc=5",
-          "time": "2026-08-08 17:54:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "新竹縣模範父親表揚 氣氛溫馨感人 | 台灣好新聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iQWIyRXIycG5TdWE1aW9ONmotYVRpUG9HN05MV3FLaV9DMW9RUGIzdHFlUEhSRmpWUTJrV1U4ZTRQTDUtTW1rLUN4UGsxbFNqazI5YVB3?oc=5",
-          "time": "2026-08-08 15:52:21",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "新竹縣模範父親表揚 氣氛溫馨感人 - 政府消息新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVhtWk5JVlYydXdjMEpvZ0I4RzVid2EyaUJ4aG1tTTlWdHp4TTJBcGU2QmpuWkQ3cFhyLVFyTFUwMzJMZ3pUR2xHbXJUSExDVi0zRkhLNTl0cmxyWGJwcDlIa3drOWFjU0t4V1lPeFhqT3pwZUYzS0dUYjZ4QWEwNGg2cDh1YlJWbEVubA?oc=5",
-          "time": "2026-08-08 14:37:16",
-          "publisher": "Google News→news.pchome.com.tw",
-          "severity": null
-        },
-        {
-          "title": "新竹縣表揚模範父親最年輕「新力爸爸」來自新疆- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40bzR4b29zTlN1bmhXSHdTQk53eFI1My1acVBzdWM5cWZ1M05fd1prY1piYnpLYTNZcTJUMXZacnBOTmxvaVBEU2JTd0hDbEo3TkpUbFNIQVZyNkdFaVVfTTR6SlQ?oc=5",
-          "time": "2026-08-08 14:24:37",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "趣味互動學防溺 桃園大有分隊前進新埔社區宣導水域安全",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wd0c5aUJILXh5S1hfSnRwV0lPMVRDb1d1d1laYnhWYjlleTFQam5CWkozSVZIOXJORm5SUVpVQWpMQXNseEx1cW5NRHY3SFc2OWZqV2VWdUZwZ25fYmJfd292QmxSWG56VEhsNXZB?oc=5",
-          "time": "2026-08-08 13:42:00",
-          "publisher": "中時新聞網",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "南投地方動態",
       "city": "南投",
       "place": "南投縣政府",
@@ -845,15 +677,183 @@
       "comments": []
     },
     {
+      "title": "新竹縣地方動態",
+      "city": "新竹縣",
+      "place": "新竹縣政府",
+      "level": "yellow",
+      "news_count": 22,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 22,
+      "news_articles": [
+        {
+          "title": "白海豚颱風逼近！連江縣今停班停課 新竹縣8校停課、照常上班",
+          "url": "https://tw.news.yahoo.com/%E7%99%BD%E6%B5%B7%E8%B1%9A%E9%A2%B1%E9%A2%A8%E9%80%BC%E8%BF%91-%E9%80%A3%E6%B1%9F%E7%B8%A3%E4%BB%8A%E5%81%9C%E7%8F%AD%E5%81%9C%E8%AA%B2-%E6%96%B0%E7%AB%B9%E7%B8%A38%E6%A0%A1%E5%81%9C%E8%AA%B2-%E7%85%A7%E5%B8%B8%E4%B8%8A%E7%8F%AD-233708999.html",
+          "time": "2026-08-09 07:37:08",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "豪雨特報 新竹縣、苗栗縣慎防大豪雨",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5533380",
+          "time": "2026-08-09 05:30:07",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "豪雨特報新竹縣、苗栗縣慎防大豪雨| 生活",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12QUVKSVA4OUhZX2RSaTFOVUNrZ1N2S2EzZ3J1eUwyV0F5elo0dlFfd0VyZ3NNYmR4WV9xVHNveWNHYzVDb0JjaHNfbHBWWUtCRDZnR2drX0lOSjNpLUNz?oc=5",
+          "time": "2026-08-09 05:20:00",
+          "publisher": "Google News→cna.com.tw",
+          "severity": "yellow"
+        },
+        {
+          "title": "新竹縣府宣布： 8校明停課",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMDdnbTdTdkIteUVlZ1FkYTlLLXNObW5rZ0JLZGE0a0hXVU55c09ZY0g5NmNwbV90VFZId212VWZ0V3Nack1Ic3NqcDM5R3RtdkNKZ1p0Tng3bnY4RGlDNHpSOGYwTzl5Z3BtX2ZCOXhfSER6M0lOSG8yd2hJUExXX1NqUWI4UkV6TDdSUHVhaGhYa2NRSzF1aTV0TXlpVEJ0cGdVMkN4N2RvNnBuU0IzMXd3VzNrMGZVMXFQenBZOC1VRi1qVThsaUV0ekoydVpNYnJlWHlfZXJldGpub2t3aUFn?oc=5",
+          "time": "2026-08-08 23:45:00",
+          "publisher": "Google News→facebook.com",
+          "severity": "yellow"
+        },
+        {
+          "title": "白海豚颱風假！ 新竹縣尖石、五峰8校明停課、正常上班",
+          "url": "https://www.ctee.com.tw/news/20260808700728-431401",
+          "time": "2026-08-08 22:39:01",
+          "publisher": "工商時報",
+          "severity": null
+        },
+        {
+          "title": "風雨達停止上課標準！新竹縣府宣布：8間國小9日停課",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YcnJQR1FlbzdnMUtBb2xXMlRVMkh6Vjg4VmFSQV9GemFLMmJQMk5oaU1maTFLV1lzeXF1ekFveUk5U0Y3SmdySFBQOF9VZEVhcDdMOVNQOWhiRWEyRHfSAUtBVV95cUxNWk5ra0ZuVG80ajIyNXR6RFc5QnRiemxMcGJNTlNKRXFEY2xpSzk0eUNxRW82cTVTYVAxaDRjU1p0ODFoV0RtT21YenM?oc=5",
+          "time": "2026-08-08 21:48:00",
+          "publisher": "Google News→ettoday.net",
+          "severity": "yellow"
+        },
+        {
+          "title": "快訊／新竹縣府急宣布！五峰尖石明日8校停課 但正常上班",
+          "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E6%96%B0%E7%AB%B9%E7%B8%A3%E5%BA%9C%E6%80%A5%E5%AE%A3%E5%B8%83-%E4%BA%94%E5%B3%B0%E5%B0%96%E7%9F%B3%E6%98%8E%E6%97%A58%E6%A0%A1%E5%81%9C%E8%AA%B2-%E4%BD%86%E6%AD%A3%E5%B8%B8%E4%B8%8A%E7%8F%AD-132500569.html",
+          "time": "2026-08-08 21:25:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "白海豚颱風假！ 新竹縣尖石、五峰8校明停課、正常上班- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ULUtmdUVsRnJXeFRGRURlT18xTjFfckE2TFY5VXdFY1NVMFBsVEtUb3dqQnJsb3picFlwOU1FVFM2MkZua2FGYndITXptZ2ZxY0JUWGNRRE53ajZ0eE9F?oc=5",
+          "time": "2026-08-08 21:21:00",
+          "publisher": "Google News→工商時報",
+          "severity": null
+        },
+        {
+          "title": "不斷更新／颱風假宣布了 明「新竹縣8校」停課不停班",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTM2Zid2UtTEhRRS03TTh2Y0hYSEpVR0tFN2VFRGxlcjV4U01KZW5Ed0N4bkNoZV9KZ25QZ3ZHU3lNWWNidlRYTdIBTEFVX3lxTE5IVVk0SGdhQlljUkUyRDhEc3cycVZJRUdYN3NfVmF5TUJOWUkzT2JKQTZCOW1XSWJiOHpMdV80UHUzenRpOHR3a19BOVU?oc=5",
+          "time": "2026-08-08 21:04:00",
+          "publisher": "三立新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "颱風白海豚逼近 新竹縣尖石、五峰8校明停課、正常上班",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iNGdMLThMMlUzNHNFVVBRRVY3dXZFRThQUWlod3lwU2NCcm5tUC1lTUZnejFiRFNoNlJmU1dITWJHTUtqSF8zSTE0SHhjdkxqSFJFWGFlM2dHbjFUWEoyYzBHV1h2eXJiS0pjUXVR?oc=5",
+          "time": "2026-08-08 20:52:57",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "颱風白海豚逼近新竹縣尖石、五峰8校明停課、正常上班- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRYzdQZjN0T2JFVTJkWVQ3MDduOUo5NXJCcU9yRzhOY2dYNjFuSlB1dGVLTzM3TzhPZ2g5cmUteEJyYlZlT3ZhUlNJbkxQRDZ6MFpadjFMSzE3UjF5bjhv?oc=5",
+          "time": "2026-08-08 20:52:00",
+          "publisher": "Google News→工商時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "山區雨量達標！ 新竹縣明日8校停止上課、正常上班",
+          "url": "https://tw.news.yahoo.com/%E5%B1%B1%E5%8D%80%E9%9B%A8%E9%87%8F%E9%81%94%E6%A8%99-%E6%96%B0%E7%AB%B9%E7%B8%A3%E6%98%8E%E6%97%A58%E6%A0%A1%E5%81%9C%E6%AD%A2%E4%B8%8A%E8%AA%B2-%E6%AD%A3%E5%B8%B8%E4%B8%8A%E7%8F%AD-124935755.html",
+          "time": "2026-08-08 20:49:35",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "白海豚逼近！新竹縣山區8校明停課、照常上班",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40WVZYOGU5YTdST1hxRHlxdS1aNzBGcUJTZGptRFFwOXRleXNMRE5kTlNzTnVacjZ2QjNEMWh5WHJMVVNuREpGV0pyUDJDbGlv0gFWQVVfeXFMUG5rdDAxYUpGRFlBazNOczg0ZTdHRC12QW43TmVMVEw4WUctWnEwVGluc1haWV8wZkRfTUIxcXFsOHBYOEQ0WXhpaUJCdTlMT1A2ajBXUnc?oc=5",
+          "time": "2026-08-08 20:46:37",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "白海豚颱風逼近！新竹縣宣布 山區8校明停課、照常上班",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00VnY1SFNiWDZLazEtOUJHbl9FZktRNTZvc2c0RkpscEdHay1uRzlYSzNJTWF5dm5SX1hlZURhbVF2OGh1QndXaGFXRjZDUE5E0gFWQVVfeXFMTk9CQ1BPaVJxMHlyQjRid0s5bllkeEZKWHNIU1ViQXVSWFlZaDVKb3F5MExtQUNiUHFjaGlQYzNPOG5UeGVNcnZ4cW9kS3FyUlEyM052QWc?oc=5",
+          "time": "2026-08-08 20:46:37",
+          "publisher": "Google News→UDN",
+          "severity": "yellow"
+        },
+        {
+          "title": "快訊／白海豚逼近！新竹縣尖石、五峰「8校停課」",
+          "url": "https://news.ebc.net.tw/news/living/565370",
+          "time": "2026-08-08 20:44:00",
+          "publisher": "東森新聞",
+          "severity": null
+        },
+        {
+          "title": "藍營新竹縣「整合不利」！吳子嘉酸鄭麗文「拜票女王」！【頭家來開講】2026.08.08",
+          "url": "https://www.youtube.com/watch?v=pdbLCpckiwc",
+          "time": "2026-08-08 20:15:35",
+          "publisher": null,
+          "severity": null
+        },
+        {
+          "title": "表揚19位模範父親！新竹縣慶祝父親節 楊文科盼喚醒大眾感恩之心",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TVUNnS1cxRThYV0NhUW9MV3JjNkVtSlVudEJnRDdhdDkyRjFiNENhclVNY1ZXaXYwUGowWGx2TVdmaU1UQWNpUHM1T1QwVmNoTXc?oc=5",
+          "time": "2026-08-08 19:44:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "爸爸就像魔術師 新竹縣115年度模範父親表揚活動溫馨登場",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ob3NIcnIzOWtKUVI4QkdZOEpmUDBtbGRsMEJWeV9ObzY0YVo2VEJDcnkxdG1XVk45a2Njelg1SmpqUEtTZURkZ1B1NDQwN3NFdmc?oc=5",
+          "time": "2026-08-08 17:54:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "新竹縣模範父親表揚 氣氛溫馨感人 | 台灣好新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iQWIyRXIycG5TdWE1aW9ONmotYVRpUG9HN05MV3FLaV9DMW9RUGIzdHFlUEhSRmpWUTJrV1U4ZTRQTDUtTW1rLUN4UGsxbFNqazI5YVB3?oc=5",
+          "time": "2026-08-08 15:52:21",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "新竹縣模範父親表揚 氣氛溫馨感人 - 政府消息新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVhtWk5JVlYydXdjMEpvZ0I4RzVid2EyaUJ4aG1tTTlWdHp4TTJBcGU2QmpuWkQ3cFhyLVFyTFUwMzJMZ3pUR2xHbXJUSExDVi0zRkhLNTl0cmxyWGJwcDlIa3drOWFjU0t4V1lPeFhqT3pwZUYzS0dUYjZ4QWEwNGg2cDh1YlJWbEVubA?oc=5",
+          "time": "2026-08-08 14:37:16",
+          "publisher": "Google News→news.pchome.com.tw",
+          "severity": null
+        },
+        {
+          "title": "新竹縣表揚模範父親最年輕「新力爸爸」來自新疆- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40bzR4b29zTlN1bmhXSHdTQk53eFI1My1acVBzdWM5cWZ1M05fd1prY1piYnpLYTNZcTJUMXZacnBOTmxvaVBEU2JTd0hDbEo3TkpUbFNIQVZyNkdFaVVfTTR6SlQ?oc=5",
+          "time": "2026-08-08 14:24:37",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "趣味互動學防溺 桃園大有分隊前進新埔社區宣導水域安全",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wd0c5aUJILXh5S1hfSnRwV0lPMVRDb1d1d1laYnhWYjlleTFQam5CWkozSVZIOXJORm5SUVpVQWpMQXNseEx1cW5NRHY3SFc2OWZqV2VWdUZwZ25fYmJfd292QmxSWG56VEhsNXZB?oc=5",
+          "time": "2026-08-08 13:42:00",
+          "publisher": "中時新聞網",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "屏東地方動態",
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "yellow",
-      "news_count": 28,
+      "news_count": 26,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 28,
+      "urgency_score": 26,
       "news_articles": [
         {
           "title": "《出身屏東 揚名國際》陳希亞設計珠寶融合老窗花",
@@ -1035,20 +1035,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wNzBjay1BVGtUY0hFQmNuaUducVZIQ3hXNFE5ZUxTVExGdVJEUWkzaVhJS09SMU5VdklRbE51SDc2WkpGdnZWWEdvN2I5NklUcG9oMURn?oc=5",
           "time": "2026-08-08 09:36:41",
           "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "屏東縣警察局人事調整 交通隊長由程大維陞任",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5532645",
-          "time": "2026-08-08 09:33:08",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "屏東縣警察局人事調整交通隊長由程大維陞任- 社會",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wZVdGdzdwSXJHb2kxZkR1TFNtSzAtOWczcXVlTG5rUkVKdE1sWHUwbk1wcFZkUW90U0JTa09vN3VhWE5lbk5RQUlWdWFOUWpsMlhqNlBzel9FOWtzTU5WenF0bVV6cG9t?oc=5",
-          "time": "2026-08-08 09:33:08",
-          "publisher": "自由時報",
           "severity": null
         }
       ],
@@ -2701,6 +2687,118 @@
       "comments": []
     },
     {
+      "title": "台東地方動態",
+      "city": "台東",
+      "place": "台東縣政府",
+      "level": "red",
+      "news_count": 14,
+      "comment_count": 0,
+      "negativity_pct": 14,
+      "is_urgent": false,
+      "urgency_score": 20,
+      "news_articles": [
+        {
+          "title": "東博夜間光雕點亮舊火車站 「夢的路線」帶你重返台東記憶",
+          "url": "https://tw.news.yahoo.com/%E6%9D%B1%E5%8D%9A%E5%A4%9C%E9%96%93%E5%85%89%E9%9B%95%E9%BB%9E%E4%BA%AE%E8%88%8A%E7%81%AB%E8%BB%8A%E7%AB%99-%E5%A4%A2%E7%9A%84%E8%B7%AF%E7%B7%9A-%E5%B8%B6%E4%BD%A0%E9%87%8D%E8%BF%94%E5%8F%B0%E6%9D%B1%E8%A8%98%E6%86%B6-001200876.html",
+          "time": "2026-08-09 08:12:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "台東知本捷地爾又傳遭濫倒 檢方偵辦",
+          "url": "https://news.ltn.com.tw/news/Taitung/paper/1765886",
+          "time": "2026-08-09 05:30:00",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "台東某國小出納侵占3.8萬午餐費 遲繳813天辯「頭暈忘記」判刑結果曝",
+          "url": "https://www.ctwant.com/article/492639/",
+          "time": "2026-08-08 18:42:47",
+          "publisher": "CTWANT",
+          "severity": "red"
+        },
+        {
+          "title": "侵占外聘教師餐費拖813天！台東某國小貪婪出納遭判4月",
+          "url": "https://tw.news.yahoo.com/%E4%BE%B5%E5%8D%A0%E5%A4%96%E8%81%98%E6%95%99%E5%B8%AB%E9%A4%90%E8%B2%BB%E6%8B%96813%E5%A4%A9-%E5%8F%B0%E6%9D%B1%E6%9F%90%E5%9C%8B%E5%B0%8F%E8%B2%AA%E5%A9%AA%E5%87%BA%E7%B4%8D%E9%81%AD%E5%88%A44%E6%9C%88-084700363.html",
+          "time": "2026-08-08 16:47:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "台東人瑞故事集成冊！台北異地跨世代重逢！｜決策者 EP222",
+          "url": "https://www.youtube.com/watch?v=0kai0zCPyLQ",
+          "time": "2026-08-08 16:00:39",
+          "publisher": null,
+          "severity": null
+        },
+        {
+          "title": "鳳梨釋迦進入夏季修剪期 台東農改場籲防治粉介殼蟲",
+          "url": "https://news.cts.com.tw/cna/local/202608/202608083064988.html",
+          "time": "2026-08-08 13:48:57",
+          "publisher": "華視新聞網",
+          "severity": null
+        },
+        {
+          "title": "2026.08.08 13:45 不捨被宰！ 志工「買牛救命」從綠島跨海送雲林安養",
+          "url": "https://www.mnews.tw/story/20260808sot1340001",
+          "time": "2026-08-08 13:48:55",
+          "publisher": "鏡新聞",
+          "severity": null
+        },
+        {
+          "title": "台東鳳梨釋迦出現粉介殼蟲 (圖)",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E6%9D%B1%E9%B3%B3%E6%A2%A8%E9%87%8B%E8%BF%A6%E5%87%BA%E7%8F%BE%E7%B2%89%E4%BB%8B%E6%AE%BC%E8%9F%B2-%E5%9C%96-050934703.html",
+          "time": "2026-08-08 13:09:34",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "颱風白海豚侵襲 台電台東區處走訪畜牧業工會呼籲確實檢查用電設",
+          "url": "https://n.yam.com/Article/20260808322056",
+          "time": "2026-08-08 12:00:00",
+          "publisher": "蕃新聞→藍雀新傳媒",
+          "severity": null
+        },
+        {
+          "title": "颱風白海豚侵襲 台電台東區處走訪畜牧業工會呼籲確實檢查用電設備",
+          "url": "https://n.yam.com/Article/20260808977914",
+          "time": "2026-08-08 12:00:00",
+          "publisher": "蕃新聞→互傳媒",
+          "severity": null
+        },
+        {
+          "title": "東博夜間光雕點亮舊火車站！「夢的路線」帶你重返台東記憶",
+          "url": "https://n.yam.com/Article/20260808601445",
+          "time": "2026-08-08 12:00:00",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "台東捷地爾頻遭棄置廢棄物 檢方出手了",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5532777",
+          "time": "2026-08-08 11:22:32",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "漢光42號演習持續進行，台東海濱公園近日出現一支通信部隊進駐，他們利用公園既有的榕樹、草地等環境架設裝備，現場大量使用偽裝網，就連通信桅桿也偽裝處理，從遠處望去，整套軍事設施幾乎與周遭景觀融為一體，不少民眾經過時甚至沒有立即察覺，直到仔細觀察，才發現草地深處藏著軍事裝備。",
+          "url": "https://udn.com/news/story/10930/9678539?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-08-08 10:08:21",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "一時衝動代價高！酒後打人害失明 台東男判刑5年半還賠掉房子",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5532690",
+          "time": "2026-08-08 09:57:48",
+          "publisher": "自由時報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "雲林地方動態",
       "city": "雲林",
       "place": "雲林縣政府",
@@ -2815,125 +2913,6 @@
           "time": "2026-08-08 09:47:29",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "台東地方動態",
-      "city": "台東",
-      "place": "台東縣政府",
-      "level": "red",
-      "news_count": 15,
-      "comment_count": 0,
-      "negativity_pct": 13,
-      "is_urgent": false,
-      "urgency_score": 21,
-      "news_articles": [
-        {
-          "title": "東博夜間光雕點亮舊火車站 「夢的路線」帶你重返台東記憶",
-          "url": "https://tw.news.yahoo.com/%E6%9D%B1%E5%8D%9A%E5%A4%9C%E9%96%93%E5%85%89%E9%9B%95%E9%BB%9E%E4%BA%AE%E8%88%8A%E7%81%AB%E8%BB%8A%E7%AB%99-%E5%A4%A2%E7%9A%84%E8%B7%AF%E7%B7%9A-%E5%B8%B6%E4%BD%A0%E9%87%8D%E8%BF%94%E5%8F%B0%E6%9D%B1%E8%A8%98%E6%86%B6-001200876.html",
-          "time": "2026-08-09 08:12:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台東知本捷地爾又傳遭濫倒 檢方偵辦",
-          "url": "https://news.ltn.com.tw/news/Taitung/paper/1765886",
-          "time": "2026-08-09 05:30:00",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "台東某國小出納侵占3.8萬午餐費 遲繳813天辯「頭暈忘記」判刑結果曝",
-          "url": "https://www.ctwant.com/article/492639/",
-          "time": "2026-08-08 18:42:47",
-          "publisher": "CTWANT",
-          "severity": "red"
-        },
-        {
-          "title": "侵占外聘教師餐費拖813天！台東某國小貪婪出納遭判4月",
-          "url": "https://tw.news.yahoo.com/%E4%BE%B5%E5%8D%A0%E5%A4%96%E8%81%98%E6%95%99%E5%B8%AB%E9%A4%90%E8%B2%BB%E6%8B%96813%E5%A4%A9-%E5%8F%B0%E6%9D%B1%E6%9F%90%E5%9C%8B%E5%B0%8F%E8%B2%AA%E5%A9%AA%E5%87%BA%E7%B4%8D%E9%81%AD%E5%88%A44%E6%9C%88-084700363.html",
-          "time": "2026-08-08 16:47:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "台東人瑞故事集成冊！台北異地跨世代重逢！｜決策者 EP222",
-          "url": "https://www.youtube.com/watch?v=0kai0zCPyLQ",
-          "time": "2026-08-08 16:00:39",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "鳳梨釋迦進入夏季修剪期 台東農改場籲防治粉介殼蟲",
-          "url": "https://news.cts.com.tw/cna/local/202608/202608083064988.html",
-          "time": "2026-08-08 13:48:57",
-          "publisher": "華視新聞網",
-          "severity": null
-        },
-        {
-          "title": "2026.08.08 13:45 不捨被宰！ 志工「買牛救命」從綠島跨海送雲林安養",
-          "url": "https://www.mnews.tw/story/20260808sot1340001",
-          "time": "2026-08-08 13:48:55",
-          "publisher": "鏡新聞",
-          "severity": null
-        },
-        {
-          "title": "台東鳳梨釋迦出現粉介殼蟲 (圖)",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E6%9D%B1%E9%B3%B3%E6%A2%A8%E9%87%8B%E8%BF%A6%E5%87%BA%E7%8F%BE%E7%B2%89%E4%BB%8B%E6%AE%BC%E8%9F%B2-%E5%9C%96-050934703.html",
-          "time": "2026-08-08 13:09:34",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "颱風白海豚侵襲 台電台東區處走訪畜牧業工會呼籲確實檢查用電設",
-          "url": "https://n.yam.com/Article/20260808322056",
-          "time": "2026-08-08 12:00:00",
-          "publisher": "蕃新聞→藍雀新傳媒",
-          "severity": null
-        },
-        {
-          "title": "颱風白海豚侵襲 台電台東區處走訪畜牧業工會呼籲確實檢查用電設備",
-          "url": "https://n.yam.com/Article/20260808977914",
-          "time": "2026-08-08 12:00:00",
-          "publisher": "蕃新聞→互傳媒",
-          "severity": null
-        },
-        {
-          "title": "東博夜間光雕點亮舊火車站！「夢的路線」帶你重返台東記憶",
-          "url": "https://n.yam.com/Article/20260808601445",
-          "time": "2026-08-08 12:00:00",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "台東捷地爾頻遭棄置廢棄物 檢方出手了",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5532777",
-          "time": "2026-08-08 11:22:32",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "漢光42號演習持續進行，台東海濱公園近日出現一支通信部隊進駐，他們利用公園既有的榕樹、草地等環境架設裝備，現場大量使用偽裝網，就連通信桅桿也偽裝處理，從遠處望去，整套軍事設施幾乎與周遭景觀融為一體，不少民眾經過時甚至沒有立即察覺，直到仔細觀察，才發現草地深處藏著軍事裝備。",
-          "url": "https://udn.com/news/story/10930/9678539?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-08-08 10:08:21",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "一時衝動代價高！酒後打人害失明 台東男判刑5年半還賠掉房子",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5532690",
-          "time": "2026-08-08 09:57:48",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "台東最美星空音樂會今晚改到成功海濱公園 乱彈阿翔、守夜人領銜",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5532657",
-          "time": "2026-08-08 09:32:23",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []
@@ -3965,11 +3944,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "red",
-      "news_count": 62,
+      "news_count": 60,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 62,
+      "urgency_score": 60,
       "news_articles": [
         {
           "title": "宜市中山路郵局外牆磁磚剝落險砸人- 宜蘭縣",
@@ -4389,20 +4368,6 @@
           "url": "https://www.taisounds.com/news/content/139/282028",
           "time": "2026-08-08 10:08:19",
           "publisher": "太報",
-          "severity": "yellow"
-        },
-        {
-          "title": "宜蘭52甲濕地困境 林國漳提保育與補償並行",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5532652",
-          "time": "2026-08-08 09:32:45",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "宜蘭52甲濕地困境林國漳提保育與補償並行- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfTXFyamMtTTBCR3JfV1d0emhZNGZvQTBmT0FGRURIVGs0b09TbDRaMEZ3SlR3MWpPYkYwSXI5clU4SkttRDl2T2N0cmdiQkphM0Vibm9FRkN4NktfWVM3anR3bWc?oc=5",
-          "time": "2026-08-08 09:32:45",
-          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -4896,11 +4861,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 79,
+      "news_count": 78,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 85,
+      "urgency_score": 84,
       "news_articles": [
         {
           "title": "《白海豚環流》新北掀7米巨浪 淡水颳龍捲風",
@@ -5447,13 +5412,6 @@
           "time": "2026-08-08 09:38:11",
           "publisher": "自由時報",
           "severity": null
-        },
-        {
-          "title": "新北警第五波「掃蕩毒酒駕」 查獲36件展現零容忍決心",
-          "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E8%AD%A6%E7%AC%AC%E4%BA%94%E6%B3%A2-%E6%8E%83%E8%95%A9%E6%AF%92%E9%85%92%E9%A7%95-%E6%9F%A5%E7%8D%B236%E4%BB%B6%E5%B1%95%E7%8F%BE%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%B1%BA%E5%BF%83-013104506.html",
-          "time": "2026-08-08 09:31:04",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -5463,11 +5421,11 @@
       "city": "高雄",
       "place": "高雄市左營區",
       "level": "red",
-      "news_count": 104,
+      "news_count": 103,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 116,
+      "urgency_score": 115,
       "news_articles": [
         {
           "title": "高雄5區地形圖20多年首更新！楠梓、左營等最新圖資8月20日上線",
@@ -6189,13 +6147,6 @@
           "time": "2026-08-08 09:53:00",
           "publisher": "東森新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "獨／清新校園女神照曝光！ 高雄議員鄭光峰醫科女兒赴美實習",
-          "url": "https://www.ettoday.net/news/20260808/3215509.htm",
-          "time": "2026-08-08 09:33:00",
-          "publisher": "ETtoday",
-          "severity": null
         }
       ],
       "comments": []
@@ -7745,11 +7696,11 @@
       "city": "台北",
       "place": "台北市信義區",
       "level": "red",
-      "news_count": 164,
+      "news_count": 162,
       "comment_count": 0,
-      "negativity_pct": 5,
+      "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 191,
+      "urgency_score": 189,
       "news_articles": [
         {
           "title": "北市強風大雨！比巴威強 周軒質疑：蔣萬安放假標準在哪？",
@@ -8883,20 +8834,6 @@
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRR0xKeGxteEt5OVVfWS1KTzI5eW1kY21tTWVUcFlWcDJlbGZVZW8tYzRQYVFSb2tuWFplMzlPeW5nY3RwVFZNRWlxazY2c0JuQmhiX0NLbjlJdkxWWnZVZmFHSDU?oc=5",
           "time": "2026-08-08 09:42:38",
           "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "白海豚颱風台北會放假？蔣萬安未正面回：暴風圈減小但不能掉以輕心",
-          "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOdVNlV1RremRVN2xnMWdqR0d6QXltTk13RzcxdUJVMTAyUEFIdTN4VGxPeEVwMnRDNFhjV1dDWm84VU01bkRyVkR1SVdDZk1PdDNrT2FRRW9zYjF3QWdNakFmZVloOE8yM08yZ3BGUVZ5Y1ZFdEo3cTNobXVHZjVHSE45ZlJSY3dzRC1WWDN4OVVqUzVjUmZyQmIzNVBpUmdsZjhWSG13SUMyQ1ZTR1h5M1A5SHhqQUFmaFktTGlOOVItd3JMZmk5XzV6eVFCN0pJSXloTFBxRHVmYzJNQ0dSVVRGYW4wcHBoT2FqaFdkOTQybmJjN29EWTRBRUdneDVQLTNrWnYyM3hYM2k5eDctS2Z0QUFwTHBKZnNxLUwxTUlaUGg4dk1jS1RvVzdEMHdrOHJmZ1N6TTRwUUtTa0tHa3hhVTdiRi1nVm1LWGR2cHBTTDNtYmVUSVcwZUVjZWxIbVBFc0lYNms4SlJNSzlMQkpjZDMtSEtYaFBnMV9oQlZrWEF3OFp6c0JwalE5anJzRGZUd0d6dHN1bHdRcTgySUFrLVFJR2FNTTA0MjB1MlYtZw?oc=5",
-          "time": "2026-08-08 09:31:33",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "白海豚颱風台北會放假？蔣萬安未正面回：暴風圈減小但不能掉以輕心",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15TzJxLWhTa2YycG4wVTNnRElSSXhpZGRDTG10U1VaWld5Tmxhb0RoWnZKdDkybXlhNWhtRnU2UGpCakUtYzd0ekltOA?oc=5",
-          "time": "2026-08-08 09:29:00",
-          "publisher": "Google News→ftnn.com.tw",
           "severity": null
         }
       ],
