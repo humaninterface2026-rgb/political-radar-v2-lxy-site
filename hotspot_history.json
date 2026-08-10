@@ -72307,7 +72307,7 @@
     },
     {
       "date": "2026-08-10",
-      "snapshot_at": "2026-08-10T01:35:04.757067+00:00",
+      "snapshot_at": "2026-08-10T01:40:56.246192+00:00",
       "hotspots": [
         {
           "title": "台南車禍事件",
@@ -72338,20 +72338,6 @@
           ]
         },
         {
-          "title": "雲林詐騙案",
-          "city": "雲林",
-          "place": "雲林縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "慈濟10.6億元疫苗採購詐騙風波引發各界關注，時代力量黨主席王婉諭今天到雲林輔選，被問及相關看法，她認為，中央對於詐騙猖"
-          ]
-        },
-        {
           "title": "新北詐騙案",
           "city": "新北",
           "place": "新北市政府",
@@ -72363,6 +72349,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "新北議員參選人吳昇翰遭盜名詐騙代購點卡、高額機票 已報案籲勿上當"
+          ]
+        },
+        {
+          "title": "雲林詐騙案",
+          "city": "雲林",
+          "place": "雲林縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "慈濟10.6億元疫苗採購詐騙風波引發各界關注，時代力量黨主席王婉諭今天到雲林輔選，被問及相關看法，她認為，中央對於詐騙猖"
           ]
         },
         {
@@ -72378,6 +72378,21 @@
           "sample_titles": [
             "澎湖車禍祖孫受困車內！自撞燈桿車撞爛 消防隊員救出送醫",
             "澎湖自撞燈桿車禍！ 祖孫2人一度受困送醫"
+          ]
+        },
+        {
+          "title": "苗栗車禍事件",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "苗栗台3線死亡車禍！22歲男過彎撞燈桿重傷昏迷…23歲友同車慘死",
+            "苗栗台3線死亡車禍！轎車過彎撞燈桿 駕駛重傷昏迷友人喪命"
           ]
         },
         {
@@ -72589,22 +72604,6 @@
           ]
         },
         {
-          "title": "彰化地方動態",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "yellow",
-          "news_count": 29,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 29,
-          "sample_titles": [
-            "彰化租賃公司欠1172件交通稅費罰鍰 福斯廂型車遭查封急繳20萬",
-            "城鎮韌性演習8/10中部登場 苗栗台中南投彰化雲林嘉義高鐵台鐵捷運公車營運情況一次看",
-            "城鎮韌性演習苗栗台中南投彰化雲林嘉義14:30登場 不聽管制最高可罰15萬元"
-          ]
-        },
-        {
           "title": "新竹市地方動態",
           "city": "新竹市",
           "place": "新竹市政府",
@@ -72618,6 +72617,22 @@
             "品牌/AI全面進化！竹市推舊城商圈店家輔導課程　助店家拓展新商機",
             "舊城區新商機 新竹市輔導商圈店家品牌/AI全面進化",
             "點亮青草湖夜之美！竹市「光湖作用」8月起試營運 高虹安市長邀全民感受湖畔夜色魅力"
+          ]
+        },
+        {
+          "title": "彰化地方動態",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "yellow",
+          "news_count": 29,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 29,
+          "sample_titles": [
+            "彰化租賃公司欠1172件交通稅費罰鍰 福斯廂型車遭查封急繳20萬",
+            "城鎮韌性演習8/10中部登場 苗栗台中南投彰化雲林嘉義高鐵台鐵捷運公車營運情況一次看",
+            "城鎮韌性演習苗栗台中南投彰化雲林嘉義14:30登場 不聽管制最高可罰15萬元"
           ]
         },
         {
@@ -72657,45 +72672,15 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "yellow",
-          "news_count": 96,
+          "news_count": 95,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 111,
+          "urgency_score": 110,
           "sample_titles": [
             "澎湖13子女遭棄養　兄姊休學打工「小孩養小孩」",
             "澎湖13子家庭母親現身了！貼字條稱「很愛孩子」：請還我們平靜生活",
             "澎湖生13子棄養案！母返家貼告示「很愛孩子」：請社會還我平靜"
-          ]
-        },
-        {
-          "title": "苗栗車禍事件",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "苗栗台3線死亡車禍！22歲男過彎撞燈桿重傷昏迷…23歲友同車慘死",
-            "苗栗台3線死亡車禍！轎車過彎撞燈桿 駕駛重傷昏迷友人喪命"
-          ]
-        },
-        {
-          "title": "台東弊案爭議",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "台東縣府貪污案情擴大 農業處長涉圖利遭羈押禁見",
-            "台東縣府貪污案延燒！農業處長涉農路工程圖利 2度交保仍遭羈押禁見"
           ]
         },
         {
@@ -72711,6 +72696,21 @@
           "sample_titles": [
             "米糠大貨車狠撞小客車！台南男家門前遇死劫 司機吸安遭收押",
             "讓妻、母掛名包工程削70萬 台南區公所課員貪污起訴"
+          ]
+        },
+        {
+          "title": "台東弊案爭議",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "台東縣府貪污案情擴大 農業處長涉圖利遭羈押禁見",
+            "台東縣府貪污案延燒！農業處長涉農路工程圖利 2度交保仍遭羈押禁見"
           ]
         },
         {
@@ -72814,11 +72814,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 57,
+          "news_count": 56,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 63,
+          "urgency_score": 62,
           "sample_titles": [
             "「熊」出沒！屏東三地門現臺灣黑熊 去年就來過",
             "大雷雨開炸！ 高雄市注意雷雨、屏東縣慎防劇烈雨勢",
@@ -72830,15 +72830,15 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "red",
-          "news_count": 53,
+          "news_count": 54,
           "comment_count": 11,
           "negativity_pct": 0,
           "is_urgent": true,
-          "urgency_score": 72,
+          "urgency_score": 73,
           "sample_titles": [
+            "柯文哲戴電子手環討拍 盧秀燕拍肩安慰要勇敢 網友開罵了",
             "2026.08.10 09:05 對比蔣萬安成藍營「最強母雞」？ 盧秀燕：母雞越多越好",
-            "柯文哲戴電子手環討拍盧秀燕拍肩安慰要勇敢網友開罵了- 政治",
-            "柯文哲戴電子手環討拍 盧秀燕拍肩安慰要勇敢 網友開罵了"
+            "柯文哲戴電子手環討拍盧秀燕拍肩安慰要勇敢網友開罵了- 政治"
           ]
         },
         {
@@ -72878,11 +72878,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 136,
+          "news_count": 133,
           "comment_count": 0,
-          "negativity_pct": 4,
+          "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 154,
+          "urgency_score": 151,
           "sample_titles": [
             "2026桃園電影節8/14盛大展開 重現歷史記憶",
             "桃園新屋首座社宅遭批「公設沙漠」里民怒轟：進駐恐癱瘓交通",
@@ -72894,11 +72894,11 @@
           "city": "台中",
           "place": "台中市豐原區",
           "level": "red",
-          "news_count": 189,
+          "news_count": 188,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 219,
+          "urgency_score": 218,
           "sample_titles": [
             "台中外海郵輪上的男子突昏迷 空勤出動吊掛救援送醫",
             "中市府洽公更便利！兩大中心推「一站式」服務 市民免奔波",
