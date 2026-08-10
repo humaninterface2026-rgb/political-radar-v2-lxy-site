@@ -72307,7 +72307,7 @@
     },
     {
       "date": "2026-08-10",
-      "snapshot_at": "2026-08-10T10:21:33.441613+00:00",
+      "snapshot_at": "2026-08-10T10:24:15.426677+00:00",
       "hotspots": [
         {
           "title": "台南車禍事件",
@@ -72884,11 +72884,11 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "red",
-          "news_count": 108,
+          "news_count": 107,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 123,
+          "urgency_score": 122,
           "sample_titles": [
             "通緝犯想搭船逃澎湖！海巡布袋港「火眼金睛」逮人",
             "澎湖國際煙火最終章阿根廷南美風情煙火秀 8/11登場",
@@ -72900,11 +72900,11 @@
           "city": "台中",
           "place": "台中市豐原區",
           "level": "red",
-          "news_count": 150,
+          "news_count": 149,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 159,
+          "urgency_score": 158,
           "sample_titles": [
             "玩命！台中凌晨驚見傻眼一幕",
             "影／盧秀燕城鎮韌性演習談話緊急救護打電話台中市政府為您服務- 社會新聞- PChome Online 新聞",
@@ -72932,11 +72932,11 @@
           "city": "高雄",
           "place": "高雄市前金區",
           "level": "red",
-          "news_count": 156,
+          "news_count": 155,
           "comment_count": 0,
-          "negativity_pct": 4,
+          "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 177,
+          "urgency_score": 176,
           "sample_titles": [
             "最新民調曝！高雄麻花捲膠著 賴瑞隆、柯志恩差距僅1.64% | 政治快訊 | 要聞",
             "SUPER JUNIOR-K.R.Y.驚喜合體 10/10登高雄公園音樂節",
