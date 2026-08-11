@@ -72948,7 +72948,7 @@
     },
     {
       "date": "2026-08-11",
-      "snapshot_at": "2026-08-11T01:29:49.495911+00:00",
+      "snapshot_at": "2026-08-11T01:31:57.033976+00:00",
       "hotspots": [
         {
           "title": "台北鼠患事件",
@@ -72962,6 +72962,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "北市防鼠患 清潔箱砍半剩806組"
+          ]
+        },
+        {
+          "title": "高雄陳情/抗議",
+          "city": "高雄",
+          "place": "高雄市鳳山區",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "鳳山台糖地蓋冷凍倉儲遭抗議 居民要求以地易地 台糖回應了"
           ]
         },
         {
@@ -72990,20 +73004,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "宜蘭公車常遭投訴服務不佳 縣府：10月起有新業者投入"
-          ]
-        },
-        {
-          "title": "高雄陳情/抗議",
-          "city": "高雄",
-          "place": "高雄市鳳山區",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "鳳山台糖地蓋冷凍倉儲遭抗議 居民要求以地易地 台糖回應了"
           ]
         },
         {
@@ -73498,11 +73498,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 80,
+          "news_count": 79,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 101,
+          "urgency_score": 100,
           "sample_titles": [
             "坐月子費用高 新北議員盼擴大補助",
             "新北幼教管理漏洞 停業幼園仍招生",
@@ -73546,11 +73546,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 127,
+          "news_count": 124,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 151,
+          "urgency_score": 148,
           "sample_titles": [
             "屏東《絕命毒師》重判！ 感冒藥提煉安非他命",
             "挑戰屏東市長梁育慈推每年新建活動中心- 屏東縣",
@@ -73562,11 +73562,11 @@
           "city": "台中",
           "place": "台中市西區",
           "level": "red",
-          "news_count": 139,
+          "news_count": 138,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 145,
+          "urgency_score": 144,
           "sample_titles": [
             "【輿情回應】婚紗品牌業者台中店停止營運 中市法制局：已受理13件消費申訴 籲業者儘速說明退費方案",
             "台中「市長肖像」布條830萬市民買單- 生活",
@@ -73578,11 +73578,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 167,
+          "news_count": 166,
           "comment_count": 0,
           "negativity_pct": 13,
           "is_urgent": false,
-          "urgency_score": 230,
+          "urgency_score": 229,
           "sample_titles": [
             "歌仔戲《土地公傳奇‧親人‧情人》 8/14桃園青溪公園精彩演出",
             "桃園機場接機新制已正式實施 臨停超過3分鐘恐遭科技執法，最高罰1,200元",

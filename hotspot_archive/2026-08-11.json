@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "snapshot_at": "2026-08-11T01:29:49.495911+00:00",
+  "snapshot_at": "2026-08-11T01:31:57.033976+00:00",
   "hotspots": [
     {
       "title": "台北鼠患事件",
@@ -18,6 +18,27 @@
           "url": "https://www.cdns.com.tw/articles/1442625",
           "time": "2026-08-10 21:04:23",
           "publisher": "中華日報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄陳情/抗議",
+      "city": "高雄",
+      "place": "高雄市鳳山區",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "鳳山台糖地蓋冷凍倉儲遭抗議 居民要求以地易地 台糖回應了",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5535127",
+          "time": "2026-08-10 19:49:14",
+          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -60,27 +81,6 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OQWhydW45NXozNkg5UmRGLUtCREo3c3dacU5PanZhekxBYVhwYmQ3bmt3T3N1bXJKaHZyTGw1Ykx2UzdhbHNLXzN3dC1zeEE?oc=5",
           "time": "2026-08-10 16:51:19",
           "publisher": "Google News→公視新聞網PNN",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "高雄陳情/抗議",
-      "city": "高雄",
-      "place": "高雄市鳳山區",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "鳳山台糖地蓋冷凍倉儲遭抗議 居民要求以地易地 台糖回應了",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5535127",
-          "time": "2026-08-10 19:49:14",
-          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -5478,11 +5478,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 80,
+      "news_count": 79,
       "comment_count": 0,
       "negativity_pct": 9,
       "is_urgent": false,
-      "urgency_score": 101,
+      "urgency_score": 100,
       "news_articles": [
         {
           "title": "坐月子費用高 新北議員盼擴大補助",
@@ -6036,13 +6036,6 @@
           "time": "2026-08-10 09:40:19",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "新北淡水沙崙戲水遇險 海巡艇馳援平安救回15歲少年",
-          "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E6%B7%A1%E6%B0%B4%E6%B2%99%E5%B4%99%E6%88%B2%E6%B0%B4%E9%81%87%E9%9A%AA-%E6%B5%B7%E5%B7%A1%E8%89%87%E9%A6%B3%E6%8F%B4%E5%B9%B3%E5%AE%89%E6%95%91%E5%9B%9E15%E6%AD%B2%E5%B0%91%E5%B9%B4-093130260.html",
-          "time": "2026-08-10 09:31:30",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -7452,11 +7445,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "red",
-      "news_count": 127,
+      "news_count": 124,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 151,
+      "urgency_score": 148,
       "news_articles": [
         {
           "title": "屏東《絕命毒師》重判！ 感冒藥提煉安非他命",
@@ -8325,27 +8318,6 @@
           "time": "2026-08-10 09:37:25",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "送托才3天！屏東3月大男嬰不幸身亡遭疑隱匿周春米回應了- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzdlJ2Vm9SanlpZGM4YmFmQnluMk8zNGJFVzRUWkw3Z1ZMMURmTjRQMUhRVzBhd2hCaFVrMEFBekJJWGJwUGJLU2FFZXkyVVRHRVJlN3lvZ3BlSF9zTmkw?oc=5",
-          "time": "2026-08-10 09:31:44",
-          "publisher": "Google News→工商時報",
-          "severity": "red"
-        },
-        {
-          "title": "3月嬰才入托3天午睡OHCA送醫不治屏東縣托嬰中心遭調查- 社會",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5V1lNOU1UdWJqQkM3V3luMC1NcWhrWURySjRMVjd0MXdJd3BOcTByV2tsY0lKSlhjZnVVVENMcjdULUFFMEE0M0NFTWRDX1BUcFRHc3VmTkhvSjNRRGZpQlJybnFjNFlB?oc=5",
-          "time": "2026-08-10 09:31:44",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "阻絕800公斤毒品危害 屏東檢警衛聯手打造反毒防線 毒駕檢驗縮短至8小時內 提升羈押獲准率",
-          "url": "https://tw.news.yahoo.com/%E9%98%BB%E7%B5%95800%E5%85%AC%E6%96%A4%E6%AF%92%E5%93%81%E5%8D%B1%E5%AE%B3-%E5%B1%8F%E6%9D%B1%E6%AA%A2%E8%AD%A6%E8%A1%9B%E8%81%AF%E6%89%8B%E6%89%93%E9%80%A0%E5%8F%8D%E6%AF%92%E9%98%B2%E7%B7%9A-%E6%AF%92%E9%A7%95%E6%AA%A2%E9%A9%97%E7%B8%AE%E7%9F%AD%E8%87%B38%E5%B0%8F%E6%99%82%E5%85%A7-%E6%8F%90%E5%8D%87%E7%BE%88%E6%8A%BC%E7%8D%B2%E5%87%86%E7%8E%87-093033094.html",
-          "time": "2026-08-10 09:30:33",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -8355,11 +8327,11 @@
       "city": "台中",
       "place": "台中市西區",
       "level": "red",
-      "news_count": 139,
+      "news_count": 138,
       "comment_count": 0,
       "negativity_pct": 1,
       "is_urgent": false,
-      "urgency_score": 145,
+      "urgency_score": 144,
       "news_articles": [
         {
           "title": "【輿情回應】婚紗品牌業者台中店停止營運 中市法制局：已受理13件消費申訴 籲業者儘速說明退費方案",
@@ -9326,13 +9298,6 @@
           "time": "2026-08-10 09:37:00",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "機車安全帽隨意掛 中市警防竊主動代保管已逾35頂",
-          "url": "https://tw.news.yahoo.com/%E6%A9%9F%E8%BB%8A%E5%AE%89%E5%85%A8%E5%B8%BD%E9%9A%A8%E6%84%8F%E6%8E%9B-%E4%B8%AD%E5%B8%82%E8%AD%A6%E9%98%B2%E7%AB%8A%E4%B8%BB%E5%8B%95%E4%BB%A3%E4%BF%9D%E7%AE%A1%E5%B7%B2%E9%80%BE35%E9%A0%82-093110511.html",
-          "time": "2026-08-10 09:31:10",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -9342,11 +9307,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 167,
+      "news_count": 166,
       "comment_count": 0,
       "negativity_pct": 13,
       "is_urgent": false,
-      "urgency_score": 230,
+      "urgency_score": 229,
       "news_articles": [
         {
           "title": "歌仔戲《土地公傳奇‧親人‧情人》 8/14桃園青溪公園精彩演出",
@@ -10509,13 +10474,6 @@
           "time": "2026-08-10 09:35:00",
           "publisher": "Google News→知新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "賣壓大也打不了房價？中壢、桃園區住宅價格指數創新高 楊梅、蘆竹真跌了",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEeGNibVk5WGdEREV4a0VFNnVJV0hsZXREVkNSTW1UOTVvdGJwbGJhc3g4enZBSml4eTRINlM0OV9YdmtBZURfMUpMbTl4U3FtOUpabU9EUnQzem5URWhEeTlveHBsLW8zald30gFwQVVfeXFMTm03UzhLbjVLdGVWN2hZU3FuQlFYOWNIWUZlU1BiTll4VU9MOVFnX3Mxc1EtaEoyNzR6ZzVud0M1Z2xkYU05aHFNaWE2QUx2ZDdqZUVVc0RrS0Ywd1JPYnRTbHc2b3QzYmJMN3BKWG9Ndw?oc=5",
-          "time": "2026-08-10 09:31:00",
-          "publisher": "Google News→好房網News",
-          "severity": null
         }
       ],
       "comments": []
