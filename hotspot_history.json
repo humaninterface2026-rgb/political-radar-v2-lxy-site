@@ -73642,7 +73642,7 @@
     },
     {
       "date": "2026-08-12",
-      "snapshot_at": "2026-08-12T01:26:07.824976+00:00",
+      "snapshot_at": "2026-08-12T01:35:54.566144+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -73701,20 +73701,6 @@
           ]
         },
         {
-          "title": "雲林詐騙案",
-          "city": "雲林",
-          "place": "雲林縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "查詐騙案意外偵破毒品分裝廠 雲林警方搜出土製爆裂物"
-          ]
-        },
-        {
           "title": "苗栗詐騙案",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -73726,6 +73712,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "苗栗「阻詐一鍵通」簡訊報案零時差警順利逮馬來西亞車手| 詐騙小心點| 社會"
+          ]
+        },
+        {
+          "title": "雲林詐騙案",
+          "city": "雲林",
+          "place": "雲林縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "查詐騙案意外偵破毒品分裝廠 雲林警方搜出土製爆裂物"
           ]
         },
         {
@@ -73815,9 +73815,9 @@
           ]
         },
         {
-          "title": "屏東弊案爭議",
-          "city": "屏東",
-          "place": "屏東縣政府",
+          "title": "桃園弊案爭議",
+          "city": "桃園",
+          "place": "桃園市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -73825,7 +73825,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "將毒品混入果汁粉製成毒品咖啡包2毒男依製造三級毒品罪判刑- 屏東縣"
+            "女子車禍肇逃找人頂罪 3人收押 中壢警澄清並無消極辦案"
           ]
         },
         {
@@ -73857,9 +73857,9 @@
           ]
         },
         {
-          "title": "桃園弊案爭議",
-          "city": "桃園",
-          "place": "桃園市政府",
+          "title": "屏東弊案爭議",
+          "city": "屏東",
+          "place": "屏東縣政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -73867,7 +73867,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "女子車禍肇逃找人頂罪 3人收押 中壢警澄清並無消極辦案"
+            "將毒品混入果汁粉製成毒品咖啡包2毒男依製造三級毒品罪判刑- 屏東縣"
           ]
         },
         {
@@ -73937,11 +73937,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "yellow",
-          "news_count": 24,
+          "news_count": 23,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 27,
+          "urgency_score": 26,
           "sample_titles": [
             "收到執行分署傳繳通知別慌～宜蘭財稅局教3步驟安心處理",
             "宜蘭百元生魚片太狂！壯圍海之味現撈海鮮 餐廳「40片生魚片只要200元」",
@@ -73953,11 +73953,11 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "yellow",
-          "news_count": 27,
+          "news_count": 26,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 27,
+          "urgency_score": 26,
           "sample_titles": [
             "澎湖觀光、漁業一個都不能少 周倪安籲把餅做大",
             "澎湖縣「2026重生市集」8月15日盛大登場 歡迎大家來挖寶",
@@ -73995,21 +73995,6 @@
           ]
         },
         {
-          "title": "基隆弊案爭議",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "北上求子「媳婦地下室被性侵」婆婆也在場 基隆天顯宮80歲主委、女助理遭收押",
-            "基隆 宮廟爆性侵案 主委、女友收押"
-          ]
-        },
-        {
           "title": "台北弊案爭議",
           "city": "台北",
           "place": "台北市政府",
@@ -74022,6 +74007,21 @@
           "sample_titles": [
             "昨天才請辭!北市府前發言人李政軒 今涉洩密案遭限制出境! \"政府擋BNT\"成疫苗掮客起手式?起訴書揭詐騙律師陳昱瑄話術!",
             "一顆止痛藥成黃泉路！北市牙醫沒問過敏史害命 涉過失致死遭起訴"
+          ]
+        },
+        {
+          "title": "基隆弊案爭議",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "北上求子「媳婦地下室被性侵」婆婆也在場 基隆天顯宮80歲主委、女助理遭收押",
+            "基隆 宮廟爆性侵案 主委、女友收押"
           ]
         },
         {
@@ -74140,11 +74140,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "red",
-          "news_count": 23,
+          "news_count": 22,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 29,
+          "urgency_score": 28,
           "sample_titles": [
             "回彰化過父親節 看到每個縣長參選人都在當「王祿仔仙」",
             "全國首條 彰化舊濁水溪訂畜牧廢水總量管制",
@@ -74188,11 +74188,11 @@
           "city": "基隆",
           "place": "基隆市政府",
           "level": "red",
-          "news_count": 27,
+          "news_count": 26,
           "comment_count": 0,
-          "negativity_pct": 30,
+          "negativity_pct": 31,
           "is_urgent": false,
-          "urgency_score": 51,
+          "urgency_score": 50,
           "sample_titles": [
             "北上求子「媳婦地下室被性侵」婆婆也在場 基隆天顯宮80歲主委、女助理遭收押",
             "基隆關:籲請報關業者應依限申報員工離職並繳銷報關證 以免受罰",
@@ -74300,11 +74300,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 107,
+          "news_count": 106,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 116,
+          "urgency_score": 115,
           "sample_titles": [
             "桃園商圈成遊客最愛 8／15～16超狂活動一次看",
             "大江購物中心打造桃園城市驛站 餐飲、潮流、娛樂一次升級",
@@ -74332,11 +74332,11 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 243,
+          "news_count": 241,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 327,
+          "urgency_score": 325,
           "sample_titles": [
             "慶幸告別式改留台北！王凱媽媽、姊姊淚謝星友：原來那麼多人愛他 | 戲劇 | 娛樂",
             "Physical AI走進工廠現場　新漢下週亮相台北自動化展",
@@ -74348,11 +74348,11 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 322,
+          "news_count": 321,
           "comment_count": 0,
           "negativity_pct": 28,
           "is_urgent": false,
-          "urgency_score": 589,
+          "urgency_score": 588,
           "sample_titles": [
             "吃當季、挺在地！中市府員工餐廳推「當季食材月」落實食農教育",
             "台中阿北搶救5天身亡！行車糾紛被打起因曝光 家屬怒告殺人罪 | 生活",
