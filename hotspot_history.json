@@ -73642,7 +73642,7 @@
     },
     {
       "date": "2026-08-12",
-      "snapshot_at": "2026-08-12T10:30:39.966575+00:00",
+      "snapshot_at": "2026-08-12T10:34:23.172667+00:00",
       "hotspots": [
         {
           "title": "桃園狼師事件",
@@ -74039,9 +74039,9 @@
           ]
         },
         {
-          "title": "屏東弊案爭議",
-          "city": "屏東",
-          "place": "屏東縣政府",
+          "title": "新北弊案爭議",
+          "city": "新北",
+          "place": "新北市政府",
           "level": "red",
           "news_count": 2,
           "comment_count": 0,
@@ -74049,23 +74049,8 @@
           "is_urgent": true,
           "urgency_score": 8,
           "sample_titles": [
-            "屏東男帶傳播妹到汽旅被控性侵 一審判刑、二審判無罪",
-            "屏東男帶傳播妹到汽旅被控性侵一審判刑、二審判無罪- 社會"
-          ]
-        },
-        {
-          "title": "台北弊案爭議",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "民進黨台北市黨部今舉辦聯合競選記者會，針對山地原住民提名曾任行政院青年諮詢委員會委員林家豪，黨部主委吳沛憶說，現任國民黨",
-            "昨天才請辭!北市府前發言人李政軒 今涉洩密案遭限制出境! \"政府擋BNT\"成疫苗掮客起手式?起訴書揭詐騙律師陳昱瑄話術!"
+            "疑涉貪污被約談 新北國民黨議員王威元200萬交保",
+            "涉標案關說行賄！新北藍營戰將王威元遭搜索 涉貪污罪200萬交保"
           ]
         },
         {
@@ -74084,9 +74069,9 @@
           ]
         },
         {
-          "title": "新北弊案爭議",
-          "city": "新北",
-          "place": "新北市政府",
+          "title": "台北弊案爭議",
+          "city": "台北",
+          "place": "台北市政府",
           "level": "red",
           "news_count": 2,
           "comment_count": 0,
@@ -74094,8 +74079,23 @@
           "is_urgent": true,
           "urgency_score": 8,
           "sample_titles": [
-            "疑涉貪污被約談 新北國民黨議員王威元200萬交保",
-            "涉標案關說行賄！新北藍營戰將王威元遭搜索 涉貪污罪200萬交保"
+            "民進黨台北市黨部今舉辦聯合競選記者會，針對山地原住民提名曾任行政院青年諮詢委員會委員林家豪，黨部主委吳沛憶說，現任國民黨",
+            "昨天才請辭!北市府前發言人李政軒 今涉洩密案遭限制出境! \"政府擋BNT\"成疫苗掮客起手式?起訴書揭詐騙律師陳昱瑄話術!"
+          ]
+        },
+        {
+          "title": "屏東弊案爭議",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "屏東男帶傳播妹到汽旅被控性侵 一審判刑、二審判無罪",
+            "屏東男帶傳播妹到汽旅被控性侵一審判刑、二審判無罪- 社會"
           ]
         },
         {
@@ -74247,11 +74247,11 @@
           "city": "基隆",
           "place": "基隆市政府",
           "level": "red",
-          "news_count": 24,
+          "news_count": 23,
           "comment_count": 0,
-          "negativity_pct": 29,
+          "negativity_pct": 26,
           "is_urgent": false,
-          "urgency_score": 45,
+          "urgency_score": 41,
           "sample_titles": [
             "基隆知名宮廟主委是惡狼　女信眾「求子儀式」當眾遭侵犯",
             "基隆市長謝國樑今天下午參加115年基隆市銀髮人才服務據點大型徵才活動，現場12家廠商提供400多個職缺，很多銀髮人才找換",
@@ -74295,11 +74295,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 38,
+          "news_count": 37,
           "comment_count": 0,
-          "negativity_pct": 13,
+          "negativity_pct": 14,
           "is_urgent": false,
-          "urgency_score": 53,
+          "urgency_score": 52,
           "sample_titles": [
             "快訊／下班注意！新北發「豪雨特報」 台北、台南雨勢狂掃到晚上 | 天氣預報 | 生活",
             "MIT承諾跳票？ 台南「菜奇鴨、夜奇鴨」玩偶變中國貨　挨轟詐騙",
@@ -74327,11 +74327,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 67,
+          "news_count": 65,
           "comment_count": 0,
-          "negativity_pct": 16,
+          "negativity_pct": 17,
           "is_urgent": false,
-          "urgency_score": 100,
+          "urgency_score": 98,
           "sample_titles": [
             "快訊／下班注意！新北發「豪雨特報」 台北、台南雨勢狂掃到晚上 | 天氣預報 | 生活",
             "選前出手！ 新北議員王威元涉關說行賄　200萬元交保",
@@ -74375,11 +74375,11 @@
           "city": "高雄",
           "place": "高雄市鳳山區",
           "level": "red",
-          "news_count": 137,
+          "news_count": 136,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 185,
+          "urgency_score": 184,
           "sample_titles": [
             "賴清德力挺賴瑞隆 提三大保證盼高雄再拚下一個黃金十年",
             "快新聞／高雄綠營集結 陳其邁力挺賴瑞隆：接棒延續綠色執政",
@@ -74391,11 +74391,11 @@
           "city": "台北",
           "place": "台北市松山區",
           "level": "red",
-          "news_count": 177,
+          "news_count": 176,
           "comment_count": 0,
-          "negativity_pct": 11,
+          "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 234,
+          "urgency_score": 230,
           "sample_titles": [
             "沈伯洋酸北市「殭屍都更」 蔣萬安反手秀數據：超車柯文哲8年平均2.3倍",
             "蔣萬安後院失火！北市議長戴錫欽拋震撼彈：評估請辭黨部主委 | 政治快訊 | 要聞",
@@ -74407,11 +74407,11 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 277,
+          "news_count": 276,
           "comment_count": 0,
           "negativity_pct": 30,
           "is_urgent": false,
-          "urgency_score": 529,
+          "urgency_score": 525,
           "sample_titles": [
             "李政軒有無任市長室祕書？綠憂中市府被滲透 賴淑惠回應",
             "黨團協商白委邱慧洳連喊保留 韓國瑜笑諷：保留公主！中市府勞務採購案涉洩密遭搜索 盧秀燕：啟人疑竇！傅崐萁被韓痛罵拉黃國昌",
