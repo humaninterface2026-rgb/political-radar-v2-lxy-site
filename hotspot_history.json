@@ -74455,7 +74455,7 @@
     },
     {
       "date": "2026-08-13",
-      "snapshot_at": "2026-08-13T10:22:31.717520+00:00",
+      "snapshot_at": "2026-08-13T10:23:51.322485+00:00",
       "hotspots": [
         {
           "title": "台南墜樓事件",
@@ -74500,20 +74500,6 @@
           ]
         },
         {
-          "title": "新北車禍事件",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台2線貢寮段嚴重車禍！小貨車凌晨逆撞曳引車 現場慘況曝光"
-          ]
-        },
-        {
           "title": "高雄車禍事件",
           "city": "高雄",
           "place": "高雄市政府",
@@ -74525,20 +74511,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "高雄港14小時內連兩起車禍 聯結車擦撞隧道又輾傷婦人"
-          ]
-        },
-        {
-          "title": "南投車禍事件",
-          "city": "南投",
-          "place": "南投縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "埔里死亡車禍！曳引車右轉疑「視線死角」釀憾事 74歲單車翁慘死輪下"
           ]
         },
         {
@@ -74556,9 +74528,9 @@
           ]
         },
         {
-          "title": "高雄陳情/抗議",
-          "city": "高雄",
-          "place": "高雄市政府",
+          "title": "新北車禍事件",
+          "city": "新北",
+          "place": "新北市政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -74566,7 +74538,21 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "俄總統普丁訪擇捉島 日相高市抗議「絕不允許」"
+            "台2線貢寮段嚴重車禍！小貨車凌晨逆撞曳引車 現場慘況曝光"
+          ]
+        },
+        {
+          "title": "南投車禍事件",
+          "city": "南投",
+          "place": "南投縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "埔里死亡車禍！曳引車右轉疑「視線死角」釀憾事 74歲單車翁慘死輪下"
           ]
         },
         {
@@ -74581,6 +74567,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "南市家庭教育中心擬縮編 員工連署抗議：別拿基層補教育局缺口"
+          ]
+        },
+        {
+          "title": "高雄陳情/抗議",
+          "city": "高雄",
+          "place": "高雄市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "俄總統普丁訪擇捉島 日相高市抗議「絕不允許」"
           ]
         },
         {
@@ -74613,21 +74613,6 @@
           ]
         },
         {
-          "title": "南投陳情/抗議",
-          "city": "南投",
-          "place": "南投縣政府",
-          "level": "green",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "南投焚化爐案環評調查 環保局違反承諾導致民眾抗議",
-            "南投焚化爐案再爆爭議 居民抗議地下水鑽探未知會地方"
-          ]
-        },
-        {
           "title": "台北陳情/抗議",
           "city": "台北",
           "place": "台北市政府",
@@ -74640,6 +74625,21 @@
           "sample_titles": [
             "北市首推校園法律顧問制度 擬投入2千萬支援遭投訴教師",
             "民進黨新北市議員參選人張志豪今天上午接獲民眾陳情，昨天有家長送孩子到永安市場附近幼兒園上學時，竟發現某競選陣營掃街拜票人"
+          ]
+        },
+        {
+          "title": "南投陳情/抗議",
+          "city": "南投",
+          "place": "南投縣政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "南投焚化爐案環評調查 環保局違反承諾導致民眾抗議",
+            "南投焚化爐案再爆爭議 居民抗議地下水鑽探未知會地方"
           ]
         },
         {
@@ -75203,11 +75203,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 141,
+          "news_count": 140,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 168,
+          "urgency_score": 167,
           "sample_titles": [
             "桃園男藥局門口隨地便溺　竟拿水管「善後」 店家無奈",
             "城鎮韌性演習「北部地區」下午舉行，基隆、台北、新北、桃園、新竹、宜蘭等7縣市同步實施防空演習，並實施網路降速演練，台北街",

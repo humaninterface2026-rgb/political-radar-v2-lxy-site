@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "snapshot_at": "2026-08-13T10:22:31.717520+00:00",
+  "snapshot_at": "2026-08-13T10:23:51.322485+00:00",
   "hotspots": [
     {
       "title": "台南墜樓事件",
@@ -66,27 +66,6 @@
       "comments": []
     },
     {
-      "title": "新北車禍事件",
-      "city": "新北",
-      "place": "新北市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "台2線貢寮段嚴重車禍！小貨車凌晨逆撞曳引車 現場慘況曝光",
-          "url": "https://news.nextapple.com/local/20260813/2DB53F422C92275157A7B9CB6951A7A5",
-          "time": "2026-08-13 10:22:04",
-          "publisher": "壹蘋新聞網",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "高雄車禍事件",
       "city": "高雄",
       "place": "高雄市政府",
@@ -102,27 +81,6 @@
           "url": "https://news.ltn.com.tw/news/society/breakingnews/5538327",
           "time": "2026-08-13 11:45:59",
           "publisher": "自由時報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "南投車禍事件",
-      "city": "南投",
-      "place": "南投縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "埔里死亡車禍！曳引車右轉疑「視線死角」釀憾事 74歲單車翁慘死輪下",
-          "url": "https://tw.news.yahoo.com/%E5%9F%94%E9%87%8C%E6%AD%BB%E4%BA%A1%E8%BB%8A%E7%A6%8D-%E6%9B%B3%E5%BC%95%E8%BB%8A%E5%8F%B3%E8%BD%89%E7%96%91-%E8%A6%96%E7%B7%9A%E6%AD%BB%E8%A7%92-%E9%87%80%E6%86%BE%E4%BA%8B-74%E6%AD%B2%E5%96%AE%E8%BB%8A%E7%BF%81%E6%85%98%E6%AD%BB%E8%BC%AA%E4%B8%8B-081300559.html",
-          "time": "2026-08-13 08:13:00",
-          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -150,9 +108,9 @@
       "comments": []
     },
     {
-      "title": "高雄陳情/抗議",
-      "city": "高雄",
-      "place": "高雄市政府",
+      "title": "新北車禍事件",
+      "city": "新北",
+      "place": "新北市政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -161,10 +119,31 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "俄總統普丁訪擇捉島 日相高市抗議「絕不允許」",
-          "url": "https://news.cts.com.tw/cna/international/202608/202608133066897.html",
-          "time": "2026-08-13 17:07:41",
-          "publisher": "華視新聞網",
+          "title": "台2線貢寮段嚴重車禍！小貨車凌晨逆撞曳引車 現場慘況曝光",
+          "url": "https://news.nextapple.com/local/20260813/2DB53F422C92275157A7B9CB6951A7A5",
+          "time": "2026-08-13 10:22:04",
+          "publisher": "壹蘋新聞網",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "南投車禍事件",
+      "city": "南投",
+      "place": "南投縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "埔里死亡車禍！曳引車右轉疑「視線死角」釀憾事 74歲單車翁慘死輪下",
+          "url": "https://tw.news.yahoo.com/%E5%9F%94%E9%87%8C%E6%AD%BB%E4%BA%A1%E8%BB%8A%E7%A6%8D-%E6%9B%B3%E5%BC%95%E8%BB%8A%E5%8F%B3%E8%BD%89%E7%96%91-%E8%A6%96%E7%B7%9A%E6%AD%BB%E8%A7%92-%E9%87%80%E6%86%BE%E4%BA%8B-74%E6%AD%B2%E5%96%AE%E8%BB%8A%E7%BF%81%E6%85%98%E6%AD%BB%E8%BC%AA%E4%B8%8B-081300559.html",
+          "time": "2026-08-13 08:13:00",
+          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -186,6 +165,27 @@
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5538066",
           "time": "2026-08-13 08:10:18",
           "publisher": "自由時報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄陳情/抗議",
+      "city": "高雄",
+      "place": "高雄市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "俄總統普丁訪擇捉島 日相高市抗議「絕不允許」",
+          "url": "https://news.cts.com.tw/cna/international/202608/202608133066897.html",
+          "time": "2026-08-13 17:07:41",
+          "publisher": "華視新聞網",
           "severity": "yellow"
         }
       ],
@@ -241,34 +241,6 @@
       "comments": []
     },
     {
-      "title": "南投陳情/抗議",
-      "city": "南投",
-      "place": "南投縣政府",
-      "level": "green",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "南投焚化爐案環評調查 環保局違反承諾導致民眾抗議",
-          "url": "https://taronews.tw/2026/08/12/1206228/",
-          "time": "2026-08-12 22:25:09",
-          "publisher": "芋傳媒",
-          "severity": "yellow"
-        },
-        {
-          "title": "南投焚化爐案再爆爭議 居民抗議地下水鑽探未知會地方",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5537600",
-          "time": "2026-08-12 18:34:10",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台北陳情/抗議",
       "city": "台北",
       "place": "台北市政府",
@@ -291,6 +263,34 @@
           "url": "https://udn.com/news/story/124652/9687509?from=udn-ch1_breaknews-1-cate1-news",
           "time": "2026-08-12 18:58:03",
           "publisher": "聯合新聞網",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "南投陳情/抗議",
+      "city": "南投",
+      "place": "南投縣政府",
+      "level": "green",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "南投焚化爐案環評調查 環保局違反承諾導致民眾抗議",
+          "url": "https://taronews.tw/2026/08/12/1206228/",
+          "time": "2026-08-12 22:25:09",
+          "publisher": "芋傳媒",
+          "severity": "yellow"
+        },
+        {
+          "title": "南投焚化爐案再爆爭議 居民抗議地下水鑽探未知會地方",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5537600",
+          "time": "2026-08-12 18:34:10",
+          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -5113,7 +5113,7 @@
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGWTNodEpFVkNXc1BWb3Y5djc5RC1iVVVmMms5MXEwdE9EZElDM054VFBQZ3FfaFFnOWJJRzV5S2o2b1lrWlBTVGZsVnBXeG1NR2fSAVdBVV95cUxObHNFRVhRaWlsbXBCVFdHQWdyaTB1S1ZpY2VjOHIxaU1sZDZvYzRieTB5ZmhjTldlWUtNX0VnRmpTbUNjTkR4Uk5mOGpXQWpZbU5ObTY0Um8?oc=5",
           "time": "2026-08-13 17:57:00",
           "publisher": "Google News→鏡新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "蔣萬安8/15赴花蓮站台游淑貞 丁瑀：是為了避開「他」",
@@ -5680,7 +5680,7 @@
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXMmdfUlhZTGl1S0dOeW0tN08taGpabEtBODF4RENiN25EN0pHYnBvNFpEUE5UalNCdEpOZ2d2MnctVWR2dnRLWGlqME9laFh5UGRQNFRzXzhsenN6cUpNNmsyLUNmVjI2?oc=5",
           "time": "2026-08-13 18:05:14",
           "publisher": "Google News→元丰傳媒",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "2026北部地區城鎮韌性演習今天下午2時30分展開，今年首度納入行動網路降速演練，模擬通訊受阻情形。新北市長侯友宜至賣場及捷運站等處，實地視導防空疏散避難、人車交通管制執行情形，盼藉由演習深化民眾居安思危、有備無患的防災觀念。",
@@ -7111,11 +7111,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 141,
+      "news_count": 140,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 168,
+      "urgency_score": 167,
       "news_articles": [
         {
           "title": "桃園男藥局門口隨地便溺　竟拿水管「善後」 店家無奈",
@@ -8096,13 +8096,6 @@
           "time": "2026-08-12 18:27:00",
           "publisher": "自由時報",
           "severity": "yellow"
-        },
-        {
-          "title": "桃園小小市長體驗營第二梯次登場 張市長：促進城市認識與家人分享市政體驗",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tczVDLTdBb2R1ZHl3R25oQ3YydS1hcFpRZllpZEc3cmpKVC1laUh2Y241cDR1X2xBOW5weU5IaFAxc3NSel9WckxQSjF6MVJvdmxUbWRsRE1vNmVKS3BCMGFyVHJORGJZQzJvaQ?oc=5",
-          "time": "2026-08-12 18:22:39",
-          "publisher": "Google News→tycg.gov.tw",
-          "severity": null
         }
       ],
       "comments": []
@@ -9271,7 +9264,7 @@
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXMmdfUlhZTGl1S0dOeW0tN08taGpabEtBODF4RENiN25EN0pHYnBvNFpEUE5UalNCdEpOZ2d2MnctVWR2dnRLWGlqME9laFh5UGRQNFRzXzhsenN6cUpNNmsyLUNmVjI2?oc=5",
           "time": "2026-08-13 18:05:14",
           "publisher": "Google News→元丰傳媒",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "中秋送禮新選擇 中市府號召支持身障者就業",
@@ -10671,7 +10664,7 @@
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGWTNodEpFVkNXc1BWb3Y5djc5RC1iVVVmMms5MXEwdE9EZElDM054VFBQZ3FfaFFnOWJJRzV5S2o2b1lrWlBTVGZsVnBXeG1NR2fSAVdBVV95cUxObHNFRVhRaWlsbXBCVFdHQWdyaTB1S1ZpY2VjOHIxaU1sZDZvYzRieTB5ZmhjTldlWUtNX0VnRmpTbUNjTkR4Uk5mOGpXQWpZbU5ObTY0Um8?oc=5",
           "time": "2026-08-13 17:57:00",
           "publisher": "Google News→鏡新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "幕僚涉案請辭…沈伯洋批蔣萬安蓋牌說謊北市府舉例諷：迴力鏢達人| 2026九合一選舉",
