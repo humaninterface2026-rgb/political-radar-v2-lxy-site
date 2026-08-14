@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "snapshot_at": "2026-08-14T01:33:51.192994+00:00",
+  "snapshot_at": "2026-08-14T01:40:07.649833+00:00",
   "hotspots": [
     {
       "title": "台南墜樓事件",
@@ -45,48 +45,6 @@
       "comments": []
     },
     {
-      "title": "澎湖車禍事件",
-      "city": "澎湖",
-      "place": "澎湖縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "遠道澎湖學中文遇車禍 光明警熱心協助化解語言隔閡",
-          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQa1FsVUdTRnltYVRhLThsRmRsVnNzbVFUYmxLOTJ1STdxMFlqNmthMW1DUlFMZ1FZX3gzbHlNTHRvSzRaLWh2QklEQXZlVUh1TG9HaEVwckNBQ2taVjQycHZ3QkFQbE1Tc3FRT3Fwam02d0JlMW82S0J1M2V1UEI3REFMbFRBZEotTFJCY2Y4dlVnNE9HV24zc2paWFJqNTVZbklBM2o3MVpvZzlUdWdqQVM3ZkRWeDExUzNLTTNDd25NTjFpWHJWN3luaklLSXZHOG4tQXctbjhncHhuSlNYX2NaMDUxVUNuLXpJOGoxSFlubzFHSC1GaGRFWkdHeFo3SFFmUWxWWnRNaGp2UmtDVWVGVkNPN3o2NHZmbGJ6U2tCYlAxRjhNa3VHblkyWm9PYmhiTlNrb0VNQmVVN05BUkVEVQ?oc=5",
-          "time": "2026-08-14 00:03:26",
-          "publisher": "Google News→澎湖e傳媒",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "新北車禍事件",
-      "city": "新北",
-      "place": "新北市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "台2線貢寮段嚴重車禍！小貨車凌晨逆撞曳引車 現場慘況曝光",
-          "url": "https://news.nextapple.com/local/20260813/2DB53F422C92275157A7B9CB6951A7A5",
-          "time": "2026-08-13 10:22:04",
-          "publisher": "壹蘋新聞網",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "高雄車禍事件",
       "city": "高雄",
       "place": "高雄市政府",
@@ -108,6 +66,27 @@
       "comments": []
     },
     {
+      "title": "澎湖車禍事件",
+      "city": "澎湖",
+      "place": "澎湖縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "遠道澎湖學中文遇車禍 光明警熱心協助化解語言隔閡",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQa1FsVUdTRnltYVRhLThsRmRsVnNzbVFUYmxLOTJ1STdxMFlqNmthMW1DUlFMZ1FZX3gzbHlNTHRvSzRaLWh2QklEQXZlVUh1TG9HaEVwckNBQ2taVjQycHZ3QkFQbE1Tc3FRT3Fwam02d0JlMW82S0J1M2V1UEI3REFMbFRBZEotTFJCY2Y4dlVnNE9HV24zc2paWFJqNTVZbklBM2o3MVpvZzlUdWdqQVM3ZkRWeDExUzNLTTNDd25NTjFpWHJWN3luaklLSXZHOG4tQXctbjhncHhuSlNYX2NaMDUxVUNuLXpJOGoxSFlubzFHSC1GaGRFWkdHeFo3SFFmUWxWWnRNaGp2UmtDVWVGVkNPN3o2NHZmbGJ6U2tCYlAxRjhNa3VHblkyWm9PYmhiTlNrb0VNQmVVN05BUkVEVQ?oc=5",
+          "time": "2026-08-14 00:03:26",
+          "publisher": "Google News→澎湖e傳媒",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "台南車禍事件",
       "city": "台南",
       "place": "台南市政府",
@@ -122,6 +101,27 @@
           "title": "台南驚悚車禍！18歲女大生載友出遊 轉彎失控暴衝騎士慘卡車底",
           "url": "https://news.nextapple.com/local/20260813/1BB7FEEFDB07425DA3E44FF64C5DE2C2",
           "time": "2026-08-13 11:20:53",
+          "publisher": "壹蘋新聞網",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新北車禍事件",
+      "city": "新北",
+      "place": "新北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "台2線貢寮段嚴重車禍！小貨車凌晨逆撞曳引車 現場慘況曝光",
+          "url": "https://news.nextapple.com/local/20260813/2DB53F422C92275157A7B9CB6951A7A5",
+          "time": "2026-08-13 10:22:04",
           "publisher": "壹蘋新聞網",
           "severity": "yellow"
         }
@@ -756,27 +756,6 @@
       "comments": []
     },
     {
-      "title": "基隆弊案爭議",
-      "city": "基隆",
-      "place": "基隆市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "假珠寶投資詐騙鎖定軍警 基隆地檢署起訴2女",
-          "url": "https://www.cna.com.tw/news/asoc/202608130325.aspx",
-          "time": "2026-08-13 20:45:35",
-          "publisher": "中央社",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "新北弊案爭議",
       "city": "新北",
       "place": "新北市政府",
@@ -813,6 +792,27 @@
           "url": "https://tw.news.yahoo.com/%E9%9B%B2%E6%9E%97%E5%9C%B0%E6%AA%A2%E7%BD%B2%E5%81%B5%E7%B5%90%E4%BB%A5%E5%90%B3%E5%A7%93%E7%94%B7%E5%AD%90%E7%82%BA%E9%A6%96%E4%B9%8B%E8%B7%A8%E5%9C%8B%E9%81%8B%E8%BC%B8%E8%B2%A9%E8%B3%A3%E6%B5%B7%E6%B4%9B%E5%9B%A0%E9%9B%86%E5%9C%98-%E8%B5%B7%E8%A8%B4%E8%A2%AB%E5%91%8A%E5%8D%81%E5%9B%9B%E5%90%8D-%E6%9F%A5%E6%89%A3%E6%B5%B7%E6%B4%9B%E5%9B%A0%E9%80%BE-%E5%8D%83%E5%85%AD%E7%99%BE%E5%85%AC%E5%85%8B-083812929.html",
           "time": "2026-08-13 16:38:12",
           "publisher": "Yahoo新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "基隆弊案爭議",
+      "city": "基隆",
+      "place": "基隆市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "假珠寶投資詐騙鎖定軍警 基隆地檢署起訴2女",
+          "url": "https://www.cna.com.tw/news/asoc/202608130325.aspx",
+          "time": "2026-08-13 20:45:35",
+          "publisher": "中央社",
           "severity": "red"
         }
       ],
@@ -8289,11 +8289,11 @@
       "city": "高雄",
       "place": "高雄市鼓山區",
       "level": "red",
-      "news_count": 142,
+      "news_count": 141,
       "comment_count": 0,
       "negativity_pct": 11,
       "is_urgent": false,
-      "urgency_score": 190,
+      "urgency_score": 189,
       "news_articles": [
         {
           "title": "壹蘋民調｜柯志恩對戰賴瑞隆，你支持誰當高雄市長？",
@@ -9281,13 +9281,6 @@
           "time": "2026-08-13 09:40:16",
           "publisher": "自由時報",
           "severity": null
-        },
-        {
-          "title": "COVID-19疫情持續高雄湧接種潮 疫苗剩2萬劑",
-          "url": "https://tw.news.yahoo.com/covid-19%E7%96%AB%E6%83%85%E6%8C%81%E7%BA%8C%E9%AB%98%E9%9B%84%E6%B9%A7%E6%8E%A5%E7%A8%AE%E6%BD%AE-%E7%96%AB%E8%8B%97%E5%89%A92%E8%90%AC%E5%8A%91-093710296.html",
-          "time": "2026-08-13 09:37:10",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -9297,11 +9290,11 @@
       "city": "台中",
       "place": "台中市北屯區",
       "level": "red",
-      "news_count": 176,
+      "news_count": 175,
       "comment_count": 0,
       "negativity_pct": 12,
       "is_urgent": false,
-      "urgency_score": 239,
+      "urgency_score": 238,
       "news_articles": [
         {
           "title": "【台中市政府說明】 保障守望相助隊執勤安全 中市民政局：持續補足新進裝備、研擬全面汰換計畫",
@@ -10527,13 +10520,6 @@
           "time": "2026-08-13 09:44:12",
           "publisher": "Yahoo新聞",
           "severity": "red"
-        },
-        {
-          "title": "台中持刀伯遭徒手打死！家屬提告殺人 35歲葉男首回應：生命受威脅才反擊",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E6%8C%81%E5%88%80%E4%BC%AF%E9%81%AD%E5%BE%92%E6%89%8B%E6%89%93%E6%AD%BB-%E5%AE%B6%E5%B1%AC%E6%8F%90%E5%91%8A%E6%AE%BA%E4%BA%BA-35%E6%AD%B2%E8%91%89%E7%94%B7%E9%A6%96%E5%9B%9E%E6%87%89-%E7%94%9F%E5%91%BD%E5%8F%97%E5%A8%81%E8%84%85%E6%89%8D%E5%8F%8D%E6%93%8A-013400452.html",
-          "time": "2026-08-13 09:34:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -10543,11 +10529,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 181,
+      "news_count": 180,
       "comment_count": 0,
       "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 217,
+      "urgency_score": 216,
       "news_articles": [
         {
           "title": "桃園市民聯合婚禮8/19「1314」開放報名 限88對抽峇里島蜜月",
@@ -11807,13 +11793,6 @@
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NUUpEV2Q5YXB0TWk4U3Q4Y1RCaWdUS2dMOXk1cnJoWjl3cUNrb210VWN6R0xmbWpuc2FMQkppTTRFQzhuVS1Pamtqek0?oc=5",
           "time": "2026-08-13 09:40:24",
           "publisher": "Google News→tyenews.com",
-          "severity": null
-        },
-        {
-          "title": "北部城鎮韌性演習下午登場 桃園機場聯外交通暫停、行動網路降速",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kZC1MejhmWlpZRHcyeUFzaHVkYTdKV0g0ZmRqWGMyRklFckxpWlo2cGhBVUhqTmlZaDJOclc0MXRMblJ5ZlQ0TDVEQlY?oc=5",
-          "time": "2026-08-13 09:33:53",
-          "publisher": "Google News→桃園電子報",
           "severity": null
         }
       ],

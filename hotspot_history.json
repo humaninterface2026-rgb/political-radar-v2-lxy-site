@@ -75296,7 +75296,7 @@
     },
     {
       "date": "2026-08-14",
-      "snapshot_at": "2026-08-14T01:33:51.192994+00:00",
+      "snapshot_at": "2026-08-14T01:40:07.649833+00:00",
       "hotspots": [
         {
           "title": "台南墜樓事件",
@@ -75327,34 +75327,6 @@
           ]
         },
         {
-          "title": "澎湖車禍事件",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "遠道澎湖學中文遇車禍 光明警熱心協助化解語言隔閡"
-          ]
-        },
-        {
-          "title": "新北車禍事件",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台2線貢寮段嚴重車禍！小貨車凌晨逆撞曳引車 現場慘況曝光"
-          ]
-        },
-        {
           "title": "高雄車禍事件",
           "city": "高雄",
           "place": "高雄市政府",
@@ -75369,6 +75341,20 @@
           ]
         },
         {
+          "title": "澎湖車禍事件",
+          "city": "澎湖",
+          "place": "澎湖縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "遠道澎湖學中文遇車禍 光明警熱心協助化解語言隔閡"
+          ]
+        },
+        {
           "title": "台南車禍事件",
           "city": "台南",
           "place": "台南市政府",
@@ -75380,6 +75366,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "台南驚悚車禍！18歲女大生載友出遊 轉彎失控暴衝騎士慘卡車底"
+          ]
+        },
+        {
+          "title": "新北車禍事件",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "台2線貢寮段嚴重車禍！小貨車凌晨逆撞曳引車 現場慘況曝光"
           ]
         },
         {
@@ -75571,20 +75571,6 @@
           ]
         },
         {
-          "title": "基隆弊案爭議",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "假珠寶投資詐騙鎖定軍警 基隆地檢署起訴2女"
-          ]
-        },
-        {
           "title": "新北弊案爭議",
           "city": "新北",
           "place": "新北市政府",
@@ -75610,6 +75596,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "雲林地檢署偵結以吳姓男子為首之跨國運輸販賣海洛因集團 起訴被告十四名 查扣海洛因逾一千六百公克"
+          ]
+        },
+        {
+          "title": "基隆弊案爭議",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "假珠寶投資詐騙鎖定軍警 基隆地檢署起訴2女"
           ]
         },
         {
@@ -76028,11 +76028,11 @@
           "city": "高雄",
           "place": "高雄市鼓山區",
           "level": "red",
-          "news_count": 142,
+          "news_count": 141,
           "comment_count": 0,
           "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 190,
+          "urgency_score": 189,
           "sample_titles": [
             "壹蘋民調｜柯志恩對戰賴瑞隆，你支持誰當高雄市長？",
             "高雄洲際親子旅遊「餐桌度假」 串聯五星住宿、南洋美食與港灣漫遊",
@@ -76044,11 +76044,11 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 176,
+          "news_count": 175,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 239,
+          "urgency_score": 238,
           "sample_titles": [
             "【台中市政府說明】 保障守望相助隊執勤安全 中市民政局：持續補足新進裝備、研擬全面汰換計畫",
             "【台中市政府說明】 勞資爭議調解成效提升 中市府強化高頻爭議企業法遵訪視與風險管理",
@@ -76060,11 +76060,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 181,
+          "news_count": 180,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 217,
+          "urgency_score": 216,
           "sample_titles": [
             "桃園市民聯合婚禮8/19「1314」開放報名 限88對抽峇里島蜜月",
             "桃園捷運GM01停權廠商資料竟過關 監察院認定捷工局行政疏失",
