@@ -76053,7 +76053,7 @@
     },
     {
       "date": "2026-08-15",
-      "snapshot_at": "2026-08-15T10:36:30.317286+00:00",
+      "snapshot_at": "2026-08-15T10:42:55.000794+00:00",
       "hotspots": [
         {
           "title": "新北墜樓事件",
@@ -76358,20 +76358,6 @@
           ]
         },
         {
-          "title": "台北弊案爭議",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "墊付民眾醫療費被疑收賄 高檢署今駁回再議 北市府科長不起訴確定"
-          ]
-        },
-        {
           "title": "彰化弊案爭議",
           "city": "彰化",
           "place": "彰化縣政府",
@@ -76383,6 +76369,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "獨/彰化基督教醫院前院長涉背信遭收押 疑成立子公司掏空醫院資產"
+          ]
+        },
+        {
+          "title": "台北弊案爭議",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "墊付民眾醫療費被疑收賄 高檢署今駁回再議 北市府科長不起訴確定"
           ]
         },
         {
@@ -76627,11 +76627,11 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "red",
-          "news_count": 61,
+          "news_count": 62,
           "comment_count": 11,
-          "negativity_pct": 7,
+          "negativity_pct": 6,
           "is_urgent": true,
-          "urgency_score": 90,
+          "urgency_score": 91,
           "sample_titles": [
             "1400萬標案給妹妹公司？林智群質疑利益迴避盧秀燕回應了| 政治",
             "1400萬標案給妹妹公司？林智群質疑利益迴避 盧秀燕回應了",
@@ -76659,11 +76659,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 100,
+          "news_count": 101,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 100,
+          "urgency_score": 101,
           "sample_titles": [
             "蔣萬安宜蘭輔選大遲到稱沒想到會塞車林國漳：下次可問我避塞時間- 政治",
             "蔣萬安宜蘭輔選大遲到稱沒想到會塞車 林國漳：下次可問我避塞時間",
@@ -76687,31 +76687,15 @@
           ]
         },
         {
-          "title": "花蓮地方動態",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "red",
-          "news_count": 116,
-          "comment_count": 0,
-          "negativity_pct": 2,
-          "is_urgent": false,
-          "urgency_score": 122,
-          "sample_titles": [
-            "選邊站？ 蔣萬安花蓮輔選　傅崐萁同台變「主持」",
-            "下屆花蓮縣長選舉國民黨陷入泛藍三腳督，藍營「最強母雞」台北市長蔣萬安今天與多位黨籍立委到花蓮站台，為參選人游淑貞造勢，強",
-            "遙測監控空氣新利器 科技執法護花蓮清淨"
-          ]
-        },
-        {
           "title": "桃園地方動態",
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 118,
+          "news_count": 117,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 133,
+          "urgency_score": 132,
           "sample_titles": [
             "桃園吸毒男深夜大鬧超商　巷弄持刀刺人、遭警上銬送辦",
             "在地農產化身特色茶點 「桃園蓮花季」蓮田慢食登場",
@@ -76719,15 +76703,31 @@
           ]
         },
         {
+          "title": "花蓮地方動態",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
+          "level": "red",
+          "news_count": 119,
+          "comment_count": 0,
+          "negativity_pct": 2,
+          "is_urgent": false,
+          "urgency_score": 125,
+          "sample_titles": [
+            "國民黨花蓮團結大會 蔣萬安授旗力挺「唯一正藍」游淑貞 五合一全壘打",
+            "選邊站？ 蔣萬安花蓮輔選　傅崐萁同台變「主持」",
+            "下屆花蓮縣長選舉國民黨陷入泛藍三腳督，藍營「最強母雞」台北市長蔣萬安今天與多位黨籍立委到花蓮站台，為參選人游淑貞造勢，強"
+          ]
+        },
+        {
           "title": "台中地方動態",
           "city": "台中",
           "place": "台中市霧峰區",
           "level": "red",
-          "news_count": 195,
+          "news_count": 192,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 231,
+          "urgency_score": 228,
           "sample_titles": [
             "台中成功嶺276梯替代役新訓爆大規模群聚感染，傳出26天訓期，單日確診人數甚至達20人。對此，役政署成功嶺替代役訓練班證",
             "中部公立醫學中心首座！台中榮總質子中心啟用、醫護宿舍動土中市府協力打造中部精準醫療與友善醫護職場",
@@ -76739,15 +76739,15 @@
           "city": "台北",
           "place": "台北市南港區",
           "level": "red",
-          "news_count": 287,
+          "news_count": 290,
           "comment_count": 0,
-          "negativity_pct": 5,
+          "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 326,
+          "urgency_score": 329,
           "sample_titles": [
+            "國民黨花蓮團結大會 蔣萬安授旗力挺「唯一正藍」游淑貞 五合一全壘打",
             "選邊站？ 蔣萬安花蓮輔選　傅崐萁同台變「主持」",
-            "下屆花蓮縣長選舉國民黨陷入泛藍三腳督，藍營「最強母雞」台北市長蔣萬安今天與多位黨籍立委到花蓮站台，為參選人游淑貞造勢，強",
-            "最強母雞蔣萬安奔花蓮站台再提毒油案籲用選票讓中央認錯| 2026九合一選舉"
+            "下屆花蓮縣長選舉國民黨陷入泛藍三腳督，藍營「最強母雞」台北市長蔣萬安今天與多位黨籍立委到花蓮站台，為參選人游淑貞造勢，強"
           ]
         }
       ]
