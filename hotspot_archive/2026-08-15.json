@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "snapshot_at": "2026-08-15T01:37:35.203479+00:00",
+  "snapshot_at": "2026-08-15T01:42:15.861046+00:00",
   "hotspots": [
     {
       "title": "台北墜樓事件",
@@ -45,27 +45,6 @@
       "comments": []
     },
     {
-      "title": "高雄車禍事件",
-      "city": "高雄",
-      "place": "高雄市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "迴轉險釀車禍！高雄黑白2車駕駛爆口角 從路中央打到路邊",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5539957",
-          "time": "2026-08-14 16:08:57",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台南車禍事件",
       "city": "台南",
       "place": "台南市政府",
@@ -87,9 +66,9 @@
       "comments": []
     },
     {
-      "title": "台北陳情/抗議",
-      "city": "台北",
-      "place": "台北市政府",
+      "title": "高雄車禍事件",
+      "city": "高雄",
+      "place": "高雄市政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -98,10 +77,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "市民找沈伯洋陳情！蔣萬安完了？沒有比較沒有傷害...蘇巧慧掃街「半公里走兩小時」李四川缺人氣？鄭麗文助選蘇清泉喊：開醫院賺很多 變豬隊友？│許貴雅 主持│【台灣ON AIR 完整版】20260814",
-          "url": "https://www.youtube.com/watch?v=BLwcWxuId54",
-          "time": "2026-08-14 21:47:18",
-          "publisher": null,
+          "title": "迴轉險釀車禍！高雄黑白2車駕駛爆口角 從路中央打到路邊",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5539957",
+          "time": "2026-08-14 16:08:57",
+          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -129,6 +108,27 @@
       "comments": []
     },
     {
+      "title": "台北陳情/抗議",
+      "city": "台北",
+      "place": "台北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "市民找沈伯洋陳情！蔣萬安完了？沒有比較沒有傷害...蘇巧慧掃街「半公里走兩小時」李四川缺人氣？鄭麗文助選蘇清泉喊：開醫院賺很多 變豬隊友？│許貴雅 主持│【台灣ON AIR 完整版】20260814",
+          "url": "https://www.youtube.com/watch?v=BLwcWxuId54",
+          "time": "2026-08-14 21:47:18",
+          "publisher": null,
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "台中詐騙案",
       "city": "台中",
       "place": "台中市政府",
@@ -150,9 +150,9 @@
       "comments": []
     },
     {
-      "title": "台北詐騙案",
-      "city": "台北",
-      "place": "台北市政府",
+      "title": "金門詐騙案",
+      "city": "金門",
+      "place": "金門縣政府",
       "level": "green",
       "news_count": 2,
       "comment_count": 0,
@@ -161,17 +161,17 @@
       "urgency_score": 8,
       "news_articles": [
         {
-          "title": "移工成詐騙肥羊 北市勞動局呼籲杜絕詐騙",
-          "url": "https://tw.news.yahoo.com/%E7%A7%BB%E5%B7%A5%E6%88%90%E8%A9%90%E9%A8%99%E8%82%A5%E7%BE%8A-%E5%8C%97%E5%B8%82%E5%8B%9E%E5%8B%95%E5%B1%80%E5%91%BC%E7%B1%B2%E6%9D%9C%E7%B5%95%E8%A9%90%E9%A8%99-130712507.html",
-          "time": "2026-08-14 21:07:12",
+          "title": "「金門中秋博狀元餅」活動竟遭冒名徵才詐騙 縣府迅速示警防詐",
+          "url": "https://tw.news.yahoo.com/%E9%87%91%E9%96%80%E4%B8%AD%E7%A7%8B%E5%8D%9A%E7%8B%80%E5%85%83%E9%A4%85-%E6%B4%BB%E5%8B%95%E7%AB%9F%E9%81%AD%E5%86%92%E5%90%8D%E5%BE%B5%E6%89%8D%E8%A9%90%E9%A8%99-%E7%B8%A3%E5%BA%9C%E8%BF%85%E9%80%9F%E7%A4%BA%E8%AD%A6%E9%98%B2%E8%A9%90-222804753.html",
+          "time": "2026-08-15 06:28:04",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
         },
         {
-          "title": "❤️政治詐騙❤️蔣萬安該向台灣人公開道歉❤️",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3NnV6WFJfem51Y0QzY2NFdTBGSDlyaS14QkRDemR0c2dTM3ljaEZHc1VCUzhWaHREYUhhcjVPUm9reFVQR2hZMjhDTk5nQjJmcFc3enlDU0RvUGtSVlg4ai1wRDlUbDg?oc=5",
-          "time": "2026-08-14 11:31:10",
-          "publisher": "Google News→mobile01.com",
+          "title": "金門「中秋博餅」活動遭冒名徵才詐騙 加LINE恐被盜個資",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MVjNjNV9RV29uRlkwLXpGakk5UXZZSXZxUERzY1gybnFWY2Q2Z256ZjZDZWZHWHdaak1UVUV1T2pTWnZOcmZUaElCbXRmT1lyUzBzUTlEenlKOTE4aXF0V0JyU0ZpR1kwaXY5MVJn?oc=5",
+          "time": "2026-08-14 17:43:04",
+          "publisher": "中時新聞網",
           "severity": "yellow"
         }
       ],
@@ -206,9 +206,9 @@
       "comments": []
     },
     {
-      "title": "金門詐騙案",
-      "city": "金門",
-      "place": "金門縣政府",
+      "title": "台北詐騙案",
+      "city": "台北",
+      "place": "台北市政府",
       "level": "green",
       "news_count": 2,
       "comment_count": 0,
@@ -217,17 +217,17 @@
       "urgency_score": 8,
       "news_articles": [
         {
-          "title": "「金門中秋博狀元餅」活動竟遭冒名徵才詐騙 縣府迅速示警防詐",
-          "url": "https://tw.news.yahoo.com/%E9%87%91%E9%96%80%E4%B8%AD%E7%A7%8B%E5%8D%9A%E7%8B%80%E5%85%83%E9%A4%85-%E6%B4%BB%E5%8B%95%E7%AB%9F%E9%81%AD%E5%86%92%E5%90%8D%E5%BE%B5%E6%89%8D%E8%A9%90%E9%A8%99-%E7%B8%A3%E5%BA%9C%E8%BF%85%E9%80%9F%E7%A4%BA%E8%AD%A6%E9%98%B2%E8%A9%90-222804753.html",
-          "time": "2026-08-15 06:28:04",
+          "title": "移工成詐騙肥羊 北市勞動局呼籲杜絕詐騙",
+          "url": "https://tw.news.yahoo.com/%E7%A7%BB%E5%B7%A5%E6%88%90%E8%A9%90%E9%A8%99%E8%82%A5%E7%BE%8A-%E5%8C%97%E5%B8%82%E5%8B%9E%E5%8B%95%E5%B1%80%E5%91%BC%E7%B1%B2%E6%9D%9C%E7%B5%95%E8%A9%90%E9%A8%99-130712507.html",
+          "time": "2026-08-14 21:07:12",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
         },
         {
-          "title": "金門「中秋博餅」活動遭冒名徵才詐騙 加LINE恐被盜個資",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MVjNjNV9RV29uRlkwLXpGakk5UXZZSXZxUERzY1gybnFWY2Q2Z256ZjZDZWZHWHdaak1UVUV1T2pTWnZOcmZUaElCbXRmT1lyUzBzUTlEenlKOTE4aXF0V0JyU0ZpR1kwaXY5MVJn?oc=5",
-          "time": "2026-08-14 17:43:04",
-          "publisher": "中時新聞網",
+          "title": "❤️政治詐騙❤️蔣萬安該向台灣人公開道歉❤️",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3NnV6WFJfem51Y0QzY2NFdTBGSDlyaS14QkRDemR0c2dTM3ljaEZHc1VCUzhWaHREYUhhcjVPUm9reFVQR2hZMjhDTk5nQjJmcFc3enlDU0RvUGtSVlg4ai1wRDlUbDg?oc=5",
+          "time": "2026-08-14 11:31:10",
+          "publisher": "Google News→mobile01.com",
           "severity": "yellow"
         }
       ],
@@ -636,48 +636,6 @@
       "comments": []
     },
     {
-      "title": "基隆弊案爭議",
-      "city": "基隆",
-      "place": "基隆市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "政商名流常參拜！基隆名廟主委「密室當眾性侵」遭收押",
-          "url": "https://tw.news.yahoo.com/%E6%94%BF%E5%95%86%E5%90%8D%E6%B5%81%E5%B8%B8%E5%8F%83%E6%8B%9C-%E5%9F%BA%E9%9A%86%E5%90%8D%E5%BB%9F%E4%B8%BB%E5%A7%94-%E5%AF%86%E5%AE%A4%E7%95%B6%E7%9C%BE%E6%80%A7%E4%BE%B5-%E9%81%AD%E6%94%B6%E6%8A%BC-002800411.html",
-          "time": "2026-08-15 08:28:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "花蓮弊案爭議",
-      "city": "花蓮",
-      "place": "花蓮縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "公務車私用聚餐遭撞 花蓮調查官聯手副主任捏造通報表遭起訴求刑",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DejkyeDNMMU90QlJpRVgzMU5PX3VzVmJXTVZfa2VtRGM4VWlIOHhBaDNQZzZqOVpNSm1PRV8tZWFsMGhibngwZFo5bXpScnhl0gFWQVVfeXFMUG81d0d6anhUcHhDTGxldUl3ZXZ0RGdDMHNKeFJsYUlwMWw2SDh1LUhkeVk5N2ZpQlFQYjhfaGt4VXFTQ2t2NVU5NTZtTmdJSHBDZXFiUVE?oc=5",
-          "time": "2026-08-14 17:29:22",
-          "publisher": "Google News→udn.com",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台南弊案爭議",
       "city": "台南",
       "place": "台南市政府",
@@ -714,6 +672,48 @@
           "url": "https://www.chinatimes.com/realtimenews/20260814003886-260402",
           "time": "2026-08-14 20:27:58",
           "publisher": "中時新聞網",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "花蓮弊案爭議",
+      "city": "花蓮",
+      "place": "花蓮縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "公務車私用聚餐遭撞 花蓮調查官聯手副主任捏造通報表遭起訴求刑",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DejkyeDNMMU90QlJpRVgzMU5PX3VzVmJXTVZfa2VtRGM4VWlIOHhBaDNQZzZqOVpNSm1PRV8tZWFsMGhibngwZFo5bXpScnhl0gFWQVVfeXFMUG81d0d6anhUcHhDTGxldUl3ZXZ0RGdDMHNKeFJsYUlwMWw2SDh1LUhkeVk5N2ZpQlFQYjhfaGt4VXFTQ2t2NVU5NTZtTmdJSHBDZXFiUVE?oc=5",
+          "time": "2026-08-14 17:29:22",
+          "publisher": "Google News→udn.com",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "基隆弊案爭議",
+      "city": "基隆",
+      "place": "基隆市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "政商名流常參拜！基隆名廟主委「密室當眾性侵」遭收押",
+          "url": "https://tw.news.yahoo.com/%E6%94%BF%E5%95%86%E5%90%8D%E6%B5%81%E5%B8%B8%E5%8F%83%E6%8B%9C-%E5%9F%BA%E9%9A%86%E5%90%8D%E5%BB%9F%E4%B8%BB%E5%A7%94-%E5%AF%86%E5%AE%A4%E7%95%B6%E7%9C%BE%E6%80%A7%E4%BE%B5-%E9%81%AD%E6%94%B6%E6%8A%BC-002800411.html",
+          "time": "2026-08-15 08:28:00",
+          "publisher": "Yahoo新聞",
           "severity": "red"
         }
       ],
@@ -1477,11 +1477,11 @@
       "city": "南投",
       "place": "南投縣政府",
       "level": "yellow",
-      "news_count": 30,
+      "news_count": 28,
       "comment_count": 0,
-      "negativity_pct": 3,
+      "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 33,
+      "urgency_score": 31,
       "news_articles": [
         {
           "title": "互傳媒 剛剛 南投「臺灣夢」扎根社區 6處基地攜手社福中心守護孩子成長",
@@ -1677,20 +1677,6 @@
           "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNRXZWQWFYeUg4NjM3QkZmVThaVF9LWFQ4cUZ3d1RRRWtqdHc3OWhoQjdFelZQRVRjZmFaSExsWTJuQ092dmtLMnFZS1V5ZXlEenl5VG8waU5TM0lfdjZxTWVWZUxRZUwzZkFaTVdtOXU4cTlaSzZuZG9jSXhJcFoxMlFrWGJWclVjNlcwM0otTFpEMXRBYkY3amRVWGN4bWVoc3BPdXc3bVgtLXk5VkhqTllvalF6NF9DTFNvbktITG1sSG1QeDF2UjMzRkUtcWdGQ1prOG5Lc2stbzBCV3lOeThNeXZialAzanQ5Z0J4TmNqRkhSeU1sc205TkxXcTNsdlF4SGpKQTNZZmIyT004WkdlZEVVMV9adnN4SG11dngxcE9QWUJXRWlzaWlnS1lxZm9sb2NjTUJUV25XVjJ2WUNLOXA?oc=5",
           "time": "2026-08-14 10:02:08",
           "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "高溫缺氧害魚群暴斃 宜蘭羅東夜市魚池飄惡臭",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5539406",
-          "time": "2026-08-14 09:40:26",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "高溫缺氧害魚群暴斃宜蘭羅東夜市魚池飄惡臭- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FcVowS2pldDVsV1A4dXVjYmMzcVhwS0pHMERCV2FJRW1JSHdYcHl6RzcxVDNuSFl5Z0Y3ekozQ09oOEhlYmlMLTBZVU9qbXBCVURGZm1UQ2NCVGNtaHFvd1lBSE0?oc=5",
-          "time": "2026-08-14 09:40:26",
-          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -5063,11 +5049,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "red",
-      "news_count": 63,
+      "news_count": 61,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 63,
+      "urgency_score": 61,
       "news_articles": [
         {
           "title": "北市中央補助缺口逾5億、廠商苦等錢 周軒轟蔣萬安：去宜蘭輔選簡直「忘本」",
@@ -5493,20 +5479,6 @@
           "title": "自由開講》高鐵延伸宜蘭案不是該不該建，而是如何建",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHdUg2b3hqUmlqMFk3Tk9jOEx6cDNnSElodGJIVmVMZ0JnTlpnQ19zY1hMZjYwWTBnVlA3d00tQ2ZsbEFIaHVaZm84bXE5azJfRFRHTnptWlZmREozTzFtamNn?oc=5",
           "time": "2026-08-14 10:00:00",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "高溫缺氧害魚群暴斃 宜蘭羅東夜市魚池飄惡臭",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5539406",
-          "time": "2026-08-14 09:40:26",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "高溫缺氧害魚群暴斃宜蘭羅東夜市魚池飄惡臭- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FcVowS2pldDVsV1A4dXVjYmMzcVhwS0pHMERCV2FJRW1JSHdYcHl6RzcxVDNuSFl5Z0Y3ekozQ09oOEhlYmlMLTBZVU9qbXBCVURGZm1UQ2NCVGNtaHFvd1lBSE0?oc=5",
-          "time": "2026-08-14 09:40:26",
           "publisher": "自由時報",
           "severity": "yellow"
         }
@@ -6512,11 +6484,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "red",
-      "news_count": 103,
+      "news_count": 102,
       "comment_count": 0,
       "negativity_pct": 15,
       "is_urgent": false,
-      "urgency_score": 148,
+      "urgency_score": 147,
       "news_articles": [
         {
           "title": "屏東欖仁溪探勘遭虎頭蜂攻擊 1女獲救、陸空續救援2失聯男子",
@@ -7231,13 +7203,6 @@
           "time": "2026-08-14 09:54:12",
           "publisher": "Google News→LINE TODAY",
           "severity": null
-        },
-        {
-          "title": "浪花兄弟講唱會 屏東子弟邱凱偉返鄉交流",
-          "url": "https://tw.news.yahoo.com/%E6%B5%AA%E8%8A%B1%E5%85%84%E5%BC%9F%E8%AC%9B%E5%94%B1%E6%9C%83-%E5%B1%8F%E6%9D%B1%E5%AD%90%E5%BC%9F%E9%82%B1%E5%87%B1%E5%81%89%E8%BF%94%E9%84%89%E4%BA%A4%E6%B5%81-014014945.html",
-          "time": "2026-08-14 09:40:14",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -7247,11 +7212,11 @@
       "city": "高雄",
       "place": "高雄市鳳山區",
       "level": "red",
-      "news_count": 123,
+      "news_count": 122,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 144,
+      "urgency_score": 143,
       "news_articles": [
         {
           "title": "高雄鳳山啟動第4次都計通盤檢討 公園、停車空間都將調整",
@@ -8106,13 +8071,6 @@
           "time": "2026-08-14 09:43:48",
           "publisher": "自由時報",
           "severity": "yellow"
-        },
-        {
-          "title": "駕艙機車新制上路！高雄警公布停車規定「這類駕照」才能合法上路",
-          "url": "https://focus.586.com.tw/2026/08/14/p399509/",
-          "time": "2026-08-14 09:39:08",
-          "publisher": "焦點時報",
-          "severity": null
         }
       ],
       "comments": []
