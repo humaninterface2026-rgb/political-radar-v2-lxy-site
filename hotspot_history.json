@@ -76053,7 +76053,7 @@
     },
     {
       "date": "2026-08-15",
-      "snapshot_at": "2026-08-15T10:42:55.000794+00:00",
+      "snapshot_at": "2026-08-15T10:52:07.332365+00:00",
       "hotspots": [
         {
           "title": "新北墜樓事件",
@@ -76112,20 +76112,6 @@
           ]
         },
         {
-          "title": "台北詐騙案",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "移工成詐騙肥羊 北市勞動局呼籲杜絕詐騙"
-          ]
-        },
-        {
           "title": "金門詐騙案",
           "city": "金門",
           "place": "金門縣政府",
@@ -76137,6 +76123,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "「金門中秋博狀元餅」活動竟遭冒名徵才詐騙 縣府迅速示警防詐"
+          ]
+        },
+        {
+          "title": "台北詐騙案",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "移工成詐騙肥羊 北市勞動局呼籲杜絕詐騙"
           ]
         },
         {
@@ -76228,15 +76228,15 @@
           "city": "新竹縣",
           "place": "新竹縣政府",
           "level": "green",
-          "news_count": 9,
+          "news_count": 10,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 9,
+          "urgency_score": 10,
           "sample_titles": [
             "2026新竹縣長選戰升溫，教育部長鄭英耀、交通部次長伍勝園接力助陣民進黨籍參選人鄭朝方，藍營參選人徐欣瑩今則回防湖口本命",
-            "推教育、交通政策營養午餐也「米其林級」！鄭朝方：竹北可以、新竹縣也可以",
-            "「竹北可以 新竹縣也可以」 鄭朝方將以竹北實績前進竹縣"
+            "鄭麗文履行承諾「竹北市長內定」？黃益中轟下台：違反政治誠信！｜#頭家來開講｜民視讚夯.com",
+            "推教育、交通政策營養午餐也「米其林級」！鄭朝方：竹北可以、新竹縣也可以"
           ]
         },
         {
@@ -76344,20 +76344,6 @@
           ]
         },
         {
-          "title": "基隆弊案爭議",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "政商名流常參拜！基隆名廟主委「密室當眾性侵」遭收押"
-          ]
-        },
-        {
           "title": "彰化弊案爭議",
           "city": "彰化",
           "place": "彰化縣政府",
@@ -76383,6 +76369,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "墊付民眾醫療費被疑收賄 高檢署今駁回再議 北市府科長不起訴確定"
+          ]
+        },
+        {
+          "title": "基隆弊案爭議",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "政商名流常參拜！基隆名廟主委「密室當眾性侵」遭收押"
           ]
         },
         {
@@ -76515,11 +76515,11 @@
           "city": "台東",
           "place": "台東縣政府",
           "level": "yellow",
-          "news_count": 39,
+          "news_count": 38,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 45,
+          "urgency_score": 44,
           "sample_titles": [
             "張善政率桃園市府團隊走訪東博會 饒慶鈴分享城市策展經驗",
             "張善政率桃園市府團隊走訪東博會 饒慶鈴分享城市策展經驗 交流暗空觀光與地方品牌發展",
@@ -76579,11 +76579,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 40,
+          "news_count": 39,
           "comment_count": 0,
-          "negativity_pct": 2,
+          "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 43,
+          "urgency_score": 42,
           "sample_titles": [
             "台南北門急水溪驚現浮屍！消防派救生艇打撈60多歲男子大體 死因身分待查",
             "墨舞丹青 張志強師生聯展台南登場",
@@ -76611,11 +76611,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "red",
-          "news_count": 53,
+          "news_count": 52,
           "comment_count": 0,
-          "negativity_pct": 9,
+          "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 68,
+          "urgency_score": 67,
           "sample_titles": [
             "創意店名！三重有初戀 彰化四大天王獨缺一",
             "立法院三讀通過115年中央總預算，行政院長卓榮泰今心情輕鬆到彰化縣參訪左鄰秀家人照顧咖啡館，提到總預算解凍後，行政院這兩",
@@ -76643,11 +76643,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 88,
+          "news_count": 87,
           "comment_count": 0,
-          "negativity_pct": 26,
+          "negativity_pct": 25,
           "is_urgent": false,
-          "urgency_score": 157,
+          "urgency_score": 153,
           "sample_titles": [
             "屏東毒駕撞3車2傷　男遭拖下車綑綁掌嘴…警要查",
             "屏東市名人講唱會 邀「浪花兄弟」唱響生命故事",
@@ -76691,11 +76691,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 117,
+          "news_count": 115,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 132,
+          "urgency_score": 130,
           "sample_titles": [
             "桃園吸毒男深夜大鬧超商　巷弄持刀刺人、遭警上銬送辦",
             "在地農產化身特色茶點 「桃園蓮花季」蓮田慢食登場",
@@ -76739,11 +76739,11 @@
           "city": "台北",
           "place": "台北市南港區",
           "level": "red",
-          "news_count": 290,
+          "news_count": 292,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 329,
+          "urgency_score": 331,
           "sample_titles": [
             "國民黨花蓮團結大會 蔣萬安授旗力挺「唯一正藍」游淑貞 五合一全壘打",
             "選邊站？ 蔣萬安花蓮輔選　傅崐萁同台變「主持」",
