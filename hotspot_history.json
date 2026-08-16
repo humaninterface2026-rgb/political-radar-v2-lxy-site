@@ -76731,7 +76731,7 @@
     },
     {
       "date": "2026-08-16",
-      "snapshot_at": "2026-08-16T10:25:41.524481+00:00",
+      "snapshot_at": "2026-08-16T10:33:28.894074+00:00",
       "hotspots": [
         {
           "title": "南投車禍事件",
@@ -76748,20 +76748,6 @@
           ]
         },
         {
-          "title": "花蓮陳情/抗議",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "衝藍營花蓮大造勢抗議陳財能嗆傅崐萁:中共走狗－民視新聞- 民視新聞網"
-          ]
-        },
-        {
           "title": "台北陳情/抗議",
           "city": "台北",
           "place": "台北市士林區",
@@ -76773,6 +76759,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "獨家投訴｜World Gym士林店「8月中開幕」跳票 已繳費會員傻等3個月「問客服也沒用」"
+          ]
+        },
+        {
+          "title": "花蓮陳情/抗議",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "衝藍營花蓮大造勢抗議陳財能嗆傅崐萁:中共走狗－民視新聞- 民視新聞網"
           ]
         },
         {
@@ -76818,6 +76818,20 @@
           ]
         },
         {
+          "title": "捷運藍線爭議",
+          "city": "台中",
+          "place": "台中市霧峰區",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 1,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "[HatePolitics] Re: [討論] 盧秀燕規劃中捷藍線，最後詭異的大轉彎"
+          ]
+        },
+        {
           "title": "新北車禍事件",
           "city": "新北",
           "place": "新北市政府",
@@ -76845,21 +76859,6 @@
           "sample_titles": [
             "屏東空污防制六連霸 環保局表揚八家績優檢驗站 | 中華日報",
             "屏東空污防制六連霸 環保局表揚八家績優檢驗站"
-          ]
-        },
-        {
-          "title": "捷運藍線爭議",
-          "city": "台中",
-          "place": "台中市霧峰區",
-          "level": "green",
-          "news_count": 2,
-          "comment_count": 1,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 5,
-          "sample_titles": [
-            "[HatePolitics] Re: [討論] 盧秀燕規劃中捷藍線，最後詭異的大轉彎",
-            "台中捷運藍線BT11標軌道統包工程上網招標至9月14日 歡迎廠商投標"
           ]
         },
         {
@@ -77107,11 +77106,11 @@
           "city": "雲林",
           "place": "雲林縣政府",
           "level": "yellow",
-          "news_count": 38,
+          "news_count": 37,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 38,
+          "urgency_score": 37,
           "sample_titles": [
             "雲林知名北港滷味宣布暫時歇業！老闆親曝原因：我被離婚了 | 生活",
             "雲林「北港滷味」驚傳收攤！老闆自曝「因房事被離婚」歇業",
@@ -77234,11 +77233,11 @@
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "red",
-          "news_count": 41,
+          "news_count": 39,
           "comment_count": 0,
-          "negativity_pct": 17,
+          "negativity_pct": 18,
           "is_urgent": false,
-          "urgency_score": 62,
+          "urgency_score": 60,
           "sample_titles": [
             "竹市全國首創「不動產登記案件AI協審系統」榮獲臺灣AI卓越獎",
             "精進水域救援量能 竹市消防局辦理船艇操作暨水域救援訓練",
@@ -77266,11 +77265,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 66,
+          "news_count": 63,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 81,
+          "urgency_score": 78,
           "sample_titles": [
             "屏東健康博覽會五大權威名醫開講 開啟全方位健康指南 | 中華日報",
             "浪花兄弟屏東合體 感性謝周杰倫提攜",
@@ -77282,11 +77281,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 117,
+          "news_count": 114,
           "comment_count": 0,
-          "negativity_pct": 10,
+          "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 153,
+          "urgency_score": 150,
           "sample_titles": [
             "多元樂音匯聚花蓮文化新能量 縱谷HAKKA音樂節樂團晚會圓滿結束",
             "多元樂音匯聚花蓮 縱谷HAKKA音樂節圓滿結束",
@@ -77298,15 +77297,31 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 118,
+          "news_count": 115,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 121,
+          "urgency_score": 118,
           "sample_titles": [
             "半夜逆向被攔查！桃園男酒駕拒測 副駕女發酒瘋潑他冰水衝車道",
             "半夜逆向被攔查！桃園男酒駕拒測副駕女發酒瘋潑他冰水衝車道- 社會",
             "澎湖花火節8/18相約觀音亭無人機光影X600秒煙火秀接力登場"
+          ]
+        },
+        {
+          "title": "台中地方動態",
+          "city": "台中",
+          "place": "台中市西屯區",
+          "level": "red",
+          "news_count": 132,
+          "comment_count": 0,
+          "negativity_pct": 5,
+          "is_urgent": false,
+          "urgency_score": 150,
+          "sample_titles": [
+            "台中法會「金紙灰燼」倒大排　險燒樹又釀汙染恐罰10萬",
+            "苗栗台中防豪雨 新北以南花東及宜蘭山區局部大雨",
+            "民進黨台中市長參選人何欣純今受訪時，左批中視得標的「2026 台中鍋烤節」標案令人「啟人疑竇」，市長盧秀燕應該跟市民清楚"
           ]
         },
         {
@@ -77326,31 +77341,15 @@
           ]
         },
         {
-          "title": "台中地方動態",
-          "city": "台中",
-          "place": "台中市西屯區",
-          "level": "red",
-          "news_count": 136,
-          "comment_count": 0,
-          "negativity_pct": 4,
-          "is_urgent": false,
-          "urgency_score": 154,
-          "sample_titles": [
-            "台中法會「金紙灰燼」倒大排　險燒樹又釀汙染恐罰10萬",
-            "苗栗台中防豪雨 新北以南花東及宜蘭山區局部大雨",
-            "民進黨台中市長參選人何欣純今受訪時，左批中視得標的「2026 台中鍋烤節」標案令人「啟人疑竇」，市長盧秀燕應該跟市民清楚"
-          ]
-        },
-        {
           "title": "台北地方動態",
           "city": "台北",
           "place": "台北市中山區",
           "level": "red",
-          "news_count": 250,
+          "news_count": 248,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 283,
+          "urgency_score": 281,
           "sample_titles": [
             "竹縣156.9萬元超車 北市退居第三",
             "民進黨台北市長參選人沈伯洋今天舉辦台灣首場後援會成立，2022年曾代表民進黨參選行政院政委陳時中今也到場力挺，更回想起4",
