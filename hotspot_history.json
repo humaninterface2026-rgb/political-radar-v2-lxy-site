@@ -76731,7 +76731,7 @@
     },
     {
       "date": "2026-08-16",
-      "snapshot_at": "2026-08-16T01:29:33.259066+00:00",
+      "snapshot_at": "2026-08-16T01:34:52.916571+00:00",
       "hotspots": [
         {
           "title": "台南車禍事件",
@@ -76860,22 +76860,6 @@
           ]
         },
         {
-          "title": "金門地方動態",
-          "city": "金門",
-          "place": "金門縣政府",
-          "level": "green",
-          "news_count": 15,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 15,
-          "sample_titles": [
-            "「浯 嶼．風起」寫島嶼 從一處文化基地讀見金門新風景",
-            "-在地廠商參加香港美食博覽會 打響金門知名度",
-            "國境之西養蜂人！退休老師守小金門土蜂 登離島唯一「500甜」"
-          ]
-        },
-        {
           "title": "南投地方動態",
           "city": "南投",
           "place": "南投縣政府",
@@ -76889,6 +76873,22 @@
             "南投祖孫創意走秀 祖父母節暨樂齡學習展成果",
             "直擊夜間防災！南投衛生局動員10醫院演練震後火警撤離",
             "南投幸福巴士2人才能預約 議員促強化媒合"
+          ]
+        },
+        {
+          "title": "金門地方動態",
+          "city": "金門",
+          "place": "金門縣政府",
+          "level": "green",
+          "news_count": 15,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 15,
+          "sample_titles": [
+            "「浯 嶼．風起」寫島嶼 從一處文化基地讀見金門新風景",
+            "-在地廠商參加香港美食博覽會 打響金門知名度",
+            "國境之西養蜂人！退休老師守小金門土蜂 登離島唯一「500甜」"
           ]
         },
         {
@@ -76964,20 +76964,6 @@
           ]
         },
         {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "慈濟購買BNT疫苗遭詐騙10.6億元，涉案律師陳昱瑄日前遭台中地檢署起訴。起訴書中載明陳昱瑄手寫札記內，發現一筆「DPP"
-          ]
-        },
-        {
           "title": "彰化弊案爭議",
           "city": "彰化",
           "place": "彰化縣政府",
@@ -76989,6 +76975,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "獨/彰化基督教醫院前院長涉背信遭收押 疑成立子公司掏空醫院資產"
+          ]
+        },
+        {
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "慈濟購買BNT疫苗遭詐騙10.6億元，涉案律師陳昱瑄日前遭台中地檢署起訴。起訴書中載明陳昱瑄手寫札記內，發現一筆「DPP"
           ]
         },
         {
@@ -77117,22 +77117,6 @@
           ]
         },
         {
-          "title": "澎湖地方動態",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
-          "level": "yellow",
-          "news_count": 26,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 26,
-          "sample_titles": [
-            "澎湖花火節倒數！8/18觀音亭交響樂×無人機光影×600秒海上煙火秀登場 | 勁報",
-            "澎湖花火節倒數！8/18觀音亭 交響樂×無人機光影×600秒海上煙火秀登場",
-            "澎湖縣環保局115年8月份前免費機車排氣定檢服務"
-          ]
-        },
-        {
           "title": "台東地方動態",
           "city": "台東",
           "place": "台東縣政府",
@@ -77146,6 +77130,22 @@
             "最近賴政府經過跨部會調查，宣布對台東縣長饒慶鈴在「海峽論壇」的發言不予處分。事件前因後果是，陸委會事前宣布海峽論壇是中共",
             "張善政率團訪台東 憶鐵道情緣",
             "【專訪3-3】延續饒慶鈴台東品牌 陳瑩推音樂、運動基地：讓人才搖籃搖得更漂亮"
+          ]
+        },
+        {
+          "title": "澎湖地方動態",
+          "city": "澎湖",
+          "place": "澎湖縣政府",
+          "level": "yellow",
+          "news_count": 26,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 26,
+          "sample_titles": [
+            "澎湖花火節倒數！8/18觀音亭交響樂×無人機光影×600秒海上煙火秀登場 | 勁報",
+            "澎湖花火節倒數！8/18觀音亭 交響樂×無人機光影×600秒海上煙火秀登場",
+            "澎湖縣環保局115年8月份前免費機車排氣定檢服務"
           ]
         },
         {
@@ -77281,11 +77281,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 132,
+          "news_count": 131,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 144,
+          "urgency_score": 143,
           "sample_titles": [
             "謝龍介花蓮助選突提賴清德！曝2人「關係匪淺」 1句話全場沸騰- 政治",
             "花蓮慈院40周年 醫療志工回眸來時",
@@ -77297,11 +77297,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 136,
+          "news_count": 135,
           "comment_count": 0,
-          "negativity_pct": 4,
+          "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 151,
+          "urgency_score": 147,
           "sample_titles": [
             "福本幸子為2026桃園電影節揭幕 問拍片心得竟脫口：想每天生孩子 | 電影 | 娛樂",
             "福本幸子為2026桃園電影節揭幕 問拍片心得竟脫口：想每天生孩子",
@@ -77329,11 +77329,11 @@
           "city": "台中",
           "place": "台中市霧峰區",
           "level": "red",
-          "news_count": 175,
+          "news_count": 174,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 202,
+          "urgency_score": 201,
           "sample_titles": [
             "斥資1.3億元打造全齡共融風遊戲地標&#160;&#160;台中市梧棲區「鴨母寮公園」正式啟用",
             "[Gossiping] [新聞] 「抓賊要擒王！」賴清德台中談抗癌 拚203",
@@ -77345,11 +77345,11 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 302,
+          "news_count": 300,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 329,
+          "urgency_score": 327,
           "sample_titles": [
             "北市刑大科偵隊長涉洩個資遭免職 北檢複訊聲押禁見",
             "韓星崔始源變台北市議員？ 粉絲蒐證向SM檢舉",
