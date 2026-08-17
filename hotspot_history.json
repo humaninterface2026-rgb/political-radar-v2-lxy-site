@@ -77307,7 +77307,7 @@
     },
     {
       "date": "2026-08-17",
-      "snapshot_at": "2026-08-17T10:39:24.740382+00:00",
+      "snapshot_at": "2026-08-17T10:47:57.378127+00:00",
       "hotspots": [
         {
           "title": "花蓮狼師事件",
@@ -77616,11 +77616,11 @@
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "yellow",
-          "news_count": 43,
+          "news_count": 44,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 55,
+          "urgency_score": 56,
           "sample_titles": [
             "控莊競程上政論節目「造謠棒球場官司」 竹市民眾黨要求24小時道歉",
             "控莊競程上政論節目「造謠棒球場官司」 竹市民眾黨要求24小時道歉| CTWANT",
@@ -77712,11 +77712,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 41,
+          "news_count": 40,
           "comment_count": 0,
-          "negativity_pct": 7,
+          "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 50,
+          "urgency_score": 49,
           "sample_titles": [
             "屏東、鹿兒島夥伴關係更加緊密! 下半年文化、運動與青年交流接力登場",
             "屏東縣警局汰舊換新！115年度32輛警車全新登場 守護治安再添戰力",
@@ -77776,14 +77776,14 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "red",
-          "news_count": 74,
+          "news_count": 76,
           "comment_count": 1,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 81,
+          "urgency_score": 83,
           "sample_titles": [
+            "【午青Live】盧秀燕自肥成性，市府活動當個人行銷，連標案都由親妹拿下！",
             "盧秀燕親妹拿1400萬標案、砸40萬印個人大海報 黃守達怒揭「盧媽媽三寶」 | 自由電子報",
-            "盧秀燕親妹拿1400萬標案、砸40萬印個人大海報 黃守達怒揭「盧媽媽三寶」",
             "盧秀燕親妹拿1400萬標案、砸40萬印個人大海報 黃守達怒揭「盧媽媽三寶」"
           ]
         },
@@ -77792,11 +77792,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 82,
+          "news_count": 81,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 91,
+          "urgency_score": 90,
           "sample_titles": [
             "台北-花蓮航線若停飛 民眾憂成交通孤島 航空站：目前班機照常飛",
             "華信高雄飛花蓮年虧7千萬！機票殺到800元 叫賣哥賣力吆喝竟掛蛋",
@@ -77830,9 +77830,9 @@
           "is_urgent": false,
           "urgency_score": 117,
           "sample_titles": [
+            "陳其邁與市府團隊紀錄六年多市政足跡 《高雄，緊緊緊！2314天極限轉型》將出版",
             "賴清德總統宣布明年普發現金1萬元，國民黨高雄市長參選人、立委柯志恩表態支持且將捐作公益，但也質疑，民進黨去年一路反對普發",
-            "賴清德明年普發1萬！陳其邁點名無人機條例：別卡高雄發展",
-            "華信高雄飛花蓮年虧7千萬！機票殺到800元 叫賣哥賣力吆喝竟掛蛋"
+            "賴清德明年普發1萬！陳其邁點名無人機條例：別卡高雄發展"
           ]
         },
         {
@@ -77856,15 +77856,15 @@
           "city": "台北",
           "place": "台北市內湖區",
           "level": "red",
-          "news_count": 192,
+          "news_count": 195,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 222,
+          "urgency_score": 225,
           "sample_titles": [
-            "台北市長選戰／AI紅利普發1萬 蔣萬安稱應發2萬 沈伯洋提3原則回擊",
-            "蔣萬安稱「應普發兩萬」？林楚茵曝北市「累積歲計500多億」卻當鐵公雞：「蔣空話」自己先加碼到兩萬！",
-            "蔣萬安會被逆轉？李正皓籲沈伯洋「補齊選戰另隻腳」：台北超艱困選區起風了 | 黃振剛 | 新聞"
+            "台北市長選戰／AI紅利普發1萬 蔣萬安稱應發2萬 沈伯洋提3原則回擊 | 中央廣播電臺",
+            "北市藍白合策略出爐! 戴錫欽曝:蔣萬安不單獨幫民眾黨站台",
+            "北市藍白合策略出爐! 戴錫欽曝:蔣萬安不單獨幫民眾黨站台"
           ]
         }
       ]
