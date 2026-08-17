@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "snapshot_at": "2026-08-17T01:38:27.000173+00:00",
+  "snapshot_at": "2026-08-17T01:45:45.375579+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -1118,12 +1118,19 @@
       "city": "雲林",
       "place": "雲林縣政府",
       "level": "yellow",
-      "news_count": 24,
+      "news_count": 25,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 24,
+      "urgency_score": 25,
       "news_articles": [
+        {
+          "title": "大低壓帶影響雨炸一周  雲林以南嚴防豪雨｜LIVE",
+          "url": "https://www.youtube.com/watch?v=6f92q0jDwm0",
+          "time": "2026-08-17 09:22:59",
+          "publisher": null,
+          "severity": null
+        },
         {
           "title": "3縣市大雨特報！今水氣多對流雲系發展旺盛 午後雲林以南雨勢劇烈",
           "url": "https://newtalk.tw/news/view/2026-08-17/1053812",
@@ -2369,11 +2376,11 @@
       "city": "彰化",
       "place": "彰化縣政府",
       "level": "red",
-      "news_count": 32,
+      "news_count": 31,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 35,
+      "urgency_score": 34,
       "news_articles": [
         {
           "title": "彰化地院傳憾事！男員工倒在辦公室身亡",
@@ -2591,13 +2598,6 @@
           "time": "2026-08-16 09:54:17",
           "publisher": "墨新聞",
           "severity": null
-        },
-        {
-          "title": "重塑站前門戶！彰化縣員林市黃金帝國公辦都更案正式公告招商",
-          "url": "https://more-news.tw/694979/",
-          "time": "2026-08-16 09:45:19",
-          "publisher": "墨新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -2607,11 +2607,11 @@
       "city": "新竹市",
       "place": "新竹市政府",
       "level": "red",
-      "news_count": 43,
+      "news_count": 42,
       "comment_count": 0,
-      "negativity_pct": 16,
+      "negativity_pct": 17,
       "is_urgent": false,
-      "urgency_score": 64,
+      "urgency_score": 63,
       "news_articles": [
         {
           "title": "竹市公共運輸使用率 不及全國平均一半",
@@ -2906,13 +2906,6 @@
           "time": "2026-08-16 09:52:35",
           "publisher": "自由時報",
           "severity": "yellow"
-        },
-        {
-          "title": "2025年家庭可支配所得竹市160.4萬居冠 竹縣超車北市",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CU2hTNmVRa3ppVEJoLVFDY0hkREZQLWM3UElnNGR1Zk5wZmpYbTBpVWRTemFtZnhmNlZlbXRmQ2VEblRLdVR0OFNjMXA0SF9wX01jdUZyVQ?oc=5",
-          "time": "2026-08-16 09:39:00",
-          "publisher": "Google News→rti.org.tw",
-          "severity": null
         }
       ],
       "comments": []
@@ -3797,11 +3790,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 78,
+      "news_count": 77,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 78,
+      "urgency_score": 77,
       "news_articles": [
         {
           "title": "息影22年罕見返台！王祖賢遭直擊現身桃園機場 一細節洩真身 - 噓！星聞",
@@ -4340,13 +4333,6 @@
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtM0lIWksyOTRmVmwwV0NoaTRrdkwxSFFydkpLcl90VXYwdHpydVVZN3lkY1BFNkgtQkFKMlFkVTZ0WjFId2Rzd1l6RnRlNmZXWUYteGlOVHpGV2ZWQ0NKYQ?oc=5",
           "time": "2026-08-16 09:51:21",
           "publisher": "Google News→民視新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園電影節播「給阿嬤的情書」 綠議員轟配合中國統戰",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HNjFqS2NUQ0hqazRZcTZGR2dfY2hGM1JLNDhaaTNqcVY5Z3ZIUmJhZDVtdUtjTW5RSWRzbjFKYUo4Rm9yeDdNcGlIeF9Yc2I2c1d2VThXd0PSAV5BVV95cUxNYXhtMDlMM2g3Nzl2NzNwbGRBTGx2SFFqMXRaazR6R3JNSHFIdkRvdzhMOEtuRUpIS0tzZW9vWHZvX081TmV2TXNrcnU4NVlGMHk2WmxMLXhKQkMtUEN3?oc=5",
-          "time": "2026-08-16 09:45:00",
-          "publisher": "Google News→鏡新聞",
           "severity": "yellow"
         }
       ],
@@ -4966,11 +4952,11 @@
       "city": "高雄",
       "place": "高雄市三民區",
       "level": "red",
-      "news_count": 105,
+      "news_count": 104,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 120,
+      "urgency_score": 119,
       "news_articles": [
         {
           "title": "吸一口毒煙副駕冒僵屍 高雄警拍鬼月反毒駕影片爆紅",
@@ -5699,13 +5685,6 @@
           "time": "2026-08-16 09:50:00",
           "publisher": "Google News→蕃新聞",
           "severity": null
-        },
-        {
-          "title": "高雄街舞盛事嗨翻 首日激戰這隊奪冠取得BOTY世界總決賽門票",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5541354",
-          "time": "2026-08-16 09:42:37",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []
@@ -5715,12 +5694,26 @@
       "city": "台中",
       "place": "台中市西屯區",
       "level": "red",
-      "news_count": 133,
+      "news_count": 135,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 148,
+      "urgency_score": 150,
       "news_articles": [
+        {
+          "title": "強化數位韌性 中市府推動數位基礎建設深獲中央肯定",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtaUhsNFZJN0NYZUoxNnowNE80cDZISXJKQUlNdmRhNDA2SnhPQWpvb2doR21nc0psOWU4ekJ5TEZrMW83TXlUUFp6ZzZpNkNSc2NVSjJjdWtzdUNvTC1NVERSNGVvZ3M?oc=5",
+          "time": "2026-08-17 09:39:00",
+          "publisher": "Google News→新華報導",
+          "severity": null
+        },
+        {
+          "title": "[Gossiping] [新聞] 台中購物節再獲肯定 勇奪美國國際商業大",
+          "url": "https://www.ptt.cc/bbs/Gossiping/M.1786927522.A.9DF.html",
+          "time": "2026-08-17 08:45:22",
+          "publisher": null,
+          "severity": null
+        },
         {
           "title": "[Gossiping] [新聞] 退民眾黨拚選中市議員 楊寶楨競選服務處",
           "url": "https://www.ptt.cc/bbs/Gossiping/M.1786925983.A.513.html",
@@ -6660,12 +6653,19 @@
       "city": "台北",
       "place": "台北市內湖區",
       "level": "red",
-      "news_count": 219,
+      "news_count": 217,
       "comment_count": 0,
-      "negativity_pct": 5,
+      "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 255,
+      "urgency_score": 253,
       "news_articles": [
+        {
+          "title": "陳時中批蔣萬安「沒有作為」 北市府：4年前的選舉該放下了",
+          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxONHdYODVPNzJaYkpWMjhZckVLNU5LMG96SjdCM3FpT1NLY2M1cGR5c2I3MmktU3k0MHNMVFA4Nlp4SGpDb1BDRllDbUZrWGdtM2pkdGlYNjJSR0JSWGpLb3JNSnRCMmpXRUpDaE4tMjhVb3RBUHlSeDNzVi1aWHdpbHY4M0YwdU1NU1FMVXZYN3NVc0oyRkg3RF8yRjlVb05sSkc5eUJFTExYUGFpdWVKVU1mVmJaSk5uNWNyWC1PTU9XekZmcGhtb0txenB0QUd4UEdDWEhFdElKWnNEUGtNYV9ULWUtVjcyMk9FVGdBbDA3T3ozWENXWndnWWRkeEhKN2hhdVRjYVdyRm1WRndBNjNOdWItUlBRNHNsSGc0MmY2emdGTk1ramFqbWo5Yk0tUFFGaWR5SjlQbXlrZ004SEd2SWktZWhmZFNadXhIdXRyNEVzSU9Ga3Jrb2hGbUJfQzVpUmpub2hYbk0w?oc=5",
+          "time": "2026-08-17 09:31:58",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
         {
           "title": "陳時中批蔣萬安「沒有作為」 北市府：4年前的選舉該放下了 | 中廣新聞網",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GTVlrSUVsTzdQQTRFZWswbmJQMHRiSFloam5McmNlcm9KR2ctNl9YMkVkM2NTRklzbENqY2cwSGJVbVB6TzY1RmRwLVdMdVBsQ3FLNmJn?oc=5",
@@ -8177,27 +8177,6 @@
           "time": "2026-08-16 09:58:17",
           "publisher": "墨新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "台北自動化展19日登場 機器人題材熱炒",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E8%87%AA%E5%8B%95%E5%8C%96%E5%B1%9519%E6%97%A5%E7%99%BB%E5%A0%B4-%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%A1%8C%E6%9D%90%E7%86%B1%E7%82%92-014413863.html",
-          "time": "2026-08-16 09:44:13",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "2025年家庭可支配所得竹市160.4萬居冠 竹縣超車北市",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CU2hTNmVRa3ppVEJoLVFDY0hkREZQLWM3UElnNGR1Zk5wZmpYbTBpVWRTemFtZnhmNlZlbXRmQ2VEblRLdVR0OFNjMXA0SF9wX01jdUZyVQ?oc=5",
-          "time": "2026-08-16 09:39:00",
-          "publisher": "Google News→rti.org.tw",
-          "severity": null
-        },
-        {
-          "title": "北市AI就業博覽會湧4160人次 科技業掀跨域搶才潮",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5541381",
-          "time": "2026-08-16 09:37:01",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []
