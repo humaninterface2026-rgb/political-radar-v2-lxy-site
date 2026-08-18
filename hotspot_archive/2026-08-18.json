@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "snapshot_at": "2026-08-18T01:43:47.993897+00:00",
+  "snapshot_at": "2026-08-18T01:50:57.867758+00:00",
   "hotspots": [
     {
       "title": "捷運藍線爭議",
@@ -66,27 +66,6 @@
       "comments": []
     },
     {
-      "title": "花蓮詐騙案",
-      "city": "花蓮",
-      "place": "花蓮縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "花蓮秀林普發3千元振興禮金！ 籲民眾留意盜個資詐騙",
-          "url": "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE%E7%A7%80%E6%9E%97%E6%99%AE%E7%99%BC3%E5%8D%83%E5%85%83%E6%8C%AF%E8%88%88%E7%A6%AE%E9%87%91-%E7%B1%B2%E6%B0%91%E7%9C%BE%E7%95%99%E6%84%8F%E7%9B%9C%E5%80%8B%E8%B3%87%E8%A9%90%E9%A8%99-104152902.html",
-          "time": "2026-08-17 18:41:52",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "高雄詐騙案",
       "city": "高雄",
       "place": "高雄市鳳山區",
@@ -102,6 +81,27 @@
           "url": "https://focus.586.com.tw/2026/08/17/p399899/",
           "time": "2026-08-17 20:42:48",
           "publisher": "焦點時報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "花蓮詐騙案",
+      "city": "花蓮",
+      "place": "花蓮縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "花蓮秀林普發3千元振興禮金！ 籲民眾留意盜個資詐騙",
+          "url": "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE%E7%A7%80%E6%9E%97%E6%99%AE%E7%99%BC3%E5%8D%83%E5%85%83%E6%8C%AF%E8%88%88%E7%A6%AE%E9%87%91-%E7%B1%B2%E6%B0%91%E7%9C%BE%E7%95%99%E6%84%8F%E7%9B%9C%E5%80%8B%E8%B3%87%E8%A9%90%E9%A8%99-104152902.html",
+          "time": "2026-08-17 18:41:52",
+          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -465,6 +465,27 @@
       "comments": []
     },
     {
+      "title": "台中弊案爭議",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "台中明星私中家長違停還打傷教官 傷害罪判刑確定！再遭求償30萬",
+          "url": "https://news.nextapple.com/local/20260818/713333480E5344A386D509EA4B2D3FE6",
+          "time": "2026-08-18 00:01:00",
+          "publisher": "壹蘋新聞網",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "新竹縣弊案爭議",
       "city": "新竹縣",
       "place": "新竹縣政府",
@@ -480,27 +501,6 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWc3lOSk5sN21xZVE3N3VxeEgwemZqRFEzMk9LaThGcUVvQ1ZRTUlTS2pqS29yR0NsdF93U09TSGdUcWdIMlkxb3MwX2hPLTlxRGw0?oc=5",
           "time": "2026-08-17 23:31:24",
           "publisher": "Google News→中天新聞網",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "台北弊案爭議",
-      "city": "台北",
-      "place": "台北市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "幫詐騙集團抓內鬼？銀行經理洩檢舉人個資、金管會公文 遭台北地檢署起訴",
-          "url": "https://www.taisounds.com/news/content/97/283534",
-          "time": "2026-08-17 10:11:35",
-          "publisher": "太報",
           "severity": "red"
         }
       ],
@@ -528,9 +528,9 @@
       "comments": []
     },
     {
-      "title": "台中弊案爭議",
-      "city": "台中",
-      "place": "台中市政府",
+      "title": "台北弊案爭議",
+      "city": "台北",
+      "place": "台北市政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -539,10 +539,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "台中明星私中家長違停還打傷教官 傷害罪判刑確定！再遭求償30萬",
-          "url": "https://news.nextapple.com/local/20260818/713333480E5344A386D509EA4B2D3FE6",
-          "time": "2026-08-18 00:01:00",
-          "publisher": "壹蘋新聞網",
+          "title": "幫詐騙集團抓內鬼？銀行經理洩檢舉人個資、金管會公文 遭台北地檢署起訴",
+          "url": "https://www.taisounds.com/news/content/97/283534",
+          "time": "2026-08-17 10:11:35",
+          "publisher": "太報",
           "severity": "red"
         }
       ],
@@ -642,146 +642,6 @@
           "time": "2026-08-17 10:43:00",
           "publisher": "ETtoday",
           "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "基隆地方動態",
-      "city": "基隆",
-      "place": "基隆市政府",
-      "level": "yellow",
-      "news_count": 18,
-      "comment_count": 0,
-      "negativity_pct": 6,
-      "is_urgent": false,
-      "urgency_score": 21,
-      "news_articles": [
-        {
-          "title": "童子瑋牽線 基隆慶安宮捐百萬警車",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1767134",
-          "time": "2026-08-18 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "中央宣布明年普發一萬 童子瑋：基隆4大族群都「現金加碼」",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%A4%AE%E5%AE%A3%E5%B8%83%E6%98%8E%E5%B9%B4%E6%99%AE%E7%99%BC-%E8%90%AC-%E7%AB%A5%E5%AD%90%E7%91%8B-%E5%9F%BA%E9%9A%864%E5%A4%A7%E6%97%8F%E7%BE%A4%E9%83%BD-%E7%8F%BE%E9%87%91%E5%8A%A0%E7%A2%BC-010518512.html",
-          "time": "2026-08-18 01:05:18",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "基隆慶安宮媽祖廟捐贈警局巡邏車港都創舉",
-          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E6%85%B6%E5%AE%89%E5%AE%AE%E5%AA%BD%E7%A5%96%E5%BB%9F%E6%8D%90%E8%B4%88%E8%AD%A6%E5%B1%80%E5%B7%A1%E9%82%8F%E8%BB%8A%E6%B8%AF%E9%83%BD%E5%89%B5%E8%88%89-135418505.html",
-          "time": "2026-08-17 21:54:18",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "賴清德總統今宣布明年普發現金每人1萬元，基隆市議長、基隆市長參選人童子瑋表示，這是「AI紅利、全民共享」，讓經濟成長成果回到人民生活的具體做法。未來他擔任基隆市長，市府也會推動長輩、兒少、青年與身心障礙者現金加碼政策，讓市民真正享受生活。",
-          "url": "https://udn.com/news/story/124652/9697250?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-08-17 21:40:28",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "響應中央普發現金！童子瑋提基隆四大族群加碼政策",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5543101",
-          "time": "2026-08-17 20:58:27",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "基市彰化同鄉會捐血活動 120位熱血人挽袖",
-          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E5%B8%82%E5%BD%B0%E5%8C%96%E5%90%8C%E9%84%89%E6%9C%83%E6%8D%90%E8%A1%80%E6%B4%BB%E5%8B%95-120%E4%BD%8D%E7%86%B1%E8%A1%80%E4%BA%BA%E6%8C%BD%E8%A2%96-125417594.html",
-          "time": "2026-08-17 20:54:17",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "賴清德全民普發1萬 童子瑋宣布：我當選基隆市長4大族群現金加碼",
-          "url": "https://www.ettoday.net/news/20260817/3220833.htm",
-          "time": "2026-08-17 20:21:00",
-          "publisher": "ETtoday",
-          "severity": null
-        },
-        {
-          "title": "基隆辦理HSEEP跨域講習 50人參與",
-          "url": "https://taiwanreports.com/archives/1006775",
-          "time": "2026-08-17 18:58:09",
-          "publisher": "臺灣導報",
-          "severity": null
-        },
-        {
-          "title": "【幽湖閒話】基隆中元祭登場∕李伯元",
-          "url": "https://taiwanreports.com/archives/1006771",
-          "time": "2026-08-17 18:56:39",
-          "publisher": "臺灣導報",
-          "severity": null
-        },
-        {
-          "title": "基隆車禍！機車男撞汽車受傷 唾液一驗「毒駕」慘了",
-          "url": "https://www.chinatimes.com/realtimenews/20260817003070-260402",
-          "time": "2026-08-17 17:42:32",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "多輛警車追捕毒駕受損 基隆議長牽線在地宮廟捐百萬級警車",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5542788",
-          "time": "2026-08-17 16:33:53",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "瀛豐國際藝術節精湛演出 謝國樑盛讚楓香舞蹈團「基隆之光」",
-          "url": "https://more-news.tw/694557/",
-          "time": "2026-08-17 15:08:29",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "慶安宮捐贈巡邏車共同守護基隆治安 邱佩琳感謝熱心支持警政",
-          "url": "https://more-news.tw/695979/",
-          "time": "2026-08-17 15:05:55",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "響應賴清德普發1萬！童子瑋喊若當選基隆4大族群現金加碼",
-          "url": "https://tw.news.yahoo.com/%E9%9F%BF%E6%87%89%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%99%AE%E7%99%BC1%E8%90%AC-%E7%AB%A5%E5%AD%90%E7%91%8B%E5%96%8A%E8%8B%A5%E7%95%B6%E9%81%B8%E5%9F%BA%E9%9A%864%E5%A4%A7%E6%97%8F%E7%BE%A4%E7%8F%BE%E9%87%91%E5%8A%A0%E7%A2%BC-133539275.html",
-          "time": "2026-08-17 13:35:39",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "基隆轎車突變道！下秒慘遭毒駕仔追撞 驚悚瞬間曝光",
-          "url": "https://news.nextapple.com/local/20260817/F91ADF7F355962B0F9D8D4611DB67E23",
-          "time": "2026-08-17 13:05:39",
-          "publisher": "壹蘋新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "港都女神羅嵐「世界年度夫人」冠軍及知名人氣主播頭銜- 親造訪「基隆K-Muse 24媒體踩線團」深度開箱在地風華",
-          "url": "https://more-news.tw/695776/",
-          "time": "2026-08-17 12:55:05",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "中央宣布明年普發一萬 童子瑋：基隆四大族群都加碼",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%A4%AE%E5%AE%A3%E5%B8%83%E6%98%8E%E5%B9%B4%E6%99%AE%E7%99%BC-%E8%90%AC-%E7%AB%A5%E5%AD%90%E7%91%8B-%E5%9F%BA%E9%9A%86%E5%9B%9B%E5%A4%A7%E6%97%8F%E7%BE%A4%E9%83%BD%E5%8A%A0%E7%A2%BC-123500520.html",
-          "time": "2026-08-17 12:35:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "對流旺盛 新北基隆4縣市大雨特報",
-          "url": "https://tw.news.yahoo.com/%E5%B0%8D%E6%B5%81%E6%97%BA%E7%9B%9B-%E6%96%B0%E5%8C%97%E5%9F%BA%E9%9A%864%E7%B8%A3%E5%B8%82%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-015132134.html",
-          "time": "2026-08-17 09:51:32",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -921,6 +781,146 @@
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UUDl1Nk1YTmRRSjFHTWtLbzhzMHFJLVcxbHBKM01hUm9KbTJYQnBXT1c3SWJ6SUNFQXlGUVl3R1J2T1RoWnYtTm9NVWpaVlRkZFlrTDlyYk5jOHFTbkxERFNCRE5keDA?oc=5",
           "time": "2026-08-17 10:59:39",
           "publisher": "Google News→民視新聞網",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "基隆地方動態",
+      "city": "基隆",
+      "place": "基隆市政府",
+      "level": "yellow",
+      "news_count": 18,
+      "comment_count": 0,
+      "negativity_pct": 6,
+      "is_urgent": false,
+      "urgency_score": 21,
+      "news_articles": [
+        {
+          "title": "童子瑋牽線 基隆慶安宮捐百萬警車",
+          "url": "https://news.ltn.com.tw/news/politics/paper/1767134",
+          "time": "2026-08-18 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "中央宣布明年普發一萬 童子瑋：基隆4大族群都「現金加碼」",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%A4%AE%E5%AE%A3%E5%B8%83%E6%98%8E%E5%B9%B4%E6%99%AE%E7%99%BC-%E8%90%AC-%E7%AB%A5%E5%AD%90%E7%91%8B-%E5%9F%BA%E9%9A%864%E5%A4%A7%E6%97%8F%E7%BE%A4%E9%83%BD-%E7%8F%BE%E9%87%91%E5%8A%A0%E7%A2%BC-010518512.html",
+          "time": "2026-08-18 01:05:18",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "基隆慶安宮媽祖廟捐贈警局巡邏車港都創舉",
+          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E6%85%B6%E5%AE%89%E5%AE%AE%E5%AA%BD%E7%A5%96%E5%BB%9F%E6%8D%90%E8%B4%88%E8%AD%A6%E5%B1%80%E5%B7%A1%E9%82%8F%E8%BB%8A%E6%B8%AF%E9%83%BD%E5%89%B5%E8%88%89-135418505.html",
+          "time": "2026-08-17 21:54:18",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "賴清德總統今宣布明年普發現金每人1萬元，基隆市議長、基隆市長參選人童子瑋表示，這是「AI紅利、全民共享」，讓經濟成長成果回到人民生活的具體做法。未來他擔任基隆市長，市府也會推動長輩、兒少、青年與身心障礙者現金加碼政策，讓市民真正享受生活。",
+          "url": "https://udn.com/news/story/124652/9697250?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-08-17 21:40:28",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "響應中央普發現金！童子瑋提基隆四大族群加碼政策",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5543101",
+          "time": "2026-08-17 20:58:27",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "基市彰化同鄉會捐血活動 120位熱血人挽袖",
+          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E5%B8%82%E5%BD%B0%E5%8C%96%E5%90%8C%E9%84%89%E6%9C%83%E6%8D%90%E8%A1%80%E6%B4%BB%E5%8B%95-120%E4%BD%8D%E7%86%B1%E8%A1%80%E4%BA%BA%E6%8C%BD%E8%A2%96-125417594.html",
+          "time": "2026-08-17 20:54:17",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "賴清德全民普發1萬 童子瑋宣布：我當選基隆市長4大族群現金加碼",
+          "url": "https://www.ettoday.net/news/20260817/3220833.htm",
+          "time": "2026-08-17 20:21:00",
+          "publisher": "ETtoday",
+          "severity": null
+        },
+        {
+          "title": "基隆辦理HSEEP跨域講習 50人參與",
+          "url": "https://taiwanreports.com/archives/1006775",
+          "time": "2026-08-17 18:58:09",
+          "publisher": "臺灣導報",
+          "severity": null
+        },
+        {
+          "title": "【幽湖閒話】基隆中元祭登場∕李伯元",
+          "url": "https://taiwanreports.com/archives/1006771",
+          "time": "2026-08-17 18:56:39",
+          "publisher": "臺灣導報",
+          "severity": null
+        },
+        {
+          "title": "基隆車禍！機車男撞汽車受傷 唾液一驗「毒駕」慘了",
+          "url": "https://www.chinatimes.com/realtimenews/20260817003070-260402",
+          "time": "2026-08-17 17:42:32",
+          "publisher": "中時新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "多輛警車追捕毒駕受損 基隆議長牽線在地宮廟捐百萬級警車",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5542788",
+          "time": "2026-08-17 16:33:53",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "瀛豐國際藝術節精湛演出 謝國樑盛讚楓香舞蹈團「基隆之光」",
+          "url": "https://more-news.tw/694557/",
+          "time": "2026-08-17 15:08:29",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "慶安宮捐贈巡邏車共同守護基隆治安 邱佩琳感謝熱心支持警政",
+          "url": "https://more-news.tw/695979/",
+          "time": "2026-08-17 15:05:55",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "響應賴清德普發1萬！童子瑋喊若當選基隆4大族群現金加碼",
+          "url": "https://tw.news.yahoo.com/%E9%9F%BF%E6%87%89%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%99%AE%E7%99%BC1%E8%90%AC-%E7%AB%A5%E5%AD%90%E7%91%8B%E5%96%8A%E8%8B%A5%E7%95%B6%E9%81%B8%E5%9F%BA%E9%9A%864%E5%A4%A7%E6%97%8F%E7%BE%A4%E7%8F%BE%E9%87%91%E5%8A%A0%E7%A2%BC-133539275.html",
+          "time": "2026-08-17 13:35:39",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "基隆轎車突變道！下秒慘遭毒駕仔追撞 驚悚瞬間曝光",
+          "url": "https://news.nextapple.com/local/20260817/F91ADF7F355962B0F9D8D4611DB67E23",
+          "time": "2026-08-17 13:05:39",
+          "publisher": "壹蘋新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "港都女神羅嵐「世界年度夫人」冠軍及知名人氣主播頭銜- 親造訪「基隆K-Muse 24媒體踩線團」深度開箱在地風華",
+          "url": "https://more-news.tw/695776/",
+          "time": "2026-08-17 12:55:05",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "中央宣布明年普發一萬 童子瑋：基隆四大族群都加碼",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%A4%AE%E5%AE%A3%E5%B8%83%E6%98%8E%E5%B9%B4%E6%99%AE%E7%99%BC-%E8%90%AC-%E7%AB%A5%E5%AD%90%E7%91%8B-%E5%9F%BA%E9%9A%86%E5%9B%9B%E5%A4%A7%E6%97%8F%E7%BE%A4%E9%83%BD%E5%8A%A0%E7%A2%BC-123500520.html",
+          "time": "2026-08-17 12:35:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "對流旺盛 新北基隆4縣市大雨特報",
+          "url": "https://tw.news.yahoo.com/%E5%B0%8D%E6%B5%81%E6%97%BA%E7%9B%9B-%E6%96%B0%E5%8C%97%E5%9F%BA%E9%9A%864%E7%B8%A3%E5%B8%82%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-015132134.html",
+          "time": "2026-08-17 09:51:32",
+          "publisher": "Yahoo新聞",
           "severity": null
         }
       ],
@@ -3731,11 +3731,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "red",
-      "news_count": 62,
+      "news_count": 61,
       "comment_count": 0,
       "negativity_pct": 8,
       "is_urgent": false,
-      "urgency_score": 77,
+      "urgency_score": 76,
       "news_articles": [
         {
           "title": "屏東縣政府推出外籍家庭看護工專業到宅指導 助外籍看護照顧升級",
@@ -4163,13 +4163,6 @@
           "time": "2026-08-17 10:20:55",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "醫護也需要被照顧！LG生活健康捐2,470件物資暖挺屏東榮總",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45eEd5anpsazBkMG9tZ2VsNGFNVHJGVWUycE1uVWxIUzk3WDNrWlJZd2tXbDcxUEM3czE2YjNDZ0R1NlpzOHJtdVQ1c0owN2x2cExob3puX1JYWVhzRXVheXlqeGRyNEhQRUdrbm1BN052bTlT?oc=5",
-          "time": "2026-08-17 09:50:08",
-          "publisher": "Google News→biao-news.com",
-          "severity": null
         }
       ],
       "comments": []
@@ -4179,11 +4172,11 @@
       "city": "彰化",
       "place": "彰化縣政府",
       "level": "red",
-      "news_count": 75,
+      "news_count": 73,
       "comment_count": 0,
       "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 90,
+      "urgency_score": 88,
       "news_articles": [
         {
           "title": "彰化不二坊蛋黃酥驚傳遭冒名網售 店家氣向警方報案",
@@ -4695,20 +4688,6 @@
           "time": "2026-08-17 10:11:35",
           "publisher": "太報",
           "severity": "yellow"
-        },
-        {
-          "title": "彰化地院員工辦公室猝死！同事發現時已無生命跡象 檢今相驗查死因",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E5%9C%B0%E9%99%A2%E5%93%A1%E5%B7%A5%E8%BE%A6%E5%85%AC%E5%AE%A4%E7%8C%9D%E6%AD%BB-%E5%90%8C%E4%BA%8B%E7%99%BC%E7%8F%BE%E6%99%82%E5%B7%B2%E7%84%A1%E7%94%9F%E5%91%BD%E8%B7%A1%E8%B1%A1-%E6%AA%A2%E4%BB%8A%E7%9B%B8%E9%A9%97%E6%9F%A5%E6%AD%BB%E5%9B%A0-014800719.html",
-          "time": "2026-08-17 09:48:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "藍營彰化選情雙雙告急？于北辰酸鄭麗文：不管輸多慘都不會下台！｜#台灣最前線｜民視讚夯.com",
-          "url": "https://www.youtube.com/watch?v=19jTenrOtsY",
-          "time": "2026-08-17 09:45:46",
-          "publisher": null,
-          "severity": null
         }
       ],
       "comments": []
@@ -4749,7 +4728,7 @@
           "title": "宜蘭輔選遲到張景森喊「別怪蔣萬安！」 曝雪隧塞車解方- 政治",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yUW13SDhaMVhFVU85RG50blNuMTMzTHpMWHdyTkY0eHBVcFp3VkFGZE9QcjhBcWRuMUp6QjdBQm1lQmZBMW9QQUxSeHp4Rk5tRXhCc0ozY0t0a3VMWmowNldYa2xrZHVYV1JfVENn?oc=5",
           "time": "2026-08-18 08:18:53",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": "yellow"
         },
         {
@@ -5859,17 +5838,24 @@
       "city": "台中",
       "place": "台中市政府",
       "level": "red",
-      "news_count": 107,
+      "news_count": 109,
       "comment_count": 7,
-      "negativity_pct": 7,
+      "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 139,
+      "urgency_score": 141,
       "news_articles": [
         {
           "title": "入蔣團隊前早洩密！盧秀燕愛將涉綁標 通知廠商「可投標」內幕曝",
           "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNZEFlS0tGM2Z2OVVMYnJubkRWY2REMVp4MGh0ZGNHczVGaUd4S3d1Z0JmZzd0TUF5LVRlMHM4VXNCOEZWcWpZTHYxWmF6MzNJVC0xbnVhNFhpRjRhcHZoT3dpN1JwdHcwZ2J1a240VlFlUEFBU0l3cE5jYjF1bG1qUU1HQWNUbG5fV0xGRVVTelNjQkFWLXhXNXlwbUlvckN4SGdsR1JocTZtNHFHS09vVUNnQVhCYzdWNl9sOGQza1piSk1MdHd0aGJSSm5xaURJLWRrTk12cFJCRWkyVER3UWV3ZlBpTnpLZzhNRGNIUG5GeUs2T0c3ZmhJbjAxZmt5aFlGUFZsUHZHcVN5ZnVmQmhCOFhMMldyRm1lNHp6amRMVDhGQzB3ZVVoLVdoUlBNMU1LaVFOWVdBMkhMaHdRcVJpUlRRRTVVTF9sYnhXSVotcmI5WHplZ0dZOFNvdWc4dGpMdU42VzB2dkR6U0F2MWZ1Y1lMWW9IRm5uM1ZTazVwRUZSLTBBcEFodE1mTE5B?oc=5",
           "time": "2026-08-18 09:14:18",
           "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "盧秀燕愛將洩密／廠商手機被查扣意外揪有洩密內鬼檢追同年可疑金流| 政治",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54M0pPV2gyeGJmcGV2ek15bGRucTBjeW9XcHBTYms5a1JhTVJXX1A2cE04NFpRQWViTC1EZVJVNGwtVWpHbVlRLQ?oc=5",
+          "time": "2026-08-18 09:06:00",
+          "publisher": "三立新聞網",
           "severity": "red"
         },
         {
@@ -6036,6 +6022,13 @@
         {
           "title": "盧秀燕願幫民眾黨議員站台 江和樹：有2028總統格局",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdFQ2R0RzLTFnU0VhSTNucTY0bXRDOHZrdUJrWmZtRzZvQWR0YlRpMHlUTXU0VnNyODZ6VUtBNC15NDlic3dwSm8yb3ZuNVNNeE1DYVNrQ1hWdmtmWnlGaGYybzBza0xDVmhKS2Q4V3Q4ZjREdHlfdW1LNS1QMVpZTXlzajZWUQ?oc=5",
+          "time": "2026-08-17 20:59:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "盧秀燕願幫民眾黨議員站台 江和樹：有2028總統格局",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX3RjbkhzYVlhZkUwTm1IaWljVG9Hbkh3al9OQl92N2RpbUhpRnBwOFIzM3RHZ2NwSTlhM3h5TldqRzFiMGhyVEJfcVZHR0ViRXVIUVpZSVNKdFVpb0xsRndhN3poMmZaLTZoT0xjMG5YLS16OWkzdVFkczd4ZVA5SURFXzdNUQ?oc=5",
           "time": "2026-08-17 20:59:00",
           "publisher": "自由時報",
           "severity": null
@@ -6513,7 +6506,7 @@
           "title": "藍營3巨頭偕看《奧德賽》破局 改約吃飯嗎？ 盧秀燕：再約約看囉",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01ZU1NLWFOUk1Ga1QyR0lqRTFTeDlMa0wyYkJCZngtcnFOZDloNWxkTGFtOTRPQzExc3p0NTQydVhxNDFSNDJFM1Z6aUxrRHJQZzFNb3M5ZGttbERLREVDMHhSbGs5dXlWa1FCbVBn?oc=5",
           "time": "2026-08-17 13:08:28",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": null
         },
         {
@@ -6679,11 +6672,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 120,
+      "news_count": 118,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 132,
+      "urgency_score": 130,
       "news_articles": [
         {
           "title": "清大附設桃園醫院破局改規劃科教館- 生活",
@@ -7510,20 +7503,6 @@
           "time": "2026-08-17 09:53:53",
           "publisher": "墨新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "桃園以南預售市場倒一片、高雄交易腰斬 看房價心涼了",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtS2tsWkp1bngzaTdyVGlUeFpjU0tDYWMtcXhVVERLaVNNOHA4VzRLU2E4OTl1U25oMkJVbVJ3d0xjdTZMUl9McHJUeWtzR0d0c3JSMVdxTEY4Z9IBX0FVX3lxTE45eTBfN3IxSkVKaDFZdm42NE1haThmY1VBNkR0MWYxMUU3WEZMUjRxdXFGemFqZWxvOFVkd05YVFRWcDdFcU5xWkt5Wmc4aDV0RTVSY2h4YzhYang5elRR?oc=5",
-          "time": "2026-08-17 09:49:19",
-          "publisher": "Google News→經濟日報",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園重大建設接連解套",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4RENFVS1NUjJiRzJORXdPdWJmSl95SkNBUUlrcEJFdldiVDd5a0VxUllKUmR4WHk4SjhLQXh0WHlLRi14QWExRUl6clJqTGdVTXpCRDEtRGRIZ0JicEZoczBDSHI?oc=5",
-          "time": "2026-08-17 09:44:37",
-          "publisher": "Google News→台灣房屋",
-          "severity": null
         }
       ],
       "comments": []
@@ -8548,11 +8527,11 @@
       "city": "高雄",
       "place": "高雄市前金區",
       "level": "red",
-      "news_count": 161,
+      "news_count": 159,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 176,
+      "urgency_score": 174,
       "news_articles": [
         {
           "title": "假女網友稱包裹卡關 高雄男子超商購點數險受騙",
@@ -9020,7 +8999,7 @@
           "title": "陳其邁卸任前出新書 透露高雄6年施政祕辛",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SWUVVZXVleU1vSHZEeXIyd1VuQndwWmFWU19UTUltU2Z2a0l6VnRyZE0tUEdZc25od2gtencyX1E5N2JZNnUwNlZfMXBYZURSbG4xLW03VkxCdml1bkVVSjM5MjExY3RvcU93VEtn?oc=5",
           "time": "2026-08-17 19:46:29",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": null
         },
         {
@@ -9666,20 +9645,6 @@
           "time": "2026-08-17 09:51:31",
           "publisher": "自由時報",
           "severity": null
-        },
-        {
-          "title": "桃園以南預售市場倒一片、高雄交易腰斬 看房價心涼了",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtS2tsWkp1bngzaTdyVGlUeFpjU0tDYWMtcXhVVERLaVNNOHA4VzRLU2E4OTl1U25oMkJVbVJ3d0xjdTZMUl9McHJUeWtzR0d0c3JSMVdxTEY4Z9IBX0FVX3lxTE45eTBfN3IxSkVKaDFZdm42NE1haThmY1VBNkR0MWYxMUU3WEZMUjRxdXFGemFqZWxvOFVkd05YVFRWcDdFcU5xWkt5Wmc4aDV0RTVSY2h4YzhYang5elRR?oc=5",
-          "time": "2026-08-17 09:49:19",
-          "publisher": "Google News→經濟日報",
-          "severity": "yellow"
-        },
-        {
-          "title": "高雄觀光滿意度連三年蟬聯六都第一成功打造國際港灣觀光城市- 旅遊新聞- PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORWdCcFVzV1VJdm5ucXdQeTBKQVNDQ2tORFBFejRyTU50a2ZCT3NuQlVsVGNWNXRwTGNfajg1QkFNRUt6MnZlYWlqOUFreTY2MVBEeGM4Wm9Mc05BcVp2Ym1MY0RoODhCN1BqXzk5Vng5dExuNjZUaHJraTRLT1B1Q3pTYUU1d2tSbnNGTnF5QQ?oc=5",
-          "time": "2026-08-17 09:45:00",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -9689,12 +9654,19 @@
       "city": "台北",
       "place": "台北市萬華區",
       "level": "red",
-      "news_count": 207,
+      "news_count": 208,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 228,
+      "urgency_score": 229,
       "news_articles": [
+        {
+          "title": "蔣萬安現身佛光山台北道場！關切世界大會籌備 10/3大巨蛋迎4萬人",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14V0Jwa2VpZE1JSEpyT1hkajROOVBUSHhVbFlOc0Mwd2R5SWRwS0R1eUlzaTFkOExBVWRfbF9KSkZ4NkVVQlcxbmhndUJlQQ?oc=5",
+          "time": "2026-08-18 09:40:00",
+          "publisher": "TVBS",
+          "severity": null
+        },
         {
           "title": "北市府抽驗中元祭祀食品結果出爐",
           "url": "https://n.yam.com/Article/20260818658239",
@@ -9727,7 +9699,7 @@
           "title": "宜蘭輔選遲到張景森喊「別怪蔣萬安！」 曝雪隧塞車解方- 政治",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yUW13SDhaMVhFVU85RG50blNuMTMzTHpMWHdyTkY0eHBVcFp3VkFGZE9QcjhBcWRuMUp6QjdBQm1lQmZBMW9QQUxSeHp4Rk5tRXhCc0ozY0t0a3VMWmowNldYa2xrZHVYV1JfVENn?oc=5",
           "time": "2026-08-18 08:18:53",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": "yellow"
         },
         {
@@ -12352,7 +12324,7 @@
           "title": "藍母雞幫白小雞站台引基層憂？盧秀燕：台中藍白長期合作不錯",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxbHZpSXhoQjFCb2xNQW1hbUJBMkQ3VnZVcjFESW4tTXBmTFBWUlhHamkxbXVSYmlQWFV3MnlybmlhMW9Ed3ZXZEE3anA4aGVxdkxOd3dmQUpSUkpRdVF3Sko0RGY4UFp4b3V0Ukpn?oc=5",
           "time": "2026-08-17 13:33:26",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": "yellow"
         },
         {
