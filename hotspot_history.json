@@ -77940,7 +77940,7 @@
     },
     {
       "date": "2026-08-18",
-      "snapshot_at": "2026-08-18T01:35:17.895085+00:00",
+      "snapshot_at": "2026-08-18T01:43:47.993897+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -77957,20 +77957,6 @@
           ]
         },
         {
-          "title": "基隆車禍事件",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "基隆車禍！機車男撞汽車受傷 唾液一驗「毒駕」慘了"
-          ]
-        },
-        {
           "title": "台中車禍事件",
           "city": "台中",
           "place": "台中市政府",
@@ -77982,6 +77968,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "快訊／台中重大車禍！酒駕闖紅燈撞3機車 35歲女破頭意識不清緊急送醫"
+          ]
+        },
+        {
+          "title": "基隆車禍事件",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "基隆車禍！機車男撞汽車受傷 唾液一驗「毒駕」慘了"
           ]
         },
         {
@@ -78127,6 +78127,20 @@
           ]
         },
         {
+          "title": "新竹縣弊案爭議",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "竹東農舍核准152坪竟蓋近300坪 鄭朝方家族金錢弊案連環爆"
+          ]
+        },
+        {
           "title": "台北弊案爭議",
           "city": "台北",
           "place": "台北市政府",
@@ -78166,20 +78180,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "台中明星私中家長違停還打傷教官 傷害罪判刑確定！再遭求償30萬"
-          ]
-        },
-        {
-          "title": "新竹縣弊案爭議",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "竹東農舍核准152坪竟蓋近300坪 鄭朝方家族金錢弊案連環爆"
           ]
         },
         {
@@ -78229,22 +78229,6 @@
           ]
         },
         {
-          "title": "新竹縣地方動態",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "yellow",
-          "news_count": 18,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 18,
-          "sample_titles": [
-            "鄭朝方拚改變竹縣首掛競選看板- 新竹縣",
-            "新竹縣市「平均家戶年所得」稱冠 皆破200萬擠下台北 | 華視新聞",
-            "讓客語從課堂走入家庭！新竹縣推出12場故事體驗、5場客庄走讀"
-          ]
-        },
-        {
           "title": "基隆地方動態",
           "city": "基隆",
           "place": "基隆市政府",
@@ -78258,6 +78242,22 @@
             "童子瑋牽線 基隆慶安宮捐百萬警車",
             "中央宣布明年普發一萬 童子瑋：基隆4大族群都「現金加碼」",
             "基隆慶安宮媽祖廟捐贈警局巡邏車港都創舉"
+          ]
+        },
+        {
+          "title": "新竹縣地方動態",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "yellow",
+          "news_count": 18,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 18,
+          "sample_titles": [
+            "鄭朝方拚改變竹縣首掛競選看板- 新竹縣",
+            "新竹縣市「平均家戶年所得」稱冠 皆破200萬擠下台北 | 華視新聞",
+            "讓客語從課堂走入家庭！新竹縣推出12場故事體驗、5場客庄走讀"
           ]
         },
         {
@@ -78504,11 +78504,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 121,
+          "news_count": 120,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 133,
+          "urgency_score": 132,
           "sample_titles": [
             "清大附設桃園醫院破局改規劃科教館- 生活",
             "清大附設桃園醫院破局 改規劃科教館",
@@ -78552,11 +78552,11 @@
           "city": "台北",
           "place": "台北市萬華區",
           "level": "red",
-          "news_count": 208,
+          "news_count": 207,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 229,
+          "urgency_score": 228,
           "sample_titles": [
             "北市府抽驗中元祭祀食品結果出爐",
             "北市長蔣萬安上周六到宜蘭輔選，因「沒想到周六早上這麼塞」遲到40分鐘，引爆選戰攻防。行政院前政委張景森在臉書說，「別怪蔣",
@@ -78568,11 +78568,11 @@
           "city": "台中",
           "place": "台中市霧峰區",
           "level": "red",
-          "news_count": 257,
+          "news_count": 256,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 320,
+          "urgency_score": 319,
           "sample_titles": [
             "頭份警攜手台中銀行走入社區反詐　守護民眾荷包",
             "臺中市廉政包公文化協進會送愛 中彰榮家長輩揪感心",
