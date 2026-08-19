@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "snapshot_at": "2026-08-19T10:32:14.470783+00:00",
+  "snapshot_at": "2026-08-19T10:37:30.063381+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -89,27 +89,6 @@
       "comments": []
     },
     {
-      "title": "台東車禍事件",
-      "city": "台東",
-      "place": "台東縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "台東死亡車禍！小貨車撞自宅「父子天人永隔」他拋飛車外…家門前斷魂",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E6%9D%B1%E6%AD%BB%E4%BA%A1%E8%BB%8A%E7%A6%8D-%E5%B0%8F%E8%B2%A8%E8%BB%8A%E6%92%9E%E8%87%AA%E5%AE%85-%E7%88%B6%E5%AD%90%E5%A4%A9%E4%BA%BA%E6%B0%B8%E9%9A%94-%E4%BB%96%E6%8B%8B%E9%A3%9B%E8%BB%8A%E5%A4%96-%E5%AE%B6%E9%96%80%E5%89%8D%E6%96%B7%E9%AD%82-222800540.html",
-          "time": "2026-08-19 06:28:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "桃園車禍事件",
       "city": "桃園",
       "place": "桃園市政府",
@@ -124,6 +103,27 @@
           "title": "不給吸管怒撞檳榔攤 中壢夜間連發兩車禍",
           "url": "https://tw.news.yahoo.com/%E4%B8%8D%E7%B5%A6%E5%90%B8%E7%AE%A1%E6%80%92%E6%92%9E%E6%AA%B3%E6%A6%94%E6%94%A4-%E4%B8%AD%E5%A3%A2%E5%A4%9C%E9%96%93%E9%80%A3%E7%99%BC%E5%85%A9%E8%BB%8A%E7%A6%8D-091424453.html",
           "time": "2026-08-19 17:14:24",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台東車禍事件",
+      "city": "台東",
+      "place": "台東縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "台東死亡車禍！小貨車撞自宅「父子天人永隔」他拋飛車外…家門前斷魂",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E6%9D%B1%E6%AD%BB%E4%BA%A1%E8%BB%8A%E7%A6%8D-%E5%B0%8F%E8%B2%A8%E8%BB%8A%E6%92%9E%E8%87%AA%E5%AE%85-%E7%88%B6%E5%AD%90%E5%A4%A9%E4%BA%BA%E6%B0%B8%E9%9A%94-%E4%BB%96%E6%8B%8B%E9%A3%9B%E8%BB%8A%E5%A4%96-%E5%AE%B6%E9%96%80%E5%89%8D%E6%96%B7%E9%AD%82-222800540.html",
+          "time": "2026-08-19 06:28:00",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
@@ -152,9 +152,9 @@
       "comments": []
     },
     {
-      "title": "新竹縣陳情/抗議",
-      "city": "新竹縣",
-      "place": "新竹縣政府",
+      "title": "桃園陳情/抗議",
+      "city": "桃園",
+      "place": "桃園市政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -163,10 +163,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "竹東農舍爭議延燒 議員林碩彥現場抗議、各界喊話鄭朝方講明白",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qLVR4ekZHd05qUllObEFlMUI0X2tLQW9pa193elQ1NmFBR2NKWGNFM0l1YnY5UGFYRW1SVjJ0OFktS1UtMkZ1X1cySWdxNmVzT1E?oc=5",
-          "time": "2026-08-19 14:00:00",
-          "publisher": "Google News→蕃新聞",
+          "title": "桃園清潔隊員陳情籲反外包增員額 環管處稱3年增補276人",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CcGZ3YzhkcHI4OExtZGlHdHMxQnFaYlBNcHhUMXZJeWZQeFpDMVViZWppRzU2OVZfa1N1TTJmT19zMlRna2hVazYzbnk?oc=5",
+          "time": "2026-08-19 11:20:08",
+          "publisher": "Google News→桃園電子報",
           "severity": "yellow"
         }
       ],
@@ -194,9 +194,9 @@
       "comments": []
     },
     {
-      "title": "桃園陳情/抗議",
-      "city": "桃園",
-      "place": "桃園市政府",
+      "title": "新竹縣陳情/抗議",
+      "city": "新竹縣",
+      "place": "新竹縣政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -205,31 +205,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "桃園清潔隊員陳情籲反外包增員額 環管處稱3年增補276人",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CcGZ3YzhkcHI4OExtZGlHdHMxQnFaYlBNcHhUMXZJeWZQeFpDMVViZWppRzU2OVZfa1N1TTJmT19zMlRna2hVazYzbnk?oc=5",
-          "time": "2026-08-19 11:20:08",
-          "publisher": "Google News→桃園電子報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "台中詐騙案",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "台中阿北帶5本存摺飯店開房間 妻驚覺不對勁…竟是假戶政詐騙",
-          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5545033",
-          "time": "2026-08-19 13:24:35",
-          "publisher": "自由時報",
+          "title": "竹東農舍爭議延燒 議員林碩彥現場抗議、各界喊話鄭朝方講明白",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qLVR4ekZHd05qUllObEFlMUI0X2tLQW9pa193elQ1NmFBR2NKWGNFM0l1YnY5UGFYRW1SVjJ0OFktS1UtMkZ1X1cySWdxNmVzT1E?oc=5",
+          "time": "2026-08-19 14:00:00",
+          "publisher": "Google News→蕃新聞",
           "severity": "yellow"
         }
       ],
@@ -251,6 +230,27 @@
           "url": "https://tw.news.yahoo.com/%E8%A2%AB%E8%A9%90%E9%A8%99%E6%80%8E%E9%BA%BC%E8%BE%A6%EF%BC%9F%E5%8F%B0%E5%8C%97%E5%88%91%E4%BA%8B%E5%BE%8B%E5%B8%AB%E8%A7%A3%E6%9E%90%E8%A9%90%E9%A8%99%E5%95%8F%E9%A1%8C-051032009.html",
           "time": "2026-08-19 13:10:32",
           "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台中詐騙案",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "台中阿北帶5本存摺飯店開房間 妻驚覺不對勁…竟是假戶政詐騙",
+          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5545033",
+          "time": "2026-08-19 13:24:35",
+          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -361,69 +361,6 @@
       ]
     },
     {
-      "title": "嘉義市地方動態",
-      "city": "嘉義市",
-      "place": "嘉義市政府",
-      "level": "green",
-      "news_count": 7,
-      "comment_count": 0,
-      "negativity_pct": 14,
-      "is_urgent": false,
-      "urgency_score": 10,
-      "news_articles": [
-        {
-          "title": "2026地方選舉進入倒數100天，藍白共推嘉義市長參選人張啓楷今天一早站路口拜票，隨後與市議員參選人前往共和市場掃街，長年在嘉義市從事教職工作的姐姐也加入拜票行列。張啓楷將嘉義市定位為藍白合作的重要示範區，喊出市長勝選、議員席次「全壘打」目標，選戰逐漸升溫。",
-          "url": "https://udn.com/news/story/124652/9701608?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-08-19 17:39:14",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "全台最早建城 嘉義市東門圓環疑現諸羅城遺構 嘉市府停工勘查",
-          "url": "https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E6%9C%80%E6%97%A9%E5%BB%BA%E5%9F%8E-%E5%98%89%E7%BE%A9%E5%B8%82%E6%9D%B1%E9%96%80%E5%9C%93%E7%92%B0%E7%96%91%E7%8F%BE%E8%AB%B8%E7%BE%85%E5%9F%8E%E9%81%BA%E6%A7%8B-%E5%98%89%E5%B8%82%E5%BA%9C%E5%81%9C%E5%B7%A5%E5%8B%98%E6%9F%A5-091622738.html",
-          "time": "2026-08-19 17:16:22",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉市無菸教育玩創意 學童走進電台拍短影音傳遞健康理念",
-          "url": "https://more-news.tw/697984/",
-          "time": "2026-08-19 17:15:09",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉市文化基地品牌成果展登場 走進「文化串燒店一次打包27處文化風景",
-          "url": "https://tw.news.yahoo.com/%E5%98%89%E5%B8%82%E6%96%87%E5%8C%96%E5%9F%BA%E5%9C%B0%E5%93%81%E7%89%8C%E6%88%90%E6%9E%9C%E5%B1%95%E7%99%BB%E5%A0%B4-%E8%B5%B0%E9%80%B2-%E6%96%87%E5%8C%96%E4%B8%B2%E7%87%92%E5%BA%97-%E6%AC%A1%E6%89%93%E5%8C%8527%E8%99%95%E6%96%87%E5%8C%96%E9%A2%A8%E6%99%AF-063239002.html",
-          "time": "2026-08-19 14:32:39",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉市人均所得增8.86％遭質疑 參選人：戶均年增僅486元",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5544762",
-          "time": "2026-08-19 11:27:28",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "嘉市文化「串」起來！27處文化基地變身串燒店 黃敏惠邀全民來逛",
-          "url": "https://more-news.tw/697568/",
-          "time": "2026-08-19 10:22:30",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉市購物節發票登錄3億 地方拚經濟不忘選戰攻防",
-          "url": "https://tw.news.yahoo.com/%E5%98%89%E5%B8%82%E8%B3%BC%E7%89%A9%E7%AF%80%E7%99%BC%E7%A5%A8%E7%99%BB%E9%8C%843%E5%84%84-%E5%9C%B0%E6%96%B9%E6%8B%9A%E7%B6%93%E6%BF%9F%E4%B8%8D%E5%BF%98%E9%81%B8%E6%88%B0%E6%94%BB%E9%98%B2-201000397.html",
-          "time": "2026-08-18 20:10:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "嘉義縣地方動態",
       "city": "嘉義縣",
       "place": "嘉義縣政府",
@@ -482,6 +419,69 @@
           "time": "2026-08-19 05:30:00",
           "publisher": "自由時報",
           "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "嘉義市地方動態",
+      "city": "嘉義市",
+      "place": "嘉義市政府",
+      "level": "green",
+      "news_count": 7,
+      "comment_count": 0,
+      "negativity_pct": 14,
+      "is_urgent": false,
+      "urgency_score": 10,
+      "news_articles": [
+        {
+          "title": "2026地方選舉進入倒數100天，藍白共推嘉義市長參選人張啓楷今天一早站路口拜票，隨後與市議員參選人前往共和市場掃街，長年在嘉義市從事教職工作的姐姐也加入拜票行列。張啓楷將嘉義市定位為藍白合作的重要示範區，喊出市長勝選、議員席次「全壘打」目標，選戰逐漸升溫。",
+          "url": "https://udn.com/news/story/124652/9701608?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-08-19 17:39:14",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "全台最早建城 嘉義市東門圓環疑現諸羅城遺構 嘉市府停工勘查",
+          "url": "https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E6%9C%80%E6%97%A9%E5%BB%BA%E5%9F%8E-%E5%98%89%E7%BE%A9%E5%B8%82%E6%9D%B1%E9%96%80%E5%9C%93%E7%92%B0%E7%96%91%E7%8F%BE%E8%AB%B8%E7%BE%85%E5%9F%8E%E9%81%BA%E6%A7%8B-%E5%98%89%E5%B8%82%E5%BA%9C%E5%81%9C%E5%B7%A5%E5%8B%98%E6%9F%A5-091622738.html",
+          "time": "2026-08-19 17:16:22",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉市無菸教育玩創意 學童走進電台拍短影音傳遞健康理念",
+          "url": "https://more-news.tw/697984/",
+          "time": "2026-08-19 17:15:09",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉市文化基地品牌成果展登場 走進「文化串燒店一次打包27處文化風景",
+          "url": "https://tw.news.yahoo.com/%E5%98%89%E5%B8%82%E6%96%87%E5%8C%96%E5%9F%BA%E5%9C%B0%E5%93%81%E7%89%8C%E6%88%90%E6%9E%9C%E5%B1%95%E7%99%BB%E5%A0%B4-%E8%B5%B0%E9%80%B2-%E6%96%87%E5%8C%96%E4%B8%B2%E7%87%92%E5%BA%97-%E6%AC%A1%E6%89%93%E5%8C%8527%E8%99%95%E6%96%87%E5%8C%96%E9%A2%A8%E6%99%AF-063239002.html",
+          "time": "2026-08-19 14:32:39",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉市人均所得增8.86％遭質疑 參選人：戶均年增僅486元",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5544762",
+          "time": "2026-08-19 11:27:28",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "嘉市文化「串」起來！27處文化基地變身串燒店 黃敏惠邀全民來逛",
+          "url": "https://more-news.tw/697568/",
+          "time": "2026-08-19 10:22:30",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉市購物節發票登錄3億 地方拚經濟不忘選戰攻防",
+          "url": "https://tw.news.yahoo.com/%E5%98%89%E5%B8%82%E8%B3%BC%E7%89%A9%E7%AF%80%E7%99%BC%E7%A5%A8%E7%99%BB%E9%8C%843%E5%84%84-%E5%9C%B0%E6%96%B9%E6%8B%9A%E7%B6%93%E6%BF%9F%E4%B8%8D%E5%BF%98%E9%81%B8%E6%88%B0%E6%94%BB%E9%98%B2-201000397.html",
+          "time": "2026-08-18 20:10:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
         }
       ],
       "comments": []
@@ -1077,11 +1077,11 @@
       "city": "澎湖",
       "place": "澎湖縣政府",
       "level": "yellow",
-      "news_count": 29,
+      "news_count": 28,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 29,
+      "urgency_score": 28,
       "news_articles": [
         {
           "title": "總統府中秋採購恐喊卡 澎湖府會帶頭認購庇護工場月餅挺身障",
@@ -1277,13 +1277,6 @@
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UVlZpeE1ldlFXVjRvRXJ5UlZBMnloUlQxdUdpbHFXTnZ1TTlxMEFvMzNYQVdzT3BmUmdJUEpoU1R6OU1PaDdqLUd4aTVKTDJJcXVQUEFvNllTVFZrZE9VN3ZEQmlwXzhMVGVjdA?oc=5",
           "time": "2026-08-18 18:55:00",
           "publisher": "Google News→華視新聞網",
-          "severity": null
-        },
-        {
-          "title": "為2026澎湖追風音樂燈光節揭開序幕 T RASH邀小垃圾們來吃海膽炒飯",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtLUJFVEIwYW5ockFscUhsLVZpc0VSTkd5Ty1vSDRGM29oUlhQYko3a3IzMjBocC01YnQzVkdONFZudGU3ZnlCV3BQVTZzMEJ6dmc?oc=5",
-          "time": "2026-08-18 18:34:00",
-          "publisher": "Google News→蕃新聞",
           "severity": null
         }
       ],
@@ -2298,41 +2291,6 @@
       "comments": []
     },
     {
-      "title": "花蓮弊案爭議",
-      "city": "花蓮",
-      "place": "花蓮縣政府",
-      "level": "red",
-      "news_count": 3,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 12,
-      "news_articles": [
-        {
-          "title": "13年前捲入LED採購弊案 花蓮縣議長張峻無罪確定",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5545337",
-          "time": "2026-08-19 16:43:13",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "13年前捲入LED採購弊案花蓮縣議長張峻無罪確定- 政治",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiN2gwNXp3VDc1WWg5V1RFcE9BbnRTRzVfZmZxQmpsNldGRFdBaXlHcmFLSDJCNlhnNTJ4U1Bsa2hOMzc1U2xrS3NPVUFGWks0c1RvN3RlUDRmcmhqVHRjQkI2bFpQbEdLdUE?oc=5",
-          "time": "2026-08-19 16:43:13",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "LED路燈採購弊案 花蓮議長張峻獲判無罪確定",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3UTM0LUxBLTZGb0QtUTBZaWY1cUJDZk1VcHNjYWpBckYwMkFBZ21QNnZjUWtwMEpZa0c1Z05feTVIOENJTEtTa09Wb3pCcThzOHlsWjNSQ0RnamRKTHB3ektYaGVJMHE1N0ZSLUtB?oc=5",
-          "time": "2026-08-19 16:35:40",
-          "publisher": "中時新聞網",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "桃園弊案爭議",
       "city": "桃園",
       "place": "桃園市政府",
@@ -2362,6 +2320,41 @@
           "url": "https://news.nextapple.com/local/20260819/52AC8D78727A1C6EB7591AA7D25BBCCD",
           "time": "2026-08-19 11:02:53",
           "publisher": "壹蘋新聞網",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "花蓮弊案爭議",
+      "city": "花蓮",
+      "place": "花蓮縣政府",
+      "level": "red",
+      "news_count": 3,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 12,
+      "news_articles": [
+        {
+          "title": "13年前捲入LED採購弊案 花蓮縣議長張峻無罪確定",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5545337",
+          "time": "2026-08-19 16:43:13",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "13年前捲入LED採購弊案花蓮縣議長張峻無罪確定- 政治",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiN2gwNXp3VDc1WWg5V1RFcE9BbnRTRzVfZmZxQmpsNldGRFdBaXlHcmFLSDJCNlhnNTJ4U1Bsa2hOMzc1U2xrS3NPVUFGWks0c1RvN3RlUDRmcmhqVHRjQkI2bFpQbEdLdUE?oc=5",
+          "time": "2026-08-19 16:43:13",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "LED路燈採購弊案 花蓮議長張峻獲判無罪確定",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3UTM0LUxBLTZGb0QtUTBZaWY1cUJDZk1VcHNjYWpBckYwMkFBZ21QNnZjUWtwMEpZa0c1Z05feTVIOENJTEtTa09Wb3pCcThzOHlsWjNSQ0RnamRKTHB3ektYaGVJMHE1N0ZSLUtB?oc=5",
+          "time": "2026-08-19 16:35:40",
+          "publisher": "中時新聞網",
           "severity": "red"
         }
       ],
@@ -2540,11 +2533,11 @@
       "city": "新竹縣",
       "place": "新竹縣政府",
       "level": "red",
-      "news_count": 15,
+      "news_count": 14,
       "comment_count": 0,
       "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 18,
+      "urgency_score": 17,
       "news_articles": [
         {
           "title": "九合一選舉登記倒數，適逢七夕情人節，國民黨新竹縣長參選人徐欣瑩競選看板換新裝，以「AI新竹，更科技更有愛」搶攻目光，近期陸續在竹北、竹東、湖口、新豐上架；她也密集拋政見，包括推動竹東鎮升格竹東市等。",
@@ -2641,13 +2634,6 @@
           "title": "鄭朝方家族豪華農舍違建?新竹縣府將查處",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmY0FzdmNpWjJFbmY2VmNra2VJR3lUT2VHWXlpWTNpaWJIV0tkRTVGaWw3NVNFdDdRenBITzUtbjEtMHMwcHMwZ1Y5ZV9MRFRYMWptbGQzcE5jZjFCZkNOcld5ZnlnRmc?oc=5",
           "time": "2026-08-18 18:39:17",
-          "publisher": "Google News→中國評論新聞",
-          "severity": "red"
-        },
-        {
-          "title": "鄭朝方家族豪華農舍違建?新竹縣府將查處",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03ck9vb0Z2ZTZkUUpXaGgydWZ4SE04eUd5dEpEUDEwZ1pVY1dibWlsQXE4REo3T3drN3I1dEpBS2xLX1Jmc3lXQUJXaWNnN2dZbTJVcXh2dThOYWVTckQxNmNmR01uNEE?oc=5",
-          "time": "2026-08-18 18:36:40",
           "publisher": "Google News→中國評論新聞",
           "severity": "red"
         }
@@ -7029,11 +7015,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 158,
+      "news_count": 157,
       "comment_count": 0,
       "negativity_pct": 15,
       "is_urgent": false,
-      "urgency_score": 227,
+      "urgency_score": 226,
       "news_articles": [
         {
           "title": "花蓮辦有機講堂 微型雨林探尋永續",
@@ -8133,13 +8119,6 @@
           "time": "2026-08-18 18:44:00",
           "publisher": "Google News→cna.com.tw",
           "severity": null
-        },
-        {
-          "title": "花蓮消防局公布搜救犬Wilson除戶證明 (圖)",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNWVmc0t5dXZycmxUS2RqZndWSEhzbHJhTVp3V0RrWXViMUt3LUVnekZrLTdDb1VYWm1mMlgyZXdzTmVDN0dheXlfeDZmMFoyTGZGekphZnd4cUFmaUlYRUZib05YUEFPd2hSN2VQdUctRnVCWm9KV2xZU2t2aGJKOW1IdjlNMjJBU21uOS1TeHNIOWZ4XzNOYXFiSDZKdTBUTk50ZWhqb2FxYVV3RTItQXhOMC1BQ196RzVidi0zZGlUNjlQNkZMVnZUd1AxT05RbGlISmt1dWpzTjdtSkgzLS1xak1aeG5oWkVLWTN1em1vWXBwSWR1ajZ5RTF4NEUtMTM1NDhlWWNjQnptajdkcw?oc=5",
-          "time": "2026-08-18 18:33:35",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -8149,11 +8128,11 @@
       "city": "台中",
       "place": "台中市大里區",
       "level": "red",
-      "news_count": 163,
+      "news_count": 162,
       "comment_count": 0,
       "negativity_pct": 10,
       "is_urgent": false,
-      "urgency_score": 214,
+      "urgency_score": 213,
       "news_articles": [
         {
           "title": "威秀進駐流行影音中心 中市盼年底如期開幕",
@@ -9288,13 +9267,6 @@
           "time": "2026-08-18 18:52:32",
           "publisher": null,
           "severity": null
-        },
-        {
-          "title": "台中男陷台越跨國戀陷阱險寄金融卡 超商店員報警合力阻詐",
-          "url": "https://newtalk.tw/news/view/2026-08-18/1054231",
-          "time": "2026-08-18 18:35:03",
-          "publisher": "新頭殼",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -10627,11 +10599,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 201,
+      "news_count": 200,
       "comment_count": 0,
-      "negativity_pct": 7,
+      "negativity_pct": 8,
       "is_urgent": false,
-      "urgency_score": 246,
+      "urgency_score": 245,
       "news_articles": [
         {
           "title": "佀廣洋沒退選桃園人招誰惹誰？1B媽寶連女友母親也不放過「Ｘ你媽 你不值得被好好對待」Joeman渣男行徑人設再崩裂「女友吃藥我不戴套」趙建銘名車代步連兒子教育基金也想吞？",
@@ -12031,13 +12003,6 @@
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CdmJWQUt1TVd6UnlwT1lqMzdFdUVlQl9yTWNoU3pLWDdkMFVCMkZ4Ym9sWFZuOXNTWFJjN3J3bkpvaGg1UmlUVmFNZ3lLcGFUMkE?oc=5",
           "time": "2026-08-18 18:38:00",
           "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "115年全民運動會桃園登場 主題應援曲《挑戰巔峰》熱血發布",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZSzJsNlR6cXZMMU1zTjJORk9ZcmFoVXpNd2FhR04xVFIxa2hiZlZXdXozV200dzFpY2huakUxanpibjJiSFQtaGpSWmgwZjl5R1l6bXpTeDRHRHFWX2fSAUtBVV95cUxPZkthX2U2bWUtOW4zckhKeHpvOHdDXy1VQlhMV19XNVBzOGlkcGtjRnBXdmdBY1lhM1hROWNBQkxZTkZhVWdtSTEyTHc?oc=5",
-          "time": "2026-08-18 18:37:00",
-          "publisher": "ETtoday",
           "severity": null
         }
       ],

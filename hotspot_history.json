@@ -78735,7 +78735,7 @@
     },
     {
       "date": "2026-08-19",
-      "snapshot_at": "2026-08-19T10:32:14.470783+00:00",
+      "snapshot_at": "2026-08-19T10:37:30.063381+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -78790,20 +78790,6 @@
           ]
         },
         {
-          "title": "台東車禍事件",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台東死亡車禍！小貨車撞自宅「父子天人永隔」他拋飛車外…家門前斷魂"
-          ]
-        },
-        {
           "title": "桃園車禍事件",
           "city": "桃園",
           "place": "桃園市政府",
@@ -78815,6 +78801,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "不給吸管怒撞檳榔攤 中壢夜間連發兩車禍"
+          ]
+        },
+        {
+          "title": "台東車禍事件",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "台東死亡車禍！小貨車撞自宅「父子天人永隔」他拋飛車外…家門前斷魂"
           ]
         },
         {
@@ -78832,9 +78832,9 @@
           ]
         },
         {
-          "title": "新竹縣陳情/抗議",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
+          "title": "桃園陳情/抗議",
+          "city": "桃園",
+          "place": "桃園市政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -78842,7 +78842,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "竹東農舍爭議延燒 議員林碩彥現場抗議、各界喊話鄭朝方講明白"
+            "桃園清潔隊員陳情籲反外包增員額 環管處稱3年增補276人"
           ]
         },
         {
@@ -78860,9 +78860,9 @@
           ]
         },
         {
-          "title": "桃園陳情/抗議",
-          "city": "桃園",
-          "place": "桃園市政府",
+          "title": "新竹縣陳情/抗議",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -78870,21 +78870,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "桃園清潔隊員陳情籲反外包增員額 環管處稱3年增補276人"
-          ]
-        },
-        {
-          "title": "台中詐騙案",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台中阿北帶5本存摺飯店開房間 妻驚覺不對勁…竟是假戶政詐騙"
+            "竹東農舍爭議延燒 議員林碩彥現場抗議、各界喊話鄭朝方講明白"
           ]
         },
         {
@@ -78899,6 +78885,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "被詐騙怎麼辦？台北刑事律師解析詐騙問題"
+          ]
+        },
+        {
+          "title": "台中詐騙案",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "台中阿北帶5本存摺飯店開房間 妻驚覺不對勁…竟是假戶政詐騙"
           ]
         },
         {
@@ -78943,22 +78943,6 @@
           "sample_titles": []
         },
         {
-          "title": "嘉義市地方動態",
-          "city": "嘉義市",
-          "place": "嘉義市政府",
-          "level": "green",
-          "news_count": 7,
-          "comment_count": 0,
-          "negativity_pct": 14,
-          "is_urgent": false,
-          "urgency_score": 10,
-          "sample_titles": [
-            "2026地方選舉進入倒數100天，藍白共推嘉義市長參選人張啓楷今天一早站路口拜票，隨後與市議員參選人前往共和市場掃街，長",
-            "全台最早建城 嘉義市東門圓環疑現諸羅城遺構 嘉市府停工勘查",
-            "嘉市無菸教育玩創意 學童走進電台拍短影音傳遞健康理念"
-          ]
-        },
-        {
           "title": "嘉義縣地方動態",
           "city": "嘉義縣",
           "place": "嘉義縣政府",
@@ -78972,6 +78956,22 @@
             "嘉義縣飲冰品抽驗64件 2件不符規定",
             "前進嘉義縣深化公平待客精神 南山人壽打造「樂齡數位金融學堂」",
             "嘉義縣衛生局抽驗64件夏季飲冰品 2件檢出腸桿菌科"
+          ]
+        },
+        {
+          "title": "嘉義市地方動態",
+          "city": "嘉義市",
+          "place": "嘉義市政府",
+          "level": "green",
+          "news_count": 7,
+          "comment_count": 0,
+          "negativity_pct": 14,
+          "is_urgent": false,
+          "urgency_score": 10,
+          "sample_titles": [
+            "2026地方選舉進入倒數100天，藍白共推嘉義市長參選人張啓楷今天一早站路口拜票，隨後與市議員參選人前往共和市場掃街，長",
+            "全台最早建城 嘉義市東門圓環疑現諸羅城遺構 嘉市府停工勘查",
+            "嘉市無菸教育玩創意 學童走進電台拍短影音傳遞健康理念"
           ]
         },
         {
@@ -79104,11 +79104,11 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "yellow",
-          "news_count": 29,
+          "news_count": 28,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 29,
+          "urgency_score": 28,
           "sample_titles": [
             "總統府中秋採購恐喊卡 澎湖府會帶頭認購庇護工場月餅挺身障",
             "澎湖區漁會攜手長者 放流馬糞海膽",
@@ -79164,22 +79164,6 @@
           ]
         },
         {
-          "title": "花蓮弊案爭議",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "red",
-          "news_count": 3,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 12,
-          "sample_titles": [
-            "13年前捲入LED採購弊案 花蓮縣議長張峻無罪確定",
-            "13年前捲入LED採購弊案花蓮縣議長張峻無罪確定- 政治",
-            "LED路燈採購弊案 花蓮議長張峻獲判無罪確定"
-          ]
-        },
-        {
           "title": "桃園弊案爭議",
           "city": "桃園",
           "place": "桃園市政府",
@@ -79193,6 +79177,22 @@
             "桃園逆子狂砍熟睡老母！她驚慌抵抗血濺滿地 遭檢方起訴、國民法官審理",
             "懷疑老母偷錢...桃園逆子菜刀砍頭再追殺！殺人未遂起訴",
             "懷疑母親偷錢 桃園男持雙刀砍傷母親起訴"
+          ]
+        },
+        {
+          "title": "花蓮弊案爭議",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
+          "level": "red",
+          "news_count": 3,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 12,
+          "sample_titles": [
+            "13年前捲入LED採購弊案 花蓮縣議長張峻無罪確定",
+            "13年前捲入LED採購弊案花蓮縣議長張峻無罪確定- 政治",
+            "LED路燈採購弊案 花蓮議長張峻獲判無罪確定"
           ]
         },
         {
@@ -79248,11 +79248,11 @@
           "city": "新竹縣",
           "place": "新竹縣政府",
           "level": "red",
-          "news_count": 15,
+          "news_count": 14,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 18,
+          "urgency_score": 17,
           "sample_titles": [
             "九合一選舉登記倒數，適逢七夕情人節，國民黨新竹縣長參選人徐欣瑩競選看板換新裝，以「AI新竹，更科技更有愛」搶攻目光，近期",
             "名嘴吳子嘉爆料民進黨新竹縣長參選人鄭朝方家族農舍疑有148坪違建，鄭辦否認鄭與建物有關；吳今再追問「為何不敢回答是否借名",
@@ -79424,11 +79424,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 158,
+          "news_count": 157,
           "comment_count": 0,
           "negativity_pct": 15,
           "is_urgent": false,
-          "urgency_score": 227,
+          "urgency_score": 226,
           "sample_titles": [
             "花蓮辦有機講堂 微型雨林探尋永續",
             "張峻鳳林連跑三場關懷長輩 打造「花蓮福利縣、全民安全城市」",
@@ -79440,11 +79440,11 @@
           "city": "台中",
           "place": "台中市大里區",
           "level": "red",
-          "news_count": 163,
+          "news_count": 162,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 214,
+          "urgency_score": 213,
           "sample_titles": [
             "威秀進駐流行影音中心 中市盼年底如期開幕",
             "打造新住民最友善城市 台中開辦新住民生活適應班助幸福扎根",
@@ -79472,11 +79472,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 201,
+          "news_count": 200,
           "comment_count": 0,
-          "negativity_pct": 7,
+          "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 246,
+          "urgency_score": 245,
           "sample_titles": [
             "佀廣洋沒退選桃園人招誰惹誰？1B媽寶連女友母親也不放過「Ｘ你媽 你不值得被好好對待」Joeman渣男行徑人設再崩裂「女友",
             "桃園14.2萬移工衍生治安、交通問題 刑案3年暴增近3.5倍",
