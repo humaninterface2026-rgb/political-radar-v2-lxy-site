@@ -78735,7 +78735,7 @@
     },
     {
       "date": "2026-08-19",
-      "snapshot_at": "2026-08-19T01:43:27.883223+00:00",
+      "snapshot_at": "2026-08-19T01:47:54.992658+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -78832,9 +78832,9 @@
           ]
         },
         {
-          "title": "苗栗車禍事件",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
+          "title": "高雄車禍事件",
+          "city": "高雄",
+          "place": "高雄市政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -78842,7 +78842,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "國3通霄段嚴重車禍！貨車「四輪朝天」釀2傷"
+            "宜蘭2起車禍 男子羅東鬧區毒駕、曳引車失控插橋頭旁水溝"
           ]
         },
         {
@@ -78860,9 +78860,9 @@
           ]
         },
         {
-          "title": "高雄車禍事件",
-          "city": "高雄",
-          "place": "高雄市政府",
+          "title": "苗栗車禍事件",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -78870,7 +78870,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "宜蘭2起車禍 男子羅東鬧區毒駕、曳引車失控插橋頭旁水溝"
+            "國3通霄段嚴重車禍！貨車「四輪朝天」釀2傷"
           ]
         },
         {
@@ -79118,6 +79118,22 @@
           ]
         },
         {
+          "title": "花蓮墜樓事件",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
+          "level": "yellow",
+          "news_count": 4,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 16,
+          "sample_titles": [
+            "花蓮強震立功卻傳去年訓練過程墜樓亡 搜救犬Wilson之死疑點? 由盛轉衰?搞不定市政問題 蔣萬安反毒油後聲量逐步下滑?",
+            "搜救犬墜樓爆爭議 花蓮消防局駁虐待！秀骨骼照沒破裂",
+            "花蓮搜救犬Wilson墜樓惹全台關注 議長張峻宣布組專案小組 | 鏡新聞"
+          ]
+        },
+        {
           "title": "雲林地方動態",
           "city": "雲林",
           "place": "雲林縣政府",
@@ -79186,11 +79202,11 @@
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "yellow",
-          "news_count": 45,
+          "news_count": 44,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 48,
+          "urgency_score": 47,
           "sample_titles": [
             "新車領牌4天即遭鎖定！竹市智慧通報立功 成功追回117筆、近30萬元欠稅費",
             "竹市西濱豎琴橋修繕拖2年議員：行政效率差- 新竹市",
@@ -79218,30 +79234,15 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "yellow",
-          "news_count": 101,
+          "news_count": 100,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 128,
+          "urgency_score": 127,
           "sample_titles": [
             "宜蘭情人節 268公尺鵲橋放閃",
             "2026宜蘭綠博《格致寶藏》勇奪英國FADA白金獎",
             "凌晨0時10分宜蘭南澳規模3.6地震 宜花最大震度3級"
-          ]
-        },
-        {
-          "title": "彰化弊案爭議",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "彰化女嬰猝死悲歌! \"人生1/3住貨車\" 生母.繼父躲過收押",
-            "彰化女嬰猝死! \"人生1/3住貨車\" 生母.繼父躲過收押"
           ]
         },
         {
@@ -79257,6 +79258,21 @@
           "sample_titles": [
             "吳子嘉連環爆鄭朝方家族金錢弊案 竹東農舍核准152坪竟蓋近300坪",
             "吳子嘉連環爆鄭朝方家族金錢弊案 竹東農舍核准152坪竟蓋近300坪"
+          ]
+        },
+        {
+          "title": "彰化弊案爭議",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "彰化女嬰猝死悲歌! \"人生1/3住貨車\" 生母.繼父躲過收押",
+            "彰化女嬰猝死! \"人生1/3住貨車\" 生母.繼父躲過收押"
           ]
         },
         {
@@ -79289,22 +79305,6 @@
             "竹北天坑建案又傳工安事故　工人墜樓送醫搶救仍不治",
             "竹北天坑建案又傳工安事故 工人墜樓送醫搶救仍不治",
             "竹北豐采520工人墜樓亡 縣府勒令停工"
-          ]
-        },
-        {
-          "title": "花蓮墜樓事件",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "red",
-          "news_count": 5,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 20,
-          "sample_titles": [
-            "花蓮強震立功卻傳去年訓練過程墜樓亡 搜救犬Wilson之死疑點? 由盛轉衰?搞不定市政問題 蔣萬安反毒油後聲量逐步下滑?",
-            "搜救犬墜樓爆爭議 花蓮消防局駁虐待！秀骨骼照沒破裂",
-            "花蓮搜救犬Wilson墜樓惹全台關注 議長張峻宣布組專案小組 | 鏡新聞"
           ]
         },
         {
@@ -79440,11 +79440,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 81,
+          "news_count": 80,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 90,
+          "urgency_score": 89,
           "sample_titles": [
             "中科院今天表示，上午於屏東九鵬基地執行衛星運載火箭測試，飛行過程因初期軌道異常，啟動自毀機制，墜落點則在安全管制範圍內，",
             "位於屏東縣的中山科學研究院九鵬基地今日清晨6時許，進行飛彈實彈射擊測試，沒想到一枚飛彈疑似因不明原因發生失控，未按照預定",
@@ -79472,11 +79472,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 139,
+          "news_count": 138,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 175,
+          "urgency_score": 174,
           "sample_titles": [
             "幸福保衛站服務再+1！新北2,000家四大超商新增學童緊急暫避服務",
             "從傳統配鎖到電子鎖 新北蘆洲40年老店「利眾鎖匙刀剪店」用技術與誠信累積在地信任",
@@ -79504,11 +79504,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 210,
+          "news_count": 209,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 246,
+          "urgency_score": 242,
           "sample_titles": [
             "2026花蓮赤科山金針花海｜3大必拍取景地：林家園、小瑞士農場、汪家古厝- SayDigi",
             "花蓮搜救犬Wilson遭爆虐死！消防局長還原始末 議員點出「最大問題」",
