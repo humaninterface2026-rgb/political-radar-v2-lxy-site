@@ -80225,7 +80225,7 @@
     },
     {
       "date": "2026-08-21",
-      "snapshot_at": "2026-08-21T01:17:05.988529+00:00",
+      "snapshot_at": "2026-08-21T01:33:17.096948+00:00",
       "hotspots": [
         {
           "title": "台北軍購爭議",
@@ -80468,11 +80468,11 @@
           "city": "嘉義市",
           "place": "嘉義市政府",
           "level": "green",
-          "news_count": 8,
+          "news_count": 7,
           "comment_count": 0,
-          "negativity_pct": 12,
+          "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 11,
+          "urgency_score": 7,
           "sample_titles": [
             "台灣好生活 劉世芳、陳世凱週日嘉市開講",
             "傳承KANO永不放棄精神 嘉義市民生國中棒球隊睽違多年再戰沖繩",
@@ -80500,11 +80500,11 @@
           "city": "嘉義縣",
           "place": "嘉義縣政府",
           "level": "green",
-          "news_count": 12,
+          "news_count": 11,
           "comment_count": 0,
-          "negativity_pct": 8,
+          "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 15,
+          "urgency_score": 11,
           "sample_titles": [
             "嘉義縣推動到宅照護8年 2,200名管路個案受惠",
             "嘉義縣議員黃啟豪「問政統計說明會」 3年來服務逾2000件 - 社會新聞 - PChome Online 新聞",
@@ -80516,11 +80516,11 @@
           "city": "雲林",
           "place": "雲林縣政府",
           "level": "green",
-          "news_count": 14,
+          "news_count": 13,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 14,
+          "urgency_score": 13,
           "sample_titles": [
             "《雲林縣長政見交鋒》劉建國提醫療產業園區 張嘉郡推美術館白皮書",
             "雲林青農3產品 驚豔英國大賞",
@@ -80580,11 +80580,11 @@
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "yellow",
-          "news_count": 26,
+          "news_count": 25,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 26,
+          "urgency_score": 25,
           "sample_titles": [
             "新竹風箏節8/29登場禁汽車進入商家反彈- 新竹市",
             "新竹市議員劉崇顯先前參加民進黨新竹市黨部東區市議員初選落敗，他今晚於臉書上發文，指今天是他36歲生日，將為新竹市義無反顧",
@@ -80628,15 +80628,15 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
-          "news_count": 67,
+          "news_count": 68,
           "comment_count": 23,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 94,
+          "urgency_score": 95,
           "sample_titles": [
             "坦言「台灣民主空間寸步難行」 盧秀燕：應不分藍綠勇敢為國家前進",
-            "藍營三巨頭合體！盧秀燕、蔣萬安、韓國瑜明確結盟 誓言重返執政",
-            "韓國瑜、盧秀燕、蔣萬安籲政院副署三讀.利己不利人的撒錢法案."
+            "坦言「台灣民主空間寸步難行」 盧秀燕：應不分藍綠勇敢為國家前進",
+            "藍營三巨頭合體！盧秀燕、蔣萬安、韓國瑜明確結盟 誓言重返執政"
           ]
         },
         {
@@ -80670,21 +80670,6 @@
           ]
         },
         {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "台中環保局又傳貪污！ 清潔隊員私賣回收物得手9900元遭訴",
-            "台中裸男狂奔1.4公里被逮 恐怖持刀弒母遭起訴"
-          ]
-        },
-        {
           "title": "桃園弊案爭議",
           "city": "桃園",
           "place": "桃園市政府",
@@ -80700,15 +80685,30 @@
           ]
         },
         {
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "台中環保局又傳貪污！ 清潔隊員私賣回收物得手9900元遭訴",
+            "台中裸男狂奔1.4公里被逮 恐怖持刀弒母遭起訴"
+          ]
+        },
+        {
           "title": "彰化車禍事件",
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "red",
-          "news_count": 5,
+          "news_count": 4,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 20,
+          "urgency_score": 16,
           "sample_titles": [
             "彰化伸港工程師8年0缺勤　「疑似道路設計問題」命喪3姊弟車禍同條路",
             "彰化驚悚車禍！男騎士擦撞人行道緣石 倒地遭碾肚破腸流慘死",
@@ -80736,11 +80736,11 @@
           "city": "南投",
           "place": "南投縣政府",
           "level": "red",
-          "news_count": 28,
+          "news_count": 27,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 31,
+          "urgency_score": 30,
           "sample_titles": [
             "南投國姓、魚池鄉長 民進黨還無人參選",
             "台北至少410童涉遭虐 許淑華怒問蔣萬安「一句重話都不說」",
@@ -80752,11 +80752,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 36,
+          "news_count": 34,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 42,
+          "urgency_score": 37,
           "sample_titles": [
             "屏東市長參選人》梁育慈推兒少運動卡 每月補助200元",
             "演藝廳遭點名收入不敷成本 屏東縣府指非以營利為目的",
@@ -80768,11 +80768,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 38,
+          "news_count": 36,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 41,
+          "urgency_score": 39,
           "sample_titles": [
             "「我愛原住民」免費吃冰棒 鳳梨灣響應原住民族日分享花蓮好滋味",
             "[HatePolitics] [舊聞]台中到花蓮 下月15日停飛 北花線恐跟進 北",
@@ -80784,11 +80784,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 51,
+          "news_count": 50,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 51,
+          "urgency_score": 50,
           "sample_titles": [
             "宜蘭縣議員選舉",
             "宜蘭溯溪（下）／從5公尺高處跳進深潭、垂直90度天然滑水道、溪邊吃大鍋麵 金岳瀑布的回程才是高潮",
@@ -80800,11 +80800,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "red",
-          "news_count": 52,
+          "news_count": 51,
           "comment_count": 0,
-          "negativity_pct": 12,
+          "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 70,
+          "urgency_score": 66,
           "sample_titles": [
             "彰化家扶陪伴兒少走出情緒卡關 看見行為背後真正需要",
             "彰化縣原住民族文化盛會 8/29登場",
@@ -80832,11 +80832,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 75,
+          "news_count": 73,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 90,
+          "urgency_score": 88,
           "sample_titles": [
             "桃園郵局辦理公益捐血活動 守護生命傳遞愛心善盡企業社會責任",
             "張善政喊話串聯國際能量 桃園電影節首辦科技論壇",
@@ -80848,11 +80848,11 @@
           "city": "高雄",
           "place": "高雄市鳳山區",
           "level": "red",
-          "news_count": 105,
+          "news_count": 101,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 117,
+          "urgency_score": 113,
           "sample_titles": [
             "高雄安全島「又長菇了」大雨一直下…激發大量菇體冒出！網驚：這次更大",
             "《高雄，緊緊緊！2314天極限轉型》紀錄高市府團隊六年施政足跡開放預購",
@@ -80864,15 +80864,15 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 135,
+          "news_count": 137,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 153,
+          "urgency_score": 155,
           "sample_titles": [
-            "中市殯葬服務再升級！AI客服全天候解惑 火化進度一機掌握",
-            "[HatePolitics] [舊聞]台中到花蓮 下月15日停飛 北花線恐跟進 北",
-            "台中市運動大會遇暴雨未停賽 議員怒：無視選手安全"
+            "全球唯一媽祖造型熱氣球來了！　台中石岡熱氣球嘉年華8/22登場「雙媽會」成亮點",
+            "藍營大咖同框！盧秀燕PO文喊缺一不可 臉書慘遭網狂酸：先管好台中",
+            "中市殯葬服務再升級！AI客服全天候解惑 火化進度一機掌握"
           ]
         },
         {
@@ -80880,11 +80880,11 @@
           "city": "台北",
           "place": "台北市內湖區",
           "level": "red",
-          "news_count": 164,
+          "news_count": 160,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 182,
+          "urgency_score": 178,
           "sample_titles": [
             "民進黨台北市長參選人沈伯洋今早6時到內湖碧湖公園掃街，在地議員及參選人們紛紛到場陪同。對於記者提問指根據震傳媒民調，台北",
             "北市動物園最後一隻「大灰袋鼠奶奶」離世 昔因貴妃臥爆紅",
