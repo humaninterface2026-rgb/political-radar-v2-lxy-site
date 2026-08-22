@@ -80908,7 +80908,7 @@
     },
     {
       "date": "2026-08-22",
-      "snapshot_at": "2026-08-22T01:36:49.043728+00:00",
+      "snapshot_at": "2026-08-22T01:38:07.426071+00:00",
       "hotspots": [
         {
           "title": "台北陳情/抗議",
@@ -80922,20 +80922,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "北市東區新建豪宅遭控屋況差 投訴人怒控\"狀況百出\""
-          ]
-        },
-        {
-          "title": "高雄詐騙案",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "中秋月餅預購潮升溫 高市刑大揭3大詐騙手法"
           ]
         },
         {
@@ -80964,6 +80950,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "防詐融入生活美學！嘉市警攜手樂檸漢堡開課 長輩秒懂「詐騙抗體」"
+          ]
+        },
+        {
+          "title": "高雄詐騙案",
+          "city": "高雄",
+          "place": "高雄市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "中秋月餅預購潮升溫 高市刑大揭3大詐騙手法"
           ]
         },
         {
@@ -81207,9 +81207,9 @@
           ]
         },
         {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
+          "title": "宜蘭弊案爭議",
+          "city": "宜蘭",
+          "place": "宜蘭縣政府",
           "level": "red",
           "news_count": 2,
           "comment_count": 0,
@@ -81217,8 +81217,8 @@
           "is_urgent": true,
           "urgency_score": 8,
           "sample_titles": [
-            "惡搞朋友冒名訂位44間餐廳 台中男遭判刑3月罰1萬",
-            "逃票被發現 竟將站務員推落月台！台中男殺人未遂罪判刑"
+            "宜蘭22歲新手爸虐死剛出生親兒 法官批狠心判刑8年",
+            "宜蘭22歲新手爸虐死剛出生親兒 法官批狠心判刑8年 - 社會新聞 - PChome Online 新聞"
           ]
         },
         {
@@ -81237,9 +81237,9 @@
           ]
         },
         {
-          "title": "宜蘭弊案爭議",
-          "city": "宜蘭",
-          "place": "宜蘭縣政府",
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
           "level": "red",
           "news_count": 2,
           "comment_count": 0,
@@ -81247,8 +81247,8 @@
           "is_urgent": true,
           "urgency_score": 8,
           "sample_titles": [
-            "宜蘭22歲新手爸虐死剛出生親兒 法官批狠心判刑8年",
-            "宜蘭22歲新手爸虐死剛出生親兒 法官批狠心判刑8年 - 社會新聞 - PChome Online 新聞"
+            "惡搞朋友冒名訂位44間餐廳 台中男遭判刑3月罰1萬",
+            "逃票被發現 竟將站務員推落月台！台中男殺人未遂罪判刑"
           ]
         },
         {
@@ -81396,22 +81396,6 @@
           ]
         },
         {
-          "title": "彰化地方動態",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "red",
-          "news_count": 65,
-          "comment_count": 0,
-          "negativity_pct": 11,
-          "is_urgent": false,
-          "urgency_score": 86,
-          "sample_titles": [
-            "涉A特支費吃大餐！北市官員林裕益30萬交保籌不出 蔣萬安怒拔官",
-            "涉A特支費吃大餐！北市官員林裕益30萬交保籌不出 蔣萬安怒拔官",
-            "水五金聚落案 王惠美感謝賴總統翻轉彰化"
-          ]
-        },
-        {
           "title": "屏東地方動態",
           "city": "屏東",
           "place": "屏東縣政府",
@@ -81425,6 +81409,22 @@
             "西南風偏強與低壓帶影響 台南高雄屏東防豪雨",
             "打造屏東健康活力城市 梁育慈：每年四千萬推動兒少運動卡",
             "雨彈升級 台南高雄屏東豪雨特報 3縣市山區大雨"
+          ]
+        },
+        {
+          "title": "彰化地方動態",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "red",
+          "news_count": 65,
+          "comment_count": 0,
+          "negativity_pct": 11,
+          "is_urgent": false,
+          "urgency_score": 86,
+          "sample_titles": [
+            "涉A特支費吃大餐！北市官員林裕益30萬交保籌不出 蔣萬安怒拔官",
+            "涉A特支費吃大餐！北市官員林裕益30萬交保籌不出 蔣萬安怒拔官",
+            "水五金聚落案 王惠美感謝賴總統翻轉彰化"
           ]
         },
         {
@@ -81544,11 +81544,11 @@
           "city": "台中",
           "place": "台中市沙鹿區",
           "level": "red",
-          "news_count": 201,
+          "news_count": 200,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 264,
+          "urgency_score": 263,
           "sample_titles": [
             "2026年度中市新社區優質香菇評鑑揭曉 台灣第一菇「香菇乖乖」展現魅力行銷",
             "爭奪世界賽代表權！挑戰最高殿堂世界賽為國爭光 2026 WRO國際奧林匹亞機器人全國總決賽台中登場",
