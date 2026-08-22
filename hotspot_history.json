@@ -80908,7 +80908,7 @@
     },
     {
       "date": "2026-08-22",
-      "snapshot_at": "2026-08-22T10:29:48.593148+00:00",
+      "snapshot_at": "2026-08-22T10:31:19.943214+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -80935,20 +80935,6 @@
           "sample_titles": []
         },
         {
-          "title": "台中陳情/抗議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "副市長鄭照新：台中市府絕無包庇空間 抗議誣指"
-          ]
-        },
-        {
           "title": "台北陳情/抗議",
           "city": "台北",
           "place": "台北市政府",
@@ -80960,6 +80946,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "北市東區新建豪宅遭控屋況差 投訴人怒控\"狀況百出\""
+          ]
+        },
+        {
+          "title": "台中陳情/抗議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "副市長鄭照新：台中市府絕無包庇空間 抗議誣指"
           ]
         },
         {
@@ -81245,22 +81245,6 @@
           ]
         },
         {
-          "title": "基隆弊案爭議",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "red",
-          "news_count": 3,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 12,
-          "sample_titles": [
-            "基隆爆醫療廢棄物非法轉運！檢警環起訴8人 最重可罰7年有期徒刑 | 生活焦點 | 要聞",
-            "基隆醫療廢棄物非法轉運 檢警環起訴8人",
-            "基隆市立醫院2員工圖利廢棄物清除廠商 8人及3公司起訴"
-          ]
-        },
-        {
           "title": "台北弊案爭議",
           "city": "台北",
           "place": "台北市政府",
@@ -81274,6 +81258,22 @@
             "總統大選爆料未查證 新黨北市議員侯漢廷起訴",
             "蔣萬安令免職！翡翠水庫管理局長林裕益遭檢廉搜索約談列貪污被告",
             "蔣萬安令免職！翡翠水庫管理局長林裕益遭檢廉搜索約談列貪污被告"
+          ]
+        },
+        {
+          "title": "基隆弊案爭議",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "red",
+          "news_count": 3,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 12,
+          "sample_titles": [
+            "基隆爆醫療廢棄物非法轉運！檢警環起訴8人 最重可罰7年有期徒刑 | 生活焦點 | 要聞",
+            "基隆醫療廢棄物非法轉運 檢警環起訴8人",
+            "基隆市立醫院2員工圖利廢棄物清除廠商 8人及3公司起訴"
           ]
         },
         {
@@ -81341,6 +81341,22 @@
           ]
         },
         {
+          "title": "新竹縣地方動態",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "red",
+          "news_count": 31,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 31,
+          "sample_titles": [
+            "新竹縣國中生遭籃球框架壓傷不治家屬擬提國賠| 社會",
+            "竹東自強國中生遭籃球架壓死 家長要對新竹縣府提國賠 | 民視新聞網",
+            "新竹縣國中生遭籃球框架壓傷不治 家屬擬提國賠"
+          ]
+        },
+        {
           "title": "基隆地方動態",
           "city": "基隆",
           "place": "基隆市政府",
@@ -81354,22 +81370,6 @@
             "基隆土石流防災演練 逾300人強化應變準備",
             "基隆餐飲衛生管理分級評核出爐 110家業者獲「優」、「良」級認證",
             "基隆港務普度 連9年捐物資助弱"
-          ]
-        },
-        {
-          "title": "新竹縣地方動態",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "red",
-          "news_count": 33,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 33,
-          "sample_titles": [
-            "新竹縣國中生遭籃球框架壓傷不治家屬擬提國賠| 社會",
-            "竹東自強國中生遭籃球架壓死 家長要對新竹縣府提國賠 | 民視新聞網",
-            "新竹縣國中生遭籃球框架壓傷不治 家屬擬提國賠"
           ]
         },
         {
@@ -81473,11 +81473,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 111,
+          "news_count": 110,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 117,
+          "urgency_score": 116,
           "sample_titles": [
             "「烈焰突竄吞噬男員工」桃園中正路驚傳氣爆 急送敏盛醫院搶救",
             "桃園",
@@ -81505,11 +81505,11 @@
           "city": "台中",
           "place": "台中市南屯區",
           "level": "red",
-          "news_count": 171,
+          "news_count": 169,
           "comment_count": 0,
-          "negativity_pct": 8,
+          "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 210,
+          "urgency_score": 205,
           "sample_titles": [
             "感謝守護鄰里 中市府表揚城區333位里鄰長及民政人員",
             "盧秀燕邀逛「台中領鮮館」挺農民拚農業經濟 展期自即日起至8/30",
