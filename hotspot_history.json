@@ -81568,7 +81568,7 @@
     },
     {
       "date": "2026-08-23",
-      "snapshot_at": "2026-08-23T01:31:10.388217+00:00",
+      "snapshot_at": "2026-08-23T01:33:44.196248+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -81622,20 +81622,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "高雄車禍調解怎麼申請？流程與注意事項"
-          ]
-        },
-        {
-          "title": "彰化詐騙案",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "兒遭詐又籌錢！彰化翁欲提領百萬「幫還債」 警銀識破「2次詐騙」保住本"
           ]
         },
         {
@@ -81900,15 +81886,15 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
-          "news_count": 64,
+          "news_count": 65,
           "comment_count": 3,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 71,
+          "urgency_score": 72,
           "sample_titles": [
             "【短評】盧秀燕與蔣萬安、韓國瑜「結盟」了沒？論盧的2028焦慮",
-            "盧秀燕贈許淑華盆栽 挨批農產展售變造勢大會",
-            "盧秀燕空中祈福 喊更上一層樓"
+            "【短評】盧秀燕與蔣萬安、韓國瑜「結盟」了沒？論盧的2028焦慮",
+            "盧秀燕贈許淑華盆栽 挨批農產展售變造勢大會"
           ]
         },
         {
@@ -81990,22 +81976,6 @@
           ]
         },
         {
-          "title": "新竹縣地方動態",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "red",
-          "news_count": 29,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 29,
-          "sample_titles": [
-            "台北追不上！新竹縣市家庭所得破200萬元傲視全台",
-            "談年底選舉白營北市與竹北困境 謝立功：不能只靠過去高票樂觀看待",
-            "新竹縣長選戰最新民調 徐欣瑩支持度41.4%超車鄭朝方 - 生活新聞 - PChome Online 新聞"
-          ]
-        },
-        {
           "title": "南投地方動態",
           "city": "南投",
           "place": "南投縣政府",
@@ -82019,6 +81989,22 @@
             "中台灣農業展售會南投登場 盧秀燕邀逛「台中領鮮館」",
             "中台灣農業展售會南投登場 盧秀燕邀逛「台中領鮮館」",
             "中台灣農業展售會南投登場 盧秀燕邀逛「台中領鮮館」 - 政府消息新聞 - PChome Online 新聞"
+          ]
+        },
+        {
+          "title": "新竹縣地方動態",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "red",
+          "news_count": 29,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 29,
+          "sample_titles": [
+            "台北追不上！新竹縣市家庭所得破200萬元傲視全台",
+            "談年底選舉白營北市與竹北困境 謝立功：不能只靠過去高票樂觀看待",
+            "新竹縣長選戰最新民調 徐欣瑩支持度41.4%超車鄭朝方 - 生活新聞 - PChome Online 新聞"
           ]
         },
         {
@@ -82042,11 +82028,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "red",
-          "news_count": 36,
+          "news_count": 35,
           "comment_count": 0,
-          "negativity_pct": 8,
+          "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 45,
+          "urgency_score": 41,
           "sample_titles": [
             "蛤仔養不活誰來救我們！20支風機包圍【#民間特偵組266-2】#shorts #民間特偵組 #20支風機包圍蛤池 #彰化",
             "彰化 和美焚化廠拚轉型 員工待安置",
@@ -82106,11 +82092,11 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 151,
+          "news_count": 150,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 181,
+          "urgency_score": 180,
           "sample_titles": [
             "北市744萬遮陽傘要到冬天才完工 簡舒培：李四川爛攤子蔣萬安也收不了",
             "北市保大續嚴打毒駕與新興毒品 提醒青少年遠離新興毒品陷阱",
@@ -82138,11 +82124,11 @@
           "city": "台中",
           "place": "台中市沙鹿區",
           "level": "red",
-          "news_count": 195,
+          "news_count": 191,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 222,
+          "urgency_score": 218,
           "sample_titles": [
             "八連霸長青樹到全齡照護各展服務力 中市感謝守護鄰里成為幸福城市力量",
             "[Gossiping] [新聞]台中砸15億建國際足球園區!大雨現形 人工",
