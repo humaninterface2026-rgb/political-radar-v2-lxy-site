@@ -82143,7 +82143,7 @@
     },
     {
       "date": "2026-08-24",
-      "snapshot_at": "2026-08-24T13:47:27.530270+00:00",
+      "snapshot_at": "2026-08-24T13:55:31.238417+00:00",
       "hotspots": [
         {
           "title": "台中墜樓事件",
@@ -82259,6 +82259,22 @@
           "sample_titles": []
         },
         {
+          "title": "南投地方動態",
+          "city": "南投",
+          "place": "南投縣政府",
+          "level": "green",
+          "news_count": 9,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 9,
+          "sample_titles": [
+            "賣自製蟑螂螞蟻藥最高罰30萬 南投環保局裁處2件",
+            "毒品快篩不是終點！南投縣衛生局接力戒癮支持",
+            "颱風沙德爾逼近 民進黨宣布南投行動中常會延期"
+          ]
+        },
+        {
           "title": "基隆地方動態",
           "city": "基隆",
           "place": "基隆市政府",
@@ -82288,22 +82304,6 @@
             "新竹縣府攜手九歌兒童劇團打造《擁抱》故事劇場 溫馨互動傳授正向育兒觀",
             "新竹縣府攜手九歌兒童劇團打造《擁抱》故事劇場 親子溫馨互動傳遞正向育兒觀",
             "新竹縣永續農業講座 產官學共議有機農業、食農教育與低碳飲食"
-          ]
-        },
-        {
-          "title": "南投地方動態",
-          "city": "南投",
-          "place": "南投縣政府",
-          "level": "green",
-          "news_count": 9,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 9,
-          "sample_titles": [
-            "賣自製蟑螂螞蟻藥最高罰30萬 南投環保局裁處2件",
-            "毒品快篩不是終點！南投縣衛生局接力戒癮支持",
-            "颱風沙德爾逼近 民進黨宣布南投行動中常會延期"
           ]
         },
         {
@@ -82337,20 +82337,6 @@
           ]
         },
         {
-          "title": "台中車禍事件",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "中市交通罰鍰年收30億 科技執法暴增2倍車禍卻僅降3%"
-          ]
-        },
-        {
           "title": "苗栗車禍事件",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -82365,9 +82351,9 @@
           ]
         },
         {
-          "title": "新北弊案爭議",
-          "city": "新北",
-          "place": "新北市政府",
+          "title": "台中車禍事件",
+          "city": "台中",
+          "place": "台中市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -82375,7 +82361,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "預警中心發功 新北檢起訴犯罪集團利用公司金融帳戶洗錢"
+            "中市交通罰鍰年收30億 科技執法暴增2倍車禍卻僅降3%"
           ]
         },
         {
@@ -82390,6 +82376,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "酒駕飆車撞死人 苗栗女判刑8年"
+          ]
+        },
+        {
+          "title": "新北弊案爭議",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "預警中心發功 新北檢起訴犯罪集團利用公司金融帳戶洗錢"
           ]
         },
         {
@@ -82491,11 +82491,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "yellow",
-          "news_count": 43,
+          "news_count": 42,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 43,
+          "urgency_score": 42,
           "sample_titles": [
             "衛福部「身心障礙者權益保障法」規定，政府機關學校、公營事業等義務採購單位，應該優先採購身心障礙機構團體或庇護工場商品，這",
             "宜蘭嚴選優質米競賽 24歲青農藍崧愷勇奪米王",
@@ -82583,21 +82583,6 @@
           ]
         },
         {
-          "title": "台南弊案爭議",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "台南大爆炸15傷案情突破 「里長涉勾結2業者」堆置危險物！3人收押",
-            "台南安南區火災大爆炸 當地里長等3嫌收押禁見"
-          ]
-        },
-        {
           "title": "台北弊案爭議",
           "city": "台北",
           "place": "台北市政府",
@@ -82610,6 +82595,21 @@
           "sample_titles": [
             "翡管局長涉貪被拔官！許淑華爆還有其他弊案 蔣萬安：偵查不公開",
             "翡管局長涉貪被拔官！許淑華爆還有其他弊案蔣萬安：偵查不公開| 政治"
+          ]
+        },
+        {
+          "title": "台南弊案爭議",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "台南大爆炸15傷案情突破 「里長涉勾結2業者」堆置危險物！3人收押",
+            "台南安南區火災大爆炸 當地里長等3嫌收押禁見"
           ]
         },
         {
@@ -82665,11 +82665,11 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "red",
-          "news_count": 39,
+          "news_count": 38,
           "comment_count": 0,
-          "negativity_pct": 10,
+          "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 51,
+          "urgency_score": 50,
           "sample_titles": [
             "涉貪+關說？藍委陳雪生捲金門運油案！于北辰提1問：怎不是找當地立委？",
             "下班傳LINE工作訊息！金門玻璃廠稱「不算加班」 女會計告贏獲賠",
@@ -82713,11 +82713,11 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 104,
+          "news_count": 103,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 119,
+          "urgency_score": 118,
           "sample_titles": [
             "沙德爾颱風最新動態！氣象署：週五最接近台灣 台中以北嚴防豪雨 | 天氣預報 | 生活",
             "賴清德「雙院台中」夢碎？ 卓揆踩剎車：總統沒這個夢",
@@ -82729,11 +82729,11 @@
           "city": "高雄",
           "place": "高雄市三民區",
           "level": "red",
-          "news_count": 159,
+          "news_count": 154,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 162,
+          "urgency_score": 157,
           "sample_titles": [
             "紓解商圈、購物與學區車潮！高虹安市長拍板啟動竹市「三民公園地下停車場」規劃設計",
             "大雨下不停！ 高雄​「典寶溪」溪水暴漲猛灌　梓官區民宅水淹大腿",

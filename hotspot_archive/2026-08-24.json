@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "snapshot_at": "2026-08-24T13:47:27.530270+00:00",
+  "snapshot_at": "2026-08-24T13:55:31.238417+00:00",
   "hotspots": [
     {
       "title": "台中墜樓事件",
@@ -401,6 +401,83 @@
       ]
     },
     {
+      "title": "南投地方動態",
+      "city": "南投",
+      "place": "南投縣政府",
+      "level": "green",
+      "news_count": 9,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 9,
+      "news_articles": [
+        {
+          "title": "賣自製蟑螂螞蟻藥最高罰30萬 南投環保局裁處2件",
+          "url": "https://www.cna.com.tw/news/aloc/202608240235.aspx",
+          "time": "2026-08-24 17:17:52",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "毒品快篩不是終點！南投縣衛生局接力戒癮支持",
+          "url": "https://more-news.tw/701882/",
+          "time": "2026-08-24 16:33:13",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "颱風沙德爾逼近 民進黨宣布南投行動中常會延期",
+          "url": "https://www.cna.com.tw/news/aipl/202608240200.aspx",
+          "time": "2026-08-24 16:26:37",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "林業及自然保育署南投分署落實職安教育訓練、營造安心職場!",
+          "url": "https://more-news.tw/701854/",
+          "time": "2026-08-24 16:13:27",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "青年有話說、政府聽得到！南投首場青年工作坊登場 年底前彙整建言納入政策治理",
+          "url": "https://www.thehubnews.net/archives/657741",
+          "time": "2026-08-24 15:52:02",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "翁曉玲砍預算衝擊多家庇護工場 許淑華促實際採購「台北各局允諾力挺」",
+          "url": "https://cnews.com.tw/262170824a05/",
+          "time": "2026-08-24 15:43:20",
+          "publisher": "匯流新聞網",
+          "severity": null
+        },
+        {
+          "title": "翁曉玲砍預算衝擊多家庇護工場　許淑華促實際採購「台北各局允諾力挺」",
+          "url": "https://n.yam.com/Article/20260824143026",
+          "time": "2026-08-24 12:00:00",
+          "publisher": "蕃新聞 search「周永鴻」(aggregator)",
+          "severity": null
+        },
+        {
+          "title": "南投首間藏壽司！「草屯中興路店」8/29盛大開幕 連續 14 天享9折優惠 滿額再送限量「KURA日式小結袋」",
+          "url": "https://n.yam.com/Article/20260824828709",
+          "time": "2026-08-24 12:00:00",
+          "publisher": "蕃新聞→威傳媒",
+          "severity": null
+        },
+        {
+          "title": "怕再也吃不到！南投52年「冬筍餅」工廠燒毀 日網友想募款 業者說話了",
+          "url": "https://www.chinatimes.com/realtimenews/20260824004058-260405",
+          "time": "2026-08-24 00:40:58",
+          "publisher": "中時新聞網",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "基隆地方動態",
       "city": "基隆",
       "place": "基隆市政府",
@@ -555,83 +632,6 @@
       "comments": []
     },
     {
-      "title": "南投地方動態",
-      "city": "南投",
-      "place": "南投縣政府",
-      "level": "green",
-      "news_count": 9,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 9,
-      "news_articles": [
-        {
-          "title": "賣自製蟑螂螞蟻藥最高罰30萬 南投環保局裁處2件",
-          "url": "https://www.cna.com.tw/news/aloc/202608240235.aspx",
-          "time": "2026-08-24 17:17:52",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "毒品快篩不是終點！南投縣衛生局接力戒癮支持",
-          "url": "https://more-news.tw/701882/",
-          "time": "2026-08-24 16:33:13",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "颱風沙德爾逼近 民進黨宣布南投行動中常會延期",
-          "url": "https://www.cna.com.tw/news/aipl/202608240200.aspx",
-          "time": "2026-08-24 16:26:37",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "林業及自然保育署南投分署落實職安教育訓練、營造安心職場!",
-          "url": "https://more-news.tw/701854/",
-          "time": "2026-08-24 16:13:27",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "青年有話說、政府聽得到！南投首場青年工作坊登場 年底前彙整建言納入政策治理",
-          "url": "https://www.thehubnews.net/archives/657741",
-          "time": "2026-08-24 15:52:02",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "翁曉玲砍預算衝擊多家庇護工場 許淑華促實際採購「台北各局允諾力挺」",
-          "url": "https://cnews.com.tw/262170824a05/",
-          "time": "2026-08-24 15:43:20",
-          "publisher": "匯流新聞網",
-          "severity": null
-        },
-        {
-          "title": "翁曉玲砍預算衝擊多家庇護工場　許淑華促實際採購「台北各局允諾力挺」",
-          "url": "https://n.yam.com/Article/20260824143026",
-          "time": "2026-08-24 12:00:00",
-          "publisher": "蕃新聞 search「周永鴻」(aggregator)",
-          "severity": null
-        },
-        {
-          "title": "南投首間藏壽司！「草屯中興路店」8/29盛大開幕 連續 14 天享9折優惠 滿額再送限量「KURA日式小結袋」",
-          "url": "https://n.yam.com/Article/20260824828709",
-          "time": "2026-08-24 12:00:00",
-          "publisher": "蕃新聞→威傳媒",
-          "severity": null
-        },
-        {
-          "title": "怕再也吃不到！南投52年「冬筍餅」工廠燒毀 日網友想募款 業者說話了",
-          "url": "https://www.chinatimes.com/realtimenews/20260824004058-260405",
-          "time": "2026-08-24 00:40:58",
-          "publisher": "中時新聞網",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台東地方動態",
       "city": "台東",
       "place": "台東縣政府",
@@ -758,27 +758,6 @@
       "comments": []
     },
     {
-      "title": "台中車禍事件",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "中市交通罰鍰年收30億 科技執法暴增2倍車禍卻僅降3%",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XcG9OY2tnUUVEcElER0xRb0ctOTY1a0ljNktPTkZUbEEtNmlCWmxmbVFzU2c0NHJqTzNITjhjV2F5S05GQ2E3eVcwN1XSAVJBVV95cUxNTTFXd1pxQmNrRkVyRlBTREI3UXV2M25xSWZsOF9HYUNWM3M2UjlrYThGdmlPcVlYZzNxVmtNT2Q1SWk0amNuZkp4d2duTEdwX2lR?oc=5",
-          "time": "2026-08-24 11:49:15",
-          "publisher": "Google News→NOWnews今日新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "苗栗車禍事件",
       "city": "苗栗",
       "place": "苗栗縣政府",
@@ -800,9 +779,9 @@
       "comments": []
     },
     {
-      "title": "新北弊案爭議",
-      "city": "新北",
-      "place": "新北市政府",
+      "title": "台中車禍事件",
+      "city": "台中",
+      "place": "台中市政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -811,10 +790,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "預警中心發功 新北檢起訴犯罪集團利用公司金融帳戶洗錢",
-          "url": "https://cnews.com.tw/224260824a06/",
-          "time": "2026-08-24 18:51:30",
-          "publisher": "匯流新聞網",
+          "title": "中市交通罰鍰年收30億 科技執法暴增2倍車禍卻僅降3%",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XcG9OY2tnUUVEcElER0xRb0ctOTY1a0ljNktPTkZUbEEtNmlCWmxmbVFzU2c0NHJqTzNITjhjV2F5S05GQ2E3eVcwN1XSAVJBVV95cUxNTTFXd1pxQmNrRkVyRlBTREI3UXV2M25xSWZsOF9HYUNWM3M2UjlrYThGdmlPcVlYZzNxVmtNT2Q1SWk0amNuZkp4d2duTEdwX2lR?oc=5",
+          "time": "2026-08-24 11:49:15",
+          "publisher": "Google News→NOWnews今日新聞",
           "severity": "red"
         }
       ],
@@ -836,6 +815,27 @@
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OaDJaSko1cWxuOERUT1dPUmMtVDIxQ2JJYlk5bVExNW9JS2l4ZlV2NlJXN0lUdHRsR29NTjJYMDZ4OGpOdUpYem84Y0pGVnBTNEFDajlnWkxndjR2dEdIVHF2TDlsYWFy?oc=5",
           "time": "2026-08-24 10:38:53",
           "publisher": "自由時報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新北弊案爭議",
+      "city": "新北",
+      "place": "新北市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "預警中心發功 新北檢起訴犯罪集團利用公司金融帳戶洗錢",
+          "url": "https://cnews.com.tw/224260824a06/",
+          "time": "2026-08-24 18:51:30",
+          "publisher": "匯流新聞網",
           "severity": "red"
         }
       ],
@@ -2022,11 +2022,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "yellow",
-      "news_count": 43,
+      "news_count": 42,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 43,
+      "urgency_score": 42,
       "news_articles": [
         {
           "title": "衛福部「身心障礙者權益保障法」規定，政府機關學校、公營事業等義務採購單位，應該優先採購身心障礙機構團體或庇護工場商品，這筆採購經費大約10億元，但幾乎每年都買不到這些額度，甚至流失7億元。宜蘭縣長參選人吳宗憲立委今天提出保障弱勢團體三建議，強調依法採購、常態預算採購，因應AI紅利也能擴大採買。",
@@ -2320,13 +2320,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GNkh5TTJoang1R1QyMUFMdVFDcUZfZjRzQUw0Z0w0TUFEVzNZNjNjbS1lU1hUaHFTZW9FYW1LcHhRYjR4eVRQQjZSS1FXVzJqQ2gzWjdn?oc=5",
           "time": "2026-08-23 22:08:51",
           "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "宜蘭街頭見蘇卡達象龜！民眾抱進派出所 員警幫洗澡哭笑不得",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMX2dkdGJnYXR5S2xUdWhPLWpkTXVlbWZndVJmVVZ3MHBHZzlJRThzTmF4aG9rTm5yV2JQT3lTNzdaNHVnUlpQT1NIYnNPWmc?oc=5",
-          "time": "2026-08-23 21:54:00",
-          "publisher": "TVBS",
           "severity": null
         }
       ],
@@ -5738,34 +5731,6 @@
       "comments": []
     },
     {
-      "title": "台南弊案爭議",
-      "city": "台南",
-      "place": "台南市政府",
-      "level": "red",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "台南大爆炸15傷案情突破 「里長涉勾結2業者」堆置危險物！3人收押",
-          "url": "https://www.taisounds.com/news/content/96/284878",
-          "time": "2026-08-24 21:26:47",
-          "publisher": "太報",
-          "severity": "red"
-        },
-        {
-          "title": "台南安南區火災大爆炸 當地里長等3嫌收押禁見",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5550504",
-          "time": "2026-08-24 15:48:03",
-          "publisher": "自由時報",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台北弊案爭議",
       "city": "台北",
       "place": "台北市政府",
@@ -5788,6 +5753,34 @@
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVeEhXWXNsU0UtOWhBVzFVWUd2Q0d5Q01yYzg3dWNJUUF3V0RCc3pmR1d4ZVBLelBsSVNrc0JYNm9IcTJKMVE1Rg?oc=5",
           "time": "2026-08-24 16:09:00",
           "publisher": "三立新聞網",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台南弊案爭議",
+      "city": "台南",
+      "place": "台南市政府",
+      "level": "red",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "台南大爆炸15傷案情突破 「里長涉勾結2業者」堆置危險物！3人收押",
+          "url": "https://www.taisounds.com/news/content/96/284878",
+          "time": "2026-08-24 21:26:47",
+          "publisher": "太報",
+          "severity": "red"
+        },
+        {
+          "title": "台南安南區火災大爆炸 當地里長等3嫌收押禁見",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5550504",
+          "time": "2026-08-24 15:48:03",
+          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -6029,11 +6022,11 @@
       "city": "金門",
       "place": "金門縣政府",
       "level": "red",
-      "news_count": 39,
+      "news_count": 38,
       "comment_count": 0,
-      "negativity_pct": 10,
+      "negativity_pct": 11,
       "is_urgent": false,
-      "urgency_score": 51,
+      "urgency_score": 50,
       "news_articles": [
         {
           "title": "涉貪+關說？藍委陳雪生捲金門運油案！于北辰提1問：怎不是找當地立委？",
@@ -6300,13 +6293,6 @@
           "time": "2026-08-23 22:33:45",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "賴清德金門前線喊話「和平靠力量」 國際重要大事一次看",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1adGtMSThTT25sNXJ1N3NGOHlTUS1wQVRDOURHSVowQ2tOV3d6QUZucFR1cGgzckdUMkRLaGdYd3c4QXc0QkJuMkNUTHlwVG94OHZ0ZWxvRFREcjB3MjdDVw?oc=5",
-          "time": "2026-08-23 21:51:39",
-          "publisher": "Google News→民視新聞網",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -7303,11 +7289,11 @@
       "city": "台中",
       "place": "台中市北屯區",
       "level": "red",
-      "news_count": 104,
+      "news_count": 103,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 119,
+      "urgency_score": 118,
       "news_articles": [
         {
           "title": "沙德爾颱風最新動態！氣象署：週五最接近台灣 台中以北嚴防豪雨 | 天氣預報 | 生活",
@@ -8029,13 +8015,6 @@
           "time": "2026-08-23 22:04:00",
           "publisher": "東森新聞",
           "severity": null
-        },
-        {
-          "title": "祖孫攜手樂運動 台中市衛生局邀您歡慶祖父母節 共創健康樂齡生活",
-          "url": "https://tw.news.yahoo.com/%E7%A5%96%E5%AD%AB%E6%94%9C%E6%89%8B%E6%A8%82%E9%81%8B%E5%8B%95-%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80%E9%82%80%E6%82%A8%E6%AD%A1%E6%85%B6%E7%A5%96%E7%88%B6%E6%AF%8D%E7%AF%80-%E5%85%B1%E5%89%B5%E5%81%A5%E5%BA%B7%E6%A8%82%E9%BD%A1%E7%94%9F%E6%B4%BB-134715084.html",
-          "time": "2026-08-23 21:47:15",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -8045,11 +8024,11 @@
       "city": "高雄",
       "place": "高雄市三民區",
       "level": "red",
-      "news_count": 159,
+      "news_count": 154,
       "comment_count": 0,
       "negativity_pct": 1,
       "is_urgent": false,
-      "urgency_score": 162,
+      "urgency_score": 157,
       "news_articles": [
         {
           "title": "紓解商圈、購物與學區車潮！高虹安市長拍板啟動竹市「三民公園地下停車場」規劃設計",
@@ -9127,41 +9106,6 @@
           "url": "https://more-news.tw/701324/",
           "time": "2026-08-23 22:03:09",
           "publisher": "墨新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "高雄明(24)日停班停課 陳其邁議會施政報告調整取消",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yRVRaOFQ1VUtyd2xKR1BpWS1Cbm9hcTNnb3NhbFN1Unh0R19wOUpfOTFQMVk5NVY4TWh6YlNDUk0yZTNaS3lrMUFFMlZqdw?oc=5",
-          "time": "2026-08-23 21:55:17",
-          "publisher": "Google News→記者爆料網",
-          "severity": null
-        },
-        {
-          "title": "稍早梓官、彌陀近24小時累積雨量已突破500毫米豪雨持續影響高雄24日全市停班課陳其邁：嚴防致災性強降雨",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWlBoT2wyWmRXT1R0U01zT3NCRzV1aXhvQUU5b2VDOFNWZFVTZEtjVkVNUE9zdmVCTzNUQ3ZJeFRGSHdnOHVYZ3NQOHZBRHAtQVBUWWt6NVM2YnVoWmhHMml1eHlPOVhQcDFObU45RjFncHgzekpEWkNCNDd5WlJDUlpXYlhaWnQ1UTVV?oc=5",
-          "time": "2026-08-23 21:54:02",
-          "publisher": "Google News→kcg.gov.tw",
-          "severity": "red"
-        },
-        {
-          "title": "高雄豪雨停班停課 各大醫院門診與急診服務一次看",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5549816",
-          "time": "2026-08-23 21:49:09",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "【高雄連2天停班課「下到紫發白」 陳其邁示警：幾天下近半年雨】 （圖／記者許宥孺翻攝）",
-          "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxOSHU4MXZBX2thR05KbzJtM2wwTjNpNXZYM3pxUzF3SUZ2SklvaFd3eDlqZ3Z6akpIOEowTThHcklHcGZmMHFrOEtQalc3QkdKM0dTQ1NodHRfUG5vVGlrSVhCQ3ZOUEw1RVFWc1M4QzBsWGZYM3B5VGxNbjlOVWpjbkgwTThCYkxWVHNTSWJMXzR2UXlkbmxDNnMxZW5WUkdkQWxxNnJwbktpM2tidkd1MUQ2cGlHeHdYOS1rak9VUjduRXJRLTFRMmozby1FZS1ERk82ZDhxcE9PMDMzUTJfclFjeWduZllBb3dBQ0tVYWhDTExndDZ4cTU3TElXbi1La1ZpS0ZGZ1MtbVZLODE0OHZ0dmFrOVRxcFdhU0QxVUJRNS12cUxpRjlUT0dRbDhiVkRhSmd2TFZ2U3NReDJXd3ZtbHgycmRwZTZRcVVvZ1VsOVRxbGpfcFFadFNzUVR5MHF6UE9CUDhYSFZRM05tVUg3VmVmSWg4aGhnSjVfeEZtaHpiZjdIU0hhYlAyWUpZVzhURTRHa05NbTNjOUdVR0MtSU56ZGNMbWJOMkVRYmM3d0pIU0lwc0RzT29zWXBFdFdIal8ydkJCcTFoWW1ZdmQ1MGRIWmxaWGdKVHN6WnhrOGxPbExPd0hDaw?oc=5",
-          "time": "2026-08-23 21:48:04",
-          "publisher": "Google News→facebook.com",
-          "severity": "yellow"
-        },
-        {
-          "title": "【高雄連2天停班課「下到紫發白」 陳其邁示警：幾天下近半年雨】 （圖／記者許宥孺翻攝）",
-          "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQNEFndmp2VGk3a1dvSTBkcElScDNOc1g1TC16STRhUnRHLWRDQUhkSHU3MVBJR3M3TzVCYlZaVk1FWl9oQWxmbUJibGpvMlF0U29Mbnd2ZnJpWWI1OGZwaVpTSndqdU9ma0JJS1BGdkM0Y0pkUDItRjB5eldmSjR6cHBMZ1dlbTZPU1NDd1NEdDRsTHVmVEVUdV9teGNqRDRpc1doWXlhdTh5X1kzdktOX1JTcUJYMkJGRjhPeXNtMDlndFRuWXZGcVl2S3NPekkwVWFzd2xaVE9KcVZlVDcxcUt4cFdlTVF4MS14aHEyMHY5bGd1MlprRld4dm9LTGlhbXU3M1FhTllrcGp4ajRDM013bnJVV2hXdUwzQzBQNzJObmhUUDQ5NV9xX3J5VnF6NDkxVmE2MlFxcm0wODZaRU9WYm9sLUplUmFmZ2RKOXhJaFFGSlRnM2s2Q3RGUmJtck5Ea25mWE9wd2h4UmlJX2NuNU9NdkFOS1IzWFhGbU1VZzllM1ZZUUVEMlFyam9FczhYRHNWaHBrajUtamJSWl8yQ2Z5cDlsNXlsOUU2NzhreGNyNEVCVlFzVHVBZUtVbGF1d1RqblRHRUU4YmVzVDlzQzRHVEhqTDctLVVzWVJ2azZoYl92TGxfd1g?oc=5",
-          "time": "2026-08-23 21:48:04",
-          "publisher": "Google News→facebook.com",
           "severity": "yellow"
         }
       ],
