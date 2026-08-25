@@ -82758,7 +82758,7 @@
     },
     {
       "date": "2026-08-25",
-      "snapshot_at": "2026-08-25T10:21:17.624126+00:00",
+      "snapshot_at": "2026-08-25T10:30:24.500494+00:00",
       "hotspots": [
         {
           "title": "藍營路線爭議",
@@ -82975,9 +82975,9 @@
           ]
         },
         {
-          "title": "新北弊案爭議",
-          "city": "新北",
-          "place": "新北市政府",
+          "title": "基隆弊案爭議",
+          "city": "基隆",
+          "place": "基隆市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -82985,7 +82985,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "預警中心發功 新北檢起訴犯罪集團利用公司金融帳戶洗錢"
+            "黃仁勳快閃台灣隔天 基隆地檢署起訴輝達台灣公司經理涉伺服器走私案"
           ]
         },
         {
@@ -83017,9 +83017,9 @@
           ]
         },
         {
-          "title": "基隆弊案爭議",
-          "city": "基隆",
-          "place": "基隆市政府",
+          "title": "新北弊案爭議",
+          "city": "新北",
+          "place": "新北市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -83027,7 +83027,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "黃仁勳快閃台灣隔天 基隆地檢署起訴輝達台灣公司經理涉伺服器走私案"
+            "預警中心發功 新北檢起訴犯罪集團利用公司金融帳戶洗錢"
           ]
         },
         {
@@ -83130,15 +83130,15 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
-          "news_count": 153,
+          "news_count": 157,
           "comment_count": 38,
           "negativity_pct": 3,
           "is_urgent": true,
-          "urgency_score": 252,
+          "urgency_score": 256,
           "sample_titles": [
+            "颱風沙德爾進逼 盧秀燕：「寧嚴勿鬆」全面防颱整備",
             "沙德爾颱風逼近 盧秀燕下令寧嚴勿鬆",
-            "盧秀燕連喊6次總統府「棄單」月餅 市府接單 他轟：賴清德不能、盧秀燕可用公帑？ | Newtalk",
-            "盧秀燕稱總統府棄單庇護工場月餅 蔡其昌怒了：摸著良心再說一次"
+            "盧秀燕連喊6次總統府「棄單」月餅 市府接單 他轟：賴清德不能、盧秀燕可用公帑？ | Newtalk"
           ]
         },
         {
@@ -83172,22 +83172,6 @@
           ]
         },
         {
-          "title": "雲林弊案爭議",
-          "city": "雲林",
-          "place": "雲林縣政府",
-          "level": "red",
-          "news_count": 3,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 12,
-          "sample_titles": [
-            "雲林麥寮鄉代會主席涉組暴力犯罪集團強索保護費 雲檢起訴求重刑20年",
-            "檢方痛斥「橫行鄉里視法治於無物」！ 雲林麥寮鄉代會主席韓青山涉數罪遭起訴求刑20年",
-            "雲林鄉代會主席暴力強索土方業者百萬「把風費」 逃稅近7000萬起訴求刑20年"
-          ]
-        },
-        {
           "title": "桃園弊案爭議",
           "city": "桃園",
           "place": "桃園市政府",
@@ -83201,6 +83185,22 @@
             "桃園惡保母虐死6月大男嬰 二審判刑8年半 - 社會新聞 - PChome Online 新聞",
             "桃園惡保母虐死6月大男嬰 二審判刑8年半",
             "媒體披露，位於新竹湖口的陸軍北部測考中心，遭人棄置10萬立方公尺廢棄物，陸軍司令部24日晚間發布新聞稿表示，全案目前由桃"
+          ]
+        },
+        {
+          "title": "雲林弊案爭議",
+          "city": "雲林",
+          "place": "雲林縣政府",
+          "level": "red",
+          "news_count": 3,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 12,
+          "sample_titles": [
+            "雲林麥寮鄉代會主席涉組暴力犯罪集團強索保護費 雲檢起訴求重刑20年",
+            "檢方痛斥「橫行鄉里視法治於無物」！ 雲林麥寮鄉代會主席韓青山涉數罪遭起訴求刑20年",
+            "雲林鄉代會主席暴力強索土方業者百萬「把風費」 逃稅近7000萬起訴求刑20年"
           ]
         },
         {
@@ -83352,11 +83352,11 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "red",
-          "news_count": 47,
+          "news_count": 46,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 56,
+          "urgency_score": 55,
           "sample_titles": [
             "沙德爾朝台灣北部海域逼近 金門啟動防颱整備嚴防風雨",
             "企業「等履歷」過時了！金門就業中心教戰AI徵才、留才全攻略",
@@ -83400,11 +83400,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 84,
+          "news_count": 82,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 102,
+          "urgency_score": 100,
           "sample_titles": [
             "花蓮豪雨災情頻傳！ 2人受困山壁岩洞、1山客遭洪水沖走失聯",
             "一筆助學金接住一個夢！花蓮弱勢學子逆風揮棒打進人生決賽",
@@ -83432,11 +83432,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 119,
+          "news_count": 118,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 152,
+          "urgency_score": 151,
           "sample_titles": [
             "周天成二訪台南少觀所 用金句與世錦賽銅牌鼓勵少年",
             "南市佳里官田區長及三戶政主任宣誓 黃偉哲期勉貼近民意",
@@ -83448,15 +83448,31 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 140,
+          "news_count": 137,
           "comment_count": 0,
-          "negativity_pct": 5,
+          "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 161,
+          "urgency_score": 155,
           "sample_titles": [
             "高雄買房兩樣情 鹽埕9成買中古、橋頭7成搶新屋",
             "民進黨籍桃園市蘆竹區市議員參選人胡家智日前攜手桃園五福獅子會、桃園市蘆竹區教育文化推廣協會、桃園市家長協會蘆竹分會、桃園",
             "和逸桃園館推尾牙春酒 雙專案搶攻歲末商機"
+          ]
+        },
+        {
+          "title": "屏東地方動態",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "red",
+          "news_count": 220,
+          "comment_count": 0,
+          "negativity_pct": 1,
+          "is_urgent": false,
+          "urgency_score": 226,
+          "sample_titles": [
+            "行政院長卓榮泰今天上午赴屏東視察農損及排水改善工程，結束公開行程後下午轉往台東，約下午1時40分抵達卑南鄉初鹿村，低調前",
+            "南台灣連日豪雨釀多處淹水，行政院長卓榮泰昨稱，因立院刪預算，這幾天只能用電話跟地方聯繫，引發批評。民進黨團立委鍾佳濱今天",
+            "屏東豪雨成災 佛教團體動員百名志工送暖"
           ]
         },
         {
@@ -83476,35 +83492,19 @@
           ]
         },
         {
-          "title": "屏東地方動態",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "red",
-          "news_count": 225,
-          "comment_count": 0,
-          "negativity_pct": 1,
-          "is_urgent": false,
-          "urgency_score": 231,
-          "sample_titles": [
-            "行政院長卓榮泰今天上午赴屏東視察農損及排水改善工程，結束公開行程後下午轉往台東，約下午1時40分抵達卑南鄉初鹿村，低調前",
-            "南台灣連日豪雨釀多處淹水，行政院長卓榮泰昨稱，因立院刪預算，這幾天只能用電話跟地方聯繫，引發批評。民進黨團立委鍾佳濱今天",
-            "屏東豪雨成災 佛教團體動員百名志工送暖"
-          ]
-        },
-        {
           "title": "台中地方動態",
           "city": "台中",
           "place": "台中市豐原區",
           "level": "red",
-          "news_count": 228,
+          "news_count": 229,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 270,
+          "urgency_score": 271,
           "sample_titles": [
+            "台中8學生獲總統教育獎 盧秀燕表揚肯定逆境求學",
             "盧秀燕控總統府「棄單」庇護工場並稱中市府買單 民進黨：盧真正消費弱勢",
-            "高雄雨災陳其邁求援！盧秀燕：能幫的一定幫",
-            "高雄有難台中來幫！陳其邁一通電話 盧秀燕火速調27台抽水機南下"
+            "盧秀燕控總統府「棄單」庇護工場並稱中市府買單 民進黨：盧真正消費弱勢"
           ]
         },
         {
@@ -83512,11 +83512,11 @@
           "city": "高雄",
           "place": "高雄市鼓山區",
           "level": "red",
-          "news_count": 266,
+          "news_count": 265,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 281,
+          "urgency_score": 280,
           "sample_titles": [
             "高雄雨災陳其邁求援！盧秀燕：能幫的一定幫",
             "高雄有難台中來幫！陳其邁一通電話 盧秀燕火速調27台抽水機南下",
