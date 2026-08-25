@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "snapshot_at": "2026-08-25T01:17:09.378342+00:00",
+  "snapshot_at": "2026-08-25T01:31:01.840804+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -255,6 +255,48 @@
       "comments": []
     },
     {
+      "title": "苗栗弊案爭議",
+      "city": "苗栗",
+      "place": "苗栗縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "酒駕飆車撞死人 苗栗女判刑8年",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OaDJaSko1cWxuOERUT1dPUmMtVDIxQ2JJYlk5bVExNW9JS2l4ZlV2NlJXN0lUdHRsR29NTjJYMDZ4OGpOdUpYem84Y0pGVnBTNEFDajlnWkxndjR2dEdIVHF2TDlsYWFy?oc=5",
+          "time": "2026-08-24 10:38:53",
+          "publisher": "自由時報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "桃園弊案爭議",
+      "city": "桃園",
+      "place": "桃園市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "媒體披露，位於新竹湖口的陸軍北部測考中心，遭人棄置10萬立方公尺廢棄物，陸軍司令部24日晚間發布新聞稿表示，全案目前由桃園地檢署偵結起訴，涉案廠商移送法辦，北測中心屬被害機關，未與廠商有共同犯罪嫌疑。",
+          "url": "https://udn.com/news/story/10930/9711600?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-08-24 22:50:23",
+          "publisher": "聯合新聞網",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "基隆弊案爭議",
       "city": "基隆",
       "place": "基隆市政府",
@@ -291,48 +333,6 @@
           "url": "https://cnews.com.tw/224260824a06/",
           "time": "2026-08-24 18:51:30",
           "publisher": "匯流新聞網",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "桃園弊案爭議",
-      "city": "桃園",
-      "place": "桃園市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "媒體披露，位於新竹湖口的陸軍北部測考中心，遭人棄置10萬立方公尺廢棄物，陸軍司令部24日晚間發布新聞稿表示，全案目前由桃園地檢署偵結起訴，涉案廠商移送法辦，北測中心屬被害機關，未與廠商有共同犯罪嫌疑。",
-          "url": "https://udn.com/news/story/10930/9711600?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-08-24 22:50:23",
-          "publisher": "聯合新聞網",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "苗栗弊案爭議",
-      "city": "苗栗",
-      "place": "苗栗縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "酒駕飆車撞死人 苗栗女判刑8年",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OaDJaSko1cWxuOERUT1dPUmMtVDIxQ2JJYlk5bVExNW9JS2l4ZlV2NlJXN0lUdHRsR29NTjJYMDZ4OGpOdUpYem84Y0pGVnBTNEFDajlnWkxndjR2dEdIVHF2TDlsYWFy?oc=5",
-          "time": "2026-08-24 10:38:53",
-          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -612,104 +612,6 @@
       "comments": []
     },
     {
-      "title": "新竹縣地方動態",
-      "city": "新竹縣",
-      "place": "新竹縣政府",
-      "level": "yellow",
-      "news_count": 12,
-      "comment_count": 0,
-      "negativity_pct": 17,
-      "is_urgent": false,
-      "urgency_score": 18,
-      "news_articles": [
-        {
-          "title": "鄭朝方提勞工支持制度打造竹縣清潔隊品牌- 新竹縣",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nUEhOVTdCckItTERTVFlLS1E1M1E3bTFxREw3LVRqWkVXd2FwUTBEelhVUTR6aFAwVl9ub2tmbXhscW9VN195RHgzSGxidWZmQWVfZUx6LVQ0SDEyUWVEM1ZNVXNfRkk?oc=5",
-          "time": "2026-08-25 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "媒體披露，位於新竹湖口的陸軍北部測考中心，遭人棄置10萬立方公尺廢棄物，陸軍司令部24日晚間發布新聞稿表示，全案目前由桃園地檢署偵結起訴，涉案廠商移送法辦，北測中心屬被害機關，未與廠商有共同犯罪嫌疑。",
-          "url": "https://udn.com/news/story/10930/9711600?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-08-24 22:50:23",
-          "publisher": "聯合新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "新竹縣府攜手九歌兒童劇團打造《擁抱》故事劇場 溫馨互動傳授正向育兒觀",
-          "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOUUxXT21uejM1Nml3bm1vVnNobjJUOUV3R3RDSk1NT2FGbHdCd3RFMGZRcWdvRnJYSjk5VXlUVEE0a1lQU2NlcG1JeGtOR3p2bkNjci1WdTRiMGtFaWdjelhEaFRWNGp6STdhVjc5aGFKb2lOdkVXX0tqd3U0dDg5NVpLYWlWVjRjRWVqZC01REZ6STU3ZGtiWkZtaHNHeEltS3dGN0p3NldiRW8xYXdYRm1wYmFhZTZGMzZoTFBNbEVHMlUtLWgtdVV2SUFJbk04QkI1QW1zTmh4RUdjcVVIb0lmMEFvTTNtLWZVUjA4ZllDbTBvOTdHblJnRk9URkt2amMwMThLNU1Cb1J5QU5zcWJoc2FXSC1hdEcwM3dCNGJvODc4WFBPUzNuS012dmpBc0duRnpYc0NKaWZVUUtWV2xMUndXd24xbTNxVUhLT2xaOWlpb2ptU3VLODhBdGVzei1OY0tYaHVYdUlzNUV2UlB0RGtJNktOQWRFQ0RUX20xaUNXbkZSbUdwZXNtS3RYOHZ5bFg5V2hMaGRnNHVmSmpzQ0RUTUlyeWxWUkZVX3N1WTZwVFdOa19iaG14T3c4bkc1UWVRbEFVamM?oc=5",
-          "time": "2026-08-24 18:51:39",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "新竹縣府攜手九歌兒童劇團打造《擁抱》故事劇場 親子溫馨互動傳遞正向育兒觀",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUTM1N0t3aFhwRmJQRmZrYk1JUnZqNG9GOExZTkcyVC1ET2pmTFJFcXJJazRFV1FINF8xT2FyMzAtNkw3dkpwbnp0RFlMT204THozOVdPZ1RyM01qcF9rMVgwY2oxQWlONjhJaXo1MXRqZTRZVU16VVlfNUNRU0llRGFlNDF5TWR3ekRR?oc=5",
-          "time": "2026-08-24 18:18:44",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "新竹縣永續農業講座 產官學共議有機農業、食農教育與低碳飲食",
-          "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPUzJlSkg1emJSLVJ6c2o3Ni1MS1NPOVc0MGhtS3lJcGxTd0RQRjlGZlpJNWp5dTdmUnlkaWhlWnFlVFh0S294b3RndGQ5TTQ5czY3NkxYTG0wUnVkWGJ0Q3JVaWFtckdRdXpKYzR4WlIzY1BUY1FCQlBPaHVfRm02VXpsajRZLTEtMTNVNVYzczlPeXhqZGkycHotNUlhYzRSZWdBTEh1Q01rRlBINlFOSk0zUlFRWEZnTjZSYWVBalU1Qy05Z2txVkdreV9HTGxOaHd3dDZ2OWo2eHFOdk9scG1vQTAwTEhLeUZTS3lxQW5oZUh2dVozTTZRUHJSM2wwSndwcXJtY2tadExsQWN2VkVzWXNWeFY2NTdmd0JfQTBHX0RWb1Y2UmxaOTB2NHBEUXJFazFsM2xEUTJ1c1lNeVRLbFN1cVRZdkxpZEtsdFlEdE9DTFBzNVNhNy11TlR4WVBQMUZfRXFGOXF2N0lCaGxhSmFDSWRJVkFPNFpwSzFZU3BXUUNXMTdCbjRDV3ozdU1iWTJhZU13QQ?oc=5",
-          "time": "2026-08-24 18:01:34",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "鄭朝方鐵票堅強！總工會活動獲熱烈歡迎 喊話力挺新竹縣勞工 | 民視新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uOE9JR1phUFkzRmNaT1dkbVNjZHI0dVF0UVBza2otSTFWcDhJR1pqNmtnTWJGSXhPUFBJbUliV3hnRkotc1FwSVdHUEFCQWxpcEptdmVR?oc=5",
-          "time": "2026-08-24 17:56:06",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "快新聞／鄭朝方鐵票堅強！總工會活動獲熱烈歡迎 喊話力挺新竹縣勞工",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XZVBJSExlNHRpbzFDTzZycHVDUlRHb3FtcEVsOFNuUFNIYzlGSThTYWhCQy1DOWIyb2xIcTFwNW5SUWRJOXFTVlZIdG5lejVtaHp1MGhDbkRoWUVQbFRiaA?oc=5",
-          "time": "2026-08-24 17:48:05",
-          "publisher": "Google News→民視新聞網",
-          "severity": null
-        },
-        {
-          "title": "鄭朝方提出勞工支持制度 打造新竹縣清潔隊品牌 | 自由電子報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4ySjJyLVBrdjFJYVF6ek9nLWpkbUdxN2FHc2RETzlFeG5EUzE2eHl3dHRkaUZuWDg3aW5OZlVBV0pBN3NQUnRrd0I3aFhHNVRBVmpBd01B?oc=5",
-          "time": "2026-08-24 15:44:04",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "鄭朝方提出勞工支持制度 打造新竹縣清潔隊品牌",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5550369",
-          "time": "2026-08-24 14:01:59",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "鄭朝方提出勞工支持制度打造新竹縣清潔隊品牌- 政治",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GSnFLTkRyS3ZYdFE2eHh2ZExrMDdiSzJGWlNzZ0xvZlpzZC1yemhOMFprME4yWkZtb25wXzMtUWM2dDh6LXBtVjZOc0ZnNEROVDZfdGFaTWVuWjlsaFlLVHBWdkhQVVQwaHc?oc=5",
-          "time": "2026-08-24 14:01:59",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "豪雨公安到金流爭議 竹北市民喊話鄭朝方：別只經營形象",
-          "url": "https://more-news.tw/701539/",
-          "time": "2026-08-24 12:03:54",
-          "publisher": "墨新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "融合泰雅智慧與AI技術新竹縣尖石國小勇奪IYRC最高榮譽- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SWGpyblpKODRmWTJVMFZCTUVUcFVoeFh6SGdTeUM5ajVHbW53VWhRMGVrQ3dSNVRZUTZxNC1XX2V5ekluWE5wNl94S0JHelVNaUdpaFBmMmhtUnE3bENhYmo2Rk8?oc=5",
-          "time": "2026-08-24 11:34:46",
-          "publisher": "自由時報",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台東地方動態",
       "city": "台東",
       "place": "台東縣政府",
@@ -802,6 +704,104 @@
           "url": "https://www.cna.com.tw/news/aipl/202608240080.aspx",
           "time": "2026-08-24 11:07:15",
           "publisher": "中央社",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新竹縣地方動態",
+      "city": "新竹縣",
+      "place": "新竹縣政府",
+      "level": "yellow",
+      "news_count": 12,
+      "comment_count": 0,
+      "negativity_pct": 17,
+      "is_urgent": false,
+      "urgency_score": 18,
+      "news_articles": [
+        {
+          "title": "鄭朝方提勞工支持制度打造竹縣清潔隊品牌- 新竹縣",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nUEhOVTdCckItTERTVFlLS1E1M1E3bTFxREw3LVRqWkVXd2FwUTBEelhVUTR6aFAwVl9ub2tmbXhscW9VN195RHgzSGxidWZmQWVfZUx6LVQ0SDEyUWVEM1ZNVXNfRkk?oc=5",
+          "time": "2026-08-25 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "媒體披露，位於新竹湖口的陸軍北部測考中心，遭人棄置10萬立方公尺廢棄物，陸軍司令部24日晚間發布新聞稿表示，全案目前由桃園地檢署偵結起訴，涉案廠商移送法辦，北測中心屬被害機關，未與廠商有共同犯罪嫌疑。",
+          "url": "https://udn.com/news/story/10930/9711600?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-08-24 22:50:23",
+          "publisher": "聯合新聞網",
+          "severity": "red"
+        },
+        {
+          "title": "新竹縣府攜手九歌兒童劇團打造《擁抱》故事劇場 溫馨互動傳授正向育兒觀",
+          "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOUUxXT21uejM1Nml3bm1vVnNobjJUOUV3R3RDSk1NT2FGbHdCd3RFMGZRcWdvRnJYSjk5VXlUVEE0a1lQU2NlcG1JeGtOR3p2bkNjci1WdTRiMGtFaWdjelhEaFRWNGp6STdhVjc5aGFKb2lOdkVXX0tqd3U0dDg5NVpLYWlWVjRjRWVqZC01REZ6STU3ZGtiWkZtaHNHeEltS3dGN0p3NldiRW8xYXdYRm1wYmFhZTZGMzZoTFBNbEVHMlUtLWgtdVV2SUFJbk04QkI1QW1zTmh4RUdjcVVIb0lmMEFvTTNtLWZVUjA4ZllDbTBvOTdHblJnRk9URkt2amMwMThLNU1Cb1J5QU5zcWJoc2FXSC1hdEcwM3dCNGJvODc4WFBPUzNuS012dmpBc0duRnpYc0NKaWZVUUtWV2xMUndXd24xbTNxVUhLT2xaOWlpb2ptU3VLODhBdGVzei1OY0tYaHVYdUlzNUV2UlB0RGtJNktOQWRFQ0RUX20xaUNXbkZSbUdwZXNtS3RYOHZ5bFg5V2hMaGRnNHVmSmpzQ0RUTUlyeWxWUkZVX3N1WTZwVFdOa19iaG14T3c4bkc1UWVRbEFVamM?oc=5",
+          "time": "2026-08-24 18:51:39",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "新竹縣府攜手九歌兒童劇團打造《擁抱》故事劇場 親子溫馨互動傳遞正向育兒觀",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUTM1N0t3aFhwRmJQRmZrYk1JUnZqNG9GOExZTkcyVC1ET2pmTFJFcXJJazRFV1FINF8xT2FyMzAtNkw3dkpwbnp0RFlMT204THozOVdPZ1RyM01qcF9rMVgwY2oxQWlONjhJaXo1MXRqZTRZVU16VVlfNUNRU0llRGFlNDF5TWR3ekRR?oc=5",
+          "time": "2026-08-24 18:18:44",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "新竹縣永續農業講座 產官學共議有機農業、食農教育與低碳飲食",
+          "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPUzJlSkg1emJSLVJ6c2o3Ni1MS1NPOVc0MGhtS3lJcGxTd0RQRjlGZlpJNWp5dTdmUnlkaWhlWnFlVFh0S294b3RndGQ5TTQ5czY3NkxYTG0wUnVkWGJ0Q3JVaWFtckdRdXpKYzR4WlIzY1BUY1FCQlBPaHVfRm02VXpsajRZLTEtMTNVNVYzczlPeXhqZGkycHotNUlhYzRSZWdBTEh1Q01rRlBINlFOSk0zUlFRWEZnTjZSYWVBalU1Qy05Z2txVkdreV9HTGxOaHd3dDZ2OWo2eHFOdk9scG1vQTAwTEhLeUZTS3lxQW5oZUh2dVozTTZRUHJSM2wwSndwcXJtY2tadExsQWN2VkVzWXNWeFY2NTdmd0JfQTBHX0RWb1Y2UmxaOTB2NHBEUXJFazFsM2xEUTJ1c1lNeVRLbFN1cVRZdkxpZEtsdFlEdE9DTFBzNVNhNy11TlR4WVBQMUZfRXFGOXF2N0lCaGxhSmFDSWRJVkFPNFpwSzFZU3BXUUNXMTdCbjRDV3ozdU1iWTJhZU13QQ?oc=5",
+          "time": "2026-08-24 18:01:34",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "鄭朝方鐵票堅強！總工會活動獲熱烈歡迎 喊話力挺新竹縣勞工 | 民視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uOE9JR1phUFkzRmNaT1dkbVNjZHI0dVF0UVBza2otSTFWcDhJR1pqNmtnTWJGSXhPUFBJbUliV3hnRkotc1FwSVdHUEFCQWxpcEptdmVR?oc=5",
+          "time": "2026-08-24 17:56:06",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "快新聞／鄭朝方鐵票堅強！總工會活動獲熱烈歡迎 喊話力挺新竹縣勞工",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XZVBJSExlNHRpbzFDTzZycHVDUlRHb3FtcEVsOFNuUFNIYzlGSThTYWhCQy1DOWIyb2xIcTFwNW5SUWRJOXFTVlZIdG5lejVtaHp1MGhDbkRoWUVQbFRiaA?oc=5",
+          "time": "2026-08-24 17:48:05",
+          "publisher": "Google News→民視新聞網",
+          "severity": null
+        },
+        {
+          "title": "鄭朝方提出勞工支持制度 打造新竹縣清潔隊品牌 | 自由電子報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4ySjJyLVBrdjFJYVF6ek9nLWpkbUdxN2FHc2RETzlFeG5EUzE2eHl3dHRkaUZuWDg3aW5OZlVBV0pBN3NQUnRrd0I3aFhHNVRBVmpBd01B?oc=5",
+          "time": "2026-08-24 15:44:04",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "鄭朝方提出勞工支持制度 打造新竹縣清潔隊品牌",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5550369",
+          "time": "2026-08-24 14:01:59",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "鄭朝方提出勞工支持制度打造新竹縣清潔隊品牌- 政治",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GSnFLTkRyS3ZYdFE2eHh2ZExrMDdiSzJGWlNzZ0xvZlpzZC1yemhOMFprME4yWkZtb25wXzMtUWM2dDh6LXBtVjZOc0ZnNEROVDZfdGFaTWVuWjlsaFlLVHBWdkhQVVQwaHc?oc=5",
+          "time": "2026-08-24 14:01:59",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "豪雨公安到金流爭議 竹北市民喊話鄭朝方：別只經營形象",
+          "url": "https://more-news.tw/701539/",
+          "time": "2026-08-24 12:03:54",
+          "publisher": "墨新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "融合泰雅智慧與AI技術新竹縣尖石國小勇奪IYRC最高榮譽- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SWGpyblpKODRmWTJVMFZCTUVUcFVoeFh6SGdTeUM5ajVHbW53VWhRMGVrQ3dSNVRZUTZxNC1XX2V5ekluWE5wNl94S0JHelVNaUdpaFBmMmhtUnE3bENhYmo2Rk8?oc=5",
+          "time": "2026-08-24 11:34:46",
+          "publisher": "自由時報",
           "severity": null
         }
       ],
@@ -8203,11 +8203,11 @@
       "city": "台中",
       "place": "台中市北屯區",
       "level": "red",
-      "news_count": 165,
+      "news_count": 164,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 180,
+      "urgency_score": 179,
       "news_articles": [
         {
           "title": "同一把尺照不到所有市長？從高雄氣爆到台中市府風波，盧秀燕為何成了綠媒最醒目的靶心",
@@ -9356,13 +9356,6 @@
           "time": "2026-08-24 10:01:24",
           "publisher": null,
           "severity": null
-        },
-        {
-          "title": "賴清德拋夢想「立法院、行政院遷址台中」 韓國瑜8字回應了",
-          "url": "https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8B%8B%E5%A4%A2%E6%83%B3-%E7%AB%8B%E6%B3%95%E9%99%A2-%E8%A1%8C%E6%94%BF%E9%99%A2%E9%81%B7%E5%9D%80%E5%8F%B0%E4%B8%AD-%E9%9F%93%E5%9C%8B%E7%91%9C8%E5%AD%97%E5%9B%9E%E6%87%89%E4%BA%86-011800714.html",
-          "time": "2026-08-24 09:18:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
