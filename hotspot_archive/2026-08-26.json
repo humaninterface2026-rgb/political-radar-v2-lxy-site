@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "snapshot_at": "2026-08-26T01:32:21.067196+00:00",
+  "snapshot_at": "2026-08-26T01:35:20.795022+00:00",
   "hotspots": [
     {
       "title": "花蓮車禍事件",
@@ -650,9 +650,9 @@
       "comments": []
     },
     {
-      "title": "彰化弊案爭議",
-      "city": "彰化",
-      "place": "彰化縣政府",
+      "title": "台南弊案爭議",
+      "city": "台南",
+      "place": "台南市政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -661,9 +661,51 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "「我出錢你操盤」獲利對半分？彰化男心動照做、代操虛擬幣成詐騙共犯被起訴",
-          "url": "https://tw.news.yahoo.com/%E6%88%91%E5%87%BA%E9%8C%A2%E4%BD%A0%E6%93%8D%E7%9B%A4-%E7%8D%B2%E5%88%A9%E5%B0%8D%E5%8D%8A%E5%88%86-%E5%BD%B0%E5%8C%96%E7%94%B7%E5%BF%83%E5%8B%95%E7%85%A7%E5%81%9A-%E4%BB%A3%E6%93%8D%E8%99%9B%E6%93%AC%E5%B9%A3%E6%88%90%E8%A9%90%E9%A8%99%E5%85%B1%E7%8A%AF%E8%A2%AB%E8%B5%B7%E8%A8%B4-085100937.html",
-          "time": "2026-08-25 16:51:00",
+          "title": "台南空地爆炸案釀15傷 里長等3人遭收押禁見",
+          "url": "https://news.pts.org.tw/article/823991",
+          "time": "2026-08-25 12:55:56",
+          "publisher": "公視 即時",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "桃園弊案爭議",
+      "city": "桃園",
+      "place": "桃園市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "桃園惡保母虐死6月大男嬰 二審判刑8年半 - 社會新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWFqeW8wcmhyTk1raS1ab0V1akxIampVZ1lOekhvVFJUSG1PQlJNbENDZVRnM2N5d3AyMVRNTzJJV2otd3VwNkRIeEYycDQ2aHNZRUxkNEFHT2wwa0dISzRQQ1lpWVB5SWU3UVlEZGRzV1B3djQ2eEJCVnhMb2tjVHFoVjRfdlVnUzJj?oc=5",
+          "time": "2026-08-25 16:13:40",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "連江弊案爭議",
+      "city": "連江",
+      "place": "連江縣（馬祖）",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "「馬祖王」陳雪生涉詐助理費.運油弊案 200萬交保",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPWTF0OWNDSlFWbUcyUldKUmlnTFdNUHVzaEZNZXktYVkxRVZONmE3RFBwbUEwRDdRYVpCM09NX29KaVl0UGZ0NFZ4S2lhLXpKMzJham1KeUR3QkJwWjlWMlJ2SnNIOW9IcU0xUk04S0VqUjU1RXQ0R0c4U2lpQnp5YUU5MmphT3ZaVnFFSVFEN2hTaGRIVEtuQjRUdWFoRlBSV0pNMFpDMU1wWVcySzNqTmxITzdRUHp5NUpFUkRSYXY1M3hvc3YtVFZ0NjRkNDdUaHgyeGRBeEhzel9MZ1hZbERZajFOelRhYVdiNmRSOFV3LW1DWnBwdHl1M3ZHMmNpUmtMbzBXZTZubTFHN1JiZ1I5bG5vTXZjY0p6anJjSjJZYUZGTXZDT1BYU1B1YnRvUTdj?oc=5",
+          "time": "2026-08-25 15:04:31",
           "publisher": "Yahoo新聞",
           "severity": "red"
         }
@@ -692,9 +734,9 @@
       "comments": []
     },
     {
-      "title": "桃園弊案爭議",
-      "city": "桃園",
-      "place": "桃園市政府",
+      "title": "彰化弊案爭議",
+      "city": "彰化",
+      "place": "彰化縣政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -703,51 +745,9 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "桃園惡保母虐死6月大男嬰 二審判刑8年半 - 社會新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWFqeW8wcmhyTk1raS1ab0V1akxIampVZ1lOekhvVFJUSG1PQlJNbENDZVRnM2N5d3AyMVRNTzJJV2otd3VwNkRIeEYycDQ2aHNZRUxkNEFHT2wwa0dISzRQQ1lpWVB5SWU3UVlEZGRzV1B3djQ2eEJCVnhMb2tjVHFoVjRfdlVnUzJj?oc=5",
-          "time": "2026-08-25 16:13:40",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "台南弊案爭議",
-      "city": "台南",
-      "place": "台南市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "台南空地爆炸案釀15傷 里長等3人遭收押禁見",
-          "url": "https://news.pts.org.tw/article/823991",
-          "time": "2026-08-25 12:55:56",
-          "publisher": "公視 即時",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "連江弊案爭議",
-      "city": "連江",
-      "place": "連江縣（馬祖）",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "「馬祖王」陳雪生涉詐助理費.運油弊案 200萬交保",
-          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPWTF0OWNDSlFWbUcyUldKUmlnTFdNUHVzaEZNZXktYVkxRVZONmE3RFBwbUEwRDdRYVpCM09NX29KaVl0UGZ0NFZ4S2lhLXpKMzJham1KeUR3QkJwWjlWMlJ2SnNIOW9IcU0xUk04S0VqUjU1RXQ0R0c4U2lpQnp5YUU5MmphT3ZaVnFFSVFEN2hTaGRIVEtuQjRUdWFoRlBSV0pNMFpDMU1wWVcySzNqTmxITzdRUHp5NUpFUkRSYXY1M3hvc3YtVFZ0NjRkNDdUaHgyeGRBeEhzel9MZ1hZbERZajFOelRhYVdiNmRSOFV3LW1DWnBwdHl1M3ZHMmNpUmtMbzBXZTZubTFHN1JiZ1I5bG5vTXZjY0p6anJjSjJZYUZGTXZDT1BYU1B1YnRvUTdj?oc=5",
-          "time": "2026-08-25 15:04:31",
+          "title": "「我出錢你操盤」獲利對半分？彰化男心動照做、代操虛擬幣成詐騙共犯被起訴",
+          "url": "https://tw.news.yahoo.com/%E6%88%91%E5%87%BA%E9%8C%A2%E4%BD%A0%E6%93%8D%E7%9B%A4-%E7%8D%B2%E5%88%A9%E5%B0%8D%E5%8D%8A%E5%88%86-%E5%BD%B0%E5%8C%96%E7%94%B7%E5%BF%83%E5%8B%95%E7%85%A7%E5%81%9A-%E4%BB%A3%E6%93%8D%E8%99%9B%E6%93%AC%E5%B9%A3%E6%88%90%E8%A9%90%E9%A8%99%E5%85%B1%E7%8A%AF%E8%A2%AB%E8%B5%B7%E8%A8%B4-085100937.html",
+          "time": "2026-08-25 16:51:00",
           "publisher": "Yahoo新聞",
           "severity": "red"
         }
@@ -1654,14 +1654,14 @@
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UbUFCckcyTDlaM3hPNl9DQ0xwejl1ZHlWa0JCUjVkekVRNEVWUGV6TE5jRzZTalZsY1dsc2dWUXZWUm5IWmlrNVdJQQ?oc=5",
           "time": "2026-08-26 09:19:03",
           "publisher": "三立新聞網",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "盧秀燕控總統府「棄單」 林俊憲：是國民黨不准人家買- 政治",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByZU1XSmd3WDlYbWVVc0YxZEVHU3ZXTkNzTkhxM1FNUXV1ZTJpaFYzbDNCUTZJQWFtTExfWVlCbUI1TnZnaXZmN3pwMHNmS1Y5Qm5kZFJNS05ZV0UzRlRITzYxQy1oQUtGd3c?oc=5",
           "time": "2026-08-26 08:59:01",
           "publisher": "自由時報",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "盧秀燕稱總統府「棄單」弱勢挨轟 趙曉慧：睜眼說瞎話、惡意政治操作 | 自由電子報",
@@ -3221,41 +3221,6 @@
       "comments": []
     },
     {
-      "title": "苗栗弊案爭議",
-      "city": "苗栗",
-      "place": "苗栗縣政府",
-      "level": "red",
-      "news_count": 3,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 12,
-      "news_articles": [
-        {
-          "title": "趁大小女兒熟睡性交、猥褻 苗栗狼父判刑7年半",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5551121",
-          "time": "2026-08-25 09:50:16",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "趁大小女兒熟睡性交、猥褻苗栗狼父判刑7年半- 社會",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94NmN3Sk5ia1N5Tl9sc2tUNzhsaTM2Z3JmQjNqbk5aZUdrSDRQRHg3MVBJTDJiTENpckNmbjM5QzBBZmM4dTh4U0NTb3RGVU1aclV2ekIzUXpnN21TOEVyQmdyVEFVeFNf?oc=5",
-          "time": "2026-08-25 09:50:16",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "趁大小女兒熟睡性交、猥褻 苗栗狼父判刑7年半",
-          "url": "https://tw.news.yahoo.com/%E8%B6%81%E5%A4%A7%E5%B0%8F%E5%A5%B3%E5%85%92%E7%86%9F%E7%9D%A1%E6%80%A7%E4%BA%A4-%E7%8C%A5%E8%A4%BB-%E8%8B%97%E6%A0%97%E7%8B%BC%E7%88%B6%E5%88%A4%E5%88%917%E5%B9%B4%E5%8D%8A-015016957.html",
-          "time": "2026-08-25 09:50:16",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "花蓮弊案爭議",
       "city": "花蓮",
       "place": "花蓮縣政府",
@@ -3285,6 +3250,41 @@
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PaTYzUFR2MkNvS0ZpcVRnZHVpb2p6Yjd0QTlSSXgwWGxhdE5VQXhUSncyZExuT3FDWkgwTFdpNERuSG92ZWJWeWJjVzBoSkVLd3l6cG9vOV9adkYxUXZV?oc=5",
           "time": "2026-08-25 11:00:00",
           "publisher": "Google News→cna.com.tw",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "苗栗弊案爭議",
+      "city": "苗栗",
+      "place": "苗栗縣政府",
+      "level": "red",
+      "news_count": 3,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 12,
+      "news_articles": [
+        {
+          "title": "趁大小女兒熟睡性交、猥褻 苗栗狼父判刑7年半",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5551121",
+          "time": "2026-08-25 09:50:16",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "趁大小女兒熟睡性交、猥褻苗栗狼父判刑7年半- 社會",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94NmN3Sk5ia1N5Tl9sc2tUNzhsaTM2Z3JmQjNqbk5aZUdrSDRQRHg3MVBJTDJiTENpckNmbjM5QzBBZmM4dTh4U0NTb3RGVU1aclV2ekIzUXpnN21TOEVyQmdyVEFVeFNf?oc=5",
+          "time": "2026-08-25 09:50:16",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "趁大小女兒熟睡性交、猥褻 苗栗狼父判刑7年半",
+          "url": "https://tw.news.yahoo.com/%E8%B6%81%E5%A4%A7%E5%B0%8F%E5%A5%B3%E5%85%92%E7%86%9F%E7%9D%A1%E6%80%A7%E4%BA%A4-%E7%8C%A5%E8%A4%BB-%E8%8B%97%E6%A0%97%E7%8B%BC%E7%88%B6%E5%88%A4%E5%88%917%E5%B9%B4%E5%8D%8A-015016957.html",
+          "time": "2026-08-25 09:50:16",
+          "publisher": "Yahoo新聞",
           "severity": "red"
         }
       ],
@@ -4765,11 +4765,11 @@
       "city": "苗栗",
       "place": "苗栗縣政府",
       "level": "red",
-      "news_count": 78,
+      "news_count": 77,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 87,
+      "urgency_score": 86,
       "news_articles": [
         {
           "title": "苗栗杭菊災損中央救助每公頃10萬 縣府加2萬",
@@ -5309,13 +5309,6 @@
           "time": "2026-08-25 09:50:16",
           "publisher": "Yahoo新聞",
           "severity": "red"
-        },
-        {
-          "title": "國土綠蔭苗栗再出發 彭啓明倡校園圍牆改綠籬：讓校園綠成為都市的蔭",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mWDZ5VGZrZzhnR2VmT0FFeWRaeWVFbU5ValhQOWtUY3dsbFhON0RCQjlCXzBUdjIxWlB5ZHRzV0hFNWFQbDlHUlpNZWNWVU5YcG92bU9hTVM2MmJra0NHVUczbDg?oc=5",
-          "time": "2026-08-25 09:33:09",
-          "publisher": "Google News→環境部新聞專區",
-          "severity": null
         }
       ],
       "comments": []
@@ -12423,11 +12416,11 @@
       "city": "高雄",
       "place": "高雄市前金區",
       "level": "red",
-      "news_count": 283,
+      "news_count": 281,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 298,
+      "urgency_score": 296,
       "news_articles": [
         {
           "title": "今日停班停課一覽！ 高雄市1里、屏東縣1鄉7村里8/26停止上班上課",
@@ -14395,20 +14388,6 @@
           "time": "2026-08-25 09:43:41",
           "publisher": "自由時報",
           "severity": "yellow"
-        },
-        {
-          "title": "高雄豪雨農產全品項災害獲現金救助 陳其邁向中央爭取成功",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCdGtxMmVpUWd2TTk0WEpjYXpCWVZoZGRjVUFxd05GWm9fRklhSTZzR255THlUclpEOWVJbmFicEh2YnYzZU90UUp3bTJLSmhnaG0tb1gtT3FPbnR4RWfSAUtBVV95cUxORmY2andMNTkwTTNHdW9vcXdPOEtvVy1YT0ExOXgyX1l4T2JuMV9rUGJoMmpsdDVfaHB6MkJmTk9qWXNkSE9aNHlLalU?oc=5",
-          "time": "2026-08-25 09:33:00",
-          "publisher": "ETtoday",
-          "severity": null
-        },
-        {
-          "title": "高雄豪雨農產全品項災害獲現金救助 陳其邁向中央爭取成功",
-          "url": "https://www.ettoday.net/news/20260825/3225113.htm",
-          "time": "2026-08-25 09:33:00",
-          "publisher": "ETtoday",
-          "severity": null
         }
       ],
       "comments": []
