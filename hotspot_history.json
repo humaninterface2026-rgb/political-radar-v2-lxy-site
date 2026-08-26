@@ -83548,7 +83548,7 @@
     },
     {
       "date": "2026-08-26",
-      "snapshot_at": "2026-08-26T10:49:30.976726+00:00",
+      "snapshot_at": "2026-08-26T10:52:05.115857+00:00",
       "hotspots": [
         {
           "title": "台中槍擊事件",
@@ -83565,20 +83565,6 @@
           ]
         },
         {
-          "title": "台中車禍事件",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台中2起車禍波及路旁8汽機車 2人涉毒駕移送法辦"
-          ]
-        },
-        {
           "title": "花蓮車禍事件",
           "city": "花蓮",
           "place": "花蓮縣政府",
@@ -83590,6 +83576,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "天雨路滑！ 花蓮新城.壽豐兩起驚悚車禍8人5傷 | 華視新聞"
+          ]
+        },
+        {
+          "title": "台中車禍事件",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "台中2起車禍波及路旁8汽機車 2人涉毒駕移送法辦"
           ]
         },
         {
@@ -83765,20 +83765,6 @@
           ]
         },
         {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "性侵53童又爆新犯行！台中少棒惡狼教練持球棒、熱熔膠條體罰男童…11罪再判刑"
-          ]
-        },
-        {
           "title": "台北弊案爭議",
           "city": "台北",
           "place": "台北市政府",
@@ -83793,9 +83779,9 @@
           ]
         },
         {
-          "title": "基隆弊案爭議",
-          "city": "基隆",
-          "place": "基隆市政府",
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -83803,7 +83789,21 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "基隆熱炒店包商遭酒瓶砸死 檢認定酒客「傷害致死」起訴"
+            "性侵53童又爆新犯行！台中少棒惡狼教練持球棒、熱熔膠條體罰男童…11罪再判刑"
+          ]
+        },
+        {
+          "title": "澎湖弊案爭議",
+          "city": "澎湖",
+          "place": "澎湖縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "海軍繼光艦女兵揮打戰情官 澎湖地院判刑6月"
           ]
         },
         {
@@ -83821,9 +83821,9 @@
           ]
         },
         {
-          "title": "澎湖弊案爭議",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
+          "title": "基隆弊案爭議",
+          "city": "基隆",
+          "place": "基隆市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -83831,7 +83831,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "海軍繼光艦女兵揮打戰情官 澎湖地院判刑6月"
+            "基隆熱炒店包商遭酒瓶砸死 檢認定酒客「傷害致死」起訴"
           ]
         },
         {
@@ -84150,11 +84150,11 @@
           "city": "雲林",
           "place": "雲林縣政府",
           "level": "red",
-          "news_count": 24,
+          "news_count": 25,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 27,
+          "urgency_score": 28,
           "sample_titles": [
             "張嘉郡拋「雲林美術館」政見 親赴台中向盧秀燕取經",
             "張嘉郡打造雲林美術館向盧秀燕取經",
@@ -84214,11 +84214,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 58,
+          "news_count": 59,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 67,
+          "urgency_score": 68,
           "sample_titles": [
             "World Gym營運苗栗市全民運動館 林月琴質疑成私人健身房 余文忠回應了",
             "World Gym營運苗栗市全民運動館 林月琴質疑成私人健身房余文忠回應了- 苗栗縣",
@@ -84262,11 +84262,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 71,
+          "news_count": 72,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 92,
+          "urgency_score": 93,
           "sample_titles": [
             "花蓮跆拳小將揚威全國市公所頒發獎勵金",
             "千頭海豚現蹤花蓮外海 漁會推測追逐鰹魚群而來｜#公視新聞網 #Shorts",
@@ -84370,22 +84370,6 @@
           ]
         },
         {
-          "title": "台北地方動態",
-          "city": "台北",
-          "place": "台北市信義區",
-          "level": "red",
-          "news_count": 272,
-          "comment_count": 0,
-          "negativity_pct": 6,
-          "is_urgent": false,
-          "urgency_score": 323,
-          "sample_titles": [
-            "公館吸菸區挨酸像狗籠！蔣萬安下令拆除 沈伯洋轟：浪費台北市民時間金錢 | 張庭維 | 新聞",
-            "公館吸菸區挨酸像「狗籠」！蔣萬安下令拆除 北市府承諾持續改善",
-            "蔣萬安出來打球！北市女童遭猥褻「拖240天沒安置」 議員火大開轟"
-          ]
-        },
-        {
           "title": "台中地方動態",
           "city": "台中",
           "place": "台中市西屯區",
@@ -84399,6 +84383,22 @@
             "張嘉郡訪綠美圖 盧秀燕爆「參訪台中就當選」傳說 張贈鳳凰祝高飛",
             "出席智慧論壇 盧秀燕：台中靠精密機械聚落 搶下一波Physical AI",
             "出席智慧論壇 盧秀燕：台中靠精密機械聚落 搶下一波Physical AI"
+          ]
+        },
+        {
+          "title": "台北地方動態",
+          "city": "台北",
+          "place": "台北市信義區",
+          "level": "red",
+          "news_count": 272,
+          "comment_count": 0,
+          "negativity_pct": 6,
+          "is_urgent": false,
+          "urgency_score": 323,
+          "sample_titles": [
+            "公館吸菸區挨酸像狗籠！蔣萬安下令拆除 沈伯洋轟：浪費台北市民時間金錢 | 張庭維 | 新聞",
+            "公館吸菸區挨酸像「狗籠」！蔣萬安下令拆除 北市府承諾持續改善",
+            "蔣萬安出來打球！北市女童遭猥褻「拖240天沒安置」 議員火大開轟"
           ]
         }
       ]
