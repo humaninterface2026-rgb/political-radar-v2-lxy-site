@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "snapshot_at": "2026-08-27T01:44:50.071811+00:00",
+  "snapshot_at": "2026-08-27T01:50:30.208720+00:00",
   "hotspots": [
     {
       "title": "台中車禍事件",
@@ -24,27 +24,6 @@
       "comments": []
     },
     {
-      "title": "台南陳情/抗議",
-      "city": "台南",
-      "place": "台南市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "童小芸攔賴告狀 黃偉哲接陳情書",
-          "url": "https://tw.news.yahoo.com/%E7%AB%A5%E5%B0%8F%E8%8A%B8%E6%94%94%E8%B3%B4%E5%91%8A%E7%8B%80-%E9%BB%83%E5%81%89%E5%93%B2%E6%8E%A5%E9%99%B3%E6%83%85%E6%9B%B8-122237231.html",
-          "time": "2026-08-26 20:22:37",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台中陳情/抗議",
       "city": "台中",
       "place": "台中市政府",
@@ -60,6 +39,27 @@
           "url": "https://news.pts.org.tw/article/824160",
           "time": "2026-08-26 13:30:11",
           "publisher": "公視 即時",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台南陳情/抗議",
+      "city": "台南",
+      "place": "台南市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "童小芸攔賴告狀 黃偉哲接陳情書",
+          "url": "https://tw.news.yahoo.com/%E7%AB%A5%E5%B0%8F%E8%8A%B8%E6%94%94%E8%B3%B4%E5%91%8A%E7%8B%80-%E9%BB%83%E5%81%89%E5%93%B2%E6%8E%A5%E9%99%B3%E6%83%85%E6%9B%B8-122237231.html",
+          "time": "2026-08-26 20:22:37",
+          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -532,6 +532,27 @@
       "comments": []
     },
     {
+      "title": "苗栗弊案爭議",
+      "city": "苗栗",
+      "place": "苗栗縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "假冒檢警詐騙66人逾億元 苗栗檢方起訴機房2名主嫌求15年以上重刑",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9haXZYVzNUa0RaUWpiVjJlQkVFMmNPWlFQaHlSZXRoYXd5bEIwMWxGR0dUQ0pMclViQ3JxUExtTFAzTjFHQkJEQTZBNnNveHp4VnNR0gFYQVVfeXFMTWYwMnVKbHJQYzEyYTdvUzRVYmtxc1RXSEpodjFNTGxnZTFqUHhpRTdncUZlWFNWSUxnbTBhdnlpTV81Y0paOWRTbnhJdF9HSjZjNk95cVlTTg?oc=5",
+          "time": "2026-08-26 12:04:25",
+          "publisher": "Google News→UDN",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "台北弊案爭議",
       "city": "台北",
       "place": "台北市政府",
@@ -568,48 +589,6 @@
           "url": "https://tw.news.yahoo.com/%E6%80%A7%E4%BE%B553%E7%AB%A5%E5%8F%88%E7%88%86%E6%96%B0%E7%8A%AF%E8%A1%8C-%E5%8F%B0%E4%B8%AD%E5%B0%91%E6%A3%92%E6%83%A1%E7%8B%BC%E6%95%99%E7%B7%B4%E6%8C%81%E7%90%83%E6%A3%92-%E7%86%B1%E7%86%94%E8%86%A0%E6%A2%9D%E9%AB%94%E7%BD%B0%E7%94%B7%E7%AB%A5-11%E7%BD%AA%E5%86%8D%E5%88%A4%E5%88%91-062800901.html",
           "time": "2026-08-26 14:28:00",
           "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "苗栗弊案爭議",
-      "city": "苗栗",
-      "place": "苗栗縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "假冒檢警詐騙66人逾億元 苗栗檢方起訴機房2名主嫌求15年以上重刑",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9haXZYVzNUa0RaUWpiVjJlQkVFMmNPWlFQaHlSZXRoYXd5bEIwMWxGR0dUQ0pMclViQ3JxUExtTFAzTjFHQkJEQTZBNnNveHp4VnNR0gFYQVVfeXFMTWYwMnVKbHJQYzEyYTdvUzRVYmtxc1RXSEpodjFNTGxnZTFqUHhpRTdncUZlWFNWSUxnbTBhdnlpTV81Y0paOWRTbnhJdF9HSjZjNk95cVlTTg?oc=5",
-          "time": "2026-08-26 12:04:25",
-          "publisher": "Google News→UDN",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "澎湖弊案爭議",
-      "city": "澎湖",
-      "place": "澎湖縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "海軍繼光艦女兵揮打戰情官 澎湖地院判刑6月",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxNThDOVlYREhzNUpqSWY4QkdaQnJQYU1TeE9wWDduejVraWF1MkRXanR6YmxveHRobHJPWk94YUtZR0w5OVlTSnBkR2dxUkIxVDlSM1duUEpiT0FablhISWUzMGpmOWhNMmFZRU9R?oc=5",
-          "time": "2026-08-26 09:47:12",
-          "publisher": "中時新聞網",
           "severity": "red"
         }
       ],
@@ -849,6 +828,377 @@
           "time": "2026-08-26 12:57:56",
           "publisher": "Google News→thb.gov.tw",
           "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "澎湖地方動態",
+      "city": "澎湖",
+      "place": "澎湖縣政府",
+      "level": "yellow",
+      "news_count": 51,
+      "comment_count": 0,
+      "negativity_pct": 4,
+      "is_urgent": false,
+      "urgency_score": 57,
+      "news_articles": [
+        {
+          "title": "澎湖花火節雨中謝幕無人機燈光秀吸睛- 台灣萬象- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FYWtVNGlRQnZ5M3lLZ0ZhcjNSRTlrUEpnQmlHUktWWU9TVkY3SHN1aWRIcGI3UHVTamVoMlZfZG1NcFJLbzRoQ2N6b0tmckR3ZkFiczlUbm56N2FwNms1MGxXMVIyQQ?oc=5",
+          "time": "2026-08-27 08:05:01",
+          "publisher": "Google News→華人今日網",
+          "severity": null
+        },
+        {
+          "title": "澎湖廚餘廠推新設備 提升效率改善異味(內有影片)",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vMlZfNUIweGxpNE5NXzN2VExmWGFzV2c0bG5jMU9qSlNSSEgtRWR0NFJJRG1XRGhXRlZDanJNRVZuOHU4MkhTZS03dzBnTVZJcVJiUHJmNDJ0c3hSakt2T3o5RXFIOTFnNUg0?oc=5",
+          "time": "2026-08-27 08:04:17",
+          "publisher": "Google News→澎湖日報",
+          "severity": "yellow"
+        },
+        {
+          "title": "罔顧民生 台當局拒恢復澎湖「小三通」",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zRU1zLW5OWmZWV0NwVDNxbEJvOURGZWFkZUR6WUFaVDJFZlY4QVRfZDl0Y0tyZXpmbFYxekdHSC1RV1YzR2NLSVg4WEFrcllqWFFwUEtCYlh0SFJmcG84bm55dU5oMTAwUGhBYXZmZUFFd3Br?oc=5",
+          "time": "2026-08-27 04:21:40",
+          "publisher": "Google News→大公文匯網",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖廚餘廠新設備 有效減臭",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0VEN5b1Q4cUEyOHluMkZWQTlLdGItZDBTaXd5dFdwS25LTy1NYTVIVFZJZjRKUXZORUpOVXhNZDJJVy03RWhNZDJpTTFUNWtwV0p6SXI5TURHa3c1WTI0aGZXV0Vxb18zMVRF?oc=5",
+          "time": "2026-08-27 04:10:00",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "澎湖縣政府文化局2026駐館文創家藍手起家9月工作坊課程開課",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxObE4zY1U1dEtqbmJ3SzJWRWExTENBUUxBaHA1SEtqUE94TFJxYktTTkw2UVBsSGpOMXdfOWtoRGxTWFZYT3BsRldDNzEzNXBYdVZzTkVfYW5BWDdxLWRqM2Q5UXFxMHVPRllfSVR3SlNQQ0tkckVTdlpjektBWFJwSjNEUVRvbjU0LUY3OWEwYmFpV2MzUWk1dDl4V3Q1S0dNMlBfVG9sY3RDSGVzV2JLeUl6MEhfb2dpNm44Zk5CS0R5LXoyTmoxT09RQnVvUUhSR1dVanZnTkdrOWNSYk5SMHJnZTFBcU8yZmQzdnBlLVFjUS1aLWFyU3p3MVBzQWg5ZnpLUEtsTlpRcEo5aFV1SHM3aElVUTVnSjFLYTZQbGtQdEtmZ0pNb3pvMmI2RkZNTHM2dWF2MUVUekQ0?oc=5",
+          "time": "2026-08-27 00:19:28",
+          "publisher": "Google News→澎湖e傳媒",
+          "severity": null
+        },
+        {
+          "title": "澎湖加強民宿夜間安寧管理 屢次違規最高可罰5萬元",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOeWhaQ0Y2Z0FZRVNGZ2MwelFfV0NMTE5yekpiajk3OTVWZTRiWXE3UU13S0R3clo2NGJmaWpFbDZuYVE0SUlrcmRJZ2hGcDJWaVhMd2tqcmdQYXJvc1VUc28zV2htZUhSLVp5RWVqczlxNHpoZkVzcHlMUWRiNnNSWWJiOWJicV8ydERFMm1rVG1IbnNHSXU0dlpnZjVMaVpUSmtpdXhxbG1VTEZqclVjVDFxZDRnTHdFUFVzRlRHdnh2dHV1N0txN25JWXBnUm82MTZCYVc0aG9ONWIxbWNKeWFRZ0VLVU5vTVdzM2N5SHlmR1hsOHA1SWxPQlJoWkNleVFnR1R2TVZocDdoTE9iX2U3NjRIM09LVUtlMjRUX1F5SW96NUVRUWQ4ZVVPcldRdkJPb19UQ3hqOC1WeXdZR1QtTEw?oc=5",
+          "time": "2026-08-27 00:04:19",
+          "publisher": "Google News→澎湖e傳媒",
+          "severity": "yellow"
+        },
+        {
+          "title": "「觀光雙輪驅動方案」住宿獎助9月上路 澎湖縣府籲業者勿哄抬房價並嚴禁不實申領",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPSDRWZEl4RFNCNjdOSmdlS281REd6eENhcWUzaERocjFyUlFLWV83UmFhd3RHaDhHa2cwSHJEd1NLMjRMQ2ltSm45aFpYSEZoUVpiUXpSYloweThpY1dSSjFpQjhMV3l6aXQwcHd2am1YNHY5d29hbnExMEJNR1c0QVFfdG5UNlJsbkNtbWp4RmN4bUhaVEhwVmI2MHBKR3hkcXh3bmUzUXdua0s3WXBnUDlveGNjUUpSUGxEbUhwWWowX2lNZGpUV1NZdEFRSUowLW1SV0d4X0NSTzJ4Z3cyU0ljYlQtbWRHYUNLSFpUdHhmWVQ0YVRkcURtakNQd2Z0V0FTdDlnTGpBLVc2c0F6VG8wazFjRjVZV3RSRENNWHVNajhxRmVHamdBREJCWlJaN3FFWjVFdGhIOFc3VEFzNGNqVDQ?oc=5",
+          "time": "2026-08-27 00:04:12",
+          "publisher": "Google News→澎湖e傳媒",
+          "severity": "yellow"
+        },
+        {
+          "title": "嚴禁攀爬澎湖跨海大橋 守護文化資產以免觸法受罰",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNRjgxT3NUNlB3bExNczU3N2VoVmpha1B1bzg2XzhXcGRSMmQ3cC14OHliYXVNS3lqYkpBakFwYm9zT3VqbEhBc1p4ZWR4amQxbnczUXZBa3NqXzc5TUdUNmhhVHk1OERNdFRMY0hKLUQyVU0tM3RRT0U2Q2hqLUJrdzA4UWlodU1sXzB3V2NYS21PRUROdjhTRTNmczBBbUYzVzY2WGo2V3VrNHo1TjlSbDRkQlg3R2NiSnk4dVBxRGJleWhrRGZ0R3lQaW54VUdpNmVqaUJuQjZjV3ZqSzU5cmdTbEpZYnRhbElSdnVGZHJmdEVFaU9Kai0zMkdZUFNhR0VzZ25IWGJYWU5iOUVUQUl4a3FkOUNGaVViUFo3VlhrVDFUeE5XZVYycWdKbXBXSEdlZkdfTzhBdmpmRFRyTzlhOA?oc=5",
+          "time": "2026-08-27 00:02:21",
+          "publisher": "Google News→澎湖e傳媒",
+          "severity": "yellow"
+        },
+        {
+          "title": "清澎湖海鮮急徵砧板師傅",
+          "url": "https://www.cdns.com.tw/articles/1449809",
+          "time": "2026-08-27 00:00:33",
+          "publisher": "中華日報",
+          "severity": null
+        },
+        {
+          "title": "澎湖榮服處分區座談會凝聚愛國意識×精進服務照顧 | 勁報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uVDN1bktKRFp4NUFYU1Q2UXZNelhPQWxwUzBNc29TM1VwV01HdEZ3NVp5MU1aa2lCNnE3MnJxOEpxdTNCTTF4cHIxOGdYbzJ0am5SMGRn?oc=5",
+          "time": "2026-08-26 22:37:37",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "澎湖榮服處分區座談會 凝聚愛國意識×精進服務照顧",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tN20yMVNDanNtX1NpdjlwaU5iSng5dkY4VnlBLWg2UVBGek1CVVN6dWRMdzk2TUxQMm9iT0V1ODNVOU5LbF9wN1o2eG0yUGNZSmc?oc=5",
+          "time": "2026-08-26 22:22:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "澎湖區漁會與海保署放流魚苗、水晶鳳凰螺 增裕漁業資源|新創臺灣",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12SE54MzBZLUVZMUpfNWloVjdqZkpYQjhRRm13UTNtbWFLR0UyZjF2bHl6bDZNVEhyQ1dmTWhaX3FjLWtQSnVZRm43Zw?oc=5",
+          "time": "2026-08-26 22:00:00",
+          "publisher": "Google News→僑新聞",
+          "severity": null
+        },
+        {
+          "title": "澎湖跨海大橋男子攀爬拱門打卡 網民斥「離譜」促重罰 當局稱依法懲處",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQOHZMelh1MnVaejl1a3NFcWNOeENENXF6MVVjdzV6d1V2V2NZMnYzZExXdmZPRlg0c1hZRjRkT3FhZnNMN1I5NGxIem5fN1JkZlNfZEtIdV90MTQ4aFdXWWpuMk9ianBxRVNDRkU4dGVfemYtZXIyRjhfQmtOVUlQSEQxNm84V3FuUExSaE1LVEt4TnZzcXd2Wl80NUp6Zll1TUZtQWJSRS1UWjVoOUFWX21ZUWFweXZibVh6N0RJNDNRcnJiRU5QbXlNN0ZFZWlyUGItSnJENk9mcTVkbjNnMFh2RE5PZ1I3dWxRVGs0MUVXNXlLSDQ3WHh6M09uVEowT0liRXpYQS1jR1VLc1M4R00wN2taQ0NBeFZZdGxrTFg2bUVxaTAwRVlsaDlJQ2NPd2hYUUZnSXVReFlnUEFpaWt2TWFyZUhOZEgwcUxhTGhGMlNydmVUQXd1djUtZw?oc=5",
+          "time": "2026-08-26 18:05:42",
+          "publisher": "Google News→i-cable.com",
+          "severity": "yellow"
+        },
+        {
+          "title": "風雨擋不住的堅毅！澎湖花火節圓滿閉幕 縣府攜手志工築起廉潔防線",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNSGN3eXJKQ0NKUHhHOU5jdThlZVJ3dU55MmpNYnJ6R1pZTmhYWlhuY0NqLWFxRDdEUGttSldfSEk0elBENlVIVUk0Zm50UnMwT2oyMzUyTUR0THZ6c2ZkRktpWWlMa1B6a2JPS3RJbXNDNktudnV6bWdibXJoZFFvRnBFTEx3bS1qWXFsdjJPSWlNcTVEZllOWlN6enRNUVkzQWJJNVQ3b05kazVxSmRWaW12Q2pQaUVFWkZDa3V5cjBVR1ZLbkxmbFoxVDdyVTc5akJRZGN0TEM5MTN4THJ1NVhEMHFtUEp2SE9pM0xlcVBnZGh0MWNFb2J5SjRWTlBjOXl2aW4zbGQzSURZamo0NkdFb0dFM3RUaEw1bmx6OVh1NGNuR295TWw1MmlJV1djT1J4YVlydjl1a3FkTzBDR0lBZw?oc=5",
+          "time": "2026-08-26 17:52:08",
+          "publisher": "Google News→澎湖e傳媒",
+          "severity": null
+        },
+        {
+          "title": "傳遞平安祝福！台中大安區農會攜手拱天宮 推出白沙屯禮盒",
+          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5553213",
+          "time": "2026-08-26 17:32:21",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "脫序男爬澎湖跨海大橋拍照！網轟「超沒水準」 最重可罰200萬 | Newtalk",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45Szh5RjR0ZFZhWDBybUVHVjdRUzNQNkRyaXd4cXo1THZWOUJjdjE4QU5pcnVwTEhXbjVDblhDaUpmQjlqQmcteDV3TmV0bU1MN3NRU2ln?oc=5",
+          "time": "2026-08-26 17:19:15",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "yellow"
+        },
+        {
+          "title": "脫序男爬澎湖跨海大橋拍照！網轟「超沒水準」 最重可罰200萬",
+          "url": "https://newtalk.tw/news/view/2026-08-26/1055845",
+          "time": "2026-08-26 16:54:47",
+          "publisher": "新頭殼",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖跨海大橋驚傳「玩命攀爬」 文化局祭文資法最高罰200萬",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EZ2pZZXFid05MOVhZQjVyQzdPc1hrQURfVWo5eFo2RHlOcFU2RG4wTHlscHJoZ2x2eDdMYU1fekFIZ2xzVDd4YWRBYjNnRDUyN0lvT3NJU1JlR001ZFQzRUx1YnVoYmJjRVZ5VWtB?oc=5",
+          "time": "2026-08-26 16:13:19",
+          "publisher": "中時新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "國海院攜手未來親子出版《博卡喇的銀角仔》 推廣澎湖海域水下文化資產",
+          "url": "https://www.thehubnews.net/archives/658558",
+          "time": "2026-08-26 15:55:16",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "玩過頭！ 遊客爬澎湖跨海大橋拱門「拍照比YA」 恐吞200萬罰單",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-08-26/2447960.html",
+          "time": "2026-08-26 15:51:08",
+          "publisher": "壹電視",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖海洋實驗小學提前開學合橫國小啟動1年4學期制- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16Tk00Q1JlVXVqS1VoRHp4VmczUHdoQlB5ZTAxZVdhbFhQTHZxNkd3TkxwY01DeEZWTS1BdWJkYVgybG8xd1RoSnRPTldtdThlMmJuaC03cm8yelFTaTRqUG9UOFc?oc=5",
+          "time": "2026-08-26 15:03:08",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "澎湖海洋實驗小學提前開學 合橫國小啟動1年4學期制",
+          "url": "https://news.ltn.com.tw/news/Penghu/breakingnews/5552917",
+          "time": "2026-08-26 15:03:08",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "89猴大鬧澎湖！攀爬跨海大橋拱門喊「正義魔人別來」 最重罰200萬元",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2M3NoMDlJM3VSZnBGTVNuMEdlTk9wQ0VLSTd6MGlfelNxSGpPanFKbkRuZVlxSFEzS050TVROSzdUNURMeWNwc2VtMkR5UTg3NUtja2hlQk9JM2VVdHV1aURoaElWc2VjQ2tBcE9HOA?oc=5",
+          "time": "2026-08-26 14:40:00",
+          "publisher": "Google News→知新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "白沙屯信仰文化結合「台中領鮮」 大安農產「大安禮尋、大安好禮」特色禮盒亮相",
+          "url": "https://more-news.tw/703514/",
+          "time": "2026-08-26 14:40:00",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "地方 2026/08/26 12:47 澎湖廚餘資源化 新設備提升效率改善異味",
+          "url": "https://news.cts.com.tw/cna/local/202608/202608263071573.html",
+          "time": "2026-08-26 14:23:13",
+          "publisher": "華視新聞網",
+          "severity": null
+        },
+        {
+          "title": "澎湖廚餘資源化 新設備提升效率改善異味",
+          "url": "https://newtalk.tw/news/view/2026-08-26/1055793",
+          "time": "2026-08-26 14:13:33",
+          "publisher": "新頭殼",
+          "severity": null
+        },
+        {
+          "title": "澎湖廚餘資源化新設備提升效率改善異味| 政治",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zTldUcUluTUpmTjlLWDctNmw0bkxEV1pMa3VsbkpfNWl1aWNZdF9OaGlZRUt6UEUxZTRSVnBpYmZCRWE2eWtjbmRpMTVoMGplMW9rZEFYU2FNYmc?oc=5",
+          "time": "2026-08-26 14:13:33",
+          "publisher": "Google News→Newtalk新聞",
+          "severity": null
+        },
+        {
+          "title": "2026澎湖國際海上花火節圓滿落幕 720秒煙火照亮最終夜",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YYktFWTJHSmEzemQ1R2FkNm9HaTRoelVKamRmTkk5ZmNsenBNZll1elRReE01NGg5aFJXZ1V6TjRHb2FaRkMtR3lTN3A0ZG45bmc?oc=5",
+          "time": "2026-08-26 13:32:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "澎湖廚餘廠新設備減臭味 議員籲持續改善別只是一場秀",
+          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNd1BGTk41anRFejJuUks5Ykh0VlAySnZNZTVPTFo2R2tmdVZBazA5endqUlU1SGlyNjlfblEwcGEzODFoRTZPUUhlempyNjFEbG90clMtZWhXVlYtd1JPWVhkd09wb2wtUjN1SWxmb21FZjIwaVNkckFPODFHSHdrVEtIaXNxYkZkN3lLSWlkM1JfOWQ4d0ZYY2ZLYzVNRndIWkVFYWZwRlNKTV9walRpd2hBUElBNjVWZFNzQ0l4dk9TQXFOUEJ4RDJlbmlZZnY1TmxZMlNBMERvSDlkYjFIV1EyWm5QWG8yVE91SW51YlB5OGRwV3BUeGNrZ2RONUtDbFVzOE9ZRE5ZR0haNm41OTdTd0lCMWxpemtUdmRxYXRhMDF6dEhNbllwZEdmb0JzcUhJX29RYlFCM1dGZnRia2JJazlaRWJRUU1hNUdNYS1ETXVteW1OUWh2LXlneFl5eF9BeDhiWmhXdw?oc=5",
+          "time": "2026-08-26 13:24:31",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖廚餘廠新設備減臭味議員籲持續改善別只是一場秀- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5raUlDNTlvQnJqMFhTVk8xWGt5Ml8yZUVTMTRHX0Q4QUtvLS00cmJGSWduVmZVb1hDRkN4a3F3NW1OMzd5QWdQMWFqaXI2bEJ1em9YSGF5Y2txa0Z3T3JVLUJMcms?oc=5",
+          "time": "2026-08-26 13:10:04",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖跨海大橋驚見「猴子觀光客」！遊客爬上拱門拍片 最高恐遭罰200萬",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWkJ0NWMtT1JPdmwyNnZ6WmlhZ0lsTjg4MmQ0aDhzckVWbXJybEhlcHExNW9nSHZyOHBtWkNHLW1rckNYRV91N3lfeUd2ZlVxVWJqVHkyNVN6QnhIYi1OLUQ2MEhqMGI4c2lMOFdmSUVOMXkxdnNmOFJ2TlM5aTVsYVFqa0ktQQ?oc=5",
+          "time": "2026-08-26 13:07:00",
+          "publisher": "Google News→緯來新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖縣廚餘廠公開說明會圓滿落幕 環保局攜手聚勃國際共推循環經濟新典範",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kYTFqLVhuN1A3ajVjR28tS2FqcTBWMTE2S1hZNF80a0lXeEhMYlBQeHhYRE95MVE3dmV4SmRqYmdUUHNzYTI4Q3NTc1k0VWRRbGc?oc=5",
+          "time": "2026-08-26 13:04:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "澎管處揪團赴2026新加坡秋季旅展 拓展澎湖國際旅遊市場！",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNZExkcjlJOS1zWTBBbTg5T2ZNaGp4V2NORTVNVXpNRlM3LUdiWUg1THpzeGNLVy1JYm5JTEhlZFB6ZUF1aU5YbjlabEh5NUVjWjR4Zmc3WnRrUEtIQjVMUVdvelRhNzhXWUtBQnVHNkI3aVhfYjl1YmFjZ2x6b3RqNGJNeHRkY3JiX21McmhkdnRqbkdWR1NVM05TZ1F5T3B4Vk5nYlVoLUdNb0l3eVpEbzNNQmQzWmRsTENSS0hLekFiUWplNlFkSnZ5SmdnR0d1MTk2WHhvb201OGZ3aG5TZ2cxRmVHSTBoMHB3Uk9pdHQ4RG90cm8zeWJ4N2JTOUlOLTZiZEcyZVpZNndXMzlfaFkwYkZoek5iMGRxajhpUGdpQ3NRcWwwckh6b1kza21PaGVjeHVzWXNYYTcx?oc=5",
+          "time": "2026-08-26 13:00:00",
+          "publisher": "Google News→澎湖e傳媒",
+          "severity": null
+        },
+        {
+          "title": "澎湖廚餘資源化新設備提升效率改善異味| 地方",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RTHBJaFltenNMRWw0RFQyeUNTdS1kUG1qbkxqeU8zWTdYUFMxMm00dmw2RVBOVTRuUXlMVlB0UHJ5OGg2d3YwM0VES3dNR1FQVGg3VUEtSmx5c1dhVXU4?oc=5",
+          "time": "2026-08-26 12:47:00",
+          "publisher": "Google News→cna.com.tw",
+          "severity": null
+        },
+        {
+          "title": "2026離島國旅補助攻略》澎湖金門馬祖最高省3700元！加碼好康一次看",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLcjhkdTVid0xWd2Y4NmtFMS1Kc294cVhvZzk5ZDh4ZWtZOTlDd3Z5OXl1WkpadmZzV3VFOGlncGpManBUR2JqQjFNYVNOUQ?oc=5",
+          "time": "2026-08-26 12:43:00",
+          "publisher": "TVBS",
+          "severity": null
+        },
+        {
+          "title": "澎湖廚餘廠爭議後推新設備 分離油脂作永續航空燃料原料",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wQlpBdlc5eTI5MW9YR0JVS0NkREpfMmpHb2tFeXloMllYTUoyQXRDbDN4VUpybFlCRUxFUURHaEtzdjlRMENtdlNTT2EtRGZaejA2bDJ3amFJci1FUjcwM2dETUZpUkJxWFBoVUpR?oc=5",
+          "time": "2026-08-26 12:32:30",
+          "publisher": "中時新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖廚餘廠爭議後推新設備分離油脂作永續航空燃料原料- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42dnBpZDBfaWkxLXloMk5ZRDBhYjVwSmxpRHg2QjBMVkZGc3NEMFhSVUVidWlJc1lMc1FtWmxKYnBiRWdVcE1kT2l0OW16MWxVX2xvLTFHT2lkdUZrem1j?oc=5",
+          "time": "2026-08-26 12:32:00",
+          "publisher": "Google News→工商時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖南寮浮球秘境拉警報 遊客攀扯「竹竿」恐毀全球百大地景",
+          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPTjVNc1JIejVBQ2YwdER4d3ZOelhoZUxqNEhmemY2N296dm0xY1BteFFuVFFibmFVME9YNzZZX3NjdzM2eWotLWdnLXRrNXk1RTZ1a3gtN2JmcEhhODVvV0U0Qll0SHBFSmhvRVNVbFJ4b29aeDZhR3ZPVnlodlRmVnEzYkRuY3pJSVRoUUFxZXhPanFsZXJOMHpPTVQ2eXU5b3U0NzFhRkkzVkNHR3JYVXhKdXloaXZUX1E5N3ZPUXRJU0hLa0ZhUmRBNjc3Vkd4UUNIMUFOQUZ3Z09UeGYxUGJPQWM5QzFVTllSOENkM0NWT3J3WkhsU0IzTUNoc3lzUGpoLXBpMHRZZ25YWWxMY1RBTlo1TEdhd1JfSk5ySnhJSzZqYTRKLUg4aTF6bjFtM0lEcDFFek1KNl82dVBhdDVhZU1PZHJyNWRsUXZtNVBaeDBscWxOT2QtQlRzdU9qaG9XOXl4VG14OHFSZFdHWmVTYjdTMWozMTBHTlJPeS1FLXM?oc=5",
+          "time": "2026-08-26 12:08:13",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "脫序! 男爬澎湖跨海大橋拱門\"比YA\" 最重恐挨罰2百萬| 民視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fNnkwME9pZ1kxZFUxLTYxeG1hQzBUa1pSQzlkUU96OWQ4Tm9URmIxNERMM0tTOHNRXzJSekhydHI4Nl9nbVZxcHdJWXg3NlBxMzdiSVd3?oc=5",
+          "time": "2026-08-26 12:05:12",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "yellow"
+        },
+        {
+          "title": "玩過頭！攀爬澎湖跨海大橋拱門 最高罰200萬元 | EBC 東森新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91cS1IcGI3LU9SM3g0UTVmeG1LalJnRHp4RHlaV0VUTkRhMjBqTHNsTE1XVW9CM2NuYWE2blFvUHk0amN3Wl9vQ3JVX1BEUEhFOHpISUZ3?oc=5",
+          "time": "2026-08-26 12:04:11",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖南寮浮球秘境拉警報遊客攀扯「竹竿」恐毀全球百大地景- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Cdm5Vbm8xQ0tRZkdEeHZxWlBrc3VybHhOUVRFOHhybFdJc0dubm1QYjNlcG41Y2RxZHU0ZVl4MC0ycTRFbGFqNzJjWVl6NWRTMHhnZUI5d29Kc2VjVVVn?oc=5",
+          "time": "2026-08-26 12:03:00",
+          "publisher": "Google News→工商時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖縣廚餘廠公開說明會圓滿落幕  環保局攜手聚勃國際共推循環經濟新典範",
+          "url": "https://n.yam.com/Article/20260826448440",
+          "time": "2026-08-26 12:00:00",
+          "publisher": "蕃新聞→波新聞",
+          "severity": null
+        },
+        {
+          "title": "白沙屯信仰文化結合「台中領鮮」 　大安農產「大安禮尋、大安好禮」特色禮盒亮相",
+          "url": "https://n.yam.com/Article/20260826806139",
+          "time": "2026-08-26 12:00:00",
+          "publisher": "蕃新聞→墨新聞",
+          "severity": null
+        },
+        {
+          "title": "迎陸客！澎湖觀光業者盼重啟馬公、廈門小三通船班，國台辦表態「5字密碼」願努力推動| 楊騰凱 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IZ2Q5TFk2SlI0UHlnRzJGTnV4WUtqbzFtbFpGa2V5TThydDI5TmFyMGQwcm9JSWhRSk9ISUNWUkhvT1ctX2ZQdEpDSzNDUQ?oc=5",
+          "time": "2026-08-26 11:55:55",
+          "publisher": "Google News→風傳媒",
+          "severity": "yellow"
+        },
+        {
+          "title": "玩過頭！攀爬澎湖跨海大橋拱門 最高罰200萬元",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQWjBMWU9VRUVLeGZCbUxNVFlQN3NuTHNNUHdxOFlmWFUzYWNhQVRCeGZJQjlsWG9NQUlual9vSWdRYlRNeURaTDRVZFlrX2RPREZwYjVGT0I2cFczVDAxV0MyT0JJWU5aVWl6TGNfYnh1MFRSVDZCSGxtWjlGT2xTLW5oS3AtRS1RVHBOanBfU0NPanlXVTFjbzNQQ052ajJKTnpUUU9JbTJyNEVNVFFkYXpvUG5aSjRjZVdFckJWN2kxSXRubU5RdTFudnE3SXoxS29NUFliY3FnTl8tcWl3dW9QbVJFczgwN0NWNlZvX0pLbnNPY3NWS3hqQzJIMG5abExhM3pwRXdSajd3S2JNaERFeDFTM0l0aVdITmJOREFZaENiY2hDLXgyYTJheGhzMlE?oc=5",
+          "time": "2026-08-26 11:54:14",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "玩過頭！攀爬澎湖跨海大橋拱門 最高罰200萬元",
+          "url": "https://news.ebc.net.tw/news/living/568176",
+          "time": "2026-08-26 11:30:00",
+          "publisher": "東森新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖跨海大橋驚險畫面！白衣男爬上拱門「坐高處比YA」 文化局喊重罰| 太報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxLTJlNU94VmVxeHVTRmZDT19QVlJYUVNpUm50QXZ2ZnRUbV8tQ3pXZVZrTy1TUngyaFVrcl9aMFNUX0hzaUdwcG9NVnd5Nl92QmNhSEZn?oc=5",
+          "time": "2026-08-26 11:29:53",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖跨海大橋驚險畫面！白衣男爬上拱門「坐高處比YA」 文化局喊重罰",
+          "url": "https://www.taisounds.com/news/content/96/285199",
+          "time": "2026-08-26 11:28:53",
+          "publisher": "太報",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖跨海大橋驚險畫面！白衣男爬上拱門「坐高處比YA」 文化局喊重罰| 社會焦點",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56bGtpZkxQYXRZQnZ1dFRaV3pmaW1qdXc1VVFQeFF3Q1dxNjF3UDY1emx0NnpoTllYdEhDcnhjVGV3YWtPOXV3R0dWQThTRXFPbUY2WElQb1cxTHNI?oc=5",
+          "time": "2026-08-26 10:45:32",
+          "publisher": "Google News→太報 TaiSounds",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖跨海大橋驚險畫面！白衣男爬上拱門「坐高處比YA」 文化局喊重罰| 旅遊飲食",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aSFZTMDh6SXc3bFlINjEtWTBnNU1UTUZLb1VMTUJWNkNjbm9NYzBuOE8yVXRFOHZiMFlIRVNwNXhOS0MyYkctWDY1V2pTZzVfdVpIODY0STFvaGNV?oc=5",
+          "time": "2026-08-26 10:45:32",
+          "publisher": "Google News→太報 TaiSounds",
+          "severity": "yellow"
+        },
+        {
+          "title": "陳振中提永續海洋資源 守護澎湖海洋之母 | 自由電子報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tMUgzLWNnM0dqNk5aMUxtN2h5MTJlVlFmeTdERGl4VHJvd3R1YXFCRThMaXYxQTg5eUQ5ZEd1RGlKd0dQTjh6bUJOZDJYVnQ2dkc1a1h3?oc=5",
+          "time": "2026-08-26 10:04:11",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
         }
       ],
       "comments": []
@@ -2640,34 +2990,6 @@
           "url": "https://tw.news.yahoo.com/%E5%9F%BA%E9%9A%86%E7%86%B1%E7%82%92%E5%BA%97%E5%8C%85%E5%95%86%E9%81%AD%E9%85%92%E7%93%B6%E7%A0%B8%E6%AD%BB-%E4%B8%8D%E6%A7%8B%E6%88%90%E6%AE%BA%E4%BA%BA%E6%AA%A2%E8%B5%B7%E8%A8%B4%E9%85%92%E5%AE%A2%E5%82%B7%E5%AE%B3%E8%87%B4%E6%AD%BB%E7%BD%AA-140601524.html",
           "time": "2026-08-26 14:06:01",
           "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "花蓮弊案爭議",
-      "city": "花蓮",
-      "place": "花蓮縣政府",
-      "level": "red",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "花蓮男持汽油要脅妻見面 預備放火判刑七月",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5552420",
-          "time": "2026-08-26 09:46:34",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "花蓮男持汽油要脅妻見面預備放火判刑七月- 花蓮縣",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MdDMwSTJzZkFlX1Q2aDEwS3B6cklJY3V5MXJOZERNNEExWGMzWmJuNzQ2S2pjVnJHeGtEeWhyLUxpM3ZZcjltY2NXeUtoX0RQVHNjQ0RtVk5OY05aVE9acnZybXRZUlZP?oc=5",
-          "time": "2026-08-26 09:46:34",
-          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -5264,391 +5586,6 @@
       "comments": []
     },
     {
-      "title": "澎湖地方動態",
-      "city": "澎湖",
-      "place": "澎湖縣政府",
-      "level": "red",
-      "news_count": 53,
-      "comment_count": 0,
-      "negativity_pct": 6,
-      "is_urgent": false,
-      "urgency_score": 62,
-      "news_articles": [
-        {
-          "title": "澎湖花火節雨中謝幕無人機燈光秀吸睛- 台灣萬象- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FYWtVNGlRQnZ5M3lLZ0ZhcjNSRTlrUEpnQmlHUktWWU9TVkY3SHN1aWRIcGI3UHVTamVoMlZfZG1NcFJLbzRoQ2N6b0tmckR3ZkFiczlUbm56N2FwNms1MGxXMVIyQQ?oc=5",
-          "time": "2026-08-27 08:05:01",
-          "publisher": "Google News→華人今日網",
-          "severity": null
-        },
-        {
-          "title": "澎湖廚餘廠推新設備 提升效率改善異味(內有影片)",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vMlZfNUIweGxpNE5NXzN2VExmWGFzV2c0bG5jMU9qSlNSSEgtRWR0NFJJRG1XRGhXRlZDanJNRVZuOHU4MkhTZS03dzBnTVZJcVJiUHJmNDJ0c3hSakt2T3o5RXFIOTFnNUg0?oc=5",
-          "time": "2026-08-27 08:04:17",
-          "publisher": "Google News→澎湖日報",
-          "severity": "yellow"
-        },
-        {
-          "title": "罔顧民生 台當局拒恢復澎湖「小三通」",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zRU1zLW5OWmZWV0NwVDNxbEJvOURGZWFkZUR6WUFaVDJFZlY4QVRfZDl0Y0tyZXpmbFYxekdHSC1RV1YzR2NLSVg4WEFrcllqWFFwUEtCYlh0SFJmcG84bm55dU5oMTAwUGhBYXZmZUFFd3Br?oc=5",
-          "time": "2026-08-27 04:21:40",
-          "publisher": "Google News→大公文匯網",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖廚餘廠新設備 有效減臭",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0VEN5b1Q4cUEyOHluMkZWQTlLdGItZDBTaXd5dFdwS25LTy1NYTVIVFZJZjRKUXZORUpOVXhNZDJJVy03RWhNZDJpTTFUNWtwV0p6SXI5TURHa3c1WTI0aGZXV0Vxb18zMVRF?oc=5",
-          "time": "2026-08-27 04:10:00",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "澎湖縣政府文化局2026駐館文創家藍手起家9月工作坊課程開課",
-          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxObE4zY1U1dEtqbmJ3SzJWRWExTENBUUxBaHA1SEtqUE94TFJxYktTTkw2UVBsSGpOMXdfOWtoRGxTWFZYT3BsRldDNzEzNXBYdVZzTkVfYW5BWDdxLWRqM2Q5UXFxMHVPRllfSVR3SlNQQ0tkckVTdlpjektBWFJwSjNEUVRvbjU0LUY3OWEwYmFpV2MzUWk1dDl4V3Q1S0dNMlBfVG9sY3RDSGVzV2JLeUl6MEhfb2dpNm44Zk5CS0R5LXoyTmoxT09RQnVvUUhSR1dVanZnTkdrOWNSYk5SMHJnZTFBcU8yZmQzdnBlLVFjUS1aLWFyU3p3MVBzQWg5ZnpLUEtsTlpRcEo5aFV1SHM3aElVUTVnSjFLYTZQbGtQdEtmZ0pNb3pvMmI2RkZNTHM2dWF2MUVUekQ0?oc=5",
-          "time": "2026-08-27 00:19:28",
-          "publisher": "Google News→澎湖e傳媒",
-          "severity": null
-        },
-        {
-          "title": "澎湖加強民宿夜間安寧管理 屢次違規最高可罰5萬元",
-          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOeWhaQ0Y2Z0FZRVNGZ2MwelFfV0NMTE5yekpiajk3OTVWZTRiWXE3UU13S0R3clo2NGJmaWpFbDZuYVE0SUlrcmRJZ2hGcDJWaVhMd2tqcmdQYXJvc1VUc28zV2htZUhSLVp5RWVqczlxNHpoZkVzcHlMUWRiNnNSWWJiOWJicV8ydERFMm1rVG1IbnNHSXU0dlpnZjVMaVpUSmtpdXhxbG1VTEZqclVjVDFxZDRnTHdFUFVzRlRHdnh2dHV1N0txN25JWXBnUm82MTZCYVc0aG9ONWIxbWNKeWFRZ0VLVU5vTVdzM2N5SHlmR1hsOHA1SWxPQlJoWkNleVFnR1R2TVZocDdoTE9iX2U3NjRIM09LVUtlMjRUX1F5SW96NUVRUWQ4ZVVPcldRdkJPb19UQ3hqOC1WeXdZR1QtTEw?oc=5",
-          "time": "2026-08-27 00:04:19",
-          "publisher": "Google News→澎湖e傳媒",
-          "severity": "yellow"
-        },
-        {
-          "title": "「觀光雙輪驅動方案」住宿獎助9月上路 澎湖縣府籲業者勿哄抬房價並嚴禁不實申領",
-          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPSDRWZEl4RFNCNjdOSmdlS281REd6eENhcWUzaERocjFyUlFLWV83UmFhd3RHaDhHa2cwSHJEd1NLMjRMQ2ltSm45aFpYSEZoUVpiUXpSYloweThpY1dSSjFpQjhMV3l6aXQwcHd2am1YNHY5d29hbnExMEJNR1c0QVFfdG5UNlJsbkNtbWp4RmN4bUhaVEhwVmI2MHBKR3hkcXh3bmUzUXdua0s3WXBnUDlveGNjUUpSUGxEbUhwWWowX2lNZGpUV1NZdEFRSUowLW1SV0d4X0NSTzJ4Z3cyU0ljYlQtbWRHYUNLSFpUdHhmWVQ0YVRkcURtakNQd2Z0V0FTdDlnTGpBLVc2c0F6VG8wazFjRjVZV3RSRENNWHVNajhxRmVHamdBREJCWlJaN3FFWjVFdGhIOFc3VEFzNGNqVDQ?oc=5",
-          "time": "2026-08-27 00:04:12",
-          "publisher": "Google News→澎湖e傳媒",
-          "severity": "yellow"
-        },
-        {
-          "title": "嚴禁攀爬澎湖跨海大橋 守護文化資產以免觸法受罰",
-          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNRjgxT3NUNlB3bExNczU3N2VoVmpha1B1bzg2XzhXcGRSMmQ3cC14OHliYXVNS3lqYkpBakFwYm9zT3VqbEhBc1p4ZWR4amQxbnczUXZBa3NqXzc5TUdUNmhhVHk1OERNdFRMY0hKLUQyVU0tM3RRT0U2Q2hqLUJrdzA4UWlodU1sXzB3V2NYS21PRUROdjhTRTNmczBBbUYzVzY2WGo2V3VrNHo1TjlSbDRkQlg3R2NiSnk4dVBxRGJleWhrRGZ0R3lQaW54VUdpNmVqaUJuQjZjV3ZqSzU5cmdTbEpZYnRhbElSdnVGZHJmdEVFaU9Kai0zMkdZUFNhR0VzZ25IWGJYWU5iOUVUQUl4a3FkOUNGaVViUFo3VlhrVDFUeE5XZVYycWdKbXBXSEdlZkdfTzhBdmpmRFRyTzlhOA?oc=5",
-          "time": "2026-08-27 00:02:21",
-          "publisher": "Google News→澎湖e傳媒",
-          "severity": "yellow"
-        },
-        {
-          "title": "清澎湖海鮮急徵砧板師傅",
-          "url": "https://www.cdns.com.tw/articles/1449809",
-          "time": "2026-08-27 00:00:33",
-          "publisher": "中華日報",
-          "severity": null
-        },
-        {
-          "title": "澎湖榮服處分區座談會凝聚愛國意識×精進服務照顧 | 勁報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uVDN1bktKRFp4NUFYU1Q2UXZNelhPQWxwUzBNc29TM1VwV01HdEZ3NVp5MU1aa2lCNnE3MnJxOEpxdTNCTTF4cHIxOGdYbzJ0am5SMGRn?oc=5",
-          "time": "2026-08-26 22:37:37",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "澎湖榮服處分區座談會 凝聚愛國意識×精進服務照顧",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tN20yMVNDanNtX1NpdjlwaU5iSng5dkY4VnlBLWg2UVBGek1CVVN6dWRMdzk2TUxQMm9iT0V1ODNVOU5LbF9wN1o2eG0yUGNZSmc?oc=5",
-          "time": "2026-08-26 22:22:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "澎湖區漁會與海保署放流魚苗、水晶鳳凰螺 增裕漁業資源|新創臺灣",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12SE54MzBZLUVZMUpfNWloVjdqZkpYQjhRRm13UTNtbWFLR0UyZjF2bHl6bDZNVEhyQ1dmTWhaX3FjLWtQSnVZRm43Zw?oc=5",
-          "time": "2026-08-26 22:00:00",
-          "publisher": "Google News→僑新聞",
-          "severity": null
-        },
-        {
-          "title": "澎湖跨海大橋男子攀爬拱門打卡 網民斥「離譜」促重罰 當局稱依法懲處",
-          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQOHZMelh1MnVaejl1a3NFcWNOeENENXF6MVVjdzV6d1V2V2NZMnYzZExXdmZPRlg0c1hZRjRkT3FhZnNMN1I5NGxIem5fN1JkZlNfZEtIdV90MTQ4aFdXWWpuMk9ianBxRVNDRkU4dGVfemYtZXIyRjhfQmtOVUlQSEQxNm84V3FuUExSaE1LVEt4TnZzcXd2Wl80NUp6Zll1TUZtQWJSRS1UWjVoOUFWX21ZUWFweXZibVh6N0RJNDNRcnJiRU5QbXlNN0ZFZWlyUGItSnJENk9mcTVkbjNnMFh2RE5PZ1I3dWxRVGs0MUVXNXlLSDQ3WHh6M09uVEowT0liRXpYQS1jR1VLc1M4R00wN2taQ0NBeFZZdGxrTFg2bUVxaTAwRVlsaDlJQ2NPd2hYUUZnSXVReFlnUEFpaWt2TWFyZUhOZEgwcUxhTGhGMlNydmVUQXd1djUtZw?oc=5",
-          "time": "2026-08-26 18:05:42",
-          "publisher": "Google News→i-cable.com",
-          "severity": "yellow"
-        },
-        {
-          "title": "風雨擋不住的堅毅！澎湖花火節圓滿閉幕 縣府攜手志工築起廉潔防線",
-          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNSGN3eXJKQ0NKUHhHOU5jdThlZVJ3dU55MmpNYnJ6R1pZTmhYWlhuY0NqLWFxRDdEUGttSldfSEk0elBENlVIVUk0Zm50UnMwT2oyMzUyTUR0THZ6c2ZkRktpWWlMa1B6a2JPS3RJbXNDNktudnV6bWdibXJoZFFvRnBFTEx3bS1qWXFsdjJPSWlNcTVEZllOWlN6enRNUVkzQWJJNVQ3b05kazVxSmRWaW12Q2pQaUVFWkZDa3V5cjBVR1ZLbkxmbFoxVDdyVTc5akJRZGN0TEM5MTN4THJ1NVhEMHFtUEp2SE9pM0xlcVBnZGh0MWNFb2J5SjRWTlBjOXl2aW4zbGQzSURZamo0NkdFb0dFM3RUaEw1bmx6OVh1NGNuR295TWw1MmlJV1djT1J4YVlydjl1a3FkTzBDR0lBZw?oc=5",
-          "time": "2026-08-26 17:52:08",
-          "publisher": "Google News→澎湖e傳媒",
-          "severity": null
-        },
-        {
-          "title": "傳遞平安祝福！台中大安區農會攜手拱天宮 推出白沙屯禮盒",
-          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5553213",
-          "time": "2026-08-26 17:32:21",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "脫序男爬澎湖跨海大橋拍照！網轟「超沒水準」 最重可罰200萬 | Newtalk",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45Szh5RjR0ZFZhWDBybUVHVjdRUzNQNkRyaXd4cXo1THZWOUJjdjE4QU5pcnVwTEhXbjVDblhDaUpmQjlqQmcteDV3TmV0bU1MN3NRU2ln?oc=5",
-          "time": "2026-08-26 17:19:15",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "脫序男爬澎湖跨海大橋拍照！網轟「超沒水準」 最重可罰200萬",
-          "url": "https://newtalk.tw/news/view/2026-08-26/1055845",
-          "time": "2026-08-26 16:54:47",
-          "publisher": "新頭殼",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖跨海大橋驚傳「玩命攀爬」 文化局祭文資法最高罰200萬",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EZ2pZZXFid05MOVhZQjVyQzdPc1hrQURfVWo5eFo2RHlOcFU2RG4wTHlscHJoZ2x2eDdMYU1fekFIZ2xzVDd4YWRBYjNnRDUyN0lvT3NJU1JlR001ZFQzRUx1YnVoYmJjRVZ5VWtB?oc=5",
-          "time": "2026-08-26 16:13:19",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "國海院攜手未來親子出版《博卡喇的銀角仔》 推廣澎湖海域水下文化資產",
-          "url": "https://www.thehubnews.net/archives/658558",
-          "time": "2026-08-26 15:55:16",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "玩過頭！ 遊客爬澎湖跨海大橋拱門「拍照比YA」 恐吞200萬罰單",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-08-26/2447960.html",
-          "time": "2026-08-26 15:51:08",
-          "publisher": "壹電視",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖海洋實驗小學提前開學合橫國小啟動1年4學期制- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16Tk00Q1JlVXVqS1VoRHp4VmczUHdoQlB5ZTAxZVdhbFhQTHZxNkd3TkxwY01DeEZWTS1BdWJkYVgybG8xd1RoSnRPTldtdThlMmJuaC03cm8yelFTaTRqUG9UOFc?oc=5",
-          "time": "2026-08-26 15:03:08",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "澎湖海洋實驗小學提前開學 合橫國小啟動1年4學期制",
-          "url": "https://news.ltn.com.tw/news/Penghu/breakingnews/5552917",
-          "time": "2026-08-26 15:03:08",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "89猴大鬧澎湖！攀爬跨海大橋拱門喊「正義魔人別來」 最重罰200萬元",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2M3NoMDlJM3VSZnBGTVNuMEdlTk9wQ0VLSTd6MGlfelNxSGpPanFKbkRuZVlxSFEzS050TVROSzdUNURMeWNwc2VtMkR5UTg3NUtja2hlQk9JM2VVdHV1aURoaElWc2VjQ2tBcE9HOA?oc=5",
-          "time": "2026-08-26 14:40:00",
-          "publisher": "Google News→知新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "白沙屯信仰文化結合「台中領鮮」 大安農產「大安禮尋、大安好禮」特色禮盒亮相",
-          "url": "https://more-news.tw/703514/",
-          "time": "2026-08-26 14:40:00",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "地方 2026/08/26 12:47 澎湖廚餘資源化 新設備提升效率改善異味",
-          "url": "https://news.cts.com.tw/cna/local/202608/202608263071573.html",
-          "time": "2026-08-26 14:23:13",
-          "publisher": "華視新聞網",
-          "severity": null
-        },
-        {
-          "title": "澎湖廚餘資源化 新設備提升效率改善異味",
-          "url": "https://newtalk.tw/news/view/2026-08-26/1055793",
-          "time": "2026-08-26 14:13:33",
-          "publisher": "新頭殼",
-          "severity": null
-        },
-        {
-          "title": "澎湖廚餘資源化新設備提升效率改善異味| 政治",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zTldUcUluTUpmTjlLWDctNmw0bkxEV1pMa3VsbkpfNWl1aWNZdF9OaGlZRUt6UEUxZTRSVnBpYmZCRWE2eWtjbmRpMTVoMGplMW9rZEFYU2FNYmc?oc=5",
-          "time": "2026-08-26 14:13:33",
-          "publisher": "Google News→Newtalk新聞",
-          "severity": null
-        },
-        {
-          "title": "2026澎湖國際海上花火節圓滿落幕 720秒煙火照亮最終夜",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YYktFWTJHSmEzemQ1R2FkNm9HaTRoelVKamRmTkk5ZmNsenBNZll1elRReE01NGg5aFJXZ1V6TjRHb2FaRkMtR3lTN3A0ZG45bmc?oc=5",
-          "time": "2026-08-26 13:32:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "澎湖廚餘廠新設備減臭味 議員籲持續改善別只是一場秀",
-          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNd1BGTk41anRFejJuUks5Ykh0VlAySnZNZTVPTFo2R2tmdVZBazA5endqUlU1SGlyNjlfblEwcGEzODFoRTZPUUhlempyNjFEbG90clMtZWhXVlYtd1JPWVhkd09wb2wtUjN1SWxmb21FZjIwaVNkckFPODFHSHdrVEtIaXNxYkZkN3lLSWlkM1JfOWQ4d0ZYY2ZLYzVNRndIWkVFYWZwRlNKTV9walRpd2hBUElBNjVWZFNzQ0l4dk9TQXFOUEJ4RDJlbmlZZnY1TmxZMlNBMERvSDlkYjFIV1EyWm5QWG8yVE91SW51YlB5OGRwV3BUeGNrZ2RONUtDbFVzOE9ZRE5ZR0haNm41OTdTd0lCMWxpemtUdmRxYXRhMDF6dEhNbllwZEdmb0JzcUhJX29RYlFCM1dGZnRia2JJazlaRWJRUU1hNUdNYS1ETXVteW1OUWh2LXlneFl5eF9BeDhiWmhXdw?oc=5",
-          "time": "2026-08-26 13:24:31",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖廚餘廠新設備減臭味議員籲持續改善別只是一場秀- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5raUlDNTlvQnJqMFhTVk8xWGt5Ml8yZUVTMTRHX0Q4QUtvLS00cmJGSWduVmZVb1hDRkN4a3F3NW1OMzd5QWdQMWFqaXI2bEJ1em9YSGF5Y2txa0Z3T3JVLUJMcms?oc=5",
-          "time": "2026-08-26 13:10:04",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖跨海大橋驚見「猴子觀光客」！遊客爬上拱門拍片 最高恐遭罰200萬",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWkJ0NWMtT1JPdmwyNnZ6WmlhZ0lsTjg4MmQ0aDhzckVWbXJybEhlcHExNW9nSHZyOHBtWkNHLW1rckNYRV91N3lfeUd2ZlVxVWJqVHkyNVN6QnhIYi1OLUQ2MEhqMGI4c2lMOFdmSUVOMXkxdnNmOFJ2TlM5aTVsYVFqa0ktQQ?oc=5",
-          "time": "2026-08-26 13:07:00",
-          "publisher": "Google News→緯來新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖縣廚餘廠公開說明會圓滿落幕 環保局攜手聚勃國際共推循環經濟新典範",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kYTFqLVhuN1A3ajVjR28tS2FqcTBWMTE2S1hZNF80a0lXeEhMYlBQeHhYRE95MVE3dmV4SmRqYmdUUHNzYTI4Q3NTc1k0VWRRbGc?oc=5",
-          "time": "2026-08-26 13:04:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "澎管處揪團赴2026新加坡秋季旅展 拓展澎湖國際旅遊市場！",
-          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNZExkcjlJOS1zWTBBbTg5T2ZNaGp4V2NORTVNVXpNRlM3LUdiWUg1THpzeGNLVy1JYm5JTEhlZFB6ZUF1aU5YbjlabEh5NUVjWjR4Zmc3WnRrUEtIQjVMUVdvelRhNzhXWUtBQnVHNkI3aVhfYjl1YmFjZ2x6b3RqNGJNeHRkY3JiX21McmhkdnRqbkdWR1NVM05TZ1F5T3B4Vk5nYlVoLUdNb0l3eVpEbzNNQmQzWmRsTENSS0hLekFiUWplNlFkSnZ5SmdnR0d1MTk2WHhvb201OGZ3aG5TZ2cxRmVHSTBoMHB3Uk9pdHQ4RG90cm8zeWJ4N2JTOUlOLTZiZEcyZVpZNndXMzlfaFkwYkZoek5iMGRxajhpUGdpQ3NRcWwwckh6b1kza21PaGVjeHVzWXNYYTcx?oc=5",
-          "time": "2026-08-26 13:00:00",
-          "publisher": "Google News→澎湖e傳媒",
-          "severity": null
-        },
-        {
-          "title": "澎湖廚餘資源化新設備提升效率改善異味| 地方",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RTHBJaFltenNMRWw0RFQyeUNTdS1kUG1qbkxqeU8zWTdYUFMxMm00dmw2RVBOVTRuUXlMVlB0UHJ5OGg2d3YwM0VES3dNR1FQVGg3VUEtSmx5c1dhVXU4?oc=5",
-          "time": "2026-08-26 12:47:00",
-          "publisher": "Google News→cna.com.tw",
-          "severity": null
-        },
-        {
-          "title": "2026離島國旅補助攻略》澎湖金門馬祖最高省3700元！加碼好康一次看",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLcjhkdTVid0xWd2Y4NmtFMS1Kc294cVhvZzk5ZDh4ZWtZOTlDd3Z5OXl1WkpadmZzV3VFOGlncGpManBUR2JqQjFNYVNOUQ?oc=5",
-          "time": "2026-08-26 12:43:00",
-          "publisher": "TVBS",
-          "severity": null
-        },
-        {
-          "title": "澎湖廚餘廠爭議後推新設備 分離油脂作永續航空燃料原料",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wQlpBdlc5eTI5MW9YR0JVS0NkREpfMmpHb2tFeXloMllYTUoyQXRDbDN4VUpybFlCRUxFUURHaEtzdjlRMENtdlNTT2EtRGZaejA2bDJ3amFJci1FUjcwM2dETUZpUkJxWFBoVUpR?oc=5",
-          "time": "2026-08-26 12:32:30",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖廚餘廠爭議後推新設備分離油脂作永續航空燃料原料- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42dnBpZDBfaWkxLXloMk5ZRDBhYjVwSmxpRHg2QjBMVkZGc3NEMFhSVUVidWlJc1lMc1FtWmxKYnBiRWdVcE1kT2l0OW16MWxVX2xvLTFHT2lkdUZrem1j?oc=5",
-          "time": "2026-08-26 12:32:00",
-          "publisher": "Google News→工商時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖南寮浮球秘境拉警報 遊客攀扯「竹竿」恐毀全球百大地景",
-          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPTjVNc1JIejVBQ2YwdER4d3ZOelhoZUxqNEhmemY2N296dm0xY1BteFFuVFFibmFVME9YNzZZX3NjdzM2eWotLWdnLXRrNXk1RTZ1a3gtN2JmcEhhODVvV0U0Qll0SHBFSmhvRVNVbFJ4b29aeDZhR3ZPVnlodlRmVnEzYkRuY3pJSVRoUUFxZXhPanFsZXJOMHpPTVQ2eXU5b3U0NzFhRkkzVkNHR3JYVXhKdXloaXZUX1E5N3ZPUXRJU0hLa0ZhUmRBNjc3Vkd4UUNIMUFOQUZ3Z09UeGYxUGJPQWM5QzFVTllSOENkM0NWT3J3WkhsU0IzTUNoc3lzUGpoLXBpMHRZZ25YWWxMY1RBTlo1TEdhd1JfSk5ySnhJSzZqYTRKLUg4aTF6bjFtM0lEcDFFek1KNl82dVBhdDVhZU1PZHJyNWRsUXZtNVBaeDBscWxOT2QtQlRzdU9qaG9XOXl4VG14OHFSZFdHWmVTYjdTMWozMTBHTlJPeS1FLXM?oc=5",
-          "time": "2026-08-26 12:08:13",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "脫序! 男爬澎湖跨海大橋拱門\"比YA\" 最重恐挨罰2百萬| 民視新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fNnkwME9pZ1kxZFUxLTYxeG1hQzBUa1pSQzlkUU96OWQ4Tm9URmIxNERMM0tTOHNRXzJSekhydHI4Nl9nbVZxcHdJWXg3NlBxMzdiSVd3?oc=5",
-          "time": "2026-08-26 12:05:12",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "玩過頭！攀爬澎湖跨海大橋拱門 最高罰200萬元 | EBC 東森新聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91cS1IcGI3LU9SM3g0UTVmeG1LalJnRHp4RHlaV0VUTkRhMjBqTHNsTE1XVW9CM2NuYWE2blFvUHk0amN3Wl9vQ3JVX1BEUEhFOHpISUZ3?oc=5",
-          "time": "2026-08-26 12:04:11",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖南寮浮球秘境拉警報遊客攀扯「竹竿」恐毀全球百大地景- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Cdm5Vbm8xQ0tRZkdEeHZxWlBrc3VybHhOUVRFOHhybFdJc0dubm1QYjNlcG41Y2RxZHU0ZVl4MC0ycTRFbGFqNzJjWVl6NWRTMHhnZUI5d29Kc2VjVVVn?oc=5",
-          "time": "2026-08-26 12:03:00",
-          "publisher": "Google News→工商時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖縣廚餘廠公開說明會圓滿落幕  環保局攜手聚勃國際共推循環經濟新典範",
-          "url": "https://n.yam.com/Article/20260826448440",
-          "time": "2026-08-26 12:00:00",
-          "publisher": "蕃新聞→波新聞",
-          "severity": null
-        },
-        {
-          "title": "白沙屯信仰文化結合「台中領鮮」 　大安農產「大安禮尋、大安好禮」特色禮盒亮相",
-          "url": "https://n.yam.com/Article/20260826806139",
-          "time": "2026-08-26 12:00:00",
-          "publisher": "蕃新聞→墨新聞",
-          "severity": null
-        },
-        {
-          "title": "迎陸客！澎湖觀光業者盼重啟馬公、廈門小三通船班，國台辦表態「5字密碼」願努力推動| 楊騰凱 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IZ2Q5TFk2SlI0UHlnRzJGTnV4WUtqbzFtbFpGa2V5TThydDI5TmFyMGQwcm9JSWhRSk9ISUNWUkhvT1ctX2ZQdEpDSzNDUQ?oc=5",
-          "time": "2026-08-26 11:55:55",
-          "publisher": "Google News→風傳媒",
-          "severity": "yellow"
-        },
-        {
-          "title": "玩過頭！攀爬澎湖跨海大橋拱門 最高罰200萬元",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQWjBMWU9VRUVLeGZCbUxNVFlQN3NuTHNNUHdxOFlmWFUzYWNhQVRCeGZJQjlsWG9NQUlual9vSWdRYlRNeURaTDRVZFlrX2RPREZwYjVGT0I2cFczVDAxV0MyT0JJWU5aVWl6TGNfYnh1MFRSVDZCSGxtWjlGT2xTLW5oS3AtRS1RVHBOanBfU0NPanlXVTFjbzNQQ052ajJKTnpUUU9JbTJyNEVNVFFkYXpvUG5aSjRjZVdFckJWN2kxSXRubU5RdTFudnE3SXoxS29NUFliY3FnTl8tcWl3dW9QbVJFczgwN0NWNlZvX0pLbnNPY3NWS3hqQzJIMG5abExhM3pwRXdSajd3S2JNaERFeDFTM0l0aVdITmJOREFZaENiY2hDLXgyYTJheGhzMlE?oc=5",
-          "time": "2026-08-26 11:54:14",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "玩過頭！攀爬澎湖跨海大橋拱門 最高罰200萬元",
-          "url": "https://news.ebc.net.tw/news/living/568176",
-          "time": "2026-08-26 11:30:00",
-          "publisher": "東森新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖跨海大橋驚險畫面！白衣男爬上拱門「坐高處比YA」 文化局喊重罰| 太報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxLTJlNU94VmVxeHVTRmZDT19QVlJYUVNpUm50QXZ2ZnRUbV8tQ3pXZVZrTy1TUngyaFVrcl9aMFNUX0hzaUdwcG9NVnd5Nl92QmNhSEZn?oc=5",
-          "time": "2026-08-26 11:29:53",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖跨海大橋驚險畫面！白衣男爬上拱門「坐高處比YA」 文化局喊重罰",
-          "url": "https://www.taisounds.com/news/content/96/285199",
-          "time": "2026-08-26 11:28:53",
-          "publisher": "太報",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖跨海大橋驚險畫面！白衣男爬上拱門「坐高處比YA」 文化局喊重罰| 社會焦點",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56bGtpZkxQYXRZQnZ1dFRaV3pmaW1qdXc1VVFQeFF3Q1dxNjF3UDY1emx0NnpoTllYdEhDcnhjVGV3YWtPOXV3R0dWQThTRXFPbUY2WElQb1cxTHNI?oc=5",
-          "time": "2026-08-26 10:45:32",
-          "publisher": "Google News→太報 TaiSounds",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖跨海大橋驚險畫面！白衣男爬上拱門「坐高處比YA」 文化局喊重罰| 旅遊飲食",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aSFZTMDh6SXc3bFlINjEtWTBnNU1UTUZLb1VMTUJWNkNjbm9NYzBuOE8yVXRFOHZiMFlIRVNwNXhOS0MyYkctWDY1V2pTZzVfdVpIODY0STFvaGNV?oc=5",
-          "time": "2026-08-26 10:45:32",
-          "publisher": "Google News→太報 TaiSounds",
-          "severity": "yellow"
-        },
-        {
-          "title": "陳振中提永續海洋資源 守護澎湖海洋之母 | 自由電子報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tMUgzLWNnM0dqNk5aMUxtN2h5MTJlVlFmeTdERGl4VHJvd3R1YXFCRThMaXYxQTg5eUQ5ZEd1RGlKd0dQTjh6bUJOZDJYVnQ2dkc1a1h3?oc=5",
-          "time": "2026-08-26 10:04:11",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "海軍繼光艦女兵揮打戰情官 澎湖地院判刑6月",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxNThDOVlYREhzNUpqSWY4QkdaQnJQYU1TeE9wWDduejVraWF1MkRXanR6YmxveHRobHJPWk94YUtZR0w5OVlTSnBkR2dxUkIxVDlSM1duUEpiT0FablhISWUzMGpmOWhNMmFZRU9R?oc=5",
-          "time": "2026-08-26 09:47:12",
-          "publisher": "中時新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "「白衣猴」爬澎湖跨海大橋「比YA」玩命打卡 文化局將重罰",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DeWxGbmYycHpuR3hGdE5DYlF3aVBIR0VQOElIUXl0X1hkeTl5WENhQ2FlUFd1Z0FJVFNfeTFEOGJadGIwampNUEhpMzJXOEE?oc=5",
-          "time": "2026-08-26 09:45:00",
-          "publisher": "TVBS",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "苗栗地方動態",
       "city": "苗栗",
       "place": "苗栗縣政府",
@@ -6108,11 +6045,11 @@
       "city": "台南",
       "place": "台南市政府",
       "level": "red",
-      "news_count": 67,
+      "news_count": 66,
       "comment_count": 0,
-      "negativity_pct": 7,
+      "negativity_pct": 8,
       "is_urgent": false,
-      "urgency_score": 82,
+      "urgency_score": 81,
       "news_articles": [
         {
           "title": "毒廢料偷溜台南釀大爆炸！ 蔡宗豪、李中岑質疑：別讓台南成黑心業者的垃圾場！",
@@ -6574,13 +6511,6 @@
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5552437",
           "time": "2026-08-26 09:59:00",
           "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "青年創意轉化為防災行動 台南市府支持後壁試行備援通訊",
-          "url": "https://tw.news.yahoo.com/%E9%9D%92%E5%B9%B4%E5%89%B5%E6%84%8F%E8%BD%89%E5%8C%96%E7%82%BA%E9%98%B2%E7%81%BD%E8%A1%8C%E5%8B%95-%E5%8F%B0%E5%8D%97%E5%B8%82%E5%BA%9C%E6%94%AF%E6%8C%81%E5%BE%8C%E5%A3%81%E8%A9%A6%E8%A1%8C%E5%82%99%E6%8F%B4%E9%80%9A%E8%A8%8A-014900715.html",
-          "time": "2026-08-26 09:49:00",
-          "publisher": "Yahoo新聞",
           "severity": null
         }
       ],
@@ -7144,11 +7074,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 97,
+      "news_count": 95,
       "comment_count": 0,
-      "negativity_pct": 6,
+      "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 115,
+      "urgency_score": 107,
       "news_articles": [
         {
           "title": "2026.08.27 05:55 05:47臺灣東南部海域規模5.2地震 最大震度臺東縣東河、花蓮縣富里3級",
@@ -7814,20 +7744,6 @@
           "time": "2026-08-26 09:55:12",
           "publisher": "Google News→更生新聞網",
           "severity": null
-        },
-        {
-          "title": "花蓮男持汽油要脅妻見面 預備放火判刑七月",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5552420",
-          "time": "2026-08-26 09:46:34",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "花蓮男持汽油要脅妻見面預備放火判刑七月- 花蓮縣",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MdDMwSTJzZkFlX1Q2aDEwS3B6cklJY3V5MXJOZERNNEExWGMzWmJuNzQ2S2pjVnJHeGtEeWhyLUxpM3ZZcjltY2NXeUtoX0RQVHNjQ0RtVk5OY05aVE9acnZybXRZUlZP?oc=5",
-          "time": "2026-08-26 09:46:34",
-          "publisher": "自由時報",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -10539,11 +10455,11 @@
       "city": "高雄",
       "place": "高雄市前鎮區",
       "level": "red",
-      "news_count": 180,
+      "news_count": 176,
       "comment_count": 0,
       "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 219,
+      "urgency_score": 215,
       "news_articles": [
         {
           "title": "高雄暴雨4天狂灌1183.5毫米 陳其邁感謝各界馳援：都記在心裡",
@@ -11776,34 +11692,6 @@
           "time": "2026-08-26 10:09:15",
           "publisher": "聯合新聞網",
           "severity": "yellow"
-        },
-        {
-          "title": "讚陳其邁向台中求援盧秀燕：領導人要勇於開口解決問題、不是推責任| 政治 | 要聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kY3dpd2o2VnRZb0FzQURoY1ZVQ3ZSZm9hZ0RRWU14M29Wb2FfZFAzMGUtN3hUazlzMDhkUWx4aDI5SU5mY3FMVkk1Ql9tRlJ1UlRPc01B?oc=5",
-          "time": "2026-08-26 09:47:19",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "讚陳其邁向台中求援 盧秀燕：領導人要勇於開口解決問題、不是推責任",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kT2R1cS1ON0M5TnBMWmVSajB0MDRuQXM2R0VmMXpTRU9HMHhtMjhSMF9NTEVna2MtanAzMUVzeGV2YnlNMlRUempLLVREY191M0prVWF3OGFkY2h5eEF1eERnUlk2NmhERFlmLXI4X095d9IBVkFVX3lxTE9iUTNzUEdrdHYtVlVZTjRwOURNU0xIdTRsTkxfT2E2QW1QMEdOY1RNUzFKQnVUM0U2aUMzSzJwNG9VMkMxbE92a3BRakdSNzVFbjZSdGtR?oc=5",
-          "time": "2026-08-26 09:47:19",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "讚陳其邁向台中求援 盧秀燕：領導人要勇於開口解決問題、不是推責任",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEbmpqRlJWWVlJVVVNUzJyQkRoX0w2ekhFdDhpVlJ4VDJzTUdSdXRDQjBvNENnY21ZVU4xdjF1eE9xdlowQkl2VDhuRGpVRWNw0gFWQVVfeXFMT2JRM3NQR2t0di1WVVlONHA5RE1TTEh1NGxOTF9PYTZBbVAwR05jVE1TMUpCdVQzRTZpQzNLMnA0b1UyQzFsT3ZrcFFqR1I3NUVuNlJ0a1E?oc=5",
-          "time": "2026-08-26 09:47:19",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "讚陳其邁向台中求援盧秀燕：領導人要勇於開口解決問題、不是推責任| 政治 | 要聞",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEbmpqRlJWWVlJVVVNUzJyQkRoX0w2ekhFdDhpVlJ4VDJzTUdSdXRDQjBvNENnY21ZVU4xdjF1eE9xdlowQkl2VDhuRGpVRWNw?oc=5",
-          "time": "2026-08-26 09:47:19",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -11813,11 +11701,11 @@
       "city": "台中",
       "place": "台中市西屯區",
       "level": "red",
-      "news_count": 275,
+      "news_count": 270,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 308,
+      "urgency_score": 303,
       "news_articles": [
         {
           "title": "趙建銘進駐台中開診所？徵護理師月薪4萬起 議員：更歡迎陳幸妤來",
@@ -13708,41 +13596,6 @@
           "time": "2026-08-26 09:59:00",
           "publisher": "Google News→蕃新聞",
           "severity": null
-        },
-        {
-          "title": "台中東勢大橋驚傳「阿公墜河失蹤」！全力搜救中",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E6%9D%B1%E5%8B%A2%E5%A4%A7%E6%A9%8B%E9%A9%9A%E5%82%B3-%E9%98%BF%E5%85%AC%E5%A2%9C%E6%B2%B3%E5%A4%B1%E8%B9%A4-%E5%85%A8%E5%8A%9B%E6%90%9C%E6%95%91%E4%B8%AD-014741504.html",
-          "time": "2026-08-26 09:47:41",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "讚陳其邁向台中求援盧秀燕：領導人要勇於開口解決問題、不是推責任| 政治 | 要聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kY3dpd2o2VnRZb0FzQURoY1ZVQ3ZSZm9hZ0RRWU14M29Wb2FfZFAzMGUtN3hUazlzMDhkUWx4aDI5SU5mY3FMVkk1Ql9tRlJ1UlRPc01B?oc=5",
-          "time": "2026-08-26 09:47:19",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "讚陳其邁向台中求援 盧秀燕：領導人要勇於開口解決問題、不是推責任",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kT2R1cS1ON0M5TnBMWmVSajB0MDRuQXM2R0VmMXpTRU9HMHhtMjhSMF9NTEVna2MtanAzMUVzeGV2YnlNMlRUempLLVREY191M0prVWF3OGFkY2h5eEF1eERnUlk2NmhERFlmLXI4X095d9IBVkFVX3lxTE9iUTNzUEdrdHYtVlVZTjRwOURNU0xIdTRsTkxfT2E2QW1QMEdOY1RNUzFKQnVUM0U2aUMzSzJwNG9VMkMxbE92a3BRakdSNzVFbjZSdGtR?oc=5",
-          "time": "2026-08-26 09:47:19",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "讚陳其邁向台中求援 盧秀燕：領導人要勇於開口解決問題、不是推責任",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEbmpqRlJWWVlJVVVNUzJyQkRoX0w2ekhFdDhpVlJ4VDJzTUdSdXRDQjBvNENnY21ZVU4xdjF1eE9xdlowQkl2VDhuRGpVRWNw0gFWQVVfeXFMT2JRM3NQR2t0di1WVVlONHA5RE1TTEh1NGxOTF9PYTZBbVAwR05jVE1TMUpCdVQzRTZpQzNLMnA0b1UyQzFsT3ZrcFFqR1I3NUVuNlJ0a1E?oc=5",
-          "time": "2026-08-26 09:47:19",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "讚陳其邁向台中求援盧秀燕：領導人要勇於開口解決問題、不是推責任| 政治 | 要聞",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEbmpqRlJWWVlJVVVNUzJyQkRoX0w2ekhFdDhpVlJ4VDJzTUdSdXRDQjBvNENnY21ZVU4xdjF1eE9xdlowQkl2VDhuRGpVRWNw?oc=5",
-          "time": "2026-08-26 09:47:19",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -13752,11 +13605,11 @@
       "city": "台北",
       "place": "台北市信義區",
       "level": "red",
-      "news_count": 346,
+      "news_count": 344,
       "comment_count": 0,
       "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 418,
+      "urgency_score": 416,
       "news_articles": [
         {
           "title": "北市女童遭猥褻240天未安置！他轟蔣萬安「只顧剪綵」：見光才急處理",
@@ -16164,20 +16017,6 @@
           "url": "https://www.ettoday.net/news/20260826/3225847.htm",
           "time": "2026-08-26 09:52:00",
           "publisher": "ETtoday",
-          "severity": "yellow"
-        },
-        {
-          "title": "台北指南宮大火！命理師示警「人多的地方少去」 小心軍事衝突",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E6%8C%87%E5%8D%97%E5%AE%AE%E5%A4%A7%E7%81%AB-%E5%91%BD%E7%90%86%E5%B8%AB%E7%A4%BA%E8%AD%A6-%E4%BA%BA%E5%A4%9A%E7%9A%84%E5%9C%B0%E6%96%B9%E5%B0%91%E5%8E%BB-%E5%B0%8F%E5%BF%83%E8%BB%8D%E4%BA%8B%E8%A1%9D%E7%AA%81-015017736.html",
-          "time": "2026-08-26 09:50:17",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "北市南港2公車進站爆追撞！「擋風玻璃全碎」畫面曝光 1乘客受傷送醫",
-          "url": "https://tw.news.yahoo.com/%E5%8C%97%E5%B8%82%E5%8D%97%E6%B8%AF2%E5%85%AC%E8%BB%8A%E9%80%B2%E7%AB%99%E7%88%86%E8%BF%BD%E6%92%9E-%E6%93%8B%E9%A2%A8%E7%8E%BB%E7%92%83%E5%85%A8%E7%A2%8E-%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89-1%E4%B9%98%E5%AE%A2%E5%8F%97%E5%82%B7%E9%80%81%E9%86%AB-014700324.html",
-          "time": "2026-08-26 09:47:00",
-          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],

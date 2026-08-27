@@ -84374,7 +84374,7 @@
     },
     {
       "date": "2026-08-27",
-      "snapshot_at": "2026-08-27T01:44:50.071811+00:00",
+      "snapshot_at": "2026-08-27T01:50:30.208720+00:00",
       "hotspots": [
         {
           "title": "台中車禍事件",
@@ -84391,20 +84391,6 @@
           ]
         },
         {
-          "title": "台南陳情/抗議",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "童小芸攔賴告狀 黃偉哲接陳情書"
-          ]
-        },
-        {
           "title": "台中陳情/抗議",
           "city": "台中",
           "place": "台中市政府",
@@ -84416,6 +84402,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "憂台中港填海縮減白海豚棲地 環團赴交通部陳情抗議"
+          ]
+        },
+        {
+          "title": "台南陳情/抗議",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "童小芸攔賴告狀 黃偉哲接陳情書"
           ]
         },
         {
@@ -84588,6 +84588,20 @@
           ]
         },
         {
+          "title": "苗栗弊案爭議",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "假冒檢警詐騙66人逾億元 苗栗檢方起訴機房2名主嫌求15年以上重刑"
+          ]
+        },
+        {
           "title": "台北弊案爭議",
           "city": "台北",
           "place": "台北市政府",
@@ -84613,34 +84627,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "性侵53童又爆新犯行！台中少棒惡狼教練持球棒、熱熔膠條體罰男童…11罪再判刑"
-          ]
-        },
-        {
-          "title": "苗栗弊案爭議",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "假冒檢警詐騙66人逾億元 苗栗檢方起訴機房2名主嫌求15年以上重刑"
-          ]
-        },
-        {
-          "title": "澎湖弊案爭議",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "海軍繼光艦女兵揮打戰情官 澎湖地院判刑6月"
           ]
         },
         {
@@ -84706,6 +84692,22 @@
           ]
         },
         {
+          "title": "澎湖地方動態",
+          "city": "澎湖",
+          "place": "澎湖縣政府",
+          "level": "yellow",
+          "news_count": 51,
+          "comment_count": 0,
+          "negativity_pct": 4,
+          "is_urgent": false,
+          "urgency_score": 57,
+          "sample_titles": [
+            "澎湖花火節雨中謝幕無人機燈光秀吸睛- 台灣萬象- 新聞",
+            "澎湖廚餘廠推新設備 提升效率改善異味(內有影片)",
+            "罔顧民生 台當局拒恢復澎湖「小三通」"
+          ]
+        },
+        {
           "title": "台中市政動態",
           "city": "台中",
           "place": "台中市政府",
@@ -84749,21 +84751,6 @@
           "sample_titles": [
             "基隆熱炒店包商遭酒瓶砸死 檢認定酒客「傷害致死」起訴",
             "基隆熱炒店包商遭酒瓶砸死 不構成殺人檢起訴酒客傷害致死罪"
-          ]
-        },
-        {
-          "title": "花蓮弊案爭議",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "花蓮男持汽油要脅妻見面 預備放火判刑七月",
-            "花蓮男持汽油要脅妻見面預備放火判刑七月- 花蓮縣"
           ]
         },
         {
@@ -84991,22 +84978,6 @@
           ]
         },
         {
-          "title": "澎湖地方動態",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
-          "level": "red",
-          "news_count": 53,
-          "comment_count": 0,
-          "negativity_pct": 6,
-          "is_urgent": false,
-          "urgency_score": 62,
-          "sample_titles": [
-            "澎湖花火節雨中謝幕無人機燈光秀吸睛- 台灣萬象- 新聞",
-            "澎湖廚餘廠推新設備 提升效率改善異味(內有影片)",
-            "罔顧民生 台當局拒恢復澎湖「小三通」"
-          ]
-        },
-        {
           "title": "苗栗地方動態",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -85027,11 +84998,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 67,
+          "news_count": 66,
           "comment_count": 0,
-          "negativity_pct": 7,
+          "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 82,
+          "urgency_score": 81,
           "sample_titles": [
             "毒廢料偷溜台南釀大爆炸！ 蔡宗豪、李中岑質疑：別讓台南成黑心業者的垃圾場！",
             "高鐵特區泥塑化加劇洩洪壓力 台南市議員杜素吟促發包防洪工程、升級仁德雙滯洪池",
@@ -85059,11 +85030,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 97,
+          "news_count": 95,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 115,
+          "urgency_score": 107,
           "sample_titles": [
             "2026.08.27 05:55 05:47臺灣東南部海域規模5.2地震 最大震度臺東縣東河、花蓮縣富里3級",
             "05:47 臺灣東南部海域規模5.2地震 臺東、花蓮震度達3級",
@@ -85123,11 +85094,11 @@
           "city": "高雄",
           "place": "高雄市前鎮區",
           "level": "red",
-          "news_count": 180,
+          "news_count": 176,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 219,
+          "urgency_score": 215,
           "sample_titles": [
             "高雄暴雨4天狂灌1183.5毫米 陳其邁感謝各界馳援：都記在心裡",
             "高雄暴雨4天狂灌1183.5毫米 陳其邁感謝各界馳援：都記在心裡",
@@ -85139,11 +85110,11 @@
           "city": "台中",
           "place": "台中市西屯區",
           "level": "red",
-          "news_count": 275,
+          "news_count": 270,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 308,
+          "urgency_score": 303,
           "sample_titles": [
             "趙建銘進駐台中開診所？徵護理師月薪4萬起 議員：更歡迎陳幸妤來",
             "遠傳參與智慧台中論壇，深化5G、AI城市對話，聚焦5大AI應用場景",
@@ -85155,11 +85126,11 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 346,
+          "news_count": 344,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 418,
+          "urgency_score": 416,
           "sample_titles": [
             "北市女童遭猥褻240天未安置！他轟蔣萬安「只顧剪綵」：見光才急處理",
             "北市女童遭猥褻240天未安置！他轟蔣萬安「只顧剪綵」：見光才急處理",
