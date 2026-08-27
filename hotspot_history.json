@@ -84374,20 +84374,8 @@
     },
     {
       "date": "2026-08-27",
-      "snapshot_at": "2026-08-27T01:34:49.986151+00:00",
+      "snapshot_at": "2026-08-27T01:44:50.071811+00:00",
       "hotspots": [
-        {
-          "title": "海線立委戰局",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 0,
-          "comment_count": 1,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 1,
-          "sample_titles": []
-        },
         {
           "title": "台中車禍事件",
           "city": "台中",
@@ -84403,20 +84391,6 @@
           ]
         },
         {
-          "title": "台中陳情/抗議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "憂台中港填海縮減白海豚棲地 環團赴交通部陳情抗議"
-          ]
-        },
-        {
           "title": "台南陳情/抗議",
           "city": "台南",
           "place": "台南市政府",
@@ -84428,6 +84402,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "童小芸攔賴告狀 黃偉哲接陳情書"
+          ]
+        },
+        {
+          "title": "台中陳情/抗議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "憂台中港填海縮減白海豚棲地 環團赴交通部陳情抗議"
           ]
         },
         {
@@ -84518,15 +84506,27 @@
           ]
         },
         {
+          "title": "垃圾山",
+          "city": "台中",
+          "place": "台中市大里區",
+          "level": "green",
+          "news_count": 0,
+          "comment_count": 4,
+          "negativity_pct": 0,
+          "is_urgent": true,
+          "urgency_score": 12,
+          "sample_titles": []
+        },
+        {
           "title": "藍營路線爭議",
           "city": "台中",
           "place": "台中市政府",
           "level": "green",
           "news_count": 3,
-          "comment_count": 3,
+          "comment_count": 1,
           "negativity_pct": 0,
-          "is_urgent": true,
-          "urgency_score": 12,
+          "is_urgent": false,
+          "urgency_score": 6,
           "sample_titles": [
             "翁曉玲刪預算「盧秀燕喊接手」自導自演？ 傅崐萁出手「收拾爛攤子」救選票？ 不聽鄭麗文的話「就被開除」？ 丁瑀：好險！沒繳",
             "《選戰倒數94天！ #翁曉玲 #鄭麗文 拜票機！#蔣萬安 市政翻車！陽傘、吸菸區亂象齊發！#蕭美琴：無人機戰力刻不容緩！",
@@ -84534,15 +84534,15 @@
           ]
         },
         {
-          "title": "垃圾山",
+          "title": "廚餘山",
           "city": "台中",
-          "place": "台中市大里區",
+          "place": "台中市政府",
           "level": "green",
           "news_count": 0,
-          "comment_count": 8,
+          "comment_count": 19,
           "negativity_pct": 0,
           "is_urgent": true,
-          "urgency_score": 24,
+          "urgency_score": 27,
           "sample_titles": []
         },
         {
@@ -84588,6 +84588,20 @@
           ]
         },
         {
+          "title": "台北弊案爭議",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "快訊／國民黨新北市議員王威元20萬行賄關說市場處長 遭檢起訴求刑3年"
+          ]
+        },
+        {
           "title": "台中弊案爭議",
           "city": "台中",
           "place": "台中市政府",
@@ -84613,20 +84627,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "假冒檢警詐騙66人逾億元 苗栗檢方起訴機房2名主嫌求15年以上重刑"
-          ]
-        },
-        {
-          "title": "台北弊案爭議",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "快訊／國民黨新北市議員王威元20萬行賄關說市場處長 遭檢起訴求刑3年"
           ]
         },
         {
@@ -84706,31 +84706,19 @@
           ]
         },
         {
-          "title": "廚餘山",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 0,
-          "comment_count": 26,
-          "negativity_pct": 0,
-          "is_urgent": true,
-          "urgency_score": 44,
-          "sample_titles": []
-        },
-        {
           "title": "台中市政動態",
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
-          "news_count": 219,
-          "comment_count": 71,
-          "negativity_pct": 5,
+          "news_count": 215,
+          "comment_count": 27,
+          "negativity_pct": 6,
           "is_urgent": true,
-          "urgency_score": 414,
+          "urgency_score": 305,
           "sample_titles": [
+            "盧秀燕稱可幫接總統府棄單！遭記者反嗆「妳好意思」反應曝光…網怒噴：最不要臉",
             "盧秀燕連扯總統府棄單 張雅琴怒轟： 砍單妳不是局外人",
-            "盧秀燕挨轟2天提9次總統府「棄單」 謝志偉諷：原來是「兇奴」在造假- 政治",
-            "盧秀燕挨轟2天提9次總統府「棄單」 謝志偉諷：原來是「兇奴」在造假"
+            "[HatePolitics] [黑特] 某媒體人對盧秀燕棄單說的批判"
           ]
         },
         {
@@ -84749,21 +84737,6 @@
           ]
         },
         {
-          "title": "花蓮弊案爭議",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "花蓮男持汽油要脅妻見面 預備放火判刑七月",
-            "花蓮男持汽油要脅妻見面預備放火判刑七月- 花蓮縣"
-          ]
-        },
-        {
           "title": "基隆弊案爭議",
           "city": "基隆",
           "place": "基隆市政府",
@@ -84776,6 +84749,21 @@
           "sample_titles": [
             "基隆熱炒店包商遭酒瓶砸死 檢認定酒客「傷害致死」起訴",
             "基隆熱炒店包商遭酒瓶砸死 不構成殺人檢起訴酒客傷害致死罪"
+          ]
+        },
+        {
+          "title": "花蓮弊案爭議",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "花蓮男持汽油要脅妻見面 預備放火判刑七月",
+            "花蓮男持汽油要脅妻見面預備放火判刑七月- 花蓮縣"
           ]
         },
         {
@@ -84911,11 +84899,11 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "red",
-          "news_count": 34,
+          "news_count": 33,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 34,
+          "urgency_score": 33,
           "sample_titles": [
             "金門觀光圈創意行銷暨產業形塑輔導店家遴選出爐",
             "-餐飲雙技能培訓圓滿落幕 金門青年婦女學料理拚創業",
@@ -85007,11 +84995,11 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "red",
-          "news_count": 55,
+          "news_count": 53,
           "comment_count": 0,
-          "negativity_pct": 5,
+          "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 64,
+          "urgency_score": 62,
           "sample_titles": [
             "澎湖花火節雨中謝幕無人機燈光秀吸睛- 台灣萬象- 新聞",
             "澎湖廚餘廠推新設備 提升效率改善異味(內有影片)",
@@ -85087,11 +85075,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 103,
+          "news_count": 102,
           "comment_count": 0,
-          "negativity_pct": 19,
+          "negativity_pct": 20,
           "is_urgent": false,
-          "urgency_score": 163,
+          "urgency_score": 162,
           "sample_titles": [
             "8 . 土城家暴男奪2命逃死 國民法官曝「一致決」問題！新北地院回應了",
             "洋酒禮盒藏20萬 欲代人關說 國民黨新北議員王威元 涉行賄起訴",
@@ -85142,8 +85130,8 @@
           "urgency_score": 219,
           "sample_titles": [
             "高雄暴雨4天狂灌1183.5毫米 陳其邁感謝各界馳援：都記在心裡",
-            "心繫豪雨災後復原、農漁損等議題　陳其邁指示積極整備恢復以守護高市民",
-            "民航局持續推動高雄國際機場新航廈工程 邁向智慧綠色國門"
+            "高雄暴雨4天狂灌1183.5毫米 陳其邁感謝各界馳援：都記在心裡",
+            "心繫豪雨災後復原、農漁損等議題　陳其邁指示積極整備恢復以守護高市民"
           ]
         },
         {
@@ -85151,11 +85139,11 @@
           "city": "台中",
           "place": "台中市西屯區",
           "level": "red",
-          "news_count": 276,
+          "news_count": 275,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 309,
+          "urgency_score": 308,
           "sample_titles": [
             "趙建銘進駐台中開診所？徵護理師月薪4萬起 議員：更歡迎陳幸妤來",
             "遠傳參與智慧台中論壇，深化5G、AI城市對話，聚焦5大AI應用場景",
@@ -85167,15 +85155,15 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 345,
+          "news_count": 346,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 417,
+          "urgency_score": 418,
           "sample_titles": [
-            "北市女童遭猥褻240天未安置！他轟蔣萬安「只顧剪綵」：見光才急處理| 政治",
-            "北市加碼「普發2萬」一讀通過 他喊話蔣萬安：換你了",
-            "前中配立委李貞秀參選竹北市長 葉耀元：知法犯法、中選會一定要處理"
+            "北市女童遭猥褻240天未安置！他轟蔣萬安「只顧剪綵」：見光才急處理",
+            "北市女童遭猥褻240天未安置！他轟蔣萬安「只顧剪綵」：見光才急處理",
+            "北市女童遭猥褻240天未安置！他轟蔣萬安「只顧剪綵」：見光才急處理| 政治"
           ]
         }
       ]
