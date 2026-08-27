@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "snapshot_at": "2026-08-27T10:22:45.397701+00:00",
+  "snapshot_at": "2026-08-27T10:27:55.953790+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -67,9 +67,9 @@
       "comments": []
     },
     {
-      "title": "台中陳情/抗議",
-      "city": "台中",
-      "place": "台中市政府",
+      "title": "新北陳情/抗議",
+      "city": "新北",
+      "place": "新北市政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -78,10 +78,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "台中港填土工程衝擊白海豚棲地？環團揚言8/31赴政院抗議 港務公司回應了",
-          "url": "https://newtalk.tw/news/view/2026-08-27/1055989",
-          "time": "2026-08-27 15:56:36",
-          "publisher": "新頭殼",
+          "title": "賴勘災喊\"少批評\"基層陳情被架走!高雄路塌見深坑!柯志恩勘災竟受困!趙建銘臉部驚爆\"饅化\"!沈伯洋遇毒油變\"小洋逃\"!粥餅倫不敵房租熄燈!【國民大會完整版】｜20260826(重播)",
+          "url": "https://www.youtube.com/watch?v=NQCDC4wfcyA",
+          "time": "2026-08-26 22:00:12",
+          "publisher": null,
           "severity": "yellow"
         }
       ],
@@ -109,9 +109,9 @@
       "comments": []
     },
     {
-      "title": "新北陳情/抗議",
-      "city": "新北",
-      "place": "新北市政府",
+      "title": "台中陳情/抗議",
+      "city": "台中",
+      "place": "台中市政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -120,31 +120,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "賴勘災喊\"少批評\"基層陳情被架走!高雄路塌見深坑!柯志恩勘災竟受困!趙建銘臉部驚爆\"饅化\"!沈伯洋遇毒油變\"小洋逃\"!粥餅倫不敵房租熄燈!【國民大會完整版】｜20260826(重播)",
-          "url": "https://www.youtube.com/watch?v=NQCDC4wfcyA",
-          "time": "2026-08-26 22:00:12",
-          "publisher": null,
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "桃園詐騙案",
-      "city": "桃園",
-      "place": "桃園市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "桃園警銀聯防打詐奏效 詐騙受理案件與財損雙雙下降",
-          "url": "https://news.nextapple.com/local/20260827/11B64C1AF8A5862B050F38ECF0653E83",
-          "time": "2026-08-27 15:00:42",
-          "publisher": "壹蘋新聞網",
+          "title": "台中港填土工程衝擊白海豚棲地？環團揚言8/31赴政院抗議 港務公司回應了",
+          "url": "https://newtalk.tw/news/view/2026-08-27/1055989",
+          "time": "2026-08-27 15:56:36",
+          "publisher": "新頭殼",
           "severity": "yellow"
         }
       ],
@@ -167,6 +146,27 @@
           "time": "2026-08-26 19:44:09",
           "publisher": "臺灣導報",
           "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "桃園詐騙案",
+      "city": "桃園",
+      "place": "桃園市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "桃園警銀聯防打詐奏效 詐騙受理案件與財損雙雙下降",
+          "url": "https://news.nextapple.com/local/20260827/11B64C1AF8A5862B050F38ECF0653E83",
+          "time": "2026-08-27 15:00:42",
+          "publisher": "壹蘋新聞網",
+          "severity": "yellow"
         }
       ],
       "comments": []
@@ -228,34 +228,6 @@
       "comments": []
     },
     {
-      "title": "桃園車禍事件",
-      "city": "桃園",
-      "place": "桃園市政府",
-      "level": "green",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "桃園男違規被攔亂報身分證：我車禍失憶 3案被通緝這下慘了",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HUFlnYlk2ZElxS0xOYm1yTmpnV2pfMVB2WXI4d0FzZUFKTXZSMzN3aWZDOU4yMEJPQVVXMHRCNVhIVVhsdGwycmFGUmtLdFp2b1lwM19SS2VUbVJaLXfSAUtBVV95cUxPa1JlWklvSzFjNEh0Z2x4U3dMVDhNbF9NSXdnU1o4TmdyN3RaYzhqUHplaVlfQkFRTzZmb0FmMU1UUjVsUWlPMWlKSWM?oc=5",
-          "time": "2026-08-27 14:33:00",
-          "publisher": "ETtoday",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園男謊稱車禍後全失憶 警一查3條通緝全記起來了",
-          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNdkU1T1VMUl9LRGJuUVJ5TE51c2FxQ1otb0V3MnRkT084TGZzSUhCMjluNmVOaGs4djJDcVBhOGpPMlpic1lEX3ZLQ1dGcWNCQWFaV2ZWOTI0NXpiemVxR3Y5VUNSZVBYMVBzdnVZMUFRYzFsMElKYkFaY3BRaXFBc3IwN0w1cFhxM050WlUyYzdFa2kzTVZMeFBYWUYwS1pHcnc0RFVWQ19KRWkyd2JpR3dGWXI5YUkzU1MyME5SYTltaXJDcVNwLXB4VDh0OGp3QVNrVW11blRCYXVkZktoZXlndUJLTzNsRnJ3MEhmUi1PS3J6TVJ6SVl5TU5yeVFDYmxMYzhUeWp1SVpjV1ZIdzlNRFZjRnF3VjlMcmZZV3o5TG81enZ1SnJKTDk1anpJYmxLc2lZYWxNWHdmeDZkNExzYWxPVmpMOTJTRFFjdWI4TlE?oc=5",
-          "time": "2026-08-27 11:25:34",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "宜蘭車禍事件",
       "city": "宜蘭",
       "place": "宜蘭縣政府",
@@ -278,6 +250,34 @@
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GeG55LWxaVnJTNFRyampER2g0SGlKU0g3Rk9fZHhRQmllRXo1WXNVQkQ1SC05U3VmczZfcUdjXzJUYnZrLW04aUNXc05fMHdERFFRZU5waEZIMmtVVTVDZmlzaGhvNTBV?oc=5",
           "time": "2026-08-27 12:30:18",
           "publisher": "自由時報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "桃園車禍事件",
+      "city": "桃園",
+      "place": "桃園市政府",
+      "level": "green",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "桃園男違規被攔亂報身分證：我車禍失憶 3案被通緝這下慘了",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HUFlnYlk2ZElxS0xOYm1yTmpnV2pfMVB2WXI4d0FzZUFKTXZSMzN3aWZDOU4yMEJPQVVXMHRCNVhIVVhsdGwycmFGUmtLdFp2b1lwM19SS2VUbVJaLXfSAUtBVV95cUxPa1JlWklvSzFjNEh0Z2x4U3dMVDhNbF9NSXdnU1o4TmdyN3RaYzhqUHplaVlfQkFRTzZmb0FmMU1UUjVsUWlPMWlKSWM?oc=5",
+          "time": "2026-08-27 14:33:00",
+          "publisher": "ETtoday",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園男謊稱車禍後全失憶 警一查3條通緝全記起來了",
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNdkU1T1VMUl9LRGJuUVJ5TE51c2FxQ1otb0V3MnRkT084TGZzSUhCMjluNmVOaGs4djJDcVBhOGpPMlpic1lEX3ZLQ1dGcWNCQWFaV2ZWOTI0NXpiemVxR3Y5VUNSZVBYMVBzdnVZMUFRYzFsMElKYkFaY3BRaXFBc3IwN0w1cFhxM050WlUyYzdFa2kzTVZMeFBYWUYwS1pHcnc0RFVWQ19KRWkyd2JpR3dGWXI5YUkzU1MyME5SYTltaXJDcVNwLXB4VDh0OGp3QVNrVW11blRCYXVkZktoZXlndUJLTzNsRnJ3MEhmUi1PS3J6TVJ6SVl5TU5yeVFDYmxMYzhUeWp1SVpjV1ZIdzlNRFZjRnF3VjlMcmZZV3o5TG81enZ1SnJKTDk1anpJYmxLc2lZYWxNWHdmeDZkNExzYWxPVmpMOTJTRFFjdWI4TlE?oc=5",
+          "time": "2026-08-27 11:25:34",
+          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -493,27 +493,6 @@
       "comments": []
     },
     {
-      "title": "台東弊案爭議",
-      "city": "台東",
-      "place": "台東縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "台東渡假村開發弊案 檢調約談前縣議會秘書長吳慶榮 複訊後請回",
-          "url": "https://newtalk.tw/news/view/2026-08-27/1055944",
-          "time": "2026-08-27 10:17:25",
-          "publisher": "新頭殼",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "花蓮弊案爭議",
       "city": "花蓮",
       "place": "花蓮縣政府",
@@ -529,6 +508,27 @@
           "url": "https://news.cts.com.tw/cna/local/202608/202608253071064.html",
           "time": "2026-08-27 13:42:23",
           "publisher": "華視新聞網",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台東弊案爭議",
+      "city": "台東",
+      "place": "台東縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "台東渡假村開發弊案 檢調約談前縣議會秘書長吳慶榮 複訊後請回",
+          "url": "https://newtalk.tw/news/view/2026-08-27/1055944",
+          "time": "2026-08-27 10:17:25",
+          "publisher": "新頭殼",
           "severity": "red"
         }
       ],
@@ -903,11 +903,11 @@
       "city": "雲林",
       "place": "雲林縣政府",
       "level": "yellow",
-      "news_count": 25,
+      "news_count": 24,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 28,
+      "urgency_score": 27,
       "news_articles": [
         {
           "title": "雲林虎尾普渡不只擺肉山　8大區各有特色、14重機場面壯觀",
@@ -1076,13 +1076,6 @@
           "time": "2026-08-26 18:34:02",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "守護毛孩與家人健康 雲林縣免費狂犬病疫苗下鄉巡迴",
-          "url": "https://www.thehubnews.net/archives/658600",
-          "time": "2026-08-26 18:26:29",
-          "publisher": "新頭條",
-          "severity": null
         }
       ],
       "comments": []
@@ -3613,48 +3606,6 @@
       "comments": []
     },
     {
-      "title": "高雄弊案爭議",
-      "city": "高雄",
-      "place": "高雄市政府",
-      "level": "red",
-      "news_count": 4,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 16,
-      "news_articles": [
-        {
-          "title": "新北垃圾「洗產地」偷丟高雄！農地驚見6處垃圾山 7人遭起訴",
-          "url": "https://www.taisounds.com/news/content/93/285406",
-          "time": "2026-08-27 11:05:28",
-          "publisher": "太報",
-          "severity": "red"
-        },
-        {
-          "title": "外縣市垃圾洗產地混入高雄焚化爐 7人被逮起訴",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5553761",
-          "time": "2026-08-27 09:33:22",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "無照醫材業務竟進手術房「動手」！高雄博田院長、副院長涉違法 5人遭起訴",
-          "url": "https://www.taisounds.com/news/content/92/285249",
-          "time": "2026-08-27 07:27:33",
-          "publisher": "太報",
-          "severity": "red"
-        },
-        {
-          "title": "高雄博田醫院爆\"廠商當手術助理\" 正副院長等5人起訴",
-          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%8D%9A%E7%94%B0%E9%86%AB%E9%99%A2%E7%88%86-%E5%BB%A0%E5%95%86%E7%95%B6%E6%89%8B%E8%A1%93%E5%8A%A9%E7%90%86-%E6%AD%A3%E5%89%AF%E9%99%A2%E9%95%B7%E7%AD%895%E4%BA%BA%E8%B5%B7%E8%A8%B4-102502291.html",
-          "time": "2026-08-26 18:43:02",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "新北弊案爭議",
       "city": "新北",
       "place": "新北市政府",
@@ -3697,49 +3648,42 @@
       "comments": []
     },
     {
-      "title": "桃園弊案爭議",
-      "city": "桃園",
-      "place": "桃園市政府",
+      "title": "高雄弊案爭議",
+      "city": "高雄",
+      "place": "高雄市政府",
       "level": "red",
-      "news_count": 5,
+      "news_count": 4,
       "comment_count": 0,
       "negativity_pct": 100,
       "is_urgent": true,
-      "urgency_score": 20,
+      "urgency_score": 16,
       "news_articles": [
         {
-          "title": "桃園診所醫師涉販售毒品安眠藥遭起訴 衛生局配合偵辦",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5554363",
-          "time": "2026-08-27 16:02:13",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "桃園診所醫師涉販售毒品安眠藥遭起訴衛生局配合偵辦- 社會",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13bDh5cXFRN2xQWi0zMUR3N3Z1U285SnNPTWY2MWtCTUM0Wno5X1BtNlI0UXQ4Vm1fMHp5cnNIY2NzVXhnMXp5VlRlRDk5WVdZb21qdlNpcS1nOU9BNWRBREI5aWEtcjZR?oc=5",
-          "time": "2026-08-27 16:02:13",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "診所藏2.2萬粒藥錠+1629萬現鈔！桃園醫師涉賣安眠藥起訴 恐坐牢12年",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBeVdvVVNzTzRMaHpEZlhBNGEtLXUxcGJiN0JRa085UWlLdUF6a1FadDhWa1dRUVJSMUZyUVNMTVRwQzNTWUVId2N6dm1adlRKT0E?oc=5",
-          "time": "2026-08-27 14:54:00",
-          "publisher": "Google News→鏡報",
-          "severity": "red"
-        },
-        {
-          "title": "不堪工作遭數落拿菜刀砍殺同事！ 桃園男殺人未遂遭判刑7年",
-          "url": "https://news.nextapple.com/local/20260827/437B98F4CCF04BEB10F59006432DC41C",
-          "time": "2026-08-27 13:24:29",
-          "publisher": "壹蘋新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "神聖白袍淪毒販！名醫虛開處方販售使蒂諾斯牟巨利 桃園地檢起訴求刑12年",
-          "url": "https://www.taisounds.com/news/content/92/285396",
+          "title": "新北垃圾「洗產地」偷丟高雄！農地驚見6處垃圾山 7人遭起訴",
+          "url": "https://www.taisounds.com/news/content/93/285406",
           "time": "2026-08-27 11:05:28",
           "publisher": "太報",
+          "severity": "red"
+        },
+        {
+          "title": "外縣市垃圾洗產地混入高雄焚化爐 7人被逮起訴",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5553761",
+          "time": "2026-08-27 09:33:22",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "無照醫材業務竟進手術房「動手」！高雄博田院長、副院長涉違法 5人遭起訴",
+          "url": "https://www.taisounds.com/news/content/92/285249",
+          "time": "2026-08-27 07:27:33",
+          "publisher": "太報",
+          "severity": "red"
+        },
+        {
+          "title": "高雄博田醫院爆\"廠商當手術助理\" 正副院長等5人起訴",
+          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%8D%9A%E7%94%B0%E9%86%AB%E9%99%A2%E7%88%86-%E5%BB%A0%E5%95%86%E7%95%B6%E6%89%8B%E8%A1%93%E5%8A%A9%E7%90%86-%E6%AD%A3%E5%89%AF%E9%99%A2%E9%95%B7%E7%AD%895%E4%BA%BA%E8%B5%B7%E8%A8%B4-102502291.html",
+          "time": "2026-08-26 18:43:02",
+          "publisher": "Yahoo新聞",
           "severity": "red"
         }
       ],
@@ -3789,6 +3733,55 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rMm5WTEtmalhfMVpaWDNrXzRITzJWUV9EbGp1U2JvNWx3emJDSVpzRDNSUEpEZ05WOURwcW4wbVRvdThjVUNPM0ZibWlHeEk?oc=5",
           "time": "2026-08-27 12:18:00",
           "publisher": "TVBS",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "桃園弊案爭議",
+      "city": "桃園",
+      "place": "桃園市政府",
+      "level": "red",
+      "news_count": 5,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 20,
+      "news_articles": [
+        {
+          "title": "桃園診所醫師涉販售毒品安眠藥遭起訴 衛生局配合偵辦",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5554363",
+          "time": "2026-08-27 16:02:13",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "桃園診所醫師涉販售毒品安眠藥遭起訴衛生局配合偵辦- 社會",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13bDh5cXFRN2xQWi0zMUR3N3Z1U285SnNPTWY2MWtCTUM0Wno5X1BtNlI0UXQ4Vm1fMHp5cnNIY2NzVXhnMXp5VlRlRDk5WVdZb21qdlNpcS1nOU9BNWRBREI5aWEtcjZR?oc=5",
+          "time": "2026-08-27 16:02:13",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "診所藏2.2萬粒藥錠+1629萬現鈔！桃園醫師涉賣安眠藥起訴 恐坐牢12年",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBeVdvVVNzTzRMaHpEZlhBNGEtLXUxcGJiN0JRa085UWlLdUF6a1FadDhWa1dRUVJSMUZyUVNMTVRwQzNTWUVId2N6dm1adlRKT0E?oc=5",
+          "time": "2026-08-27 14:54:00",
+          "publisher": "Google News→鏡報",
+          "severity": "red"
+        },
+        {
+          "title": "不堪工作遭數落拿菜刀砍殺同事！ 桃園男殺人未遂遭判刑7年",
+          "url": "https://news.nextapple.com/local/20260827/437B98F4CCF04BEB10F59006432DC41C",
+          "time": "2026-08-27 13:24:29",
+          "publisher": "壹蘋新聞網",
+          "severity": "red"
+        },
+        {
+          "title": "神聖白袍淪毒販！名醫虛開處方販售使蒂諾斯牟巨利 桃園地檢起訴求刑12年",
+          "url": "https://www.taisounds.com/news/content/92/285396",
+          "time": "2026-08-27 11:05:28",
+          "publisher": "太報",
           "severity": "red"
         }
       ],
@@ -5913,11 +5906,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "red",
-      "news_count": 70,
+      "news_count": 68,
       "comment_count": 0,
       "negativity_pct": 10,
       "is_urgent": false,
-      "urgency_score": 91,
+      "urgency_score": 89,
       "news_articles": [
         {
           "title": "屏東縣公共自行車系統 今年底前預計突破200站",
@@ -6394,20 +6387,6 @@
           "time": "2026-08-26 18:28:15",
           "publisher": "Google News→國際獅子會300C-3區",
           "severity": null
-        },
-        {
-          "title": "屏東往來小琉球交通船航道上擱淺3.5小時 拖船協助146人平安脫困",
-          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E5%BE%80%E4%BE%86%E5%B0%8F%E7%90%89%E7%90%83%E4%BA%A4%E9%80%9A%E8%88%B9%E8%88%AA%E9%81%93%E4%B8%8A%E6%93%B1%E6%B7%BA3-5%E5%B0%8F%E6%99%82-%E6%8B%96%E8%88%B9%E5%8D%94%E5%8A%A9146%E4%BA%BA%E5%B9%B3%E5%AE%89%E8%84%AB%E5%9B%B0-102630494.html",
-          "time": "2026-08-26 18:26:30",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "屏東往來小琉球交通船航道上擱淺3.5小時 拖船協助146人平安脫困",
-          "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOekdveDNzR1VnT2VXLXdaQnQ0TjlTNW9BMkE5b2w1Sm1RclhIRzgxNXBld3dQUC1zTC1QbGYwV1UwblpzYnJibHIwbmNZT0NDMXpUbmZBNDdqRTRydkNKeGQzMmlqLWhSWnVaT0E1bHhtdFpoUDBxWVlWNnJ4emRqM0xoeDE1WWJUV1hiT25QeVZzY3ptaE80NUEtekROM09BdzBRY3hSMkJlbFlQQVNTLThYUVFPdHVMbXdINllzNGFMN3dmaE15aFowN2FBbmJvRk1wOHlIWGNaWWRtWnhCXzZjOV9kLWU2b2p0OEZkTmZVZGpQc25fQlhqVC14Y2hqWHItNDhBaDIxYTNSTE1OZlRMOWRkLWhmN1lOZmQ2UFBka0FlM19RQ3NEb05fMktmVjR2Rmh6eVNMVndOb0xVTG1BTVlGODNnYnAyX0RoNXd0S1ZXVmlSREFaLTlacHk3aS1XNzJ5RXExdHpnTW1KYllEeDBneVQ1WVMtS3VxNjFFcVZnTmxOLUJqSTJKZk9RSVNCZA?oc=5",
-          "time": "2026-08-26 18:26:30",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -6919,6 +6898,909 @@
           "time": "2026-08-26 18:30:00",
           "publisher": "風傳媒",
           "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "桃園地方動態",
+      "city": "桃園",
+      "place": "桃園市政府",
+      "level": "red",
+      "news_count": 127,
+      "comment_count": 0,
+      "negativity_pct": 13,
+      "is_urgent": false,
+      "urgency_score": 175,
+      "news_articles": [
+        {
+          "title": "桃園女騎車離家2年成「竹林白骨」 新北警比對DNA助落葉歸根",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZNkRkc2R2bV8xZTcybUdwWWhCWVM5NmZoSW5sUzZqSGp3d3oycmNBN3Z2dWVPRUZPV1VlU0p5a2VXTE9vV2FmSDYwY2Jub3NkWFNORlVjMzg5cVVLeWfSAUtBVV95cUxNVjR0V2JVbHZ2dTNGRERLMUwzWWxEckVqU2w3WGN0blh2VkxIS0lSTm5fVTBZZzNhN29nWWNSSWtjTnVGdE5CNkd6ZDQ?oc=5",
+          "time": "2026-08-27 16:12:00",
+          "publisher": "ETtoday",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園國強市地重劃進入分區施工階段 6.74公頃拼117年完工",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tRDRiVk5UZktIOU12elN2Y1FhSGRRa2ZfalNqdFFIRVp1dU9LVUw3U0RVYnBnejFTSjBlUF9kTV9zWFlvemFVSGFTZ2w?oc=5",
+          "time": "2026-08-27 16:08:08",
+          "publisher": "Google News→桃園電子報",
+          "severity": null
+        },
+        {
+          "title": "桃園13行政區空屋率全跌 永慶房產集團：蘆竹5.92%奪全市最低",
+          "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%9213%E8%A1%8C%E6%94%BF%E5%8D%80%E7%A9%BA%E5%B1%8B%E7%8E%87%E5%85%A8%E8%B7%8C-%E6%B0%B8%E6%85%B6%E6%88%BF%E7%94%A2%E9%9B%86%E5%9C%98-%E8%98%86%E7%AB%B95-92-%E5%A5%AA%E5%85%A8%E5%B8%82%E6%9C%80%E4%BD%8E-080655713.html",
+          "time": "2026-08-27 16:06:55",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "拜會桃園市議會談「宜桃合作」 吳宗憲提5大連線：助優質產業扎根宜蘭",
+          "url": "https://tw.news.yahoo.com/%E6%8B%9C%E6%9C%83%E6%A1%83%E5%9C%92%E5%B8%82%E8%AD%B0%E6%9C%83%E8%AB%87-%E5%AE%9C%E6%A1%83%E5%90%88%E4%BD%9C-%E5%90%B3%E5%AE%97%E6%86%B2%E6%8F%905%E5%A4%A7%E9%80%A3%E7%B7%9A-%E5%8A%A9%E5%84%AA%E8%B3%AA%E7%94%A2%E6%A5%AD%E6%89%8E%E6%A0%B9%E5%AE%9C%E8%98%AD-080611991.html",
+          "time": "2026-08-27 16:06:11",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "要求完善生生喝鮮乳及食安 桃園藍議員：力促地區體育建設",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1heGdsZXE5S2RWM3NJNEE1SkNOZXoxemZwVS1zeXN1d3BLMnFHZjhZTWFIRWZmckxDYWo1dUlkaFdldjJiWDNYLUpYQUhNUTVBa2ZmV2Q1RHB5R2V3bjBOcNIBZkFVX3lxTE5HV2hJQk55WEJacWlfQkhvd3NhUF9KRGM3Q3VXWjZkSlBEaTc5TWpHYWpEdk1YS1NTeHUzNEhwVHRlZkFmLWp5RVVzSDBRRWg0Unl6WVF5NEdBdlRDQ1ZuOC1WQmhkZw?oc=5",
+          "time": "2026-08-27 16:04:00",
+          "publisher": "Google News→大纪元",
+          "severity": "yellow"
+        },
+        {
+          "title": "塭仔圳從藍圖落實到日常 道路、公園、橋梁陸續到位 | 桃園電子報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTV1E2Q1Mza3BmM3pzZjRYWGVTbUJTWGRTY2hKVUdZYWdrRHBtZEk2SkRxNUFJQWFHMGY4MEdOakZuZ1FvaGxQN0puVGZwak80Z2stLW1B?oc=5",
+          "time": "2026-08-27 16:03:45",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "桃園診所醫師涉販售毒品安眠藥遭起訴 衛生局配合偵辦",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5554363",
+          "time": "2026-08-27 16:02:13",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "桃園診所醫師涉販售毒品安眠藥遭起訴衛生局配合偵辦- 社會",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13bDh5cXFRN2xQWi0zMUR3N3Z1U285SnNPTWY2MWtCTUM0Wno5X1BtNlI0UXQ4Vm1fMHp5cnNIY2NzVXhnMXp5VlRlRDk5WVdZb21qdlNpcS1nOU9BNWRBREI5aWEtcjZR?oc=5",
+          "time": "2026-08-27 16:02:13",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "小小照顧員出任務 桃園創世幸福拾光市集邀您一起做公益",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SMXlnZkdJTVVxQXlkVWpEYTNTNVFRRG1sYnIzRlluUVM0SWxSM2dGR054Y1h2WGxwR29mQ2tUWUUtZVdqeGtLa2VhZDVwTTd0U1pQZ0NfeDRDQ29GeVRrVdIBZkFVX3lxTE5pRC11MktqUXRHbGFfVFZZMFFPY3otXzlVQWswTU5JR1dkaVF6dUk4TjZpVHBERy03RTFSMmlJM0VILThjTzY5Qkt6bldFQkV6Mi1mNVRuUFRhNDlSWFJsRkd6bnZ3dw?oc=5",
+          "time": "2026-08-27 15:56:00",
+          "publisher": "Google News→大纪元",
+          "severity": null
+        },
+        {
+          "title": "跨越2年的思念...新北警保留失蹤桃園女家屬DNA 助竹林白骨回家",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5554273",
+          "time": "2026-08-27 15:41:02",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "謝美英指出桃園教師零缺額？教育局「蓋牌」粉飾太平？",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yTk9FNnFFM3dKVkh0S1l6VjdybzRWZDRiVEtqTEZOZzhVOE1sUE5IcGJ2OHZVQndHSXlaMkpxaFBQMzBfOEhCenJ2QVRhYkotWTYxUA?oc=5",
+          "time": "2026-08-27 15:39:37",
+          "publisher": "Google News→崛起新傳媒-",
+          "severity": "yellow"
+        },
+        {
+          "title": "就業紅利與軌道經濟帶動桃園住宅需求增長、空屋大減1.2萬宅- 財經",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0OWpzRmhDSnREWjh0R1dJNm5KdDBtZFZfaGd3MXcwbWFqZW1oRDdNNkhZb1JCOG11Um9qUFFQRHZEQXp0SjFwUXY0eFZmT05lUWtJT25MbUVVTUNCVmZFOG02d2RTSVk2aHBXYnJR?oc=5",
+          "time": "2026-08-27 15:31:44",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "桃園女失蹤近2年找到了！成「竹林無名骨骸」 新北警助落葉歸根",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zeHFEZDA1bnhQT0p2dFlSTUJOV0g5NTNLQVpmbEd5dUxIVVVYc3ppX1l2dkpSY05GUzFmVDd2R1FzbkhzV2thTnI2SjktYWc5Y2Z4VXFn?oc=5",
+          "time": "2026-08-27 15:29:00",
+          "publisher": "東森新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "為孩子北上求學布局 永慶房屋郭朝勛助桃園家庭跨區置產",
+          "url": "https://cnews.com.tw/%e7%82%ba%e5%ad%a9%e5%ad%90%e5%8c%97%e4%b8%8a%e6%b1%82%e5%ad%b8%e5%b8%83%e5%b1%80%e3%80%80%e6%b0%b8%e6%85%b6%e6%88%bf%e5%b1%8b%e9%83%ad%e6%9c%9d%e5%8b%9b%e5%8a%a9%e6%a1%83%e5%9c%92%e5%ae%b6%e5%ba%ad/",
+          "time": "2026-08-27 15:24:18",
+          "publisher": "匯流新聞網",
+          "severity": null
+        },
+        {
+          "title": "桃園115年慶讚中元水燈排繞境放水燈 祈福地方平安",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44WTNCOXgybGZnZDVWNUtJdVBDNm1ROUNTY3hWQkR1UFFVbnI1TW1HV2hTRktCU0VMV3pYSFBNSHdSQmx4dnEzMjAyVW83NnpENWo0cGpGUGJnOE5fdGhUeNIBZkFVX3lxTE05c2hENlFVeTVySjJ5a1M4UWVORmNQdGdLSGZNay0tbW8tZTF2c2dpQmpNSXpjek51QWlmOTVHYi1qR2V1ZEg2bFBTRy1vSHRrUXNKWmFiWVRoejlISTdxTkMzT2FZdw?oc=5",
+          "time": "2026-08-27 15:23:00",
+          "publisher": "Google News→大纪元",
+          "severity": null
+        },
+        {
+          "title": "診所淪「毒窟」！桃園醫師涉賣管制安眠藥 開假處方囤逾2萬錠",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5554270",
+          "time": "2026-08-27 15:16:35",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "診所淪「毒窟」！桃園醫師涉賣管制安眠藥開假處方囤逾2萬錠- 社會",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CN2tmSzJqUHhaTUwwOEh5NmJuME1iTUx6d3pOaGFjM0d1U1pQNmZEWXJaQkl5QzB6eVZ4WWZoTVJfRFdiZ21pX2hSNmMtWmVBbmw1NVk0TGJWN0prUEFKU3B4OUZIT1VS?oc=5",
+          "time": "2026-08-27 15:16:35",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "桃園警銀聯防打詐奏效 詐騙受理案件與財損雙雙下降",
+          "url": "https://news.nextapple.com/local/20260827/11B64C1AF8A5862B050F38ECF0653E83",
+          "time": "2026-08-27 15:00:42",
+          "publisher": "壹蘋新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "診所藏2.2萬粒藥錠+1629萬現鈔！桃園醫師涉賣安眠藥起訴 恐坐牢12年",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBeVdvVVNzTzRMaHpEZlhBNGEtLXUxcGJiN0JRa085UWlLdUF6a1FadDhWa1dRUVJSMUZyUVNMTVRwQzNTWUVId2N6dm1adlRKT0E?oc=5",
+          "time": "2026-08-27 14:54:00",
+          "publisher": "Google News→鏡報",
+          "severity": "red"
+        },
+        {
+          "title": "桃園社會局反賄選暨反詐保防資安宣導 提升機關安全意識",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QaTQ2a2FsOWRYeUw1a2tFMEpuZnl6M2FhYi1aM3ZlXzEySm50OURFTWM5a0NoaDN3VHJ5WmFuUHlvNndlREhldnVFdlR5S2dZRjRxZm1NTTZSRkJrYnhEZ9IBZkFVX3lxTE9FdXpFMEhvUk5ZdnhyQnhjQVVQOUhETl9VbHZDRi1EYk9HVDRva3BNdE1QUlNWR1NtQWtTLVFYY3docUN4aF92aEQ0ZW9RcWpScHZ3eG92MkdveTJENG1Nd256SDZuQQ?oc=5",
+          "time": "2026-08-27 14:46:00",
+          "publisher": "Google News→大纪元",
+          "severity": null
+        },
+        {
+          "title": "桃園缺代表性馬拉松 林政賢籲打造城市品牌賽事",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pdzdsNWNHel8yZkxWejV2VHNTSmVRdlVPNjNlSnp4cFRrVlZoaTlVZDIzZ0cyZFhoWUlhdjVnYnJqLWswVDJYdWtPWFFNSmRaakE?oc=5",
+          "time": "2026-08-27 14:43:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園男違規被攔亂報身分證：我車禍失憶 3案被通緝這下慘了",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HUFlnYlk2ZElxS0xOYm1yTmpnV2pfMVB2WXI4d0FzZUFKTXZSMzN3aWZDOU4yMEJPQVVXMHRCNVhIVVhsdGwycmFGUmtLdFp2b1lwM19SS2VUbVJaLXfSAUtBVV95cUxPa1JlWklvSzFjNEh0Z2x4U3dMVDhNbF9NSXdnU1o4TmdyN3RaYzhqUHplaVlfQkFRTzZmb0FmMU1UUjVsUWlPMWlKSWM?oc=5",
+          "time": "2026-08-27 14:33:00",
+          "publisher": "ETtoday",
+          "severity": "yellow"
+        },
+        {
+          "title": "【桃園促銷】限時三天 iPhone 17 Pro Max 特價只要 $40,188 元即可入手！(8/28~8/30)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XRkM4aGxtdHk5ZzNtUV94R0Y0dmp3bHhBeEJvWWhCcWlsbUZmZ010d1BUOTQ2cllDbXhOMHduZTMyQ2h4SzdDdmViZWpqZ2MxMHowWXY2cF96SmRHZHY4?oc=5",
+          "time": "2026-08-27 14:28:25",
+          "publisher": "Google News→ePrice.TW",
+          "severity": null
+        },
+        {
+          "title": "桃園兩歲專班候補問題仍嚴重 張碩芳要求加速擴增班級",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtakVzRkdDLS1peFM3YUlJVEt1N1hOaUwwRk9SWGNZUkRrWm5uMk4ySkJsSldLNjlXdWJ3TEJXZkRuczhfY2xRVUFUSno?oc=5",
+          "time": "2026-08-27 14:24:52",
+          "publisher": "Google News→桃園電子報",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園後站沒運動中心！黃瓊慧爭取「這塊地」蓋複合場館 許彥輝：我是後站人全力研議",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yQ2hQcEo1V3ZDWEVBOWFWZFNoc0txc1BCb1lfbFNERXQwWlctZi1MSjE5d3B4NHBYQWExRHJqQzFuN1gwTDFoZ29JakY?oc=5",
+          "time": "2026-08-27 14:04:07",
+          "publisher": "Google News→桃園電子報",
+          "severity": null
+        },
+        {
+          "title": "黃世杰批桃園市府選前才端建設支票 喊話由他把進度追回來",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xcjcydmtHWEczenJnZkpUNlE1elVZYXJmeUpxS2hfOG8wTkFaX2N6WmNvZHRWV29XbmZoc011bUpUMlhNR1pXUVJtaG8?oc=5",
+          "time": "2026-08-27 14:03:08",
+          "publisher": "Google News→桃園電子報",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園市立醫院設立許可到手 八德總院2033年拚營運",
+          "url": "https://health.ltn.com.tw/article/breakingnews/5553205",
+          "time": "2026-08-27 13:42:20",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "桃園將成立第一家市立醫院 499床總院拚2029年動工、2033年營運",
+          "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E5%B0%87%E6%88%90%E7%AB%8B%E7%AC%AC-%E5%AE%B6%E5%B8%82%E7%AB%8B%E9%86%AB%E9%99%A2-499%E5%BA%8A%E7%B8%BD%E9%99%A2%E6%8B%9A2029%E5%B9%B4%E5%8B%95%E5%B7%A5-2033%E5%B9%B4%E7%87%9F%E9%81%8B-053000673.html",
+          "time": "2026-08-27 13:30:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "桃園堆高機買賣推薦，堆高機租借維修服務",
+          "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E5%A0%86%E9%AB%98%E6%A9%9F%E8%B2%B7%E8%B3%A3%E6%8E%A8%E8%96%A6%EF%BC%8C%E5%A0%86%E9%AB%98%E6%A9%9F%E7%A7%9F%E5%80%9F%E7%B6%AD%E4%BF%AE%E6%9C%8D%E5%8B%99-052718101.html",
+          "time": "2026-08-27 13:27:18",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "不堪工作遭數落拿菜刀砍殺同事！ 桃園男殺人未遂遭判刑7年",
+          "url": "https://news.nextapple.com/local/20260827/437B98F4CCF04BEB10F59006432DC41C",
+          "time": "2026-08-27 13:24:29",
+          "publisher": "壹蘋新聞網",
+          "severity": "red"
+        },
+        {
+          "title": "黃世杰南崁溪放水燈祈福 承諾守護桃園特色傳統民俗",
+          "url": "https://more-news.tw/704396/",
+          "time": "2026-08-27 12:57:54",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "碰！桃園大新路車撞電線桿突炸白光火花四濺- 綜合",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VbExfU0E3LTY4ajdIa0xiOUZIRThIeG1tcW41ZlNFQzdXYTh6T1FrcDlrMk9fbWdUZV9vZjNHc3gwODZUbWVOOU5rSEZ0NU1uaHNIcmdiSWo5em9QQTdCUkVWdWdRVVU2NC1aTFZqcWI?oc=5",
+          "time": "2026-08-27 12:45:00",
+          "publisher": "Google News→華視新聞網",
+          "severity": "red"
+        },
+        {
+          "title": "桃園、蘆竹中元慶典傳承民俗文化 張善政攜民眾放水燈祈福點亮夜晚",
+          "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQTmlsVU1rRnZaZ19ySzN4TUtiRmpnUXc4THhMaFhBNkhRczAzbGpTcFI3RF9xdHlCQVFTYjJhT3hPcGNOSzlGSTctZ1VONzBXaVVTTFJGZTEzR29oN3ZaQ2VxWWdENWRETTA5ZnB3VHVxZjZJemx0R000ZXZDRERxRGNvX0ltLXhvdnFVamJQaHpkSkc5OVlHNGdJdXB5TUw4c29TZUNIbExnRHMxMVp2b1pOZHppdmtnTnYyTG5mVE1tVWxXUE1CaExNZTQ2dU52bTlfM2pZNzRzbmg2cl9kTl9YaFNTNTloVF83YmZMckxkdjY1VnNabXJvN2VaVHBIUE9peVpoaUZkVDRCUVlkamZKNnVTMVg3cEtMRGxRNHNWYjlkUm9jVnlhdzROeUFoNTlUZnc0VTZrUHZOYmdwWVdQZXliSjNNd1dIN1VnYzdncGNudDgtOFRPd3NrZUY1U0RVV3NOREFLQ1lSWXpYbGozaWYtMHhuSktqQWF4clBTbnFiSDVkeWo1bFFHT3V6ZXk4Nl9Lb2pjelBDRS12Y1RxdVBjVkpVc2xTZjZ4MXZxQQ?oc=5",
+          "time": "2026-08-27 12:42:42",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "果園草生栽培選對草種桃園場證實可抗逆境兼固碳- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wTkF1SFlmTEQ5cTB0eWVzYVIzbFNzUDFQTWRKRHV2aFlJX3dGazRfNHJSdHp0bEJGdU5SVHNTWkRzQXo0NVRudVRpVVBGTUpDUnFyQmtCTzNXX29WRHFzMUpVMmM?oc=5",
+          "time": "2026-08-27 12:22:54",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "桃園打詐有成！警銀聯防守護民眾血汗錢 7個月攔阻3.8億",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01TVRhM3FVTi1iTmQ3cnNPaElpUkdBMVBlVGYzMzFhYmFOMW1BRUgwaV9rTlhXNnhtWHVYQWg2NGxwYXhIbVNidDdZczhCcFV3YVhj?oc=5",
+          "time": "2026-08-27 12:06:20",
+          "publisher": "Google News→UDN",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園蘆竹張氏宗親會成立 張惠鈴領軍凝聚宗親情誼 | 熱門亮點 | 商情",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nZzJnTWItME9FcV9fNmVJWXA2X0NoV0g4X3UwUFVLUUhzODFlaFhkU2Q3cFJBbTh5U3daZTQ2c3VIZmdVbzQwUkhGaUF6YTd5dUZBNzhYdE1tZw?oc=5",
+          "time": "2026-08-27 11:58:47",
+          "publisher": "Google News→經濟日報",
+          "severity": null
+        },
+        {
+          "title": "苯駢芘超標！麻油車頂級黑麻油流入桃園聖德科斯即起可退費",
+          "url": "https://more-news.tw/704349/",
+          "time": "2026-08-27 11:57:54",
+          "publisher": "墨新聞",
+          "severity": "red"
+        },
+        {
+          "title": "桃園某診所醫師假病歷囤安眠藥轉賣毒販 檢求刑12年科罰1300萬",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMUmp0RHBLV2tnT21YU0FPMVgyWDRyZHNmOWlXRFRiWDVydU12M2U5V0FnNWpXdFc3OFdHbXI5NWtjR3pXdHpIdF9PbGNMNEpj?oc=5",
+          "time": "2026-08-27 11:56:20",
+          "publisher": "Google News→UDN",
+          "severity": "red"
+        },
+        {
+          "title": "宏匯首跨桃園！拿下山鼻站開發案 菓林站同步推進 房市有望迎轉機？",
+          "url": "https://estate.ltn.com.tw/article/28718",
+          "time": "2026-08-27 11:54:35",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "黃世杰南崁溪放水燈祈福 承諾守護桃園特色傳統民俗 - 政治新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMEljUmM3MjBBWVpHeW9jWXRpTU9Od0VuYUNnRlVHMmFoV0RzaXdadnhHWUdNVUVwWkljOHNJUlRtcjBxRHFkQzdxZWJQLVlkaURaZFJfeEZ4VzFGSDA4TUhaLUI0US04bjlVaFdva3dvS3hleG9xQ3RMRU42RS1UaWRwbXktY0NXOGJVVw?oc=5",
+          "time": "2026-08-27 11:51:27",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "桃園消防攜手林口長庚透過NFC技術 大幅縮短輸血等待時間",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WQnhIX1lZUjd0VEM2bWhLVFRhYTRFZlk4MHJ4VUdCcEZhRlZZTkxxWmh4WFVBNkJiNDFUUDluYlBTa3hkX2drNnJBckJSUmV5M091RUNhMWZFWWN5X01zOTl6emY?oc=5",
+          "time": "2026-08-27 11:33:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "928檔期回來了！北台灣推案爆1165億 桃園逆襲奪冠、這區大爆冷",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4QnJzMWlJTlJSLVI0SmVUM05JZE1Pb2tLaHdCX25GbVljMVg1ZDF1eEFuVUNIY1lRLUlGZ1d2Q0JFQ01mSF9KSi1FNULSAVJBVV95cUxPMHhLUGJEN3hsajlFVFhaTGkySEpOQkYyM2R6azhaUjE5djRkNHF0a1dxbmFRZUJ3Nk50Z3U5ODhDVjNjU1o3ZmlwZi1Xd2w0NWZ3?oc=5",
+          "time": "2026-08-27 11:30:21",
+          "publisher": "Google News→NOWnews今日新聞",
+          "severity": null
+        },
+        {
+          "title": "九合一大選將至！桃園社會局辦講習強化公務員反賄選觀念",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxTTZSbENKSVJuSjlxOURTcG5BUlRPWXJNbGRqMWNHc0VzYlBKUVFVWXlwazRlWEZNVlp0cURBRFBoTGVLeS1GYlVYYTAyU2ZZUFE?oc=5",
+          "time": "2026-08-27 11:29:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "桃園男謊稱車禍後全失憶 警一查3條通緝全記起來了",
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNdkU1T1VMUl9LRGJuUVJ5TE51c2FxQ1otb0V3MnRkT084TGZzSUhCMjluNmVOaGs4djJDcVBhOGpPMlpic1lEX3ZLQ1dGcWNCQWFaV2ZWOTI0NXpiemVxR3Y5VUNSZVBYMVBzdnVZMUFRYzFsMElKYkFaY3BRaXFBc3IwN0w1cFhxM050WlUyYzdFa2kzTVZMeFBYWUYwS1pHcnc0RFVWQ19KRWkyd2JpR3dGWXI5YUkzU1MyME5SYTltaXJDcVNwLXB4VDh0OGp3QVNrVW11blRCYXVkZktoZXlndUJLTzNsRnJ3MEhmUi1PS3J6TVJ6SVl5TU5yeVFDYmxMYzhUeWp1SVpjV1ZIdzlNRFZjRnF3VjlMcmZZV3o5TG81enZ1SnJKTDk1anpJYmxLc2lZYWxNWHdmeDZkNExzYWxPVmpMOTJTRFFjdWI4TlE?oc=5",
+          "time": "2026-08-27 11:25:34",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "審計點名桃園農安查驗問題 農業局調整量能擴大查驗對象",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45VEI3TG90ZUh1M0c2Y2Z5cVJiVmplRXZRRS1VdWdIdm82RW1JQlktUlRzQWJ4YUJ0QUxBWUYzV2pTZEtOa3pQaVBGQTk5Ukk1TUlZaDBDNEx0amhrQXlHd2JSZnNHZFV4OEt5LVdR?oc=5",
+          "time": "2026-08-27 11:09:29",
+          "publisher": "中時新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "赴瑞士旅遊「CPR救人一命」 桃園市義消獲讚揚－民視台語新聞",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PRHMtcXViLUw4Tl8tRWJWbzV6cVJEd2hYUHFMRWpSX1dxXzJqUWpDNVFnd2gxWUoxV1dXeHZBUnpneGJyMl9TaGNhQ3hfdlVZckhnV3Y3MG9LT3doYWRiRnNlUjBhb0k?oc=5",
+          "time": "2026-08-27 11:09:23",
+          "publisher": "Google News→民視新聞網",
+          "severity": null
+        },
+        {
+          "title": "審計點名桃園農安查驗問題農業局調整量能擴大查驗對象- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjeTN3dU8yQzI2czFyUzU2YVdBb21fREpXQ3NOTHZ3eExiazZweE05UEVQNTY0enpieXdDZklUWlo5WlFNSWxKX1pHUDlqTFNEcnpwdmNxVEZraF9LT0RJ?oc=5",
+          "time": "2026-08-27 11:09:00",
+          "publisher": "Google News→工商時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "神聖白袍淪毒販！名醫虛開處方販售使蒂諾斯牟巨利 桃園地檢起訴求刑12年",
+          "url": "https://www.taisounds.com/news/content/92/285396",
+          "time": "2026-08-27 11:05:28",
+          "publisher": "太報",
+          "severity": "red"
+        },
+        {
+          "title": "于北辰籲桃園校園網路全面升級 老舊設備影響數位教學",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YaXB6Z3c5NV9YMkdGcER0b09YWTJQZXpueTV0LWtSZVE1RG1PXzZtaTBNLUlUTGJsRjk1aU05Yk00NFh6bGc?oc=5",
+          "time": "2026-08-27 11:03:51",
+          "publisher": "Google News→台灣新聞雲報",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園東方美人茶公罐改版！ 古銅底色、金線條呈現國門之禮",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3aExGMlZaY3ZnaHF6Rms5MnJWcE1OaEVlLXFFTlMzRUtIOFJuTTJCZzJ4RUJxd0VHcHo2Qk9lRzJLYUZMUkxGdjVtMDBWUQ?oc=5",
+          "time": "2026-08-27 11:03:00",
+          "publisher": "TVBS",
+          "severity": null
+        },
+        {
+          "title": "桃園市政府社會局辦理115年度反賄選暨反詐、保防、資安宣導講習 深化廉潔法治觀念 提升機關安全意識",
+          "url": "https://more-news.tw/704298/",
+          "time": "2026-08-27 10:59:19",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "桃園公車大升級！張善政推12條幹線、桃小巴明年拚200條",
+          "url": "https://more-news.tw/704284/",
+          "time": "2026-08-27 10:57:59",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "桃園捷運綠線延伸中壢開工！串聯機捷、台鐵 沿線規劃8處社宅",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ca2JPNndGenh4bVlNWEVVVGJ1QWw0TUQwZXl4VlEtbkZKVGptdHc2emdGVW5SYnpHZkVydTdjaXhNOWFtVzNJVVM5U0R1aExOUllObzFXUjdBcWJUdkhQUTdvZWFySWEwMWZxU1dfSV9USVN4OTZpTV93?oc=5",
+          "time": "2026-08-27 10:56:26",
+          "publisher": "Google News→住展雜誌",
+          "severity": null
+        },
+        {
+          "title": "桃園醫師竟成毒品供應商！虛開處方販藥牟利 診所搜出1629萬現金",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcXN4YjlIbzhWVXhVQlVKNlIwNGhfNEpySFJrZmdzb01YWlEwT09zX1QtQ1lKV29qZkEtMV9xQndDRXhXSl9YQzFzUThhMUs0eTdGaHVJSmZwMTZ1dWRTbG1YLWVMdU5oZXpUYklxMUlwWnh4c2xEeGxiQW9fbjdIcXBMTVZtemo3dWRr?oc=5",
+          "time": "2026-08-27 10:52:50",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": "red"
+        },
+        {
+          "title": "建商不等了！北台灣928檔期推案量重返千億元 桃園逆襲奪冠",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6VEpRdThRQlhYYWQ3NzN4T1p0QWwtNTJlRGdzdVBHZTlWeEwtNm1mMlcwcWUyTERtT1NBOWtEX21meHlsR0xsOHFxbWdnUUtL0gFWQVVfeXFMT2RaaTdEX2NvM0ZodkR3LV9zQW10bUViVTloX2p6aDNaLTNqME9kQ21GRkVheE9UWVBpUDB1Zl9RRmQtQTBzclpGTHBwa29RT0tiejlWVlE?oc=5",
+          "time": "2026-08-27 10:23:05",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "桃園市政府社會局辦理115年度反賄選暨反詐、保防、資安宣導講習深化廉潔法治觀念提升機關安全意識",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxMTlIeE1INXVxWGpiOW1fajNzbWZNMGVmZkhqei1yMWJRZWVBNWdJbENkOGNYeFpvUlBHcjh1ODBQYjJSdUhxallsVEhoVzBUbVE?oc=5",
+          "time": "2026-08-27 10:11:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "桃園市立醫院獲設立許可749床規模拚2033年營運| 桃竹苗| 地方",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRQ1VRa1FHRU9LSzhGeGptY2tLcXFjOW1UMkFkWVNzU1FTTUctQ1hMZHhKemRhWHl2OTJaaWxGYy1oeGNuZk9zVGQ0VENxRlk1?oc=5",
+          "time": "2026-08-27 10:10:03",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "桃園、新北拉抬 北台灣928檔期年增16.2%",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNRkliNkZ4N3Z0a051VE9XMHpxTVNOWS1ud1VDMTN5ZThRWlZTZGgxY2lkWThFYkNRemc4NTFYWFVJQjlYemNHQWVoVUt0RmpoMTJnQldaSk5OWDN5bkpvS0FMQTM5VE9XelJFbHFNaFJnTTBVWGVhSzBsdk80enhiN0g4SDgzcmFBNXFHVnAxTjB5RnRoNUM2TnY0UGNSejgwX2RhRG0tQnZlTk1uQzg1WVQ4R1BubnhidzkxR0h3bzNtTEY3eFc0dEpQaTNCOWp1ckNpZUdzbUJoV0NNNm15akpPeHpMQkd0eWxnWVByeXNFNUlUSDhkMWxoX0ZYeTVacHFiMjgwN0FqeWxC?oc=5",
+          "time": "2026-08-27 10:06:33",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "[外稿新聞]-于北辰籲桃園校園網路全面升級老舊設備影響數位教學",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xNHZONk9DYjR2aGtCd2dXZHZVUWVfSzE5Vnh4ZHdlbjlmT2NURUFQbzJHclh0UXFCR05XOG14RTh6Z3JaYWdLQlNYbk5VZjNwMDZVUm45Vmt1OWc4VXc?oc=5",
+          "time": "2026-08-27 10:05:51",
+          "publisher": "Google News→atanews.net",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園、新北拉抬 北台灣928檔期年增16.2% - 房產新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWVFRN1RhOU01RG5DWE0tTDlQWDYxczJoV19ydlloOUFzbTZ4RDJfWFk5aVNxUHZEYXgyb2FxVm1LVV9XSnRmekxEcDgxN2ZsZ0lCd0RLYXRpY2ZqdlBrUGNJLXY3aFpNX0YxSEpFbFUxaFRfTjJzVGc2cC1XT2MzR2tyLUJVbmRaWE03d0RoQ1lrZw?oc=5",
+          "time": "2026-08-27 10:00:00",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "桃園捷運綠線延伸中壢動工 張善政：八德將成地方重要交通樞紐",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KN1RWMzl5a3V2TTZmbFNuOXRlRDJ4RDVfX0paUjFiR0oxUElSXzROZUVXVWRwQ1l3MUNkTW5hRTZ6dTBndk9hTVIwWGRLU2U3eDdfNXV1bE95dTVKaUh4YWdSdlFxOHhhSjVN0gFwQVVfeXFMUGdGb1FfZTY0MXEycmt3d2piallfWlpkRXZmZWx6U2FjQUYxbnVCUmYzdXc1cVlCVzFVYnQ1QTd3aUtPVXpCZGtfWmx4TkowTnROa0ZrckZRQ3VUMkNXVDhQT0lMZ2d4SVJKR01Rc2pXTg?oc=5",
+          "time": "2026-08-27 09:59:00",
+          "publisher": "Google News→好房網News",
+          "severity": null
+        },
+        {
+          "title": "診所淪毒販進貨庫房！桃園醫師囤2.2萬顆管制藥 檢求刑12年罰千萬",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xeGNndGNYMEF5cTBRN01wVkRwUGY0ekdiSmRHYlZFckxoMzZYOWNmalNUZk82TG1mbDE5OGhOS2ljWWViNWJpcGFSZmpfd0kxNjhWMkpQYlpoUkZOU3Y1QTNsYTVZSFctdTBvS0FB?oc=5",
+          "time": "2026-08-27 09:54:59",
+          "publisher": "中時新聞網",
+          "severity": "red"
+        },
+        {
+          "title": "桃園、蘆竹中元慶典傳承民俗文化 放水燈祈福點亮夜晚",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3SVh1el9abjJjTENvLVh6RHBZV0l4MEktMmhucm4tZWZEQWhQbkpCYV96QUQzaVhST0pLOGhOTDRLNFhtZG4tLUFiOEM?oc=5",
+          "time": "2026-08-27 09:54:58",
+          "publisher": "Google News→桃園電子報",
+          "severity": null
+        },
+        {
+          "title": "沙德爾影響活動異動！桃園地景藝術節維持至8/30 火舞團表演延期 | 美食旅遊 | 生活",
+          "url": "https://www.nownews.com/news/6869633",
+          "time": "2026-08-27 09:51:18",
+          "publisher": "NOWnews今日新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園道路交安會報登場 騎樓整平、易肇事路口改善成效曝",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5lclBET2Fjd0lCbzdKdFpOY1hPODgycmRITUZqdUJlM1hmUUVPRUZockV2NldnV3UxMkJ5YS1VSkE5ZzJETFFNRE15anI?oc=5",
+          "time": "2026-08-27 09:48:29",
+          "publisher": "Google News→桃園電子報",
+          "severity": null
+        },
+        {
+          "title": "難得同框！桃園景福宮中元放水燈 張善政、黃世杰互動受關注",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PSDREZVRjbjZSLURvRGwyam96c0w0akVzcTJBYVdTVk1OVTdZVWEtajdoaFJTV1A5N2VrSjg4b3Vma0NTQUU3UXlQMEUyVk5WeGUzc3VZT0Y2UDJxY0RSMUtwQWhEVFRxSURZR0NB?oc=5",
+          "time": "2026-08-27 09:25:32",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "桃園捷運綠線延伸中壢正式動工 串聯八德、中壢打造環狀幸福生活圈",
+          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQR3lyWWllMk1sRGN2d2NKRlRKREZFSExoZkFodklJTjZQemljai04Q0V2TXJnb2JCc0dMQVhTWEl2c01acUNsZ2YyX3RtVHJ1ZjVwVlBPaVJsNUllc0JMXzVTY0tvOWVybVkwNWtfUVhwZkVNcEZmTVQ4QWhZaXRRTmdaZ3E0YXhPSlRqeWVFLWh5SkNFRF9FTk40MmZQbXE3M19VWks3eVpEWjJSTnYwaTFzMl9qeHJlRlhTUXNFMElkZHZQYlR6c0N2UVl1Tm4xaU1xSmZuMXdibG9hTlBOYk40U1dfN1ozeDQwSmp4Z2xSQncyNDBNcmpPbzNoa1RfdUk0WlNyS0VLOWpyblJ5LTIxS1NnREZsRTZkSnU3LUN1aGZpa0VYbkRkUVpzeHRyUW9XMzNvZjdJUU5LQjFoVThTak9fWW5XRVhV?oc=5",
+          "time": "2026-08-27 09:08:53",
+          "publisher": "Google News→yesmedia.com.tw",
+          "severity": null
+        },
+        {
+          "title": "沙德爾影響活動異動！桃園地景藝術節維持至8/30 火舞團表演延期",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90NnctWDJieEZmNm9BSlRseHFLZWpiSm1Qb1ZHeEJUZnlHenhMLU12NEtaQ29MX2kzNzZpZ19kM1hNei1FdVlobWpWUUbSAVJBVV95cUxQRkk1VXBBVW83Yi1NQ2QxWUNXamNyelRvdjVRa0dyRHdyNFh6QzZXcDRBODFpUktHZGt6NDlKRG80WXU4Q3kySnZXVUhadFNvTHh3?oc=5",
+          "time": "2026-08-27 09:01:07",
+          "publisher": "Google News→NOWnews今日新聞",
+          "severity": null
+        },
+        {
+          "title": "共軍9度搶灘全敗！美兵推曝桃園高雄難突破 台灣公路網成關鍵",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5553668",
+          "time": "2026-08-27 07:51:08",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "共軍9度搶灘全敗！美兵推曝桃園高雄難突破台灣公路網成關鍵- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03YUNDeXFXb08wXy14WElVX0lIbF8zbjc1T3A1WThvbkV5RUlYVThvUUlGV3FQcTJuN0Z3NzZ2QTJGb0JwclBZUWJwZkg3c2VkQmIxOXpnQ1c3eDhqR3pwTE9VeUp6dw?oc=5",
+          "time": "2026-08-27 07:51:08",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園市兒童美術館「尋找好朋友：兒童共融主題書展」 陪你尋找那段獨一無二的友誼",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Xa08tVDVBSmNYTWdxLXAwM1M5aXNobzE0NXVwRGt1VVRtWTNEOEJoOV81OU5mN0ZUak9EMGtQdTNMVFFtNGlQSG0yT1Q2ckdIcWhrTWN1QlVHbHVGMVQ0b0VPWQ?oc=5",
+          "time": "2026-08-27 07:20:52",
+          "publisher": "Google News→波新聞",
+          "severity": null
+        },
+        {
+          "title": "「桃園市立醫院」核准設立一總院三分院- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54WldCZFYwTVVuNElyQjNzUGJEUkdYbGM4LUNVcTI2ekN2MWYtRklYaXNnUmZabzlZYTM1emNzaHhWMEdWY0tScVBFcmxMelZQcDliTG51NEx2aHM?oc=5",
+          "time": "2026-08-27 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "「桃園市立醫院」核准設立 一總院三分院",
+          "url": "https://news.ltn.com.tw/news/Taoyuan/paper/1768291",
+          "time": "2026-08-27 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "假看診真販毒！桃園觀音醫師狂囤2.2萬粒安眠藥轉賣 桃檢求重刑12年",
+          "url": "https://tw.news.yahoo.com/%E5%81%87%E7%9C%8B%E8%A8%BA%E7%9C%9F%E8%B2%A9%E6%AF%92-%E6%A1%83%E5%9C%92%E8%A7%80%E9%9F%B3%E9%86%AB%E5%B8%AB%E7%8B%82%E5%9B%A42-2%E8%90%AC%E7%B2%92%E5%AE%89%E7%9C%A0%E8%97%A5%E8%BD%89%E8%B3%A3-%E6%A1%83%E6%AA%A2%E6%B1%82%E9%87%8D%E5%88%9112%E5%B9%B4-045900387.html",
+          "time": "2026-08-27 04:59:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園 里基層工作費調升 地方給掌聲",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyS1haQWd2OGowTWJvN0c2YmhEUUh6YWNjd1RaZFVObHZzYmZOa3hWcFpfQTlvZVdFRXFNbElUckJWamVUMU9nVnlvOHJZT1R4VU5xZmtYeHpVeHI1bXVQWVpqNlR0b1UxOG1J?oc=5",
+          "time": "2026-08-27 04:10:00",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "工程師魄力 張善政催生桃園市立醫院",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LRUkzZW95U19YWWdncVQ4aXNmY0xOV05VV3ZnRG9IdW1uaDNLeFhXWGNzWUI5bkxNdmdtbmw0SXNkZUZQWUFFcTNvZzF5c2xNRnVUckU5QnhZdFVpZ2FwWS1vTUZ2VldYMWxN?oc=5",
+          "time": "2026-08-27 04:10:00",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "桃園7鋁鎂工廠 近日完成稽查",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jUUk1NjhrazhBUWF1NUEtRVVpZ2Iwal80TF9GU1JReWhjdFdLQVJqNG1EMExXemU0SDlQWG5lbG50TGNiNnhtb1RJMTBubHpNM0ZOVXh5ZE1pZU1IQUt1VmR2Qm9MMGkzUDVv?oc=5",
+          "time": "2026-08-27 04:10:00",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "桃園市議會",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTFLS2VhZ1U3QlFMRk00VVZkTExfZ0Q4ZklfcF96cGtMeE12SjBvYVhsS0RyemtKSmlmZm1QMlM2dWh2QUhQT1dBRVcwNm9sRm5feWVSVkotd0pCM0JQNFktS1did0VxLXN2TzlJS3R1enhzNlkzQzY0S2tfV3F5WE9FN0N1ZlVU?oc=5",
+          "time": "2026-08-27 01:57:21",
+          "publisher": "Google News→宜蘭新聞網",
+          "severity": null
+        },
+        {
+          "title": "後備指揮官訪視新北、桃園後輔中心 肯定協力國防事務 | 青年日報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mUXd2aGtKbFpqZWhWY3pXUjBUbzJuRjhvRjlqcWkwUExDeTh6VTViNmNRNTQxRTc4cGFnRVFfRFllV1k5UzRxSFd0NW9hR2l6M3U1Nm1R?oc=5",
+          "time": "2026-08-27 00:50:42",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "後備指揮官訪視新北、桃園後輔中心 肯定協力國防事務",
+          "url": "https://tw.news.yahoo.com/%E5%BE%8C%E5%82%99%E6%8C%87%E6%8F%AE%E5%AE%98%E8%A8%AA%E8%A6%96%E6%96%B0%E5%8C%97-%E6%A1%83%E5%9C%92%E5%BE%8C%E8%BC%94%E4%B8%AD%E5%BF%83-%E8%82%AF%E5%AE%9A%E5%8D%94%E5%8A%9B%E5%9C%8B%E9%98%B2%E4%BA%8B%E5%8B%99-163700136.html",
+          "time": "2026-08-27 00:37:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "開挖40米深！桃園綠線G07站「逆打工法」縮短7.5月",
+          "url": "https://www.chinatimes.com/realtimenews/20260827003645-260405",
+          "time": "2026-08-27 00:36:45",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "鏡頭：桃園景福宮放水燈 傳承百年中元祭典",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CdDBYNEJCdWxYMU5rOUF3M05jdjRxVktJN2x0MUQwM0x6bmNFbkVVRFZrSzFrSnlPTmxNUDBFSGFobnlEUTFMMUVHNUtHVzZhRXZ2bnJiOG9kdWxBdDZGOGZnQUdNQS1tS2c?oc=5",
+          "time": "2026-08-27 00:24:21",
+          "publisher": "Google News→中國評論新聞",
+          "severity": null
+        },
+        {
+          "title": "青埔企業指名！【森PLAZA】桃園首座LEED銀級商辦 即將完銷",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQzdxNEdtVjF3anRGMTV2MjBMZGktaEU4N3BteGVhcFdrNEhOc3MyVVlDNzlDUzlySmF6Nl9Mb0JZTDBLMURWMTVVSmVSQS0wc2sycDI1Uzh6MEczWFFZWTFqcDllLWdEdkI2ekx3VndHRnJOZWZVLTh4NVZBSzJHMA?oc=5",
+          "time": "2026-08-27 00:09:26",
+          "publisher": "Google News→今周刊",
+          "severity": null
+        },
+        {
+          "title": "比楠梓還便宜 高雄市區河岸首排景觀宅新屋單坪32.8萬元起",
+          "url": "https://news.nextapple.com/property/20260827/47CEEA662B96E335D973CC18F1765CD7",
+          "time": "2026-08-27 00:08:17",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "桃園市立醫院獲設立許可| 桃竹苗| 地方",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Tb1RXY2NMTlljYWc0QklGNVczQWoyOGw4aUpmTGszdlpFYUxTNzJEZTR4OHNUOEJveWREMFlDM1Z4ZGFBZlp1ZzNUaEJrdEpR?oc=5",
+          "time": "2026-08-27 00:00:00",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "桃園市立醫院 獲設立許可",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Tb1RXY2NMTlljYWc0QklGNVczQWoyOGw4aUpmTGszdlpFYUxTNzJEZTR4OHNUOEJveWREMFlDM1Z4ZGFBZlp1ZzNUaEJrdEpR0gFWQVVfeXFMT1RhbXNyZ01TWm9aVmo5WmR4MDE0NEhNUG1HNnBrVFU2QnBnX1pTTlkyV3YyVDYxUHljRmdwellodFdIWmRSSFZDTGJHMEVXc25lV2pXOVE?oc=5",
+          "time": "2026-08-27 00:00:00",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "桃園兒美館「尋找好朋友」書展 36本繪本帶孩子認識共融",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5dnpkWEk2UVBEUzVlci12bk5MbHRZdE1xR0N0ZndpYWlKeERsbXFQa2dEbUI5TmFIUGM2alpjeG55OXRteWxHQnNHZzhSWnNPMFRGODZQNS1DVmZDalHSAUtBVV95cUxQb1d0RHBKUWJlT2RFbVM3eWg1RlJHTFpTb1dyN2FLbllFalM3N2pEd1kzUGxpX1RaNWJFS05ia1IxTlJlVExhZE05TVU?oc=5",
+          "time": "2026-08-26 23:53:00",
+          "publisher": "ETtoday",
+          "severity": null
+        },
+        {
+          "title": "台南大爆炸為鑑 桃園強化易燃危險物管理、全面稽查鋁鎂工廠",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5553593",
+          "time": "2026-08-26 23:40:29",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "台南大爆炸為鑑桃園強化易燃危險物管理、全面稽查鋁鎂工廠- 社會",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KbnkyZmttNC11eGg1UFg2ak1pUjVJWWVNR290SkIxb2R4THVqT0FISFk1X2FpaWRUYXZEenQtbkxlTmx1OGpqbkFCMWw0a2JXdFBiRDBlN2dpSWFBR3pEOThxU19rcFFF?oc=5",
+          "time": "2026-08-26 23:40:29",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "桃園中壢疑曳引車漏油 6騎士行經滑倒慘摔車",
+          "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E4%B8%AD%E5%A3%A2%E7%96%91%E6%9B%B3%E5%BC%95%E8%BB%8A%E6%BC%8F%E6%B2%B9-6%E9%A8%8E%E5%A3%AB%E8%A1%8C%E7%B6%93%E6%BB%91%E5%80%92%E6%85%98%E6%91%94%E8%BB%8A-153843453.html",
+          "time": "2026-08-26 23:38:43",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園地景藝術節開放至8/30 部分活動延期取消",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5553584",
+          "time": "2026-08-26 22:59:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "桃園地景藝術節開放至8/30 部分活動延期取消- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MQmNqc0dZMXlYU1ZabFlKaEVuVVZMa0Z4MlpZdXdPSVFBQWtwYzZidk1HRHU4dlh0NUlsY0Y0am13VFlHUWstOENEekxJb0xrSVpDWDhjZVlMSDRFckIybEJQZGo?oc=5",
+          "time": "2026-08-26 22:59:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "桃園地景藝術節開放至8/30 部分活動延期取消",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOdmdBMjR5aldudm41Y0Z4UG9xQWx4VXBUWXBxdE1JSDg0NzNkVkR5amJhZVBXRzViTlBfS0tXU25GSGF4SmtwczZqbHZiaklwSHJ6U3VfazNDWFBnVFBseTRibHpnNXBORmI4cFRKc0EwbnpjaGt0cHBhUTV1N093TlFCMkstaGV3Rmg4REVueVVsaW5KSmwzM2tOWFZQLW1tODFnLXhacFB3c2lPenU4eHFKLTlWVWpRQnZtNzE1MVhDeEF2Y21qYTlIdFBfVUIzcjhRYVhiMXZldk4yNzc1MUlId3lWbG92MzNFdWNJOVJxcHZHTFgwU0pjWjFNclcydTNYaFhjcklMcER1YnJMQU1hQktYYkpMVXZ2NXdqT0xDUVhPTmlZUkVpcmpUdWdMY0E?oc=5",
+          "time": "2026-08-26 22:59:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "吳宗憲拜會桃園市議會談「宜桃合作」 提5大連線：助優質產業扎根宜蘭",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBJWTJrNlM1c2ZvME5aal8xdkhHeFUwTjRXWkg3Qm9PTExNMEVlM0wtLWdQQ3Blb09idEVnVm1QTjlxdw?oc=5",
+          "time": "2026-08-26 22:57:20",
+          "publisher": "Google News→墨新聞-MORE News",
+          "severity": null
+        },
+        {
+          "title": "桃園捷運綠線延伸中壢GEC04標動土暨成環啟動張市長：串聯八德、中壢重要節點啟動幸福生活圈",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RcWxGb2drYWhhQXhickpOVndSQ2JmblVmUExIY0ZRemwxbWcxWHo4NWpaQkN0MVdpX1pxb01EemhtUzZoRUhBb0hRWmhjTjZ1dGc?oc=5",
+          "time": "2026-08-26 22:57:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "新學期迎新的相遇與關係 桃園兒美館「尋找好朋友」主題書展登場",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5553551",
+          "time": "2026-08-26 22:36:05",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "新學期迎新的相遇與關係桃園兒美館「尋找好朋友」主題書展登場- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EeEdOeUtuaG9CYWM5RFh2MDBLM2h1aGVWR3hKWmFqRU1qVTV4RGVmaHh3RzhEMENlVURrc2xneXFkQUJiTjJMS0lyRGZ2ZnZ4aVpVa0tSMGw4bnNQZVExbHJsRDY?oc=5",
+          "time": "2026-08-26 22:36:05",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "桃園高爾夫．悅華迎國旅補助 雙人一泊二食2,639元 - 生活新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVNLSkFwUnc0UVZEb3dOYVNBVVRPN2xBMTh2YktHdGJsNURKd1I0eFZHQXMwSVhBSEY2LU9HcFBGREhjclQwWHd6NExXSi1YaWxPV1B3d010RFJxY09wOHJtRmluMEk4OFRzeE5vOUFYZGtFR1kyWjR5SExja3IyY0tRcnhCZnEybHRz?oc=5",
+          "time": "2026-08-26 22:30:41",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "桃園捷運場站開發迎兩大進展 張善政：TOD帶動與都市發展",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93eTY3UjF4b2RpMG5Vbk8wd2FhazR1UUU2aTRDTE9KdXdBRkxvem80bVFGUnN3d1Y0SGpwXzNQbXFGeDVIcGw3UklRWHY?oc=5",
+          "time": "2026-08-26 21:40:36",
+          "publisher": "Google News→atanews.net",
+          "severity": null
+        },
+        {
+          "title": "桃園公車改革再升級 張善政：持續提升公共運輸服務品質 - 生活新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONTdCMzZUYWx0TWlYVWUwODJmcnhSQXl3RkVsVGlRX3RoNGs4UEQ1aktBaXhxTnZjZ3FYWGxhWG5NMGRmaEZNY0VGengtLWU2cjVnYkZTY2xoZXMwLVg1TXNMMzc3dVNKLTh3S0hFQWdIbVZmcTZjUHl2MGYzbTB5bDlFOVY2Y28yVFhVbg?oc=5",
+          "time": "2026-08-26 21:36:00",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "吳宗憲拜會桃園市議會 盼推動宜桃五大連線",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNekpqTm8wcVhvVmZwSTBLUlZEYmlTM0g3RzV6R1kxRmJiYXZpYl9JMThWQ0x1elNPZUZFQlVFcTlmZFpESENuOUFNUVZDcnI3dFRwRE15TVdKWmI5YnhZaXdjancxWHJLQ0I2SGF0Y1JfaGtKek1FSFVxcE5yZDdLbkViakRTaWZpbVVCTXFzeXFvWFJtLTRPYTVpejR1QVFIT0RUV2ZZOGd5aVRVS2FOUXdxV2d1YThIQ20xa0w3X1JNeXM1TWZ3U2NNcFVua3lWMkxkY1VoUDRPUTYxUjN1by00YzVHM25jSnZDS3dNRlMyNHhQVkVJZXNpOXRvbkFGZi1TeEoxWkZ2cW1lVHNzOTdpLW0wSExFSWpNZWY3X2JkN0lTck9xMzhlc2Qzcl9fb2hqeFA0Wm4?oc=5",
+          "time": "2026-08-26 21:17:23",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "吳宗憲拜會桃園市議會提「宜桃5大連線」助優質產業扎根宜蘭- 政治",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhWWxtaGMyeUlFRlNvaU8wSVRRMzQyV1JfQW9scjhiZHVSVW95Nm5SQkFHSDRYSEhkNFJJTVo5VGh3VkY1LUhQUTVranJRSkJ3bEFnYUU4Z1BEWlFBUmtMdjZFWHc1TUxyMFE?oc=5",
+          "time": "2026-08-26 20:59:56",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "CIPOQ • 即步逐夢 桃園市復興青年行動計畫正式啟動",
+          "url": "https://tw.news.yahoo.com/cipoq-%E5%8D%B3%E6%AD%A5%E9%80%90%E5%A4%A2-%E6%A1%83%E5%9C%92%E5%B8%82%E5%BE%A9%E8%88%88%E9%9D%92%E5%B9%B4%E8%A1%8C%E5%8B%95%E8%A8%88%E7%95%AB%E6%AD%A3%E5%BC%8F%E5%95%9F%E5%8B%95-113830220.html",
+          "time": "2026-08-26 20:32:07",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "張善政重大政績再+1！宣布「桃園市立醫院」獲衛福部核發設立許可",
+          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNeGxLak1FRkkwSlJiNThHS0RNU3Y3YnlFQjI0VEZJRFcxUFl3QVd1OEhqSy05NE5BYkNJMjFGbVZFa0w5angwLVZMZmFZamxmZzBMTmFEMzVnX1prUDg3bjZoZHBjT1hnU1RoNXNuTkgtOUNjc181LTVEZGJLRU1sTzlldXVHVkRiaUE1N0dMT0dLYW5XaENiSTZ5VjMwVWJ5NC0xV3Znd3NFR1VDWjFzM2VCRFNCbnNxYllRU1VZLUFPZWwwZldLR2hsRl9SNmdiN3NwVTEwb1RJRExtMDBsLWpUeGFvT21LTXpRSjMwckJnbEs0ZDNfOVg0eVN5TUE0T2toRjZSUlJSdXBMVDU2YnNqaXEzczJfTFZLcFB0YnJPMXZBclEteTR3a1FjazljcC1DYWVqYlZubjBha2Y4VU50czJiak9JdUQ5cW14UENVUTY2aHBUWjNEVjd0Rnd6Um5HVGlaRUpRb1RjdDBteW9pNHNXcUlJbEkxT2FyazF0V1ZoaV9MX00wUzZDcHhvZEE?oc=5",
+          "time": "2026-08-26 20:08:41",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "桃園教育三部曲全方位照顧學童 張善政：從餐桌到書桌陪伴孩子安心成長",
+          "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E6%95%99%E8%82%B2%E4%B8%89%E9%83%A8%E6%9B%B2%E5%85%A8%E6%96%B9%E4%BD%8D%E7%85%A7%E9%A1%A7%E5%AD%B8%E7%AB%A5-%E5%BC%B5%E5%96%84%E6%94%BF-%E5%BE%9E%E9%A4%90%E6%A1%8C%E5%88%B0%E6%9B%B8%E6%A1%8C%E9%99%AA%E4%BC%B4%E5%AD%A9%E5%AD%90%E5%AE%89%E5%BF%83%E6%88%90%E9%95%B7-120700083.html",
+          "time": "2026-08-26 20:07:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "桃園教育三部曲全方位照顧學童 張善政：從餐桌到書桌陪伴孩子安心成長",
+          "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNa29ULTU3bTJGMlJQOUxiZEllT1FlUXpuaC1TcFdaTm1oYUJrVmpjX1lpbE56RGF1X3lvRVk2QnlfNnV1Y01BZW8zMml3OG4xYWNHaElPcFRqUWNULWRDNmRaSXhmd2NaRmNrbS1zYnJNbE9xZjlMUTY2cDk0YzhPYkZDb1ZZN3Jtbk5acjZPV1QxWkZpVnhJdG1KdURsNjFlelBJWFNXQTZUZjd3MHVfNG00dVZZS2ZVSkp5Qk9JTlZ1WTdhMmZRRFhwdHlvRVZyYndWZXByYkY4aFRRci0xbXRmNjcwTXZuaFQ1NXFvT2VhR245U0s0ZU96dWgyd2RsNmJqNWxhYVE4Z3VoMHdZMXVLUFNqTHR3VmdoRW85T0JPai1nMVBmcTBDY193STZINC1QRWhlU09FaGtNOVpBMFBLaFRoV1J0U19rS0JBd281STZScGEzV1EtRXV2RndINDBpT1J3ZVFnUVFKZ1E0VTEwaEJlUlhEYW9IbzdHV1J5MnhZTGhndVQ5Q2VEN0xqQUVURlRfN0NvN2ktZ2tGQVVwcGh6OHFfV2h0RnRFM3hkZmhWak9DVllKTUJPTE9Kd0ZsbDBia0Z6dw?oc=5",
+          "time": "2026-08-26 20:07:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "吳宗憲拜會桃園市議會談宜桃合作～鎖定產業、觀光、文化、運動、教育5大連線",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xNGs4a2pyV2prVlZNaG5NZjFwR0l5N25oZWh5RjRZQXh6dHd1N2V6WGsyTkZjcWlNSzFDWTJ3Ykg5UzB1U1BDanJXMXZkQnotb0c2bFFBbjNQcFE?oc=5",
+          "time": "2026-08-26 20:05:00",
+          "publisher": "Google News→葛瑪蘭新聞網",
+          "severity": null
+        },
+        {
+          "title": "桃園捷運場站開發迎兩大進展 張善政：TOD帶動與都市發展",
+          "url": "https://more-news.tw/704007/",
+          "time": "2026-08-26 20:04:51",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "桃園市立醫院核定規模揭曉 八德總院最快2029年開工",
+          "url": "https://more-news.tw/703990/",
+          "time": "2026-08-26 20:03:50",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "因應極端降雨！桃園爭取16億改善淹水熱點、加寬側溝",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5553322",
+          "time": "2026-08-26 20:03:35",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "解放軍打不進桃園高雄！美兵推曝搶灘死在台灣路太發達 最後恐盯上「這裡」 | 上報",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIMFhQXzQ4SHJVU0FTRVZYQ1lyWnRRQkV6cWozNHU3MGJTcmJBOV9lYURFNkphYjhRUEJlLV9udVJLdUFCc1FjSFBaUnkzd3dDWHZ5TUl3Ny0zTUI3YVE2Y290SlFKSngzNGlMWVpXSFA?oc=5",
+          "time": "2026-08-26 19:56:25",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "yellow"
+        },
+        {
+          "title": "苯駢芘超標黑麻油流入桃園 衛生局：追查下架、擴大抽驗",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40U2hxZnpXOHFrMXplanFDLXBLN0dCNDUyeEFWVXdCVThiQTJtSmpwWFFfMHZ0UDQxS2VvbjJjR1FWQVZ0WURCTkJyY1JsVTNi0gFWQVVfeXFMUHFzVHM3cnE5RDhpMk85cUFsTHI3MlJHV3RUTVJSd2FsOU1oVURCOFBlSW5XVjV6ZVY2MEF6ZFlYMzUzemFuel85aGo5VUgxMzBJU09ibXc?oc=5",
+          "time": "2026-08-26 19:55:20",
+          "publisher": "Google News→UDN",
+          "severity": "red"
+        },
+        {
+          "title": "CIPOQ • 即步逐夢 桃園市復興青年行動計畫正式啟動",
+          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPcS1QOUlObU50cmlJa2wxVkozZ0tZRHNJa3ZmLXVBNVN6djBQaFRsel82UGVaVWc4dVp3ME1VWGZnS3NVUzBKVG1RVUZwVWVid2pYZlJ0ZkU2Q293d01LcDZ1N1BHYlJxdFI2eWdXa0RrSmJXN1ZoODNlZUJ1cktJYXNSS1hvbFFlQ1g2dzB4SldYSkg1SVVURllrMXQzZnNaZ1dJNXNBYS02TkhwbV9oUU10RkJpbkNNaW1zNXpWcTlvNUlmSHBRb2tZbEdBeEEwRDlDd2Q3dTVRLXhpNThPenZTT1E1b0I5cXpiMzlONllYQWtCWlp0eVlabUJoeXhHdEcyd1A5cnR5Y0ttZ2NDbVZxVk5WWmQ1eHI5NU9hbGo1T3lkemQwOTFpZHhLSkczVUpzRlZyVDFELVJCM0wtTg?oc=5",
+          "time": "2026-08-26 19:46:30",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "台人赴瑞士旅遊CRP救人一命! 桃園市義消獲表揚",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNZzF1ajZVN25tWGhDbUJ4ZEo2alBKM1NVcXMtWjY4Q3pPU2RPNWotY0Z3VWI1M1ZXbV9Tb1hxM21QdTZpMmlwMmZuZVRZRDVLRmZLNVBDV0h3NHFrYWY1X2d0Z2Jla1JlNkJCM2tnMDdfRk9BcEY2M2NVeEZZUGpnTGYtZnRGc0FMM0Y4ZWpHSGlJYVV6VVZZT0pDZHVadkJEZ3Y1bEpFb1U2bzBlc3BXY2RNd040b205NUQxQm13WHZUNDY5S215bUV3cEJBXzJ1R0dQUkRTVmNfNFhaTkZRQU1TVmhRVm5meTY0ODdKSVEzb3M2TWF2eTNZdXdQYlN1WWRmbE1yd2UwSy1qMzJxZmE2R181alFOWlhZaHg2S255N2VjM2dRSUJiVy1ldlgxNUE?oc=5",
+          "time": "2026-08-26 19:40:47",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "桃園兒童美術館「尋找好朋友」書展 閱讀典藏繪本、玩磁鐵遊戲",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMeVZSbmhWY19fcWJnNERCenVKM24zakdtc2NjSDJDYmxXaWtDZXljTW50dE1fRUM1QThjWk1SanpPMWxhb1JCb2dhb2dnb2lh?oc=5",
+          "time": "2026-08-26 19:32:42",
+          "publisher": "Google News→客新聞 HakkaNews",
+          "severity": null
+        },
+        {
+          "title": "防患未然！桃園嚴格列管221處危險場所，清查禁水性物質工廠 | 王維傑 | 地方新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUeWJHS0tEcHlyQTByMHVTbk5zeVZEWUZtMXZ6TF82YVNMa3ZvbkV2ODRaempPYm5TUlVLTUlwdVE1dE5RRW1ZUGFIZzhhdw?oc=5",
+          "time": "2026-08-26 19:26:38",
+          "publisher": "Google News→風傳媒",
+          "severity": "yellow"
+        },
+        {
+          "title": "黑麻油苯駢芘超標！桃園2門市進貨18瓶 未售9瓶全下架",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tZTVsbXROckNja0dxeE91NGJmV0tKdUdsNFZoeGc5QWRsWVRaNFpmc1RvdHFEbzV4bkJIUWQ3ZnJCampENGZNSHdPUU50THduei15MjQzOVA4bmdTUExsWHhiSlRNY2xXZENVYXdn?oc=5",
+          "time": "2026-08-26 19:20:42",
+          "publisher": "中時新聞網",
+          "severity": "red"
+        },
+        {
+          "title": "桃園捷運環狀路網最後一塊拼圖 綠線延伸中壢土建高架段動土",
+          "url": "https://news.ltn.com.tw/news/Taoyuan/breakingnews/5553287",
+          "time": "2026-08-26 19:05:22",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "桃園捷運綠線延伸中壢GEC04標動土 張善政：串聯八德中壢幸福生活圈",
+          "url": "https://news.nextapple.com/politics/20260826/D26ED1BC61415D477DA379BFE007DE44",
+          "time": "2026-08-26 19:02:16",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "桃園捷運綠線延伸中壢GEC04標動土 張善政：串聯八德中壢幸福生活圈",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRjI4VW1YQXBNNURLUUpvSW5kMEJXV3JHdzlSY3MyWXo0QThnTThZcWRCN3lUbnBIaVI3cHRWN3I0UktpbGMyWTZXRVFVRmxaM2p5d1l3LTV4NFpkNWp4YnhLTXIweVk3SWlHUkw0VGdpX3E2NFRSYVhMSS14Q2FJUFpTRQ?oc=5",
+          "time": "2026-08-26 18:59:00",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "防台南大爆炸重演 桃園主動稽查非法棄置物",
+          "url": "https://more-news.tw/703868/",
+          "time": "2026-08-26 18:58:09",
+          "publisher": "墨新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "市議員謝美英今天針對桃園軌道建設地下的隱患 對水務局提出質詢",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1LWGRBNkZsVWw3aUw0dWpmT2lsbDMxa3liVnVnWXJuLWZTaV9ncDlKN01HdXRoSlNpQm8tUVEwdG5MSXJ4NVE?oc=5",
+          "time": "2026-08-26 18:57:13",
+          "publisher": "Google News→台灣新聞雲報",
+          "severity": "yellow"
+        },
+        {
+          "title": "于北辰質詢桃園污水接管率升至28% 舊城區仍卡關、後巷美化一年僅10條遭質疑",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBvYmpyalVzbXF5S29ySGZ4b1NxM3VGRGNodncxNTZKMjVwV2lPRW52TFFuSERMajhKV2JRU0FxV0ZKOXExVXc?oc=5",
+          "time": "2026-08-26 18:57:13",
+          "publisher": "Google News→台灣新聞雲報",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園調高基層工作經費 大型里最高92萬",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQN2ZrWndhZzBDT1pUODdpZm9tLUxEM1BJenR0SmlQaFZ6NWhrSDZUYVJRZ2dHVHMzYkNFdU45ZDhIZ2tnZW1aVElGSXM1VGh2V3RDSlJadklPZHpyNFRLZ2UzYzA3UFFDVlVUaUFiVWw1bHpYWGRaS0ZRNXJ2Mmh0Nk9ZcGxmdGtxZ1ROVUlmUnpPYl9SV1FuZHM0YWtHOWVtOHpfRTRlUzNwQ1ZxQ3FWNzdUZi02OXU2bnRiRE9Ha25tQkJwNXlwOE9OT2F5X29ZRGVzU1RTb1FDRE4wSXdfUTlTY1NwWWVkR1E2Zjhqb29ZQ1BWUDRscXVOTVhSeEhqQmRIX3FSQTNpcGhBUHJ2NzExSDk?oc=5",
+          "time": "2026-08-26 18:34:12",
+          "publisher": "Google News→台灣好新聞",
+          "severity": null
+        },
+        {
+          "title": "桃園市文化局本週末藝文活動異動 紙風車龍潭場取消火舞演出延至9/6 | 台灣好新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zc2xZMlFHa1c0MXpTbzlvVmctRDBkNmZWbjhjRFF3aU1EQ29xTmxpaGl4VFZVU3BOZ1U1dU5HZDBoRmh1ZGU1SmJQUEMyT2VpODBIYmVn?oc=5",
+          "time": "2026-08-26 18:34:02",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "桃園調高基層工作經費 大型里最高92萬",
+          "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E8%AA%BF%E9%AB%98%E5%9F%BA%E5%B1%A4%E5%B7%A5%E4%BD%9C%E7%B6%93%E8%B2%BB-%E5%A4%A7%E5%9E%8B%E9%87%8C%E6%9C%80%E9%AB%9892%E8%90%AC-103231994.html",
+          "time": "2026-08-26 18:32:31",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "桃園大叔賣場偷拍女子裙底 遭當場活逮折記憶卡滅證",
+          "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E5%A4%A7%E5%8F%94%E8%B3%A3%E5%A0%B4%E5%81%B7%E6%8B%8D%E5%A5%B3%E5%AD%90%E8%A3%99%E5%BA%95-%E9%81%AD%E7%95%B6%E5%A0%B4%E6%B4%BB%E9%80%AE%E6%8A%98%E8%A8%98%E6%86%B6%E5%8D%A1%E6%BB%85%E8%AD%89-102748997.html",
+          "time": "2026-08-26 18:27:48",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
         }
       ],
       "comments": []
@@ -7836,930 +8718,6 @@
           "time": "2026-08-26 18:43:11",
           "publisher": "自由時報",
           "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "桃園地方動態",
-      "city": "桃園",
-      "place": "桃園市政府",
-      "level": "red",
-      "news_count": 130,
-      "comment_count": 0,
-      "negativity_pct": 12,
-      "is_urgent": false,
-      "urgency_score": 178,
-      "news_articles": [
-        {
-          "title": "桃園女騎車離家2年成「竹林白骨」 新北警比對DNA助落葉歸根",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZNkRkc2R2bV8xZTcybUdwWWhCWVM5NmZoSW5sUzZqSGp3d3oycmNBN3Z2dWVPRUZPV1VlU0p5a2VXTE9vV2FmSDYwY2Jub3NkWFNORlVjMzg5cVVLeWfSAUtBVV95cUxNVjR0V2JVbHZ2dTNGRERLMUwzWWxEckVqU2w3WGN0blh2VkxIS0lSTm5fVTBZZzNhN29nWWNSSWtjTnVGdE5CNkd6ZDQ?oc=5",
-          "time": "2026-08-27 16:12:00",
-          "publisher": "ETtoday",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園國強市地重劃進入分區施工階段 6.74公頃拼117年完工",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tRDRiVk5UZktIOU12elN2Y1FhSGRRa2ZfalNqdFFIRVp1dU9LVUw3U0RVYnBnejFTSjBlUF9kTV9zWFlvemFVSGFTZ2w?oc=5",
-          "time": "2026-08-27 16:08:08",
-          "publisher": "Google News→桃園電子報",
-          "severity": null
-        },
-        {
-          "title": "桃園13行政區空屋率全跌 永慶房產集團：蘆竹5.92%奪全市最低",
-          "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%9213%E8%A1%8C%E6%94%BF%E5%8D%80%E7%A9%BA%E5%B1%8B%E7%8E%87%E5%85%A8%E8%B7%8C-%E6%B0%B8%E6%85%B6%E6%88%BF%E7%94%A2%E9%9B%86%E5%9C%98-%E8%98%86%E7%AB%B95-92-%E5%A5%AA%E5%85%A8%E5%B8%82%E6%9C%80%E4%BD%8E-080655713.html",
-          "time": "2026-08-27 16:06:55",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "拜會桃園市議會談「宜桃合作」 吳宗憲提5大連線：助優質產業扎根宜蘭",
-          "url": "https://tw.news.yahoo.com/%E6%8B%9C%E6%9C%83%E6%A1%83%E5%9C%92%E5%B8%82%E8%AD%B0%E6%9C%83%E8%AB%87-%E5%AE%9C%E6%A1%83%E5%90%88%E4%BD%9C-%E5%90%B3%E5%AE%97%E6%86%B2%E6%8F%905%E5%A4%A7%E9%80%A3%E7%B7%9A-%E5%8A%A9%E5%84%AA%E8%B3%AA%E7%94%A2%E6%A5%AD%E6%89%8E%E6%A0%B9%E5%AE%9C%E8%98%AD-080611991.html",
-          "time": "2026-08-27 16:06:11",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "要求完善生生喝鮮乳及食安 桃園藍議員：力促地區體育建設",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1heGdsZXE5S2RWM3NJNEE1SkNOZXoxemZwVS1zeXN1d3BLMnFHZjhZTWFIRWZmckxDYWo1dUlkaFdldjJiWDNYLUpYQUhNUTVBa2ZmV2Q1RHB5R2V3bjBOcNIBZkFVX3lxTE5HV2hJQk55WEJacWlfQkhvd3NhUF9KRGM3Q3VXWjZkSlBEaTc5TWpHYWpEdk1YS1NTeHUzNEhwVHRlZkFmLWp5RVVzSDBRRWg0Unl6WVF5NEdBdlRDQ1ZuOC1WQmhkZw?oc=5",
-          "time": "2026-08-27 16:04:00",
-          "publisher": "Google News→大纪元",
-          "severity": "yellow"
-        },
-        {
-          "title": "塭仔圳從藍圖落實到日常 道路、公園、橋梁陸續到位 | 桃園電子報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTV1E2Q1Mza3BmM3pzZjRYWGVTbUJTWGRTY2hKVUdZYWdrRHBtZEk2SkRxNUFJQWFHMGY4MEdOakZuZ1FvaGxQN0puVGZwak80Z2stLW1B?oc=5",
-          "time": "2026-08-27 16:03:45",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "桃園診所醫師涉販售毒品安眠藥遭起訴 衛生局配合偵辦",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5554363",
-          "time": "2026-08-27 16:02:13",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "桃園診所醫師涉販售毒品安眠藥遭起訴衛生局配合偵辦- 社會",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13bDh5cXFRN2xQWi0zMUR3N3Z1U285SnNPTWY2MWtCTUM0Wno5X1BtNlI0UXQ4Vm1fMHp5cnNIY2NzVXhnMXp5VlRlRDk5WVdZb21qdlNpcS1nOU9BNWRBREI5aWEtcjZR?oc=5",
-          "time": "2026-08-27 16:02:13",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "小小照顧員出任務 桃園創世幸福拾光市集邀您一起做公益",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SMXlnZkdJTVVxQXlkVWpEYTNTNVFRRG1sYnIzRlluUVM0SWxSM2dGR054Y1h2WGxwR29mQ2tUWUUtZVdqeGtLa2VhZDVwTTd0U1pQZ0NfeDRDQ29GeVRrVdIBZkFVX3lxTE5pRC11MktqUXRHbGFfVFZZMFFPY3otXzlVQWswTU5JR1dkaVF6dUk4TjZpVHBERy03RTFSMmlJM0VILThjTzY5Qkt6bldFQkV6Mi1mNVRuUFRhNDlSWFJsRkd6bnZ3dw?oc=5",
-          "time": "2026-08-27 15:56:00",
-          "publisher": "Google News→大纪元",
-          "severity": null
-        },
-        {
-          "title": "跨越2年的思念...新北警保留失蹤桃園女家屬DNA 助竹林白骨回家",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5554273",
-          "time": "2026-08-27 15:41:02",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "謝美英指出桃園教師零缺額？教育局「蓋牌」粉飾太平？",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yTk9FNnFFM3dKVkh0S1l6VjdybzRWZDRiVEtqTEZOZzhVOE1sUE5IcGJ2OHZVQndHSXlaMkpxaFBQMzBfOEhCenJ2QVRhYkotWTYxUA?oc=5",
-          "time": "2026-08-27 15:39:37",
-          "publisher": "Google News→崛起新傳媒-",
-          "severity": "yellow"
-        },
-        {
-          "title": "就業紅利與軌道經濟帶動桃園住宅需求增長、空屋大減1.2萬宅- 財經",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0OWpzRmhDSnREWjh0R1dJNm5KdDBtZFZfaGd3MXcwbWFqZW1oRDdNNkhZb1JCOG11Um9qUFFQRHZEQXp0SjFwUXY0eFZmT05lUWtJT25MbUVVTUNCVmZFOG02d2RTSVk2aHBXYnJR?oc=5",
-          "time": "2026-08-27 15:31:44",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "桃園女失蹤近2年找到了！成「竹林無名骨骸」 新北警助落葉歸根",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zeHFEZDA1bnhQT0p2dFlSTUJOV0g5NTNLQVpmbEd5dUxIVVVYc3ppX1l2dkpSY05GUzFmVDd2R1FzbkhzV2thTnI2SjktYWc5Y2Z4VXFn?oc=5",
-          "time": "2026-08-27 15:29:00",
-          "publisher": "東森新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "為孩子北上求學布局 永慶房屋郭朝勛助桃園家庭跨區置產",
-          "url": "https://cnews.com.tw/%e7%82%ba%e5%ad%a9%e5%ad%90%e5%8c%97%e4%b8%8a%e6%b1%82%e5%ad%b8%e5%b8%83%e5%b1%80%e3%80%80%e6%b0%b8%e6%85%b6%e6%88%bf%e5%b1%8b%e9%83%ad%e6%9c%9d%e5%8b%9b%e5%8a%a9%e6%a1%83%e5%9c%92%e5%ae%b6%e5%ba%ad/",
-          "time": "2026-08-27 15:24:18",
-          "publisher": "匯流新聞網",
-          "severity": null
-        },
-        {
-          "title": "桃園115年慶讚中元水燈排繞境放水燈 祈福地方平安",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44WTNCOXgybGZnZDVWNUtJdVBDNm1ROUNTY3hWQkR1UFFVbnI1TW1HV2hTRktCU0VMV3pYSFBNSHdSQmx4dnEzMjAyVW83NnpENWo0cGpGUGJnOE5fdGhUeNIBZkFVX3lxTE05c2hENlFVeTVySjJ5a1M4UWVORmNQdGdLSGZNay0tbW8tZTF2c2dpQmpNSXpjek51QWlmOTVHYi1qR2V1ZEg2bFBTRy1vSHRrUXNKWmFiWVRoejlISTdxTkMzT2FZdw?oc=5",
-          "time": "2026-08-27 15:23:00",
-          "publisher": "Google News→大纪元",
-          "severity": null
-        },
-        {
-          "title": "診所淪「毒窟」！桃園醫師涉賣管制安眠藥 開假處方囤逾2萬錠",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5554270",
-          "time": "2026-08-27 15:16:35",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "診所淪「毒窟」！桃園醫師涉賣管制安眠藥開假處方囤逾2萬錠- 社會",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CN2tmSzJqUHhaTUwwOEh5NmJuME1iTUx6d3pOaGFjM0d1U1pQNmZEWXJaQkl5QzB6eVZ4WWZoTVJfRFdiZ21pX2hSNmMtWmVBbmw1NVk0TGJWN0prUEFKU3B4OUZIT1VS?oc=5",
-          "time": "2026-08-27 15:16:35",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "桃園警銀聯防打詐奏效 詐騙受理案件與財損雙雙下降",
-          "url": "https://news.nextapple.com/local/20260827/11B64C1AF8A5862B050F38ECF0653E83",
-          "time": "2026-08-27 15:00:42",
-          "publisher": "壹蘋新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "診所藏2.2萬粒藥錠+1629萬現鈔！桃園醫師涉賣安眠藥起訴 恐坐牢12年",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBeVdvVVNzTzRMaHpEZlhBNGEtLXUxcGJiN0JRa085UWlLdUF6a1FadDhWa1dRUVJSMUZyUVNMTVRwQzNTWUVId2N6dm1adlRKT0E?oc=5",
-          "time": "2026-08-27 14:54:00",
-          "publisher": "Google News→鏡報",
-          "severity": "red"
-        },
-        {
-          "title": "桃園社會局反賄選暨反詐保防資安宣導 提升機關安全意識",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QaTQ2a2FsOWRYeUw1a2tFMEpuZnl6M2FhYi1aM3ZlXzEySm50OURFTWM5a0NoaDN3VHJ5WmFuUHlvNndlREhldnVFdlR5S2dZRjRxZm1NTTZSRkJrYnhEZ9IBZkFVX3lxTE9FdXpFMEhvUk5ZdnhyQnhjQVVQOUhETl9VbHZDRi1EYk9HVDRva3BNdE1QUlNWR1NtQWtTLVFYY3docUN4aF92aEQ0ZW9RcWpScHZ3eG92MkdveTJENG1Nd256SDZuQQ?oc=5",
-          "time": "2026-08-27 14:46:00",
-          "publisher": "Google News→大纪元",
-          "severity": null
-        },
-        {
-          "title": "桃園缺代表性馬拉松 林政賢籲打造城市品牌賽事",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pdzdsNWNHel8yZkxWejV2VHNTSmVRdlVPNjNlSnp4cFRrVlZoaTlVZDIzZ0cyZFhoWUlhdjVnYnJqLWswVDJYdWtPWFFNSmRaakE?oc=5",
-          "time": "2026-08-27 14:43:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園男違規被攔亂報身分證：我車禍失憶 3案被通緝這下慘了",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HUFlnYlk2ZElxS0xOYm1yTmpnV2pfMVB2WXI4d0FzZUFKTXZSMzN3aWZDOU4yMEJPQVVXMHRCNVhIVVhsdGwycmFGUmtLdFp2b1lwM19SS2VUbVJaLXfSAUtBVV95cUxPa1JlWklvSzFjNEh0Z2x4U3dMVDhNbF9NSXdnU1o4TmdyN3RaYzhqUHplaVlfQkFRTzZmb0FmMU1UUjVsUWlPMWlKSWM?oc=5",
-          "time": "2026-08-27 14:33:00",
-          "publisher": "ETtoday",
-          "severity": "yellow"
-        },
-        {
-          "title": "【桃園促銷】限時三天 iPhone 17 Pro Max 特價只要 $40,188 元即可入手！(8/28~8/30)",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XRkM4aGxtdHk5ZzNtUV94R0Y0dmp3bHhBeEJvWWhCcWlsbUZmZ010d1BUOTQ2cllDbXhOMHduZTMyQ2h4SzdDdmViZWpqZ2MxMHowWXY2cF96SmRHZHY4?oc=5",
-          "time": "2026-08-27 14:28:25",
-          "publisher": "Google News→ePrice.TW",
-          "severity": null
-        },
-        {
-          "title": "桃園兩歲專班候補問題仍嚴重 張碩芳要求加速擴增班級",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtakVzRkdDLS1peFM3YUlJVEt1N1hOaUwwRk9SWGNZUkRrWm5uMk4ySkJsSldLNjlXdWJ3TEJXZkRuczhfY2xRVUFUSno?oc=5",
-          "time": "2026-08-27 14:24:52",
-          "publisher": "Google News→桃園電子報",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園後站沒運動中心！黃瓊慧爭取「這塊地」蓋複合場館 許彥輝：我是後站人全力研議",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yQ2hQcEo1V3ZDWEVBOWFWZFNoc0txc1BCb1lfbFNERXQwWlctZi1MSjE5d3B4NHBYQWExRHJqQzFuN1gwTDFoZ29JakY?oc=5",
-          "time": "2026-08-27 14:04:07",
-          "publisher": "Google News→桃園電子報",
-          "severity": null
-        },
-        {
-          "title": "黃世杰批桃園市府選前才端建設支票 喊話由他把進度追回來",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xcjcydmtHWEczenJnZkpUNlE1elVZYXJmeUpxS2hfOG8wTkFaX2N6WmNvZHRWV29XbmZoc011bUpUMlhNR1pXUVJtaG8?oc=5",
-          "time": "2026-08-27 14:03:08",
-          "publisher": "Google News→桃園電子報",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園市立醫院設立許可到手 八德總院2033年拚營運",
-          "url": "https://health.ltn.com.tw/article/breakingnews/5553205",
-          "time": "2026-08-27 13:42:20",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "桃園將成立第一家市立醫院 499床總院拚2029年動工、2033年營運",
-          "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E5%B0%87%E6%88%90%E7%AB%8B%E7%AC%AC-%E5%AE%B6%E5%B8%82%E7%AB%8B%E9%86%AB%E9%99%A2-499%E5%BA%8A%E7%B8%BD%E9%99%A2%E6%8B%9A2029%E5%B9%B4%E5%8B%95%E5%B7%A5-2033%E5%B9%B4%E7%87%9F%E9%81%8B-053000673.html",
-          "time": "2026-08-27 13:30:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園堆高機買賣推薦，堆高機租借維修服務",
-          "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E5%A0%86%E9%AB%98%E6%A9%9F%E8%B2%B7%E8%B3%A3%E6%8E%A8%E8%96%A6%EF%BC%8C%E5%A0%86%E9%AB%98%E6%A9%9F%E7%A7%9F%E5%80%9F%E7%B6%AD%E4%BF%AE%E6%9C%8D%E5%8B%99-052718101.html",
-          "time": "2026-08-27 13:27:18",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "不堪工作遭數落拿菜刀砍殺同事！ 桃園男殺人未遂遭判刑7年",
-          "url": "https://news.nextapple.com/local/20260827/437B98F4CCF04BEB10F59006432DC41C",
-          "time": "2026-08-27 13:24:29",
-          "publisher": "壹蘋新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "黃世杰南崁溪放水燈祈福 承諾守護桃園特色傳統民俗",
-          "url": "https://more-news.tw/704396/",
-          "time": "2026-08-27 12:57:54",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "碰！桃園大新路車撞電線桿突炸白光火花四濺- 綜合",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VbExfU0E3LTY4ajdIa0xiOUZIRThIeG1tcW41ZlNFQzdXYTh6T1FrcDlrMk9fbWdUZV9vZjNHc3gwODZUbWVOOU5rSEZ0NU1uaHNIcmdiSWo5em9QQTdCUkVWdWdRVVU2NC1aTFZqcWI?oc=5",
-          "time": "2026-08-27 12:45:00",
-          "publisher": "Google News→華視新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "桃園、蘆竹中元慶典傳承民俗文化 張善政攜民眾放水燈祈福點亮夜晚",
-          "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQTmlsVU1rRnZaZ19ySzN4TUtiRmpnUXc4THhMaFhBNkhRczAzbGpTcFI3RF9xdHlCQVFTYjJhT3hPcGNOSzlGSTctZ1VONzBXaVVTTFJGZTEzR29oN3ZaQ2VxWWdENWRETTA5ZnB3VHVxZjZJemx0R000ZXZDRERxRGNvX0ltLXhvdnFVamJQaHpkSkc5OVlHNGdJdXB5TUw4c29TZUNIbExnRHMxMVp2b1pOZHppdmtnTnYyTG5mVE1tVWxXUE1CaExNZTQ2dU52bTlfM2pZNzRzbmg2cl9kTl9YaFNTNTloVF83YmZMckxkdjY1VnNabXJvN2VaVHBIUE9peVpoaUZkVDRCUVlkamZKNnVTMVg3cEtMRGxRNHNWYjlkUm9jVnlhdzROeUFoNTlUZnc0VTZrUHZOYmdwWVdQZXliSjNNd1dIN1VnYzdncGNudDgtOFRPd3NrZUY1U0RVV3NOREFLQ1lSWXpYbGozaWYtMHhuSktqQWF4clBTbnFiSDVkeWo1bFFHT3V6ZXk4Nl9Lb2pjelBDRS12Y1RxdVBjVkpVc2xTZjZ4MXZxQQ?oc=5",
-          "time": "2026-08-27 12:42:42",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "果園草生栽培選對草種桃園場證實可抗逆境兼固碳- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wTkF1SFlmTEQ5cTB0eWVzYVIzbFNzUDFQTWRKRHV2aFlJX3dGazRfNHJSdHp0bEJGdU5SVHNTWkRzQXo0NVRudVRpVVBGTUpDUnFyQmtCTzNXX29WRHFzMUpVMmM?oc=5",
-          "time": "2026-08-27 12:22:54",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "桃園打詐有成！警銀聯防守護民眾血汗錢 7個月攔阻3.8億",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01TVRhM3FVTi1iTmQ3cnNPaElpUkdBMVBlVGYzMzFhYmFOMW1BRUgwaV9rTlhXNnhtWHVYQWg2NGxwYXhIbVNidDdZczhCcFV3YVhj?oc=5",
-          "time": "2026-08-27 12:06:20",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園蘆竹張氏宗親會成立 張惠鈴領軍凝聚宗親情誼 | 熱門亮點 | 商情",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nZzJnTWItME9FcV9fNmVJWXA2X0NoV0g4X3UwUFVLUUhzODFlaFhkU2Q3cFJBbTh5U3daZTQ2c3VIZmdVbzQwUkhGaUF6YTd5dUZBNzhYdE1tZw?oc=5",
-          "time": "2026-08-27 11:58:47",
-          "publisher": "Google News→經濟日報",
-          "severity": null
-        },
-        {
-          "title": "苯駢芘超標！麻油車頂級黑麻油流入桃園聖德科斯即起可退費",
-          "url": "https://more-news.tw/704349/",
-          "time": "2026-08-27 11:57:54",
-          "publisher": "墨新聞",
-          "severity": "red"
-        },
-        {
-          "title": "桃園某診所醫師假病歷囤安眠藥轉賣毒販 檢求刑12年科罰1300萬",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMUmp0RHBLV2tnT21YU0FPMVgyWDRyZHNmOWlXRFRiWDVydU12M2U5V0FnNWpXdFc3OFdHbXI5NWtjR3pXdHpIdF9PbGNMNEpj?oc=5",
-          "time": "2026-08-27 11:56:20",
-          "publisher": "Google News→UDN",
-          "severity": "red"
-        },
-        {
-          "title": "宏匯首跨桃園！拿下山鼻站開發案 菓林站同步推進 房市有望迎轉機？",
-          "url": "https://estate.ltn.com.tw/article/28718",
-          "time": "2026-08-27 11:54:35",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "黃世杰南崁溪放水燈祈福 承諾守護桃園特色傳統民俗 - 政治新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMEljUmM3MjBBWVpHeW9jWXRpTU9Od0VuYUNnRlVHMmFoV0RzaXdadnhHWUdNVUVwWkljOHNJUlRtcjBxRHFkQzdxZWJQLVlkaURaZFJfeEZ4VzFGSDA4TUhaLUI0US04bjlVaFdva3dvS3hleG9xQ3RMRU42RS1UaWRwbXktY0NXOGJVVw?oc=5",
-          "time": "2026-08-27 11:51:27",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園消防攜手林口長庚透過NFC技術 大幅縮短輸血等待時間",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WQnhIX1lZUjd0VEM2bWhLVFRhYTRFZlk4MHJ4VUdCcEZhRlZZTkxxWmh4WFVBNkJiNDFUUDluYlBTa3hkX2drNnJBckJSUmV5M091RUNhMWZFWWN5X01zOTl6emY?oc=5",
-          "time": "2026-08-27 11:33:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "928檔期回來了！北台灣推案爆1165億 桃園逆襲奪冠、這區大爆冷",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4QnJzMWlJTlJSLVI0SmVUM05JZE1Pb2tLaHdCX25GbVljMVg1ZDF1eEFuVUNIY1lRLUlGZ1d2Q0JFQ01mSF9KSi1FNULSAVJBVV95cUxPMHhLUGJEN3hsajlFVFhaTGkySEpOQkYyM2R6azhaUjE5djRkNHF0a1dxbmFRZUJ3Nk50Z3U5ODhDVjNjU1o3ZmlwZi1Xd2w0NWZ3?oc=5",
-          "time": "2026-08-27 11:30:21",
-          "publisher": "Google News→NOWnews今日新聞",
-          "severity": null
-        },
-        {
-          "title": "九合一大選將至！桃園社會局辦講習強化公務員反賄選觀念",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxTTZSbENKSVJuSjlxOURTcG5BUlRPWXJNbGRqMWNHc0VzYlBKUVFVWXlwazRlWEZNVlp0cURBRFBoTGVLeS1GYlVYYTAyU2ZZUFE?oc=5",
-          "time": "2026-08-27 11:29:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園男謊稱車禍後全失憶 警一查3條通緝全記起來了",
-          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNdkU1T1VMUl9LRGJuUVJ5TE51c2FxQ1otb0V3MnRkT084TGZzSUhCMjluNmVOaGs4djJDcVBhOGpPMlpic1lEX3ZLQ1dGcWNCQWFaV2ZWOTI0NXpiemVxR3Y5VUNSZVBYMVBzdnVZMUFRYzFsMElKYkFaY3BRaXFBc3IwN0w1cFhxM050WlUyYzdFa2kzTVZMeFBYWUYwS1pHcnc0RFVWQ19KRWkyd2JpR3dGWXI5YUkzU1MyME5SYTltaXJDcVNwLXB4VDh0OGp3QVNrVW11blRCYXVkZktoZXlndUJLTzNsRnJ3MEhmUi1PS3J6TVJ6SVl5TU5yeVFDYmxMYzhUeWp1SVpjV1ZIdzlNRFZjRnF3VjlMcmZZV3o5TG81enZ1SnJKTDk1anpJYmxLc2lZYWxNWHdmeDZkNExzYWxPVmpMOTJTRFFjdWI4TlE?oc=5",
-          "time": "2026-08-27 11:25:34",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "審計點名桃園農安查驗問題 農業局調整量能擴大查驗對象",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45VEI3TG90ZUh1M0c2Y2Z5cVJiVmplRXZRRS1VdWdIdm82RW1JQlktUlRzQWJ4YUJ0QUxBWUYzV2pTZEtOa3pQaVBGQTk5Ukk1TUlZaDBDNEx0amhrQXlHd2JSZnNHZFV4OEt5LVdR?oc=5",
-          "time": "2026-08-27 11:09:29",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "赴瑞士旅遊「CPR救人一命」 桃園市義消獲讚揚－民視台語新聞",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PRHMtcXViLUw4Tl8tRWJWbzV6cVJEd2hYUHFMRWpSX1dxXzJqUWpDNVFnd2gxWUoxV1dXeHZBUnpneGJyMl9TaGNhQ3hfdlVZckhnV3Y3MG9LT3doYWRiRnNlUjBhb0k?oc=5",
-          "time": "2026-08-27 11:09:23",
-          "publisher": "Google News→民視新聞網",
-          "severity": null
-        },
-        {
-          "title": "審計點名桃園農安查驗問題農業局調整量能擴大查驗對象- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjeTN3dU8yQzI2czFyUzU2YVdBb21fREpXQ3NOTHZ3eExiazZweE05UEVQNTY0enpieXdDZklUWlo5WlFNSWxKX1pHUDlqTFNEcnpwdmNxVEZraF9LT0RJ?oc=5",
-          "time": "2026-08-27 11:09:00",
-          "publisher": "Google News→工商時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "神聖白袍淪毒販！名醫虛開處方販售使蒂諾斯牟巨利 桃園地檢起訴求刑12年",
-          "url": "https://www.taisounds.com/news/content/92/285396",
-          "time": "2026-08-27 11:05:28",
-          "publisher": "太報",
-          "severity": "red"
-        },
-        {
-          "title": "于北辰籲桃園校園網路全面升級 老舊設備影響數位教學",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YaXB6Z3c5NV9YMkdGcER0b09YWTJQZXpueTV0LWtSZVE1RG1PXzZtaTBNLUlUTGJsRjk1aU05Yk00NFh6bGc?oc=5",
-          "time": "2026-08-27 11:03:51",
-          "publisher": "Google News→台灣新聞雲報",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園東方美人茶公罐改版！ 古銅底色、金線條呈現國門之禮",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3aExGMlZaY3ZnaHF6Rms5MnJWcE1OaEVlLXFFTlMzRUtIOFJuTTJCZzJ4RUJxd0VHcHo2Qk9lRzJLYUZMUkxGdjVtMDBWUQ?oc=5",
-          "time": "2026-08-27 11:03:00",
-          "publisher": "TVBS",
-          "severity": null
-        },
-        {
-          "title": "桃園市政府社會局辦理115年度反賄選暨反詐、保防、資安宣導講習 深化廉潔法治觀念 提升機關安全意識",
-          "url": "https://more-news.tw/704298/",
-          "time": "2026-08-27 10:59:19",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園公車大升級！張善政推12條幹線、桃小巴明年拚200條",
-          "url": "https://more-news.tw/704284/",
-          "time": "2026-08-27 10:57:59",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園捷運綠線延伸中壢開工！串聯機捷、台鐵 沿線規劃8處社宅",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ca2JPNndGenh4bVlNWEVVVGJ1QWw0TUQwZXl4VlEtbkZKVGptdHc2emdGVW5SYnpHZkVydTdjaXhNOWFtVzNJVVM5U0R1aExOUllObzFXUjdBcWJUdkhQUTdvZWFySWEwMWZxU1dfSV9USVN4OTZpTV93?oc=5",
-          "time": "2026-08-27 10:56:26",
-          "publisher": "Google News→住展雜誌",
-          "severity": null
-        },
-        {
-          "title": "桃園醫師竟成毒品供應商！虛開處方販藥牟利 診所搜出1629萬現金",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcXN4YjlIbzhWVXhVQlVKNlIwNGhfNEpySFJrZmdzb01YWlEwT09zX1QtQ1lKV29qZkEtMV9xQndDRXhXSl9YQzFzUThhMUs0eTdGaHVJSmZwMTZ1dWRTbG1YLWVMdU5oZXpUYklxMUlwWnh4c2xEeGxiQW9fbjdIcXBMTVZtemo3dWRr?oc=5",
-          "time": "2026-08-27 10:52:50",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": "red"
-        },
-        {
-          "title": "建商不等了！北台灣928檔期推案量重返千億元 桃園逆襲奪冠",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6VEpRdThRQlhYYWQ3NzN4T1p0QWwtNTJlRGdzdVBHZTlWeEwtNm1mMlcwcWUyTERtT1NBOWtEX21meHlsR0xsOHFxbWdnUUtL0gFWQVVfeXFMT2RaaTdEX2NvM0ZodkR3LV9zQW10bUViVTloX2p6aDNaLTNqME9kQ21GRkVheE9UWVBpUDB1Zl9RRmQtQTBzclpGTHBwa29RT0tiejlWVlE?oc=5",
-          "time": "2026-08-27 10:23:05",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "桃園市政府社會局辦理115年度反賄選暨反詐、保防、資安宣導講習深化廉潔法治觀念提升機關安全意識",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxMTlIeE1INXVxWGpiOW1fajNzbWZNMGVmZkhqei1yMWJRZWVBNWdJbENkOGNYeFpvUlBHcjh1ODBQYjJSdUhxallsVEhoVzBUbVE?oc=5",
-          "time": "2026-08-27 10:11:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園市立醫院獲設立許可749床規模拚2033年營運| 桃竹苗| 地方",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRQ1VRa1FHRU9LSzhGeGptY2tLcXFjOW1UMkFkWVNzU1FTTUctQ1hMZHhKemRhWHl2OTJaaWxGYy1oeGNuZk9zVGQ0VENxRlk1?oc=5",
-          "time": "2026-08-27 10:10:03",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "桃園、新北拉抬 北台灣928檔期年增16.2%",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNRkliNkZ4N3Z0a051VE9XMHpxTVNOWS1ud1VDMTN5ZThRWlZTZGgxY2lkWThFYkNRemc4NTFYWFVJQjlYemNHQWVoVUt0RmpoMTJnQldaSk5OWDN5bkpvS0FMQTM5VE9XelJFbHFNaFJnTTBVWGVhSzBsdk80enhiN0g4SDgzcmFBNXFHVnAxTjB5RnRoNUM2TnY0UGNSejgwX2RhRG0tQnZlTk1uQzg1WVQ4R1BubnhidzkxR0h3bzNtTEY3eFc0dEpQaTNCOWp1ckNpZUdzbUJoV0NNNm15akpPeHpMQkd0eWxnWVByeXNFNUlUSDhkMWxoX0ZYeTVacHFiMjgwN0FqeWxC?oc=5",
-          "time": "2026-08-27 10:06:33",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "[外稿新聞]-于北辰籲桃園校園網路全面升級老舊設備影響數位教學",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xNHZONk9DYjR2aGtCd2dXZHZVUWVfSzE5Vnh4ZHdlbjlmT2NURUFQbzJHclh0UXFCR05XOG14RTh6Z3JaYWdLQlNYbk5VZjNwMDZVUm45Vmt1OWc4VXc?oc=5",
-          "time": "2026-08-27 10:05:51",
-          "publisher": "Google News→atanews.net",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園、新北拉抬 北台灣928檔期年增16.2% - 房產新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWVFRN1RhOU01RG5DWE0tTDlQWDYxczJoV19ydlloOUFzbTZ4RDJfWFk5aVNxUHZEYXgyb2FxVm1LVV9XSnRmekxEcDgxN2ZsZ0lCd0RLYXRpY2ZqdlBrUGNJLXY3aFpNX0YxSEpFbFUxaFRfTjJzVGc2cC1XT2MzR2tyLUJVbmRaWE03d0RoQ1lrZw?oc=5",
-          "time": "2026-08-27 10:00:00",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園捷運綠線延伸中壢動工 張善政：八德將成地方重要交通樞紐",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KN1RWMzl5a3V2TTZmbFNuOXRlRDJ4RDVfX0paUjFiR0oxUElSXzROZUVXVWRwQ1l3MUNkTW5hRTZ6dTBndk9hTVIwWGRLU2U3eDdfNXV1bE95dTVKaUh4YWdSdlFxOHhhSjVN0gFwQVVfeXFMUGdGb1FfZTY0MXEycmt3d2piallfWlpkRXZmZWx6U2FjQUYxbnVCUmYzdXc1cVlCVzFVYnQ1QTd3aUtPVXpCZGtfWmx4TkowTnROa0ZrckZRQ3VUMkNXVDhQT0lMZ2d4SVJKR01Rc2pXTg?oc=5",
-          "time": "2026-08-27 09:59:00",
-          "publisher": "Google News→好房網News",
-          "severity": null
-        },
-        {
-          "title": "診所淪毒販進貨庫房！桃園醫師囤2.2萬顆管制藥 檢求刑12年罰千萬",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xeGNndGNYMEF5cTBRN01wVkRwUGY0ekdiSmRHYlZFckxoMzZYOWNmalNUZk82TG1mbDE5OGhOS2ljWWViNWJpcGFSZmpfd0kxNjhWMkpQYlpoUkZOU3Y1QTNsYTVZSFctdTBvS0FB?oc=5",
-          "time": "2026-08-27 09:54:59",
-          "publisher": "中時新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "桃園、蘆竹中元慶典傳承民俗文化 放水燈祈福點亮夜晚",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3SVh1el9abjJjTENvLVh6RHBZV0l4MEktMmhucm4tZWZEQWhQbkpCYV96QUQzaVhST0pLOGhOTDRLNFhtZG4tLUFiOEM?oc=5",
-          "time": "2026-08-27 09:54:58",
-          "publisher": "Google News→桃園電子報",
-          "severity": null
-        },
-        {
-          "title": "沙德爾影響活動異動！桃園地景藝術節維持至8/30 火舞團表演延期 | 美食旅遊 | 生活",
-          "url": "https://www.nownews.com/news/6869633",
-          "time": "2026-08-27 09:51:18",
-          "publisher": "NOWnews今日新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園道路交安會報登場 騎樓整平、易肇事路口改善成效曝",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5lclBET2Fjd0lCbzdKdFpOY1hPODgycmRITUZqdUJlM1hmUUVPRUZockV2NldnV3UxMkJ5YS1VSkE5ZzJETFFNRE15anI?oc=5",
-          "time": "2026-08-27 09:48:29",
-          "publisher": "Google News→桃園電子報",
-          "severity": null
-        },
-        {
-          "title": "難得同框！桃園景福宮中元放水燈 張善政、黃世杰互動受關注",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PSDREZVRjbjZSLURvRGwyam96c0w0akVzcTJBYVdTVk1OVTdZVWEtajdoaFJTV1A5N2VrSjg4b3Vma0NTQUU3UXlQMEUyVk5WeGUzc3VZT0Y2UDJxY0RSMUtwQWhEVFRxSURZR0NB?oc=5",
-          "time": "2026-08-27 09:25:32",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "桃園捷運綠線延伸中壢正式動工 串聯八德、中壢打造環狀幸福生活圈",
-          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQR3lyWWllMk1sRGN2d2NKRlRKREZFSExoZkFodklJTjZQemljai04Q0V2TXJnb2JCc0dMQVhTWEl2c01acUNsZ2YyX3RtVHJ1ZjVwVlBPaVJsNUllc0JMXzVTY0tvOWVybVkwNWtfUVhwZkVNcEZmTVQ4QWhZaXRRTmdaZ3E0YXhPSlRqeWVFLWh5SkNFRF9FTk40MmZQbXE3M19VWks3eVpEWjJSTnYwaTFzMl9qeHJlRlhTUXNFMElkZHZQYlR6c0N2UVl1Tm4xaU1xSmZuMXdibG9hTlBOYk40U1dfN1ozeDQwSmp4Z2xSQncyNDBNcmpPbzNoa1RfdUk0WlNyS0VLOWpyblJ5LTIxS1NnREZsRTZkSnU3LUN1aGZpa0VYbkRkUVpzeHRyUW9XMzNvZjdJUU5LQjFoVThTak9fWW5XRVhV?oc=5",
-          "time": "2026-08-27 09:08:53",
-          "publisher": "Google News→yesmedia.com.tw",
-          "severity": null
-        },
-        {
-          "title": "沙德爾影響活動異動！桃園地景藝術節維持至8/30 火舞團表演延期",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90NnctWDJieEZmNm9BSlRseHFLZWpiSm1Qb1ZHeEJUZnlHenhMLU12NEtaQ29MX2kzNzZpZ19kM1hNei1FdVlobWpWUUbSAVJBVV95cUxQRkk1VXBBVW83Yi1NQ2QxWUNXamNyelRvdjVRa0dyRHdyNFh6QzZXcDRBODFpUktHZGt6NDlKRG80WXU4Q3kySnZXVUhadFNvTHh3?oc=5",
-          "time": "2026-08-27 09:01:07",
-          "publisher": "Google News→NOWnews今日新聞",
-          "severity": null
-        },
-        {
-          "title": "共軍9度搶灘全敗！美兵推曝桃園高雄難突破 台灣公路網成關鍵",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5553668",
-          "time": "2026-08-27 07:51:08",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "共軍9度搶灘全敗！美兵推曝桃園高雄難突破台灣公路網成關鍵- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03YUNDeXFXb08wXy14WElVX0lIbF8zbjc1T3A1WThvbkV5RUlYVThvUUlGV3FQcTJuN0Z3NzZ2QTJGb0JwclBZUWJwZkg3c2VkQmIxOXpnQ1c3eDhqR3pwTE9VeUp6dw?oc=5",
-          "time": "2026-08-27 07:51:08",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園市兒童美術館「尋找好朋友：兒童共融主題書展」 陪你尋找那段獨一無二的友誼",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Xa08tVDVBSmNYTWdxLXAwM1M5aXNobzE0NXVwRGt1VVRtWTNEOEJoOV81OU5mN0ZUak9EMGtQdTNMVFFtNGlQSG0yT1Q2ckdIcWhrTWN1QlVHbHVGMVQ0b0VPWQ?oc=5",
-          "time": "2026-08-27 07:20:52",
-          "publisher": "Google News→波新聞",
-          "severity": null
-        },
-        {
-          "title": "「桃園市立醫院」核准設立一總院三分院- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54WldCZFYwTVVuNElyQjNzUGJEUkdYbGM4LUNVcTI2ekN2MWYtRklYaXNnUmZabzlZYTM1emNzaHhWMEdWY0tScVBFcmxMelZQcDliTG51NEx2aHM?oc=5",
-          "time": "2026-08-27 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "「桃園市立醫院」核准設立 一總院三分院",
-          "url": "https://news.ltn.com.tw/news/Taoyuan/paper/1768291",
-          "time": "2026-08-27 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "假看診真販毒！桃園觀音醫師狂囤2.2萬粒安眠藥轉賣 桃檢求重刑12年",
-          "url": "https://tw.news.yahoo.com/%E5%81%87%E7%9C%8B%E8%A8%BA%E7%9C%9F%E8%B2%A9%E6%AF%92-%E6%A1%83%E5%9C%92%E8%A7%80%E9%9F%B3%E9%86%AB%E5%B8%AB%E7%8B%82%E5%9B%A42-2%E8%90%AC%E7%B2%92%E5%AE%89%E7%9C%A0%E8%97%A5%E8%BD%89%E8%B3%A3-%E6%A1%83%E6%AA%A2%E6%B1%82%E9%87%8D%E5%88%9112%E5%B9%B4-045900387.html",
-          "time": "2026-08-27 04:59:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園 里基層工作費調升 地方給掌聲",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyS1haQWd2OGowTWJvN0c2YmhEUUh6YWNjd1RaZFVObHZzYmZOa3hWcFpfQTlvZVdFRXFNbElUckJWamVUMU9nVnlvOHJZT1R4VU5xZmtYeHpVeHI1bXVQWVpqNlR0b1UxOG1J?oc=5",
-          "time": "2026-08-27 04:10:00",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "工程師魄力 張善政催生桃園市立醫院",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LRUkzZW95U19YWWdncVQ4aXNmY0xOV05VV3ZnRG9IdW1uaDNLeFhXWGNzWUI5bkxNdmdtbmw0SXNkZUZQWUFFcTNvZzF5c2xNRnVUckU5QnhZdFVpZ2FwWS1vTUZ2VldYMWxN?oc=5",
-          "time": "2026-08-27 04:10:00",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "桃園7鋁鎂工廠 近日完成稽查",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jUUk1NjhrazhBUWF1NUEtRVVpZ2Iwal80TF9GU1JReWhjdFdLQVJqNG1EMExXemU0SDlQWG5lbG50TGNiNnhtb1RJMTBubHpNM0ZOVXh5ZE1pZU1IQUt1VmR2Qm9MMGkzUDVv?oc=5",
-          "time": "2026-08-27 04:10:00",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "桃園市議會",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTFLS2VhZ1U3QlFMRk00VVZkTExfZ0Q4ZklfcF96cGtMeE12SjBvYVhsS0RyemtKSmlmZm1QMlM2dWh2QUhQT1dBRVcwNm9sRm5feWVSVkotd0pCM0JQNFktS1did0VxLXN2TzlJS3R1enhzNlkzQzY0S2tfV3F5WE9FN0N1ZlVU?oc=5",
-          "time": "2026-08-27 01:57:21",
-          "publisher": "Google News→宜蘭新聞網",
-          "severity": null
-        },
-        {
-          "title": "後備指揮官訪視新北、桃園後輔中心 肯定協力國防事務 | 青年日報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mUXd2aGtKbFpqZWhWY3pXUjBUbzJuRjhvRjlqcWkwUExDeTh6VTViNmNRNTQxRTc4cGFnRVFfRFllV1k5UzRxSFd0NW9hR2l6M3U1Nm1R?oc=5",
-          "time": "2026-08-27 00:50:42",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "後備指揮官訪視新北、桃園後輔中心 肯定協力國防事務",
-          "url": "https://tw.news.yahoo.com/%E5%BE%8C%E5%82%99%E6%8C%87%E6%8F%AE%E5%AE%98%E8%A8%AA%E8%A6%96%E6%96%B0%E5%8C%97-%E6%A1%83%E5%9C%92%E5%BE%8C%E8%BC%94%E4%B8%AD%E5%BF%83-%E8%82%AF%E5%AE%9A%E5%8D%94%E5%8A%9B%E5%9C%8B%E9%98%B2%E4%BA%8B%E5%8B%99-163700136.html",
-          "time": "2026-08-27 00:37:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "開挖40米深！桃園綠線G07站「逆打工法」縮短7.5月",
-          "url": "https://www.chinatimes.com/realtimenews/20260827003645-260405",
-          "time": "2026-08-27 00:36:45",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "鏡頭：桃園景福宮放水燈 傳承百年中元祭典",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CdDBYNEJCdWxYMU5rOUF3M05jdjRxVktJN2x0MUQwM0x6bmNFbkVVRFZrSzFrSnlPTmxNUDBFSGFobnlEUTFMMUVHNUtHVzZhRXZ2bnJiOG9kdWxBdDZGOGZnQUdNQS1tS2c?oc=5",
-          "time": "2026-08-27 00:24:21",
-          "publisher": "Google News→中國評論新聞",
-          "severity": null
-        },
-        {
-          "title": "青埔企業指名！【森PLAZA】桃園首座LEED銀級商辦 即將完銷",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQzdxNEdtVjF3anRGMTV2MjBMZGktaEU4N3BteGVhcFdrNEhOc3MyVVlDNzlDUzlySmF6Nl9Mb0JZTDBLMURWMTVVSmVSQS0wc2sycDI1Uzh6MEczWFFZWTFqcDllLWdEdkI2ekx3VndHRnJOZWZVLTh4NVZBSzJHMA?oc=5",
-          "time": "2026-08-27 00:09:26",
-          "publisher": "Google News→今周刊",
-          "severity": null
-        },
-        {
-          "title": "比楠梓還便宜 高雄市區河岸首排景觀宅新屋單坪32.8萬元起",
-          "url": "https://news.nextapple.com/property/20260827/47CEEA662B96E335D973CC18F1765CD7",
-          "time": "2026-08-27 00:08:17",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "桃園市立醫院獲設立許可| 桃竹苗| 地方",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Tb1RXY2NMTlljYWc0QklGNVczQWoyOGw4aUpmTGszdlpFYUxTNzJEZTR4OHNUOEJveWREMFlDM1Z4ZGFBZlp1ZzNUaEJrdEpR?oc=5",
-          "time": "2026-08-27 00:00:00",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "桃園市立醫院 獲設立許可",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Tb1RXY2NMTlljYWc0QklGNVczQWoyOGw4aUpmTGszdlpFYUxTNzJEZTR4OHNUOEJveWREMFlDM1Z4ZGFBZlp1ZzNUaEJrdEpR0gFWQVVfeXFMT1RhbXNyZ01TWm9aVmo5WmR4MDE0NEhNUG1HNnBrVFU2QnBnX1pTTlkyV3YyVDYxUHljRmdwellodFdIWmRSSFZDTGJHMEVXc25lV2pXOVE?oc=5",
-          "time": "2026-08-27 00:00:00",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "桃園兒美館「尋找好朋友」書展 36本繪本帶孩子認識共融",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5dnpkWEk2UVBEUzVlci12bk5MbHRZdE1xR0N0ZndpYWlKeERsbXFQa2dEbUI5TmFIUGM2alpjeG55OXRteWxHQnNHZzhSWnNPMFRGODZQNS1DVmZDalHSAUtBVV95cUxQb1d0RHBKUWJlT2RFbVM3eWg1RlJHTFpTb1dyN2FLbllFalM3N2pEd1kzUGxpX1RaNWJFS05ia1IxTlJlVExhZE05TVU?oc=5",
-          "time": "2026-08-26 23:53:00",
-          "publisher": "ETtoday",
-          "severity": null
-        },
-        {
-          "title": "台南大爆炸為鑑 桃園強化易燃危險物管理、全面稽查鋁鎂工廠",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5553593",
-          "time": "2026-08-26 23:40:29",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "台南大爆炸為鑑桃園強化易燃危險物管理、全面稽查鋁鎂工廠- 社會",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KbnkyZmttNC11eGg1UFg2ak1pUjVJWWVNR290SkIxb2R4THVqT0FISFk1X2FpaWRUYXZEenQtbkxlTmx1OGpqbkFCMWw0a2JXdFBiRDBlN2dpSWFBR3pEOThxU19rcFFF?oc=5",
-          "time": "2026-08-26 23:40:29",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "桃園中壢疑曳引車漏油 6騎士行經滑倒慘摔車",
-          "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E4%B8%AD%E5%A3%A2%E7%96%91%E6%9B%B3%E5%BC%95%E8%BB%8A%E6%BC%8F%E6%B2%B9-6%E9%A8%8E%E5%A3%AB%E8%A1%8C%E7%B6%93%E6%BB%91%E5%80%92%E6%85%98%E6%91%94%E8%BB%8A-153843453.html",
-          "time": "2026-08-26 23:38:43",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園地景藝術節開放至8/30 部分活動延期取消",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5553584",
-          "time": "2026-08-26 22:59:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "桃園地景藝術節開放至8/30 部分活動延期取消- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MQmNqc0dZMXlYU1ZabFlKaEVuVVZMa0Z4MlpZdXdPSVFBQWtwYzZidk1HRHU4dlh0NUlsY0Y0am13VFlHUWstOENEekxJb0xrSVpDWDhjZVlMSDRFckIybEJQZGo?oc=5",
-          "time": "2026-08-26 22:59:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "桃園地景藝術節開放至8/30 部分活動延期取消",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOdmdBMjR5aldudm41Y0Z4UG9xQWx4VXBUWXBxdE1JSDg0NzNkVkR5amJhZVBXRzViTlBfS0tXU25GSGF4SmtwczZqbHZiaklwSHJ6U3VfazNDWFBnVFBseTRibHpnNXBORmI4cFRKc0EwbnpjaGt0cHBhUTV1N093TlFCMkstaGV3Rmg4REVueVVsaW5KSmwzM2tOWFZQLW1tODFnLXhacFB3c2lPenU4eHFKLTlWVWpRQnZtNzE1MVhDeEF2Y21qYTlIdFBfVUIzcjhRYVhiMXZldk4yNzc1MUlId3lWbG92MzNFdWNJOVJxcHZHTFgwU0pjWjFNclcydTNYaFhjcklMcER1YnJMQU1hQktYYkpMVXZ2NXdqT0xDUVhPTmlZUkVpcmpUdWdMY0E?oc=5",
-          "time": "2026-08-26 22:59:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "吳宗憲拜會桃園市議會談「宜桃合作」 提5大連線：助優質產業扎根宜蘭",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBJWTJrNlM1c2ZvME5aal8xdkhHeFUwTjRXWkg3Qm9PTExNMEVlM0wtLWdQQ3Blb09idEVnVm1QTjlxdw?oc=5",
-          "time": "2026-08-26 22:57:20",
-          "publisher": "Google News→墨新聞-MORE News",
-          "severity": null
-        },
-        {
-          "title": "桃園捷運綠線延伸中壢GEC04標動土暨成環啟動張市長：串聯八德、中壢重要節點啟動幸福生活圈",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RcWxGb2drYWhhQXhickpOVndSQ2JmblVmUExIY0ZRemwxbWcxWHo4NWpaQkN0MVdpX1pxb01EemhtUzZoRUhBb0hRWmhjTjZ1dGc?oc=5",
-          "time": "2026-08-26 22:57:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "新學期迎新的相遇與關係 桃園兒美館「尋找好朋友」主題書展登場",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5553551",
-          "time": "2026-08-26 22:36:05",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "新學期迎新的相遇與關係桃園兒美館「尋找好朋友」主題書展登場- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EeEdOeUtuaG9CYWM5RFh2MDBLM2h1aGVWR3hKWmFqRU1qVTV4RGVmaHh3RzhEMENlVURrc2xneXFkQUJiTjJMS0lyRGZ2ZnZ4aVpVa0tSMGw4bnNQZVExbHJsRDY?oc=5",
-          "time": "2026-08-26 22:36:05",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "桃園高爾夫．悅華迎國旅補助 雙人一泊二食2,639元 - 生活新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVNLSkFwUnc0UVZEb3dOYVNBVVRPN2xBMTh2YktHdGJsNURKd1I0eFZHQXMwSVhBSEY2LU9HcFBGREhjclQwWHd6NExXSi1YaWxPV1B3d010RFJxY09wOHJtRmluMEk4OFRzeE5vOUFYZGtFR1kyWjR5SExja3IyY0tRcnhCZnEybHRz?oc=5",
-          "time": "2026-08-26 22:30:41",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園捷運場站開發迎兩大進展 張善政：TOD帶動與都市發展",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93eTY3UjF4b2RpMG5Vbk8wd2FhazR1UUU2aTRDTE9KdXdBRkxvem80bVFGUnN3d1Y0SGpwXzNQbXFGeDVIcGw3UklRWHY?oc=5",
-          "time": "2026-08-26 21:40:36",
-          "publisher": "Google News→atanews.net",
-          "severity": null
-        },
-        {
-          "title": "桃園公車改革再升級 張善政：持續提升公共運輸服務品質 - 生活新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONTdCMzZUYWx0TWlYVWUwODJmcnhSQXl3RkVsVGlRX3RoNGs4UEQ1aktBaXhxTnZjZ3FYWGxhWG5NMGRmaEZNY0VGengtLWU2cjVnYkZTY2xoZXMwLVg1TXNMMzc3dVNKLTh3S0hFQWdIbVZmcTZjUHl2MGYzbTB5bDlFOVY2Y28yVFhVbg?oc=5",
-          "time": "2026-08-26 21:36:00",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "吳宗憲拜會桃園市議會 盼推動宜桃五大連線",
-          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNekpqTm8wcVhvVmZwSTBLUlZEYmlTM0g3RzV6R1kxRmJiYXZpYl9JMThWQ0x1elNPZUZFQlVFcTlmZFpESENuOUFNUVZDcnI3dFRwRE15TVdKWmI5YnhZaXdjancxWHJLQ0I2SGF0Y1JfaGtKek1FSFVxcE5yZDdLbkViakRTaWZpbVVCTXFzeXFvWFJtLTRPYTVpejR1QVFIT0RUV2ZZOGd5aVRVS2FOUXdxV2d1YThIQ20xa0w3X1JNeXM1TWZ3U2NNcFVua3lWMkxkY1VoUDRPUTYxUjN1by00YzVHM25jSnZDS3dNRlMyNHhQVkVJZXNpOXRvbkFGZi1TeEoxWkZ2cW1lVHNzOTdpLW0wSExFSWpNZWY3X2JkN0lTck9xMzhlc2Qzcl9fb2hqeFA0Wm4?oc=5",
-          "time": "2026-08-26 21:17:23",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "吳宗憲拜會桃園市議會提「宜桃5大連線」助優質產業扎根宜蘭- 政治",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhWWxtaGMyeUlFRlNvaU8wSVRRMzQyV1JfQW9scjhiZHVSVW95Nm5SQkFHSDRYSEhkNFJJTVo5VGh3VkY1LUhQUTVranJRSkJ3bEFnYUU4Z1BEWlFBUmtMdjZFWHc1TUxyMFE?oc=5",
-          "time": "2026-08-26 20:59:56",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "CIPOQ • 即步逐夢 桃園市復興青年行動計畫正式啟動",
-          "url": "https://tw.news.yahoo.com/cipoq-%E5%8D%B3%E6%AD%A5%E9%80%90%E5%A4%A2-%E6%A1%83%E5%9C%92%E5%B8%82%E5%BE%A9%E8%88%88%E9%9D%92%E5%B9%B4%E8%A1%8C%E5%8B%95%E8%A8%88%E7%95%AB%E6%AD%A3%E5%BC%8F%E5%95%9F%E5%8B%95-113830220.html",
-          "time": "2026-08-26 20:32:07",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "張善政重大政績再+1！宣布「桃園市立醫院」獲衛福部核發設立許可",
-          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNeGxLak1FRkkwSlJiNThHS0RNU3Y3YnlFQjI0VEZJRFcxUFl3QVd1OEhqSy05NE5BYkNJMjFGbVZFa0w5angwLVZMZmFZamxmZzBMTmFEMzVnX1prUDg3bjZoZHBjT1hnU1RoNXNuTkgtOUNjc181LTVEZGJLRU1sTzlldXVHVkRiaUE1N0dMT0dLYW5XaENiSTZ5VjMwVWJ5NC0xV3Znd3NFR1VDWjFzM2VCRFNCbnNxYllRU1VZLUFPZWwwZldLR2hsRl9SNmdiN3NwVTEwb1RJRExtMDBsLWpUeGFvT21LTXpRSjMwckJnbEs0ZDNfOVg0eVN5TUE0T2toRjZSUlJSdXBMVDU2YnNqaXEzczJfTFZLcFB0YnJPMXZBclEteTR3a1FjazljcC1DYWVqYlZubjBha2Y4VU50czJiak9JdUQ5cW14UENVUTY2aHBUWjNEVjd0Rnd6Um5HVGlaRUpRb1RjdDBteW9pNHNXcUlJbEkxT2FyazF0V1ZoaV9MX00wUzZDcHhvZEE?oc=5",
-          "time": "2026-08-26 20:08:41",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園教育三部曲全方位照顧學童 張善政：從餐桌到書桌陪伴孩子安心成長",
-          "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E6%95%99%E8%82%B2%E4%B8%89%E9%83%A8%E6%9B%B2%E5%85%A8%E6%96%B9%E4%BD%8D%E7%85%A7%E9%A1%A7%E5%AD%B8%E7%AB%A5-%E5%BC%B5%E5%96%84%E6%94%BF-%E5%BE%9E%E9%A4%90%E6%A1%8C%E5%88%B0%E6%9B%B8%E6%A1%8C%E9%99%AA%E4%BC%B4%E5%AD%A9%E5%AD%90%E5%AE%89%E5%BF%83%E6%88%90%E9%95%B7-120700083.html",
-          "time": "2026-08-26 20:07:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園教育三部曲全方位照顧學童 張善政：從餐桌到書桌陪伴孩子安心成長",
-          "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNa29ULTU3bTJGMlJQOUxiZEllT1FlUXpuaC1TcFdaTm1oYUJrVmpjX1lpbE56RGF1X3lvRVk2QnlfNnV1Y01BZW8zMml3OG4xYWNHaElPcFRqUWNULWRDNmRaSXhmd2NaRmNrbS1zYnJNbE9xZjlMUTY2cDk0YzhPYkZDb1ZZN3Jtbk5acjZPV1QxWkZpVnhJdG1KdURsNjFlelBJWFNXQTZUZjd3MHVfNG00dVZZS2ZVSkp5Qk9JTlZ1WTdhMmZRRFhwdHlvRVZyYndWZXByYkY4aFRRci0xbXRmNjcwTXZuaFQ1NXFvT2VhR245U0s0ZU96dWgyd2RsNmJqNWxhYVE4Z3VoMHdZMXVLUFNqTHR3VmdoRW85T0JPai1nMVBmcTBDY193STZINC1QRWhlU09FaGtNOVpBMFBLaFRoV1J0U19rS0JBd281STZScGEzV1EtRXV2RndINDBpT1J3ZVFnUVFKZ1E0VTEwaEJlUlhEYW9IbzdHV1J5MnhZTGhndVQ5Q2VEN0xqQUVURlRfN0NvN2ktZ2tGQVVwcGh6OHFfV2h0RnRFM3hkZmhWak9DVllKTUJPTE9Kd0ZsbDBia0Z6dw?oc=5",
-          "time": "2026-08-26 20:07:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "吳宗憲拜會桃園市議會談宜桃合作～鎖定產業、觀光、文化、運動、教育5大連線",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xNGs4a2pyV2prVlZNaG5NZjFwR0l5N25oZWh5RjRZQXh6dHd1N2V6WGsyTkZjcWlNSzFDWTJ3Ykg5UzB1U1BDanJXMXZkQnotb0c2bFFBbjNQcFE?oc=5",
-          "time": "2026-08-26 20:05:00",
-          "publisher": "Google News→葛瑪蘭新聞網",
-          "severity": null
-        },
-        {
-          "title": "桃園捷運場站開發迎兩大進展 張善政：TOD帶動與都市發展",
-          "url": "https://more-news.tw/704007/",
-          "time": "2026-08-26 20:04:51",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園市立醫院核定規模揭曉 八德總院最快2029年開工",
-          "url": "https://more-news.tw/703990/",
-          "time": "2026-08-26 20:03:50",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "因應極端降雨！桃園爭取16億改善淹水熱點、加寬側溝",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5553322",
-          "time": "2026-08-26 20:03:35",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "解放軍打不進桃園高雄！美兵推曝搶灘死在台灣路太發達 最後恐盯上「這裡」 | 上報",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIMFhQXzQ4SHJVU0FTRVZYQ1lyWnRRQkV6cWozNHU3MGJTcmJBOV9lYURFNkphYjhRUEJlLV9udVJLdUFCc1FjSFBaUnkzd3dDWHZ5TUl3Ny0zTUI3YVE2Y290SlFKSngzNGlMWVpXSFA?oc=5",
-          "time": "2026-08-26 19:56:25",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "苯駢芘超標黑麻油流入桃園 衛生局：追查下架、擴大抽驗",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40U2hxZnpXOHFrMXplanFDLXBLN0dCNDUyeEFWVXdCVThiQTJtSmpwWFFfMHZ0UDQxS2VvbjJjR1FWQVZ0WURCTkJyY1JsVTNi0gFWQVVfeXFMUHFzVHM3cnE5RDhpMk85cUFsTHI3MlJHV3RUTVJSd2FsOU1oVURCOFBlSW5XVjV6ZVY2MEF6ZFlYMzUzemFuel85aGo5VUgxMzBJU09ibXc?oc=5",
-          "time": "2026-08-26 19:55:20",
-          "publisher": "Google News→UDN",
-          "severity": "red"
-        },
-        {
-          "title": "CIPOQ • 即步逐夢 桃園市復興青年行動計畫正式啟動",
-          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPcS1QOUlObU50cmlJa2wxVkozZ0tZRHNJa3ZmLXVBNVN6djBQaFRsel82UGVaVWc4dVp3ME1VWGZnS3NVUzBKVG1RVUZwVWVid2pYZlJ0ZkU2Q293d01LcDZ1N1BHYlJxdFI2eWdXa0RrSmJXN1ZoODNlZUJ1cktJYXNSS1hvbFFlQ1g2dzB4SldYSkg1SVVURllrMXQzZnNaZ1dJNXNBYS02TkhwbV9oUU10RkJpbkNNaW1zNXpWcTlvNUlmSHBRb2tZbEdBeEEwRDlDd2Q3dTVRLXhpNThPenZTT1E1b0I5cXpiMzlONllYQWtCWlp0eVlabUJoeXhHdEcyd1A5cnR5Y0ttZ2NDbVZxVk5WWmQ1eHI5NU9hbGo1T3lkemQwOTFpZHhLSkczVUpzRlZyVDFELVJCM0wtTg?oc=5",
-          "time": "2026-08-26 19:46:30",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台人赴瑞士旅遊CRP救人一命! 桃園市義消獲表揚",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNZzF1ajZVN25tWGhDbUJ4ZEo2alBKM1NVcXMtWjY4Q3pPU2RPNWotY0Z3VWI1M1ZXbV9Tb1hxM21QdTZpMmlwMmZuZVRZRDVLRmZLNVBDV0h3NHFrYWY1X2d0Z2Jla1JlNkJCM2tnMDdfRk9BcEY2M2NVeEZZUGpnTGYtZnRGc0FMM0Y4ZWpHSGlJYVV6VVZZT0pDZHVadkJEZ3Y1bEpFb1U2bzBlc3BXY2RNd040b205NUQxQm13WHZUNDY5S215bUV3cEJBXzJ1R0dQUkRTVmNfNFhaTkZRQU1TVmhRVm5meTY0ODdKSVEzb3M2TWF2eTNZdXdQYlN1WWRmbE1yd2UwSy1qMzJxZmE2R181alFOWlhZaHg2S255N2VjM2dRSUJiVy1ldlgxNUE?oc=5",
-          "time": "2026-08-26 19:40:47",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園兒童美術館「尋找好朋友」書展 閱讀典藏繪本、玩磁鐵遊戲",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMeVZSbmhWY19fcWJnNERCenVKM24zakdtc2NjSDJDYmxXaWtDZXljTW50dE1fRUM1QThjWk1SanpPMWxhb1JCb2dhb2dnb2lh?oc=5",
-          "time": "2026-08-26 19:32:42",
-          "publisher": "Google News→客新聞 HakkaNews",
-          "severity": null
-        },
-        {
-          "title": "防患未然！桃園嚴格列管221處危險場所，清查禁水性物質工廠 | 王維傑 | 地方新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUeWJHS0tEcHlyQTByMHVTbk5zeVZEWUZtMXZ6TF82YVNMa3ZvbkV2ODRaempPYm5TUlVLTUlwdVE1dE5RRW1ZUGFIZzhhdw?oc=5",
-          "time": "2026-08-26 19:26:38",
-          "publisher": "Google News→風傳媒",
-          "severity": "yellow"
-        },
-        {
-          "title": "黑麻油苯駢芘超標！桃園2門市進貨18瓶 未售9瓶全下架",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tZTVsbXROckNja0dxeE91NGJmV0tKdUdsNFZoeGc5QWRsWVRaNFpmc1RvdHFEbzV4bkJIUWQ3ZnJCampENGZNSHdPUU50THduei15MjQzOVA4bmdTUExsWHhiSlRNY2xXZENVYXdn?oc=5",
-          "time": "2026-08-26 19:20:42",
-          "publisher": "中時新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "桃園捷運環狀路網最後一塊拼圖 綠線延伸中壢土建高架段動土",
-          "url": "https://news.ltn.com.tw/news/Taoyuan/breakingnews/5553287",
-          "time": "2026-08-26 19:05:22",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "桃園捷運綠線延伸中壢GEC04標動土 張善政：串聯八德中壢幸福生活圈",
-          "url": "https://news.nextapple.com/politics/20260826/D26ED1BC61415D477DA379BFE007DE44",
-          "time": "2026-08-26 19:02:16",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "桃園捷運綠線延伸中壢GEC04標動土 張善政：串聯八德中壢幸福生活圈",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRjI4VW1YQXBNNURLUUpvSW5kMEJXV3JHdzlSY3MyWXo0QThnTThZcWRCN3lUbnBIaVI3cHRWN3I0UktpbGMyWTZXRVFVRmxaM2p5d1l3LTV4NFpkNWp4YnhLTXIweVk3SWlHUkw0VGdpX3E2NFRSYVhMSS14Q2FJUFpTRQ?oc=5",
-          "time": "2026-08-26 18:59:00",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "防台南大爆炸重演 桃園主動稽查非法棄置物",
-          "url": "https://more-news.tw/703868/",
-          "time": "2026-08-26 18:58:09",
-          "publisher": "墨新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "市議員謝美英今天針對桃園軌道建設地下的隱患 對水務局提出質詢",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1LWGRBNkZsVWw3aUw0dWpmT2lsbDMxa3liVnVnWXJuLWZTaV9ncDlKN01HdXRoSlNpQm8tUVEwdG5MSXJ4NVE?oc=5",
-          "time": "2026-08-26 18:57:13",
-          "publisher": "Google News→台灣新聞雲報",
-          "severity": "yellow"
-        },
-        {
-          "title": "于北辰質詢桃園污水接管率升至28% 舊城區仍卡關、後巷美化一年僅10條遭質疑",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBvYmpyalVzbXF5S29ySGZ4b1NxM3VGRGNodncxNTZKMjVwV2lPRW52TFFuSERMajhKV2JRU0FxV0ZKOXExVXc?oc=5",
-          "time": "2026-08-26 18:57:13",
-          "publisher": "Google News→台灣新聞雲報",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園調高基層工作經費 大型里最高92萬",
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQN2ZrWndhZzBDT1pUODdpZm9tLUxEM1BJenR0SmlQaFZ6NWhrSDZUYVJRZ2dHVHMzYkNFdU45ZDhIZ2tnZW1aVElGSXM1VGh2V3RDSlJadklPZHpyNFRLZ2UzYzA3UFFDVlVUaUFiVWw1bHpYWGRaS0ZRNXJ2Mmh0Nk9ZcGxmdGtxZ1ROVUlmUnpPYl9SV1FuZHM0YWtHOWVtOHpfRTRlUzNwQ1ZxQ3FWNzdUZi02OXU2bnRiRE9Ha25tQkJwNXlwOE9OT2F5X29ZRGVzU1RTb1FDRE4wSXdfUTlTY1NwWWVkR1E2Zjhqb29ZQ1BWUDRscXVOTVhSeEhqQmRIX3FSQTNpcGhBUHJ2NzExSDk?oc=5",
-          "time": "2026-08-26 18:34:12",
-          "publisher": "Google News→台灣好新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園市文化局本週末藝文活動異動 紙風車龍潭場取消火舞演出延至9/6 | 台灣好新聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zc2xZMlFHa1c0MXpTbzlvVmctRDBkNmZWbjhjRFF3aU1EQ29xTmxpaGl4VFZVU3BOZ1U1dU5HZDBoRmh1ZGU1SmJQUEMyT2VpODBIYmVn?oc=5",
-          "time": "2026-08-26 18:34:02",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "桃園調高基層工作經費 大型里最高92萬",
-          "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E8%AA%BF%E9%AB%98%E5%9F%BA%E5%B1%A4%E5%B7%A5%E4%BD%9C%E7%B6%93%E8%B2%BB-%E5%A4%A7%E5%9E%8B%E9%87%8C%E6%9C%80%E9%AB%9892%E8%90%AC-103231994.html",
-          "time": "2026-08-26 18:32:31",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園大叔賣場偷拍女子裙底 遭當場活逮折記憶卡滅證",
-          "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E5%A4%A7%E5%8F%94%E8%B3%A3%E5%A0%B4%E5%81%B7%E6%8B%8D%E5%A5%B3%E5%AD%90%E8%A3%99%E5%BA%95-%E9%81%AD%E7%95%B6%E5%A0%B4%E6%B4%BB%E9%80%AE%E6%8A%98%E8%A8%98%E6%86%B6%E5%8D%A1%E6%BB%85%E8%AD%89-102748997.html",
-          "time": "2026-08-26 18:27:48",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園市立醫院獲設立許可 749床規模拚2033年營運",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tLXNmWkp5X0NReXlSN3N0VFlMUXNhVXRGRlVOVjE0OWUzNlpXSTBSY2V6T0g3cjBGOWFfQzRhS2pqM2lGbUhFb3JpaWw?oc=5",
-          "time": "2026-08-26 18:26:27",
-          "publisher": "Google News→桃園電子報",
-          "severity": null
-        },
-        {
-          "title": "桃園公車改革再升級 張市長：持續提升公共運輸服務品質",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbXg3RUFXaVA4UVd2emFWcTIwYmJ2MW9qX3pLanlFcUgyRkY2dFd0eVpnRTVZTjlGM2Z2anc2VjFfR0YtUk4wYzZaR09HSHVDOWFqVWJWUUxwR1FRODdGUF92UXdTbGg0aEJabw?oc=5",
-          "time": "2026-08-26 18:24:45",
-          "publisher": "Google News→tycg.gov.tw",
-          "severity": null
-        },
-        {
-          "title": "衛福部核發桃園市立醫院設立許可 張善政：從構想逐步邁向實現",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtdDVPeTA2UW4tTkUzTE9OQ2tQVzdWUzZvaEFOUXdGZ0Yyb1R5SmY3MFZtN1lDcTRpV1ppa2l5d25xREliZ2RxLVRqdktPZU12Zkp5QVQzZW5rQzA3RFHSAUtBVV95cUxQSDhCRXJtRW9Ga1BIMmVUcEdKOUpQWFlLOVdVWUViM2J2ZUh0U212Qi1ObWtscGNBU3VqMC1uQWFXSWtmd2hZMzM3OUU?oc=5",
-          "time": "2026-08-26 18:23:00",
-          "publisher": "ETtoday",
-          "severity": null
         }
       ],
       "comments": []
@@ -9959,11 +9917,11 @@
       "city": "台北",
       "place": "台北市萬華區",
       "level": "red",
-      "news_count": 207,
+      "news_count": 203,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 234,
+      "urgency_score": 230,
       "news_articles": [
         {
           "title": "北市吸菸區預計砸400萬設AI偵測？洪婉臻比價批：錢就是這樣花？｜#台灣最前線｜民視讚夯.com",
@@ -11384,34 +11342,6 @@
           "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOOFBVakpha0d1aGNqUEc2b0hhVG5UY0MtMEJ1eUJDaVZrUzdvOG8yYnBmVEJCTFdLN0JPV0xWR0V6UWFYSG9aQzkyNlJpcFJkYzBDT2NDeWFFSk8zaFJ2dHlnZUpOTkhiQTdIQTB3Y0gzUVFtMk5uX3dPbUZLbG5tX2hDSWh6dXVlLVZ2RVV0MUpRVU9laGhQUEdFWmVIaXlvQkU2eVYzQi1uWXhxRHlPUE9UVzZBSkhqVnBfXzkwbzVqbXl6ZkxLUWZVTDJXQmRodGNDQ0tGajlOSlM1V21UcnlpOVNKZEkwYzN3NTBzbmFkdVFfdFJzRm5HRG1pTzdpS2otS2xWWGtSZ1BtSDdpWk5hNnhKNHZsM1pnTTR4VzRFREhPNmZGWDBMZ0V1RWxsSXhmeVU2ZUJfeDRDSkZEUzFUOVNVRkFBcmRRb1FfU3hJN3VMTHNTUVFiUFRVSWpmV09nWVRHSFBaWHU1TTh2RDRjUGtuZ09YVjFhWTdzWmxtN0N4aXJn?oc=5",
           "time": "2026-08-26 18:29:47",
           "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "懷孕滿20週死產可領4萬元！ 北市擴大生育補助9月上路",
-          "url": "https://tw.news.yahoo.com/%E6%87%B7%E5%AD%95%E6%BB%BF20%E9%80%B1%E6%AD%BB%E7%94%A2%E5%8F%AF%E9%A0%984%E8%90%AC%E5%85%83-%E5%8C%97%E5%B8%82%E6%93%B4%E5%A4%A7%E7%94%9F%E8%82%B2%E8%A3%9C%E5%8A%A99%E6%9C%88%E4%B8%8A%E8%B7%AF-102627252.html",
-          "time": "2026-08-26 18:26:27",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "麻油車頂級冷壓黑麻油苯駢芘超標 北市預防性下架",
-          "url": "https://tw.news.yahoo.com/%E9%BA%BB%E6%B2%B9%E8%BB%8A%E9%A0%82%E7%B4%9A%E5%86%B7%E5%A3%93%E9%BB%91%E9%BA%BB%E6%B2%B9%E8%8B%AF%E9%A7%A2%E8%8A%98%E8%B6%85%E6%A8%99-%E5%8C%97%E5%B8%82%E9%A0%90%E9%98%B2%E6%80%A7%E4%B8%8B%E6%9E%B6-102607120.html",
-          "time": "2026-08-26 18:26:07",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "麻油車頂級冷壓黑麻油苯駢芘超標 北市預防性下架187瓶",
-          "url": "https://www.cna.com.tw/news/aloc/202608260286.aspx",
-          "time": "2026-08-26 18:26:07",
-          "publisher": "中央社",
-          "severity": "red"
-        },
-        {
-          "title": "「173叫車」遭北市府開鍘！涉違法經營恐罰2500萬 交通部出手要求全面下架",
-          "url": "https://www.storm.mg/lifestyle/11159557",
-          "time": "2026-08-26 18:26:00",
-          "publisher": "風傳媒",
           "severity": "yellow"
         }
       ],

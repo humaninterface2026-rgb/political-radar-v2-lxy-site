@@ -84374,7 +84374,7 @@
     },
     {
       "date": "2026-08-27",
-      "snapshot_at": "2026-08-27T10:22:45.397701+00:00",
+      "snapshot_at": "2026-08-27T10:27:55.953790+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -84417,9 +84417,9 @@
           ]
         },
         {
-          "title": "台中陳情/抗議",
-          "city": "台中",
-          "place": "台中市政府",
+          "title": "新北陳情/抗議",
+          "city": "新北",
+          "place": "新北市政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -84427,7 +84427,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "台中港填土工程衝擊白海豚棲地？環團揚言8/31赴政院抗議 港務公司回應了"
+            "賴勘災喊\"少批評\"基層陳情被架走!高雄路塌見深坑!柯志恩勘災竟受困!趙建銘臉部驚爆\"饅化\"!沈伯洋遇毒油變\"小洋逃\"!粥"
           ]
         },
         {
@@ -84445,9 +84445,9 @@
           ]
         },
         {
-          "title": "新北陳情/抗議",
-          "city": "新北",
-          "place": "新北市政府",
+          "title": "台中陳情/抗議",
+          "city": "台中",
+          "place": "台中市政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -84455,21 +84455,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "賴勘災喊\"少批評\"基層陳情被架走!高雄路塌見深坑!柯志恩勘災竟受困!趙建銘臉部驚爆\"饅化\"!沈伯洋遇毒油變\"小洋逃\"!粥"
-          ]
-        },
-        {
-          "title": "桃園詐騙案",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "桃園警銀聯防打詐奏效 詐騙受理案件與財損雙雙下降"
+            "台中港填土工程衝擊白海豚棲地？環團揚言8/31赴政院抗議 港務公司回應了"
           ]
         },
         {
@@ -84484,6 +84470,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "《我在詐騙公司上班》9/5雲林登場"
+          ]
+        },
+        {
+          "title": "桃園詐騙案",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "桃園警銀聯防打詐奏效 詐騙受理案件與財損雙雙下降"
           ]
         },
         {
@@ -84517,21 +84517,6 @@
           ]
         },
         {
-          "title": "桃園車禍事件",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "桃園男違規被攔亂報身分證：我車禍失憶 3案被通緝這下慘了",
-            "桃園男謊稱車禍後全失憶 警一查3條通緝全記起來了"
-          ]
-        },
-        {
           "title": "宜蘭車禍事件",
           "city": "宜蘭",
           "place": "宜蘭縣政府",
@@ -84544,6 +84529,21 @@
           "sample_titles": [
             "宜蘭驚險犁田車禍 白車遭擦撞失控衝入田間",
             "宜蘭驚險犁田車禍白車遭擦撞失控衝入田間- 社會"
+          ]
+        },
+        {
+          "title": "桃園車禍事件",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "桃園男違規被攔亂報身分證：我車禍失憶 3案被通緝這下慘了",
+            "桃園男謊稱車禍後全失憶 警一查3條通緝全記起來了"
           ]
         },
         {
@@ -84619,20 +84619,6 @@
           ]
         },
         {
-          "title": "台東弊案爭議",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台東渡假村開發弊案 檢調約談前縣議會秘書長吳慶榮 複訊後請回"
-          ]
-        },
-        {
           "title": "花蓮弊案爭議",
           "city": "花蓮",
           "place": "花蓮縣政府",
@@ -84644,6 +84630,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "花蓮縣議長涉違水保法一審判刑 張峻：已提起上訴"
+          ]
+        },
+        {
+          "title": "台東弊案爭議",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "台東渡假村開發弊案 檢調約談前縣議會秘書長吳慶榮 複訊後請回"
           ]
         },
         {
@@ -84715,11 +84715,11 @@
           "city": "雲林",
           "place": "雲林縣政府",
           "level": "yellow",
-          "news_count": 25,
+          "news_count": 24,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 28,
+          "urgency_score": 27,
           "sample_titles": [
             "雲林虎尾普渡不只擺肉山　8大區各有特色、14重機場面壯觀",
             "雲林聲暉獲企業下單800盒力挺 仍有三成訂單缺口",
@@ -84834,22 +84834,6 @@
           ]
         },
         {
-          "title": "高雄弊案爭議",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "red",
-          "news_count": 4,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 16,
-          "sample_titles": [
-            "新北垃圾「洗產地」偷丟高雄！農地驚見6處垃圾山 7人遭起訴",
-            "外縣市垃圾洗產地混入高雄焚化爐 7人被逮起訴",
-            "無照醫材業務竟進手術房「動手」！高雄博田院長、副院長涉違法 5人遭起訴"
-          ]
-        },
-        {
           "title": "新北弊案爭議",
           "city": "新北",
           "place": "新北市政府",
@@ -84866,19 +84850,19 @@
           ]
         },
         {
-          "title": "桃園弊案爭議",
-          "city": "桃園",
-          "place": "桃園市政府",
+          "title": "高雄弊案爭議",
+          "city": "高雄",
+          "place": "高雄市政府",
           "level": "red",
-          "news_count": 5,
+          "news_count": 4,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 20,
+          "urgency_score": 16,
           "sample_titles": [
-            "桃園診所醫師涉販售毒品安眠藥遭起訴 衛生局配合偵辦",
-            "桃園診所醫師涉販售毒品安眠藥遭起訴衛生局配合偵辦- 社會",
-            "診所藏2.2萬粒藥錠+1629萬現鈔！桃園醫師涉賣安眠藥起訴 恐坐牢12年"
+            "新北垃圾「洗產地」偷丟高雄！農地驚見6處垃圾山 7人遭起訴",
+            "外縣市垃圾洗產地混入高雄焚化爐 7人被逮起訴",
+            "無照醫材業務竟進手術房「動手」！高雄博田院長、副院長涉違法 5人遭起訴"
           ]
         },
         {
@@ -84895,6 +84879,22 @@
             "貪特搜隊公款買酒宴客！宜蘭前消防局長徐松奕起訴 檢批惡劣建請褫奪公權",
             "貪特搜隊公款買酒宴客！宜蘭前消防局長徐松奕起訴檢批惡劣建請褫奪公權- 社會",
             "宜蘭消防核銷弊案偵結～前局長徐松奕等4人涉詐取公款3萬餘元遭起訴"
+          ]
+        },
+        {
+          "title": "桃園弊案爭議",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "red",
+          "news_count": 5,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 20,
+          "sample_titles": [
+            "桃園診所醫師涉販售毒品安眠藥遭起訴 衛生局配合偵辦",
+            "桃園診所醫師涉販售毒品安眠藥遭起訴衛生局配合偵辦- 社會",
+            "診所藏2.2萬粒藥錠+1629萬現鈔！桃園醫師涉賣安眠藥起訴 恐坐牢12年"
           ]
         },
         {
@@ -85046,11 +85046,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 70,
+          "news_count": 68,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 91,
+          "urgency_score": 89,
           "sample_titles": [
             "屏東縣公共自行車系統 今年底前預計突破200站",
             "屏東海生館夏綠蒂變小花臉？揭密海豹換毛期 狂抓癢、食欲下降",
@@ -85074,6 +85074,22 @@
           ]
         },
         {
+          "title": "桃園地方動態",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "red",
+          "news_count": 127,
+          "comment_count": 0,
+          "negativity_pct": 13,
+          "is_urgent": false,
+          "urgency_score": 175,
+          "sample_titles": [
+            "桃園女騎車離家2年成「竹林白骨」 新北警比對DNA助落葉歸根",
+            "桃園國強市地重劃進入分區施工階段 6.74公頃拼117年完工",
+            "桃園13行政區空屋率全跌 永慶房產集團：蘆竹5.92%奪全市最低"
+          ]
+        },
+        {
           "title": "花蓮地方動態",
           "city": "花蓮",
           "place": "花蓮縣政府",
@@ -85087,22 +85103,6 @@
             "【新聞一點靈】統戰中秋大禮包？ 中國僅開放花蓮文旦進口　國台辦：九二共識　有做就有幣！ 總統府「健康幣」獎勵10月上路　",
             "百工百業艱辛、財政結構改善 花蓮縣務會議通過撤回「礦石稅草案」 現行條例將屆期廢止",
             "民航局准了！華信航空花蓮航線10月起減班減虧 合計台中、高雄出發航班砍半"
-          ]
-        },
-        {
-          "title": "桃園地方動態",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "red",
-          "news_count": 130,
-          "comment_count": 0,
-          "negativity_pct": 12,
-          "is_urgent": false,
-          "urgency_score": 178,
-          "sample_titles": [
-            "桃園女騎車離家2年成「竹林白骨」 新北警比對DNA助落葉歸根",
-            "桃園國強市地重劃進入分區施工階段 6.74公頃拼117年完工",
-            "桃園13行政區空屋率全跌 永慶房產集團：蘆竹5.92%奪全市最低"
           ]
         },
         {
@@ -85126,11 +85126,11 @@
           "city": "台北",
           "place": "台北市萬華區",
           "level": "red",
-          "news_count": 207,
+          "news_count": 203,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 234,
+          "urgency_score": 230,
           "sample_titles": [
             "北市吸菸區預計砸400萬設AI偵測？洪婉臻比價批：錢就是這樣花？｜#台灣最前線｜民視讚夯.com",
             "可能想表現出有在做事的態度😌 #柯宇綸 #蔣萬安 #台北市長 #吸菸區 #金屬柵欄吸菸區",
