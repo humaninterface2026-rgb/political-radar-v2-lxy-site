@@ -85197,7 +85197,7 @@
     },
     {
       "date": "2026-08-28",
-      "snapshot_at": "2026-08-28T01:40:55.945858+00:00",
+      "snapshot_at": "2026-08-28T01:43:49.052472+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -85237,6 +85237,20 @@
           "urgency_score": 1,
           "sample_titles": [
             "放生老鼠？有新竹市民整籠載上山 里長急喊：恐又跑回住宅"
+          ]
+        },
+        {
+          "title": "台北狼師事件",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "10歲女童遭猥褻240天未安置！葉元之護航北市「沒性侵害」 眾人全氣炸"
           ]
         },
         {
@@ -85296,20 +85310,6 @@
           ]
         },
         {
-          "title": "桃園詐騙案",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "桃園警銀聯防打詐奏效 詐騙受理案件與財損雙雙下降"
-          ]
-        },
-        {
           "title": "澎湖詐騙案",
           "city": "澎湖",
           "place": "澎湖縣政府",
@@ -85321,6 +85321,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "「澎大海沙灘音樂祭」圓滿落幕！馬公警精準宣導2026五大詐騙手法"
+          ]
+        },
+        {
+          "title": "桃園詐騙案",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "桃園警銀聯防打詐奏效 詐騙受理案件與財損雙雙下降"
           ]
         },
         {
@@ -85382,34 +85396,6 @@
           ]
         },
         {
-          "title": "台北狼師事件",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "10歲女童遭猥褻240天未安置！葉元之護航北市「沒性侵害」 眾人全氣炸"
-          ]
-        },
-        {
-          "title": "基隆狼師事件",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "基隆宮廟主委「假借求子法事」性侵信徒 手機驚見多張私密照"
-          ]
-        },
-        {
           "title": "台中狼師事件",
           "city": "台中",
           "place": "台中市政府",
@@ -85435,6 +85421,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "嘉縣高中狼師偷拍學生檢方罕見公布全名、租屋處示警- 嘉義縣"
+          ]
+        },
+        {
+          "title": "基隆狼師事件",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "基隆宮廟主委「假借求子法事」性侵信徒 手機驚見多張私密照"
           ]
         },
         {
@@ -85480,20 +85480,6 @@
           ]
         },
         {
-          "title": "台東弊案爭議",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台東渡假村開發弊案 檢調約談前縣議會秘書長吳慶榮 複訊後請回"
-          ]
-        },
-        {
           "title": "花蓮弊案爭議",
           "city": "花蓮",
           "place": "花蓮縣政府",
@@ -85505,6 +85491,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "花蓮縣議長涉違水保法一審判刑 張峻：已提起上訴"
+          ]
+        },
+        {
+          "title": "台東弊案爭議",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "台東渡假村開發弊案 檢調約談前縣議會秘書長吳慶榮 複訊後請回"
           ]
         },
         {
@@ -85537,22 +85537,6 @@
             "【桃園男違規被攔亂報身分證：我車禍失憶 3案被通緝這下慘了】 （圖／桃園警分局提供） 虧你想得到這種爛理由。(#起啵)",
             "桃園男違規被攔亂報身分證：我車禍失憶 3案被通緝這下慘了",
             "桃園男謊稱車禍後全失憶 警一查3條通緝全記起來了"
-          ]
-        },
-        {
-          "title": "嘉義市地方動態",
-          "city": "嘉義市",
-          "place": "嘉義市政府",
-          "level": "yellow",
-          "news_count": 10,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 10,
-          "sample_titles": [
-            "嘉市府與國稅局中元普渡 同仁巧思祈平安",
-            "嘉市府與國稅局中元普渡 同仁巧思祈平安",
-            "嘉市蘭潭音樂噴泉復演 大白熊陪你賞水舞"
           ]
         },
         {
@@ -85700,30 +85684,15 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
-          "news_count": 72,
+          "news_count": 73,
           "comment_count": 45,
           "negativity_pct": 10,
           "is_urgent": true,
-          "urgency_score": 186,
+          "urgency_score": 187,
           "sample_titles": [
+            "翁達瑞揭盧秀燕慣用手法「做賊喊捉賊」！曝3案例批：真的是不要臉｜#頭家來開講｜民視讚夯.com",
             "他曝翁曉玲、蔣萬安、盧秀燕這些爭議：725累積醞釀的全煙消雲散了",
-            "陳嘉宏專欄：站隊翁曉玲 盧秀燕續往深藍靠攏",
             "陳嘉宏專欄：站隊翁曉玲 盧秀燕續往深藍靠攏"
-          ]
-        },
-        {
-          "title": "新北弊案爭議",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "洋酒禮盒藏20萬元　國民黨新北議員王威元涉賄、遭起訴求刑3年",
-            "新北垃圾「洗產地」偷丟高雄！農地驚見6處垃圾山 7人遭起訴"
           ]
         },
         {
@@ -85738,6 +85707,21 @@
           "urgency_score": 8,
           "sample_titles": [
             "高雄業者違運外縣市垃圾送焚化爐 檢方起訴7人5法人",
+            "新北垃圾「洗產地」偷丟高雄！農地驚見6處垃圾山 7人遭起訴"
+          ]
+        },
+        {
+          "title": "新北弊案爭議",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "洋酒禮盒藏20萬元　國民黨新北議員王威元涉賄、遭起訴求刑3年",
             "新北垃圾「洗產地」偷丟高雄！農地驚見6處垃圾山 7人遭起訴"
           ]
         },
@@ -85819,6 +85803,22 @@
             "橋頭地檢署驚傳墜樓！女子3樓墜落命危搶救中",
             "橋頭地檢署驚傳女子墜樓亡！ 檢警相驗調查中",
             "女子橋頭地檢署報到墜樓 檢警調閱監視器釐清"
+          ]
+        },
+        {
+          "title": "嘉義市地方動態",
+          "city": "嘉義市",
+          "place": "嘉義市政府",
+          "level": "red",
+          "news_count": 10,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 10,
+          "sample_titles": [
+            "嘉市府與國稅局中元普渡 同仁巧思祈平安",
+            "嘉市府與國稅局中元普渡 同仁巧思祈平安",
+            "嘉市蘭潭音樂噴泉復演 大白熊陪你賞水舞"
           ]
         },
         {
@@ -86002,11 +86002,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 177,
+          "news_count": 176,
           "comment_count": 0,
           "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 237,
+          "urgency_score": 236,
           "sample_titles": [
             "世界先進桃園三廠驚傳火警 緊急發重訊：多數產線正常生產 | 財經",
             "2026.08.28 09:25 世界先進桃園晶圓廠深夜失火 緊急疏散200人",
@@ -86018,11 +86018,11 @@
           "city": "台北",
           "place": "台北市萬華區",
           "level": "red",
-          "news_count": 187,
+          "news_count": 188,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 208,
+          "urgency_score": 209,
           "sample_titles": [
             "民進黨台北市長參選人沈伯洋今一早6時到北市象山公園掃街拜票，現場也和民眾運動搏感情。媒體問到，國際知名當代藝術家奈良美智",
             "台北市推無菸城市又再引起爭議討論，民進黨北市長參選人沈伯洋今到象山公園拜票時受訪，他說，可見上面有想法，但缺完整配套；普",
@@ -86034,11 +86034,11 @@
           "city": "台中",
           "place": "台中市大里區",
           "level": "red",
-          "news_count": 211,
+          "news_count": 212,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 259,
+          "urgency_score": 260,
           "sample_titles": [
             "台中男遺失戒指「祭10萬懸賞」 數十人深夜翻水溝仍無下落",
             "台中餐飲市場6年增逾450億元 家數、產值雙成長",
