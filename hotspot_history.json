@@ -86723,7 +86723,7 @@
     },
     {
       "date": "2026-08-30",
-      "snapshot_at": "2026-08-30T01:37:43.060653+00:00",
+      "snapshot_at": "2026-08-30T01:43:05.970907+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -86752,9 +86752,9 @@
           ]
         },
         {
-          "title": "新北車禍事件",
-          "city": "新北",
-          "place": "新北市政府",
+          "title": "新竹縣車禍事件",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -86762,7 +86762,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "林口台15線貨車撞進小吃店！駕駛疑疲勞駕駛釀禍 車禍畫面曝光"
+            "關西鎮公所清運車台68車禍涉肇逃 轎車四輪朝天畫面曝光"
           ]
         },
         {
@@ -86780,9 +86780,9 @@
           ]
         },
         {
-          "title": "新竹縣車禍事件",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
+          "title": "新北車禍事件",
+          "city": "新北",
+          "place": "新北市政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -86790,7 +86790,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "關西鎮公所清運車台68車禍涉肇逃 轎車四輪朝天畫面曝光"
+            "林口台15線貨車撞進小吃店！駕駛疑疲勞駕駛釀禍 車禍畫面曝光"
           ]
         },
         {
@@ -86933,6 +86933,20 @@
           ]
         },
         {
+          "title": "基隆弊案爭議",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "基隆東岸商場弊案 大日負責人行賄緩刑4年、雇員收賄重判12年"
+          ]
+        },
+        {
           "title": "台東弊案爭議",
           "city": "台東",
           "place": "台東縣政府",
@@ -86958,20 +86972,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "苗栗板模工賣8公克安毒遭逮 房內再搜出54.86公克 被判刑5年4月"
-          ]
-        },
-        {
-          "title": "基隆弊案爭議",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "基隆東岸商場弊案 大日負責人行賄緩刑4年、雇員收賄重判12年"
           ]
         },
         {
@@ -87007,22 +87007,6 @@
           ]
         },
         {
-          "title": "基隆地方動態",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "yellow",
-          "news_count": 13,
-          "comment_count": 0,
-          "negativity_pct": 8,
-          "is_urgent": false,
-          "urgency_score": 16,
-          "sample_titles": [
-            "基隆原住民豐年祭 童子瑋、謝國樑同台",
-            "基隆市原民人口增加…謝國樑、童子瑋 政策交鋒",
-            "國民體育日 基隆千人動起來"
-          ]
-        },
-        {
           "title": "雲林地方動態",
           "city": "雲林",
           "place": "雲林縣政府",
@@ -87036,6 +87020,22 @@
             "雲林線上徵才專區 一站式平台更便民",
             "雲林 張嘉郡力推高齡友善藥局 劉建國拚打造照護安全網",
             "唐美雲歌仔戲團龍鳳情緣 雲林登場"
+          ]
+        },
+        {
+          "title": "基隆地方動態",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "yellow",
+          "news_count": 13,
+          "comment_count": 0,
+          "negativity_pct": 8,
+          "is_urgent": false,
+          "urgency_score": 16,
+          "sample_titles": [
+            "基隆原住民豐年祭 童子瑋、謝國樑同台",
+            "基隆市原民人口增加…謝國樑、童子瑋 政策交鋒",
+            "國民體育日 基隆千人動起來"
           ]
         },
         {
@@ -87282,11 +87282,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "red",
-          "news_count": 60,
+          "news_count": 58,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 78,
+          "urgency_score": 76,
           "sample_titles": [
             "彰化縣原住民族日暨文化節傳統體能競技登場",
             "民眾黨出招彰化換竹北 柯文哲：黃國昌、鄭麗文商量看看",
