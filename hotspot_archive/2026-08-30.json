@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "snapshot_at": "2026-08-30T10:56:02.343012+00:00",
+  "snapshot_at": "2026-08-30T11:09:55.428750+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -249,62 +249,6 @@
       ]
     },
     {
-      "title": "嘉義縣地方動態",
-      "city": "嘉義縣",
-      "place": "嘉義縣政府",
-      "level": "green",
-      "news_count": 6,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 6,
-      "news_articles": [
-        {
-          "title": "萬鷺朝鳳！嘉義梅山奇景登場黃頭鷺大軍白露後報到- 嘉義市",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VUFdoWC00N2RoankySnlYdHlTakh0UlZ1VW1iLXFlWTJTRnNpNmcwOWUwTE1iNTRndlJwcXQ0UzdLaXhKVURLc2w3MUFxQmdsWUw0YWVSNzVjZi1jZnJPQjRaWHZMc1RMQmpMYw?oc=5",
-          "time": "2026-08-30 13:17:07",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "熱爆！3縣市高溫警戒氣象署：慎防熱傷害- 嘉義縣",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zQjRwSElCZmZlZGtLZUd3cjNFWmh6VktEWV91REFLdVVfbnBSNExhbkx3Tmo2WWlPenFvcHViX0I1UzhUSWlCc1Q3QzVTS1h3OTlwT0ZDbEdmZTN0UFdiZ3lKcFB4aW00M3hBWTFiQQ?oc=5",
-          "time": "2026-08-30 08:25:37",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "古早辦桌走進現代莊園〜盛昌國際外燴攜手嘉義縣中埔陽陽艾利森莊園推出「脆友吃桌」 9/11重現台灣吃桌文化新體驗！",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1YUxCX2lFWnowSE1YQTE5N29sVWVnM3RUT0tOR1IxcmJLeENsdjVZaGxkeWRKN3lCQ3J6YWVTbDRINmRoQ3NHblI4MmVPTzBQV2ZXbXFIM25Oa2xyNy1pNElrYk93bllkRG1v?oc=5",
-          "time": "2026-08-29 23:35:04",
-          "publisher": "Google News→台灣華報",
-          "severity": null
-        },
-        {
-          "title": "鄭麗文帶團隊力挺吳品叡選嘉縣長 要真正替嘉義縣打開一個新的選擇 | 觀傳媒",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0dVBhaExjeXc4RDhXU2xNZDZ1V3l4dGtIOWtkWnFUbDBOQUN2a20waEdCTmx3Vnp1U3NXdUMtODE1TzhxaEpiNlg1aDVIalNUaC1fYVF3?oc=5",
-          "time": "2026-08-29 22:40:56",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "台北市嘉義鄉親挺沈伯洋！翁章梁讚最好選擇 蔡易餘：洋流牽制蔣萬安",
-          "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQbjl5X0swbS1Fc1lLczVWTUFnaUYta1JYTm1pS3RwUXRXLV9hSGs2VVFOd2cxRUFrQXZ1cERyRVVmbDEtWXlYbEZXLXFmeWdheUJUbng1SnY5eDEyRm1wUzVJdGg2ZkpzLWRvNEotOHN3S1E5NFJmbVVRc2ZYU29wNVRNSzQ4eTB5R1VsRU9zX3RxNzQ0SjN6VXhFUEtPR1RhVzBRWjJBWmNIVEpoMmFNTkVicE8zSEFqSWNxOUlBTkQwWWw5XzJudDZ4c0M4bW5fczZ0aWZjSnBEbkVlTVI1OWJDU29UVjM4WmRFWFVuZ0tnWm1ZamJKbjBob253TUtGOEtfZmhvaEVTNk5VS1Q3dGxJaWp4QW56dVlHQVdHbnV0NFoyakJnQzI5akdGSzZ0VDk5VVJaT0RjSlU2SGNWZ0ZOc3R0WlNCbHJHUmM3cVE0Ti1hekxtb2t5a09FTDhZUUlKeGNxZlJBLUVqXzNRRmdGako2aU04VWlBc2RIXzcyenQwcDRTa09sM21mVzdnMUVzWjBKUjFyLWk4U2JvUnBtdjdtb2tCWEdabFZJQXZyNDQ?oc=5",
-          "time": "2026-08-29 21:43:09",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "鄭麗文帶團隊力挺吳品叡選嘉縣長 要真正替嘉義縣打開一個新的選擇",
-          "url": "https://tw.news.yahoo.com/%E9%84%AD%E9%BA%97%E6%96%87%E5%B8%B6%E5%9C%98%E9%9A%8A%E5%8A%9B%E6%8C%BA%E5%90%B3%E5%93%81%E5%8F%A1%E9%81%B8%E5%98%89%E7%B8%A3%E9%95%B7-%E8%A6%81%E7%9C%9F%E6%AD%A3%E6%9B%BF%E5%98%89%E7%BE%A9%E7%B8%A3%E6%89%93%E9%96%8B-%E5%80%8B%E6%96%B0%E7%9A%84%E9%81%B8%E6%93%87-133208688.html",
-          "time": "2026-08-29 21:32:08",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "雲林地方動態",
       "city": "雲林",
       "place": "雲林縣政府",
@@ -354,6 +298,62 @@
           "title": "雲林 張嘉郡力推高齡友善藥局 劉建國拚打造照護安全網",
           "url": "https://tw.news.yahoo.com/%E9%9B%B2%E6%9E%97-%E5%BC%B5%E5%98%89%E9%83%A1%E5%8A%9B%E6%8E%A8%E9%AB%98%E9%BD%A1%E5%8F%8B%E5%96%84%E8%97%A5%E5%B1%80-%E5%8A%89%E5%BB%BA%E5%9C%8B%E6%8B%9A%E6%89%93%E9%80%A0%E7%85%A7%E8%AD%B7%E5%AE%89%E5%85%A8%E7%B6%B2-201000044.html",
           "time": "2026-08-29 20:10:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "嘉義縣地方動態",
+      "city": "嘉義縣",
+      "place": "嘉義縣政府",
+      "level": "green",
+      "news_count": 6,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 6,
+      "news_articles": [
+        {
+          "title": "萬鷺朝鳳！嘉義梅山奇景登場黃頭鷺大軍白露後報到- 嘉義市",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VUFdoWC00N2RoankySnlYdHlTakh0UlZ1VW1iLXFlWTJTRnNpNmcwOWUwTE1iNTRndlJwcXQ0UzdLaXhKVURLc2w3MUFxQmdsWUw0YWVSNzVjZi1jZnJPQjRaWHZMc1RMQmpMYw?oc=5",
+          "time": "2026-08-30 13:17:07",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "熱爆！3縣市高溫警戒氣象署：慎防熱傷害- 嘉義縣",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zQjRwSElCZmZlZGtLZUd3cjNFWmh6VktEWV91REFLdVVfbnBSNExhbkx3Tmo2WWlPenFvcHViX0I1UzhUSWlCc1Q3QzVTS1h3OTlwT0ZDbEdmZTN0UFdiZ3lKcFB4aW00M3hBWTFiQQ?oc=5",
+          "time": "2026-08-30 08:25:37",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "古早辦桌走進現代莊園〜盛昌國際外燴攜手嘉義縣中埔陽陽艾利森莊園推出「脆友吃桌」 9/11重現台灣吃桌文化新體驗！",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1YUxCX2lFWnowSE1YQTE5N29sVWVnM3RUT0tOR1IxcmJLeENsdjVZaGxkeWRKN3lCQ3J6YWVTbDRINmRoQ3NHblI4MmVPTzBQV2ZXbXFIM25Oa2xyNy1pNElrYk93bllkRG1v?oc=5",
+          "time": "2026-08-29 23:35:04",
+          "publisher": "Google News→台灣華報",
+          "severity": null
+        },
+        {
+          "title": "鄭麗文帶團隊力挺吳品叡選嘉縣長 要真正替嘉義縣打開一個新的選擇 | 觀傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0dVBhaExjeXc4RDhXU2xNZDZ1V3l4dGtIOWtkWnFUbDBOQUN2a20waEdCTmx3Vnp1U3NXdUMtODE1TzhxaEpiNlg1aDVIalNUaC1fYVF3?oc=5",
+          "time": "2026-08-29 22:40:56",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "台北市嘉義鄉親挺沈伯洋！翁章梁讚最好選擇 蔡易餘：洋流牽制蔣萬安",
+          "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQbjl5X0swbS1Fc1lLczVWTUFnaUYta1JYTm1pS3RwUXRXLV9hSGs2VVFOd2cxRUFrQXZ1cERyRVVmbDEtWXlYbEZXLXFmeWdheUJUbng1SnY5eDEyRm1wUzVJdGg2ZkpzLWRvNEotOHN3S1E5NFJmbVVRc2ZYU29wNVRNSzQ4eTB5R1VsRU9zX3RxNzQ0SjN6VXhFUEtPR1RhVzBRWjJBWmNIVEpoMmFNTkVicE8zSEFqSWNxOUlBTkQwWWw5XzJudDZ4c0M4bW5fczZ0aWZjSnBEbkVlTVI1OWJDU29UVjM4WmRFWFVuZ0tnWm1ZamJKbjBob253TUtGOEtfZmhvaEVTNk5VS1Q3dGxJaWp4QW56dVlHQVdHbnV0NFoyakJnQzI5akdGSzZ0VDk5VVJaT0RjSlU2SGNWZ0ZOc3R0WlNCbHJHUmM3cVE0Ti1hekxtb2t5a09FTDhZUUlKeGNxZlJBLUVqXzNRRmdGako2aU04VWlBc2RIXzcyenQwcDRTa09sM21mVzdnMUVzWjBKUjFyLWk4U2JvUnBtdjdtb2tCWEdabFZJQXZyNDQ?oc=5",
+          "time": "2026-08-29 21:43:09",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "鄭麗文帶團隊力挺吳品叡選嘉縣長 要真正替嘉義縣打開一個新的選擇",
+          "url": "https://tw.news.yahoo.com/%E9%84%AD%E9%BA%97%E6%96%87%E5%B8%B6%E5%9C%98%E9%9A%8A%E5%8A%9B%E6%8C%BA%E5%90%B3%E5%93%81%E5%8F%A1%E9%81%B8%E5%98%89%E7%B8%A3%E9%95%B7-%E8%A6%81%E7%9C%9F%E6%AD%A3%E6%9B%BF%E5%98%89%E7%BE%A9%E7%B8%A3%E6%89%93%E9%96%8B-%E5%80%8B%E6%96%B0%E7%9A%84%E9%81%B8%E6%93%87-133208688.html",
+          "time": "2026-08-29 21:32:08",
           "publisher": "Yahoo新聞",
           "severity": null
         }
@@ -517,7 +517,7 @@
           "text": "@lushiowyen 可是大里有垃圾山",
           "author": "zh_90063",
           "url": "",
-          "time_text": "6天",
+          "time_text": "1 週",
           "signal": "red"
         },
         {
@@ -861,11 +861,11 @@
       "city": "台東",
       "place": "台東縣政府",
       "level": "yellow",
-      "news_count": 19,
+      "news_count": 17,
       "comment_count": 0,
-      "negativity_pct": 16,
+      "negativity_pct": 18,
       "is_urgent": false,
-      "urgency_score": 28,
+      "urgency_score": 26,
       "news_articles": [
         {
           "title": "南高屏、台東注意！明起雨勢變大「有強降雨機會」 氣象粉專急：做好防災",
@@ -985,20 +985,6 @@
           "time": "2026-08-29 19:40:26",
           "publisher": "壹電視",
           "severity": "yellow"
-        },
-        {
-          "title": "陳瑩謝謝盧秀燕肯定 將更努力競選台東縣長",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RZ2dpTThxQkx4amhCMFpEZW9OeXhiTXJXdDhMekp5S1NYdU93SGd1WWpiWUZTdWxiQVJUMy1LeGFpRV9PdHQ5TnlUXzljS1EyS3lnSUdB?oc=5",
-          "time": "2026-08-29 18:58:04",
-          "publisher": "Google News→藍雀新傳媒",
-          "severity": null
-        },
-        {
-          "title": "陳瑩謝謝盧秀燕肯定 將更努力競選台東縣長",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5URGF5NmRpVGJmQVVLNW83dHBYY25mSnRnSGVvS0NqSGx2MTJoMXEyc3FhTGpiRk1fWkFrbHZTdDhjOU56TlZyTUhkMGIwc0xQd0E?oc=5",
-          "time": "2026-08-29 18:58:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -1176,11 +1162,11 @@
       "city": "澎湖",
       "place": "澎湖縣政府",
       "level": "yellow",
-      "news_count": 25,
+      "news_count": 23,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 25,
+      "urgency_score": 23,
       "news_articles": [
         {
           "title": "澎湖縣長角逐爆炸 許明仁加入選戰",
@@ -1341,20 +1327,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13QU5WT1VvMXIyaF9qdXVWdDlwZ1l2b0piZ3BBU3RsRlpodHNaV0p6Q0lvMUgwY3pHTnRMUmlzbjB5eU1xaU9WckdIQUdWYzdoQk1XLXdR?oc=5",
           "time": "2026-08-29 19:23:17",
           "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "台北澎湖同鄉會理事長、精英電腦創辦人許明仁 傳有意投入澎湖縣長選戰",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5556641",
-          "time": "2026-08-29 18:58:41",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "台北澎湖同鄉會理事長、精英電腦創辦人許明仁傳有意投入澎湖縣長選戰- 政治",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvLXZfdmplV1ItSmV2VDRfSURfY0dWbVdvX3pKZHhJUHQ4Ym1zYmxpNnUxeG12bTFGZUdYczlCdVJyTWVicGZJcFllYThTb25hbE1qbmxGYUJUb3ZiazI1cTYtSkljOWNfV2c?oc=5",
-          "time": "2026-08-29 18:58:41",
-          "publisher": "自由時報",
           "severity": null
         }
       ],
@@ -1575,12 +1547,33 @@
       "city": "台中",
       "place": "台中市政府",
       "level": "yellow",
-      "news_count": 76,
+      "news_count": 77,
       "comment_count": 77,
       "negativity_pct": 0,
       "is_urgent": true,
-      "urgency_score": 251,
+      "urgency_score": 252,
       "news_articles": [
+        {
+          "title": "盧秀燕、江啟臣、黃國昌同場PK戰鬥陀螺！六都首創嘉年華 256名額5分鐘秒殺",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VbE02MEVVNVhyblJWZGRFOFlfcUZUUVo4eXJxTDBEWmZHajNaeVFyQmNnZHBQaDJ3Wl93NWdNR1hHSDA5VjNwWUZmdTRlZnpQajJONA?oc=5",
+          "time": "2026-08-30 18:46:03",
+          "publisher": "Google News→新頭條",
+          "severity": null
+        },
+        {
+          "title": "竹北藍白破局「一屍五命」？ 黃國昌、盧秀燕今手牽手同框｜#鏡新聞",
+          "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPMVFnZ295TEtYQloya3BnN3luOXdtX0tIM3N3RVdnYWZ6WFFUQURscW1oMlNDS2p4RmUwSXJsVWF0T0xDYVhkVnRoRkRES3hFN1lhYVJaLUYxSERoMGVnWXd3WXdNN29xUWhUM1hXWm1rMWQtcW92dFVSS29zSy1talhBZ2x5Q3pkRzdnejc4RWFvUllDYWFqX2hLZXd1RkpMalFtWk1tTVFLdDd6bmd3QWJaQ3dPRVdYaGkzaVVRZmtYYXp3WmlwbFlrZnBWakpfbi13b0pYRWpDTk55S1dzeUxkX0c4MExkNGUyUXhlYXJOQWViUmFFUi0zMWZ5Z1dzcjgwYndOQlQ4cVd0bnpHalA0dTZyRXBOUVdiOU5FbkFFeHgzalU5U3p0ZlRwOEhhQWU3eTdNNk9jMW5VRllMT1hLYWM2RWVGUlFpbXdQR2UyYWsyRWJZV3VQQjlSSW5Ob0RUdmFOSkxmbVJrTGhIakVIbm8wemN3?oc=5",
+          "time": "2026-08-30 18:45:23",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "戰力延伸到陀螺場！盧秀燕、江啟臣、黃國昌開戰尬戰鬥陀螺「他」勝出了",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XUHhaQXRwMFUtZjNhX0tKUXJQVnRPMHZ3c09IVlVpSm9vSUlXVVZJR1kzNWFPRk5pMUw4UmlaaTRqTEhvaEt3Y2V4T1hnTGlkdmNJTG1RcjdHTU13R3U2al8zbWJnd9IBa0FVX3lxTE9SSWxlaERYZ2lUMVh6elFzWmwwVF83MjlKdkxDbkhUYnBKR3pib0lJSG5QOTRud2lIRXAtZVVidU5rcUpEWi1WcGJwWDRxZlczTG8zekVwVmFBeTAzMGFJZ3A3dHJIWEZNTUZJ?oc=5",
+          "time": "2026-08-30 18:41:00",
+          "publisher": "Google News→鏡週刊Mirror Media",
+          "severity": null
+        },
         {
           "title": "竹北藍白破局「一屍五命」？ 黃國昌、盧秀燕今手牽手同框",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42N2xhWU9vQl8xYXlJYVY2elpndUtjbnRnaG4yeTYtbl9GTkpjbHh2cERsdDZtVk93QmdJMlp0T1dZNHFLUGp3MWlUcDB5bGxNRW9FMTAxR1LSAV5BVV95cUxNdDlZX09oZG1hUWhvSTVZTDZ0Q1laVjBqLTFZUndPaXN1NDZYbjJNOHZOS0pDdHdmOFdCZXRkUTh2UEFLUnFVQnREelUwOEJXaGhaYzdrOEZ5OFR3ZERB?oc=5",
@@ -2098,20 +2091,6 @@
           "time": "2026-08-29 21:12:40",
           "publisher": null,
           "severity": null
-        },
-        {
-          "title": "盧秀燕接手總統府「棄單」月餅網路投票結果一面倒- 政治",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxY3Y0cFN1NXV1M2l1V1kxckRCQUgzYkxLYUtGb09OZ2ZjenFVYmphTzAxZHFnMGxyZDRJMWN4WWotUEVfcElWa0pub3QzYVpMRlJJQjVMLXJwUkFrSlQySVNpR1Z1NDEzbkJ6aWdn?oc=5",
-          "time": "2026-08-29 18:58:57",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "《盧秀燕誣指總統府棄單月餅引撻伐》鄭照新搬AI稱「棄單中性」 綠議員查AI︰明明是貶義- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tYzFyZVNNNDBTVW9mckgtclh3dU40cHF6Y3o4TFVobXplVmwyak9DS054T0NBSmVtaEVOX284ckRaWDZsTl9mdmR6ZWstLVVIeEJEcU91cm16eEE?oc=5",
-          "time": "2026-08-29 18:58:57",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": [
@@ -3802,11 +3781,11 @@
       "city": "苗栗",
       "place": "苗栗縣政府",
       "level": "red",
-      "news_count": 46,
+      "news_count": 44,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 49,
+      "urgency_score": 47,
       "news_articles": [
         {
           "title": "蕭美琴力挺苗栗綠營青年後援會 盼團結改變地方 | 自由電子報",
@@ -4115,20 +4094,6 @@
           "time": "2026-08-29 19:14:27",
           "publisher": "中華日報",
           "severity": null
-        },
-        {
-          "title": "115年度苗栗縣體育會主委盃羽球錦標賽熱烈開打| 大紀元",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaQ0t6dHF6U0NVTk9nbHZjZm5iTmNibXpoUE9OQW5zbG16SlpDN25GQm1FeEE0c2hsSTJUYjBiOF8tXzBTVjR1TklZbklfWEt1Y3hNTU9vd19Ca1I5VUdwTw?oc=5",
-          "time": "2026-08-29 18:59:00",
-          "publisher": "Google News→大纪元",
-          "severity": null
-        },
-        {
-          "title": "115年度苗栗縣體育會主委盃羽球錦標賽 熱烈開打",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaQ0t6dHF6U0NVTk9nbHZjZm5iTmNibXpoUE9OQW5zbG16SlpDN25GQm1FeEE0c2hsSTJUYjBiOF8tXzBTVjR1TklZbklfWEt1Y3hNTU9vd19Ca1I5VUdwT9IBZkFVX3lxTE1sTUJyZGVqei1Vb0h5WEE1c0Q3d003eTNYdkU5T2FvRzdHV1VYYXloekI4RWpBT2RJeU4weTYxbG5weklPUVVXQ2tnSzJPZVJ3NnB2OFpPVUNVcEgtcDBid0lfZlJPUQ?oc=5",
-          "time": "2026-08-29 18:59:00",
-          "publisher": "Google News→大纪元",
-          "severity": null
         }
       ],
       "comments": []
@@ -4138,11 +4103,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 50,
+      "news_count": 49,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 59,
+      "urgency_score": 58,
       "news_articles": [
         {
           "title": "國民黨新北市長參選人李四川今在臉書分享與新北市長侯友宜一同前往蘆洲慈惠堂參拜的行程，並談及自己與蘆洲的深厚淵源。貼文發布後，侯友宜也親自在留言區力挺李四川，稱讚他「始終用心做事、真心待人」，並表示兩人將持續並肩努力，推動三蘆地區醫療與交通建設。",
@@ -4485,13 +4450,6 @@
           "url": "https://www.storm.mg/article/11160312",
           "time": "2026-08-29 19:35:00",
           "publisher": "風傳媒",
-          "severity": null
-        },
-        {
-          "title": "記者節餐敘首拋「當選」心聲！ 蘇巧慧：將打造「新北市大平台」與新聞人同行",
-          "url": "https://news.nextapple.com/politics/20260829/6C381AB158C0FDAC39A8ED863D65B042",
-          "time": "2026-08-29 19:00:25",
-          "publisher": "壹蘋新聞網",
           "severity": null
         }
       ],
@@ -4950,11 +4908,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 65,
+      "news_count": 63,
       "comment_count": 0,
-      "negativity_pct": 20,
+      "negativity_pct": 21,
       "is_urgent": false,
-      "urgency_score": 104,
+      "urgency_score": 102,
       "news_articles": [
         {
           "title": "外媒記者曝花蓮賄選嚴重 藍營：不該一竿子打翻",
@@ -5396,20 +5354,6 @@
           "time": "2026-08-29 19:10:00",
           "publisher": "Google News→原住民族文化事業基金會",
           "severity": "yellow"
-        },
-        {
-          "title": "張峻北濱體驗帆船 拋「水域經濟」打造花蓮海洋觀光新引擎",
-          "url": "https://tw.news.yahoo.com/%E5%BC%B5%E5%B3%BB%E5%8C%97%E6%BF%B1%E9%AB%94%E9%A9%97%E5%B8%86%E8%88%B9-%E6%8B%8B-%E6%B0%B4%E5%9F%9F%E7%B6%93%E6%BF%9F-%E6%89%93%E9%80%A0%E8%8A%B1%E8%93%AE%E6%B5%B7%E6%B4%8B%E8%A7%80%E5%85%89%E6%96%B0%E5%BC%95%E6%93%8E-105756357.html",
-          "time": "2026-08-29 18:57:56",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "張峻北濱體驗帆船 拋「水域經濟」打造花蓮海洋觀光新引擎 - 社會新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMndjZWpBdUkyTnBYRnhJbmlIYjdZMktpRE4xQmdCSGstNnVKSzd6cUh4ZF90TFUtSmxEdXJZTkZGMUNaUGdaWjRIVkdENXFDVkNkaGtDQjV3ZmtTRmVrT3JKbjVfRHNHM3RhcXBYY3FvRmtROHFQYXhSNHBFb2tWRTVtZ2g4YVlGckE?oc=5",
-          "time": "2026-08-29 18:57:56",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -5895,11 +5839,11 @@
       "city": "高雄",
       "place": "高雄市前鎮區",
       "level": "red",
-      "news_count": 101,
+      "news_count": 99,
       "comment_count": 0,
-      "negativity_pct": 11,
+      "negativity_pct": 10,
       "is_urgent": false,
-      "urgency_score": 134,
+      "urgency_score": 129,
       "news_articles": [
         {
           "title": "蔣萬安拿前鎮漁港反擊北市爭議 賴瑞隆下戰帖：不澄清就公開辯論",
@@ -6593,20 +6537,6 @@
           "time": "2026-08-29 19:16:22",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "蔡英文替「女童猥褻案」發聲 羅智強：2024高雄12受虐兒死亡，為何沒關心？",
-          "url": "https://tw.news.yahoo.com/%E8%94%A1%E8%8B%B1%E6%96%87%E6%9B%BF-%E5%A5%B3%E7%AB%A5%E7%8C%A5%E8%A4%BB%E6%A1%88-%E7%99%BC%E8%81%B2-%E7%BE%85%E6%99%BA%E5%BC%B7-2024%E9%AB%98%E9%9B%8412%E5%8F%97%E8%99%90%E5%85%92%E6%AD%BB%E4%BA%A1-110443026.html",
-          "time": "2026-08-29 19:04:43",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "高雄市政府勞工局舉辦石化廠高階主管座談",
-          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%B8%82%E6%94%BF%E5%BA%9C%E5%8B%9E%E5%B7%A5%E5%B1%80%E8%88%89%E8%BE%A6%E7%9F%B3%E5%8C%96%E5%BB%A0%E9%AB%98%E9%9A%8E%E4%B8%BB%E7%AE%A1%E5%BA%A7%E8%AB%87-105900738.html",
-          "time": "2026-08-29 18:59:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -6616,12 +6546,26 @@
       "city": "台中",
       "place": "台中市西屯區",
       "level": "red",
-      "news_count": 137,
+      "news_count": 136,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 152,
+      "urgency_score": 151,
       "news_articles": [
+        {
+          "title": "六都首創台中戰鬥陀螺嘉年華 盧秀燕與政壇要員同場對決",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51VTlkb1lzX1VnRGlBa2VQc2VYdUtsS0xhaFVLbjFLaVZaT0o2UUxUSHdlZ1RHSEVCZGVIRVFjSlh0bXBDSG50d2hwYU1YQnN5blE?oc=5",
+          "time": "2026-08-30 18:58:10",
+          "publisher": "Google News→中華新聞雲／中華日報",
+          "severity": null
+        },
+        {
+          "title": "六都首創台中戰鬥陀螺嘉年華 盧秀燕與政壇要員同場對決",
+          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQcmltRjRNNHpUYW9mMUxKaF9UTmN6LUlkZE13Y2lNLWlpS1BYU1NVUzlVNTd3bWZ1djRxbnlsS1NOeEQwLW5rcHd4dzlZbU1lRUlZMzdGVGFzazY3U1FpOFA4aTl1NG04NFFBUDhrck5kQkd6RDRqbEZhXzVRRUVLeFVfTGkyYUlmSUFhV2NzaWRrUnFuMlJ1V3BwN20yQXZKaTYtV3dJYkJ6dUhGdHFwZngzM2N0aHI1cWh1ckdmN3h3bkdtRmhJaW1qV2NRd2NVbVRMNkItOHFkcXRfYllYcmg2ay1pa2ExYWZsTTY1TlZ5dkY1M293ZzMwZzVCd2psVXBMLXZWcjdkc0d1T05KOGdUaTRvTms1Z0xJOWxaM00zdHI4N0xZazNaMXpRbjB1VWNNaGFmS3dmbzFqVEg5aVBpN3Y3Q1RUX2lQUUhORGZvYVlkMzZQYlVTcS1ta3EyWHRzeHV1RzM0aWhvczVhdXFDeWZvZzJGUEFFT2lkSVA?oc=5",
+          "time": "2026-08-30 18:43:48",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
         {
           "title": "台中市彰化同鄉會理事長就職 盧市長：持續推動中台灣共同生活圈共榮",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50cWVSc0tKWlJ4dEFNY2VraVBoVENUTDhia2RRTTJJVGphYjlST25qeHFiRFdHY19GaEdITkhiQW9jTE8ySEItSlZHVFNvdU9VcVVVRUNseXFpVzNFS01odUtJWWhDT01H?oc=5",
@@ -7559,27 +7503,6 @@
           "time": "2026-08-29 19:10:38",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "下週開學了 台中「跳蛙公車」8/31起恢復通學班表",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5556657",
-          "time": "2026-08-29 19:07:26",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "陳瑩謝謝盧秀燕肯定 將更努力競選台東縣長",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RZ2dpTThxQkx4amhCMFpEZW9OeXhiTXJXdDhMekp5S1NYdU93SGd1WWpiWUZTdWxiQVJUMy1LeGFpRV9PdHQ5TnlUXzljS1EyS3lnSUdB?oc=5",
-          "time": "2026-08-29 18:58:04",
-          "publisher": "Google News→藍雀新傳媒",
-          "severity": null
-        },
-        {
-          "title": "陳瑩謝謝盧秀燕肯定 將更努力競選台東縣長",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5URGF5NmRpVGJmQVVLNW83dHBYY25mSnRnSGVvS0NqSGx2MTJoMXEyc3FhTGpiRk1fWkFrbHZTdDhjOU56TlZyTUhkMGIwc0xQd0E?oc=5",
-          "time": "2026-08-29 18:58:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -7589,11 +7512,11 @@
       "city": "台北",
       "place": "台北市信義區",
       "level": "red",
-      "news_count": 197,
+      "news_count": 191,
       "comment_count": 0,
       "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 239,
+      "urgency_score": 233,
       "news_articles": [
         {
           "title": "蔣萬安拿前鎮漁港反擊北市爭議 賴瑞隆下戰帖：不澄清就公開辯論",
@@ -8930,48 +8853,6 @@
           "url": "https://tw.news.yahoo.com/%E8%B5%B0%E5%87%BA%E5%8F%B0%E5%8C%97%E9%A6%96%E5%BA%A6%E7%A7%BB%E5%B8%AB%E5%8F%B0%E4%B8%AD-2026%E6%B3%B0%E5%9C%8B%E6%96%87%E5%8C%96%E7%AF%80%E7%9B%9B%E5%A4%A7%E9%96%8B%E5%B9%95-%E5%8F%B0%E6%B3%B0%E4%BA%A4%E6%B5%81%E5%86%8D%E5%8D%87%E6%BA%AB-111348550.html",
           "time": "2026-08-29 19:13:48",
           "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "2026台北國際美食節漢堡嘉年華 邀您免出國即可吃遍世界漢堡",
-          "url": "https://tw.news.yahoo.com/2026%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E7%BE%8E%E9%A3%9F%E7%AF%80%E6%BC%A2%E5%A0%A1%E5%98%89%E5%B9%B4%E8%8F%AF-%E9%82%80%E6%82%A8%E5%85%8D%E5%87%BA%E5%9C%8B%E5%8D%B3%E5%8F%AF%E5%90%83%E9%81%8D%E4%B8%96%E7%95%8C%E6%BC%A2%E5%A0%A1-110913247.html",
-          "time": "2026-08-29 19:09:13",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "審計部揭北市兒少保護「303件調查逾期」 社會局：均依相關規定、程序辦理",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5556647",
-          "time": "2026-08-29 19:06:16",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "審計部揭北市兒少保護「303件調查逾期」 社會局：均依相關規定、程序辦理",
-          "url": "https://tw.news.yahoo.com/%E5%AF%A9%E8%A8%88%E9%83%A8%E6%8F%AD%E5%8C%97%E5%B8%82%E5%85%92%E5%B0%91%E4%BF%9D%E8%AD%B7-303%E4%BB%B6%E8%AA%BF%E6%9F%A5%E9%80%BE%E6%9C%9F-%E7%A4%BE%E6%9C%83%E5%B1%80-%E5%9D%87%E4%BE%9D%E7%9B%B8%E9%97%9C%E8%A6%8F%E5%AE%9A-%E7%A8%8B%E5%BA%8F%E8%BE%A6%E7%90%86-110616763.html",
-          "time": "2026-08-29 19:06:16",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "記者節餐敘首拋「當選」心聲！ 蘇巧慧：將打造「新北市大平台」與新聞人同行",
-          "url": "https://news.nextapple.com/politics/20260829/6C381AB158C0FDAC39A8ED863D65B042",
-          "time": "2026-08-29 19:00:25",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "台北澎湖同鄉會理事長、精英電腦創辦人許明仁 傳有意投入澎湖縣長選戰",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5556641",
-          "time": "2026-08-29 18:58:41",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "台北澎湖同鄉會理事長、精英電腦創辦人許明仁傳有意投入澎湖縣長選戰- 政治",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvLXZfdmplV1ItSmV2VDRfSURfY0dWbVdvX3pKZHhJUHQ4Ym1zYmxpNnUxeG12bTFGZUdYczlCdVJyTWVicGZJcFllYThTb25hbE1qbmxGYUJUb3ZiazI1cTYtSkljOWNfV2c?oc=5",
-          "time": "2026-08-29 18:58:41",
-          "publisher": "自由時報",
           "severity": null
         }
       ],
