@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "snapshot_at": "2026-08-30T01:27:26.613508+00:00",
+  "snapshot_at": "2026-08-30T01:37:43.060653+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -46,27 +46,6 @@
       "comments": []
     },
     {
-      "title": "台中車禍事件",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "台中嚴重車禍！2車對撞車頭慘撞爛 2人受傷送醫",
-          "url": "https://news.ebc.net.tw/news/society/568791",
-          "time": "2026-08-29 20:53:00",
-          "publisher": "東森新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "新北車禍事件",
       "city": "新北",
       "place": "新北市政府",
@@ -81,6 +60,27 @@
           "title": "林口台15線貨車撞進小吃店！駕駛疑疲勞駕駛釀禍 車禍畫面曝光",
           "url": "https://news.ebc.net.tw/news/society/568704",
           "time": "2026-08-29 11:50:00",
+          "publisher": "東森新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台中車禍事件",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "台中嚴重車禍！2車對撞車頭慘撞爛 2人受傷送醫",
+          "url": "https://news.ebc.net.tw/news/society/568791",
+          "time": "2026-08-29 20:53:00",
           "publisher": "東森新聞",
           "severity": "yellow"
         }
@@ -109,27 +109,6 @@
       "comments": []
     },
     {
-      "title": "台中陳情/抗議",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "民眾高檔餐廳餐後不適3天後投訴 中市食安處列高風險續追蹤",
-          "url": "https://tw.news.yahoo.com/%E6%B0%91%E7%9C%BE%E9%AB%98%E6%AA%94%E9%A4%90%E5%BB%B3%E9%A4%90%E5%BE%8C%E4%B8%8D%E9%81%A93%E5%A4%A9%E5%BE%8C%E6%8A%95%E8%A8%B4-%E4%B8%AD%E5%B8%82%E9%A3%9F%E5%AE%89%E8%99%95%E5%88%97%E9%AB%98%E9%A2%A8%E9%9A%AA%E7%BA%8C%E8%BF%BD%E8%B9%A4-104641472.html",
-          "time": "2026-08-29 18:46:41",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台南陳情/抗議",
       "city": "台南",
       "place": "台南市政府",
@@ -145,6 +124,27 @@
           "url": "https://www.youtube.com/watch?v=7hSwIag8imE",
           "time": "2026-08-29 17:00:24",
           "publisher": null,
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台中陳情/抗議",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "民眾高檔餐廳餐後不適3天後投訴 中市食安處列高風險續追蹤",
+          "url": "https://tw.news.yahoo.com/%E6%B0%91%E7%9C%BE%E9%AB%98%E6%AA%94%E9%A4%90%E5%BB%B3%E9%A4%90%E5%BE%8C%E4%B8%8D%E9%81%A93%E5%A4%A9%E5%BE%8C%E6%8A%95%E8%A8%B4-%E4%B8%AD%E5%B8%82%E9%A3%9F%E5%AE%89%E8%99%95%E5%88%97%E9%AB%98%E9%A2%A8%E9%9A%AA%E7%BA%8C%E8%BF%BD%E8%B9%A4-104641472.html",
+          "time": "2026-08-29 18:46:41",
+          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -600,27 +600,6 @@
       "comments": []
     },
     {
-      "title": "苗栗弊案爭議",
-      "city": "苗栗",
-      "place": "苗栗縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "苗栗板模工賣8公克安毒遭逮 房內再搜出54.86公克 被判刑5年4月",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5556615",
-          "time": "2026-08-29 18:36:40",
-          "publisher": "自由時報",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台東弊案爭議",
       "city": "台東",
       "place": "台東縣政府",
@@ -636,6 +615,27 @@
           "url": "https://tw.news.yahoo.com/%E5%8F%B0%E6%9D%B1%E5%85%AC%E5%8B%99%E5%93%A1%E5%81%A5%E8%BA%AB%E6%88%BF%E5%81%B7%E6%8B%8D-%E8%A2%AB%E6%8A%93%E5%8C%85%E9%81%AD%E5%A4%9A%E5%90%8D%E5%A3%AF%E6%BC%A2%E6%86%A4%E6%80%92%E5%8C%85%E5%9C%8D-%E4%BB%96%E6%85%98%E5%90%9E2%E5%A4%A7%E9%81%8E%E5%8F%88%E5%88%A4%E5%88%91-055700014.html",
           "time": "2026-08-29 13:57:00",
           "publisher": "Yahoo新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "苗栗弊案爭議",
+      "city": "苗栗",
+      "place": "苗栗縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "苗栗板模工賣8公克安毒遭逮 房內再搜出54.86公克 被判刑5年4月",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5556615",
+          "time": "2026-08-29 18:36:40",
+          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -801,111 +801,6 @@
       ]
     },
     {
-      "title": "雲林地方動態",
-      "city": "雲林",
-      "place": "雲林縣政府",
-      "level": "yellow",
-      "news_count": 13,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 13,
-      "news_articles": [
-        {
-          "title": "雲林線上徵才專區 一站式平台更便民",
-          "url": "https://news.ltn.com.tw/news/Yunlin/paper/1768637",
-          "time": "2026-08-30 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "雲林 張嘉郡力推高齡友善藥局 劉建國拚打造照護安全網",
-          "url": "https://tw.news.yahoo.com/%E9%9B%B2%E6%9E%97-%E5%BC%B5%E5%98%89%E9%83%A1%E5%8A%9B%E6%8E%A8%E9%AB%98%E9%BD%A1%E5%8F%8B%E5%96%84%E8%97%A5%E5%B1%80-%E5%8A%89%E5%BB%BA%E5%9C%8B%E6%8B%9A%E6%89%93%E9%80%A0%E7%85%A7%E8%AD%B7%E5%AE%89%E5%85%A8%E7%B6%B2-201000044.html",
-          "time": "2026-08-29 20:10:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "唐美雲歌仔戲團龍鳳情緣 雲林登場",
-          "url": "https://taiwanreports.com/archives/1009470",
-          "time": "2026-08-29 18:18:08",
-          "publisher": "臺灣導報",
-          "severity": null
-        },
-        {
-          "title": "雲林銀髮職人走秀展自信 懷舊風華秀出精彩人生",
-          "url": "https://more-news.tw/706473/",
-          "time": "2026-08-29 17:42:02",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "雲林林內五金倉庫大火 上千軸承慘燒毀損失百萬",
-          "url": "https://tw.news.yahoo.com/%E9%9B%B2%E6%9E%97%E6%9E%97%E5%85%A7%E4%BA%94%E9%87%91%E5%80%89%E5%BA%AB%E5%A4%A7%E7%81%AB-%E4%B8%8A%E5%8D%83%E8%BB%B8%E6%89%BF%E6%85%98%E7%87%92%E6%AF%80%E6%90%8D%E5%A4%B1%E7%99%BE%E8%90%AC-091944250.html",
-          "time": "2026-08-29 17:40:08",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "雲林銀髮職人時尚秀 展現跨世代熱情與風采",
-          "url": "https://www.thehubnews.net/archives/659654",
-          "time": "2026-08-29 17:26:30",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "雲林長照需求增 張嘉郡拋「高齡友善藥局」政策",
-          "url": "https://news.nextapple.com/politics/20260829/047E2E306308C686DC0F34B5AE352EFF",
-          "time": "2026-08-29 17:16:00",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "缺工荒！ 雲林線上徵才一次釋出1.5萬職缺",
-          "url": "https://news.ltn.com.tw/news/Yunlin/breakingnews/5556407",
-          "time": "2026-08-29 14:33:49",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "雲林大埤鄉長「三腳督」成形 政治素人謝憲昇披藍營戰袍",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5556295",
-          "time": "2026-08-29 13:00:29",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "白髮不是退場令！雲林近40銀髮職人霸氣走出人生新高峰",
-          "url": "https://n.yam.com/Article/20260829100678",
-          "time": "2026-08-29 12:00:00",
-          "publisher": "蕃新聞→互傳媒",
-          "severity": null
-        },
-        {
-          "title": "尋找青春的第101種答案 雲林青少年劇場夏令營落幕",
-          "url": "https://n.yam.com/Article/20260829343744",
-          "time": "2026-08-29 12:00:00",
-          "publisher": "蕃新聞→互傳媒",
-          "severity": null
-        },
-        {
-          "title": "因應雲林人口高齡化 張嘉郡推「高齡友善藥局」、擴大敬老卡使用範圍",
-          "url": "https://tw.news.yahoo.com/%E5%9B%A0%E6%87%89%E9%9B%B2%E6%9E%97%E4%BA%BA%E5%8F%A3%E9%AB%98%E9%BD%A1%E5%8C%96-%E5%BC%B5%E5%98%89%E9%83%A1%E6%8E%A8-%E9%AB%98%E9%BD%A1%E5%8F%8B%E5%96%84%E8%97%A5%E5%B1%80-%E6%93%B4%E5%A4%A7%E6%95%AC%E8%80%81%E5%8D%A1%E4%BD%BF%E7%94%A8%E7%AF%84%E5%9C%8D-103116821.html",
-          "time": "2026-08-29 10:31:16",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "經典再戰雲林舞台！唐美雲《龍鳳情緣》唱響自由與真愛",
-          "url": "https://tw.news.yahoo.com/%E7%B6%93%E5%85%B8%E5%86%8D%E6%88%B0%E9%9B%B2%E6%9E%97%E8%88%9E%E5%8F%B0-%E5%94%90%E7%BE%8E%E9%9B%B2-%E9%BE%8D%E9%B3%B3%E6%83%85%E7%B7%A3-%E5%94%B1%E9%9F%BF%E8%87%AA%E7%94%B1%E8%88%87%E7%9C%9F%E6%84%9B-021013581.html",
-          "time": "2026-08-29 10:10:13",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "基隆地方動態",
       "city": "基隆",
       "place": "基隆市政府",
@@ -1006,6 +901,111 @@
           "time": "2026-08-29 11:30:04",
           "publisher": "自由時報",
           "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "雲林地方動態",
+      "city": "雲林",
+      "place": "雲林縣政府",
+      "level": "yellow",
+      "news_count": 13,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 13,
+      "news_articles": [
+        {
+          "title": "雲林線上徵才專區 一站式平台更便民",
+          "url": "https://news.ltn.com.tw/news/Yunlin/paper/1768637",
+          "time": "2026-08-30 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "雲林 張嘉郡力推高齡友善藥局 劉建國拚打造照護安全網",
+          "url": "https://tw.news.yahoo.com/%E9%9B%B2%E6%9E%97-%E5%BC%B5%E5%98%89%E9%83%A1%E5%8A%9B%E6%8E%A8%E9%AB%98%E9%BD%A1%E5%8F%8B%E5%96%84%E8%97%A5%E5%B1%80-%E5%8A%89%E5%BB%BA%E5%9C%8B%E6%8B%9A%E6%89%93%E9%80%A0%E7%85%A7%E8%AD%B7%E5%AE%89%E5%85%A8%E7%B6%B2-201000044.html",
+          "time": "2026-08-29 20:10:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "唐美雲歌仔戲團龍鳳情緣 雲林登場",
+          "url": "https://taiwanreports.com/archives/1009470",
+          "time": "2026-08-29 18:18:08",
+          "publisher": "臺灣導報",
+          "severity": null
+        },
+        {
+          "title": "雲林銀髮職人走秀展自信 懷舊風華秀出精彩人生",
+          "url": "https://more-news.tw/706473/",
+          "time": "2026-08-29 17:42:02",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "雲林林內五金倉庫大火 上千軸承慘燒毀損失百萬",
+          "url": "https://tw.news.yahoo.com/%E9%9B%B2%E6%9E%97%E6%9E%97%E5%85%A7%E4%BA%94%E9%87%91%E5%80%89%E5%BA%AB%E5%A4%A7%E7%81%AB-%E4%B8%8A%E5%8D%83%E8%BB%B8%E6%89%BF%E6%85%98%E7%87%92%E6%AF%80%E6%90%8D%E5%A4%B1%E7%99%BE%E8%90%AC-091944250.html",
+          "time": "2026-08-29 17:40:08",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "雲林銀髮職人時尚秀 展現跨世代熱情與風采",
+          "url": "https://www.thehubnews.net/archives/659654",
+          "time": "2026-08-29 17:26:30",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "雲林長照需求增 張嘉郡拋「高齡友善藥局」政策",
+          "url": "https://news.nextapple.com/politics/20260829/047E2E306308C686DC0F34B5AE352EFF",
+          "time": "2026-08-29 17:16:00",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "缺工荒！ 雲林線上徵才一次釋出1.5萬職缺",
+          "url": "https://news.ltn.com.tw/news/Yunlin/breakingnews/5556407",
+          "time": "2026-08-29 14:33:49",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "雲林大埤鄉長「三腳督」成形 政治素人謝憲昇披藍營戰袍",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5556295",
+          "time": "2026-08-29 13:00:29",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "白髮不是退場令！雲林近40銀髮職人霸氣走出人生新高峰",
+          "url": "https://n.yam.com/Article/20260829100678",
+          "time": "2026-08-29 12:00:00",
+          "publisher": "蕃新聞→互傳媒",
+          "severity": null
+        },
+        {
+          "title": "尋找青春的第101種答案 雲林青少年劇場夏令營落幕",
+          "url": "https://n.yam.com/Article/20260829343744",
+          "time": "2026-08-29 12:00:00",
+          "publisher": "蕃新聞→互傳媒",
+          "severity": null
+        },
+        {
+          "title": "因應雲林人口高齡化 張嘉郡推「高齡友善藥局」、擴大敬老卡使用範圍",
+          "url": "https://tw.news.yahoo.com/%E5%9B%A0%E6%87%89%E9%9B%B2%E6%9E%97%E4%BA%BA%E5%8F%A3%E9%AB%98%E9%BD%A1%E5%8C%96-%E5%BC%B5%E5%98%89%E9%83%A1%E6%8E%A8-%E9%AB%98%E9%BD%A1%E5%8F%8B%E5%96%84%E8%97%A5%E5%B1%80-%E6%93%B4%E5%A4%A7%E6%95%AC%E8%80%81%E5%8D%A1%E4%BD%BF%E7%94%A8%E7%AF%84%E5%9C%8D-103116821.html",
+          "time": "2026-08-29 10:31:16",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "經典再戰雲林舞台！唐美雲《龍鳳情緣》唱響自由與真愛",
+          "url": "https://tw.news.yahoo.com/%E7%B6%93%E5%85%B8%E5%86%8D%E6%88%B0%E9%9B%B2%E6%9E%97%E8%88%9E%E5%8F%B0-%E5%94%90%E7%BE%8E%E9%9B%B2-%E9%BE%8D%E9%B3%B3%E6%83%85%E7%B7%A3-%E5%94%B1%E9%9F%BF%E8%87%AA%E7%94%B1%E8%88%87%E7%9C%9F%E6%84%9B-021013581.html",
+          "time": "2026-08-29 10:10:13",
+          "publisher": "Yahoo新聞",
+          "severity": null
         }
       ],
       "comments": []
@@ -2660,11 +2660,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "yellow",
-      "news_count": 66,
+      "news_count": 65,
       "comment_count": 0,
       "negativity_pct": 8,
       "is_urgent": false,
-      "urgency_score": 81,
+      "urgency_score": 80,
       "news_articles": [
         {
           "title": "白天不怕曬、晚上安心玩 夏末來新北特色公園陪孩子放電",
@@ -3120,13 +3120,6 @@
           "time": "2026-08-29 09:52:00",
           "publisher": "TVBS",
           "severity": "yellow"
-        },
-        {
-          "title": "新北「鮮奶幸福週」開學起擴大至國中 轉入新北學生領學生證後可補領",
-          "url": "https://news.ltn.com.tw/news/NewTaipei/breakingnews/5556124",
-          "time": "2026-08-29 09:32:16",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []
@@ -7223,11 +7216,11 @@
       "city": "高雄",
       "place": "高雄市鳳山區",
       "level": "red",
-      "news_count": 158,
+      "news_count": 156,
       "comment_count": 0,
       "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 191,
+      "urgency_score": 189,
       "news_articles": [
         {
           "title": "蔣萬安與國民黨開始「事事扯高雄」？因為一切只在肖想2028",
@@ -8320,20 +8313,6 @@
           "time": "2026-08-29 09:42:55",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "高雄市都計農業區通盤檢討 5場座談收集地方意見",
-          "url": "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5556126",
-          "time": "2026-08-29 09:30:27",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "街頭暴打擄走前女友 高雄男押摩鐵綑綁凌虐遭重判",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5556129",
-          "time": "2026-08-29 09:27:36",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -8343,11 +8322,11 @@
       "city": "台中",
       "place": "台中市霧峰區",
       "level": "red",
-      "news_count": 172,
+      "news_count": 168,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 199,
+      "urgency_score": 195,
       "news_articles": [
         {
           "title": "中市推動高中職智慧教室升級 互動式顯示設備導入AI教學情境",
@@ -9524,34 +9503,6 @@
           "time": "2026-08-29 09:43:00",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "台中市的愛送抵熊本！盧秀燕出手捐10萬美元助災後重建 讓熊本縣知事「銘感五內」",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DRzUxLTgtancyVGNwcTU2RmFySjZCdnhUakxzaVl0WXpMR1BtV0ZqQThKNnN2Yllmb1h0b1dPa2pLaUtIaXpxZWNCdw?oc=5",
-          "time": "2026-08-29 09:37:00",
-          "publisher": "Google News→FTNN 新聞",
-          "severity": null
-        },
-        {
-          "title": "《政治》府認棄單並謝盧 中市肯定 蔣盼勿政治操作弱勢議題",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVdFYlRRa3I0dTVRVlJTZFJXV1BjYVEtQ2wtSk1US1VNRVJMaUV4M08yMVRnRWwtMHV1WFZjYlRwcDNhaVNaTnNoTVFDRHNCOGxBUTBNemRVbjJWWmVleDNQMVp5azdpYVZ3aW1nSnNJTDV5UjJ1dTRJNzdabDFiMFRMWC03WW1K?oc=5",
-          "time": "2026-08-29 09:32:00",
-          "publisher": "Google News→富聯網",
-          "severity": "yellow"
-        },
-        {
-          "title": "《政治》府認棄單並謝盧 中市肯定 蔣盼勿政治操作弱勢議題",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRmFUbE1FTVpEcTJZU3ZhVTlseHo4ZVBqVThKN0xWd3EyMFV0NWY0Z1hWUFdJb3pZWjhneHYyaWNrV3U3U3hTdkVNa3dMcVlld3FaQUdJb2Z5X0lyUUtIU2VIdUN1V1NIcFRMSHduVDg2MElSTXlURm1VR045OVcxdERoVVhzQzlw?oc=5",
-          "time": "2026-08-29 09:32:00",
-          "publisher": "Google News→富聯網",
-          "severity": "yellow"
-        },
-        {
-          "title": "《政治》府認棄單並謝盧 中市肯定 蔣盼勿政治操作弱勢議題",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQlNLVzloSUFlTU41bDk4NUdXWmFacHhBYVBxWTVNdjZTazNUNnczRC1pb1hiLUkwbTF1SzJLTDVDSjRxOU9rZ3RXazlsN2gtMzlEc0t6N096UkdtXzF5NTF4eTBBVmN5bjFiNldQcTZqWUkydTdYYmlXdl9TR1RmcTFNV0NDVUZf?oc=5",
-          "time": "2026-08-29 09:32:00",
-          "publisher": "Google News→富聯網",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -9570,6 +9521,13 @@
         {
           "title": "❤️拆蔣萬安「監獄風吸煙區」❤️「問A拆A」台北人金錢可以被浪費嗎？❤️",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yODAydXVSdGhFNTFVNGZ4V1MtUUlwNnJ6Q2hBRnl5azNiajJzNG9EanhzczkxUUJ2dzZwaHM1RUFYVFZXMjZJaXdaYnQ4YlZwSTZ2M0VYb1g4UDVpeW04RldDcmFnWUk?oc=5",
+          "time": "2026-08-30 09:18:52",
+          "publisher": "Google News→mobile01.com",
+          "severity": null
+        },
+        {
+          "title": "❤️拆蔣萬安「監獄風吸煙區」❤️「問A拆A」台北人金錢可以被浪費嗎？❤️",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5teV9SSl9kdlNyb0hGakFXNGJXTFlGTlk4eGZmSXVBMk9ockNuaDY1WVNyeklOT0tQUHpiTjhTUjFyQkw1RzFUYUdrRXI4TXBEbmVLellUSkpKM182Y0o0eDVkU1Z3NS1QcGxkWA?oc=5",
           "time": "2026-08-30 09:18:52",
           "publisher": "Google News→mobile01.com",
           "severity": null
@@ -11055,13 +11013,6 @@
           "title": "蔣萬安質詢扯高雄 他諷：不是要選議員",
           "url": "https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E8%B3%AA%E8%A9%A2%E6%89%AF%E9%AB%98%E9%9B%84-%E4%BB%96%E8%AB%B7-%E4%B8%8D%E6%98%AF%E8%A6%81%E9%81%B8%E8%AD%B0%E5%93%A1-094255489.html",
           "time": "2026-08-29 09:42:55",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "B國網軍入侵A市？北市府臉書湧入大量印尼文留言 四叉貓一句虧爆",
-          "url": "https://tw.news.yahoo.com/b%E5%9C%8B%E7%B6%B2%E8%BB%8D%E5%85%A5%E4%BE%B5a%E5%B8%82-%E5%8C%97%E5%B8%82%E5%BA%9C%E8%87%89%E6%9B%B8%E6%B9%A7%E5%85%A5%E5%A4%A7%E9%87%8F%E5%8D%B0%E5%B0%BC%E6%96%87%E7%95%99%E8%A8%80-%E5%9B%9B%E5%8F%89%E8%B2%93-%E5%8F%A5%E8%99%A7%E7%88%86-093614303.html",
-          "time": "2026-08-29 09:36:14",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
