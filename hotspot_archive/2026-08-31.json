@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "snapshot_at": "2026-08-31T10:09:46.885675+00:00",
+  "snapshot_at": "2026-08-31T10:19:51.649572+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -281,14 +281,6 @@
         },
         {
           "platform": "threads",
-          "text": "2026-8-23 願望就是不要有廚餘坑、不要有垃圾山…不要給國民黨再殘害台中了",
-          "author": "liyunghung",
-          "url": "",
-          "time_text": "2026-8-23",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
           "text": "2026-8-23 怎麼沒有參觀廚餘谷？",
           "author": "dtses",
           "url": "",
@@ -297,8 +289,8 @@
         },
         {
           "platform": "threads",
-          "text": "2026-8-23 搭熱氣球升空看得到妳留下來的垃圾山廚餘湖了嗎",
-          "author": "han_cube",
+          "text": "2026-8-23 願望就是不要有廚餘坑、不要有垃圾山…不要給國民黨再殘害台中了",
+          "author": "liyunghung",
           "url": "",
           "time_text": "2026-8-23",
           "signal": "red"
@@ -313,19 +305,27 @@
         },
         {
           "platform": "threads",
-          "text": "2026-8-24 可以不要整天出現妳的廚餘臉嗎？",
-          "author": "bimmer.e34_jason",
-          "url": "",
-          "time_text": "2026-8-24",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
           "text": "2026-8-23 市民的願望盧秀燕沒在乎 廚餘毒豬肉毒油盧沒要驗 她只想蹭明星願望賺曝光",
           "author": "_malcolm_mclean",
           "url": "",
           "time_text": "2026-8-23",
           "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "2026-8-23 搭熱氣球升空看得到妳留下來的垃圾山廚餘湖了嗎",
+          "author": "han_cube",
+          "url": "",
+          "time_text": "2026-8-23",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "2026-8-24 可以不要整天出現妳的廚餘臉嗎？",
+          "author": "bimmer.e34_jason",
+          "url": "",
+          "time_text": "2026-8-24",
+          "signal": "red"
         }
       ]
     },
@@ -414,16 +414,16 @@
         },
         {
           "platform": "threads",
-          "text": "2026-8-23 搭熱氣球升空看得到妳留下來的垃圾山廚餘湖了嗎",
-          "author": "han_cube",
+          "text": "2026-8-23 妳除了會鍋烤節 購物節，熱氣球嘉年華活動，妳還會什麼？賣地？ 從非洲豬瘟事件，到廚餘與垃圾山爭議，再到萬里床城，中聯油脂食安風爆，有向市民道歉嗎？ 整個市府團隊從頭到尾爛到不行.噁爛到爆！",
+          "author": "su_010912",
           "url": "",
           "time_text": "2026-8-23",
           "signal": "red"
         },
         {
           "platform": "threads",
-          "text": "2026-8-23 妳除了會鍋烤節 購物節，熱氣球嘉年華活動，妳還會什麼？賣地？ 從非洲豬瘟事件，到廚餘與垃圾山爭議，再到萬里床城，中聯油脂食安風爆，有向市民道歉嗎？ 整個市府團隊從頭到尾爛到不行.噁爛到爆！",
-          "author": "su_010912",
+          "text": "2026-8-23 搭熱氣球升空看得到妳留下來的垃圾山廚餘湖了嗎",
+          "author": "han_cube",
           "url": "",
           "time_text": "2026-8-23",
           "signal": "red"
@@ -2661,11 +2661,11 @@
       "city": "台中",
       "place": "台中市政府",
       "level": "yellow",
-      "news_count": 86,
+      "news_count": 87,
       "comment_count": 79,
       "negativity_pct": 1,
       "is_urgent": true,
-      "urgency_score": 266,
+      "urgency_score": 267,
       "news_articles": [
         {
           "title": "盧秀燕感謝韓傅 助攻無人機神山",
@@ -2896,6 +2896,13 @@
           "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxNOWNnT1ZHRE1jczN3dzNjaGZ2bUxmSkY3WVZzNXpRWVFaSFo3bE45NHB3OGRPX3R3TzhqSkZyMkRrdVZLUzRkdklybEloNUp3dHdEVy1TUmJTdUFRckV1T2xGRG82S2p4SEQwZXlRbUQ1RUxGeXNWVkJoQ1VDcDhhQ3NEaW14aWFsZFE1SGFHN3ZPRTduUG9fSWpmYVdFTUZfd0hrdUM2cDd6ZlVwYkJGMGNfc0Fta3ZVZW5Jb1dlRy1FazVsSlRrbWxMbDI2NkhySDVlc0V1WHVqQnlfNUFCb2JzWTdLamNia1luSDBycUtNZ2xWSkpEOVFqSXdfZTVKVGJQN3dQWVZlWU9fWHIyMm9abGtNYUN4N21tdzN2NEE5WC1jLW45dEZKVVBWNVRKRVo2VVZobXFiWXpVbnFyZk5ZOXZfQUZNR2FhN2lsdHBMbEY4MVdVRGdLYXl6M3lyRjBaYm05ZWg3SzltOU9ycVU5ZVdNU3RFaUxoNGZ5V0swbW9wRHp3SG0xVUo4QmlpWFQ4cDBFQ1liNmtJeW9fMmtiYXhlVm5lU2tHS1VrNkdwcDAwLVZGcExFR08yZVpxckFZaTJrZUF1d2l0NzhBdFZxX0Z4akkzcGMyZ2JrazNJWFFyR0Z0NEx0cWY2THR6c1VDSlZJRjhHcTVNcW1pei1EMnJWdGVFRnc?oc=5",
           "time": "2026-08-31 12:12:04",
           "publisher": "Google News→facebook.com",
+          "severity": null
+        },
+        {
+          "title": "卸任後訪陸？盧秀燕派兩親信先試水溫",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qNjNfbkI1b1dFMGxxakpIRDF3clFuVHlRMmFVbWoydVB5V2g2UFdXbmZ2bUdjaHVRRVp0VUktRy1BLVlrQm5MbnBOUE1hTGNncE1wNExLMWNncFNxRzRxYmt5ZktLRXM?oc=5",
+          "time": "2026-08-31 12:09:31",
+          "publisher": "Google News→中國評論新聞",
           "severity": null
         },
         {
@@ -3441,42 +3448,10 @@
         },
         {
           "platform": "threads",
-          "text": "2026-8-23 利用明星也不會增加台中人對國民黨的好感啊！尤其也不會增加盧秀燕的好感！鬼媽媽永遠是鬼媽媽！",
-          "author": "phoebe_hsaio",
-          "url": "",
-          "time_text": "2026-8-23",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "2026-8-23 為什麼影片裡有盧秀燕？ 為什麼影片裡有盧秀燕？ 為什麼影片裡有盧秀燕？ 滾開啦 我們要看多慧",
-          "author": "karoteglathe",
-          "url": "",
-          "time_text": "2026-8-23",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "2026-8-23 幹嘛要罵李多慧，有問題的是盧秀燕。",
-          "author": "mmhappyhaha",
-          "url": "",
-          "time_text": "2026-8-23",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
           "text": "盧秀燕，厚顏無恥",
           "author": "nowitzki818",
           "url": "",
           "time_text": "3天",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "人不要臉天下無敵： 翁曉玲刪國務機要費衝擊庇護工場，同黨的盧秀燕竟稱「總統府棄單」，市府會想辦法接單？！ 怎麼這時候又可以拿台中人的納稅錢買月餅了？ 盧秀燕很惡劣的造謠說是總統府棄單，弱勢團體訂單的預算就是解放軍之女所屬的中國黨籍立委砍掉的！😡😡😡 2026 & 2028下架國民黨！！！",
-          "author": "kbluestar99",
-          "url": "",
-          "time_text": "6天",
           "signal": "red"
         },
         {
@@ -3489,8 +3464,32 @@
         },
         {
           "platform": "threads",
-          "text": "鬼母盧秀燕 明明就是垃圾中國黨立委砍預算，到底多不要臉才會講棄單這種話？ 中國人就是中國人，顛倒是非，無恥無信。 youtube.com/short…",
-          "author": "bd_shareholder",
+          "text": "2026-8-23 利用明星也不會增加台中人對國民黨的好感啊！尤其也不會增加盧秀燕的好感！鬼媽媽永遠是鬼媽媽！",
+          "author": "phoebe_hsaio",
+          "url": "",
+          "time_text": "2026-8-23",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "2026-8-23 幹嘛要罵李多慧，有問題的是盧秀燕。",
+          "author": "mmhappyhaha",
+          "url": "",
+          "time_text": "2026-8-23",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "2026-8-23 為什麼影片裡有盧秀燕？ 為什麼影片裡有盧秀燕？ 為什麼影片裡有盧秀燕？ 滾開啦 我們要看多慧",
+          "author": "karoteglathe",
+          "url": "",
+          "time_text": "2026-8-23",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "人不要臉天下無敵： 翁曉玲刪國務機要費衝擊庇護工場，同黨的盧秀燕竟稱「總統府棄單」，市府會想辦法接單？！ 怎麼這時候又可以拿台中人的納稅錢買月餅了？ 盧秀燕很惡劣的造謠說是總統府棄單，弱勢團體訂單的預算就是解放軍之女所屬的中國黨籍立委砍掉的！😡😡😡 2026 & 2028下架國民黨！！！",
+          "author": "kbluestar99",
           "url": "",
           "time_text": "6天",
           "signal": "red"
@@ -3502,38 +3501,6 @@
           "url": "",
           "time_text": "2026-8-23",
           "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "秀燕你拿公帑做公益喔？",
-          "author": "smileeee8365",
-          "url": "",
-          "time_text": "6天",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "2026-8-23 李多慧很漂亮，盧秀燕很噁心。",
-          "author": "mrevolution99",
-          "url": "",
-          "time_text": "2026-8-23",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "2026-8-23 台中市長 盧秀燕內舉不避親耶",
-          "author": "baribarihenri",
-          "url": "",
-          "time_text": "2026-8-23",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "盧秀燕的厭惡指數跟翁曉玲比呢？ libertytimesnet",
-          "author": "huangxiaohucat",
-          "url": "",
-          "time_text": "4天",
-          "signal": "yellow"
         },
         {
           "platform": "threads",
@@ -3553,6 +3520,54 @@
         },
         {
           "platform": "threads",
+          "text": "2026-8-23 台中市長 盧秀燕內舉不避親耶",
+          "author": "baribarihenri",
+          "url": "",
+          "time_text": "2026-8-23",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "2026-8-23 李多慧很漂亮，盧秀燕很噁心。",
+          "author": "mrevolution99",
+          "url": "",
+          "time_text": "2026-8-23",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "秀燕你拿公帑做公益喔？",
+          "author": "smileeee8365",
+          "url": "",
+          "time_text": "6天",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "鬼母盧秀燕 明明就是垃圾中國黨立委砍預算，到底多不要臉才會講棄單這種話？ 中國人就是中國人，顛倒是非，無恥無信。 youtube.com/short…",
+          "author": "bd_shareholder",
+          "url": "",
+          "time_text": "6天",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "盧秀燕的厭惡指數跟翁曉玲比呢？ libertytimesnet",
+          "author": "huangxiaohucat",
+          "url": "",
+          "time_text": "4天",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "盧秀燕今抨擊 賴清德搞台獨 你認為台灣人更支持你搞賣台統一嗎",
+          "author": "kk06_03",
+          "url": "",
+          "time_text": "6天",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
           "text": "2026-8-23 票投江啟臣就是票投盧秀燕！",
           "author": "lapd_cuh",
           "url": "",
@@ -3569,6 +3584,30 @@
         },
         {
           "platform": "threads",
+          "text": "本來就會用預算購買庇護工場的禮盒 你他媽在野黨刪預算 你盧秀燕是在帶什麼風向？？你他媽要不要臉啊 臭雞掰",
+          "author": "tf1000820",
+          "url": "",
+          "time_text": "6天",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "盧秀燕 買「月餅」不要用市府預算，不要用納稅人的錢，你薪水也不少耶",
+          "author": "taicheng.chen",
+          "url": "",
+          "time_text": "5天",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "睜眼說瞎話的可惡政客，因為國民黨亂刪預算，結果你盧大市長竟然無恥的說被總統府棄單，盧秀燕你就爛到底吧",
+          "author": "chenchiayang",
+          "url": "",
+          "time_text": "4天",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
           "text": "2026-8-24 盧秀燕妳有意識形態 在搞統一 jianglinshin 毒秀燕 2026-8-23 看來毒油吃多，腦子就壞掉了。 意圖發動戰爭侵略台灣的，從來就是對岸；賴總統是幫你保護家園，在所不惜。",
           "author": "squall3083",
           "url": "",
@@ -3581,22 +3620,6 @@
           "author": "jianglinshin",
           "url": "",
           "time_text": "2026-8-23",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "做賊喊抓賊！ 國民黨先砍掉庇護工場的訂單，盧秀燕還敢顛倒黑白，硬說是總統府「棄單」。 再拿台中市民的公帑接單，演一齣自己放火、自己救火的愛心大戲。 拿弱勢當政治道具、拿公帑替國民黨擦屁股，這不是愛心，是無恥的政治算計！",
-          "author": "hui_bu_xue",
-          "url": "",
-          "time_text": "5天",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "盧秀燕今抨擊 賴清德搞台獨 你認為台灣人更支持你搞賣台統一嗎",
-          "author": "kk06_03",
-          "url": "",
-          "time_text": "6天",
           "signal": "red"
         },
         {
@@ -3633,30 +3656,6 @@
         },
         {
           "platform": "threads",
-          "text": "threads.com/share… chenshuhua1970 陳淑華議員 盧秀燕真的是有夠壞心， 明明就是藍白刪凍國務機要費， 砍掉社福團體的訂單； 盧秀燕為了賺取政治利益， 卻抹黑是總統府棄單。 #庇護工場 #社福團體 / 8,715",
-          "author": "girl.baby688",
-          "url": "",
-          "time_text": "5天",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "陳淑華議員 盧秀燕真的是有夠壞心， 明明就是藍白刪凍國務機要費， 砍掉社福團體的訂單； 盧秀燕為了賺取政治利益， 卻抹黑是總統府棄單。 #庇護工場 #社福團體 / 8,715",
-          "author": "chenshuhua1970",
-          "url": "",
-          "time_text": "5天",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "睜眼說瞎話的可惡政客，因為國民黨亂刪預算，結果你盧大市長竟然無恥的說被總統府棄單，盧秀燕你就爛到底吧",
-          "author": "chenchiayang",
-          "url": "",
-          "time_text": "4天",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
           "text": "threads.com/share… cp294030 Lu MaMa 台中鬼媽媽！8年什麼都沒做，整天就紅媒搞民調最高，私下幹的都是這種破事，國民黨的台中市議會多數議員到底有沒有在監督呢？台中爛成這樣，盧秀燕你這8年幹了什麼？ patatohsieh",
           "author": "girl.baby688",
           "url": "",
@@ -3673,24 +3672,24 @@
         },
         {
           "platform": "threads",
-          "text": "本來就會用預算購買庇護工場的禮盒 你他媽在野黨刪預算 你盧秀燕是在帶什麼風向？？你他媽要不要臉啊 臭雞掰",
-          "author": "tf1000820",
-          "url": "",
-          "time_text": "6天",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "threads.com/share… zitarcheng 翁曉玲刪光弱勢團體訂單，自豪驕傲。 盧秀燕今天還公開怪總統府「棄單」， 棄單棄單棄單棄單棄單棄單，講了6次。 靠北咧你們國民黨加上民眾黨都是兇手， 台中5個立委全部投票同意刪掉這筆錢， 現在說得像賴清德故意遺棄弱勢？ 當我們都北七嗎？？？？？ 不要臉到了極點。💢💢💢 呼籲疼惜慢飛天使的全國選民， 年底縣市長和議員選舉， 把罪惡全部迴向給國民黨。 翁曉玲不怕，盧秀燕不怕， 國民黨民眾黨立委通通都不怕， 大家就用選票讓他",
-          "author": "rose___0228",
+          "text": "做賊喊抓賊！ 國民黨先砍掉庇護工場的訂單，盧秀燕還敢顛倒黑白，硬說是總統府「棄單」。 再拿台中市民的公帑接單，演一齣自己放火、自己救火的愛心大戲。 拿弱勢當政治道具、拿公帑替國民黨擦屁股，這不是愛心，是無恥的政治算計！",
+          "author": "hui_bu_xue",
           "url": "",
           "time_text": "5天",
           "signal": "red"
         },
         {
           "platform": "threads",
-          "text": "翁曉玲刪光弱勢團體訂單，自豪驕傲。 盧秀燕今天還公開怪總統府「棄單」， 棄單棄單棄單棄單棄單棄單，講了6次。 靠北咧你們國民黨加上民眾黨都是兇手， 台中5個立委全部投票同意刪掉這筆錢， 現在說得像賴清德故意遺棄弱勢？ 當我們都北七嗎？？？？？ 不要臉到了極點。💢💢💢 呼籲疼惜慢飛天使的全國選民， 年底縣市長和議員選舉， 把罪惡全部迴向給國民黨。 翁曉玲不怕，盧秀燕不怕， 國民黨民眾黨立委通通都不怕， 大家就用選票讓他們知道， 毫無天良欺負弱勢，人民非常不爽！ 7,518",
-          "author": "zitarcheng",
+          "text": "threads.com/share… chenshuhua1970 陳淑華議員 盧秀燕真的是有夠壞心， 明明就是藍白刪凍國務機要費， 砍掉社福團體的訂單； 盧秀燕為了賺取政治利益， 卻抹黑是總統府棄單。 #庇護工場 #社福團體 / 8,715",
+          "author": "girl.baby688",
+          "url": "",
+          "time_text": "5天",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "陳淑華議員 盧秀燕真的是有夠壞心， 明明就是藍白刪凍國務機要費， 砍掉社福團體的訂單； 盧秀燕為了賺取政治利益， 卻抹黑是總統府棄單。 #庇護工場 #社福團體 / 8,715",
+          "author": "chenshuhua1970",
           "url": "",
           "time_text": "5天",
           "signal": "red"
@@ -3713,8 +3712,16 @@
         },
         {
           "platform": "threads",
-          "text": "你不要教壞李多慧！！！ 唬爛喇叭丟臉的盧秀燕",
-          "author": "yangzhenxuan6",
+          "text": "threads.com/share… zitarcheng 翁曉玲刪光弱勢團體訂單，自豪驕傲。 盧秀燕今天還公開怪總統府「棄單」， 棄單棄單棄單棄單棄單棄單，講了6次。 靠北咧你們國民黨加上民眾黨都是兇手， 台中5個立委全部投票同意刪掉這筆錢， 現在說得像賴清德故意遺棄弱勢？ 當我們都北七嗎？？？？？ 不要臉到了極點。💢💢💢 呼籲疼惜慢飛天使的全國選民， 年底縣市長和議員選舉， 把罪惡全部迴向給國民黨。 翁曉玲不怕，盧秀燕不怕， 國民黨民眾黨立委通通都不怕， 大家就用選票讓他",
+          "author": "rose___0228",
+          "url": "",
+          "time_text": "5天",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "翁曉玲刪光弱勢團體訂單，自豪驕傲。 盧秀燕今天還公開怪總統府「棄單」， 棄單棄單棄單棄單棄單棄單，講了6次。 靠北咧你們國民黨加上民眾黨都是兇手， 台中5個立委全部投票同意刪掉這筆錢， 現在說得像賴清德故意遺棄弱勢？ 當我們都北七嗎？？？？？ 不要臉到了極點。💢💢💢 呼籲疼惜慢飛天使的全國選民， 年底縣市長和議員選舉， 把罪惡全部迴向給國民黨。 翁曉玲不怕，盧秀燕不怕， 國民黨民眾黨立委通通都不怕， 大家就用選票讓他們知道， 毫無天良欺負弱勢，人民非常不爽！ 7,518",
+          "author": "zitarcheng",
           "url": "",
           "time_text": "5天",
           "signal": "red"
@@ -3737,30 +3744,6 @@
         },
         {
           "platform": "threads",
-          "text": "盧秀燕就是史上最最無能且無恥的政客，必有報應",
-          "author": "aniki978",
-          "url": "",
-          "time_text": "5天",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "threads.com/share… icefiretaiwan 正在回覆 @tojesuschrist 可以這麼無恥？ 總統府要買，已經下單。 被藍白刪預算。 現在在盧秀燕嘴裡，變成總統府不買？ 變成總統府棄單？ 2 翁曉玲罵總統府用預算去買。 要賴清德用自己的薪水去買。 3 盧秀燕宣布用市政府公款買。 盧秀燕可以用公款買弱勢月餅。 總統府不能。 3 萬",
-          "author": "cowyau_man",
-          "url": "",
-          "time_text": "5天",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "正在回覆 @tojesuschrist 可以這麼無恥？ 總統府要買，已經下單。 被藍白刪預算。 現在在盧秀燕嘴裡，變成總統府不買？ 變成總統府棄單？ 2 翁曉玲罵總統府用預算去買。 要賴清德用自己的薪水去買。 3 盧秀燕宣布用市政府公款買。 盧秀燕可以用公款買弱勢月餅。 總統府不能。 3 萬",
-          "author": "icefiretaiwan",
-          "url": "",
-          "time_text": "6天",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
           "text": "國民黨刪掉了本來是要跟庇護工場訂購1.5萬盒月餅的預算，翁曉玲說人民的納稅錢怎麼可以用來買月餅，盧秀燕你要用納稅人的錢還是自費購買呢？",
           "author": "dragon771221",
           "url": "",
@@ -3772,32 +3755,24 @@
           "text": "盧秀燕接單，要記得拿自己薪水買，別再說「台中接單」",
           "author": "taicheng.chen",
           "url": "",
-          "time_text": "5天",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "盧秀燕 買「月餅」不要用市府預算，不要用納稅人的錢，你薪水也不少耶",
-          "author": "taicheng.chen",
-          "url": "",
-          "time_text": "4天",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "會不會太不要臉，總統府不能買月餅是你們国民党立委刪除預算，居然大言不慚，有本事你自掏腰包 mirror_media 盧秀燕 【翁曉玲刪預算衝擊庇護工場 盧秀燕：總統府棄單，我們想辦法接單】 . 盧秀燕今（25日）上午於市政會議前受訪卻稱「總統府棄單」，並連說6次「棄單」。盧秀燕指出，經過台中市政府經查後，目前有4個團體被棄單，被棄單的數量約1,200到1,300盒、約40萬元。 盧秀燕表示，她已指示市府對於總統府的棄單，想辦法來接單及解決，「總統府的棄單，我們要想辦法接單」。",
-          "author": "calvin.hsieh.7",
-          "url": "",
           "time_text": "6天",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "你不要教壞李多慧！！！ 唬爛喇叭丟臉的盧秀燕",
+          "author": "yangzhenxuan6",
+          "url": "",
+          "time_text": "5天",
           "signal": "red"
         },
         {
           "platform": "threads",
-          "text": "盧秀燕 【翁曉玲刪預算衝擊庇護工場 盧秀燕：總統府棄單，我們想辦法接單】 . 盧秀燕今（25日）上午於市政會議前受訪卻稱「總統府棄單」，並連說6次「棄單」。盧秀燕指出，經過台中市政府經查後，目前有4個團體被棄單，被棄單的數量約1,200到1,300盒、約40萬元。 盧秀燕表示，她已指示市府對於總統府的棄單，想辦法來接單及解決，「總統府的棄單，我們要想辦法接單」。 /",
-          "author": "mirror_media",
+          "text": "盧秀燕就是史上最最無能且無恥的政客，必有報應",
+          "author": "aniki978",
           "url": "",
-          "time_text": "6天",
-          "signal": "yellow"
+          "time_text": "5天",
+          "signal": "red"
         },
         {
           "platform": "threads",
@@ -3833,16 +3808,48 @@
         },
         {
           "platform": "threads",
-          "text": "藍白倒一倒 台灣會更好 2026-8-24 不好意思 盧秀燕大市長 書讀的少無法判斷 請問把人民分深綠跟非深綠 算不算意識型態啊？ 圓仔花照鏡子欸😏",
-          "author": "creative_679",
+          "text": "會不會太不要臉，總統府不能買月餅是你們国民党立委刪除預算，居然大言不慚，有本事你自掏腰包 mirror_media 盧秀燕 【翁曉玲刪預算衝擊庇護工場 盧秀燕：總統府棄單，我們想辦法接單】 . 盧秀燕今（25日）上午於市政會議前受訪卻稱「總統府棄單」，並連說6次「棄單」。盧秀燕指出，經過台中市政府經查後，目前有4個團體被棄單，被棄單的數量約1,200到1,300盒、約40萬元。 盧秀燕表示，她已指示市府對於總統府的棄單，想辦法來接單及解決，「總統府的棄單，我們要想辦法接單」。",
+          "author": "calvin.hsieh.7",
           "url": "",
-          "time_text": "2026-8-24",
+          "time_text": "6天",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "盧秀燕 【翁曉玲刪預算衝擊庇護工場 盧秀燕：總統府棄單，我們想辦法接單】 . 盧秀燕今（25日）上午於市政會議前受訪卻稱「總統府棄單」，並連說6次「棄單」。盧秀燕指出，經過台中市政府經查後，目前有4個團體被棄單，被棄單的數量約1,200到1,300盒、約40萬元。 盧秀燕表示，她已指示市府對於總統府的棄單，想辦法來接單及解決，「總統府的棄單，我們要想辦法接單」。 /",
+          "author": "mirror_media",
+          "url": "",
+          "time_text": "6天",
           "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "threads.com/share… icefiretaiwan 正在回覆 @tojesuschrist 可以這麼無恥？ 總統府要買，已經下單。 被藍白刪預算。 現在在盧秀燕嘴裡，變成總統府不買？ 變成總統府棄單？ 2 翁曉玲罵總統府用預算去買。 要賴清德用自己的薪水去買。 3 盧秀燕宣布用市政府公款買。 盧秀燕可以用公款買弱勢月餅。 總統府不能。 3 萬",
+          "author": "cowyau_man",
+          "url": "",
+          "time_text": "5天",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "正在回覆 @tojesuschrist 可以這麼無恥？ 總統府要買，已經下單。 被藍白刪預算。 現在在盧秀燕嘴裡，變成總統府不買？ 變成總統府棄單？ 2 翁曉玲罵總統府用預算去買。 要賴清德用自己的薪水去買。 3 盧秀燕宣布用市政府公款買。 盧秀燕可以用公款買弱勢月餅。 總統府不能。 3 萬",
+          "author": "icefiretaiwan",
+          "url": "",
+          "time_text": "6天",
+          "signal": "red"
         },
         {
           "platform": "threads",
           "text": "國民黨先砍掉庇護工場的訂單，盧秀燕還敢顛倒黑白，這樣造謠，硬說是總統府「棄單」。噁爛至極！ 再拿台中市民的公帑接單，演一齣自己放火、自己救火的愛心大戲。 拿弱勢當政治道具、拿公帑替國民黨擦屁股，這不是愛心，是無恥的政治算計！",
           "author": "anton_zhang619",
+          "url": "",
+          "time_text": "5天",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "盧秀燕好可悲喔 什麼都做不好，臉皮很厚是真的",
+          "author": "dulldevil",
           "url": "",
           "time_text": "5天",
           "signal": "red"
@@ -3857,6 +3864,14 @@
         },
         {
           "platform": "threads",
+          "text": "藍白倒一倒 台灣會更好 2026-8-24 不好意思 盧秀燕大市長 書讀的少無法判斷 請問把人民分深綠跟非深綠 算不算意識型態啊？ 圓仔花照鏡子欸😏",
+          "author": "creative_679",
+          "url": "",
+          "time_text": "2026-8-24",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
           "text": "只講自己想講的的，回答不出來就烙跑 junzhihuang 超級噁心🤮 轉發出去 讓大家知道‼️‼️ 大家以為盧秀燕故意講「棄單」已經很扯了嗎？ 更扯的是，當記者追問「藍白凍刪社福團體中秋禮盒預算時」，盧秀燕不僅拒答還快步逃離現場。 可以這樣嗎？只回答自己想抹黑別人的題目 抹黑完就烙跑，盧秀燕，妳真的很丟臉。 lin.chunyu_ 2.6 萬 1,264 2,470",
           "author": "squall3083",
           "url": "",
@@ -3867,14 +3882,6 @@
           "platform": "threads",
           "text": "超級噁心🤮 轉發出去 讓大家知道‼️‼️ 大家以為盧秀燕故意講「棄單」已經很扯了嗎？ 更扯的是，當記者追問「藍白凍刪社福團體中秋禮盒預算時」，盧秀燕不僅拒答還快步逃離現場。 可以這樣嗎？只回答自己想抹黑別人的題目 抹黑完就烙跑，盧秀燕，妳真的很丟臉。 lin.chunyu_ 2.6 萬 1,264 2,470",
           "author": "junzhihuang",
-          "url": "",
-          "time_text": "5天",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "盧秀燕好可悲喔 什麼都做不好，臉皮很厚是真的",
-          "author": "dulldevil",
           "url": "",
           "time_text": "5天",
           "signal": "red"
@@ -5933,11 +5940,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "red",
-      "news_count": 67,
+      "news_count": 66,
       "comment_count": 0,
-      "negativity_pct": 1,
+      "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 70,
+      "urgency_score": 69,
       "news_articles": [
         {
           "title": "屏東縣府送開學禮物 週末國小學童免費暢玩小新特展",
@@ -6400,13 +6407,6 @@
           "time": "2026-08-30 18:41:00",
           "publisher": "Google News→蕃新聞",
           "severity": null
-        },
-        {
-          "title": "屏東長照運動會 千人齊聚展現照顧活力",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vOVRUNXRXZksxMmlYSGVITnh5bGJOY0gtWG5BR2daWXZJZGZ3Y3FEV0VDNzBzY0RpTlBicjVYVVdQSEU3c2pBR3lEaFFMQ2dBNWc?oc=5",
-          "time": "2026-08-30 18:19:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -6416,11 +6416,11 @@
       "city": "彰化",
       "place": "彰化縣政府",
       "level": "red",
-      "news_count": 83,
+      "news_count": 82,
       "comment_count": 0,
       "negativity_pct": 13,
       "is_urgent": false,
-      "urgency_score": 116,
+      "urgency_score": 115,
       "news_articles": [
         {
           "title": "藍綠白還在喬 他直接自己來！政二代4連霸議員加入彰化縣長戰局 | 政治快訊 | 要聞",
@@ -6995,13 +6995,6 @@
           "time": "2026-08-30 18:27:59",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "彰化消防局防災尖兵線上闖關 逾4000好禮等你抽",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E6%B6%88%E9%98%B2%E5%B1%80%E9%98%B2%E7%81%BD%E5%B0%96%E5%85%B5%E7%B7%9A%E4%B8%8A%E9%97%96%E9%97%9C-%E9%80%BE4000%E5%A5%BD%E7%A6%AE%E7%AD%89%E4%BD%A0%E6%8A%BD-101200828.html",
-          "time": "2026-08-30 18:12:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -7011,11 +7004,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 114,
+      "news_count": 113,
       "comment_count": 0,
       "negativity_pct": 1,
       "is_urgent": false,
-      "urgency_score": 117,
+      "urgency_score": 116,
       "news_articles": [
         {
           "title": "新北市長侯友宜昨明確喊話接棒的人就是李四川，民進黨新北市長參選人蘇巧慧今天被問及是否會影響打尊侯牌？蘇巧慧表示這10年來在中央和侯市長的新北市府團隊一起努力下，很多建設成長、進步非常的多。只要是為地方好不分黨派一起來努力。",
@@ -7807,13 +7800,6 @@
           "time": "2026-08-30 18:25:00",
           "publisher": "Yahoo新聞",
           "severity": "red"
-        },
-        {
-          "title": "現身勞工後援會力挺蘇巧慧 洪申翰：國民黨新北執政太久該換人",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5557357",
-          "time": "2026-08-30 18:16:33",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -8684,12 +8670,19 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 152,
+      "news_count": 151,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 167,
+      "urgency_score": 166,
       "news_articles": [
+        {
+          "title": "高雄破百萬台語人口冠全國陳其邁簽復興母語宣言- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmYkpidFFWS0RveUY2b1RCVXB3T2VNeWkwTldOT0ZPZE5DbzkxZnVWVkFwRFY3dHBURjF1VE5oV3I1a2pFMXUxNW5pMTAwYXlCaHZfdHpZWGxBc29iSlBMMXlIRUI?oc=5",
+          "time": "2026-08-31 18:04:33",
+          "publisher": "自由時報",
+          "severity": null
+        },
         {
           "title": "桃園市新聞記者公會召開會員大會 慶祝九一記者節",
           "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E5%B8%82%E6%96%B0%E8%81%9E%E8%A8%98%E8%80%85%E5%85%AC%E6%9C%83%E5%8F%AC%E9%96%8B%E6%9C%83%E5%93%A1%E5%A4%A7%E6%9C%83-%E6%85%B6%E7%A5%9D%E4%B9%9D-%E8%A8%98%E8%80%85%E7%AF%80-092133975.html",
@@ -9739,20 +9732,6 @@
           "time": "2026-08-30 18:27:00",
           "publisher": "Google News→蕃新聞",
           "severity": null
-        },
-        {
-          "title": "欣興電子涉洗產地衝擊股價？資深分析師曝2劇本走向 | 桃園電子報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HRGFIajFqSFpTQ3NPZ3ZtYWJISUxrR2lIYmxKQkg1OFZIZ0xDTm04TGtlcEhPMWFmTHZjSEtiU0I3SFZCNFlGdjY0cS1zWXEwYnV0dGhn?oc=5",
-          "time": "2026-08-30 18:16:15",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園啟動除蔓日 降低外來種對生態環境的威脅",
-          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQeV9USnA5V0RVanR0QUp6ZmtIS29kOEJibnRzY2tHZlhnSnJlRVpibW9Ub0xEY2EtN2g3dnotLW41bjNlUFQ0UERkMmxQa2VvZU1fSmtSVzUtMlJYTmo2elVVeWZCSV9ieDB4R0lBUlJfTHBvN2ZRb3NuUGZEcmpxekF2S1Y3NjNfLUl1R3VGTTc1cllSazFYWWdXOG1heVF2b05XWU5kTkdkZFBpY2g4MDRIMGtZUGVZNFNKVTZ0UVVjXzVXSEJpQzJkTm95VWdKcEdxeTQxME9hei10S19jR0kwOVl4S05HeXRVM3MxekU5cV9WQWwzd215dER5VVUybkNER2pCUGJla19pUk94eXZocjd3c2hja2pydC1nSTNsZUcyc2h6Wjhsd2F5NVhTSDN6eXZhVDBRakNqYnV3RWNR?oc=5",
-          "time": "2026-08-30 18:16:02",
-          "publisher": "Google News→台灣好新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -9768,6 +9747,13 @@
       "is_urgent": false,
       "urgency_score": 241,
       "news_articles": [
+        {
+          "title": "中市免費營養午餐雙主菜有「L形大雞腿」 家長憂後續只剩豆芽菜",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORWlqVEFja3ZHLXNpNzBPRWtfY2NadmlVSXEtR1NPOGRiTS1tZDBxdGRpZy1EY3U0S1UzcmdsaGE0dURVdjd4QXFQd3JSX2xPUXNyUFIzc0NxUGJId2xkRjNXQThING1xT25wM1d6ejRLZmw0bWEzQmhoTmZUMGl1S9IBX0FVX3lxTFBkTmp3RXliSjdWdUZ5YUJ4T2Z3dTdUMkUyNmR4Yk10eXdQbGVwQ2hQMzdaOTB0WnFJMXhKUk5OV25UWGFxY0h3ZXdQR1B6NGdnclh4MElLRUJCcUZ0Y3pj?oc=5",
+          "time": "2026-08-31 18:11:54",
+          "publisher": "Google News→經濟日報",
+          "severity": null
+        },
         {
           "title": "媽媽市長怕你沒吃飽！台中國中小營養午餐今起全面免費 盧秀燕還宣布「加碼雙主菜」",
           "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxPU1Y4Umw5TXdCZ3dObHpPR2F4YTc3UTh3U2dKX1hudkkyMlFDclVUdUVsaHBxUFBqNnhiU2tlYTJ3WF9NaDJKMTB2VWo2a2YzczdUSlAySVVFVEZWakVlYThQbEZZNW1heU01dUpJNGJHeDBFWkIwNFFpT1ZFaWYyRTFDNXZpQWtKLWF4SC1pLWY3ZzhnNVpLSFJWampLdEo5UVhHc1BJakNJVW1EY2pndDdEMHFsLVVGR3VTM3pFQW1KMVZGc1pMMGotUjFZb0lIVUhoUnRnOUdIV1ZnbDZicmhUNGxJd1htYlFpeC1IdmFtR0ppTzU2UjJXaGdsSUlMeUloVWUtS0J5OWQwX2RCMDhsd0V0c2JLVDkzT19LbElHeTViTV9LTmtMek5MSkEyR1hRdmJhY2luLW5yaXNPeV9IRHM5LXJ4RWZfUnoyTW9MbXE4ODFLdTRZUzFxX1JobmFfVmZaS2VGdlFMLXhKWGtNQk5CdFFSMkw0R1ZrRElqZEtoQ2JRT01xT2t5WWRJSTN3SjZjOWdPSjRtV3d0cktkMzV4VmJHbE9OTzcwRDgtaUQ5YjJjTEpCbUFJUUlTNzRaX3ctbDBVT09kUXI3U3VncG1PVGhRaHNtcDRQN1JZRmdReWI5RGRvT1RQQldSZVRaTGlUVGt5c1k?oc=5",
@@ -9823,6 +9809,13 @@
           "time": "2026-08-31 17:30:56",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
+        },
+        {
+          "title": "烤鴨店裝潢招牌砸傷勞工 中市勞工局勒令停工 | 中廣新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzZXA0clhIREkzamhPbEN1SXhvWlpoMVVMOHZlY2R0dFA1MnRSYmpNcVVKY1JvckF4SU9VVnc5ZFhrOVZpWFVHTVZwRFdxTDF1VUZURm5R?oc=5",
+          "time": "2026-08-31 17:27:41",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
         },
         {
           "title": "烤鴨店裝潢招牌砸傷勞工 中市勞工局勒令停工",
@@ -10999,20 +10992,6 @@
           "time": "2026-08-30 18:42:33",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "18國410位好手競逐世界榮耀 2026世界國標舞台灣大獎賽舞動台中",
-          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNR3JtRFdoVklTMVF4ekswbFFUQkR0X1BqU0tzV3FlTnN5Yzl6YW1zUWJ6NUd0ZVpFMk94VUtXVEFPaHZWeWV2dExqRWZZZUNwbEhqYzRjM1FTZnhRTjVLeVBsejd6TDJLNllMSndrRVlKeUotWWhrdGN6NWNXY1NpS0R6dV9MUmZtUWxRWk8wT3h0SE01SjhvNDBpYjVLTVprWlUzdWZvekRVS3NpYm1CbWYyRmNxYTA1VExLY21URmwwLU9mZGc3RG1JWVlVVU1NUXJHUmZGN1pxQ0NXM1hnTTJSVkstQnF5TmN1b0k4RzVKT05lTDJQMU1id3BkRjJvT3J1OUNucTg1MXY0alF5RXkyRjJwVXUyNHliLV92YkRVZmlJRXpSZC1iR1o5UGJrM2c3NnA2ek9DNUM5YWFudmZjbk5DZHFuYW1j?oc=5",
-          "time": "2026-08-30 18:14:46",
-          "publisher": "Google News→yesmedia.com.tw",
-          "severity": null
-        },
-        {
-          "title": "台中房市換檔？大型運動場館加持 3大重劃區房價最高破百萬",
-          "url": "https://estate.ltn.com.tw/article/28731",
-          "time": "2026-08-30 18:14:00",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []
@@ -11022,12 +11001,19 @@
       "city": "高雄",
       "place": "高雄市前鎮區",
       "level": "red",
-      "news_count": 199,
+      "news_count": 201,
       "comment_count": 0,
-      "negativity_pct": 6,
+      "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 232,
+      "urgency_score": 234,
       "news_articles": [
+        {
+          "title": "高雄破百萬台語人口冠全國陳其邁簽復興母語宣言- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmYkpidFFWS0RveUY2b1RCVXB3T2VNeWkwTldOT0ZPZE5DbzkxZnVWVkFwRFY3dHBURjF1VE5oV3I1a2pFMXUxNW5pMTAwYXlCaHZfdHpZWGxBc29iSlBMMXlIRUI?oc=5",
+          "time": "2026-08-31 18:04:33",
+          "publisher": "自由時報",
+          "severity": null
+        },
         {
           "title": "高雄豪雨成災 綠議員當陳其邁面罵治水零分",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QSFNFLTMzV1NwVjBtUkpiVFczWG1SNXBSZ3RXSXJSTWo3UWZfc1ZLVE01QzF5QzgxLS00Wm9LcERXYXZkb0tnMkhGWFZVQ3NBbjV5SmlkR2RvRm1fVkFZNHZHOS1sZ1dGRmJaalN3MA?oc=5",
@@ -11495,6 +11481,13 @@
           "url": "https://tw.news.yahoo.com/%E8%BF%8E%E6%8E%A5%E5%B0%8F-%E6%96%B0%E9%AE%AE%E4%BA%BA-%E9%AB%98%E5%B8%82%E9%80%81-%E9%96%8B%E5%AD%B8%E7%99%BE%E5%AF%B6%E7%AE%B1-053200164.html",
           "time": "2026-08-31 13:32:00",
           "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "指蔣萬安「遠台北、近高雄」 沈伯洋再談市政辯論： 不要拒絕市民期待",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nVk9HcHJUa05GeXJXZEs4cGFMTmZiMEppZHdfZFkxUE1xQ1UwUWsxSDV0eGlLV1hlVDk4amRUVHZQaUxKd1c1NHBn?oc=5",
+          "time": "2026-08-31 13:26:35",
+          "publisher": "匯流新聞網",
           "severity": null
         },
         {
@@ -12429,11 +12422,11 @@
       "city": "台北",
       "place": "台北市中山區",
       "level": "red",
-      "news_count": 307,
+      "news_count": 308,
       "comment_count": 0,
       "negativity_pct": 9,
       "is_urgent": false,
-      "urgency_score": 391,
+      "urgency_score": 392,
       "news_articles": [
         {
           "title": "綠質疑網軍灌水「我是台北人」粉專 蔣萬安允諾徹查行銷標案",
@@ -13063,6 +13056,13 @@
           "url": "https://tw.news.yahoo.com/official%E9%AB%AD%E7%94%B7dism%E6%94%BB%E8%9B%8B%E5%90%B82-2%E8%90%AC%E4%BA%BA-%E8%97%A4%E5%8E%9F%E8%81%B0%E7%8B%82%E5%96%8A-%E5%8F%B0%E5%8C%97%E6%B0%B4%E5%95%A6-%E6%89%BF%E8%AB%BE%E5%86%8D%E8%A8%AA%E5%8F%B0-052939400.html",
           "time": "2026-08-31 13:29:39",
           "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "指蔣萬安「遠台北、近高雄」 沈伯洋再談市政辯論： 不要拒絕市民期待",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nVk9HcHJUa05GeXJXZEs4cGFMTmZiMEppZHdfZFkxUE1xQ1UwUWsxSDV0eGlLV1hlVDk4amRUVHZQaUxKd1c1NHBn?oc=5",
+          "time": "2026-08-31 13:26:35",
+          "publisher": "匯流新聞網",
           "severity": null
         },
         {
