@@ -87328,7 +87328,7 @@
     },
     {
       "date": "2026-08-31",
-      "snapshot_at": "2026-08-31T10:19:51.649572+00:00",
+      "snapshot_at": "2026-08-31T10:25:26.537187+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -87510,20 +87510,6 @@
           ]
         },
         {
-          "title": "屏東弊案爭議",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "前屏東枋寮鄉長陳亞麟貪污判8年 二審疑屢傳不到遭通緝"
-          ]
-        },
-        {
           "title": "苗栗弊案爭議",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -87535,6 +87521,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "《選戰專題》黨中央規格打選戰！林月琴轉「攻擊模式」連轟苗栗市長余文忠弊案...不排除按鈴提告延伸戰火"
+          ]
+        },
+        {
+          "title": "屏東弊案爭議",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "前屏東枋寮鄉長陳亞麟貪污判8年 二審疑屢傳不到遭通緝"
           ]
         },
         {
@@ -87654,11 +87654,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "yellow",
-          "news_count": 53,
+          "news_count": 52,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 56,
+          "urgency_score": 55,
           "sample_titles": [
             "宜蘭住宅補貼 9/1起開放申請",
             "太歲頭上動土！宜蘭竊賊闖廟撬保險櫃竊取13萬香油錢 | 中華日報",
@@ -87878,11 +87878,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 113,
+          "news_count": 112,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 116,
+          "urgency_score": 115,
           "sample_titles": [
             "新北市長侯友宜昨明確喊話接棒的人就是李四川，民進黨新北市長參選人蘇巧慧今天被問及是否會影響打尊侯牌？蘇巧慧表示這10年來",
             "新北榮服處拜會勞工局 深化退除役官兵就業服務合作",
@@ -87894,11 +87894,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 121,
+          "news_count": 119,
           "comment_count": 0,
           "negativity_pct": 19,
           "is_urgent": false,
-          "urgency_score": 190,
+          "urgency_score": 188,
           "sample_titles": [
             "花蓮城市走讀 魏嘉彥帶頭漫步老街",
             "花蓮酒駕男駕車撞山區管制站 警攔查還撞警車逃1小時被捕",
@@ -87942,11 +87942,11 @@
           "city": "高雄",
           "place": "高雄市前鎮區",
           "level": "red",
-          "news_count": 201,
+          "news_count": 199,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 234,
+          "urgency_score": 229,
           "sample_titles": [
             "高雄破百萬台語人口冠全國陳其邁簽復興母語宣言- 生活",
             "高雄豪雨成災 綠議員當陳其邁面罵治水零分",
@@ -87958,11 +87958,11 @@
           "city": "台北",
           "place": "台北市中山區",
           "level": "red",
-          "news_count": 308,
+          "news_count": 306,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 392,
+          "urgency_score": 390,
           "sample_titles": [
             "綠質疑網軍灌水「我是台北人」粉專 蔣萬安允諾徹查行銷標案",
             "新北市長侯友宜昨明確喊話接棒的人就是李四川，民進黨新北市長參選人蘇巧慧今天被問及是否會影響打尊侯牌？蘇巧慧表示這10年來",

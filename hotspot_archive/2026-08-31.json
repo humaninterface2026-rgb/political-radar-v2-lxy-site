@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "snapshot_at": "2026-08-31T10:19:51.649572+00:00",
+  "snapshot_at": "2026-08-31T10:25:26.537187+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -620,27 +620,6 @@
       "comments": []
     },
     {
-      "title": "屏東弊案爭議",
-      "city": "屏東",
-      "place": "屏東縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "前屏東枋寮鄉長陳亞麟貪污判8年 二審疑屢傳不到遭通緝",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5557491",
-          "time": "2026-08-30 21:59:00",
-          "publisher": "自由時報",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "苗栗弊案爭議",
       "city": "苗栗",
       "place": "苗栗縣政府",
@@ -656,6 +635,27 @@
           "url": "https://tw.news.yahoo.com/%E9%81%B8%E6%88%B0%E5%B0%88%E9%A1%8C-%E9%BB%A8%E4%B8%AD%E5%A4%AE%E8%A6%8F%E6%A0%BC%E6%89%93%E9%81%B8%E6%88%B0-%E6%9E%97%E6%9C%88%E7%90%B4%E8%BD%89-%E6%94%BB%E6%93%8A%E6%A8%A1%E5%BC%8F-%E9%80%A3%E8%BD%9F%E8%8B%97%E6%A0%97%E5%B8%82%E9%95%B7%E4%BD%99%E6%96%87%E5%BF%A0%E5%BC%8A%E6%A1%88-091750660.html",
           "time": "2026-08-31 09:17:50",
           "publisher": "Yahoo新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "屏東弊案爭議",
+      "city": "屏東",
+      "place": "屏東縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "前屏東枋寮鄉長陳亞麟貪污判8年 二審疑屢傳不到遭通緝",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5557491",
+          "time": "2026-08-30 21:59:00",
+          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -1807,11 +1807,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "yellow",
-      "news_count": 53,
+      "news_count": 52,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 56,
+      "urgency_score": 55,
       "news_articles": [
         {
           "title": "宜蘭住宅補貼 9/1起開放申請",
@@ -2176,13 +2176,6 @@
           "time": "2026-08-30 18:26:20",
           "publisher": "Google News→LINE TODAY",
           "severity": "yellow"
-        },
-        {
-          "title": "宜蘭奇景！宮廷雞孵蛋特愛天公爐 毛被燻黃已孵化15隻",
-          "url": "https://tw.news.yahoo.com/%E5%AE%9C%E8%98%AD%E5%A5%87%E6%99%AF-%E5%AE%AE%E5%BB%B7%E9%9B%9E%E5%AD%B5%E8%9B%8B%E7%89%B9%E6%84%9B%E5%A4%A9%E5%85%AC%E7%88%90-%E6%AF%9B%E8%A2%AB%E7%87%BB%E9%BB%83%E5%B7%B2%E5%AD%B5%E5%8C%9615%E9%9A%BB-102439789.html",
-          "time": "2026-08-30 18:24:39",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -2903,7 +2896,7 @@
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qNjNfbkI1b1dFMGxxakpIRDF3clFuVHlRMmFVbWoydVB5V2g2UFdXbmZ2bUdjaHVRRVp0VUktRy1BLVlrQm5MbnBOUE1hTGNncE1wNExLMWNncFNxRzRxYmt5ZktLRXM?oc=5",
           "time": "2026-08-31 12:09:31",
           "publisher": "Google News→中國評論新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "東莞行幫盧秀燕探路？鄭照新：勿政治聯想",
@@ -7004,11 +6997,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 113,
+      "news_count": 112,
       "comment_count": 0,
       "negativity_pct": 1,
       "is_urgent": false,
-      "urgency_score": 116,
+      "urgency_score": 115,
       "news_articles": [
         {
           "title": "新北市長侯友宜昨明確喊話接棒的人就是李四川，民進黨新北市長參選人蘇巧慧今天被問及是否會影響打尊侯牌？蘇巧慧表示這10年來在中央和侯市長的新北市府團隊一起努力下，很多建設成長、進步非常的多。只要是為地方好不分黨派一起來努力。",
@@ -7793,13 +7786,6 @@
           "time": "2026-08-30 18:40:30",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "好兄弟半路搶錢？新北環保局抓斗車「運鈔失火」…滿地紙錢狂燒畫面曝",
-          "url": "https://tw.news.yahoo.com/%E5%A5%BD%E5%85%84%E5%BC%9F%E5%8D%8A%E8%B7%AF%E6%90%B6%E9%8C%A2-%E6%96%B0%E5%8C%97%E7%92%B0%E4%BF%9D%E5%B1%80%E6%8A%93%E6%96%97%E8%BB%8A-%E9%81%8B%E9%88%94%E5%A4%B1%E7%81%AB-%E6%BB%BF%E5%9C%B0%E7%B4%99%E9%8C%A2%E7%8B%82%E7%87%92%E7%95%AB%E9%9D%A2%E6%9B%9D-102500001.html",
-          "time": "2026-08-30 18:25:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -7809,11 +7795,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 121,
+      "news_count": 119,
       "comment_count": 0,
       "negativity_pct": 19,
       "is_urgent": false,
-      "urgency_score": 190,
+      "urgency_score": 188,
       "news_articles": [
         {
           "title": "花蓮城市走讀 魏嘉彥帶頭漫步老街",
@@ -8646,20 +8632,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40X1lvVUhrZnhWc0ljWmNzdWVhTl83enNJQVd4alhqaU1LRzJnYzlsN0ZEbmlUUjQyc3hfbWxqbEg2cG1pdnE5SjgxM0FMZmlvcVRJa1lR?oc=5",
           "time": "2026-08-30 18:32:43",
           "publisher": "Google News→LINE TODAY",
-          "severity": "red"
-        },
-        {
-          "title": "前《金融時報》記者爆花蓮「票都是買的」 地檢署出手分案調查",
-          "url": "https://newtalk.tw/news/view/2026-08-30/1056645",
-          "time": "2026-08-30 18:24:23",
-          "publisher": "新頭殼",
-          "severity": "red"
-        },
-        {
-          "title": "前《金融時報》記者爆花蓮「票都是買的」 地檢署出手分案調查| 社會",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sVnNSNDRGcDZ0c3pzZ1IwZEtySE1kT2RVS1BhRkRhdEZIM0tobFN4SGg1VDdMMkU0YkV0cGZTNThqUk1vc0lFZ2RwbXlMTnFGOGJmbVdyUXJLckE?oc=5",
-          "time": "2026-08-30 18:24:23",
-          "publisher": "Google News→Newtalk新聞",
           "severity": "red"
         }
       ],
@@ -9752,7 +9724,7 @@
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORWlqVEFja3ZHLXNpNzBPRWtfY2NadmlVSXEtR1NPOGRiTS1tZDBxdGRpZy1EY3U0S1UzcmdsaGE0dURVdjd4QXFQd3JSX2xPUXNyUFIzc0NxUGJId2xkRjNXQThING1xT25wM1d6ejRLZmw0bWEzQmhoTmZUMGl1S9IBX0FVX3lxTFBkTmp3RXliSjdWdUZ5YUJ4T2Z3dTdUMkUyNmR4Yk10eXdQbGVwQ2hQMzdaOTB0WnFJMXhKUk5OV25UWGFxY0h3ZXdQR1B6NGdnclh4MElLRUJCcUZ0Y3pj?oc=5",
           "time": "2026-08-31 18:11:54",
           "publisher": "Google News→經濟日報",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "媽媽市長怕你沒吃飽！台中國中小營養午餐今起全面免費 盧秀燕還宣布「加碼雙主菜」",
@@ -9815,7 +9787,7 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzZXA0clhIREkzamhPbEN1SXhvWlpoMVVMOHZlY2R0dFA1MnRSYmpNcVVKY1JvckF4SU9VVnc5ZFhrOVZpWFVHTVZwRFdxTDF1VUZURm5R?oc=5",
           "time": "2026-08-31 17:27:41",
           "publisher": "Google News→LINE TODAY",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "烤鴨店裝潢招牌砸傷勞工 中市勞工局勒令停工",
@@ -11001,11 +10973,11 @@
       "city": "高雄",
       "place": "高雄市前鎮區",
       "level": "red",
-      "news_count": 201,
+      "news_count": 199,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 234,
+      "urgency_score": 229,
       "news_articles": [
         {
           "title": "高雄破百萬台語人口冠全國陳其邁簽復興母語宣言- 生活",
@@ -11026,7 +10998,7 @@
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EN0RjZkFRZkpNci1idzBJREEtUzRyemNNRHlYTDhMMFhrX2dSZFhULTY1OG8xVUJUZ05VLVBxRzVMTW5fY2hiRWNYT2FTZWEweGRXYTM4SHB1MUprOFZwYlhvWjAtUG8?oc=5",
           "time": "2026-08-31 17:53:01",
           "publisher": "Google News→中國評論新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "《Mundo Pixar Experience皮克斯世界巡迴展》台灣站12月落腳高雄！",
@@ -11488,7 +11460,7 @@
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nVk9HcHJUa05GeXJXZEs4cGFMTmZiMEppZHdfZFkxUE1xQ1UwUWsxSDV0eGlLV1hlVDk4amRUVHZQaUxKd1c1NHBn?oc=5",
           "time": "2026-08-31 13:26:35",
           "publisher": "匯流新聞網",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "下任高雄市長須具備條件？ 陳其邁這樣說- 政治",
@@ -12399,20 +12371,6 @@
           "time": "2026-08-30 18:41:38",
           "publisher": "Google News→CTWANT",
           "severity": "yellow"
-        },
-        {
-          "title": "週一起又要「紫爆」！東琉線回程乘客塞爆 高市區忙防災",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jT25STTBJR29BOHFnZVM3aE9HVkI5WUgxc0VrR1BlVWplUXB3LXFzbXlrcTRHeDJQWUFVZE9iWDZXS0J3OGs5aUtfSmhJZw?oc=5",
-          "time": "2026-08-30 18:24:00",
-          "publisher": "TVBS",
-          "severity": "yellow"
-        },
-        {
-          "title": "影／凌晨迴轉失控！高雄男狂掃「7台」 機車、電動車全倒一片",
-          "url": "https://www.thehubnews.net/archives/659897",
-          "time": "2026-08-30 18:22:00",
-          "publisher": "新頭條",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -12422,11 +12380,11 @@
       "city": "台北",
       "place": "台北市中山區",
       "level": "red",
-      "news_count": 308,
+      "news_count": 306,
       "comment_count": 0,
       "negativity_pct": 9,
       "is_urgent": false,
-      "urgency_score": 392,
+      "urgency_score": 390,
       "news_articles": [
         {
           "title": "綠質疑網軍灌水「我是台北人」粉專 蔣萬安允諾徹查行銷標案",
@@ -13063,7 +13021,7 @@
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nVk9HcHJUa05GeXJXZEs4cGFMTmZiMEppZHdfZFkxUE1xQ1UwUWsxSDV0eGlLV1hlVDk4amRUVHZQaUxKd1c1NHBn?oc=5",
           "time": "2026-08-31 13:26:35",
           "publisher": "匯流新聞網",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "北市女童遭猥褻案 蔣萬安發聲喊重新檢討：我們決定主動往前多做一步",
@@ -14568,20 +14526,6 @@
           "url": "https://news.nextapple.com/life/20260830/3AD0883AE685017B58EDC1CD8949B0A2",
           "time": "2026-08-30 18:34:38",
           "publisher": "壹蘋新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "網傳中方疑在北捷北車從事輿情監控 北市警查察研判屬誤傳",
-          "url": "https://newtalk.tw/news/view/2026-08-30/1056660",
-          "time": "2026-08-30 18:25:03",
-          "publisher": "新頭殼",
-          "severity": "yellow"
-        },
-        {
-          "title": "台北車站驚傳共諜蒐集情資？疑用中國「監控系統」盯場 林楚茵籲國安單位徹查",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E8%BB%8A%E7%AB%99%E9%A9%9A%E5%82%B3%E5%85%B1%E8%AB%9C%E8%92%90%E9%9B%86%E6%83%85%E8%B3%87-%E7%96%91%E7%94%A8%E4%B8%AD%E5%9C%8B-%E7%9B%A3%E6%8E%A7%E7%B3%BB%E7%B5%B1-%E7%9B%AF%E5%A0%B4-%E6%9E%97%E6%A5%9A%E8%8C%B5%E7%B1%B2%E5%9C%8B%E5%AE%89%E5%96%AE%E4%BD%8D%E5%BE%B9%E6%9F%A5-102451466.html",
-          "time": "2026-08-30 18:24:51",
-          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
