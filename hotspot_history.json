@@ -87328,7 +87328,7 @@
     },
     {
       "date": "2026-08-31",
-      "snapshot_at": "2026-08-31T01:30:20.044153+00:00",
+      "snapshot_at": "2026-08-31T01:37:17.389175+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -87524,22 +87524,6 @@
           "sample_titles": []
         },
         {
-          "title": "基隆地方動態",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "green",
-          "news_count": 7,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 7,
-          "sample_titles": [
-            "基隆七堵民宅傳火警 平房全面燃燒 屋主外出上班逃死劫",
-            "基隆39所公立國小 9校跌破百人",
-            "亞果基隆八斗子遊艇碼頭今啟用 盼帶動基隆觀光"
-          ]
-        },
-        {
           "title": "嘉義市地方動態",
           "city": "嘉義市",
           "place": "嘉義市政府",
@@ -87553,34 +87537,6 @@
             "星媒專訪談選情 鄭麗文：嘉義市、彰化縣「有些問題」",
             "嘉義市2026光織影舞搶先看 小熊維尼陪伴一起過中秋",
             "嘉市光影藝術展 9/25點亮光影森林"
-          ]
-        },
-        {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台中 國道停車打架 一判刑一無罪"
-          ]
-        },
-        {
-          "title": "屏東弊案爭議",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "前屏東枋寮鄉長陳亞麟貪污判8年 二審疑屢傳不到遭通緝"
           ]
         },
         {
@@ -87598,6 +87554,34 @@
           ]
         },
         {
+          "title": "屏東弊案爭議",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "前屏東枋寮鄉長陳亞麟貪污判8年 二審疑屢傳不到遭通緝"
+          ]
+        },
+        {
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "台中 國道停車打架 一判刑一無罪"
+          ]
+        },
+        {
           "title": "苗栗車禍事件",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -87611,6 +87595,22 @@
             "三義分隊車禍救助夾困操作訓練",
             "奪命車禍！苗栗女倒車猛撞女騎士⋯害臟器破裂慘死 判決大逆轉免入獄 | 三立新聞網",
             "奪命車禍！苗栗女倒車猛撞女騎士⋯害臟器破裂慘死 判決大逆轉免入獄"
+          ]
+        },
+        {
+          "title": "基隆地方動態",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "yellow",
+          "news_count": 7,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 7,
+          "sample_titles": [
+            "基隆七堵民宅傳火警 平房全面燃燒 屋主外出上班逃死劫",
+            "基隆39所公立國小 9校跌破百人",
+            "亞果基隆八斗子遊艇碼頭今啟用 盼帶動基隆觀光"
           ]
         },
         {
@@ -87730,11 +87730,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 24,
+          "news_count": 23,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 27,
+          "urgency_score": 26,
           "sample_titles": [
             "免搭船跑本島！屏東監理站前進小琉球驗車 10/18到期皆可驗",
             "開學第一周全台有雨！林得恩：南部豪雨到周四 高雄、屏東下最猛 | 天氣預報 | 生活",
@@ -87794,11 +87794,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 44,
+          "news_count": 42,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 50,
+          "urgency_score": 48,
           "sample_titles": [
             "苗栗海釣驚魂！「波特船」失去動力漂流 海巡拖帶救回3釣客",
             "1分鐘讀財經》房價跌回兩年前！苗栗意外跌最慘成最大苦主關鍵曝光- 財經",
@@ -87874,11 +87874,11 @@
           "city": "台中",
           "place": "台中市豐原區",
           "level": "red",
-          "news_count": 127,
+          "news_count": 125,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 142,
+          "urgency_score": 140,
           "sample_titles": [
             "今天是2026年九合一地方公職人員選舉候選人登記的第一天，要競選連任的台中市議員江和樹起了個大早，清晨5時就帶著包括7歲",
             "中市府7年民參招商逾540億元 再獲財政部9,478萬元獎勵金",
@@ -87890,11 +87890,11 @@
           "city": "台北",
           "place": "台北市南港區",
           "level": "red",
-          "news_count": 188,
+          "news_count": 187,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 239,
+          "urgency_score": 238,
           "sample_titles": [
             "又問A答B？賴瑞隆不滿狂扯高雄邀辯論 蔣萬安：他先去問台南的陳亭妃",
             "民進黨台北市長參選人沈伯洋一早到南港公園掃街拜票，受到支持者歡迎，針對台北市長蔣萬安備詢時提到高雄前鎮漁港81億元改造經",
