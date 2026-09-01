@@ -87978,7 +87978,7 @@
     },
     {
       "date": "2026-09-01",
-      "snapshot_at": "2026-09-01T01:50:50.431984+00:00",
+      "snapshot_at": "2026-09-01T02:00:55.754321+00:00",
       "hotspots": [
         {
           "title": "台北狼師事件",
@@ -88288,6 +88288,22 @@
           "sample_titles": []
         },
         {
+          "title": "連江地方動態",
+          "city": "連江",
+          "place": "連江縣（馬祖）",
+          "level": "yellow",
+          "news_count": 42,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 42,
+          "sample_titles": [
+            "非洲大蝸牛現蹤 馬祖急防治",
+            "縣市長登記首日 連江王忠銘誓再承擔",
+            "馬祖業者走進台東博覽會 從「慢經濟」交流看見地方產業新可能"
+          ]
+        },
+        {
           "title": "金門地方動態",
           "city": "金門",
           "place": "金門縣政府",
@@ -88301,22 +88317,6 @@
             "秋季來金正是漫遊好時節！走進東半島感受秋日金門",
             "高雄關聯合查緝 金門查獲大陸農產品與菸酒",
             "金門迎城隍繪畫賽 千件作品描繪在地信仰"
-          ]
-        },
-        {
-          "title": "連江地方動態",
-          "city": "連江",
-          "place": "連江縣（馬祖）",
-          "level": "yellow",
-          "news_count": 44,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 44,
-          "sample_titles": [
-            "非洲大蝸牛現蹤 馬祖急防治",
-            "縣市長登記首日 連江王忠銘誓再承擔",
-            "馬祖業者走進台東博覽會 從「慢經濟」交流看見地方產業新可能"
           ]
         },
         {
@@ -88340,11 +88340,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "yellow",
-          "news_count": 69,
+          "news_count": 67,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 69,
+          "urgency_score": 67,
           "sample_titles": [
             "12位返鄉青農甘苦談成書！苗栗攜手朝陽科大 見證青農返鄉永續路",
             "復康巴士預約更方便！苗栗縣9/1起加開網路、LINE預約管道",
@@ -88372,11 +88372,11 @@
           "city": "台中",
           "place": "台中市清水區",
           "level": "yellow",
-          "news_count": 66,
+          "news_count": 64,
           "comment_count": 46,
           "negativity_pct": 3,
           "is_urgent": true,
-          "urgency_score": 150,
+          "urgency_score": 148,
           "sample_titles": [
             "台積電中科1.4奈米新廠工程超前 盧秀燕視察關心水電、工安、綠化",
             "關注：盧秀燕鋪陳訪陸 平衡親美形象",
@@ -88388,11 +88388,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "yellow",
-          "news_count": 128,
+          "news_count": 126,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 131,
+          "urgency_score": 129,
           "sample_titles": [
             "開學首日新北送三禮！免費午餐上路、鮮奶週擴大國中 32萬學生受惠",
             "新北教育局推「當大人工作坊」 9/6講座呂允分享、寶賤主持即起報名",
@@ -88483,11 +88483,11 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "red",
-          "news_count": 56,
+          "news_count": 54,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 56,
+          "urgency_score": 54,
           "sample_titles": [
             "澎湖縣家用廚餘機推廣補助計畫申請額滿  環保局感謝縣民踴躍響應",
             "澎湖縣家用廚餘機推廣補助計畫申請額滿 環保局感謝縣民踴躍響應",
@@ -88499,11 +88499,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 59,
+          "news_count": 56,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 68,
+          "urgency_score": 65,
           "sample_titles": [
             "真實故事啟發！台南海產店老闆曾吸毒入獄 改頭換面10萬個愛心便當感動大嘻哈冠軍",
             "台南市澎湖同鄉會大會10/17歡迎共襄盛舉",
@@ -88515,11 +88515,11 @@
           "city": "新竹縣",
           "place": "新竹縣政府",
           "level": "red",
-          "news_count": 63,
+          "news_count": 62,
           "comment_count": 0,
           "negativity_pct": 16,
           "is_urgent": false,
-          "urgency_score": 93,
+          "urgency_score": 92,
           "sample_titles": [
             "竹北市長藍白復合？ 林為州參與協調曝轉機：稍安勿躁、先不要彼此攻擊",
             "談心共學走出幸福婚姻路 新竹縣新婚伴侶營今開放報名",
@@ -88531,11 +88531,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "red",
-          "news_count": 72,
+          "news_count": 71,
           "comment_count": 0,
           "negativity_pct": 14,
           "is_urgent": false,
-          "urgency_score": 102,
+          "urgency_score": 101,
           "sample_titles": [
             "開學日 彰化守護學童安全上學路",
             "影／彰化家扶兒童啟力計畫結業 親子從桌遊到旅行學理財、存下孩子未來",
@@ -88563,11 +88563,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 124,
+          "news_count": 121,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 148,
+          "urgency_score": 145,
           "sample_titles": [
             "國家警報一早響了！高雄屏東雷雨炸開",
             "交往16年女友生子後拒聯繫 屏東男提告確認父子關係勝訴",
@@ -88579,11 +88579,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 172,
+          "news_count": 171,
           "comment_count": 0,
           "negativity_pct": 27,
           "is_urgent": false,
-          "urgency_score": 310,
+          "urgency_score": 309,
           "sample_titles": [
             "2026.09.01 09:01 傅崐萁嗆外媒記者沒證據就道歉 張育萌列花蓮賄選鐵證：藍營急什麼？",
             "玩東海岸搭公車好優惠！花蓮304洄瀾東海岸線兩人同行一人免費",
@@ -88595,11 +88595,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 192,
+          "news_count": 183,
           "comment_count": 0,
-          "negativity_pct": 4,
+          "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 213,
+          "urgency_score": 201,
           "sample_titles": [
             "記憶體罷工潮蔓延到台灣，傳美光桃園醞釀罷工，勞資問題一觸即發",
             "桃園不怕少子化？專家點名「1區」預售屋去化超穩 驚人數據曝光！",
@@ -88611,15 +88611,15 @@
           "city": "台中",
           "place": "台中市南屯區",
           "level": "red",
-          "news_count": 214,
+          "news_count": 213,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 289,
+          "urgency_score": 288,
           "sample_titles": [
-            "台中免費營養午餐開跑！盧秀燕南屯國小打菜 開學週加碼雙主菜、L形大雞腿",
-            "台中4所新設校同步開學 盧秀燕上任來共設10校投入逾92億",
-            "盧市長親訪台積電中科1.4奈米新廠工程進度超前 中市府全力協助投資落地產業發展與環境永續並進"
+            "台中國中小免費營養午餐全面上路盧秀燕親自打菜陪孩子開學| 綜合 | 要聞",
+            "盧秀燕喊「總統府棄單」 議員爆中市府追回345盒：難道不是另一種棄單？",
+            "台中免費營養午餐開跑！盧秀燕南屯國小打菜 開學週加碼雙主菜、L形大雞腿"
           ]
         },
         {
@@ -88627,11 +88627,11 @@
           "city": "高雄",
           "place": "高雄市前金區",
           "level": "red",
-          "news_count": 241,
+          "news_count": 239,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 283,
+          "urgency_score": 281,
           "sample_titles": [
             "高雄區漁會砲轟蔣萬安 抹黑漁港改建計畫 拒當政治攻防籌碼",
             "【賴瑞隆專訪】承陳其邁扛高雄第四棒 幕僚世代接手「拚拚拚」",
@@ -88643,15 +88643,15 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 320,
+          "news_count": 316,
           "comment_count": 0,
           "negativity_pct": 13,
           "is_urgent": false,
-          "urgency_score": 443,
+          "urgency_score": 439,
           "sample_titles": [
+            "《曾韋禎專欄》兩小報仍看不到蔣萬安、台北市負面新聞",
             "高雄區漁會砲轟蔣萬安 抹黑漁港改建計畫 拒當政治攻防籌碼",
-            "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景",
-            "台北市發錢！2026重陽敬老禮金9/1入帳 全台時間、最高5萬金額曝 | 生活"
+            "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景"
           ]
         }
       ]

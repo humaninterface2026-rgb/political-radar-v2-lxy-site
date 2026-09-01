@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "snapshot_at": "2026-09-01T01:50:50.431984+00:00",
+  "snapshot_at": "2026-09-01T02:00:55.754321+00:00",
   "hotspots": [
     {
       "title": "台北狼師事件",
@@ -1790,6 +1790,314 @@
       ]
     },
     {
+      "title": "連江地方動態",
+      "city": "連江",
+      "place": "連江縣（馬祖）",
+      "level": "yellow",
+      "news_count": 42,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 42,
+      "news_articles": [
+        {
+          "title": "非洲大蝸牛現蹤 馬祖急防治",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOS3BYcTRQVjcyUEY1UUc3a0Y3eVc0QkY1S3EzYUhfYl9MLUNZak9jblVCajFYOFUtMlFDcEdaajJCV1ZsTDRSbFJNUW1XZUZDTTE1bWdLWGhlVk9nMU5obHR2cTdUcUZnMVZB?oc=5",
+          "time": "2026-09-01 04:10:00",
+          "publisher": "Google News→chinatimes.com",
+          "severity": "yellow"
+        },
+        {
+          "title": "縣市長登記首日 連江王忠銘誓再承擔",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50ZGtsYXY0NjNEak56bm1Ud19YLUtXbTNpWjhUcmg5WnRaX2FKcFNTWGNzWmxRNjZ3MmFMYWZSc1hFbFZZa3JxaTQ5aXU3aVdjM0l1THVJbGJTUDV0U2N3OUlxaHdleWp2NTF3?oc=5",
+          "time": "2026-09-01 04:10:00",
+          "publisher": "Google News→chinatimes.com",
+          "severity": null
+        },
+        {
+          "title": "馬祖業者走進台東博覽會 從「慢經濟」交流看見地方產業新可能",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5fQWRZMkR3WU9aOVNJN2Y4Qm54eTE5SjRiOTZodW5sV3pZQVVfd1VFTVdCVkpiTFZJTVRjVXNyTUx6QlVmZDVB?oc=5",
+          "time": "2026-09-01 02:47:50",
+          "publisher": "Google News→台灣新聞雲",
+          "severity": null
+        },
+        {
+          "title": "【台灣Pay】「暢遊馬祖享回饋，TWQR馬上Pay」活動(115/9/1-115/12/31)",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUFSN1pzdHFPVEJBMUluWXl6SHYxRjNrRlNrek9KODlmdTd2cTNYcTVPYlZPWHJuTzJHTFpwMDRkUkZVaUJhS2xoLV8wWU1iUXBIY2xRQUZOV1RNblJUTzlYdDJ6TDVod3lrLURCRzJmZzJ3YWw5UEp2MWNMNXJ5cXlyN3JyV2c?oc=5",
+          "time": "2026-09-01 00:11:50",
+          "publisher": "Google News→landbank.com.tw",
+          "severity": null
+        },
+        {
+          "title": "馬祖6位車友遠赴歐洲 展開跨國單車壯遊",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WckVHU2FfV3BCOHRXQVM1Q1hqcWhTUWlhV2xjZnAyYnlCcU42Tm1Jbnk1NVY1NG5Eb2NrZ1h4Q2JfN2sxeHJuNWxSNmJheUdyOE1HSVlBUWxrUXdYYnc?oc=5",
+          "time": "2026-09-01 00:00:28",
+          "publisher": "Google News→matsu-news.gov.tw",
+          "severity": null
+        },
+        {
+          "title": "王忠銘登記參選連江縣長：初心不變、責任再次承擔",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCVkNWQmRwMmcxY3hLZmhrZHdrZUQ0ZmdGZDM1ajFrQ2ZzaVJwTkxZRm1BaDBobXJFZmZxM3ByTEROalZWWnJGY2pULUI3X2lQUXZCd3VfMlFBQ05uaUE?oc=5",
+          "time": "2026-09-01 00:00:27",
+          "publisher": "Google News→matsu-news.gov.tw",
+          "severity": null
+        },
+        {
+          "title": "「走進馬祖潮間帶特展」 文物館展出",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GY3IzTVB5YUF6MVN6X0NtWnZmYzRUVUJMUVlSVXVtem1TTlFSZnFmdGdQbkNhSHFLRXhBVEltYlNLMTNOR2lEVTdEUmx0ZW5MZjRmYk1xd3lDRXpLQkE?oc=5",
+          "time": "2026-09-01 00:00:22",
+          "publisher": "Google News→matsu-news.gov.tw",
+          "severity": null
+        },
+        {
+          "title": "國旅補助開跑 馬祖推全方位加碼優惠",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fRkVNOUVsVE9SN1ZuY3hBcWp0SnBfekluYXFZdVUzWE1BaHFXN1N6RlVlVTVROXhVT01ISkNNYjBXdFIyeDRwN3pxVVVSTzVfZXZKLVptWnMwOGQ0NFE?oc=5",
+          "time": "2026-09-01 00:00:19",
+          "publisher": "Google News→matsu-news.gov.tw",
+          "severity": null
+        },
+        {
+          "title": "國旅補助起跑 馬祖強勢加碼 新臺馬輪買去送回 四鄉豪禮總值破萬",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBINXVTN0x2OWhrMjM1SDZiV1BHdlRzWEZrYWVjWjM5Z21XLWdrT3FRWDZ5cnp2eFJXZkNFaTJpQmhlT2Y4RlhJb0xB?oc=5",
+          "time": "2026-08-31 22:15:57",
+          "publisher": "Google News→17news民生好報",
+          "severity": null
+        },
+        {
+          "title": "22縣市瘋搶國旅客！馬祖祭「買去送回」 四鄉豪禮總值破萬元",
+          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNaHMxemxJSHFJR2xvQ2lTekhCYW84WVV2SmtKV3NveXpYMmRGREhXeDhIMEtQT1FLVmpaSGNGdzRFOWozZGFZNVBvekIzamlOcXM5R1U5ZlFQVHlkdDFmTDZZcEMyYWtVVXBCRkdZaElwYVpMTV9ScXBackVfUkFHQVVXMkpUOGgxaFdQZVN1ODB3R2ZaanBFMUFyb0FSbDBqb2RUd3FIWnJNN3NFRDhXcmJnR0xTWldvYnVHUzZCdnVHWkluaktjVzVCTTVwOGEyY1RicERnc2RPbmdNVWVseHNKanFVS2xvaFBCLU92aHRLZHFhMnJvYnFUVkthbm5ySDlvYnlvYjNwS0Y5cHp5bnY2NlJsbkMzMXdrWlZhMUNWWC1HTERlYzAzWVlsOEtUYmtmYk9BZ2NKbE8xWE50dWNXMUdoM0RSV0I3bVB3?oc=5",
+          "time": "2026-08-31 20:51:33",
+          "publisher": "Google News→yesmedia.com.tw",
+          "severity": null
+        },
+        {
+          "title": "地方 2026/08/31 18:42 九合一選舉登記首日 連江縣長王忠銘完成登記",
+          "url": "https://news.cts.com.tw/cna/local/202608/202608313073481.html",
+          "time": "2026-08-31 20:22:46",
+          "publisher": "華視新聞網",
+          "severity": null
+        },
+        {
+          "title": "國旅補助9/1起跑！馬祖加碼送 新台馬輪「買去程送回程」",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5558400",
+          "time": "2026-08-31 19:25:46",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "連江縣政府推國旅補助馬祖加碼GO方案 串聯四鄉五島祭出多重優惠",
+          "url": "https://www.thehubnews.net/archives/660224",
+          "time": "2026-08-31 19:10:43",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "九合一選舉登記首日 連江縣長王忠銘完成登記 (圖)",
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOU2Vyc3F0a2ZybTlFb2JodHcySmdtV2FNN2VZUDN3aTZXcTVTMC1MSVpZTEpfRGtrN2J4NWM2NmgxcUp4NWZmS3ZqYV9sR09jdUEtYnBsUzZnUXBzR1JZYkNIa2NMa1Y4YzN3QWYxUmE1OWpKay1kcEVVLTEwZklkZDFyRXk1SGZRTEZ6X05RdlJaeDNYbkVIazk4SktQd1NCWG1UVFQxd3lQTmdMRGxIMllUUUZGcU5pMzJjYmRpeHNsaXJ1NzVCdzV0bDhEcWR4dUh5SWZwMU5IMllOSzJQczB1ZFlSd1RNM3Ytc2RMeTJrd2dFV29NMndRcXFsakVsMkJIMHp6TEZQTWwtejY3Wjhqb2I0RlZkNmtVNktYeGVZR09IWEZpRDFuOFNTQnIzMGg3Zk5PLUhrT3hQMEJDTlFwalV6ZkE?oc=5",
+          "time": "2026-08-31 18:43:16",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "九合一選舉登記首日 連江縣長王忠銘完成登記",
+          "url": "https://www.cna.com.tw/news/aipl/202608310259.aspx",
+          "time": "2026-08-31 18:42:36",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "九合一選舉登記首日連江縣長王忠銘完成登記| 政治",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yd2tNV1lPRndPTkhjWE5NQ0UyR19NQVRlUG1GZTVpT2I3SEhFZ0M1cEZGakZwek5JTmdHVEdoRGFJNmRpc1NnSHoyckxoY0JPTFlNN1UtY0dJSEVEUVBz?oc=5",
+          "time": "2026-08-31 18:42:00",
+          "publisher": "Google News→cna.com.tw",
+          "severity": null
+        },
+        {
+          "title": "這次真的輪到馬祖了！搭船買去送回、住島拿盲盒，集章尋寶一路玩到東引 | 楊艾喬 | 地方新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91YXgtOUlRVkpEcWprdG1JMXBIUGNWbnI5eFdmUlZFREY0UzRVak5sR2ViMjVSWlpPdjJQbmxvakNEdFpJX1VOS19KMmc3UQ?oc=5",
+          "time": "2026-08-31 18:21:50",
+          "publisher": "Google News→風傳媒",
+          "severity": null
+        },
+        {
+          "title": "馬祖加碼平日國旅補助新台馬輪船票買去程送回程| 高屏離島| 地方",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxWUxwV3k3dWg1UlhWenRGRFNUOXhsMVUxQ0VfZzZSREptUU45T0JESFBRTkphaTFEN0UyTU02dHdNS3p3RExSMG9famNkSWxa?oc=5",
+          "time": "2026-08-31 17:46:53",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "連江縣府宣布國旅補助加碼 (圖)",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMjhxdUhIbUhzLW9TTktibFlYUHo3ZjlBQnVtc0VOQjhlTS01NF9xOGtxOXRuY0ZiNjZyQmVvNGRaZ2VMV1p1R0ZoWENUY3JDdGtJQ080YUp3LUZNRHc5MGp5X25ENnI4YkNrb0NEbjhGTV9IX0RZSXZaZkpUOGcyM0kyMkFNaEplUmhVNE9hRERiQWZpX0JMUldpeDBDRmNReVVfLWE3b09kODRkWmZDUlEzRzladGd5ZmJ0T0FvTU9DVzFUMTFlZFliTmdxN3hGMHdoWEhrTGF2d2pRN1FYdG8tdEhBaV9GTXpGR2dOV2s?oc=5",
+          "time": "2026-08-31 17:42:59",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "秋風起正是玩馬祖好時節 啖肥美淡菜、徒步跳島再享國旅多重優惠",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RRlg3TlJvN0NPaTFJcU9rUUFPb2ZsUUp4U0Uwa0VCVl9YLTBHTGdCaVFWZUppSjB4QUdWMThUNXpxT2txcEI0UGNRbEo0bWZ20gFWQVVfeXFMUElNRlhBWDhHakRKaU8wcG9IT0NSWkpmZDFUWVRxcjRva2xCTnpYU0pNOUdneEExZ3ZrTE03VWc1eS1wRjdycXhpTTRpcjZBdkNEbDBvSHc?oc=5",
+          "time": "2026-08-31 17:34:20",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "一套帝王蟹、一鍋馬祖淡菜 誠品行旅雙海味供應中",
+          "url": "https://tw.news.yahoo.com/%E5%A5%97%E5%B8%9D%E7%8E%8B%E8%9F%B9-%E9%8D%8B%E9%A6%AC%E7%A5%96%E6%B7%A1%E8%8F%9C-%E8%AA%A0%E5%93%81%E8%A1%8C%E6%97%85%E9%9B%99%E6%B5%B7%E5%91%B3%E4%BE%9B%E6%87%89%E4%B8%AD-093145824.html",
+          "time": "2026-08-31 17:31:45",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "國旅補助9/1開跑 馬祖放大招「買去送回」四鄉好康破萬元",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XZGE3bk1sUHVtdkhtVjV2N2hsYjdtcERYVlExS2IxM3FOanVFM3kwQVBrVWd4ZV9fa24wNjZCeXNmNC05NUk0elRoV2xEdmlpZ0E?oc=5",
+          "time": "2026-08-31 17:23:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "馬祖加碼平日國旅補助 新台馬輪船票買去程送回程",
+          "url": "https://www.cna.com.tw/news/ahel/202608310226.aspx",
+          "time": "2026-08-31 17:22:25",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "馬祖加碼平日國旅補助新台馬輪船票買去程送回程| 生活",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EeXhVVW1xTnlpZ1RXbl9BVEVmcDVPS3RlUXVqdGxacVNUVUZubzJLTnFneHZQTThFakw3cFNUeUVfVXJtUUpIQ0hDXzA2Vjh3VUVNcXNDNlF5UjJTUm9r?oc=5",
+          "time": "2026-08-31 17:22:00",
+          "publisher": "Google News→cna.com.tw",
+          "severity": null
+        },
+        {
+          "title": "22縣市搶國旅補助商機！馬祖祭「買去送回」 四鄉五島優惠總值破萬",
+          "url": "https://news.google.com/rss/articles/CBMi4gVBVV95cUxNYTJVSGhjMWJRZWd1Z3JoTmlBMUtqZTl4SnNCTjJTM0JaZGlQSHAyajVLNU1HZzBnRGFabmNOWEJzQ2ZFQmNtUmRHZWFOYktSR29NTDNnMnF0a1B6aFQyaEJSVFp3ZXVDM0huVzNEd3d1ZnBXMGh1YnhKMUhvUjJIR0xVT1pBRUdQRW1IMTI4Y0dXQlFYTENReldCUVVsV2kxMVVwRVhTV2dzWmV4UEdRYlE5ampIbUhWWEFiRmg4RVJzam5hdUt3eXpFbzduQW55YlppN0k5TVgtQ0Q3bnl5SVg2V0NRVktoUWVNOHJkWU45b3pKTmpUSlFNUTFXOG9xSmNyRjNGN3lvZUJwSkJWQl9yMndtOGRBeE1pVEdEZi1qUF9tczB4RXlka3FkeWhINTd6N2l1bDA4eE5LZDBiNzhyNFdrOXlpeTZGZFB5UHpzcV8xUE0xM0RqN2dOc2h6RGFWRHlhOU1NSVJuRTNJTWtlcWQwVG5sQldRUzQyUllBV3ZOWXN0Tm1WeDdBdFI0SmlHNUhBZnpOdkRPNjRUYXJZSFBZYnFTSHdTV0tYRENfSGJfZXVfVUQ2YV9TdV95ekpZVWtUVmpZc2J5ZFM5a1lVY3ZvRkVGRzV4R1FIWUJaWVNnOHAwME1namV4ZEd2SjB0QW9jaFdVQ2xKREJBVUxPc2JXY1RuQXpGQlBpTTlJV1ktZDlkZzQ5Z1lXaTFESlFKekhfWGhwSUszTjJBOER3QThjM2piUmxPUURYNWtTV3h2S016MUZMQXZqTWxnWlE3enlyVE56T2lISUtRcjFNa0l6M1FjRThWWElzNFNmY0t1UmQ5S09BNUlHTzZTblRESzJ1NlBrYnQ4U29CWjhiLXF2amRYXzRiRTNXS0otbUE4TnVVUURMUklXcWVaSGRLRFhHdG5HNjBvbUtlNTRGX2pJZWtRVHg5bnRTR2R2YTRXbjB1MElJOEk4bF9ISVE?oc=5",
+          "time": "2026-08-31 17:19:09",
+          "publisher": "Google News→理財周刊",
+          "severity": null
+        },
+        {
+          "title": "連江縣長登記首日王忠銘搶頭香 曹爾元9月2日登記",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5558228",
+          "time": "2026-08-31 16:38:25",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "連江縣長登記首日王忠銘搶頭香曹爾元9月2日登記- 政治",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OZkVRaUhWWG82WWpjNDNYSl8yOFdaZVZySXQtbnNweGtsdVhMOXRKS1I4OWZCRjZKY2FBZFBrQXJnY1o3RkFqRWowckNDdjZadThmVHBPYmpCXzFNS2oySGNmbDloZndoQWc?oc=5",
+          "time": "2026-08-31 16:38:25",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "非洲大蝸牛入侵馬祖！連江縣府苦茶粕、全民回收齊上陣",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6OTJocUtfNGFZVFNTSlFsb0VZV1k2cUtKcU5BTVBqNU5kSlp2VFFEeTcxT2VLekM3R0NBOG9lR3dDXy1jSlVSNUJqcTdLQXNMdGw2TndwRUtCbDE2RWF3S1J3bjZWMTh2M0NfN09n?oc=5",
+          "time": "2026-08-31 16:34:07",
+          "publisher": "中時新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "國旅補助9月1日開跑 馬祖放大招「買去送回」四鄉好康破萬元",
+          "url": "https://tw.news.yahoo.com/%E5%9C%8B%E6%97%85%E8%A3%9C%E5%8A%A99%E6%9C%881%E6%97%A5%E9%96%8B%E8%B7%91-%E9%A6%AC%E7%A5%96%E6%94%BE%E5%A4%A7%E6%8B%9B-%E8%B2%B7%E5%8E%BB%E9%80%81%E5%9B%9E-%E5%9B%9B%E9%84%89%E5%A5%BD%E5%BA%B7%E7%A0%B4%E8%90%AC%E5%85%83-081223247.html",
+          "time": "2026-08-31 16:12:23",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "22縣市搶國旅補助 馬祖祭萬元好康邀旅客秋遊",
+          "url": "https://tw.news.yahoo.com/22%E7%B8%A3%E5%B8%82%E6%90%B6%E5%9C%8B%E6%97%85%E8%A3%9C%E5%8A%A9-%E9%A6%AC%E7%A5%96%E7%A5%AD%E8%90%AC%E5%85%83%E5%A5%BD%E5%BA%B7%E9%82%80%E6%97%85%E5%AE%A2%E7%A7%8B%E9%81%8A-080653914.html",
+          "time": "2026-08-31 16:06:53",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "22縣市瘋搶國旅客！馬祖「殺瘋了」祭破萬元好康 新臺馬輪買去送回、住宿最高再折2500元",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5lUEVjSGh3cEFRdENNY25zVTM2MVl6NkFhc1NJc0NJQWR4YkVPQmlGSU5xNFpWbUd3RndWTWtwNnNya195MmtV?oc=5",
+          "time": "2026-08-31 16:05:33",
+          "publisher": "Google News→台灣新聞雲",
+          "severity": null
+        },
+        {
+          "title": "馬祖驚見「非洲大蝸牛」！縣長王忠銘緊急出手 跨局處啟動防治「三管齊下」全面阻擊",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE93bHpmV0U4RzNfQlBzQTdPTTlCT1lrRzNNN1J2dVBjMmNQX1VoOHotLVRtYnR1VEZpZTB1cjBCSjhRd2F2Nnpv?oc=5",
+          "time": "2026-08-31 15:53:59",
+          "publisher": "Google News→台灣新聞雲",
+          "severity": "yellow"
+        },
+        {
+          "title": "國旅補助起跑！馬祖強勢加碼 新臺馬輪「買去送回」、四鄉豪禮總值破萬",
+          "url": "https://tw.news.yahoo.com/%E5%9C%8B%E6%97%85%E8%A3%9C%E5%8A%A9%E8%B5%B7%E8%B7%91-%E9%A6%AC%E7%A5%96%E5%BC%B7%E5%8B%A2%E5%8A%A0%E7%A2%BC-%E6%96%B0%E8%87%BA%E9%A6%AC%E8%BC%AA-%E8%B2%B7%E5%8E%BB%E9%80%81%E5%9B%9E-%E5%9B%9B%E9%84%89%E8%B1%AA%E7%A6%AE%E7%B8%BD%E5%80%BC%E7%A0%B4%E8%90%AC-154732005.html",
+          "time": "2026-08-31 15:47:32",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "22縣市搶國旅補助！馬祖強勢加碼 新臺馬輪「買去送回」、四鄉豪禮總值破萬",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xYTFOc2czRUtGOFJQNzJjMHFDTVp3eTJGV0E5OUNkalZLdnhBd0ZBV0NRSWRyNC1PU0t1c1BTeVlWZTM1OThQc3N6TXJjeFZDd0ZOeA?oc=5",
+          "time": "2026-08-31 15:25:20",
+          "publisher": "Google News→【飛揚新聞】",
+          "severity": null
+        },
+        {
+          "title": "馬祖發現非洲大蝸牛 縣府啟動防治機制三管齊下防擴散",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uZWdtUkNxYklEUGpCTGsyamVZMHdwWmpIY3FKaXpNOUxGRkJzQVpIZ2d6OWRDb3dfRUduTk5CR3VydzZNTEJQSGo0bDZXMEVRV2ZyamZOekVkR0M3aGc?oc=5",
+          "time": "2026-08-31 15:19:11",
+          "publisher": "Google News→matsu-news.gov.tw",
+          "severity": "yellow"
+        },
+        {
+          "title": "王忠銘完成連江縣長參選登記！一句「初心不變」 再戰縣長：為家鄉奉獻，是人生最光榮的使命",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0VUlaQWdjT0lkZEYybWtzYUNwTGxScGpYRFRReE1HMzA1OGxQSjdQYjhndmV2XzRSYWhtWG5lMmxycEh3dHpB?oc=5",
+          "time": "2026-08-31 13:41:12",
+          "publisher": "Google News→台灣新聞雲",
+          "severity": null
+        },
+        {
+          "title": "國旅補助9月開跑！馬祖四鄉五島全面加碼 新臺馬輪「買去送回」好康破萬元",
+          "url": "https://n.yam.com/Article/20260831297831",
+          "time": "2026-08-31 12:00:00",
+          "publisher": "蕃新聞→Yes新聞",
+          "severity": null
+        },
+        {
+          "title": "國旅補助大戰開打 馬祖豪氣加碼新臺馬輪買去送回四鄉萬元好禮吸客",
+          "url": "https://n.yam.com/Article/20260831403959",
+          "time": "2026-08-31 12:00:00",
+          "publisher": "蕃新聞→Talknews說新聞",
+          "severity": null
+        },
+        {
+          "title": "去馬祖的理由不只是藍眼淚 趁著國旅補助多留一晚 - 旅遊新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSENBa2xmYlZNLU9SRzRVbnI1dlZmdTJrSzJydEFRVHk2OF9aVVZkeGtUUHZBUlhzdkRPQmZDSUNQYWNjQWtRQy1VTlYzZWJKcVpSMEtYNUxtSklNZWw2bHBsTS1uRHZIcUhabkFFcXdHMXBhQzFsSFktZXdYVmJTZTJaU1BwaGU4c0E?oc=5",
+          "time": "2026-08-31 11:46:00",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "年底九合一地方選舉加溫，今天是參選人登記首日，連江縣長王忠銘一早在妻子陳順娥陪同下，前往連江縣選舉委員會完成縣長參選登記，力拚連任。",
+          "url": "https://udn.com/news/story/124652/9724091?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-08-31 11:24:23",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "王忠銘登記參選連江縣長初心不變：為家鄉奉獻是人生最光榮的使命- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CR0xtM01LeFdHLVFKYXhVVXI5azdmZ3B0Z3ZlTjhKcjhQejFVTDh2aHFKRjc2Y3VrMEM2SDR3a3pvZ0hHTEJ0bVdidHhoRU85OFhCUURxX0w?oc=5",
+          "time": "2026-08-31 10:36:15",
+          "publisher": "Google News→CMoney",
+          "severity": null
+        },
+        {
+          "title": "王忠銘登記參選連江縣長 初心不變：為家鄉奉獻是人生最光榮的使命",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KQ1plN3pIMjRkM2pTc0RiTUZwZlo2QU9Pak5QZHNacG90c1pMa29lNUpqZWgwc2JiYXhpQkIyMHVvUTJvWEN4Wlh1NExvZ054SzhV0gFYQVVfeXFMTURvMU1lR0Q1cjZqWUczRG9EVXNoRWp3c1RrRkh2c1NTNWFucDkzNm5ZT0Ywb1RVaWZQS2MzUU9vSGdMbXV2b1JhNHBMaHR2LW9FUWlINkZUdQ?oc=5",
+          "time": "2026-08-31 10:26:35",
+          "publisher": "Google News→UDN",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "金門地方動態",
       "city": "金門",
       "place": "金門縣政府",
@@ -2099,328 +2407,6 @@
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUjZxem9ybmtFMHh6RUpGbklHMmhxa3AtTlktSHpLbDdrZGkzSFFXUHNoejhZdEZ5TXAtcG1LYVFsNFM1WlVjVk85Zm82bFZ0MXdjZkZMUHdia0MwTVE5VGg0N0lNVkF0YU9lZWlHYTlrMzltS1QzZEpyUkpsak5SV1E0dTE0R00wSUN1Wg?oc=5",
           "time": "2026-08-31 10:17:00",
           "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "連江地方動態",
-      "city": "連江",
-      "place": "連江縣（馬祖）",
-      "level": "yellow",
-      "news_count": 44,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 44,
-      "news_articles": [
-        {
-          "title": "非洲大蝸牛現蹤 馬祖急防治",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOS3BYcTRQVjcyUEY1UUc3a0Y3eVc0QkY1S3EzYUhfYl9MLUNZak9jblVCajFYOFUtMlFDcEdaajJCV1ZsTDRSbFJNUW1XZUZDTTE1bWdLWGhlVk9nMU5obHR2cTdUcUZnMVZB?oc=5",
-          "time": "2026-09-01 04:10:00",
-          "publisher": "Google News→chinatimes.com",
-          "severity": "yellow"
-        },
-        {
-          "title": "縣市長登記首日 連江王忠銘誓再承擔",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50ZGtsYXY0NjNEak56bm1Ud19YLUtXbTNpWjhUcmg5WnRaX2FKcFNTWGNzWmxRNjZ3MmFMYWZSc1hFbFZZa3JxaTQ5aXU3aVdjM0l1THVJbGJTUDV0U2N3OUlxaHdleWp2NTF3?oc=5",
-          "time": "2026-09-01 04:10:00",
-          "publisher": "Google News→chinatimes.com",
-          "severity": null
-        },
-        {
-          "title": "馬祖業者走進台東博覽會 從「慢經濟」交流看見地方產業新可能",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5fQWRZMkR3WU9aOVNJN2Y4Qm54eTE5SjRiOTZodW5sV3pZQVVfd1VFTVdCVkpiTFZJTVRjVXNyTUx6QlVmZDVB?oc=5",
-          "time": "2026-09-01 02:47:50",
-          "publisher": "Google News→台灣新聞雲",
-          "severity": null
-        },
-        {
-          "title": "【台灣Pay】「暢遊馬祖享回饋，TWQR馬上Pay」活動(115/9/1-115/12/31)",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUFSN1pzdHFPVEJBMUluWXl6SHYxRjNrRlNrek9KODlmdTd2cTNYcTVPYlZPWHJuTzJHTFpwMDRkUkZVaUJhS2xoLV8wWU1iUXBIY2xRQUZOV1RNblJUTzlYdDJ6TDVod3lrLURCRzJmZzJ3YWw5UEp2MWNMNXJ5cXlyN3JyV2c?oc=5",
-          "time": "2026-09-01 00:11:50",
-          "publisher": "Google News→landbank.com.tw",
-          "severity": null
-        },
-        {
-          "title": "馬祖6位車友遠赴歐洲 展開跨國單車壯遊",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WckVHU2FfV3BCOHRXQVM1Q1hqcWhTUWlhV2xjZnAyYnlCcU42Tm1Jbnk1NVY1NG5Eb2NrZ1h4Q2JfN2sxeHJuNWxSNmJheUdyOE1HSVlBUWxrUXdYYnc?oc=5",
-          "time": "2026-09-01 00:00:28",
-          "publisher": "Google News→matsu-news.gov.tw",
-          "severity": null
-        },
-        {
-          "title": "王忠銘登記參選連江縣長：初心不變、責任再次承擔",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCVkNWQmRwMmcxY3hLZmhrZHdrZUQ0ZmdGZDM1ajFrQ2ZzaVJwTkxZRm1BaDBobXJFZmZxM3ByTEROalZWWnJGY2pULUI3X2lQUXZCd3VfMlFBQ05uaUE?oc=5",
-          "time": "2026-09-01 00:00:27",
-          "publisher": "Google News→matsu-news.gov.tw",
-          "severity": null
-        },
-        {
-          "title": "「走進馬祖潮間帶特展」 文物館展出",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GY3IzTVB5YUF6MVN6X0NtWnZmYzRUVUJMUVlSVXVtem1TTlFSZnFmdGdQbkNhSHFLRXhBVEltYlNLMTNOR2lEVTdEUmx0ZW5MZjRmYk1xd3lDRXpLQkE?oc=5",
-          "time": "2026-09-01 00:00:22",
-          "publisher": "Google News→matsu-news.gov.tw",
-          "severity": null
-        },
-        {
-          "title": "國旅補助開跑 馬祖推全方位加碼優惠",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fRkVNOUVsVE9SN1ZuY3hBcWp0SnBfekluYXFZdVUzWE1BaHFXN1N6RlVlVTVROXhVT01ISkNNYjBXdFIyeDRwN3pxVVVSTzVfZXZKLVptWnMwOGQ0NFE?oc=5",
-          "time": "2026-09-01 00:00:19",
-          "publisher": "Google News→matsu-news.gov.tw",
-          "severity": null
-        },
-        {
-          "title": "國旅補助起跑 馬祖強勢加碼 新臺馬輪買去送回 四鄉豪禮總值破萬",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBINXVTN0x2OWhrMjM1SDZiV1BHdlRzWEZrYWVjWjM5Z21XLWdrT3FRWDZ5cnp2eFJXZkNFaTJpQmhlT2Y4RlhJb0xB?oc=5",
-          "time": "2026-08-31 22:15:57",
-          "publisher": "Google News→17news民生好報",
-          "severity": null
-        },
-        {
-          "title": "22縣市瘋搶國旅客！馬祖祭「買去送回」 四鄉豪禮總值破萬元",
-          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNaHMxemxJSHFJR2xvQ2lTekhCYW84WVV2SmtKV3NveXpYMmRGREhXeDhIMEtQT1FLVmpaSGNGdzRFOWozZGFZNVBvekIzamlOcXM5R1U5ZlFQVHlkdDFmTDZZcEMyYWtVVXBCRkdZaElwYVpMTV9ScXBackVfUkFHQVVXMkpUOGgxaFdQZVN1ODB3R2ZaanBFMUFyb0FSbDBqb2RUd3FIWnJNN3NFRDhXcmJnR0xTWldvYnVHUzZCdnVHWkluaktjVzVCTTVwOGEyY1RicERnc2RPbmdNVWVseHNKanFVS2xvaFBCLU92aHRLZHFhMnJvYnFUVkthbm5ySDlvYnlvYjNwS0Y5cHp5bnY2NlJsbkMzMXdrWlZhMUNWWC1HTERlYzAzWVlsOEtUYmtmYk9BZ2NKbE8xWE50dWNXMUdoM0RSV0I3bVB3?oc=5",
-          "time": "2026-08-31 20:51:33",
-          "publisher": "Google News→yesmedia.com.tw",
-          "severity": null
-        },
-        {
-          "title": "地方 2026/08/31 18:42 九合一選舉登記首日 連江縣長王忠銘完成登記",
-          "url": "https://news.cts.com.tw/cna/local/202608/202608313073481.html",
-          "time": "2026-08-31 20:22:46",
-          "publisher": "華視新聞網",
-          "severity": null
-        },
-        {
-          "title": "國旅補助9/1起跑！馬祖加碼送 新台馬輪「買去程送回程」",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5558400",
-          "time": "2026-08-31 19:25:46",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "連江縣政府推國旅補助馬祖加碼GO方案 串聯四鄉五島祭出多重優惠",
-          "url": "https://www.thehubnews.net/archives/660224",
-          "time": "2026-08-31 19:10:43",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "九合一選舉登記首日 連江縣長王忠銘完成登記 (圖)",
-          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOU2Vyc3F0a2ZybTlFb2JodHcySmdtV2FNN2VZUDN3aTZXcTVTMC1MSVpZTEpfRGtrN2J4NWM2NmgxcUp4NWZmS3ZqYV9sR09jdUEtYnBsUzZnUXBzR1JZYkNIa2NMa1Y4YzN3QWYxUmE1OWpKay1kcEVVLTEwZklkZDFyRXk1SGZRTEZ6X05RdlJaeDNYbkVIazk4SktQd1NCWG1UVFQxd3lQTmdMRGxIMllUUUZGcU5pMzJjYmRpeHNsaXJ1NzVCdzV0bDhEcWR4dUh5SWZwMU5IMllOSzJQczB1ZFlSd1RNM3Ytc2RMeTJrd2dFV29NMndRcXFsakVsMkJIMHp6TEZQTWwtejY3Wjhqb2I0RlZkNmtVNktYeGVZR09IWEZpRDFuOFNTQnIzMGg3Zk5PLUhrT3hQMEJDTlFwalV6ZkE?oc=5",
-          "time": "2026-08-31 18:43:16",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "九合一選舉登記首日 連江縣長王忠銘完成登記",
-          "url": "https://www.cna.com.tw/news/aipl/202608310259.aspx",
-          "time": "2026-08-31 18:42:36",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "九合一選舉登記首日連江縣長王忠銘完成登記| 政治",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yd2tNV1lPRndPTkhjWE5NQ0UyR19NQVRlUG1GZTVpT2I3SEhFZ0M1cEZGakZwek5JTmdHVEdoRGFJNmRpc1NnSHoyckxoY0JPTFlNN1UtY0dJSEVEUVBz?oc=5",
-          "time": "2026-08-31 18:42:00",
-          "publisher": "Google News→cna.com.tw",
-          "severity": null
-        },
-        {
-          "title": "這次真的輪到馬祖了！搭船買去送回、住島拿盲盒，集章尋寶一路玩到東引 | 楊艾喬 | 地方新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91YXgtOUlRVkpEcWprdG1JMXBIUGNWbnI5eFdmUlZFREY0UzRVak5sR2ViMjVSWlpPdjJQbmxvakNEdFpJX1VOS19KMmc3UQ?oc=5",
-          "time": "2026-08-31 18:21:50",
-          "publisher": "Google News→風傳媒",
-          "severity": null
-        },
-        {
-          "title": "馬祖加碼平日國旅補助新台馬輪船票買去程送回程| 高屏離島| 地方",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxWUxwV3k3dWg1UlhWenRGRFNUOXhsMVUxQ0VfZzZSREptUU45T0JESFBRTkphaTFEN0UyTU02dHdNS3p3RExSMG9famNkSWxa?oc=5",
-          "time": "2026-08-31 17:46:53",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "連江縣府宣布國旅補助加碼 (圖)",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMjhxdUhIbUhzLW9TTktibFlYUHo3ZjlBQnVtc0VOQjhlTS01NF9xOGtxOXRuY0ZiNjZyQmVvNGRaZ2VMV1p1R0ZoWENUY3JDdGtJQ080YUp3LUZNRHc5MGp5X25ENnI4YkNrb0NEbjhGTV9IX0RZSXZaZkpUOGcyM0kyMkFNaEplUmhVNE9hRERiQWZpX0JMUldpeDBDRmNReVVfLWE3b09kODRkWmZDUlEzRzladGd5ZmJ0T0FvTU9DVzFUMTFlZFliTmdxN3hGMHdoWEhrTGF2d2pRN1FYdG8tdEhBaV9GTXpGR2dOV2s?oc=5",
-          "time": "2026-08-31 17:42:59",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "秋風起正是玩馬祖好時節 啖肥美淡菜、徒步跳島再享國旅多重優惠",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RRlg3TlJvN0NPaTFJcU9rUUFPb2ZsUUp4U0Uwa0VCVl9YLTBHTGdCaVFWZUppSjB4QUdWMThUNXpxT2txcEI0UGNRbEo0bWZ20gFWQVVfeXFMUElNRlhBWDhHakRKaU8wcG9IT0NSWkpmZDFUWVRxcjRva2xCTnpYU0pNOUdneEExZ3ZrTE03VWc1eS1wRjdycXhpTTRpcjZBdkNEbDBvSHc?oc=5",
-          "time": "2026-08-31 17:34:20",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "一套帝王蟹、一鍋馬祖淡菜 誠品行旅雙海味供應中",
-          "url": "https://tw.news.yahoo.com/%E5%A5%97%E5%B8%9D%E7%8E%8B%E8%9F%B9-%E9%8D%8B%E9%A6%AC%E7%A5%96%E6%B7%A1%E8%8F%9C-%E8%AA%A0%E5%93%81%E8%A1%8C%E6%97%85%E9%9B%99%E6%B5%B7%E5%91%B3%E4%BE%9B%E6%87%89%E4%B8%AD-093145824.html",
-          "time": "2026-08-31 17:31:45",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "國旅補助9/1開跑 馬祖放大招「買去送回」四鄉好康破萬元",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XZGE3bk1sUHVtdkhtVjV2N2hsYjdtcERYVlExS2IxM3FOanVFM3kwQVBrVWd4ZV9fa24wNjZCeXNmNC05NUk0elRoV2xEdmlpZ0E?oc=5",
-          "time": "2026-08-31 17:23:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "馬祖加碼平日國旅補助 新台馬輪船票買去程送回程",
-          "url": "https://www.cna.com.tw/news/ahel/202608310226.aspx",
-          "time": "2026-08-31 17:22:25",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "馬祖加碼平日國旅補助新台馬輪船票買去程送回程| 生活",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EeXhVVW1xTnlpZ1RXbl9BVEVmcDVPS3RlUXVqdGxacVNUVUZubzJLTnFneHZQTThFakw3cFNUeUVfVXJtUUpIQ0hDXzA2Vjh3VUVNcXNDNlF5UjJTUm9r?oc=5",
-          "time": "2026-08-31 17:22:00",
-          "publisher": "Google News→cna.com.tw",
-          "severity": null
-        },
-        {
-          "title": "22縣市搶國旅補助商機！馬祖祭「買去送回」 四鄉五島優惠總值破萬",
-          "url": "https://news.google.com/rss/articles/CBMi4gVBVV95cUxNYTJVSGhjMWJRZWd1Z3JoTmlBMUtqZTl4SnNCTjJTM0JaZGlQSHAyajVLNU1HZzBnRGFabmNOWEJzQ2ZFQmNtUmRHZWFOYktSR29NTDNnMnF0a1B6aFQyaEJSVFp3ZXVDM0huVzNEd3d1ZnBXMGh1YnhKMUhvUjJIR0xVT1pBRUdQRW1IMTI4Y0dXQlFYTENReldCUVVsV2kxMVVwRVhTV2dzWmV4UEdRYlE5ampIbUhWWEFiRmg4RVJzam5hdUt3eXpFbzduQW55YlppN0k5TVgtQ0Q3bnl5SVg2V0NRVktoUWVNOHJkWU45b3pKTmpUSlFNUTFXOG9xSmNyRjNGN3lvZUJwSkJWQl9yMndtOGRBeE1pVEdEZi1qUF9tczB4RXlka3FkeWhINTd6N2l1bDA4eE5LZDBiNzhyNFdrOXlpeTZGZFB5UHpzcV8xUE0xM0RqN2dOc2h6RGFWRHlhOU1NSVJuRTNJTWtlcWQwVG5sQldRUzQyUllBV3ZOWXN0Tm1WeDdBdFI0SmlHNUhBZnpOdkRPNjRUYXJZSFBZYnFTSHdTV0tYRENfSGJfZXVfVUQ2YV9TdV95ekpZVWtUVmpZc2J5ZFM5a1lVY3ZvRkVGRzV4R1FIWUJaWVNnOHAwME1namV4ZEd2SjB0QW9jaFdVQ2xKREJBVUxPc2JXY1RuQXpGQlBpTTlJV1ktZDlkZzQ5Z1lXaTFESlFKekhfWGhwSUszTjJBOER3QThjM2piUmxPUURYNWtTV3h2S016MUZMQXZqTWxnWlE3enlyVE56T2lISUtRcjFNa0l6M1FjRThWWElzNFNmY0t1UmQ5S09BNUlHTzZTblRESzJ1NlBrYnQ4U29CWjhiLXF2amRYXzRiRTNXS0otbUE4TnVVUURMUklXcWVaSGRLRFhHdG5HNjBvbUtlNTRGX2pJZWtRVHg5bnRTR2R2YTRXbjB1MElJOEk4bF9ISVE?oc=5",
-          "time": "2026-08-31 17:19:09",
-          "publisher": "Google News→理財周刊",
-          "severity": null
-        },
-        {
-          "title": "連江縣長登記首日王忠銘搶頭香 曹爾元9月2日登記",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5558228",
-          "time": "2026-08-31 16:38:25",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "連江縣長登記首日王忠銘搶頭香曹爾元9月2日登記- 政治",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OZkVRaUhWWG82WWpjNDNYSl8yOFdaZVZySXQtbnNweGtsdVhMOXRKS1I4OWZCRjZKY2FBZFBrQXJnY1o3RkFqRWowckNDdjZadThmVHBPYmpCXzFNS2oySGNmbDloZndoQWc?oc=5",
-          "time": "2026-08-31 16:38:25",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "非洲大蝸牛入侵馬祖！連江縣府苦茶粕、全民回收齊上陣",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6OTJocUtfNGFZVFNTSlFsb0VZV1k2cUtKcU5BTVBqNU5kSlp2VFFEeTcxT2VLekM3R0NBOG9lR3dDXy1jSlVSNUJqcTdLQXNMdGw2TndwRUtCbDE2RWF3S1J3bjZWMTh2M0NfN09n?oc=5",
-          "time": "2026-08-31 16:34:07",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "國旅補助9月1日開跑 馬祖放大招「買去送回」四鄉好康破萬元",
-          "url": "https://tw.news.yahoo.com/%E5%9C%8B%E6%97%85%E8%A3%9C%E5%8A%A99%E6%9C%881%E6%97%A5%E9%96%8B%E8%B7%91-%E9%A6%AC%E7%A5%96%E6%94%BE%E5%A4%A7%E6%8B%9B-%E8%B2%B7%E5%8E%BB%E9%80%81%E5%9B%9E-%E5%9B%9B%E9%84%89%E5%A5%BD%E5%BA%B7%E7%A0%B4%E8%90%AC%E5%85%83-081223247.html",
-          "time": "2026-08-31 16:12:23",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "22縣市搶國旅補助 馬祖祭萬元好康邀旅客秋遊",
-          "url": "https://tw.news.yahoo.com/22%E7%B8%A3%E5%B8%82%E6%90%B6%E5%9C%8B%E6%97%85%E8%A3%9C%E5%8A%A9-%E9%A6%AC%E7%A5%96%E7%A5%AD%E8%90%AC%E5%85%83%E5%A5%BD%E5%BA%B7%E9%82%80%E6%97%85%E5%AE%A2%E7%A7%8B%E9%81%8A-080653914.html",
-          "time": "2026-08-31 16:06:53",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "22縣市瘋搶國旅客！馬祖「殺瘋了」祭破萬元好康 新臺馬輪買去送回、住宿最高再折2500元",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5lUEVjSGh3cEFRdENNY25zVTM2MVl6NkFhc1NJc0NJQWR4YkVPQmlGSU5xNFpWbUd3RndWTWtwNnNya195MmtV?oc=5",
-          "time": "2026-08-31 16:05:33",
-          "publisher": "Google News→台灣新聞雲",
-          "severity": null
-        },
-        {
-          "title": "馬祖驚見「非洲大蝸牛」！縣長王忠銘緊急出手 跨局處啟動防治「三管齊下」全面阻擊",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE93bHpmV0U4RzNfQlBzQTdPTTlCT1lrRzNNN1J2dVBjMmNQX1VoOHotLVRtYnR1VEZpZTB1cjBCSjhRd2F2Nnpv?oc=5",
-          "time": "2026-08-31 15:53:59",
-          "publisher": "Google News→台灣新聞雲",
-          "severity": "yellow"
-        },
-        {
-          "title": "國旅補助起跑！馬祖強勢加碼 新臺馬輪「買去送回」、四鄉豪禮總值破萬",
-          "url": "https://tw.news.yahoo.com/%E5%9C%8B%E6%97%85%E8%A3%9C%E5%8A%A9%E8%B5%B7%E8%B7%91-%E9%A6%AC%E7%A5%96%E5%BC%B7%E5%8B%A2%E5%8A%A0%E7%A2%BC-%E6%96%B0%E8%87%BA%E9%A6%AC%E8%BC%AA-%E8%B2%B7%E5%8E%BB%E9%80%81%E5%9B%9E-%E5%9B%9B%E9%84%89%E8%B1%AA%E7%A6%AE%E7%B8%BD%E5%80%BC%E7%A0%B4%E8%90%AC-154732005.html",
-          "time": "2026-08-31 15:47:32",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "22縣市搶國旅補助！馬祖強勢加碼 新臺馬輪「買去送回」、四鄉豪禮總值破萬",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xYTFOc2czRUtGOFJQNzJjMHFDTVp3eTJGV0E5OUNkalZLdnhBd0ZBV0NRSWRyNC1PU0t1c1BTeVlWZTM1OThQc3N6TXJjeFZDd0ZOeA?oc=5",
-          "time": "2026-08-31 15:25:20",
-          "publisher": "Google News→【飛揚新聞】",
-          "severity": null
-        },
-        {
-          "title": "馬祖發現非洲大蝸牛 縣府啟動防治機制三管齊下防擴散",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uZWdtUkNxYklEUGpCTGsyamVZMHdwWmpIY3FKaXpNOUxGRkJzQVpIZ2d6OWRDb3dfRUduTk5CR3VydzZNTEJQSGo0bDZXMEVRV2ZyamZOekVkR0M3aGc?oc=5",
-          "time": "2026-08-31 15:19:11",
-          "publisher": "Google News→matsu-news.gov.tw",
-          "severity": "yellow"
-        },
-        {
-          "title": "王忠銘完成連江縣長參選登記！一句「初心不變」 再戰縣長：為家鄉奉獻，是人生最光榮的使命",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0VUlaQWdjT0lkZEYybWtzYUNwTGxScGpYRFRReE1HMzA1OGxQSjdQYjhndmV2XzRSYWhtWG5lMmxycEh3dHpB?oc=5",
-          "time": "2026-08-31 13:41:12",
-          "publisher": "Google News→台灣新聞雲",
-          "severity": null
-        },
-        {
-          "title": "國旅補助9月開跑！馬祖四鄉五島全面加碼 新臺馬輪「買去送回」好康破萬元",
-          "url": "https://n.yam.com/Article/20260831297831",
-          "time": "2026-08-31 12:00:00",
-          "publisher": "蕃新聞→Yes新聞",
-          "severity": null
-        },
-        {
-          "title": "國旅補助大戰開打 馬祖豪氣加碼新臺馬輪買去送回四鄉萬元好禮吸客",
-          "url": "https://n.yam.com/Article/20260831403959",
-          "time": "2026-08-31 12:00:00",
-          "publisher": "蕃新聞→Talknews說新聞",
-          "severity": null
-        },
-        {
-          "title": "去馬祖的理由不只是藍眼淚 趁著國旅補助多留一晚 - 旅遊新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSENBa2xmYlZNLU9SRzRVbnI1dlZmdTJrSzJydEFRVHk2OF9aVVZkeGtUUHZBUlhzdkRPQmZDSUNQYWNjQWtRQy1VTlYzZWJKcVpSMEtYNUxtSklNZWw2bHBsTS1uRHZIcUhabkFFcXdHMXBhQzFsSFktZXdYVmJTZTJaU1BwaGU4c0E?oc=5",
-          "time": "2026-08-31 11:46:00",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "年底九合一地方選舉加溫，今天是參選人登記首日，連江縣長王忠銘一早在妻子陳順娥陪同下，前往連江縣選舉委員會完成縣長參選登記，力拚連任。",
-          "url": "https://udn.com/news/story/124652/9724091?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-08-31 11:24:23",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "王忠銘登記參選連江縣長初心不變：為家鄉奉獻是人生最光榮的使命- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CR0xtM01LeFdHLVFKYXhVVXI5azdmZ3B0Z3ZlTjhKcjhQejFVTDh2aHFKRjc2Y3VrMEM2SDR3a3pvZ0hHTEJ0bVdidHhoRU85OFhCUURxX0w?oc=5",
-          "time": "2026-08-31 10:36:15",
-          "publisher": "Google News→CMoney",
-          "severity": null
-        },
-        {
-          "title": "王忠銘登記參選連江縣長 初心不變：為家鄉奉獻是人生最光榮的使命",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KQ1plN3pIMjRkM2pTc0RiTUZwZlo2QU9Pak5QZHNacG90c1pMa29lNUpqZWgwc2JiYXhpQkIyMHVvUTJvWEN4Wlh1NExvZ054SzhV0gFYQVVfeXFMTURvMU1lR0Q1cjZqWUczRG9EVXNoRWp3c1RrRkh2c1NTNWFucDkzNm5ZT0Ywb1RVaWZQS2MzUU9vSGdMbXV2b1JhNHBMaHR2LW9FUWlINkZUdQ?oc=5",
-          "time": "2026-08-31 10:26:35",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "馬祖《拍楸》桃園登場 閩東語音樂劇重現漁村文化記憶 | 時尚生活 | 商情",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ic1AxckZiX21kajNRUUF4STdtMV83cXdlcjg5cVdkaHJYUFBqVjgzNjk0SVZZcFkyQTNNdUp2RlQtcmVhbWN2UEl1MDFLUlI3Wkd3RkYwOTB1QzRoM2NYSHBDUU1lRGo0UHVoZm9seVVUNGdiQXUzbDMzYm0?oc=5",
-          "time": "2026-08-31 10:00:28",
-          "publisher": "Google News→經濟日報",
-          "severity": null
-        },
-        {
-          "title": "馬祖《拍楸》桃園登場 閩東語音樂劇重現漁村文化記憶 | 時尚生活 | 商情",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pSmxNVHptTTFWMW1GQ1cySzdwdk9pT0ZYNkg1T3NNcGd4Z1NmWFlELXVEUmVwWjdpd0xDZVB4UEJXVzZ3UTFPcjdPWUZCYVU0cjY4ZGhXdmdRZw?oc=5",
-          "time": "2026-08-31 10:00:28",
-          "publisher": "Google News→經濟日報",
           "severity": null
         }
       ],
@@ -2872,11 +2858,11 @@
       "city": "苗栗",
       "place": "苗栗縣政府",
       "level": "yellow",
-      "news_count": 69,
+      "news_count": 67,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 69,
+      "urgency_score": 67,
       "news_articles": [
         {
           "title": "12位返鄉青農甘苦談成書！苗栗攜手朝陽科大 見證青農返鄉永續路",
@@ -3346,20 +3332,6 @@
           "time": "2026-08-31 10:08:12",
           "publisher": "自由時報",
           "severity": null
-        },
-        {
-          "title": "海釣驚魂！苗栗海釣船失動力漂流海巡即時救援3釣客上岸| 社會萬象| 社會",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yNnk1cHMtcGR1bDRJTjdNQXh6NFJpOVcwR1FwdVF3X3dnZXZRSHNiTldqNFhNZURrcFF1TTkyMTM2LUdpYTU2RXJyTEI0S09B?oc=5",
-          "time": "2026-08-31 09:57:11",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "海釣驚魂！苗栗海釣船失動力漂流 海巡即時救援3釣客上岸",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yNnk1cHMtcGR1bDRJTjdNQXh6NFJpOVcwR1FwdVF3X3dnZXZRSHNiTldqNFhNZURrcFF1TTkyMTM2LUdpYTU2RXJyTEI0S09B0gFWQVVfeXFMUFkxamJnUDFDVXZaRjV3NS1NS0FSTUlqenZRQlN4b2N6Y08zUDV3QmdyajlhTGx6eW90VVA0TkR0d0hIbzZsNmZSN2pCSU9xajhNMVppNWc?oc=5",
-          "time": "2026-08-31 09:57:11",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -3992,11 +3964,11 @@
       "city": "台中",
       "place": "台中市清水區",
       "level": "yellow",
-      "news_count": 66,
+      "news_count": 64,
       "comment_count": 46,
       "negativity_pct": 3,
       "is_urgent": true,
-      "urgency_score": 150,
+      "urgency_score": 148,
       "news_articles": [
         {
           "title": "台積電中科1.4奈米新廠工程超前 盧秀燕視察關心水電、工安、綠化",
@@ -4445,20 +4417,6 @@
           "time": "2026-08-31 10:16:30",
           "publisher": "匯流新聞網",
           "severity": null
-        },
-        {
-          "title": "備戰2028！盧秀燕首觸兩岸事務 派兩大親信訪陸試水溫",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80UnhNVHgwcVd3SUxGUjNjX29DTlFrVmZwV29xSjZqcW5kLUVHVFAxMDRvWk03WkRJay0zMWdkcmUtb2lUQ2FlSFk5U01pYy0zZXNr?oc=5",
-          "time": "2026-08-31 09:59:00",
-          "publisher": "TVBS",
-          "severity": "yellow"
-        },
-        {
-          "title": "蕭旭岑幫盧秀燕牽線？鄭照新將受命訪東莞 與廣東官方互動成焦點 | 晏明強 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hSHo3bEt1XzFVMWtpQVpybUNiNVd0aS16WExHZkNKSWlsSmlkaEJ3YWh2Nm52Tl85NTBuZjVLaDRQR1R1QWVjMndfVG1pQQ?oc=5",
-          "time": "2026-08-31 09:59:00",
-          "publisher": "Google News→風傳媒",
-          "severity": "yellow"
         }
       ],
       "comments": [
@@ -4837,11 +4795,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "yellow",
-      "news_count": 128,
+      "news_count": 126,
       "comment_count": 0,
       "negativity_pct": 1,
       "is_urgent": false,
-      "urgency_score": 131,
+      "urgency_score": 129,
       "news_articles": [
         {
           "title": "開學首日新北送三禮！免費午餐上路、鮮奶週擴大國中 32萬學生受惠",
@@ -5724,20 +5682,6 @@
           "time": "2026-08-31 10:12:21",
           "publisher": "中華日報",
           "severity": null
-        },
-        {
-          "title": "新北開學日迎新！免費午餐上路、鮮奶擴大至國中",
-          "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E9%96%8B%E5%AD%B8%E6%97%A5%E8%BF%8E%E6%96%B0-%E5%85%8D%E8%B2%BB%E5%8D%88%E9%A4%90%E4%B8%8A%E8%B7%AF-%E9%AE%AE%E5%A5%B6%E6%93%B4%E5%A4%A7%E8%87%B3%E5%9C%8B%E4%B8%AD-015709065.html",
-          "time": "2026-08-31 09:57:09",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "新北復興國小參與式校園美感營造 看見校園美學新生機",
-          "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E5%BE%A9%E8%88%88%E5%9C%8B%E5%B0%8F%E5%8F%83%E8%88%87%E5%BC%8F%E6%A0%A1%E5%9C%92%E7%BE%8E%E6%84%9F%E7%87%9F%E9%80%A0-%E7%9C%8B%E8%A6%8B%E6%A0%A1%E5%9C%92%E7%BE%8E%E5%AD%B8%E6%96%B0%E7%94%9F%E6%A9%9F-015229905.html",
-          "time": "2026-08-31 09:52:29",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -6055,11 +5999,11 @@
       "city": "澎湖",
       "place": "澎湖縣政府",
       "level": "red",
-      "news_count": 56,
+      "news_count": 54,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 56,
+      "urgency_score": 54,
       "news_articles": [
         {
           "title": "澎湖縣家用廚餘機推廣補助計畫申請額滿  環保局感謝縣民踴躍響應",
@@ -6438,20 +6382,6 @@
           "time": "2026-08-31 10:10:47",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "少子化浪潮襲擊澎湖 4所國小新生僅1人2所掛零",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5557706",
-          "time": "2026-08-31 09:54:29",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "少子化浪潮襲擊澎湖4所國小新生僅1人2所掛零- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XSHVSdnZ3ZHhWejFsaWlkNmRobkdkOGFabFpIWGhZWE5mOWg5aktEcTdJZElQbmtKYXZ4VjRDdXFIWTFGdU85NGU4bWpIbi1uam1jX0xGWF9HOHlqRDR0bkpkcUw?oc=5",
-          "time": "2026-08-31 09:54:29",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -6461,11 +6391,11 @@
       "city": "台南",
       "place": "台南市政府",
       "level": "red",
-      "news_count": 59,
+      "news_count": 56,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 68,
+      "urgency_score": 65,
       "news_articles": [
         {
           "title": "真實故事啟發！台南海產店老闆曾吸毒入獄 改頭換面10萬個愛心便當感動大嘻哈冠軍",
@@ -6858,27 +6788,6 @@
           "time": "2026-08-31 10:45:30",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "台南「鍘美」還沒辦 台北又有人砸百萬辦桌！百人揪團脫單原因超閃",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97-%E9%8D%98%E7%BE%8E-%E9%82%84%E6%B2%92%E8%BE%A6-%E5%8F%B0%E5%8C%97%E5%8F%88%E6%9C%89%E4%BA%BA%E7%A0%B8%E7%99%BE%E8%90%AC%E8%BE%A6%E6%A1%8C-%E7%99%BE%E4%BA%BA%E6%8F%AA%E5%9C%98%E8%84%AB%E5%96%AE%E5%8E%9F%E5%9B%A0%E8%B6%85%E9%96%83-020003285.html",
-          "time": "2026-08-31 10:00:03",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "法國網紅開箱台南水果 攜手黃偉哲直播行銷",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5557710",
-          "time": "2026-08-31 09:58:12",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "台南開學首週車流增16％ 市府加強校園周邊交管",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5557700",
-          "time": "2026-08-31 09:54:41",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []
@@ -6888,11 +6797,11 @@
       "city": "新竹縣",
       "place": "新竹縣政府",
       "level": "red",
-      "news_count": 63,
+      "news_count": 62,
       "comment_count": 0,
       "negativity_pct": 16,
       "is_urgent": false,
-      "urgency_score": 93,
+      "urgency_score": 92,
       "news_articles": [
         {
           "title": "竹北市長藍白復合？ 林為州參與協調曝轉機：稍安勿躁、先不要彼此攻擊",
@@ -7327,13 +7236,6 @@
           "time": "2026-08-31 10:10:17",
           "publisher": "新頭殼",
           "severity": "yellow"
-        },
-        {
-          "title": "新竹縣新學期新氣象 免費營養午餐升級、新建校舍與高中改制全面到位",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KNF9NZU8wT1I3clhlZVB3dkdjSVNUMFRPdDFPMW1jaE1Ka1Z0TFRBZ1FnUjl4WWc0LVZFRnhYak9EWVBuYlFFVkFCa3IzZzNSeVc0TTRBZUFmejFQQnJtMmg1ZG1OZnlB?oc=5",
-          "time": "2026-08-31 09:54:50",
-          "publisher": "Google News→元丰傳媒",
-          "severity": null
         }
       ],
       "comments": []
@@ -7343,11 +7245,11 @@
       "city": "彰化",
       "place": "彰化縣政府",
       "level": "red",
-      "news_count": 72,
+      "news_count": 71,
       "comment_count": 0,
       "negativity_pct": 14,
       "is_urgent": false,
-      "urgency_score": 102,
+      "urgency_score": 101,
       "news_articles": [
         {
           "title": "開學日 彰化守護學童安全上學路",
@@ -7845,13 +7747,6 @@
           "time": "2026-08-31 10:23:33",
           "publisher": "Google News→Newtalk新聞",
           "severity": "red"
-        },
-        {
-          "title": "開學日 彰化縣婦幼隊同步守護學童上學安全",
-          "url": "https://tw.news.yahoo.com/%E9%96%8B%E5%AD%B8%E6%97%A5-%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%A9%A6%E5%B9%BC%E9%9A%8A%E5%90%8C%E6%AD%A5%E5%AE%88%E8%AD%B7%E5%AD%B8%E7%AB%A5%E4%B8%8A%E5%AD%B8%E5%AE%89%E5%85%A8-015407277.html",
-          "time": "2026-08-31 09:54:07",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -8421,11 +8316,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "red",
-      "news_count": 124,
+      "news_count": 121,
       "comment_count": 0,
-      "negativity_pct": 6,
+      "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 148,
+      "urgency_score": 145,
       "news_articles": [
         {
           "title": "國家警報一早響了！高雄屏東雷雨炸開",
@@ -9273,27 +9168,6 @@
           "time": "2026-08-31 10:10:43",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "豪雨迎開學！家長開車動線亂 屏東警撐「保護傘」護童",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5557712",
-          "time": "2026-08-31 10:00:08",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "豪雨迎開學！家長開車動線亂屏東警撐「保護傘」護童- 屏東縣",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15T3VZOHhuMHJlYkVjekIxM0NFdW56TklNTGt0U09sbzRZeVVfY1dnV1FNVk5rWURETTIzdFMtZWp1QUc4SmY5WHI0V0dYcVl4Y1Y3cVdIU0VkNEYyRmFEUTg5Q1pKX2h4NFE?oc=5",
-          "time": "2026-08-31 10:00:08",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "豪雨迎開學！家長開車動線亂屏東警撐「保護傘」護童- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13R3RqX0FqWG1lSXUxSXRQbHhPbWVDSzdIRDd3ZXUwSkRIUnFZZU9DdzBvU2p4dUdZRzRVd1Vvbm5ONHd3SVhWWVhvN0EtWTFIUnZsd1BmUHBjT0tEMVRRekZWVjU?oc=5",
-          "time": "2026-08-31 10:00:08",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -9303,11 +9177,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 172,
+      "news_count": 171,
       "comment_count": 0,
       "negativity_pct": 27,
       "is_urgent": false,
-      "urgency_score": 310,
+      "urgency_score": 309,
       "news_articles": [
         {
           "title": "2026.09.01 09:01 傅崐萁嗆外媒記者沒證據就道歉 張育萌列花蓮賄選鐵證：藍營急什麼？",
@@ -10505,13 +10379,6 @@
           "time": "2026-08-31 10:02:13",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "不只花蓮？美籍記者爆「國民黨這縣市」：準備一大堆現金買票",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXV3FPUzNwTFRQS2x0c2d3dW95OVU1WTYzVmIyT0N1WWd4ajc0RkotcjZJZkVBY2VIa2h6aF9vbnlSZktRNW05UHRXZGgwa3R3NVE?oc=5",
-          "time": "2026-08-31 09:52:01",
-          "publisher": "Google News→鏡報",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -10521,11 +10388,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 192,
+      "news_count": 183,
       "comment_count": 0,
-      "negativity_pct": 4,
+      "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 213,
+      "urgency_score": 201,
       "news_articles": [
         {
           "title": "記憶體罷工潮蔓延到台灣，傳美光桃園醞釀罷工，勞資問題一觸即發",
@@ -11807,69 +11674,6 @@
           "time": "2026-08-31 10:00:48",
           "publisher": "Google News→鏡報",
           "severity": "red"
-        },
-        {
-          "title": "馬祖《拍楸》桃園登場 閩東語音樂劇重現漁村文化記憶 | 時尚生活 | 商情",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ic1AxckZiX21kajNRUUF4STdtMV83cXdlcjg5cVdkaHJYUFBqVjgzNjk0SVZZcFkyQTNNdUp2RlQtcmVhbWN2UEl1MDFLUlI3Wkd3RkYwOTB1QzRoM2NYSHBDUU1lRGo0UHVoZm9seVVUNGdiQXUzbDMzYm0?oc=5",
-          "time": "2026-08-31 10:00:28",
-          "publisher": "Google News→經濟日報",
-          "severity": null
-        },
-        {
-          "title": "馬祖《拍楸》桃園登場 閩東語音樂劇重現漁村文化記憶 | 時尚生活 | 商情",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pSmxNVHptTTFWMW1GQ1cySzdwdk9pT0ZYNkg1T3NNcGd4Z1NmWFlELXVEUmVwWjdpd0xDZVB4UEJXVzZ3UTFPcjdPWUZCYVU0cjY4ZGhXdmdRZw?oc=5",
-          "time": "2026-08-31 10:00:28",
-          "publisher": "Google News→經濟日報",
-          "severity": null
-        },
-        {
-          "title": "迎接開學日 南桃園各警分局護童專案籲禮讓行人",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XdzlZYk5SVV9IM1RCZFVXTjZwQ2hzQzdfdkdaQ3ZOdFZvN1FkZmJvc1N1T20wRS1tS1lkYmRGS3VNMTR0OE1JbEFlZzVZaGN5d2pZZGo4WlcxOFFjbDBCcGFSV1hWc2pxS3MyeWZR?oc=5",
-          "time": "2026-08-31 09:59:56",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "開學了！首日車潮湧現 桃園市員警聯手護童上學去",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5557715",
-          "time": "2026-08-31 09:59:28",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "開學了！首日車潮湧現桃園市員警聯手護童上學去- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZNmZPX1RTVjVmTktsaU1qcHNlSkdlZE9jV2VwRDd5X1VBeEJPRG9QVkxrTmpCREdhVW5BbE5KWldwQXlNYkM4Nk15ZF9oQ216UmdyNkdpMTVWdzFFcU1Xdm9nblg?oc=5",
-          "time": "2026-08-31 09:59:28",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "桃園開學首日迎接送潮！楊梅警加強校園周邊交通疏導",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE44c2gtUFNJVWRHMUhaYUR3OWhTQUN6WDVld04wQzhsQm9NbENSTzdOa3lTaDRQQzY1dUhzcmExdzFtMXFqYzl1ek9DTHo?oc=5",
-          "time": "2026-08-31 09:58:47",
-          "publisher": "Google News→桃園電子報",
-          "severity": null
-        },
-        {
-          "title": "桃園開學首日迎接送潮！楊梅警加強校園周邊交通疏導 - 社會新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbUVtVHUyOGtlanVtbC00U2sxVlJzSFN5clNQVlFZUGlIRWV2ZnUweG5yNy1jU0lrTFpYV0FIbkhfMnhZcnJqMmdyVXlWczBOWHotSW1sYUlBenZhMzVFOENNVGlneExQT2Y5RndZcEJKT29TSEQxc2hkLWZOTEhGTTl4QnBqVjd6d0Jn?oc=5",
-          "time": "2026-08-31 09:58:47",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "新／砸40萬勸退對手！桃園里長涉賄選遭逮",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qek1ZblRNQkx2TldqSGJxMWpvd25yUVJvLTdDbnRVMWItcDY4bjVFeUhzeWpjVy1QMTNwd3FxV2JQU3NveDctODdGLUV0aERRbjBGZmJiVHB6bUp50gFiQVVfeXFMT2F4dHJfTEpZUk1qN0RpTzdmUTlZOUhxOW9jSkdnODN0Vm9nTmtWV21jQkdBTkQ4b3BmM2hrODNMMXZFZUZ1Zzl2ai1XRGhwRGlXOHVNVGJlVlRyaUxOYW9uT0E?oc=5",
-          "time": "2026-08-31 09:53:00",
-          "publisher": "Google News→鏡週刊Mirror Media",
-          "severity": "red"
-        },
-        {
-          "title": "新北復興國小參與式校園美感營造 看見校園美學新生機",
-          "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E5%BE%A9%E8%88%88%E5%9C%8B%E5%B0%8F%E5%8F%83%E8%88%87%E5%BC%8F%E6%A0%A1%E5%9C%92%E7%BE%8E%E6%84%9F%E7%87%9F%E9%80%A0-%E7%9C%8B%E8%A6%8B%E6%A0%A1%E5%9C%92%E7%BE%8E%E5%AD%B8%E6%96%B0%E7%94%9F%E6%A9%9F-015229905.html",
-          "time": "2026-08-31 09:52:29",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -11879,12 +11683,26 @@
       "city": "台中",
       "place": "台中市南屯區",
       "level": "red",
-      "news_count": 214,
+      "news_count": 213,
       "comment_count": 0,
       "negativity_pct": 12,
       "is_urgent": false,
-      "urgency_score": 289,
+      "urgency_score": 288,
       "news_articles": [
+        {
+          "title": "台中國中小免費營養午餐全面上路盧秀燕親自打菜陪孩子開學| 綜合 | 要聞",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HbGRCVzBtS3dOWmd5bm9rdmZZeks4T1ZhOXR2RDR0RFpNckhoYVZfNkcxeU1KVVoyUU9KUXh1MjRRbzVaelFfOXpxcTZZWlFE?oc=5",
+          "time": "2026-09-01 09:45:54",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "盧秀燕喊「總統府棄單」 議員爆中市府追回345盒：難道不是另一種棄單？",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Td193LWxWTlpCRF9jTGs4QjRDY2Z4VkU5aXpXeDladHhibXREMmJMUHJWMXBkNFZ3bVNYdDItalh4UVVtY3Nsc25GWTVZUzItRnVMWC1WaWFhTzDSAWBBVV95cUxOX1NYZUlyM1MxNER4Z2p1NDlvaUdvNHBidXJ5LTdKZEs2M3BWOVVVckJjejZFZWItQnNzTllEdUZ2akZ2SDlpcUZiSFR3WHA3QzdLRTRMS2pqWnJMc0JLTWo?oc=5",
+          "time": "2026-09-01 09:44:58",
+          "publisher": "Google News→鏡週刊Mirror Media",
+          "severity": "yellow"
+        },
         {
           "title": "台中免費營養午餐開跑！盧秀燕南屯國小打菜 開學週加碼雙主菜、L形大雞腿",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80RGg0ZVp4MDRidmktUm5mVWRiM2p0TjR3NHpiTWZKWmJPYWp4NWJuUk15bWdtdFRqM1JPTVpuYjlhZjlDQ1ZvSVowQ0xyWXpGRkE?oc=5",
@@ -13361,27 +13179,6 @@
           "time": "2026-08-31 10:04:36",
           "publisher": "自由時報",
           "severity": null
-        },
-        {
-          "title": "逢甲夜市、一中街輸了！台中最強景點吸1716萬人，遊客讚物美價廉、好吃好玩逛到不想走",
-          "url": "https://www.storm.mg/lifestyle/11158510",
-          "time": "2026-08-31 10:00:00",
-          "publisher": "風傳媒",
-          "severity": null
-        },
-        {
-          "title": "台中工安又出包！工人失足墜地下4樓 「腦漿四溢」慘死",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%B7%A5%E5%AE%89%E5%8F%88%E5%87%BA%E5%8C%85-%E5%B7%A5%E4%BA%BA%E5%A4%B1%E8%B6%B3%E5%A2%9C%E5%9C%B0%E4%B8%8B4%E6%A8%93-%E8%85%A6%E6%BC%BF%E5%9B%9B%E6%BA%A2-%E6%85%98%E6%AD%BB-095922664.html",
-          "time": "2026-08-31 09:59:22",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "開學日操場還在蓋！ 台中文山國中校長保證學生不踩泥",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5557691",
-          "time": "2026-08-31 09:54:06",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -13391,11 +13188,11 @@
       "city": "高雄",
       "place": "高雄市前金區",
       "level": "red",
-      "news_count": 241,
+      "news_count": 239,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 283,
+      "urgency_score": 281,
       "news_articles": [
         {
           "title": "高雄區漁會砲轟蔣萬安 抹黑漁港改建計畫 拒當政治攻防籌碼",
@@ -14423,7 +14220,7 @@
           "title": "高雄市長任內最後一次施政報告 陳其邁：人生非常奇妙的旅行 | 政治 | CTWANT",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZQjlTOUUtRk1xTjhfSkRadnBvZG1KMVp0aWtuTDdqYnVldGNzcm5CS1VkbklTYWJmZXJoQ0d5VFVIUEh6S2ZpcjdDdWxIY3NlMFNqLdIBVEFVX3lxTE5ZQjlTOUUtRk1xTjhfSkRadnBvZG1KMVp0aWtuTDdqYnVldGNzcm5CS1VkbklTYWJmZXJoQ0d5VFVIUEh6S2ZpcjdDdWxIY3NlMFNqLQ?oc=5",
           "time": "2026-08-31 15:10:50",
-          "publisher": "Google News→CTWANT",
+          "publisher": "Google News→ctwant.com",
           "severity": null
         },
         {
@@ -15069,20 +14866,6 @@
           "time": "2026-08-31 10:04:08",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "吸毒男見警丟毒落跑 高雄警飛毛腿壓制送辦",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5557624",
-          "time": "2026-08-31 09:57:55",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "不熟路況逆向行駛 高雄19歲賓士駕駛肇事",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5557709",
-          "time": "2026-08-31 09:56:02",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -15092,12 +14875,19 @@
       "city": "台北",
       "place": "台北市信義區",
       "level": "red",
-      "news_count": 320,
+      "news_count": 316,
       "comment_count": 0,
       "negativity_pct": 13,
       "is_urgent": false,
-      "urgency_score": 443,
+      "urgency_score": 439,
       "news_articles": [
+        {
+          "title": "《曾韋禎專欄》兩小報仍看不到蔣萬安、台北市負面新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrWV9lOFdXWWI4WTJEWmNGSmg1OGRrdDNpN3dYQXdMR002bnhDZEd6dks3LVBxWTBONkVjbWZwMXVyOUdnUXdOalVRMURvQ01L?oc=5",
+          "time": "2026-09-01 09:55:47",
+          "publisher": "Google News→芋傳媒 TaroNews",
+          "severity": "yellow"
+        },
         {
           "title": "高雄區漁會砲轟蔣萬安 抹黑漁港改建計畫 拒當政治攻防籌碼",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WbnhSeGtZZ0FCbWZpakFPaFVfcnZ0QmVPN2dlTzE3NzhZX3pqaG9iMjdZS21WMUpKdzNhTUhGQzkwclZvR3drRmpsYUxsVUFjeGg5OVpGWW4wM3ZZQmh5TmV1Tm1McDA1ZmJ2T0dB?oc=5",
@@ -17301,41 +17091,6 @@
           "url": "https://www.storm.mg/article/11160463",
           "time": "2026-08-31 10:09:00",
           "publisher": "風傳媒",
-          "severity": "yellow"
-        },
-        {
-          "title": "台南「鍘美」還沒辦 台北又有人砸百萬辦桌！百人揪團脫單原因超閃",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97-%E9%8D%98%E7%BE%8E-%E9%82%84%E6%B2%92%E8%BE%A6-%E5%8F%B0%E5%8C%97%E5%8F%88%E6%9C%89%E4%BA%BA%E7%A0%B8%E7%99%BE%E8%90%AC%E8%BE%A6%E6%A1%8C-%E7%99%BE%E4%BA%BA%E6%8F%AA%E5%9C%98%E8%84%AB%E5%96%AE%E5%8E%9F%E5%9B%A0%E8%B6%85%E9%96%83-020003285.html",
-          "time": "2026-08-31 10:00:03",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "今日的獨立書店不再以「賣書」為定義：草率書店插旗西門町，6間台北獨立書店盤點",
-          "url": "https://tw.news.yahoo.com/%E4%BB%8A%E6%97%A5%E7%9A%84%E7%8D%A8%E7%AB%8B%E6%9B%B8%E5%BA%97%E4%B8%8D%E5%86%8D%E4%BB%A5%E3%80%8C%E8%B3%A3%E6%9B%B8%E3%80%8D%E7%82%BA%E5%AE%9A%E7%BE%A9%EF%BC%9A%E8%8D%89%E7%8E%87%E6%9B%B8%E5%BA%97%E6%8F%92%E6%97%97%E8%A5%BF%E9%96%80%E7%94%BA%EF%BC%8C6%E9%96%93%E5%8F%B0%E5%8C%97%E7%8D%A8%E7%AB%8B%E6%9B%B8%E5%BA%97%E7%9B%A4%E9%BB%9E-020000800.html",
-          "time": "2026-08-31 10:00:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "九合一大選參選登記開跑 北市民進黨張銘祐、林子揚搶頭香",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5557703",
-          "time": "2026-08-31 09:56:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "北市鮮奶週報再升級 補助擴大至國中生 (圖)",
-          "url": "https://tw.news.yahoo.com/%E5%8C%97%E5%B8%82%E9%AE%AE%E5%A5%B6%E9%80%B1%E5%A0%B1%E5%86%8D%E5%8D%87%E7%B4%9A-%E8%A3%9C%E5%8A%A9%E6%93%B4%E5%A4%A7%E8%87%B3%E5%9C%8B%E4%B8%AD%E7%94%9F-%E5%9C%96-015506717.html",
-          "time": "2026-08-31 09:55:06",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "開學日操場還在蓋！ 台中文山國中校長保證學生不踩泥",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5557691",
-          "time": "2026-08-31 09:54:06",
-          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
