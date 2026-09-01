@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "snapshot_at": "2026-09-01T01:43:52.724161+00:00",
+  "snapshot_at": "2026-09-01T01:50:50.431984+00:00",
   "hotspots": [
     {
       "title": "台北狼師事件",
@@ -103,7 +103,7 @@
           "text": "捷運藍線開始做了沒？ 盧秀。",
           "author": "ryosuke79979",
           "url": "",
-          "time_text": "11小時",
+          "time_text": "12小時",
           "signal": "yellow"
         },
         {
@@ -111,7 +111,7 @@
           "text": "中火呢？文山焚化爐呢？廚餘生質能場呢？ 捷運藍線？綠線延伸？機場捷運？輕軌？社會住宅？水湳經貿園區？ 什麼都不會只會花市民的錢印海報印春聯！穿個防護服，夾雞腿做個秀！ 中華民國有史以來最爛市長絕對是你！",
           "author": "hulkkao1225",
           "url": "",
-          "time_text": "11小時",
+          "time_text": "13小時",
           "signal": "red"
         }
       ]
@@ -240,7 +240,7 @@
           "text": "超好笑今年我們海線中央分隔島狂用，八年中間完全沒感覺，今年狂做😆",
           "author": "raaaaaaa2205251",
           "url": "",
-          "time_text": "11小時",
+          "time_text": "12小時",
           "signal": "yellow"
         }
       ]
@@ -251,10 +251,10 @@
       "place": "台中市大里區",
       "level": "green",
       "news_count": 2,
-      "comment_count": 8,
+      "comment_count": 9,
       "negativity_pct": 0,
       "is_urgent": true,
-      "urgency_score": 26,
+      "urgency_score": 29,
       "news_articles": [
         {
           "title": "垃圾山防線又破！「3月鼠咬、5月蓋布、8月風吹爛」 何文海轟中市府：靠補丁撐5年？",
@@ -301,15 +301,7 @@
           "text": "市長 你任內留下的垃圾山 要怎麼處理 丟著不管嗎",
           "author": "ming_shih000",
           "url": "",
-          "time_text": "10小時",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "全台最大！ 大里的垃圾山你想要怎麼解決了嗎？",
-          "author": "xiupingliao",
-          "url": "",
-          "time_text": "12小時",
+          "time_text": "11小時",
           "signal": "red"
         },
         {
@@ -317,7 +309,23 @@
           "text": "請問廚餘湖怎麼辦，垃圾山燒不完怎麼辦？？？",
           "author": "kkland101",
           "url": "",
-          "time_text": "11小時",
+          "time_text": "13小時",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "全台最大！ 大里的垃圾山你想要怎麼解決了嗎？",
+          "author": "xiupingliao",
+          "url": "",
+          "time_text": "13小時",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "知道自己新聞跟垃圾山一樣臭一樣多才出來裝",
+          "author": "jyun_an_",
+          "url": "",
+          "time_text": "17分鐘",
           "signal": "red"
         },
         {
@@ -325,7 +333,7 @@
           "text": "垃圾山、毒油都來自臺中耶，不說還以為中國，這些解決了嗎？ 大家直接票投何欣純啦",
           "author": "r.h.g.s_treasure",
           "url": "",
-          "time_text": "9小時",
+          "time_text": "10小時",
           "signal": "red"
         },
         {
@@ -333,7 +341,7 @@
           "text": "作秀第一，垃圾山不處理",
           "author": "michael_english_0706",
           "url": "",
-          "time_text": "10小時",
+          "time_text": "12小時",
           "signal": "red"
         }
       ]
@@ -1032,230 +1040,6 @@
       "comments": []
     },
     {
-      "title": "嘉義縣地方動態",
-      "city": "嘉義縣",
-      "place": "嘉義縣政府",
-      "level": "yellow",
-      "news_count": 30,
-      "comment_count": 0,
-      "negativity_pct": 3,
-      "is_urgent": false,
-      "urgency_score": 33,
-      "news_articles": [
-        {
-          "title": "嘉義縣長翁章梁關心開學情形 嘉義縣免費營養午餐正式上路！",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IbGZFZXFPUDdxd2h6N0tITnBEY05OQVVnbExLSzg3X056SjFNNVBES2xEY1dhMnVjcVRUMUxJaDlJVjlMQWJRQ0FNY0t5QzJpZmdUdFFrOVJocGZRTHJsbVZfRlpqZjRldDlLajQzSl9wWWFHMUJZeTZzRWk?oc=5",
-          "time": "2026-09-01 01:07:33",
-          "publisher": "Google News→台灣華報",
-          "severity": null
-        },
-        {
-          "title": "食安永在 嘉義縣用科學檢驗打造最優等級食安治理，榮獲「食育力五星城市」六連霸",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIelpJc2ctbU02aGx5WmJYWG5wNk5LV0tzWmFOSXNRNFNEUUNadG93TWktNFRYdFVZdUhSUFRNU01UdmFPVWNOT1h2STg0Vl94aWdUcF9wTGQ?oc=5",
-          "time": "2026-09-01 00:00:00",
-          "publisher": "Google News→康健雜誌",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣「都市危險及老舊建築物結構安全性能評估」費用補助，11月30日前受理申請",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KdzNQLXpPRkw5V2RUeHJsRHdYdU1sdkNhZENzbHB6V3FickRuYmpGLV90VGFpZzZDQXJWZWdXbk5pNkp3a2xDVXBGR0g4SldDTUIzREx1MnVXVDE2bFZDU0xhUlNpUTl5LW5JQ0Zyb0hKWkE?oc=5",
-          "time": "2026-08-31 22:31:02",
-          "publisher": "Google News→環球日報社",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣選戰登記起跑 首日2人選鄉鎮長、8人搶議員 | 自由電子報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PTzlPRVZZeUpaSjhFcTI3d0lvZFFLTEU1SG5IOFo4a056LWZCUEVuZXl2ZHhiMERyWXMwb0FUYVd2UG1iYUNWVTBlc3pVeGk1TXFPQW9n?oc=5",
-          "time": "2026-08-31 22:22:37",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣選戰登記起跑 首日2人選鄉鎮長、8人搶議員",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5558636",
-          "time": "2026-08-31 22:20:04",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣選戰登記起跑首日2人選鄉鎮長、8人搶議員- 政治",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80RVRsZXNURVFCT20wWWNNMTNONlZOcTgtTDVIS2dOS3VReWJvc0JUVFdJSU14TThaajFTUWp2aXVCakExZjltaDVhZVZsX0dDQmNrb0x1d2VMNDBzUTdqaWZVSEUtOEZZVlE?oc=5",
-          "time": "2026-08-31 22:20:04",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣番路牛心柿吸引日本市場目光 宮崎交流促成農產合作新進展",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6SE9JUmk4M24zcmFhS0ZSVHJCSU1WSE9mQWpsZmtKXzYyY2thYlVJRWhzUTNmNkVfSTNVVGNRQUhhcFJwM3ZWbkFHNGhaNFBLOHhxVU41SVdQRnpXa2hybHVrTUNpdmdQRVRoRVJzdEFjUEtUWndhbUhXN1k?oc=5",
-          "time": "2026-08-31 22:10:07",
-          "publisher": "Google News→台灣華報",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣志工大會師 750位志工齊聚新港 - 政府消息新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZG8zcXlWNGZmSWs0RDRQdlZiTXNLUTQ5VnNEVGw3dDF1elVTOHl5bFd6VVRtNXhUVS02R2pMVi0tX01QalZFaUpNSHhSdGJ4cDAxTVRPY2pNSUltT2hqZjZHYmdqREs1dm9NWUtpRGpvejFITHlPcEdtY3lSQjNVRTdsVjA?oc=5",
-          "time": "2026-08-31 20:24:20",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣「耐震評估」最高補助40萬 名額有限搶完為止",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YYmNHeGptUU5WMlY2VjZnU29MYmNNekJZY0dPdUxjdTJIRjJjQ3RDNm5pUEhzU0Jma1hsUUszTE5Dd2pwZ2FCUVZ1SlZUWnJlNVVzcFJYSzBLdnh4dHfSAUtBVV95cUxNTzNGZ3Flc25PUmlVbEd3Ti16WjJOUEttYjR6dzhyRnktcVRzVFFOaWFkTk1jLWlDYWtXaXhsUm5vYnhEMGhlZHhKZ3M?oc=5",
-          "time": "2026-08-31 19:54:00",
-          "publisher": "ETtoday",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣免費營養午餐正式上路 翁章梁：讓孩子吃得健康、家長更安心",
-          "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E7%B8%A3%E5%85%8D%E8%B2%BB%E7%87%9F%E9%A4%8A%E5%8D%88%E9%A4%90%E6%AD%A3%E5%BC%8F%E4%B8%8A%E8%B7%AF-%E7%BF%81%E7%AB%A0%E6%A2%81-%E8%AE%93%E5%AD%A9%E5%AD%90%E5%90%83%E5%BE%97%E5%81%A5%E5%BA%B7-%E5%AE%B6%E9%95%B7%E6%9B%B4%E5%AE%89%E5%BF%83-103759199.html",
-          "time": "2026-08-31 18:37:59",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣免費營養午餐開學上路 2.76萬學生受惠縣府年砸3.4億",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxUzJGeDVIV0J2NUJ5bmhFRWx6VW5vem9ZVGY0TnVCX3E0YXZQSVRtLUdTTGVBT19QWFd0Q0RWVEN3MGQzNnc1ZDVsYV85OW5GQVpheUNYQklLZ9IBX0FVX3lxTE5HNzhTb29FQk1pMnlyNFVtNFJZd09HLWlIdGtQMW1nU3FnTTBqaFA0bHhuRmk3RXRUSHRRdVQyMmUwSTd4dUIwVFhXRHowdXBHYmdmV2VBWEdoT05sTW13?oc=5",
-          "time": "2026-08-31 18:11:28",
-          "publisher": "Google News→經濟日報",
-          "severity": null
-        },
-        {
-          "title": "翁章梁關心開學情形 嘉義縣免費營養午餐正式上路",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuWlhoc282ZlB6SWIzUm0wMnAyRjRIaS1BRWRERWxmU3lWNjFYVGVrMTlDWjhOOHRXS3B3N0VCWUR5OFd2RFI5aVN4UUl0bHhINlZ2X2RB?oc=5",
-          "time": "2026-08-31 18:00:43",
-          "publisher": "Google News→cna.com.tw",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣新學年免費營養午餐上路 校園環境再升級",
-          "url": "https://www.thehubnews.net/archives/660178",
-          "time": "2026-08-31 17:59:49",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣新學年免費營養午餐上路 校園環境再升級 - 生活新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclFiQlBHU201TVpjWElyUDE1bElNQ2c0WDBmTlVvZ2JuT3NRVXVlU0NKUlFremdud2NXSG4tZkVHcGhfMzFIWW5nOG00d0NoZHc2Wk1ySWstR256VEJWSnFzOFNtYjVkbnZJNDR5RUc5OC1NWUtUR3ZfdElldXhFdEpHOHhjRzlpRmdpS1VR?oc=5",
-          "time": "2026-08-31 17:59:49",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "教師荒不只偏鄉嘉義縣輔導、特教及國英數理師資較難聘| 文教新訊| 文教",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DUkhzQm8zd3lUYklUcGxVX25HSHBjSkp0Sm9SUjJPVVFTLUVKMnRRWkFBckNVZUU5WkhQVUJYN25ON29sLUpjUmpOazMxa2ZF?oc=5",
-          "time": "2026-08-31 17:27:50",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "教師荒不只偏鄉 嘉義縣輔導、特教及國英數理師資較難聘",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DUkhzQm8zd3lUYklUcGxVX25HSHBjSkp0Sm9SUjJPVVFTLUVKMnRRWkFBckNVZUU5WkhQVUJYN25ON29sLUpjUmpOazMxa2ZF0gFWQVVfeXFMTmFXWTJBa0Zoc241MnZUWG8yQUwyN2FJYXYzOWRrNXJQeUt5NXllX0t2T0o5bm5XQngzbTBfdWg4V2k0VGlRb194ODZZVl96ZFlTRHNLUmc?oc=5",
-          "time": "2026-08-31 17:27:50",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "嘉義縣免費營養午餐上路 2.7萬學生受惠 | 中廣新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtWXA2dVpjUXpBTVlPbEhET0xwTjk5cnRvdEtXSDFnQk5INUl2ZExNUElDa2t4Q0ZMTW5mQTJpWmVtTG1VTllUdzVHRHMtMnIxV0dPbXRn?oc=5",
-          "time": "2026-08-31 15:41:21",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "年砸3.4億！嘉義縣免費營養午餐開學上路 2.76萬學生受惠",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55NGZSMG1qdUpJU0ZkNHY1MlBtcFFiTS1MRWdEbVpPbGoxSmpQSFd4TkpreDlFRXFWN2NuZVBpTzR2VmQ0ajIxSmdhNXktUTRGYWNxaG1R0gFWQVVfeXFMTnk0ZlIwbWp1SklTRmQ0djUyUG1wUWJNLUxFZ0RtWk9sajFKalBIV3hOSmt4OUVFcVY3Y25lUGlPNHZWZDRqMjFKZ2E1eS1RNEZhY3FobVE?oc=5",
-          "time": "2026-08-31 15:35:43",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣免費營養午餐正式上路 縣長翁章梁關心開學情形",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tVjJKYnkxUXphMENLelpXYm5KZmxWM2pjNXhUQ3g1eGtQMjZVcmR0TWhpdEVaOFRpQ1VidzNRYUFZVDIyVnBhbTJrZFdUMF9UYUE?oc=5",
-          "time": "2026-08-31 15:24:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣免費營養午餐上路 2.7萬學生受惠",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZDFFVm9mUkozck5oeVdvM0lVVDZTbkw3UlBEc0FfWVczTVQ0NVBtNEptcnZEbzVDWEtsd1BiMzBOSzBVTnZfVm1rd2JJM2ZPWkU5SW93eW9QbTVrQmkwLWpJZTlRWmtUYmFwcWZzMHA0aUJFNlBlcUp4RFg0MzVCb3NrQTZQejBPanNybVpZeS15WFRnci1yM0twQ3FhQllyVURnYmtqUlRSMUJiVG5JUEtQcUpEckJycWdBNXBidk1oS2VYQkxQR2RaczRiUXAtSEVQUVNhSmQyOFBoOEVRZlVmalpTcVhsNXRPLVNEc01FTXNJR05HQm12UE1nckJjZXpnZGhIamEyS0RNY3ZfbFM2bTVpUE0t?oc=5",
-          "time": "2026-08-31 15:18:35",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "翁章梁關心開學情形，嘉義縣免費營養午餐正式上路",
-          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=256969",
-          "time": "2026-08-31 15:06:12",
-          "publisher": "嘉義縣政府",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣全面推動免費營養午餐 高中以下2.7萬名學生受惠",
-          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPbGE5RmJOZzBvVWRQMlROR0g1bVNCSFQxcEVKTndqdGdiNmhKUnlfSkpteGhNZF9SdzVrcE5SaHRpMEtOYVBZXzJoeGZtbVBJZWpVemhJa1VuNmw5ZFFYUXJoNUZYeEdtN1o3aFdMeElYcURPa2Z5Q1JTaEtadHlnbGV4TWJEbmtWMTdPMjJQTEtHeWxlcy16MFRzMElabjB4NHBrRzNfRFcyV3BzYVcxY0dZcmdMLUs4OGF1bFhMMGp6QjI0NXJBVi1ZMlFselA2d0lYZ2lGaGp0QVR4N1d5X3hTazJUZzdSS3l5MDhVV2hnSmwydXoyejJtUWw0SjZkMDNJSHVqYmg5Y3lDSlp0QjhIeHlYSDlZRS1WVXRrRk5jcGc0RE9zNUtXbS1CaEk1OUxibU1DTVBYTXhDWlRjQUlBYU9aNXhwdzgtLWNsa0lJaDJNdzc3MExNYnZzR1VUVFlyTjFoNHptRGM?oc=5",
-          "time": "2026-08-31 14:55:39",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣全面推動免費營養午餐 高中以下2.7萬名學生受惠",
-          "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E7%B8%A3%E5%85%A8%E9%9D%A2%E6%8E%A8%E5%8B%95%E5%85%8D%E8%B2%BB%E7%87%9F%E9%A4%8A%E5%8D%88%E9%A4%90-%E9%AB%98%E4%B8%AD%E4%BB%A5%E4%B8%8B27%E8%90%AC%E5%90%8D%E5%AD%B8%E7%94%9F%E5%8F%97%E6%83%A0-065235769.html",
-          "time": "2026-08-31 14:52:35",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣免費營養午餐啟動投入3.42億元2.76萬名學生受惠- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LQnBvN05CX3NvWVpTWGNiaGNNUFZBZXMxREJTTUdod09Gd0lJNGpSZWlhaVE2VzNReUJ1Z3FSd2dQY1hJcXE3dnphT09RU3pielZXRUlPNVA1V1hiTW15R1FTRzk?oc=5",
-          "time": "2026-08-31 14:15:25",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣免費營養午餐啟動 投入3.42億元2.76萬名學生受惠",
-          "url": "https://news.ltn.com.tw/news/ChiayiCounty/breakingnews/5558088",
-          "time": "2026-08-31 14:15:25",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "【智慧物流分享】 嘉義縣與中華電信攜手打造無人機智慧物流，讓空中配送從技術展示走向商業化驗證 這項服務從 APP 點餐開始，串接無人機配送與智慧取貨櫃取餐流程，讓餐點配送從地面延伸到空中 背後關鍵不只在無人機本身，更結合中華電信 5G 空中廊道、AI 任務",
-          "url": "https://news.google.com/rss/articles/CBMi8wdBVV95cUxPVkxLTHhuWFFkNU9xNXhjaVUwUEpUSWM5UUZpcktwTWhyUmI4Vk5PeV91NFVJVlY1XzVUQjhNZGZEVVBDSWg5RzN0OWQ5RXJ2cm84WUs0c0NIdDlFeVJhdUR0ODM3S183ckFaNXJZaHVYbTR1UGhrRU9EbElHWEtiSzNUQldoQlprcnk0eWl1b1BoQWxDRzhvb1dVMHpIVmNYREozM3JXUUEtSmQtUWdJTDRzQjg5SThwdm5OWjNfeWowRzE2bHNkRm1HT0VESG51UFBvY2c4UEJ4NTJqeE16OUprWXZqb0g2aWRwamppQU8wMWVpcVIyYmxxazJmOUFhZ3VwN2xlWFJCR2NQdkp3SFVJbGdHcTluM0FCRzlGaWMzdkJvaktVOHBvMjJSbzM4MmRvTExLYjc1aU5oNmxoSmZCRU1ycGcwZmt1bnl3cVpCQVRHanF4akFhOUdma3QxUlVJWlE3UF9tOGZEVlRjN1N6VVlUOUZJRllTUU4temowXzNZRGNLaW1vb1RFb2lwR0RYWUhaRjJkVVVLaXpOajhhSkRBeFRWTkNreDhLNlBVb3NpUzVzdjAzdEZJQ1NEaDVJOWg4aXR1NmF2ZUhUeWVPa2FSaDRRNUp1T043UU1EV1dKRFRWRm90S1lHWkdDNUNFbmxxZTdaamRFc1hYUENaRnFnaEJDNzdKYmVLdlFZdExvZWphMHBWQjI2UldJanFHQmpzY2pFRGtoVk8yOHlQZ1l3TXhNREF6dzVZZE8tYWFkUFdwQm04VmVTcDF4TTFOV3ZNeDVTUHM4VUlzY0RsTE5fMFdoRDlTSnYtSFNTeUhNcHNYYndjTkVQdkRPbndUdmVwLWt5N1I5VnhKRnA1aDB3emhjUndLaFhpZ1NDaUFMWFpFNldpNnhVZDRkRjIyQkZ5SWFhVFpGbk51aUZKVUR6QUp4YWNMY0JhZ0duel9oMDRRUkRjWDdnWG5vSXNFZDE0TldwWEYyNkY1NTNmQ3RaakRDMmpOREN1NWVoeElTeU1famd3YkEzcE9qdnJMdE5KZjdoWFprMjIyd0c2X3ZOQTZWS0JrUVRTc09GUnhUOXpqWlZEZ3pJdGd6dnphN2RPZzhvYUV6NjkxTUJ0MkZDR1VGcmlmNXpIV052RGVYSXBQOXVxWjR1MUJjb0JreG05WmtKdTdkdG5HMXZIVWI1TldXZWk3LW4xWlR1Z0JOMm00Nk0wWmRKbFR0R3QyeUN5WVlIRUpTTUt0alV1ejZ0QzdUNHpta0tQREtfMkNibzZ1RzVXMzVXaWJuWU11WjU2M3RGUEdldU1hekpoMlZYVEZUb0JCRmtXcWFfS2M?oc=5",
-          "time": "2026-08-31 11:34:00",
-          "publisher": "Google News→facebook.com",
-          "severity": null
-        },
-        {
-          "title": "ETtoday新聞雲. . 【智慧物流分享】 嘉義縣與中華電信攜手打造無人機智慧物流，讓空中配送從技術展示走向商業化驗證 這項服務從 APP 點餐開始，串接無人機配送與智慧取貨櫃取餐流程，讓餐點配送從地面延伸到空中 背後關鍵不只在無人機本身，更結合中華電信 5G",
-          "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxONUtVUTR5RXl6UGQxbnNmakNDZUlKcXRCdGhpRUxkQnVveHE0RGNRQkpGb3Z2UUk5VS1RMkxrc20tZ3Y2c0tjTURlZFhrSDdTRXRqbmowamctU2VTYjE5RjlXcDlHZ3BZVWJ6YkxlTEdXX0JBQ1NMemNBdFBOS0RxcHlKX0RLUWJrZUNEdHFnZTlFNVcwVHhhNjJTVTI3REVLUFJMNTFNTlhrMURXUWMtWEtWVHdiVThoVERCRTdQOUc5X3N2bjZSQUd2M1FoQVQxeTluNi1SSDFtOTl4M2o3ZUx6MUJ0OThNeWw4dDZBaGd4N1JMYXFXOUpNQ1N1QmZiNm9yLWhXUlNfVUplQnhxWUd0ZTZwd0xoZG1CdldVY0dJMTNYSS1TUlAwQzRuS2tubS1LNDNHQ1I4MmYzX1U3LVZROC03cFVCWmhiZk1OeVE3ZzQzbGhGV09wdXJtVEhKaVZWbWQzbnlEcFhYdWhZd0pjR3cxaHlnd2tUa1k2TklYRmZPQUFVc2szaw?oc=5",
-          "time": "2026-08-31 10:27:36",
-          "publisher": "Google News→facebook.com",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣116年公告土地現值公開說明會",
-          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=256961",
-          "time": "2026-08-31 10:11:46",
-          "publisher": "嘉義縣政府",
-          "severity": null
-        },
-        {
-          "title": "嘉義市長選舉參選登記今天開跑，長達15字姓名的「黃宏成台灣阿成世界偉人財神總統」上午8時搶得頭香，完成登記並繳交16萬元保證金。他同時表示，昨晚返回嘉義縣水上鄉住處時，發現門口遭張貼「欠錢還錢、吉安」字樣，認為時間點就在登記前夕，懷疑有妨害選舉情事，將正式向警方報案。",
-          "url": "https://udn.com/news/story/124652/9723943?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-08-31 10:11:38",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "「嘉義縣鄒遊季」9/1登場 走訪部落秘境抽好禮",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXWkljSjFTMWFLMGhqNjFlUVpXY0NMQXVaYzVzZ0Z1S3M0TGc5NmE0aXQ4Zmh4ZGMxenZxS0QyTzRpeGdnTzN3SEZxb24xb2xPZTR0NVFZOGZGTGZl0gFiQVVfeXFMT0VaZDQzY1BjMWgyelJ6V29zZkZpMTVmSlJmaXg1d3l5d1MzRTRRaUpaaXJvOUJVSWRIdE9iamx2Q0l1enBkUzAxWmtyWmJGUEJiMnFhV2N6VE8taFdIYU9hbFE?oc=5",
-          "time": "2026-08-31 10:03:10",
-          "publisher": "Google News→udn 女子漾",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "雲林地方動態",
       "city": "雲林",
       "place": "雲林縣政府",
@@ -1480,15 +1264,239 @@
       "comments": []
     },
     {
+      "title": "嘉義縣地方動態",
+      "city": "嘉義縣",
+      "place": "嘉義縣政府",
+      "level": "yellow",
+      "news_count": 30,
+      "comment_count": 0,
+      "negativity_pct": 3,
+      "is_urgent": false,
+      "urgency_score": 33,
+      "news_articles": [
+        {
+          "title": "嘉義縣長翁章梁關心開學情形 嘉義縣免費營養午餐正式上路！",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IbGZFZXFPUDdxd2h6N0tITnBEY05OQVVnbExLSzg3X056SjFNNVBES2xEY1dhMnVjcVRUMUxJaDlJVjlMQWJRQ0FNY0t5QzJpZmdUdFFrOVJocGZRTHJsbVZfRlpqZjRldDlLajQzSl9wWWFHMUJZeTZzRWk?oc=5",
+          "time": "2026-09-01 01:07:33",
+          "publisher": "Google News→台灣華報",
+          "severity": null
+        },
+        {
+          "title": "食安永在 嘉義縣用科學檢驗打造最優等級食安治理，榮獲「食育力五星城市」六連霸",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIelpJc2ctbU02aGx5WmJYWG5wNk5LV0tzWmFOSXNRNFNEUUNadG93TWktNFRYdFVZdUhSUFRNU01UdmFPVWNOT1h2STg0Vl94aWdUcF9wTGQ?oc=5",
+          "time": "2026-09-01 00:00:00",
+          "publisher": "Google News→康健雜誌",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣「都市危險及老舊建築物結構安全性能評估」費用補助，11月30日前受理申請",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KdzNQLXpPRkw5V2RUeHJsRHdYdU1sdkNhZENzbHB6V3FickRuYmpGLV90VGFpZzZDQXJWZWdXbk5pNkp3a2xDVXBGR0g4SldDTUIzREx1MnVXVDE2bFZDU0xhUlNpUTl5LW5JQ0Zyb0hKWkE?oc=5",
+          "time": "2026-08-31 22:31:02",
+          "publisher": "Google News→環球日報社",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣選戰登記起跑 首日2人選鄉鎮長、8人搶議員 | 自由電子報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PTzlPRVZZeUpaSjhFcTI3d0lvZFFLTEU1SG5IOFo4a056LWZCUEVuZXl2ZHhiMERyWXMwb0FUYVd2UG1iYUNWVTBlc3pVeGk1TXFPQW9n?oc=5",
+          "time": "2026-08-31 22:22:37",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣選戰登記起跑 首日2人選鄉鎮長、8人搶議員",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5558636",
+          "time": "2026-08-31 22:20:04",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣選戰登記起跑首日2人選鄉鎮長、8人搶議員- 政治",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80RVRsZXNURVFCT20wWWNNMTNONlZOcTgtTDVIS2dOS3VReWJvc0JUVFdJSU14TThaajFTUWp2aXVCakExZjltaDVhZVZsX0dDQmNrb0x1d2VMNDBzUTdqaWZVSEUtOEZZVlE?oc=5",
+          "time": "2026-08-31 22:20:04",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣番路牛心柿吸引日本市場目光 宮崎交流促成農產合作新進展",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6SE9JUmk4M24zcmFhS0ZSVHJCSU1WSE9mQWpsZmtKXzYyY2thYlVJRWhzUTNmNkVfSTNVVGNRQUhhcFJwM3ZWbkFHNGhaNFBLOHhxVU41SVdQRnpXa2hybHVrTUNpdmdQRVRoRVJzdEFjUEtUWndhbUhXN1k?oc=5",
+          "time": "2026-08-31 22:10:07",
+          "publisher": "Google News→台灣華報",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣志工大會師 750位志工齊聚新港 - 政府消息新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZG8zcXlWNGZmSWs0RDRQdlZiTXNLUTQ5VnNEVGw3dDF1elVTOHl5bFd6VVRtNXhUVS02R2pMVi0tX01QalZFaUpNSHhSdGJ4cDAxTVRPY2pNSUltT2hqZjZHYmdqREs1dm9NWUtpRGpvejFITHlPcEdtY3lSQjNVRTdsVjA?oc=5",
+          "time": "2026-08-31 20:24:20",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣「耐震評估」最高補助40萬 名額有限搶完為止",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YYmNHeGptUU5WMlY2VjZnU29MYmNNekJZY0dPdUxjdTJIRjJjQ3RDNm5pUEhzU0Jma1hsUUszTE5Dd2pwZ2FCUVZ1SlZUWnJlNVVzcFJYSzBLdnh4dHfSAUtBVV95cUxNTzNGZ3Flc25PUmlVbEd3Ti16WjJOUEttYjR6dzhyRnktcVRzVFFOaWFkTk1jLWlDYWtXaXhsUm5vYnhEMGhlZHhKZ3M?oc=5",
+          "time": "2026-08-31 19:54:00",
+          "publisher": "ETtoday",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣免費營養午餐正式上路 翁章梁：讓孩子吃得健康、家長更安心",
+          "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E7%B8%A3%E5%85%8D%E8%B2%BB%E7%87%9F%E9%A4%8A%E5%8D%88%E9%A4%90%E6%AD%A3%E5%BC%8F%E4%B8%8A%E8%B7%AF-%E7%BF%81%E7%AB%A0%E6%A2%81-%E8%AE%93%E5%AD%A9%E5%AD%90%E5%90%83%E5%BE%97%E5%81%A5%E5%BA%B7-%E5%AE%B6%E9%95%B7%E6%9B%B4%E5%AE%89%E5%BF%83-103759199.html",
+          "time": "2026-08-31 18:37:59",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣免費營養午餐開學上路 2.76萬學生受惠縣府年砸3.4億",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxUzJGeDVIV0J2NUJ5bmhFRWx6VW5vem9ZVGY0TnVCX3E0YXZQSVRtLUdTTGVBT19QWFd0Q0RWVEN3MGQzNnc1ZDVsYV85OW5GQVpheUNYQklLZ9IBX0FVX3lxTE5HNzhTb29FQk1pMnlyNFVtNFJZd09HLWlIdGtQMW1nU3FnTTBqaFA0bHhuRmk3RXRUSHRRdVQyMmUwSTd4dUIwVFhXRHowdXBHYmdmV2VBWEdoT05sTW13?oc=5",
+          "time": "2026-08-31 18:11:28",
+          "publisher": "Google News→經濟日報",
+          "severity": null
+        },
+        {
+          "title": "翁章梁關心開學情形 嘉義縣免費營養午餐正式上路",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuWlhoc282ZlB6SWIzUm0wMnAyRjRIaS1BRWRERWxmU3lWNjFYVGVrMTlDWjhOOHRXS3B3N0VCWUR5OFd2RFI5aVN4UUl0bHhINlZ2X2RB?oc=5",
+          "time": "2026-08-31 18:00:43",
+          "publisher": "Google News→cna.com.tw",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣新學年免費營養午餐上路 校園環境再升級",
+          "url": "https://www.thehubnews.net/archives/660178",
+          "time": "2026-08-31 17:59:49",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣新學年免費營養午餐上路 校園環境再升級 - 生活新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclFiQlBHU201TVpjWElyUDE1bElNQ2c0WDBmTlVvZ2JuT3NRVXVlU0NKUlFremdud2NXSG4tZkVHcGhfMzFIWW5nOG00d0NoZHc2Wk1ySWstR256VEJWSnFzOFNtYjVkbnZJNDR5RUc5OC1NWUtUR3ZfdElldXhFdEpHOHhjRzlpRmdpS1VR?oc=5",
+          "time": "2026-08-31 17:59:49",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "教師荒不只偏鄉嘉義縣輔導、特教及國英數理師資較難聘| 文教新訊| 文教",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DUkhzQm8zd3lUYklUcGxVX25HSHBjSkp0Sm9SUjJPVVFTLUVKMnRRWkFBckNVZUU5WkhQVUJYN25ON29sLUpjUmpOazMxa2ZF?oc=5",
+          "time": "2026-08-31 17:27:50",
+          "publisher": "Google News→UDN",
+          "severity": "yellow"
+        },
+        {
+          "title": "教師荒不只偏鄉 嘉義縣輔導、特教及國英數理師資較難聘",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DUkhzQm8zd3lUYklUcGxVX25HSHBjSkp0Sm9SUjJPVVFTLUVKMnRRWkFBckNVZUU5WkhQVUJYN25ON29sLUpjUmpOazMxa2ZF0gFWQVVfeXFMTmFXWTJBa0Zoc241MnZUWG8yQUwyN2FJYXYzOWRrNXJQeUt5NXllX0t2T0o5bm5XQngzbTBfdWg4V2k0VGlRb194ODZZVl96ZFlTRHNLUmc?oc=5",
+          "time": "2026-08-31 17:27:50",
+          "publisher": "Google News→UDN",
+          "severity": "yellow"
+        },
+        {
+          "title": "嘉義縣免費營養午餐上路 2.7萬學生受惠 | 中廣新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtWXA2dVpjUXpBTVlPbEhET0xwTjk5cnRvdEtXSDFnQk5INUl2ZExNUElDa2t4Q0ZMTW5mQTJpWmVtTG1VTllUdzVHRHMtMnIxV0dPbXRn?oc=5",
+          "time": "2026-08-31 15:41:21",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "年砸3.4億！嘉義縣免費營養午餐開學上路 2.76萬學生受惠",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55NGZSMG1qdUpJU0ZkNHY1MlBtcFFiTS1MRWdEbVpPbGoxSmpQSFd4TkpreDlFRXFWN2NuZVBpTzR2VmQ0ajIxSmdhNXktUTRGYWNxaG1R0gFWQVVfeXFMTnk0ZlIwbWp1SklTRmQ0djUyUG1wUWJNLUxFZ0RtWk9sajFKalBIV3hOSmt4OUVFcVY3Y25lUGlPNHZWZDRqMjFKZ2E1eS1RNEZhY3FobVE?oc=5",
+          "time": "2026-08-31 15:35:43",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣免費營養午餐正式上路 縣長翁章梁關心開學情形",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tVjJKYnkxUXphMENLelpXYm5KZmxWM2pjNXhUQ3g1eGtQMjZVcmR0TWhpdEVaOFRpQ1VidzNRYUFZVDIyVnBhbTJrZFdUMF9UYUE?oc=5",
+          "time": "2026-08-31 15:24:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣免費營養午餐上路 2.7萬學生受惠",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZDFFVm9mUkozck5oeVdvM0lVVDZTbkw3UlBEc0FfWVczTVQ0NVBtNEptcnZEbzVDWEtsd1BiMzBOSzBVTnZfVm1rd2JJM2ZPWkU5SW93eW9QbTVrQmkwLWpJZTlRWmtUYmFwcWZzMHA0aUJFNlBlcUp4RFg0MzVCb3NrQTZQejBPanNybVpZeS15WFRnci1yM0twQ3FhQllyVURnYmtqUlRSMUJiVG5JUEtQcUpEckJycWdBNXBidk1oS2VYQkxQR2RaczRiUXAtSEVQUVNhSmQyOFBoOEVRZlVmalpTcVhsNXRPLVNEc01FTXNJR05HQm12UE1nckJjZXpnZGhIamEyS0RNY3ZfbFM2bTVpUE0t?oc=5",
+          "time": "2026-08-31 15:18:35",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "翁章梁關心開學情形，嘉義縣免費營養午餐正式上路",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=256969",
+          "time": "2026-08-31 15:06:12",
+          "publisher": "嘉義縣政府",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣全面推動免費營養午餐 高中以下2.7萬名學生受惠",
+          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPbGE5RmJOZzBvVWRQMlROR0g1bVNCSFQxcEVKTndqdGdiNmhKUnlfSkpteGhNZF9SdzVrcE5SaHRpMEtOYVBZXzJoeGZtbVBJZWpVemhJa1VuNmw5ZFFYUXJoNUZYeEdtN1o3aFdMeElYcURPa2Z5Q1JTaEtadHlnbGV4TWJEbmtWMTdPMjJQTEtHeWxlcy16MFRzMElabjB4NHBrRzNfRFcyV3BzYVcxY0dZcmdMLUs4OGF1bFhMMGp6QjI0NXJBVi1ZMlFselA2d0lYZ2lGaGp0QVR4N1d5X3hTazJUZzdSS3l5MDhVV2hnSmwydXoyejJtUWw0SjZkMDNJSHVqYmg5Y3lDSlp0QjhIeHlYSDlZRS1WVXRrRk5jcGc0RE9zNUtXbS1CaEk1OUxibU1DTVBYTXhDWlRjQUlBYU9aNXhwdzgtLWNsa0lJaDJNdzc3MExNYnZzR1VUVFlyTjFoNHptRGM?oc=5",
+          "time": "2026-08-31 14:55:39",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣全面推動免費營養午餐 高中以下2.7萬名學生受惠",
+          "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E7%B8%A3%E5%85%A8%E9%9D%A2%E6%8E%A8%E5%8B%95%E5%85%8D%E8%B2%BB%E7%87%9F%E9%A4%8A%E5%8D%88%E9%A4%90-%E9%AB%98%E4%B8%AD%E4%BB%A5%E4%B8%8B27%E8%90%AC%E5%90%8D%E5%AD%B8%E7%94%9F%E5%8F%97%E6%83%A0-065235769.html",
+          "time": "2026-08-31 14:52:35",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣免費營養午餐啟動投入3.42億元2.76萬名學生受惠- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LQnBvN05CX3NvWVpTWGNiaGNNUFZBZXMxREJTTUdod09Gd0lJNGpSZWlhaVE2VzNReUJ1Z3FSd2dQY1hJcXE3dnphT09RU3pielZXRUlPNVA1V1hiTW15R1FTRzk?oc=5",
+          "time": "2026-08-31 14:15:25",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣免費營養午餐啟動 投入3.42億元2.76萬名學生受惠",
+          "url": "https://news.ltn.com.tw/news/ChiayiCounty/breakingnews/5558088",
+          "time": "2026-08-31 14:15:25",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "【智慧物流分享】 嘉義縣與中華電信攜手打造無人機智慧物流，讓空中配送從技術展示走向商業化驗證 這項服務從 APP 點餐開始，串接無人機配送與智慧取貨櫃取餐流程，讓餐點配送從地面延伸到空中 背後關鍵不只在無人機本身，更結合中華電信 5G 空中廊道、AI 任務",
+          "url": "https://news.google.com/rss/articles/CBMi8wdBVV95cUxPVkxLTHhuWFFkNU9xNXhjaVUwUEpUSWM5UUZpcktwTWhyUmI4Vk5PeV91NFVJVlY1XzVUQjhNZGZEVVBDSWg5RzN0OWQ5RXJ2cm84WUs0c0NIdDlFeVJhdUR0ODM3S183ckFaNXJZaHVYbTR1UGhrRU9EbElHWEtiSzNUQldoQlprcnk0eWl1b1BoQWxDRzhvb1dVMHpIVmNYREozM3JXUUEtSmQtUWdJTDRzQjg5SThwdm5OWjNfeWowRzE2bHNkRm1HT0VESG51UFBvY2c4UEJ4NTJqeE16OUprWXZqb0g2aWRwamppQU8wMWVpcVIyYmxxazJmOUFhZ3VwN2xlWFJCR2NQdkp3SFVJbGdHcTluM0FCRzlGaWMzdkJvaktVOHBvMjJSbzM4MmRvTExLYjc1aU5oNmxoSmZCRU1ycGcwZmt1bnl3cVpCQVRHanF4akFhOUdma3QxUlVJWlE3UF9tOGZEVlRjN1N6VVlUOUZJRllTUU4temowXzNZRGNLaW1vb1RFb2lwR0RYWUhaRjJkVVVLaXpOajhhSkRBeFRWTkNreDhLNlBVb3NpUzVzdjAzdEZJQ1NEaDVJOWg4aXR1NmF2ZUhUeWVPa2FSaDRRNUp1T043UU1EV1dKRFRWRm90S1lHWkdDNUNFbmxxZTdaamRFc1hYUENaRnFnaEJDNzdKYmVLdlFZdExvZWphMHBWQjI2UldJanFHQmpzY2pFRGtoVk8yOHlQZ1l3TXhNREF6dzVZZE8tYWFkUFdwQm04VmVTcDF4TTFOV3ZNeDVTUHM4VUlzY0RsTE5fMFdoRDlTSnYtSFNTeUhNcHNYYndjTkVQdkRPbndUdmVwLWt5N1I5VnhKRnA1aDB3emhjUndLaFhpZ1NDaUFMWFpFNldpNnhVZDRkRjIyQkZ5SWFhVFpGbk51aUZKVUR6QUp4YWNMY0JhZ0duel9oMDRRUkRjWDdnWG5vSXNFZDE0TldwWEYyNkY1NTNmQ3RaakRDMmpOREN1NWVoeElTeU1famd3YkEzcE9qdnJMdE5KZjdoWFprMjIyd0c2X3ZOQTZWS0JrUVRTc09GUnhUOXpqWlZEZ3pJdGd6dnphN2RPZzhvYUV6NjkxTUJ0MkZDR1VGcmlmNXpIV052RGVYSXBQOXVxWjR1MUJjb0JreG05WmtKdTdkdG5HMXZIVWI1TldXZWk3LW4xWlR1Z0JOMm00Nk0wWmRKbFR0R3QyeUN5WVlIRUpTTUt0alV1ejZ0QzdUNHpta0tQREtfMkNibzZ1RzVXMzVXaWJuWU11WjU2M3RGUEdldU1hekpoMlZYVEZUb0JCRmtXcWFfS2M?oc=5",
+          "time": "2026-08-31 11:34:00",
+          "publisher": "Google News→facebook.com",
+          "severity": null
+        },
+        {
+          "title": "ETtoday新聞雲. . 【智慧物流分享】 嘉義縣與中華電信攜手打造無人機智慧物流，讓空中配送從技術展示走向商業化驗證 這項服務從 APP 點餐開始，串接無人機配送與智慧取貨櫃取餐流程，讓餐點配送從地面延伸到空中 背後關鍵不只在無人機本身，更結合中華電信 5G",
+          "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxONUtVUTR5RXl6UGQxbnNmakNDZUlKcXRCdGhpRUxkQnVveHE0RGNRQkpGb3Z2UUk5VS1RMkxrc20tZ3Y2c0tjTURlZFhrSDdTRXRqbmowamctU2VTYjE5RjlXcDlHZ3BZVWJ6YkxlTEdXX0JBQ1NMemNBdFBOS0RxcHlKX0RLUWJrZUNEdHFnZTlFNVcwVHhhNjJTVTI3REVLUFJMNTFNTlhrMURXUWMtWEtWVHdiVThoVERCRTdQOUc5X3N2bjZSQUd2M1FoQVQxeTluNi1SSDFtOTl4M2o3ZUx6MUJ0OThNeWw4dDZBaGd4N1JMYXFXOUpNQ1N1QmZiNm9yLWhXUlNfVUplQnhxWUd0ZTZwd0xoZG1CdldVY0dJMTNYSS1TUlAwQzRuS2tubS1LNDNHQ1I4MmYzX1U3LVZROC03cFVCWmhiZk1OeVE3ZzQzbGhGV09wdXJtVEhKaVZWbWQzbnlEcFhYdWhZd0pjR3cxaHlnd2tUa1k2TklYRmZPQUFVc2szaw?oc=5",
+          "time": "2026-08-31 10:27:36",
+          "publisher": "Google News→facebook.com",
+          "severity": null
+        },
+        {
+          "title": "嘉義縣116年公告土地現值公開說明會",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=256961",
+          "time": "2026-08-31 10:11:46",
+          "publisher": "嘉義縣政府",
+          "severity": null
+        },
+        {
+          "title": "嘉義市長選舉參選登記今天開跑，長達15字姓名的「黃宏成台灣阿成世界偉人財神總統」上午8時搶得頭香，完成登記並繳交16萬元保證金。他同時表示，昨晚返回嘉義縣水上鄉住處時，發現門口遭張貼「欠錢還錢、吉安」字樣，認為時間點就在登記前夕，懷疑有妨害選舉情事，將正式向警方報案。",
+          "url": "https://udn.com/news/story/124652/9723943?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-08-31 10:11:38",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "「嘉義縣鄒遊季」9/1登場 走訪部落秘境抽好禮",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXWkljSjFTMWFLMGhqNjFlUVpXY0NMQXVaYzVzZ0Z1S3M0TGc5NmE0aXQ4Zmh4ZGMxenZxS0QyTzRpeGdnTzN3SEZxb24xb2xPZTR0NVFZOGZGTGZl0gFiQVVfeXFMT0VaZDQzY1BjMWgyelJ6V29zZkZpMTVmSlJmaXg1d3l5d1MzRTRRaUpaaXJvOUJVSWRIdE9iamx2Q0l1enBkUzAxWmtyWmJGUEJiMnFhV2N6VE8taFdIYU9hbFE?oc=5",
+          "time": "2026-08-31 10:03:10",
+          "publisher": "Google News→udn 女子漾",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "廚餘山",
       "city": "台中",
       "place": "台中市政府",
       "level": "yellow",
       "news_count": 0,
-      "comment_count": 38,
+      "comment_count": 36,
       "negativity_pct": 0,
       "is_urgent": true,
-      "urgency_score": 60,
+      "urgency_score": 56,
       "news_articles": [],
       "comments": [
         {
@@ -1608,7 +1616,7 @@
           "text": "請問廚餘湖怎麼辦，垃圾山燒不完怎麼辦？？？",
           "author": "kkland101",
           "url": "",
-          "time_text": "11小時",
+          "time_text": "13小時",
           "signal": "red"
         },
         {
@@ -1616,7 +1624,7 @@
           "text": "廚餘怎麼辦",
           "author": "huang_yo1996",
           "url": "",
-          "time_text": "10小時",
+          "time_text": "11小時",
           "signal": "yellow"
         },
         {
@@ -1624,15 +1632,31 @@
           "text": "中火呢？文山焚化爐呢？廚餘生質能場呢？ 捷運藍線？綠線延伸？機場捷運？輕軌？社會住宅？水湳經貿園區？ 什麼都不會只會花市民的錢印海報印春聯！穿個防護服，夾雞腿做個秀！ 中華民國有史以來最爛市長絕對是你！",
           "author": "hulkkao1225",
           "url": "",
-          "time_text": "11小時",
+          "time_text": "13小時",
           "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "L型大雞腿，身為第一線的國小老師，我只想到廚餘會爆增。",
+          "author": "082daphne",
+          "url": "",
+          "time_text": "43分鐘",
+          "signal": "yellow"
         },
         {
           "platform": "threads",
           "text": "等等廚餘倒那也要說一下",
           "author": "vincentw1021",
           "url": "",
-          "time_text": "2分鐘",
+          "time_text": "1小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "廚餘記得要處理",
+          "author": "agi0319",
+          "url": "",
+          "time_text": "2小時",
           "signal": "yellow"
         },
         {
@@ -1640,45 +1664,13 @@
           "text": "你真噁心🤮廚餘不處理，垃圾不處理",
           "author": "54miniuncle",
           "url": "",
-          "time_text": "11小時",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "廚餘記得要處理",
-          "author": "agi0319",
-          "url": "",
-          "time_text": "1小時",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "廚餘怎麼不處理",
-          "author": "a_kai_pan",
-          "url": "",
           "time_text": "12小時",
-          "signal": "yellow"
+          "signal": "red"
         },
         {
           "platform": "threads",
           "text": "請問廚餘和垃圾怎麼辦？",
           "author": "annyshin_",
-          "url": "",
-          "time_text": "7小時",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "糟糕了，學校廚餘又要被你打包到廚餘山堆放了",
-          "author": "mikeyee1973",
-          "url": "",
-          "time_text": "10小時",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "廚餘城市台中市🤮，看到盧媽媽就沒胃口",
-          "author": "zoe_fly_dreams",
           "url": "",
           "time_text": "8小時",
           "signal": "red"
@@ -1688,7 +1680,7 @@
           "text": "真的不要在人家吃飯的時候打擾人~會害人吃不下飯！ 拿納稅人的錢搞自己政績，還硬要大家用制式菜單，弄得廚房雞飛狗跳！ 而且幼兒園還沒有，不知道多少家長在靠北了！教育局要不要出來說明一下🥹 許多一線教育的人員包含廚房人員被你們搞得比狗還累 今天一堆學校爆增的廚餘跟垃圾紙盒，請問台中市政府有什麼高見辦法處理嗎！？還是說在繼續拿納稅人的錢來挖坑填廚餘呢🫢🥹 盧媽媽要不要面對一下現實，這禮拜我還跟廠商多要了兩桶廚餘準備裝去給你們承辦單位燒跟埋欸",
           "author": "f25688056",
           "url": "",
-          "time_text": "9小時",
+          "time_text": "10小時",
           "signal": "red"
         },
         {
@@ -1696,7 +1688,23 @@
           "text": "這一餐吃完的廚餘又要堆在哪邊發臭？你真的很噁心，廚餘媽媽。",
           "author": "iokkiat",
           "url": "",
-          "time_text": "6小時",
+          "time_text": "7小時",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "糟糕了，學校廚餘又要被你打包到廚餘山堆放了",
+          "author": "mikeyee1973",
+          "url": "",
+          "time_text": "11小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "廚餘城市台中市🤮，看到盧媽媽就沒胃口",
+          "author": "zoe_fly_dreams",
+          "url": "",
+          "time_text": "9小時",
           "signal": "red"
         },
         {
@@ -1704,31 +1712,7 @@
           "text": "吃不完的廚餘要堆在哪???",
           "author": "sleepy199990",
           "url": "",
-          "time_text": "12小時",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "那廚餘要怎麼處理？",
-          "author": "minhung.chen.5",
-          "url": "",
-          "time_text": "11小時",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "今天現場老師得面對一堆廚餘，小孩根本吃不完，你為了你為數不多的政績，硬要搞這些，難道你不知道台中市廚餘問題依然無解嗎😡😡😡",
-          "author": "evelyn32424616",
-          "url": "",
-          "time_text": "12小時",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "又想到廚餘了！",
-          "author": "zhiyang8353",
-          "url": "",
-          "time_text": "10小時",
+          "time_text": "13小時",
           "signal": "yellow"
         },
         {
@@ -1736,7 +1720,39 @@
           "text": "雙主菜有什麼用？小朋友要是吃不完，廚餘倒台中市府？🤣🤣🤣",
           "author": "grace09312025",
           "url": "",
-          "time_text": "10小時",
+          "time_text": "11小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "那廚餘要怎麼處理？",
+          "author": "minhung.chen.5",
+          "url": "",
+          "time_text": "12小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "今天現場老師得面對一堆廚餘，小孩根本吃不完，你為了你為數不多的政績，硬要搞這些，難道你不知道台中市廚餘問題依然無解嗎😡😡😡",
+          "author": "evelyn32424616",
+          "url": "",
+          "time_text": "13小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "廚餘怎麼不處理",
+          "author": "a_kai_pan",
+          "url": "",
+          "time_text": "13小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "又想到廚餘了！",
+          "author": "zhiyang8353",
+          "url": "",
+          "time_text": "11小時",
           "signal": "yellow"
         },
         {
@@ -1744,7 +1760,7 @@
           "text": "然後用廚餘來堆廚餘山嗎？好一個Lumama",
           "author": "a81050904",
           "url": "",
-          "time_text": "11小時",
+          "time_text": "12小時",
           "signal": "yellow"
         },
         {
@@ -1752,15 +1768,7 @@
           "text": "盧愛演 陷小孩於不義 讓小孩產生的廚餘 當成妳的擋箭牌！ 廚餘、垃圾都是市民產生的",
           "author": "yelljindy",
           "url": "",
-          "time_text": "11小時",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "看到妳就想到妳的政績廚餘，真的好噁爛，妳都不覺得丟臉嗎",
-          "author": "jeng6703",
-          "url": "",
-          "time_text": "10小時",
+          "time_text": "12小時",
           "signal": "red"
         },
         {
@@ -1768,32 +1776,16 @@
           "text": "現在要選舉了才辦，台中市盧秀燕賣了上千億土地，錢呢跑哪裡去了？ #廚餘又要挖坑哪裡",
           "author": "dennischang3514",
           "url": "",
-          "time_text": "1小時",
+          "time_text": "2小時",
           "signal": "yellow"
         },
         {
           "platform": "threads",
-          "text": "誰沒上學過，吃不完都變成廚餘，盧媽媽作秀不要坐過頭好不好",
-          "author": "frreeeddddyyyyy_",
+          "text": "看到妳就想到妳的政績廚餘，真的好噁爛，妳都不覺得丟臉嗎",
+          "author": "jeng6703",
           "url": "",
-          "time_text": "11小時",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "毒物代言人的午餐 還真不知道要從哪開始吐槽 是你驗的到的毒豬肉？ 還是驗不到的毒油？ 還是最後的廚餘？？？",
-          "author": "linshenglung",
-          "url": "",
-          "time_text": "11小時",
+          "time_text": "12小時",
           "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "小朋友要把菜吃光喔 因為市長不知道怎麼處理廚餘喔",
-          "author": "georgechaotw",
-          "url": "",
-          "time_text": "6小時",
-          "signal": "yellow"
         }
       ]
     },
@@ -3377,11 +3369,11 @@
       "city": "新竹市",
       "place": "新竹市政府",
       "level": "yellow",
-      "news_count": 88,
+      "news_count": 87,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 94,
+      "urgency_score": 93,
       "news_articles": [
         {
           "title": "新竹市立動物園通過環境教育設施場所認證　高虹安市長：不只是動物園也是城市中的環境教育場域",
@@ -3991,13 +3983,6 @@
           "time": "2026-08-31 10:13:59",
           "publisher": "Google News→cna.com.tw",
           "severity": null
-        },
-        {
-          "title": "竹市「2026竹風好市集」9/3登場！周邊道路分階段實施交管 提醒用路人提前規劃行程",
-          "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPOEpTZ2k3SmhwaEdSdjdWQ25sQk5VWXlpbXhSVks1bktGUzVuX2ZXQjdJTUg5M3lRSHU4aUtwOGdRNG1rMmtqR09tU2hyQjV1T2NScWUtT3FWUGdCQ3ppVHhVc25SYm9LZFBKSV9BNW5XZ0UwbURJQ1Y1Zk9kbWpjc0dDdS1VNDVxM2tCWlBhREktRl9EdEM4S0FTS1RGN2trQzA4R1p5YldtR1IzQVlZYjdmLUE1c05yWF9QU294MDMyMjBhN0JzR0ZiLWRVZzRqR0tpQ3NwV0o3Q1czNi1tRk5TNEdBaTZzM201ekZaWGw5cVdUa1BKY0pZempOTW1oSWpHQ29KSHE4ekZ4eEdHWWtsLVZhMUgya3hYNkZjdlNjWFluMTdHNTZNbUFSMGk3dExfN2hHOC12TV9UV3NiS2dhUHZVWW9lbmowbk5ISUx5blZuTlpEVQ?oc=5",
-          "time": "2026-08-31 09:50:17",
-          "publisher": "Google News→新竹市政府交通處",
-          "severity": null
         }
       ],
       "comments": []
@@ -4007,12 +3992,19 @@
       "city": "台中",
       "place": "台中市清水區",
       "level": "yellow",
-      "news_count": 67,
-      "comment_count": 47,
+      "news_count": 66,
+      "comment_count": 46,
       "negativity_pct": 3,
       "is_urgent": true,
-      "urgency_score": 154,
+      "urgency_score": 150,
       "news_articles": [
+        {
+          "title": "台積電中科1.4奈米新廠工程超前 盧秀燕視察關心水電、工安、綠化",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yenU4cDNFNm9FdVJSQTFVemhDenRvVG5TVTBXMWlMbm9aVlZqb3plaGJRQTRiNktXS0J3eGFFRm9iWm8xNlBKOENXdklWcUs1aFE?oc=5",
+          "time": "2026-09-01 09:26:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
         {
           "title": "關注：盧秀燕鋪陳訪陸 平衡親美形象",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rbWdzVzVHQ25Lbzdmcm9CZnFZeGxsWlBkM0hQdkZBZm5nUjg5ZnU0NkxaYkFkdEJiTVlmYU91UmU5LXBjMUo1b29vZzI4ZVNvUWpaUjRXUVo4aEg1cndLcmIyLUpEZw?oc=5",
@@ -4143,7 +4135,7 @@
           "title": "開學日盧秀燕化身打菜媽媽 為學童加碼「L型大雞腿」",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03RGR2WVlHN1pCTVIxUlQwNnp1Qk5yTFVkQlNxUXBUbGtyRTJRbWdMSVd0UUdvX2xxVGFsZk1UVUJIZXV6aTBfdXFVaFJ0RXE1MWNmU1dwNlEyVW50cWxZYkpFd195M2hhLVI1UGhR?oc=5",
           "time": "2026-08-31 17:04:25",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": null
         },
         {
@@ -4269,14 +4261,14 @@
           "title": "外傳卸任前夕將訪陸 盧秀燕未回應 鄭照新：沒有聽說",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lREtaSmdJYlZmMlhpRWRXV2JfX3JONTZwMFdCaFBybk5UOVMtc2Q4LWl5SjVpa29lY19UMGhpMlpXVGdGSmZQY0tvWkJ1N1NyVDRUcHVuSTVUOHMwcXZRNlpRTHRoTUo0V3p4STFB?oc=5",
           "time": "2026-08-31 13:43:47",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": "yellow"
         },
         {
           "title": "幫盧秀燕試水溫？赴陸參加台博會綠議員贈中華民國帽 鄭照新：會參考賴清德、陳菊",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01eUpTMGkyblNuRnoyazlyR3lYd2ZTbzdkaVhjN2VzbnZIdUlKWEtvTFZlNEVmMnFvRkVwOGU3VHRndjVsYTRQNWppSUU0TXQtZnpTZEFLQXNjWW1jbFRBZkdUOXl5aGxCWlFzVkpn?oc=5",
           "time": "2026-08-31 13:40:40",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": "yellow"
         },
         {
@@ -4402,7 +4394,7 @@
           "title": "蔡英文今70歲大壽！幕僚出賣老闆照片曝光盧秀燕同天生日- 政治",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJdF92ZnpsUHFUd2hXSXpQcTBSWVoyakctWUVMN2pGalRKTm1UU0YzVzBIeXYwZ2RyNzBxWWRHLUR6NWRsdU04VmcxaVBSVTdpcEsyWUFpQlRvbWZmbzNTakpjbDhZNUFZRmVEVllB?oc=5",
           "time": "2026-08-31 11:13:48",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": null
         },
         {
@@ -4467,20 +4459,6 @@
           "time": "2026-08-31 09:59:00",
           "publisher": "Google News→風傳媒",
           "severity": "yellow"
-        },
-        {
-          "title": "蔡英文今燦笑過70歲大壽 盧秀燕、張清芳同一天生日",
-          "url": "https://news.nextapple.com/politics/20260831/41B0FD473B89D74A5037BD1F89FA14B6",
-          "time": "2026-08-31 09:47:08",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "蔡英文70歲大壽開懷大笑 盧秀燕、張清芳同一天生日",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUW9Ldkg4NzV3RURGMEF5Tk1SU3k3S2R6c21uOVhVb0pSZHQ1bE1KNUxpSXE0bDh1b29IWTllYjVmVEV2ZDdIdVAzTVQ5b3VLSE1PU0xyQ2tyaW9hMHhCLW9xQm5IbUF2RTViYlFvc3lodml4cEVad1d5NjZGQl90cGs5dw?oc=5",
-          "time": "2026-08-31 09:46:00",
-          "publisher": "壹蘋新聞網",
-          "severity": null
         }
       ],
       "comments": [
@@ -4625,39 +4603,7 @@
           "text": "盧秀燕 棄單！",
           "author": "baribarihenri",
           "url": "",
-          "time_text": "8小時",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "拿國小學童當成大外宣工具 真的是盧秀燕秀下限",
-          "author": "tc2xyrm19_twn",
-          "url": "",
           "time_text": "9小時",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "謝謝盧秀燕市長終於在睡了七年以後最後一年終於想到可以為臺中的孩子加菜。",
-          "author": "squlumam",
-          "url": "",
-          "time_text": "12小時",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "結果棄單的是盧秀燕！請大家告訴大家。",
-          "author": "jaggerwang",
-          "url": "",
-          "time_text": "9小時",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "厭惡 一個市長 就是你 盧秀燕 每部宣傳 都是在作秀",
-          "author": "yanghaohao8",
-          "url": "",
-          "time_text": "11小時",
           "signal": "yellow"
         },
         {
@@ -4665,7 +4611,7 @@
           "text": "不 threads.com/share… dajinzhou 國民黨盧秀燕說：垃圾是市民自己製造出來的 國民黨江啟臣說：要延續盧秀燕政策 被限流啦，有多人看到這個報導呢😭😭😭😭😭 patatohsieh",
           "author": "girl.baby688",
           "url": "",
-          "time_text": "57分鐘",
+          "time_text": "2小時",
           "signal": "red"
         },
         {
@@ -4673,39 +4619,31 @@
           "text": "國民黨盧秀燕說：垃圾是市民自己製造出來的 國民黨江啟臣說：要延續盧秀燕政策 被限流啦，有多人看到這個報導呢😭😭😭😭😭 patatohsieh",
           "author": "dajinzhou",
           "url": "",
-          "time_text": "9小時",
+          "time_text": "10小時",
           "signal": "red"
         },
         {
           "platform": "threads",
-          "text": "為什麼要棄單？ youtu.be/Z_Wsb… youtube.com 【#原音重現】真正棄單的是盧秀燕本人？ 議員爆台中市府認購月餅「緊急棄單」還有局處動用公帑幫盧市府作秀？ 陳俞融開轟藍白厚顏無恥：拿市民的錢幫自己做人情！｜三立新聞網 SETN.c",
-          "author": "lovelegolas66",
+          "text": "拿國小學童當成大外宣工具 真的是盧秀燕秀下限",
+          "author": "tc2xyrm19_twn",
           "url": "",
           "time_text": "10小時",
           "signal": "red"
         },
         {
           "platform": "threads",
-          "text": "看到盧秀燕還能吃下飯也是不簡單，給過",
-          "author": "xi.jinping.8964.tank",
+          "text": "謝謝盧秀燕市長終於在睡了七年以後最後一年終於想到可以為臺中的孩子加菜。",
+          "author": "squlumam",
           "url": "",
-          "time_text": "9小時",
-          "signal": "yellow"
+          "time_text": "13小時",
+          "signal": "red"
         },
         {
           "platform": "threads",
-          "text": "sunnyjia314188 盧秀燕要買庇護工場禮盒裝好人 結果台中市政府還棄單 太搞笑了吧 - 影片請用引用、轉發 不要直接錄、下載、截圖 請尊重別人花時間看直播、剪輯、上字幕的辛勞 謝謝 / 1.7 萬 3,045 1,646",
-          "author": "lazycat1206",
+          "text": "結果棄單的是盧秀燕！請大家告訴大家。",
+          "author": "jaggerwang",
           "url": "",
-          "time_text": "9小時",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "盧秀燕要買庇護工場禮盒裝好人 結果台中市政府還棄單 太搞笑了吧 - 影片請用引用、轉發 不要直接錄、下載、截圖 請尊重別人花時間看直播、剪輯、上字幕的辛勞 謝謝 / 1.7 萬 3,045 1,646",
-          "author": "sunnyjia314188",
-          "url": "",
-          "time_text": "20小時",
+          "time_text": "10小時",
           "signal": "yellow"
         },
         {
@@ -4713,15 +4651,55 @@
           "text": "操你媽死雜種再演啊 垃圾中國野狗 報應會在你全家 被車撞死的垃圾盧秀燕",
           "author": "xi.jinpingdog_cntrash",
           "url": "",
-          "time_text": "7小時",
+          "time_text": "8小時",
           "signal": "red"
         },
         {
           "platform": "threads",
-          "text": "threads.com/share… sunnyjia314188 盧秀燕要買庇護工場禮盒裝好人 結果台中市政府還棄單 太搞笑了吧 - 影片請用引用、轉發 不要直接錄、下載、截圖 請尊重別人花時間看直播、剪輯、上字幕的辛勞 謝謝 / 1.7 萬 3,046 1,646",
+          "text": "厭惡 一個市長 就是你 盧秀燕 每部宣傳 都是在作秀",
+          "author": "yanghaohao8",
+          "url": "",
+          "time_text": "13小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "為什麼要棄單？ youtu.be/Z_Wsb… youtube.com 【#原音重現】真正棄單的是盧秀燕本人？ 議員爆台中市府認購月餅「緊急棄單」還有局處動用公帑幫盧市府作秀？ 陳俞融開轟藍白厚顏無恥：拿市民的錢幫自己做人情！｜三立新聞網 SETN.c",
+          "author": "lovelegolas66",
+          "url": "",
+          "time_text": "11小時",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "看到盧秀燕還能吃下飯也是不簡單，給過",
+          "author": "xi.jinping.8964.tank",
+          "url": "",
+          "time_text": "11小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "sunnyjia314188 盧秀燕要買庇護工場禮盒裝好人 結果台中市政府還棄單 太搞笑了吧 - 影片請用引用、轉發 不要直接錄、下載、截圖 請尊重別人花時間看直播、剪輯、上字幕的辛勞 謝謝 / 1.7 萬 3,098 1,686",
+          "author": "lazycat1206",
+          "url": "",
+          "time_text": "11小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "盧秀燕要買庇護工場禮盒裝好人 結果台中市政府還棄單 太搞笑了吧 - 影片請用引用、轉發 不要直接錄、下載、截圖 請尊重別人花時間看直播、剪輯、上字幕的辛勞 謝謝 / 1.7 萬 3,098 1,686",
+          "author": "sunnyjia314188",
+          "url": "",
+          "time_text": "21小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "threads.com/share… sunnyjia314188 盧秀燕要買庇護工場禮盒裝好人 結果台中市政府還棄單 太搞笑了吧 - 影片請用引用、轉發 不要直接錄、下載、截圖 請尊重別人花時間看直播、剪輯、上字幕的辛勞 謝謝 / 1.7 萬 3,098 1,686",
           "author": "russelllin41",
           "url": "",
-          "time_text": "45分鐘",
+          "time_text": "1小時",
           "signal": "yellow"
         },
         {
@@ -4729,7 +4707,7 @@
           "text": "盧秀燕妳這樣真的不行 口口聲聲造謠總統府棄單，試圖掩蓋同黨無良立委惡意刪除預算，霸凌庇護工場的事實，還霸氣的喊全包，結果蹭完聲量現在直接棄單345盒？？？ 人家蔣萬安喊完至少還會叫下屬認購，盧秀燕妳會不會太扯？",
           "author": "billlin5858",
           "url": "",
-          "time_text": "11小時",
+          "time_text": "12小時",
           "signal": "red"
         },
         {
@@ -4737,31 +4715,23 @@
           "text": "盧秀燕棄單仔",
           "author": "kennyaerobababa",
           "url": "",
-          "time_text": "11小時",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "廢物鬼媽媽 欸聽說你棄單喔？ 笑死 胡說八道先怪總統府棄單🤷🏼‍♂️ 不敢解釋原因是被你藍白刪掉預算🤮 假情假意要接下庇護工場禮盒 搞半天虛晃一招，自己也棄單嗎？ 笑死餒，你真的教姓江的教很好，越來越像你一樣厚臉皮😏 不過可憐這些小朋友吃飯還要看著你🤮 你這種不關心市民只愛行銷自己的市長，快滾下台，小朋友就能安心長大啦🤷🏼‍♂️ joyitaiwan 【月餅救援變棄單？・盧市府到底是在接單 還是演政治秀？】 這幾天，盧秀燕市長高喊「總統府棄單、中市接單」，說要出手協助全國庇護",
-          "author": "creative_679",
-          "url": "",
-          "time_text": "7小時",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "【月餅救援變棄單？・盧市府到底是在接單 還是演政治秀？】 這幾天，盧秀燕市長高喊「總統府棄單、中市接單」，說要出手協助全國庇護工場度過中秋訂單危機，聽起來很有魄力。 但今天在議會，俞融卻揭露市府說要認購，結果自己又出現「棄單」！ 這次風波的源頭很清楚，因為藍白立委刪凍國務機要費，影響全國37家庇護工場、約1萬5千盒中秋月餅訂單。包括台中的國民黨立委也參與了相關預算刪凍，結果盧市府卻拿台中市民的納稅錢出來善後，成了「立院闖禍、市府買單」。 俞融更爆料，市府原本要求各局處認購5個",
-          "author": "joyitaiwan",
-          "url": "",
           "time_text": "12小時",
           "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "又是噁心盧秀燕 說要支持庇護工結果轉頭就棄單 果然國民黨改不了說一套做一套",
+          "author": "dulldevil",
+          "url": "",
+          "time_text": "50分鐘",
+          "signal": "red"
         },
         {
           "platform": "threads",
           "text": "盧秀燕棄單 盧秀燕棄單 盧秀燕棄單 盧秀燕棄單 盧秀燕棄單 盧秀燕棄單",
           "author": "meg_presentes",
           "url": "",
-          "time_text": "5小時",
+          "time_text": "6小時",
           "signal": "yellow"
         },
         {
@@ -4769,15 +4739,7 @@
           "text": "結果盧秀燕才是棄單人",
           "author": "deepgreyhigh",
           "url": "",
-          "time_text": "8小時",
-          "signal": "yellow"
-        },
-        {
-          "platform": "threads",
-          "text": "小朋友也知道毒油是盧秀燕市府疏於查驗⋯",
-          "author": "dennischang3514",
-          "url": "",
-          "time_text": "26分鐘",
+          "time_text": "9小時",
           "signal": "yellow"
         },
         {
@@ -4785,7 +4747,31 @@
           "text": "分享： youtu.be/iPDII… youtube.com 【政治狠狠問 EP320】她不是一個人，國民黨正在「翁曉玲化」？支持國防，還是把國防「政治化」？盧秀燕變了？從媽媽市長走向2028戰鬥模式 國民黨立委的「雙重身分」成選戰包袱？ #政治",
           "author": "saibalalan",
           "url": "",
-          "time_text": "11小時",
+          "time_text": "12小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "廢物鬼媽媽 欸聽說你棄單喔？ 笑死 胡說八道先怪總統府棄單🤷🏼‍♂️ 不敢解釋原因是被你藍白刪掉預算🤮 假情假意要接下庇護工場禮盒 搞半天虛晃一招，自己也棄單嗎？ 笑死餒，你真的教姓江的教很好，越來越像你一樣厚臉皮😏 不過可憐這些小朋友吃飯還要看著你🤮 你這種不關心市民只愛行銷自己的市長，快滾下台，小朋友就能安心長大啦🤷🏼‍♂️ joyitaiwan 【月餅救援變棄單？・盧市府到底是在接單 還是演政治秀？】 這幾天，盧秀燕市長高喊「總統府棄單、中市接單」，說要出手協助全國庇護",
+          "author": "creative_679",
+          "url": "",
+          "time_text": "8小時",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "【月餅救援變棄單？・盧市府到底是在接單 還是演政治秀？】 這幾天，盧秀燕市長高喊「總統府棄單、中市接單」，說要出手協助全國庇護工場度過中秋訂單危機，聽起來很有魄力。 但今天在議會，俞融卻揭露市府說要認購，結果自己又出現「棄單」！ 這次風波的源頭很清楚，因為藍白立委刪凍國務機要費，影響全國37家庇護工場、約1萬5千盒中秋月餅訂單。包括台中的國民黨立委也參與了相關預算刪凍，結果盧市府卻拿台中市民的納稅錢出來善後，成了「立院闖禍、市府買單」。 俞融更爆料，市府原本要求各局處認購5個",
+          "author": "joyitaiwan",
+          "url": "",
+          "time_text": "13小時",
+          "signal": "yellow"
+        },
+        {
+          "platform": "threads",
+          "text": "小朋友也知道毒油是盧秀燕市府疏於查驗⋯",
+          "author": "dennischang3514",
+          "url": "",
+          "time_text": "1小時",
           "signal": "yellow"
         },
         {
@@ -4793,7 +4779,7 @@
           "text": "這時候怎麼沒有人出來說盧秀燕邀功🫣🫣🫣🙈🙈🙈",
           "author": "koopa__1223",
           "url": "",
-          "time_text": "11小時",
+          "time_text": "12小時",
           "signal": "yellow"
         },
         {
@@ -4801,7 +4787,7 @@
           "text": "好噁心！！！！盧秀燕根本就是做作秀！！！！",
           "author": "tw_tenplayer",
           "url": "",
-          "time_text": "12小時",
+          "time_text": "13小時",
           "signal": "red"
         },
         {
@@ -4809,7 +4795,7 @@
           "text": "盧秀燕太假了啦 剩幾個月任期才在演這齣",
           "author": "linlinpong",
           "url": "",
-          "time_text": "11小時",
+          "time_text": "12小時",
           "signal": "yellow"
         },
         {
@@ -4817,23 +4803,23 @@
           "text": "盧秀燕毒油都沒有道歉還在這邊毒害小朋友",
           "author": "sho5230",
           "url": "",
-          "time_text": "10小時",
+          "time_text": "11小時",
           "signal": "red"
         },
         {
           "platform": "threads",
-          "text": "為什麼要裝好人最後棄單？ sunnyjia314188 盧秀燕要買庇護工場禮盒裝好人 結果台中市政府還棄單 太搞笑了吧 - 影片請用引用、轉發 不要直接錄、下載、截圖 請尊重別人花時間看直播、剪輯、上字幕的辛勞 謝謝 / 1.7 萬 3,046 1,651",
+          "text": "為什麼要裝好人最後棄單？ sunnyjia314188 盧秀燕要買庇護工場禮盒裝好人 結果台中市政府還棄單 太搞笑了吧 - 影片請用引用、轉發 不要直接錄、下載、截圖 請尊重別人花時間看直播、剪輯、上字幕的辛勞 謝謝 / 1.7 萬 3,098 1,686",
           "author": "murphy_new2.0",
           "url": "",
-          "time_text": "11小時",
+          "time_text": "12小時",
           "signal": "yellow"
         },
         {
           "platform": "threads",
-          "text": "sunnyjia314188 盧秀燕要買庇護工場禮盒裝好人 結果台中市政府還棄單 太搞笑了吧 - 影片請用引用、轉發 不要直接錄、下載、截圖 請尊重別人花時間看直播、剪輯、上字幕的辛勞 謝謝 / 1.7 萬 3,046 1,651",
+          "text": "sunnyjia314188 盧秀燕要買庇護工場禮盒裝好人 結果台中市政府還棄單 太搞笑了吧 - 影片請用引用、轉發 不要直接錄、下載、截圖 請尊重別人花時間看直播、剪輯、上字幕的辛勞 謝謝 / 1.7 萬 3,098 1,686",
           "author": "chun0327tw",
           "url": "",
-          "time_text": "8小時",
+          "time_text": "9小時",
           "signal": "yellow"
         },
         {
@@ -4841,23 +4827,7 @@
           "text": "好噁心的毒油媽媽盧秀燕",
           "author": "ksh_aw",
           "url": "",
-          "time_text": "10小時",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "盧秀燕解決完台中的垃圾了沒？",
-          "author": "lalafaho",
-          "url": "",
-          "time_text": "8小時",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "你可恥嗎？作秀完棄單 news.ltn.com.tw/news… news.ltn.com.tw 議員爆中市府局處退訂345盒月餅 網氣炸：真正棄單的是盧秀燕！ - 政治 - 自由時報電子報",
-          "author": "hagirig777",
-          "url": "",
-          "time_text": "8小時",
+          "time_text": "11小時",
           "signal": "red"
         }
       ]
@@ -4867,11 +4837,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "yellow",
-      "news_count": 129,
+      "news_count": 128,
       "comment_count": 0,
       "negativity_pct": 1,
       "is_urgent": false,
-      "urgency_score": 132,
+      "urgency_score": 131,
       "news_articles": [
         {
           "title": "開學首日新北送三禮！免費午餐上路、鮮奶週擴大國中 32萬學生受惠",
@@ -5768,13 +5738,6 @@
           "time": "2026-08-31 09:52:29",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "「青年慧做事連線」搶頭香！綠營新北蘇系青年選將聯合登記",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5557697",
-          "time": "2026-08-31 09:45:20",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []
@@ -6025,7 +5988,7 @@
           "title": "張延廷嗆民進黨「貪污政權最怕辯論」 揭蔣萬安口才水平- 政治",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOSEctYnA5a3FvZW12MTVJSTdnNTZlV1hrTkRkWFZFd0ZiWnl6Um1zWl8yTk94S2xiM3k2ajltNFFmSDlXYUZZTklqemRGMDhQaC05VE9kMmU1STJ4aVNIVWVfaTBXT29VTlJxUHpn?oc=5",
           "time": "2026-09-01 00:05:30",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": "yellow"
         },
         {
@@ -7380,11 +7343,11 @@
       "city": "彰化",
       "place": "彰化縣政府",
       "level": "red",
-      "news_count": 75,
+      "news_count": 72,
       "comment_count": 0,
-      "negativity_pct": 13,
+      "negativity_pct": 14,
       "is_urgent": false,
-      "urgency_score": 105,
+      "urgency_score": 102,
       "news_articles": [
         {
           "title": "開學日 彰化守護學童安全上學路",
@@ -7889,27 +7852,6 @@
           "time": "2026-08-31 09:54:07",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "國小生開學日專屬幸福 彰化縣波麗士大人護送上學還做「這件事」",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5557699",
-          "time": "2026-08-31 09:49:47",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "影／彰化開學日萌警出動 彰警「護童專案」守護學童上學路",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B1-%E5%BD%B0%E5%8C%96%E9%96%8B%E5%AD%B8%E6%97%A5%E8%90%8C%E8%AD%A6%E5%87%BA%E5%8B%95-%E5%BD%B0%E8%AD%A6-%E8%AD%B7%E7%AB%A5%E5%B0%88%E6%A1%88-%E5%AE%88%E8%AD%B7%E5%AD%B8%E7%AB%A5%E4%B8%8A%E5%AD%B8%E8%B7%AF-014933219.html",
-          "time": "2026-08-31 09:49:33",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "影/彰化開學日街頭「猛烈燃燒」！休旅車陷火海成焦黑殘骸",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B1-%E5%BD%B0%E5%8C%96%E9%96%8B%E5%AD%B8%E6%97%A5%E8%A1%97%E9%A0%AD-%E7%8C%9B%E7%83%88%E7%87%83%E7%87%92-%E4%BC%91%E6%97%85%E8%BB%8A%E9%99%B7%E7%81%AB%E6%B5%B7%E6%88%90%E7%84%A6%E9%BB%91%E6%AE%98%E9%AA%B8-014732107.html",
-          "time": "2026-08-31 09:47:32",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -9361,11 +9303,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 173,
+      "news_count": 172,
       "comment_count": 0,
       "negativity_pct": 27,
       "is_urgent": false,
-      "urgency_score": 314,
+      "urgency_score": 310,
       "news_articles": [
         {
           "title": "2026.09.01 09:01 傅崐萁嗆外媒記者沒證據就道歉 張育萌列花蓮賄選鐵證：藍營急什麼？",
@@ -10570,13 +10512,6 @@
           "time": "2026-08-31 09:52:01",
           "publisher": "Google News→鏡報",
           "severity": "red"
-        },
-        {
-          "title": "不只花蓮爆買票爭議？美籍記者曝「國民黨在這縣市也有」：親眼看見大堆現金",
-          "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOMVdrZXdvSVE2ODJPUWl6Nm9TR3ltTE54enBTV0haSjlvM1p1RkRHRUpPVV9kYXpBYkxoQ2QzeVpEdWtvQ3Z5ZGlCSVRBSGVlWG5Pb0FCY0VRd0xFTjFPcDJyOVRNQS1zbzVKTzI5dlZkRmpWbzNQa0Y0MlFndGp2UVBoRzVHM3R6UnF1SmktTmFvOWx2clFxWkhrcnZYaUpSS0xCTWh6T2ZzUDN3eEdwN3o4WUlMaEtHOGZMT3RYSFlxb3ZGc3dIQVlxQ3FUTHVkRlBNMUVNcUR5YXVDNGJIejN5SlNQT1lXbmlwVThYOXVyTnQzMTZUMlNGWmh4VXNpTVBhcXBrbktJdjJRNFI2OWJTYTZRblpJX1RvRnhEVXNlRF9kN1Ewa0tYTEI1clBJbTFWQ0tKal9qZUFpTXVPS2N0VGJ6a1BZMnY4WEl3WE5FT1NWazU2TWxlWmRjNnM3SFFwV01SeHBCT1FlbG9pVjhldEUtRGFoLW5Ec0lnS3d4X1E0b0pYU0JPbGJrMHk2dFBoMUZGZ1VYbXFIYnUwXzNrcEpLMTFfcS1fbk9XOFZXNjBhb1p6dHRTbmw1WFR4eldQT2hBWlBWMWM?oc=5",
-          "time": "2026-08-31 09:45:06",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -10586,11 +10521,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 194,
+      "news_count": 192,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 215,
+      "urgency_score": 213,
       "news_articles": [
         {
           "title": "記憶體罷工潮蔓延到台灣，傳美光桃園醞釀罷工，勞資問題一觸即發",
@@ -11935,20 +11870,6 @@
           "time": "2026-08-31 09:52:29",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "桃園爆首宗里長選舉「搓湯圓」案 現任里長40萬行賄對手退選當場被逮",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5557698",
-          "time": "2026-08-31 09:45:31",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "桃園爆首宗里長選舉「搓湯圓」案現任里長40萬行賄對手退選當場被逮- 政治",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BbVF4X3YtYlljLUZ6cXlEb3o3SUdZY1hPV0g5LUxOcHl1V1AyZWszVFdnMnFsWVZEN1VmTjJIeTkxdVkxNnpOV3ZGYlRkeEpVQU5QQldCcnl4bk5UMVM2TmQwUklEblR0Z1E?oc=5",
-          "time": "2026-08-31 09:45:31",
-          "publisher": "自由時報",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -11956,14 +11877,28 @@
     {
       "title": "台中地方動態",
       "city": "台中",
-      "place": "台中市北屯區",
+      "place": "台中市南屯區",
       "level": "red",
-      "news_count": 212,
+      "news_count": 214,
       "comment_count": 0,
       "negativity_pct": 12,
       "is_urgent": false,
-      "urgency_score": 287,
+      "urgency_score": 289,
       "news_articles": [
+        {
+          "title": "台中免費營養午餐開跑！盧秀燕南屯國小打菜 開學週加碼雙主菜、L形大雞腿",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80RGg0ZVp4MDRidmktUm5mVWRiM2p0TjR3NHpiTWZKWmJPYWp4NWJuUk15bWdtdFRqM1JPTVpuYjlhZjlDQ1ZvSVowQ0xyWXpGRkE?oc=5",
+          "time": "2026-09-01 09:25:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "台中4所新設校同步開學 盧秀燕上任來共設10校投入逾92億",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pN01mRk9jVjl2RjlUYVpFVDJWQnAwbmZ2UHpiaVJRRTl0cHlwYzlTci13VHIxZHdNTlhiOGQ0SUtlRWR4N0w4UGFLVnRvRXFqOGc?oc=5",
+          "time": "2026-09-01 09:22:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
         {
           "title": "盧市長親訪台積電中科1.4奈米新廠工程進度超前 中市府全力協助投資落地產業發展與環境永續並進",
           "url": "https://focus.586.com.tw/2026/09/01/p401773/",
@@ -13458,10 +13393,24 @@
       "level": "red",
       "news_count": 241,
       "comment_count": 0,
-      "negativity_pct": 5,
+      "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 280,
+      "urgency_score": 283,
       "news_articles": [
+        {
+          "title": "高雄區漁會砲轟蔣萬安 抹黑漁港改建計畫 拒當政治攻防籌碼",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WbnhSeGtZZ0FCbWZpakFPaFVfcnZ0QmVPN2dlTzE3NzhZX3pqaG9iMjdZS21WMUpKdzNhTUhGQzkwclZvR3drRmpsYUxsVUFjeGg5OVpGWW4wM3ZZQmh5TmV1Tm1McDA1ZmJ2T0dB?oc=5",
+          "time": "2026-09-01 09:33:39",
+          "publisher": "中時新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "【賴瑞隆專訪】承陳其邁扛高雄第四棒 幕僚世代接手「拚拚拚」",
+          "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQVW0tRExwQlI3SnlORkhPSTZHMUdRZV9mbGFLYXAwc2M2djRoZXNzMzN1N2Rad0VvYlNPUzJYSTV1eGtRUC1Ic203UjdEY0plUGhvX2EwcXVUWWEyZUNOOVlQLWx6aXFFaXZvOHN1Zmh6VHRfdHZJMXVtOEpQelZMMm1HYnI1dWJVWDUwTmtJVHM3NnNjTmg5NmItVVhWb3JTdmNTMUgyTVBqZnV5RXdOb1g2a1pFdW9MYklEUS05ak1PNlRXUkZ2T01LX2ZlQ015bmdGRTEwVGgzYlVKMU9aZXV5d245M0Rjbk44MWwzWllMTzd0Y1NQTk9PS2hMTnhadkxocGlkNXhhSlpSSkJiSXVucTBMVnVsTnQwdUE1WHIxYVkwMHp6bFY1REV3VkotY2tuTDFYX21pR19RQmFTZXI3c3NodjZoRDR0VXF0Z1RNRng2VW9CazQwbG9Bc2dFUURLT3ZjekFGY2hyQlhaR2JyYklJOWc?oc=5",
+          "time": "2026-09-01 09:33:22",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
         {
           "title": "金秀賢確定來高雄！AAA重磅公布5名新卡司 日男神道枝駿佑也要來 | 日韓 | 娛樂",
           "url": "https://www.nownews.com/news/6870997",
@@ -13886,7 +13835,7 @@
           "title": "高雄開學日仍有教師缺額？陳其邁回應：僅剩1人未找齊",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xbzdGNTBrME9OQmxPM2VJTmxtVzZOU2RlTGVvZWJtdTlRM0RabEhpUFItWlZldUFxNm5qb3I5NlByZS1CZ1FoVDNxT24zNmdRTVk1N2VmZUVLUEN2YWt2RjhHaHk1bm9KU2gtQ0NB?oc=5",
           "time": "2026-08-31 19:37:30",
-          "publisher": "Google News→chinatimes.com",
+          "publisher": "中時新聞網",
           "severity": "yellow"
         },
         {
@@ -15134,20 +15083,6 @@
           "time": "2026-08-31 09:56:02",
           "publisher": "自由時報",
           "severity": "yellow"
-        },
-        {
-          "title": "賴瑞隆為高雄前鎮漁港下戰帖辯論！蔣萬安冷回一句：先問陳亭妃",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfVjVJbXE4YVZxVVZhazhvT2FiRDZqZXh5TUJOVm5ScmI1ZTQ4MWM4cDh3VzZLZGM2TTlpQ2pNOUFfdkluc3ZEQ0o2embSAVJBVV95cUxQTHlGQ3lVMU9hZ1d3ZFJGS19wS1I3TDVaN0k5VUN2SXNKNExDUTdXQVBkVHVab0p0UkNBMG5TalIwSEFpalUwa2UyeXh5X3VCWWpR?oc=5",
-          "time": "2026-08-31 09:44:19",
-          "publisher": "Google News→NOWnews今日新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "賴瑞隆為高雄前鎮漁港下戰帖辯論！蔣萬安冷回一句：先問陳亭妃| 要聞",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfVjVJbXE4YVZxVVZhazhvT2FiRDZqZXh5TUJOVm5ScmI1ZTQ4MWM4cDh3VzZLZGM2TTlpQ2pNOUFfdkluc3ZEQ0o2emY?oc=5",
-          "time": "2026-08-31 09:44:19",
-          "publisher": "Google News→NOWnews今日新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -15157,12 +15092,19 @@
       "city": "台北",
       "place": "台北市信義區",
       "level": "red",
-      "news_count": 324,
+      "news_count": 320,
       "comment_count": 0,
-      "negativity_pct": 12,
+      "negativity_pct": 13,
       "is_urgent": false,
-      "urgency_score": 444,
+      "urgency_score": 443,
       "news_articles": [
+        {
+          "title": "高雄區漁會砲轟蔣萬安 抹黑漁港改建計畫 拒當政治攻防籌碼",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WbnhSeGtZZ0FCbWZpakFPaFVfcnZ0QmVPN2dlTzE3NzhZX3pqaG9iMjdZS21WMUpKdzNhTUhGQzkwclZvR3drRmpsYUxsVUFjeGg5OVpGWW4wM3ZZQmh5TmV1Tm1McDA1ZmJ2T0dB?oc=5",
+          "time": "2026-09-01 09:33:39",
+          "publisher": "中時新聞網",
+          "severity": "yellow"
+        },
         {
           "title": "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景",
           "url": "https://n.yam.com/Article/20260901106443",
@@ -17394,41 +17336,6 @@
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5557691",
           "time": "2026-08-31 09:54:06",
           "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "撐不下去！台北51年「老字號早餐攤」今熄燈 業者曝原因：身心俱疲",
-          "url": "https://tw.news.yahoo.com/%E6%92%90%E4%B8%8D%E4%B8%8B%E5%8E%BB-%E5%8F%B0%E5%8C%9751%E5%B9%B4-%E8%80%81%E5%AD%97%E8%99%9F%E6%97%A9%E9%A4%90%E6%94%A4-%E4%BB%8A%E7%86%84%E7%87%88-%E6%A5%AD%E8%80%85%E6%9B%9D%E5%8E%9F%E5%9B%A0-015000249.html",
-          "time": "2026-08-31 09:50:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "正國會雙將搶進北市議會！王義川喊：吊車尾也要送進去",
-          "url": "https://newtalk.tw/news/view/2026-08-31/1056712",
-          "time": "2026-08-31 09:49:02",
-          "publisher": "新頭殼",
-          "severity": null
-        },
-        {
-          "title": "華許演說語氣偏鷹 台北股匯早盤雙跌",
-          "url": "https://money.udn.com/money/story/5616/9723955",
-          "time": "2026-08-31 09:44:30",
-          "publisher": "經濟日報",
-          "severity": "yellow"
-        },
-        {
-          "title": "賴瑞隆為高雄前鎮漁港下戰帖辯論！蔣萬安冷回一句：先問陳亭妃",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfVjVJbXE4YVZxVVZhazhvT2FiRDZqZXh5TUJOVm5ScmI1ZTQ4MWM4cDh3VzZLZGM2TTlpQ2pNOUFfdkluc3ZEQ0o2embSAVJBVV95cUxQTHlGQ3lVMU9hZ1d3ZFJGS19wS1I3TDVaN0k5VUN2SXNKNExDUTdXQVBkVHVab0p0UkNBMG5TalIwSEFpalUwa2UyeXh5X3VCWWpR?oc=5",
-          "time": "2026-08-31 09:44:19",
-          "publisher": "Google News→NOWnews今日新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "賴瑞隆為高雄前鎮漁港下戰帖辯論！蔣萬安冷回一句：先問陳亭妃| 要聞",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfVjVJbXE4YVZxVVZhazhvT2FiRDZqZXh5TUJOVm5ScmI1ZTQ4MWM4cDh3VzZLZGM2TTlpQ2pNOUFfdkluc3ZEQ0o2emY?oc=5",
-          "time": "2026-08-31 09:44:19",
-          "publisher": "Google News→NOWnews今日新聞",
           "severity": "yellow"
         }
       ],

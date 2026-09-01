@@ -87978,7 +87978,7 @@
     },
     {
       "date": "2026-09-01",
-      "snapshot_at": "2026-09-01T01:43:52.724161+00:00",
+      "snapshot_at": "2026-09-01T01:50:50.431984+00:00",
       "hotspots": [
         {
           "title": "台北狼師事件",
@@ -88114,10 +88114,10 @@
           "place": "台中市大里區",
           "level": "green",
           "news_count": 2,
-          "comment_count": 8,
+          "comment_count": 9,
           "negativity_pct": 0,
           "is_urgent": true,
-          "urgency_score": 26,
+          "urgency_score": 29,
           "sample_titles": [
             "垃圾山防線又破！「3月鼠咬、5月蓋布、8月風吹爛」 何文海轟中市府：靠補丁撐5年？",
             "垃圾山防線又破！「3月鼠咬、5月蓋布、8月風吹爛」 何文海轟中市府：靠補丁撐5年？"
@@ -88244,22 +88244,6 @@
           ]
         },
         {
-          "title": "嘉義縣地方動態",
-          "city": "嘉義縣",
-          "place": "嘉義縣政府",
-          "level": "yellow",
-          "news_count": 30,
-          "comment_count": 0,
-          "negativity_pct": 3,
-          "is_urgent": false,
-          "urgency_score": 33,
-          "sample_titles": [
-            "嘉義縣長翁章梁關心開學情形 嘉義縣免費營養午餐正式上路！",
-            "食安永在 嘉義縣用科學檢驗打造最優等級食安治理，榮獲「食育力五星城市」六連霸",
-            "嘉義縣「都市危險及老舊建築物結構安全性能評估」費用補助，11月30日前受理申請"
-          ]
-        },
-        {
           "title": "雲林地方動態",
           "city": "雲林",
           "place": "雲林縣政府",
@@ -88276,15 +88260,31 @@
           ]
         },
         {
+          "title": "嘉義縣地方動態",
+          "city": "嘉義縣",
+          "place": "嘉義縣政府",
+          "level": "yellow",
+          "news_count": 30,
+          "comment_count": 0,
+          "negativity_pct": 3,
+          "is_urgent": false,
+          "urgency_score": 33,
+          "sample_titles": [
+            "嘉義縣長翁章梁關心開學情形 嘉義縣免費營養午餐正式上路！",
+            "食安永在 嘉義縣用科學檢驗打造最優等級食安治理，榮獲「食育力五星城市」六連霸",
+            "嘉義縣「都市危險及老舊建築物結構安全性能評估」費用補助，11月30日前受理申請"
+          ]
+        },
+        {
           "title": "廚餘山",
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
           "news_count": 0,
-          "comment_count": 38,
+          "comment_count": 36,
           "negativity_pct": 0,
           "is_urgent": true,
-          "urgency_score": 60,
+          "urgency_score": 56,
           "sample_titles": []
         },
         {
@@ -88356,11 +88356,11 @@
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "yellow",
-          "news_count": 88,
+          "news_count": 87,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 94,
+          "urgency_score": 93,
           "sample_titles": [
             "新竹市立動物園通過環境教育設施場所認證　高虹安市長：不只是動物園也是城市中的環境教育場域",
             "民眾黨加速布局2026地方選舉，被視為民眾黨本命區的新竹市，6名選區提名7人，創黨主席柯文哲將陪同登記，與國民黨主席鄭麗",
@@ -88372,13 +88372,13 @@
           "city": "台中",
           "place": "台中市清水區",
           "level": "yellow",
-          "news_count": 67,
-          "comment_count": 47,
+          "news_count": 66,
+          "comment_count": 46,
           "negativity_pct": 3,
           "is_urgent": true,
-          "urgency_score": 154,
+          "urgency_score": 150,
           "sample_titles": [
-            "關注：盧秀燕鋪陳訪陸 平衡親美形象",
+            "台積電中科1.4奈米新廠工程超前 盧秀燕視察關心水電、工安、綠化",
             "關注：盧秀燕鋪陳訪陸 平衡親美形象",
             "關注：盧秀燕鋪陳訪陸 平衡親美形象"
           ]
@@ -88388,11 +88388,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "yellow",
-          "news_count": 129,
+          "news_count": 128,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 132,
+          "urgency_score": 131,
           "sample_titles": [
             "開學首日新北送三禮！免費午餐上路、鮮奶週擴大國中 32萬學生受惠",
             "新北教育局推「當大人工作坊」 9/6講座呂允分享、寶賤主持即起報名",
@@ -88531,11 +88531,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "red",
-          "news_count": 75,
+          "news_count": 72,
           "comment_count": 0,
-          "negativity_pct": 13,
+          "negativity_pct": 14,
           "is_urgent": false,
-          "urgency_score": 105,
+          "urgency_score": 102,
           "sample_titles": [
             "開學日 彰化守護學童安全上學路",
             "影／彰化家扶兒童啟力計畫結業 親子從桌遊到旅行學理財、存下孩子未來",
@@ -88579,11 +88579,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 173,
+          "news_count": 172,
           "comment_count": 0,
           "negativity_pct": 27,
           "is_urgent": false,
-          "urgency_score": 314,
+          "urgency_score": 310,
           "sample_titles": [
             "2026.09.01 09:01 傅崐萁嗆外媒記者沒證據就道歉 張育萌列花蓮賄選鐵證：藍營急什麼？",
             "玩東海岸搭公車好優惠！花蓮304洄瀾東海岸線兩人同行一人免費",
@@ -88595,11 +88595,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 194,
+          "news_count": 192,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 215,
+          "urgency_score": 213,
           "sample_titles": [
             "記憶體罷工潮蔓延到台灣，傳美光桃園醞釀罷工，勞資問題一觸即發",
             "桃園不怕少子化？專家點名「1區」預售屋去化超穩 驚人數據曝光！",
@@ -88609,17 +88609,17 @@
         {
           "title": "台中地方動態",
           "city": "台中",
-          "place": "台中市北屯區",
+          "place": "台中市南屯區",
           "level": "red",
-          "news_count": 212,
+          "news_count": 214,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 287,
+          "urgency_score": 289,
           "sample_titles": [
-            "盧市長親訪台積電中科1.4奈米新廠工程進度超前 中市府全力協助投資落地產業發展與環境永續並進",
-            "盧市長親訪台積電中科1.4奈米新廠工程進度超前 中市府全力協助投資落地產業發展與環境永續並進",
-            "全台房價還沒止跌！7月買氣卻突然回來了 台中竟成七都「漲最多」"
+            "台中免費營養午餐開跑！盧秀燕南屯國小打菜 開學週加碼雙主菜、L形大雞腿",
+            "台中4所新設校同步開學 盧秀燕上任來共設10校投入逾92億",
+            "盧市長親訪台積電中科1.4奈米新廠工程進度超前 中市府全力協助投資落地產業發展與環境永續並進"
           ]
         },
         {
@@ -88629,13 +88629,13 @@
           "level": "red",
           "news_count": 241,
           "comment_count": 0,
-          "negativity_pct": 5,
+          "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 280,
+          "urgency_score": 283,
           "sample_titles": [
-            "金秀賢確定來高雄！AAA重磅公布5名新卡司 日男神道枝駿佑也要來 | 日韓 | 娛樂",
-            "2026.09.01 09:15 強風豪雨襲高雄！路面積水濺水花 山坡雨水如瀑布灌下",
-            "國家警報一早響了！高雄屏東雷雨炸開"
+            "高雄區漁會砲轟蔣萬安 抹黑漁港改建計畫 拒當政治攻防籌碼",
+            "【賴瑞隆專訪】承陳其邁扛高雄第四棒 幕僚世代接手「拚拚拚」",
+            "金秀賢確定來高雄！AAA重磅公布5名新卡司 日男神道枝駿佑也要來 | 日韓 | 娛樂"
           ]
         },
         {
@@ -88643,15 +88643,15 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 324,
+          "news_count": 320,
           "comment_count": 0,
-          "negativity_pct": 12,
+          "negativity_pct": 13,
           "is_urgent": false,
-          "urgency_score": 444,
+          "urgency_score": 443,
           "sample_titles": [
+            "高雄區漁會砲轟蔣萬安 抹黑漁港改建計畫 拒當政治攻防籌碼",
             "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景",
-            "台北市發錢！2026重陽敬老禮金9/1入帳 全台時間、最高5萬金額曝 | 生活",
-            "竹北市長藍白復合？ 林為州參與協調曝轉機：稍安勿躁、先不要彼此攻擊"
+            "台北市發錢！2026重陽敬老禮金9/1入帳 全台時間、最高5萬金額曝 | 生活"
           ]
         }
       ]
