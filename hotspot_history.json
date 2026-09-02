@@ -88756,7 +88756,7 @@
     },
     {
       "date": "2026-09-02",
-      "snapshot_at": "2026-09-02T01:39:03.285875+00:00",
+      "snapshot_at": "2026-09-02T01:48:57.255936+00:00",
       "hotspots": [
         {
           "title": "彰化車禍事件",
@@ -88934,6 +88934,20 @@
           ]
         },
         {
+          "title": "基隆狼師事件",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "74歲老婦悲喊「我能當你媽」！基隆惡男性侵致血尿重判4年10月"
+          ]
+        },
+        {
           "title": "宜蘭狼師事件",
           "city": "宜蘭",
           "place": "宜蘭縣政府",
@@ -88959,20 +88973,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "「50元摸一次」 彰化色阿伯誘騙性侵少女 判1年半再監護2年"
-          ]
-        },
-        {
-          "title": "基隆狼師事件",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "74歲老婦悲喊「我能當你媽」！基隆惡男性侵致血尿重判4年10月"
           ]
         },
         {
@@ -89100,15 +89100,15 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
-          "news_count": 73,
+          "news_count": 74,
           "comment_count": 7,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 97,
+          "urgency_score": 98,
           "sample_titles": [
             "通說：核心幕僚赴陸 盧秀燕要補“兩岸課”？",
-            "挺接棒 盧秀燕明陪江啟臣登記",
-            "鄭照新今赴東莞 盧秀燕：拚商機 藍批綠抹紅"
+            "陪江啟臣登記參選 盧秀燕挺接棒｜LIVE",
+            "挺接棒 盧秀燕明陪江啟臣登記"
           ]
         },
         {
@@ -89157,21 +89157,6 @@
           ]
         },
         {
-          "title": "高雄弊案爭議",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "減重手術害2死 高雄名醫又被控「詐424病患」撈1802萬起訴",
-            "高雄減重名醫王銘嶼害2死 又涉詐424病患1802萬起訴"
-          ]
-        },
-        {
           "title": "台中弊案爭議",
           "city": "台中",
           "place": "台中市政府",
@@ -89184,6 +89169,21 @@
           "sample_titles": [
             "不當排放廢氣、蓄意逃漏空污費／台中建材烤漆業3人起訴 聲請沒收5900萬",
             "台中烤漆廠排放甲苯超標16倍 涉低報原料量短繳空污費遭起訴"
+          ]
+        },
+        {
+          "title": "高雄弊案爭議",
+          "city": "高雄",
+          "place": "高雄市政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "減重手術害2死 高雄名醫又被控「詐424病患」撈1802萬起訴",
+            "高雄減重名醫王銘嶼害2死 又涉詐424病患1802萬起訴"
           ]
         },
         {
@@ -89267,6 +89267,22 @@
           ]
         },
         {
+          "title": "彰化地方動態",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "red",
+          "news_count": 39,
+          "comment_count": 0,
+          "negativity_pct": 3,
+          "is_urgent": false,
+          "urgency_score": 42,
+          "sample_titles": [
+            "彰化榮服處攜手企業公益團體 關懷榮民遺孤及向學子女",
+            "一沙一世界：彰化榮家長輩合創彩鹽沙畫療癒心靈",
+            "彰化警盜權限查136同事考核 判緩刑"
+          ]
+        },
+        {
           "title": "澎湖地方動態",
           "city": "澎湖",
           "place": "澎湖縣政府",
@@ -89280,22 +89296,6 @@
             "離島反賄戰火升溫！澎湖地檢立案35件 嚴查「幽靈人口」與境外勢力介選",
             "南市推安平←→馬公觀光航線 澎湖輪10月試航 | 自由電子報",
             "南市推安平←→馬公觀光航線 澎湖輪10月試航"
-          ]
-        },
-        {
-          "title": "彰化地方動態",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "red",
-          "news_count": 40,
-          "comment_count": 0,
-          "negativity_pct": 2,
-          "is_urgent": false,
-          "urgency_score": 43,
-          "sample_titles": [
-            "彰化榮服處攜手企業公益團體 關懷榮民遺孤及向學子女",
-            "一沙一世界：彰化榮家長輩合創彩鹽沙畫療癒心靈",
-            "彰化警盜權限查136同事考核 判緩刑"
           ]
         },
         {
@@ -89319,11 +89319,11 @@
           "city": "南投",
           "place": "南投縣政府",
           "level": "red",
-          "news_count": 54,
+          "news_count": 53,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 54,
+          "urgency_score": 53,
           "sample_titles": [
             "他為了要救你們而犧牲！南投勇消救人因公殉職 母盼「靈前致意」",
             "中獎機率再提升！ 南投縣稅務局：雲端發票500元獎加碼50萬組",
@@ -89335,11 +89335,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 79,
+          "news_count": 78,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 94,
+          "urgency_score": 93,
           "sample_titles": [
             "觀點投書：由台南看宜蘭─洗腦式的看板，錢從哪裡來？ | 鄭文嵐 | 評論",
             "沙德爾外圍環流影響全台溼答答 台東今防豪雨 周五雨區轉移北部+宜蘭",
@@ -89351,11 +89351,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 94,
+          "news_count": 93,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 109,
+          "urgency_score": 108,
           "sample_titles": [
             "岱稜科技攜員工做公益 捐助北台南家扶學募款81萬創歷年新高",
             "南市推安平←→馬公觀光航線 澎湖輪10月試航 | 自由電子報",
@@ -89367,11 +89367,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 125,
+          "news_count": 123,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 128,
+          "urgency_score": 126,
           "sample_titles": [
             "屏東榮家屏科大社工實習生暖心長照 青銀共融 展專業成果",
             "豪雨狂轟 今日停班課一覽！屏東1鄉鎮「連放2天豪雨假」",
@@ -89383,11 +89383,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 140,
+          "news_count": 133,
           "comment_count": 0,
-          "negativity_pct": 22,
+          "negativity_pct": 21,
           "is_urgent": false,
-          "urgency_score": 233,
+          "urgency_score": 217,
           "sample_titles": [
             "苗栗榮服處×育達科大攜手開拓退除役官兵學業訓管道",
             "苗栗營養午餐補助 擬加碼10元",
@@ -89415,11 +89415,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 150,
+          "news_count": 149,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 162,
+          "urgency_score": 161,
           "sample_titles": [
             "日本漢堡品牌Dom Dom Hamburger 進駐桃園機場第二航廈！清晨 5 點開賣、3 款薯餅蛋堡機場店限定",
             "桃園機場「航廈夜市趣」豐富旅客候機體驗 - 生活新聞 - PChome Online 新聞",
@@ -89431,11 +89431,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 157,
+          "news_count": 155,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 214,
+          "urgency_score": 212,
           "sample_titles": [
             "前外媒記者稱花蓮賄選嚴重 傅質疑：為何不當場舉報？",
             "花蓮赤科山主線道崩塌2年 復建工程將啟動",
@@ -89447,11 +89447,11 @@
           "city": "台中",
           "place": "台中市霧峰區",
           "level": "red",
-          "news_count": 243,
+          "news_count": 240,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 291,
+          "urgency_score": 288,
           "sample_titles": [
             "立委蔡其昌領軍「新力連線」陪同15位中市議員聯合登記",
             "軌道效益 台中三大生活圈房價衝",
@@ -89463,11 +89463,11 @@
           "city": "高雄",
           "place": "高雄市前金區",
           "level": "red",
-          "news_count": 264,
+          "news_count": 263,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 297,
+          "urgency_score": 296,
           "sample_titles": [
             "雙重海嘯來襲!股市通膨!日本吞猛藥續命! | 貝森特無能為力!高市帝國搖搖欲墜!【頭條開講】完整版 @頭條開講Headl",
             "日本國運不濟\"一路倒大楣到今天\"?!郭正亮:\"川普沒把高市當回事!\"@頭條開講HeadlinesTalk  202609",
