@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "snapshot_at": "2026-09-02T10:44:46.621688+00:00",
+  "snapshot_at": "2026-09-02T10:45:49.059340+00:00",
   "hotspots": [
     {
       "title": "台中狼師事件",
@@ -87,27 +87,6 @@
       "comments": []
     },
     {
-      "title": "新竹市詐騙案",
-      "city": "新竹市",
-      "place": "新竹市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "求職詐騙處處有 竹市提醒牢記「三要七不」",
-          "url": "https://www.thehubnews.net/archives/660155",
-          "time": "2026-09-01 19:09:07",
-          "publisher": "新頭條",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "高雄詐騙案",
       "city": "高雄",
       "place": "高雄市鼓山區",
@@ -150,6 +129,27 @@
       "comments": []
     },
     {
+      "title": "新竹市詐騙案",
+      "city": "新竹市",
+      "place": "新竹市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "求職詐騙處處有 竹市提醒牢記「三要七不」",
+          "url": "https://www.thehubnews.net/archives/660155",
+          "time": "2026-09-01 19:09:07",
+          "publisher": "新頭條",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "雲林公廁議題",
       "city": "雲林",
       "place": "雲林縣政府",
@@ -178,34 +178,6 @@
       "comments": []
     },
     {
-      "title": "宜蘭車禍事件",
-      "city": "宜蘭",
-      "place": "宜蘭縣政府",
-      "level": "green",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "宜蘭驚悚車禍！小客車撞壁再撞休旅車 慘變廢鐵 | EBC 東森新聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYaDBWQ1BZVlQ0c2ZkekxzRGxnSGR0WlQ1eXVTUFRkUElDQlNpLVVtODNMU0wyLVI4Qk1WOTBSWm9PbUExV3pCLUVUWjVSbHFQVGVqRGd3?oc=5",
-          "time": "2026-09-01 20:40:57",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "宜蘭驚悚車禍！小客車撞壁再撞休旅車 慘變廢鐵",
-          "url": "https://news.ebc.net.tw/news/society/569243",
-          "time": "2026-09-01 19:59:00",
-          "publisher": "東森新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "花蓮車禍事件",
       "city": "花蓮",
       "place": "花蓮縣政府",
@@ -228,6 +200,34 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByYmdaN0VoTGh5c2pvcVVrSU1ubXlES0ZLUXZqNjFNOXFneEtnZU5BbExSNXNxVEp4MkJJMHFuRmxQYTFOVVNoU3hwT01FeDA?oc=5",
           "time": "2026-09-02 10:35:00",
           "publisher": "TVBS",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "宜蘭車禍事件",
+      "city": "宜蘭",
+      "place": "宜蘭縣政府",
+      "level": "green",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "宜蘭驚悚車禍！小客車撞壁再撞休旅車 慘變廢鐵 | EBC 東森新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYaDBWQ1BZVlQ0c2ZkekxzRGxnSGR0WlQ1eXVTUFRkUElDQlNpLVVtODNMU0wyLVI4Qk1WOTBSWm9PbUExV3pCLUVUWjVSbHFQVGVqRGd3?oc=5",
+          "time": "2026-09-01 20:40:57",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "yellow"
+        },
+        {
+          "title": "宜蘭驚悚車禍！小客車撞壁再撞休旅車 慘變廢鐵",
+          "url": "https://news.ebc.net.tw/news/society/569243",
+          "time": "2026-09-01 19:59:00",
+          "publisher": "東森新聞",
           "severity": "yellow"
         }
       ],
@@ -795,27 +795,6 @@
       "comments": []
     },
     {
-      "title": "高雄弊案爭議",
-      "city": "高雄",
-      "place": "高雄市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "減重手術害2死 高雄名醫又被控「詐424病患」撈1802萬起訴",
-          "url": "https://www.taisounds.com/news/content/92/286389",
-          "time": "2026-09-01 19:33:22",
-          "publisher": "太報",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台中弊案爭議",
       "city": "台中",
       "place": "台中市政府",
@@ -852,6 +831,27 @@
           "url": "https://tw.news.yahoo.com/%E5%98%89%E5%B8%82-%E9%85%B7%E5%88%91%E5%87%8C%E8%99%90%E6%80%A7%E9%A8%B7%E7%94%B7-8%E5%AB%8C%E8%A2%AB%E9%80%AE4%E6%94%B6%E6%8A%BC-201000390.html",
           "time": "2026-09-01 20:10:00",
           "publisher": "Yahoo新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄弊案爭議",
+      "city": "高雄",
+      "place": "高雄市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "減重手術害2死 高雄名醫又被控「詐424病患」撈1802萬起訴",
+          "url": "https://www.taisounds.com/news/content/92/286389",
+          "time": "2026-09-01 19:33:22",
+          "publisher": "太報",
           "severity": "red"
         }
       ],

@@ -88756,7 +88756,7 @@
     },
     {
       "date": "2026-09-02",
-      "snapshot_at": "2026-09-02T10:44:46.621688+00:00",
+      "snapshot_at": "2026-09-02T10:45:49.059340+00:00",
       "hotspots": [
         {
           "title": "台中狼師事件",
@@ -88815,20 +88815,6 @@
           ]
         },
         {
-          "title": "新竹市詐騙案",
-          "city": "新竹市",
-          "place": "新竹市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "求職詐騙處處有 竹市提醒牢記「三要七不」"
-          ]
-        },
-        {
           "title": "高雄詐騙案",
           "city": "高雄",
           "place": "高雄市鼓山區",
@@ -88857,6 +88843,20 @@
           ]
         },
         {
+          "title": "新竹市詐騙案",
+          "city": "新竹市",
+          "place": "新竹市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "求職詐騙處處有 竹市提醒牢記「三要七不」"
+          ]
+        },
+        {
           "title": "雲林公廁議題",
           "city": "雲林",
           "place": "雲林縣政府",
@@ -88872,21 +88872,6 @@
           ]
         },
         {
-          "title": "宜蘭車禍事件",
-          "city": "宜蘭",
-          "place": "宜蘭縣政府",
-          "level": "green",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "宜蘭驚悚車禍！小客車撞壁再撞休旅車 慘變廢鐵 | EBC 東森新聞",
-            "宜蘭驚悚車禍！小客車撞壁再撞休旅車 慘變廢鐵"
-          ]
-        },
-        {
           "title": "花蓮車禍事件",
           "city": "花蓮",
           "place": "花蓮縣政府",
@@ -88899,6 +88884,21 @@
           "sample_titles": [
             "離奇自撞亡！ 花蓮騎士突偏移「逆向撞路樹」　車禍前3天曾持毒被逮",
             "花蓮死亡車禍！機車逆向撞路樹 男騎士頭部出血不治"
+          ]
+        },
+        {
+          "title": "宜蘭車禍事件",
+          "city": "宜蘭",
+          "place": "宜蘭縣政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "宜蘭驚悚車禍！小客車撞壁再撞休旅車 慘變廢鐵 | EBC 東森新聞",
+            "宜蘭驚悚車禍！小客車撞壁再撞休旅車 慘變廢鐵"
           ]
         },
         {
@@ -89020,20 +89020,6 @@
           ]
         },
         {
-          "title": "高雄弊案爭議",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "減重手術害2死 高雄名醫又被控「詐424病患」撈1802萬起訴"
-          ]
-        },
-        {
           "title": "台中弊案爭議",
           "city": "台中",
           "place": "台中市政府",
@@ -89059,6 +89045,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "嘉市 酷刑凌虐性騷男 8嫌被逮4收押"
+          ]
+        },
+        {
+          "title": "高雄弊案爭議",
+          "city": "高雄",
+          "place": "高雄市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "減重手術害2死 高雄名醫又被控「詐424病患」撈1802萬起訴"
           ]
         },
         {
