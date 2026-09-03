@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "snapshot_at": "2026-09-03T01:41:38.842343+00:00",
+  "snapshot_at": "2026-09-03T01:42:43.869639+00:00",
   "hotspots": [
     {
       "title": "行人地獄討論",
@@ -129,27 +129,6 @@
       "comments": []
     },
     {
-      "title": "澎湖詐騙案",
-      "city": "澎湖",
-      "place": "澎湖縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "澎湖縣政府提供「115年9月本府統計調查一覽表」供鄉親向「165反詐騙專線」查詢運用",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPOExYNmVjbTBjSXBKRnd5b0xxd0htZ1YtR2V0QXg0OHhIaWZPeWJpY1JRVDRnTTE5aDluMWhObVY5RVlseVowcjVMV0FVTl80Y2Q5VkdmbTFrUTdjY1lLU0szR2Y0Vk9udHpldGdYaVNoY25EMnFZTndfbjQ2Z1V1aDdEejNBelNCbG91cFpvNlBkQlBiaDBPaE1mallhODBQMFlDdkZMWE92eEE3bkVVcTQ5cUJmYWl2d1llNnVxLTZlSHIwSnFUd09FbW9FUm5naldsd3VmX0pFVnhfZFkyQzJIUkZTTGVaa0tNSmMxVHJMeFg4aUUwSWctRHhQMGNTcWNzdXY1cTlhX3dwRl94eXhDeVBJZFBBZTlCZWxETVpZLVlOUGp5NFpOZllVUldNbEFIVl9kRlM1bDQ?oc=5",
-          "time": "2026-09-03 00:06:39",
-          "publisher": "Google News→澎湖e傳媒",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "高雄詐騙案",
       "city": "高雄",
       "place": "高雄市鼓山區",
@@ -171,27 +150,6 @@
       "comments": []
     },
     {
-      "title": "台北詐騙案",
-      "city": "台北",
-      "place": "台北市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "AI變聲交友談心詐騙！ 2萬人暈船　北市詐團得手10億元",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-09-02/2455112.html",
-          "time": "2026-09-02 15:13:18",
-          "publisher": "壹電視",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台中詐騙案",
       "city": "台中",
       "place": "台中市豐原區",
@@ -207,6 +165,48 @@
           "url": "https://n.yam.com/Article/20260902400373",
           "time": "2026-09-02 12:00:00",
           "publisher": "蕃新聞→互傳媒",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "澎湖詐騙案",
+      "city": "澎湖",
+      "place": "澎湖縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "澎湖縣政府提供「115年9月本府統計調查一覽表」供鄉親向「165反詐騙專線」查詢運用",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPOExYNmVjbTBjSXBKRnd5b0xxd0htZ1YtR2V0QXg0OHhIaWZPeWJpY1JRVDRnTTE5aDluMWhObVY5RVlseVowcjVMV0FVTl80Y2Q5VkdmbTFrUTdjY1lLU0szR2Y0Vk9udHpldGdYaVNoY25EMnFZTndfbjQ2Z1V1aDdEejNBelNCbG91cFpvNlBkQlBiaDBPaE1mallhODBQMFlDdkZMWE92eEE3bkVVcTQ5cUJmYWl2d1llNnVxLTZlSHIwSnFUd09FbW9FUm5naldsd3VmX0pFVnhfZFkyQzJIUkZTTGVaa0tNSmMxVHJMeFg4aUUwSWctRHhQMGNTcWNzdXY1cTlhX3dwRl94eXhDeVBJZFBBZTlCZWxETVpZLVlOUGp5NFpOZllVUldNbEFIVl9kRlM1bDQ?oc=5",
+          "time": "2026-09-03 00:06:39",
+          "publisher": "Google News→澎湖e傳媒",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台北詐騙案",
+      "city": "台北",
+      "place": "台北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "AI變聲交友談心詐騙！ 2萬人暈船　北市詐團得手10億元",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-09-02/2455112.html",
+          "time": "2026-09-02 15:13:18",
+          "publisher": "壹電視",
           "severity": "yellow"
         }
       ],

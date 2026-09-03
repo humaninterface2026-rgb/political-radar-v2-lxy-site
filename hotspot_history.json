@@ -89456,7 +89456,7 @@
     },
     {
       "date": "2026-09-03",
-      "snapshot_at": "2026-09-03T01:41:38.842343+00:00",
+      "snapshot_at": "2026-09-03T01:42:43.869639+00:00",
       "hotspots": [
         {
           "title": "行人地獄討論",
@@ -89543,20 +89543,6 @@
           ]
         },
         {
-          "title": "澎湖詐騙案",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "澎湖縣政府提供「115年9月本府統計調查一覽表」供鄉親向「165反詐騙專線」查詢運用"
-          ]
-        },
-        {
           "title": "高雄詐騙案",
           "city": "高雄",
           "place": "高雄市鼓山區",
@@ -89571,20 +89557,6 @@
           ]
         },
         {
-          "title": "台北詐騙案",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "AI變聲交友談心詐騙！ 2萬人暈船　北市詐團得手10億元"
-          ]
-        },
-        {
           "title": "台中詐騙案",
           "city": "台中",
           "place": "台中市豐原區",
@@ -89596,6 +89568,34 @@
           "urgency_score": 4,
           "sample_titles": [
             "開學日守護不打烊！豐原警加強校園周邊護童　同步防堵網路詐騙與數位性暴力"
+          ]
+        },
+        {
+          "title": "澎湖詐騙案",
+          "city": "澎湖",
+          "place": "澎湖縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "澎湖縣政府提供「115年9月本府統計調查一覽表」供鄉親向「165反詐騙專線」查詢運用"
+          ]
+        },
+        {
+          "title": "台北詐騙案",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "AI變聲交友談心詐騙！ 2萬人暈船　北市詐團得手10億元"
           ]
         },
         {
