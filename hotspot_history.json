@@ -89456,7 +89456,7 @@
     },
     {
       "date": "2026-09-03",
-      "snapshot_at": "2026-09-03T10:33:52.709261+00:00",
+      "snapshot_at": "2026-09-03T10:38:50.243928+00:00",
       "hotspots": [
         {
           "title": "行人地獄討論",
@@ -89473,20 +89473,6 @@
           ]
         },
         {
-          "title": "台中狼師事件",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "覬覦女按摩師家境 台中4惡煞竟下藥施暴性侵 菸燙腿拍全裸片勒索"
-          ]
-        },
-        {
           "title": "基隆狼師事件",
           "city": "基隆",
           "place": "基隆市政府",
@@ -89498,6 +89484,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "基隆74歲老婦遭「鄰居性侵」！崩潰喊：我比你媽年紀還大 事件始末曝光"
+          ]
+        },
+        {
+          "title": "台中狼師事件",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "覬覦女按摩師家境 台中4惡煞竟下藥施暴性侵 菸燙腿拍全裸片勒索"
           ]
         },
         {
@@ -89529,20 +89529,6 @@
           ]
         },
         {
-          "title": "桃園陳情/抗議",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "爆料／投訴無門！桃園社區地下室蟑螂成災爬上身住戶反映整年無果沒等來消毒卻先等來存證信函"
-          ]
-        },
-        {
           "title": "花蓮陳情/抗議",
           "city": "花蓮",
           "place": "花蓮縣政府",
@@ -89554,6 +89540,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "花蓮縣長選舉第4人參戰 軍人出身曾想選總統登記完秒陳情"
+          ]
+        },
+        {
+          "title": "桃園陳情/抗議",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "爆料／投訴無門！桃園社區地下室蟑螂成災爬上身住戶反映整年無果沒等來消毒卻先等來存證信函"
           ]
         },
         {
@@ -89683,20 +89683,6 @@
           ]
         },
         {
-          "title": "台北弊案爭議",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "北市前敦南派出所副所長「查情敵個資」 遭拔官 慘被判刑3月"
-          ]
-        },
-        {
           "title": "台中弊案爭議",
           "city": "台中",
           "place": "台中市政府",
@@ -89708,6 +89694,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "赴泰玩慘被押去詐騙園區困1年！台中男沒當兵 被判刑逆轉 台中大雅一名潘姓男子，在要當兵前，到泰國玩一周，順便找工作，沒想"
+          ]
+        },
+        {
+          "title": "台北弊案爭議",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "北市前敦南派出所副所長「查情敵個資」 遭拔官 慘被判刑3月"
           ]
         },
         {
@@ -89755,22 +89755,6 @@
           ]
         },
         {
-          "title": "嘉義市地方動態",
-          "city": "嘉義市",
-          "place": "嘉義市政府",
-          "level": "yellow",
-          "news_count": 19,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 19,
-          "sample_titles": [
-            "馬國男子深夜ATM領2萬秒塞口袋露餡 嘉市警7天連逮8詐團車手",
-            "嘉市長登記參選第5人 王義成：希望幫助有需要的人",
-            "嘉義市115年心理健康月暖心啟動 推動從社區出發讓支持走進日常"
-          ]
-        },
-        {
           "title": "連江地方動態",
           "city": "連江",
           "place": "連江縣（馬祖）",
@@ -89784,6 +89768,22 @@
             "浪漫海岸樂聲響起！ 「2026微光馬祖－GLOW UP音樂會」9月11日南竿登場",
             "馬祖東莒又有新玩法！福正沙灘潮間帶生態體驗登場 踏浪尋寶還能品嚐海鮮粥",
             "「2026微光馬祖」接力登場 9月11日南竿GLOW UP音樂會點亮秋夜"
+          ]
+        },
+        {
+          "title": "嘉義市地方動態",
+          "city": "嘉義市",
+          "place": "嘉義市政府",
+          "level": "yellow",
+          "news_count": 19,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 19,
+          "sample_titles": [
+            "馬國男子深夜ATM領2萬秒塞口袋露餡 嘉市警7天連逮8詐團車手",
+            "嘉市長登記參選第5人 王義成：希望幫助有需要的人",
+            "嘉義市115年心理健康月暖心啟動 推動從社區出發讓支持走進日常"
           ]
         },
         {
@@ -89839,11 +89839,11 @@
           "city": "嘉義縣",
           "place": "嘉義縣政府",
           "level": "yellow",
-          "news_count": 55,
+          "news_count": 53,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 55,
+          "urgency_score": 53,
           "sample_titles": [
             "蔡易餘完成嘉義縣長參選登記 翁章梁「交棒」力挺",
             "接棒翁章梁！蔡易餘登記參選嘉義縣長：大步向前走打造「嘉義黃金十年」",
@@ -89855,11 +89855,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "yellow",
-          "news_count": 93,
+          "news_count": 92,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 99,
+          "urgency_score": 98,
           "sample_titles": [
             "竹北市長藍白合破局，是否衝擊宜蘭縣長選舉整合？民眾黨黨主席黃國昌今天受訪表示，新竹的事，關宜蘭吳宗憲什麼事？他認識吳宗憲",
             "挺國防更要科技化 林國漳提打造宜蘭無人載具測試研發基地",
@@ -89871,15 +89871,30 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "yellow",
-          "news_count": 135,
+          "news_count": 134,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 141,
+          "urgency_score": 140,
           "sample_titles": [
             "【新聞一點靈】鄭麗文新竹站台口誤喊「藍白對決」　前竹縣長嗆：若敗選最大戰犯就是妳　花蓮三腳督同天登記參選　游淑貞避談「翁",
             "年底五合一選舉進入登記階段，民進黨在花蓮不僅未推縣長人選，連13鄉鎮市長都缺席，遭民眾黨主席黃國昌批評「好像放棄花蓮」；",
             "「花蓮學子創意登上世界舞台 勇奪雙銅牌、榮譽提名及國際獎項」"
+          ]
+        },
+        {
+          "title": "台東弊案爭議",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "登記參選台東縣長》陳瑩籲說清楚農路弊案 吳秀華︰沒犯罪",
+            "東映農路弊案》台東7議員遭傳訊「最遠在蘭嶼」 釐清誰請託建議款"
           ]
         },
         {
@@ -89910,21 +89925,6 @@
           "sample_titles": [
             "23歲男遭擄7小時活活打死！身分竟是「南投議長外甥」 2幕後藏鏡人遭收押",
             "南投議長何勝豐外甥遭擄毆打致死 茶行2藏鏡人收押禁見"
-          ]
-        },
-        {
-          "title": "台東弊案爭議",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "登記參選台東縣長》陳瑩籲說清楚農路弊案 吳秀華︰沒犯罪",
-            "東映農路弊案》台東7議員遭傳訊「最遠在蘭嶼」 釐清誰請託建議款"
           ]
         },
         {
@@ -89996,11 +89996,11 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "red",
-          "news_count": 65,
+          "news_count": 64,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 68,
+          "urgency_score": 67,
           "sample_titles": [
             "台聯黨主席周倪安、前澎縣副縣長許智富 完成澎湖縣長選舉登記",
             "澎湖縣政府衛生局越過海洋的距離為健康平權寫下有溫度的治理典範| 雜誌",
@@ -90044,11 +90044,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 87,
+          "news_count": 86,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 93,
+          "urgency_score": 92,
           "sample_titles": [
             "苗栗縣免費法律諮詢",
             "「栗守誠信・食在安心」苗栗縣府邀食品業者共築食安防線",
@@ -90076,11 +90076,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 128,
+          "news_count": 123,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 134,
+          "urgency_score": 129,
           "sample_titles": [
             "屏東延續臺韓觀光交流情誼 前進首爾深化韓國市場",
             "梁育慈允諾上任後開闢屏東市任督二脈 打通市區瓶頸道路",
@@ -90108,11 +90108,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 174,
+          "news_count": 172,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 192,
+          "urgency_score": 190,
           "sample_titles": [
             "快訊／競選看板才掛上！佀廣洋無懼負評選桃園市議員 登記畫面曝光",
             "獨家／上萬網購包裹離奇消失！突出現在陌生倉庫 差點被轉賣出去 桃園一家倉儲業者日前發現工廠內憑空出現三大籠網購包裹，經聯",
@@ -90124,11 +90124,11 @@
           "city": "高雄",
           "place": "高雄市三民區",
           "level": "red",
-          "news_count": 200,
+          "news_count": 199,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 221,
+          "urgency_score": 220,
           "sample_titles": [
             "陳其邁「緊緊緊」新書發表會明辦台北場！賴清德、陳建仁、謝長廷、沈伯洋、蘇巧慧皆到場",
             "陳其邁「緊緊緊」新書發表會明辦台北場！賴清德、陳建仁、謝長廷、沈伯洋、蘇巧慧皆到場",
@@ -90140,11 +90140,11 @@
           "city": "台中",
           "place": "台中市豐原區",
           "level": "red",
-          "news_count": 227,
+          "news_count": 226,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 272,
+          "urgency_score": 271,
           "sample_titles": [
             "邱愛珊籲市府整合豐原站區 打造北台中門戶",
             "12根鋼柱撐鄰宅還是塌！綠營議員質疑中市府開挖稽核不力致頻傳損鄰",
@@ -90156,11 +90156,11 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 299,
+          "news_count": 298,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 374,
+          "urgency_score": 373,
           "sample_titles": [
             "陳其邁「緊緊緊」新書發表會明辦台北場！賴清德、陳建仁、謝長廷、沈伯洋、蘇巧慧皆到場",
             "陳其邁「緊緊緊」新書發表會明辦台北場！賴清德、陳建仁、謝長廷、沈伯洋、蘇巧慧皆到場",
