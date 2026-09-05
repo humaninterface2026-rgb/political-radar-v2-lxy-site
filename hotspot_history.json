@@ -90955,7 +90955,7 @@
     },
     {
       "date": "2026-09-05",
-      "snapshot_at": "2026-09-05T10:38:40.468019+00:00",
+      "snapshot_at": "2026-09-05T10:49:38.164872+00:00",
       "hotspots": [
         {
           "title": "宜蘭公廁議題",
@@ -91283,11 +91283,11 @@
           "city": "雲林",
           "place": "雲林縣政府",
           "level": "yellow",
-          "news_count": 37,
+          "news_count": 35,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 37,
+          "urgency_score": 35,
           "sample_titles": [
             "雲林縣府台北花博辦毛巾嘉年華 蔣萬安：兩縣市可多合作城市行銷",
             "從大型活動策展走向公共服務「張光儀登記參選雲林縣議員」",
@@ -91315,11 +91315,11 @@
           "city": "基隆",
           "place": "基隆市政府",
           "level": "yellow",
-          "news_count": 55,
+          "news_count": 53,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 55,
+          "urgency_score": 53,
           "sample_titles": [
             "基隆豪雨成災 謝國樑夜赴現場視察復原作業",
             "雨彈炸基隆淹大水市府發災害慰助金　民怨「治標不治本」",
@@ -91331,15 +91331,15 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "yellow",
-          "news_count": 59,
+          "news_count": 60,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 65,
+          "urgency_score": 66,
           "sample_titles": [
             "彰化市單身聯誼 80人3萬解謎 熱絡",
-            "彰化禽品節登場 土雞鴨半價 逾300人搶購",
-            "改善東螺溪水質 彰化嚴查畜牧廢水罰59業者372萬"
+            "王惠美破冰了魏平政有希望了!張善政勝選模式重現彰化縣了?【#週末大爆卦】精華版1  @大新聞大爆卦HotNewsTalk",
+            "彰化禽品節登場 土雞鴨半價 逾300人搶購"
           ]
         },
         {
@@ -91411,11 +91411,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 40,
+          "news_count": 38,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 40,
+          "urgency_score": 38,
           "sample_titles": [
             "史詩木雕刻下宜蘭200年記憶～《雕刻葛瑪蘭》跨界座談熱烈迴響",
             "超過2千人見證宜蘭體育榮耀～兩大體育前輩奉獻逾半世紀獲表揚",
@@ -91423,31 +91423,15 @@
           ]
         },
         {
-          "title": "新竹市地方動態",
-          "city": "新竹市",
-          "place": "新竹市政府",
-          "level": "red",
-          "news_count": 42,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 42,
-          "sample_titles": [
-            "從台中抗霾到新竹抗九降風 風光Ai窗布局新竹市場",
-            "竹市體育有功人員表揚暨運動市集登場",
-            "全民運動走進生活 竹市體育有功人員表揚"
-          ]
-        },
-        {
           "title": "新竹縣地方動態",
           "city": "新竹縣",
           "place": "新竹縣政府",
           "level": "red",
-          "news_count": 42,
+          "news_count": 40,
           "comment_count": 0,
-          "negativity_pct": 7,
+          "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 51,
+          "urgency_score": 49,
           "sample_titles": [
             "新竹縣一般超速舉發件數第一！(#01J) 【違停之島！全台一年舉發逾383萬件 新竹縣超速拿冠軍】 （圖／記者胡治言製）",
             "竹北藍白合作破局衝擊高雄？柯志恩曝昨晚才與柯文哲通電話",
@@ -91455,15 +91439,31 @@
           ]
         },
         {
+          "title": "新竹市地方動態",
+          "city": "新竹市",
+          "place": "新竹市政府",
+          "level": "red",
+          "news_count": 41,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 41,
+          "sample_titles": [
+            "從台中抗霾到新竹抗九降風 風光Ai窗布局新竹市場",
+            "竹市體育有功人員表揚暨運動市集登場",
+            "全民運動走進生活 竹市體育有功人員表揚"
+          ]
+        },
+        {
           "title": "金門地方動態",
           "city": "金門",
           "place": "金門縣政府",
           "level": "red",
-          "news_count": 49,
+          "news_count": 48,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 49,
+          "urgency_score": 48,
           "sample_titles": [
             "金門中秋博餅熱鬧開玩 狀元出巡後浦老街、金沙市集吸引遊客",
             "金門中秋博餅熱鬧開玩狀元出巡後浦老街、金沙市集吸引遊客| 高屏離島| 地方",
@@ -91475,15 +91475,15 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "red",
-          "news_count": 33,
+          "news_count": 34,
           "comment_count": 16,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 65,
+          "urgency_score": 66,
           "sample_titles": [
+            "【本週放大鏡Part.1】西藏土石流倖存者逃生第一視角曝！扁手機桌布陳幸妤兒畢典合照獨缺趙建銘？黃國昌爆藍委想組團站台邱",
             "公所粉專替盧秀燕出征！喊話賴政府別跳票",
-            "公所粉專替盧秀燕出征！喊話賴政府別跳票 - 政治新聞 - PChome Online 新聞",
-            "卓榮泰：中火2034全面拆煤 盧秀燕：別跳票 環團：不要多等8年"
+            "公所粉專替盧秀燕出征！喊話賴政府別跳票 - 政治新聞 - PChome Online 新聞"
           ]
         },
         {
@@ -91491,11 +91491,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 53,
+          "news_count": 52,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 62,
+          "urgency_score": 61,
           "sample_titles": [
             "跨域行銷苗栗原鄉品牌 「 High Fun 苗栗 chill 起來」嘉年華 9/5 草悟道盛大登場",
             "苗栗警淪詐團「麻吉」！洩車手情資還傳訊快撤「出賣同僚當內應」下場曝",
@@ -91539,11 +91539,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 94,
+          "news_count": 90,
           "comment_count": 0,
-          "negativity_pct": 23,
+          "negativity_pct": 24,
           "is_urgent": false,
-          "urgency_score": 160,
+          "urgency_score": 156,
           "sample_titles": [
             "花蓮縣長登記截止底定四雄角逐！游淑貞、張峻、魏嘉賢與工黨羅佩秦爭霸",
             "花蓮選戰是大罷免「第二戰」！張景森：公民團體是決定勝負關鍵",
@@ -91571,11 +91571,11 @@
           "city": "台中",
           "place": "台中市烏日區",
           "level": "red",
-          "news_count": 133,
+          "news_count": 132,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 154,
+          "urgency_score": 153,
           "sample_titles": [
             "蘭台灣工商會、卡托維茲市議長率團拜訪中市府 黃秘書長：深化產業鏈結共拓歐亞商機",
             "69歲駕駛疑頭暈！ 工程車倒車狂撞 公車急煞乘客摔成團 台北市與台中市近日接連發生交通意外事故，台北一名69歲工程車駕駛",
@@ -91593,9 +91593,9 @@
           "is_urgent": false,
           "urgency_score": 159,
           "sample_titles": [
+            "王惠美破冰了魏平政有希望了!張善政勝選模式重現彰化縣了?【#週末大爆卦】精華版1  @大新聞大爆卦HotNewsTalk",
             "桃園盃／平良海馬也在這訓練！深見一騎改造 飆生涯新高151公里",
-            "桃園盃／為冠軍賽缺席ITZY演唱會 林承志笑稱「帶怒氣」敲致勝安",
-            "桃園平安七月節音樂會登場 兩大合唱團登展演中心獻唱"
+            "桃園盃／為冠軍賽缺席ITZY演唱會 林承志笑稱「帶怒氣」敲致勝安"
           ]
         },
         {
