@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "snapshot_at": "2026-09-06T01:44:45.993687+00:00",
+  "snapshot_at": "2026-09-06T01:46:59.313814+00:00",
   "hotspots": [
     {
       "title": "台北軍購爭議",
@@ -66,27 +66,6 @@
       "comments": []
     },
     {
-      "title": "台南車禍事件",
-      "city": "台南",
-      "place": "台南市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "一名女性觀光客在將軍嶼騎機車發生車禍 造成左側脛骨開放性骨折",
-          "url": "https://n.yam.com/Article/20260905389942",
-          "time": "2026-09-05 12:00:00",
-          "publisher": "蕃新聞→三星傳媒",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "彰化車禍事件",
       "city": "彰化",
       "place": "彰化縣政府",
@@ -102,6 +81,27 @@
           "url": "https://news.tvbs.com.tw/local/4018000",
           "time": "2026-09-05 16:08:16",
           "publisher": "TVBS",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台南車禍事件",
+      "city": "台南",
+      "place": "台南市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "一名女性觀光客在將軍嶼騎機車發生車禍 造成左側脛骨開放性骨折",
+          "url": "https://n.yam.com/Article/20260905389942",
+          "time": "2026-09-05 12:00:00",
+          "publisher": "蕃新聞→三星傳媒",
           "severity": "yellow"
         }
       ],
@@ -2097,11 +2097,11 @@
       "city": "彰化",
       "place": "彰化縣政府",
       "level": "yellow",
-      "news_count": 57,
+      "news_count": 56,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 63,
+      "urgency_score": 62,
       "news_articles": [
         {
           "title": "拿出四年實績！ 南投縣議員林儒暘正式登記連任",
@@ -2493,13 +2493,6 @@
           "url": "https://news.nextapple.com/politics/20260905/759587B06D94D1EE2E4FC7AE93AC934B",
           "time": "2026-09-05 10:21:05",
           "publisher": "壹蘋新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "不忍了！彰化和美舊衣箱遭垃圾大軍攻陷 清潔隊調監視器抓人",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5563820",
-          "time": "2026-09-05 09:45:42",
-          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -6790,11 +6783,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 142,
+      "news_count": 141,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 154,
+      "urgency_score": 153,
       "news_articles": [
         {
           "title": "新北促參成果再攀高峰 115年勇奪全國唯一「特優」 締造4連霸紀錄",
@@ -7782,13 +7775,6 @@
           "time": "2026-09-05 09:52:10",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "陳其邁自稱是「2.5版蘇貞昌」 力挺蘇巧慧當新北市長：升級3.0版本",
-          "url": "https://tw.news.yahoo.com/%E9%99%B3%E5%85%B6%E9%82%81%E8%87%AA%E7%A8%B1%E6%98%AF-2-5%E7%89%88%E8%98%87%E8%B2%9E%E6%98%8C-%E5%8A%9B%E6%8C%BA%E8%98%87%E5%B7%A7%E6%85%A7%E7%95%B6%E6%96%B0%E5%8C%97%E5%B8%82%E9%95%B7-%E5%8D%87%E7%B4%9A3-094503021.html",
-          "time": "2026-09-05 09:45:03",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -7798,11 +7784,11 @@
       "city": "高雄",
       "place": "高雄市鼓山區",
       "level": "red",
-      "news_count": 172,
+      "news_count": 170,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 199,
+      "urgency_score": 197,
       "news_articles": [
         {
           "title": "陳其邁今在高雄辦新書發表會 蔡英文、蘇貞昌驚喜合體",
@@ -8993,20 +8979,6 @@
           "time": "2026-09-05 09:47:09",
           "publisher": "自由時報",
           "severity": "yellow"
-        },
-        {
-          "title": "陳其邁自稱是「2.5版蘇貞昌」 力挺蘇巧慧當新北市長：升級3.0版本",
-          "url": "https://tw.news.yahoo.com/%E9%99%B3%E5%85%B6%E9%82%81%E8%87%AA%E7%A8%B1%E6%98%AF-2-5%E7%89%88%E8%98%87%E8%B2%9E%E6%98%8C-%E5%8A%9B%E6%8C%BA%E8%98%87%E5%B7%A7%E6%85%A7%E7%95%B6%E6%96%B0%E5%8C%97%E5%B8%82%E9%95%B7-%E5%8D%87%E7%B4%9A3-094503021.html",
-          "time": "2026-09-05 09:45:03",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "山下智久謝高雄捐3070萬給熊本！將赴港都開唱 陳其邁回應",
-          "url": "https://tw.news.yahoo.com/%E5%B1%B1%E4%B8%8B%E6%99%BA%E4%B9%85%E8%AC%9D%E9%AB%98%E9%9B%84%E6%8D%903070%E8%90%AC%E7%B5%A6%E7%86%8A%E6%9C%AC-%E5%B0%87%E8%B5%B4%E6%B8%AF%E9%83%BD%E9%96%8B%E5%94%B1-%E9%99%B3%E5%85%B6%E9%82%81%E5%9B%9E%E6%87%89-014500246.html",
-          "time": "2026-09-05 09:45:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -9016,11 +8988,11 @@
       "city": "台北",
       "place": "台北市大安區",
       "level": "red",
-      "news_count": 189,
+      "news_count": 187,
       "comment_count": 0,
       "negativity_pct": 12,
       "is_urgent": false,
-      "urgency_score": 258,
+      "urgency_score": 256,
       "news_articles": [
         {
           "title": "論沈柏洋陽光台北《下一個二十年，台北的國際野心與市民未來》",
@@ -10328,20 +10300,6 @@
           "title": "蔡英文憶16年前選新北市長失利：如今看到比蔡英文更優秀、準備得更好的蘇巧慧",
           "url": "https://tw.news.yahoo.com/%E8%94%A1%E8%8B%B1%E6%96%87%E6%86%B616%E5%B9%B4%E5%89%8D%E9%81%B8%E6%96%B0%E5%8C%97%E5%B8%82%E9%95%B7%E5%A4%B1%E5%88%A9-%E5%A6%82%E4%BB%8A%E7%9C%8B%E5%88%B0%E6%AF%94%E8%94%A1%E8%8B%B1%E6%96%87%E6%9B%B4%E5%84%AA%E7%A7%80-%E6%BA%96%E5%82%99%E5%BE%97%E6%9B%B4%E5%A5%BD%E7%9A%84%E8%98%87%E5%B7%A7%E6%85%A7-095632517.html",
           "time": "2026-09-05 09:56:32",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "茶之魔手薄荷系掀熱議！網友解鎖隱藏喝法「涼到後腦勺」 台北再開新店",
-          "url": "https://tw.news.yahoo.com/%E8%8C%B6%E4%B9%8B%E9%AD%94%E6%89%8B%E8%96%84%E8%8D%B7%E7%B3%BB%E6%8E%80%E7%86%B1%E8%AD%B0-%E7%B6%B2%E5%8F%8B%E8%A7%A3%E9%8E%96%E9%9A%B1%E8%97%8F%E5%96%9D%E6%B3%95-%E6%B6%BC%E5%88%B0%E5%BE%8C%E8%85%A6%E5%8B%BA-%E5%8F%B0%E5%8C%97%E5%86%8D%E9%96%8B%E6%96%B0%E5%BA%97-014521848.html",
-          "time": "2026-09-05 09:45:21",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "陳其邁自稱是「2.5版蘇貞昌」 力挺蘇巧慧當新北市長：升級3.0版本",
-          "url": "https://tw.news.yahoo.com/%E9%99%B3%E5%85%B6%E9%82%81%E8%87%AA%E7%A8%B1%E6%98%AF-2-5%E7%89%88%E8%98%87%E8%B2%9E%E6%98%8C-%E5%8A%9B%E6%8C%BA%E8%98%87%E5%B7%A7%E6%85%A7%E7%95%B6%E6%96%B0%E5%8C%97%E5%B8%82%E9%95%B7-%E5%8D%87%E7%B4%9A3-094503021.html",
-          "time": "2026-09-05 09:45:03",
           "publisher": "Yahoo新聞",
           "severity": null
         }

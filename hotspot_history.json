@@ -91691,7 +91691,7 @@
     },
     {
       "date": "2026-09-06",
-      "snapshot_at": "2026-09-06T01:44:45.993687+00:00",
+      "snapshot_at": "2026-09-06T01:46:59.313814+00:00",
       "hotspots": [
         {
           "title": "台北軍購爭議",
@@ -91736,20 +91736,6 @@
           ]
         },
         {
-          "title": "台南車禍事件",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "一名女性觀光客在將軍嶼騎機車發生車禍 造成左側脛骨開放性骨折"
-          ]
-        },
-        {
           "title": "彰化車禍事件",
           "city": "彰化",
           "place": "彰化縣政府",
@@ -91761,6 +91747,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "彰化貨車違停「開門殺」擊落機車 騎士撞飛意識模糊送醫 彰化縣彰化市於今（5) 日上午11點49分，發生一起車禍，40歲的"
+          ]
+        },
+        {
+          "title": "台南車禍事件",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "一名女性觀光客在將軍嶼騎機車發生車禍 造成左側脛骨開放性骨折"
           ]
         },
         {
@@ -92096,11 +92096,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "yellow",
-          "news_count": 57,
+          "news_count": 56,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 63,
+          "urgency_score": 62,
           "sample_titles": [
             "拿出四年實績！ 南投縣議員林儒暘正式登記連任",
             "《彰化縣長選情初探》4搶1 陳素月守南拓北 魏平政黨內待整合",
@@ -92334,11 +92334,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 142,
+          "news_count": 141,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 154,
+          "urgency_score": 153,
           "sample_titles": [
             "新北促參成果再攀高峰 115年勇奪全國唯一「特優」 締造4連霸紀錄",
             "新北選戰白熱化 李四川：接棒侯友宜往前邁進",
@@ -92350,11 +92350,11 @@
           "city": "高雄",
           "place": "高雄市鼓山區",
           "level": "red",
-          "news_count": 172,
+          "news_count": 170,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 199,
+          "urgency_score": 197,
           "sample_titles": [
             "陳其邁今在高雄辦新書發表會 蔡英文、蘇貞昌驚喜合體",
             "陳其邁今在高雄辦新書發表會蔡英文、蘇貞昌驚喜合體| 政治 | 要聞",
@@ -92366,11 +92366,11 @@
           "city": "台北",
           "place": "台北市大安區",
           "level": "red",
-          "news_count": 189,
+          "news_count": 187,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 258,
+          "urgency_score": 256,
           "sample_titles": [
             "論沈柏洋陽光台北《下一個二十年，台北的國際野心與市民未來》",
             "幕後／蔣萬安「鬥雞」新人設難扛市政缺失 藍小雞憂：被困在台北",
