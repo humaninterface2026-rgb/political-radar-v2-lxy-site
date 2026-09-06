@@ -91691,7 +91691,7 @@
     },
     {
       "date": "2026-09-06",
-      "snapshot_at": "2026-09-06T10:26:06.459935+00:00",
+      "snapshot_at": "2026-09-06T10:33:23.016755+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -91705,20 +91705,6 @@
           "urgency_score": 1,
           "sample_titles": [
             "明年將進入總統大選年，交通部116年度預算書顯示，都市大眾捷運系統建設計畫大舉編列453億，較今年的81億暴增5.6倍，"
-          ]
-        },
-        {
-          "title": "台北軍購爭議",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 1,
-          "sample_titles": [
-            "慶祝九三軍人節，經濟部在台北車站舉辦「英雄饗宴，飽家衛國」敬軍展售會，行政院長卓榮泰今天在國防部長顧立雄等官員陪同下參觀"
           ]
         },
         {
@@ -91896,20 +91882,6 @@
           ]
         },
         {
-          "title": "高雄狼師事件",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "「不聽話就沒錢生活」女童遭母男友逞慾74次 還逼拍性影像 高雄一名男子阿華（化名）對女友的女兒小莉（化名）伸狼爪，甚至以"
-          ]
-        },
-        {
           "title": "台南火災事件",
           "city": "台南",
           "place": "台南市政府",
@@ -92006,11 +91978,11 @@
           "city": "雲林",
           "place": "雲林縣政府",
           "level": "yellow",
-          "news_count": 26,
+          "news_count": 23,
           "comment_count": 0,
-          "negativity_pct": 4,
+          "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 29,
+          "urgency_score": 23,
           "sample_titles": [
             "2026 年國民體育日系列活動-舞藝展演嘉年華登場 張麗善縣長致謝旅外同鄉捐贈羽球器材 嘉惠雲林學子",
             "首屆GRACE格麗絲獎登場 縣長張麗善向守護雲林健康的每一份力量致敬",
@@ -92054,11 +92026,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "yellow",
-          "news_count": 52,
+          "news_count": 51,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 52,
+          "urgency_score": 51,
           "sample_titles": [
             "王惠美在家抱孫未出席！魏平政競總成立怒轟「中央欺負彰化8年」 盧秀燕、鄭麗文都相挺",
             "彰化縣政府「百工百業智慧職人培力論壇」來囉！ 快來了解AI應用趨勢 提升創業優勢",
@@ -92070,11 +92042,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "yellow",
-          "news_count": 54,
+          "news_count": 53,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 54,
+          "urgency_score": 53,
           "sample_titles": [
             "屏東青年走進紐約 將國際經驗帶回家鄉",
             "蘇清泉籲高雄捷運延伸東港 高屏大眾運輸邁前行",
@@ -92197,11 +92169,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 80,
+          "news_count": 78,
           "comment_count": 0,
-          "negativity_pct": 2,
+          "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 86,
+          "urgency_score": 84,
           "sample_titles": [
             "提升暴力辨識與應變能力 北榮桃園分院辦講座",
             "桃園第7屆教育盃羽球賽 建國國小活動中心圓滿落幕",
@@ -92213,11 +92185,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 88,
+          "news_count": 79,
           "comment_count": 0,
-          "negativity_pct": 3,
+          "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 97,
+          "urgency_score": 88,
           "sample_titles": [
             "國民黨主席鄭麗文今出席新北市「國際身心障礙者才藝表演文化平權大會」，從進場、上台到離場均獲現場熱烈歡呼。她表示，身心障礙",
             "2026.09.06 17:45 新北民調藍綠五五波 蘇巧慧今成立「四大藥業後援會」",
@@ -92229,11 +92201,11 @@
           "city": "台中",
           "place": "台中市豐原區",
           "level": "red",
-          "news_count": 88,
+          "news_count": 87,
           "comment_count": 0,
-          "negativity_pct": 7,
+          "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 106,
+          "urgency_score": 102,
           "sample_titles": [
             "王惠美在家抱孫未出席！魏平政競總成立怒轟「中央欺負彰化8年」 盧秀燕、鄭麗文都相挺",
             "中市府投入700萬優化阿罩霧山步道 預計年底完工",
@@ -92245,11 +92217,11 @@
           "city": "高雄",
           "place": "高雄市左營區",
           "level": "red",
-          "news_count": 132,
+          "news_count": 129,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 153,
+          "urgency_score": 147,
           "sample_titles": [
             "賴瑞隆讀陳其邁新書悟出3件事 喊接棒寫「高雄續集」：電話還是要接",
             "賴瑞隆讀陳其邁新書悟出3件事 喊接棒寫「高雄續集」：電話還是要接",
@@ -92261,11 +92233,11 @@
           "city": "台北",
           "place": "台北市大安區",
           "level": "red",
-          "news_count": 157,
+          "news_count": 147,
           "comment_count": 0,
-          "negativity_pct": 11,
+          "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 211,
+          "urgency_score": 198,
           "sample_titles": [
             "【新聞一點靈】台北最難搶蛋黃酥！ 民眾冒雨排長龍只為這味　科羅旺颱風甩雨「北台雨彈炸」 周三迎東北季風轉涼",
             "台北市長蔣萬安長子獲北市公費出國交換資格，引發質疑。台北市研考會主委殷瑋說，國教署曾查詢蔣得立是否具僑生身分，國教署則否",
