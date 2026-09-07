@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "snapshot_at": "2026-09-07T01:41:53.365962+00:00",
+  "snapshot_at": "2026-09-07T01:46:13.417961+00:00",
   "hotspots": [
     {
       "title": "新北陳情/抗議",
@@ -480,27 +480,6 @@
       "comments": []
     },
     {
-      "title": "台中弊案爭議",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "許庭禎今年才接正達董事長2個月 因涉慈濟BNT疫苗詐騙案遭台中地檢署起訴",
-          "url": "https://tw.news.yahoo.com/%E8%A8%B1%E5%BA%AD%E7%A6%8E%E4%BB%8A%E5%B9%B4%E6%89%8D%E6%8E%A5%E6%AD%A3%E9%81%94%E8%91%A3%E4%BA%8B%E9%95%B72%E5%80%8B%E6%9C%88-%E5%9B%A0%E6%B6%89%E6%85%88%E6%BF%9Fbnt%E7%96%AB%E8%8B%97%E8%A9%90%E9%A8%99%E6%A1%88%E9%81%AD%E5%8F%B0%E4%B8%AD%E5%9C%B0%E6%AA%A2%E7%BD%B2%E8%B5%B7%E8%A8%B4-230502638.html",
-          "time": "2026-09-07 07:05:02",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "高雄弊案爭議",
       "city": "高雄",
       "place": "高雄市政府",
@@ -516,6 +495,27 @@
           "url": "https://more-news.tw/712974/",
           "time": "2026-09-06 15:58:25",
           "publisher": "墨新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台中弊案爭議",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "許庭禎今年才接正達董事長2個月 因涉慈濟BNT疫苗詐騙案遭台中地檢署起訴",
+          "url": "https://tw.news.yahoo.com/%E8%A8%B1%E5%BA%AD%E7%A6%8E%E4%BB%8A%E5%B9%B4%E6%89%8D%E6%8E%A5%E6%AD%A3%E9%81%94%E8%91%A3%E4%BA%8B%E9%95%B72%E5%80%8B%E6%9C%88-%E5%9B%A0%E6%B6%89%E6%85%88%E6%BF%9Fbnt%E7%96%AB%E8%8B%97%E8%A9%90%E9%A8%99%E6%A1%88%E9%81%AD%E5%8F%B0%E4%B8%AD%E5%9C%B0%E6%AA%A2%E7%BD%B2%E8%B5%B7%E8%A8%B4-230502638.html",
+          "time": "2026-09-07 07:05:02",
+          "publisher": "Yahoo新聞",
           "severity": "red"
         }
       ],
@@ -4114,11 +4114,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "yellow",
-      "news_count": 84,
+      "news_count": 83,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 90,
+      "urgency_score": 89,
       "news_articles": [
         {
           "title": "中職／隨一軍練到最後！許庭綸不怕「又去屏東」 特打日常體會監督期待",
@@ -4700,13 +4700,6 @@
           "time": "2026-09-06 09:54:38",
           "publisher": "Google News→tw.news.yahoo.com",
           "severity": "yellow"
-        },
-        {
-          "title": "高鐵延伸屏東高架段逾8公里三行政區噪音影響大- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TUVZzSG1SSTI0ekJ6TDFrTXlhTHptNjVqNVJ6SmpsR3g0bFB0SFdqSHIzYXBncHhtTzFfTWdGUzhPRm9XNnptRDZ6TlFjMmVSd215X0tSSkgtN3lPNksxOEVLWks?oc=5",
-          "time": "2026-09-06 09:42:08",
-          "publisher": "Google News→news.ltn.com.tw",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -5133,7 +5126,7 @@
           "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPYUd2VUJIa21WbU52NmFaYzVTUlB5TGRfSE9pbk1nQXIyaVdCdlU0RHUxQUN4UDFmY1FXcVJ1X3lrejlkMWt1YVBjTmJVXzJ5SllQOF9vRmotR19uYjJJQkR5UEZyTVZMZFM1dllpd2ZUVU5vTUlkWXkzVVpjRFIzei1WM2gxekNJbGZzR1NfclBNbHRQRlQ1RFM1WWZFVkdsd0NZTmU1TlJnQlI5andldUZ4NS1qSE4zNmpvdFJ6QkhzZXUtRUxfanNXUUtkZUoxMjdZb2YzWVBZRDdYR1ZSQXJqcVUzU2dHTUo3ZWRvTDRlb3hURHZiVWpqcndRNk0wMmZTX3lMZURiX21YVzNIaVUwV3BDeWxsenpzUHMzOHRMRTVRV0c1d3ZlQkxscmU3bEJBWHFybEYyNENEVzRGN0VnMkluYkg5aERhTzJpRUw2NE5RVWRoSmNYdUFhekkxYjNHbnlwdUkwSE1zMV9nTWNmbFkwTEo4U0xENzFPc2ppZngzVmF3bHJ3?oc=5",
           "time": "2026-09-07 09:23:37",
           "publisher": "Google News→facebook.com",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "嗆沈伯洋「蹭」蔣萬安談兒虐 楊植斗：高雄台南發生當沒看見？",
@@ -8397,7 +8390,7 @@
           "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPYUd2VUJIa21WbU52NmFaYzVTUlB5TGRfSE9pbk1nQXIyaVdCdlU0RHUxQUN4UDFmY1FXcVJ1X3lrejlkMWt1YVBjTmJVXzJ5SllQOF9vRmotR19uYjJJQkR5UEZyTVZMZFM1dllpd2ZUVU5vTUlkWXkzVVpjRFIzei1WM2gxekNJbGZzR1NfclBNbHRQRlQ1RFM1WWZFVkdsd0NZTmU1TlJnQlI5andldUZ4NS1qSE4zNmpvdFJ6QkhzZXUtRUxfanNXUUtkZUoxMjdZb2YzWVBZRDdYR1ZSQXJqcVUzU2dHTUo3ZWRvTDRlb3hURHZiVWpqcndRNk0wMmZTX3lMZURiX21YVzNIaVUwV3BDeWxsenpzUHMzOHRMRTVRV0c1d3ZlQkxscmU3bEJBWHFybEYyNENEVzRGN0VnMkluYkg5aERhTzJpRUw2NE5RVWRoSmNYdUFhekkxYjNHbnlwdUkwSE1zMV9nTWNmbFkwTEo4U0xENzFPc2ppZngzVmF3bHJ3?oc=5",
           "time": "2026-09-07 09:23:37",
           "publisher": "Google News→facebook.com",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "嗆沈伯洋「蹭」蔣萬安談兒虐 楊植斗：高雄台南發生當沒看見？",
@@ -9419,7 +9412,7 @@
           "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPYUd2VUJIa21WbU52NmFaYzVTUlB5TGRfSE9pbk1nQXIyaVdCdlU0RHUxQUN4UDFmY1FXcVJ1X3lrejlkMWt1YVBjTmJVXzJ5SllQOF9vRmotR19uYjJJQkR5UEZyTVZMZFM1dllpd2ZUVU5vTUlkWXkzVVpjRFIzei1WM2gxekNJbGZzR1NfclBNbHRQRlQ1RFM1WWZFVkdsd0NZTmU1TlJnQlI5andldUZ4NS1qSE4zNmpvdFJ6QkhzZXUtRUxfanNXUUtkZUoxMjdZb2YzWVBZRDdYR1ZSQXJqcVUzU2dHTUo3ZWRvTDRlb3hURHZiVWpqcndRNk0wMmZTX3lMZURiX21YVzNIaVUwV3BDeWxsenpzUHMzOHRMRTVRV0c1d3ZlQkxscmU3bEJBWHFybEYyNENEVzRGN0VnMkluYkg5aERhTzJpRUw2NE5RVWRoSmNYdUFhekkxYjNHbnlwdUkwSE1zMV9nTWNmbFkwTEo4U0xENzFPc2ppZngzVmF3bHJ3?oc=5",
           "time": "2026-09-07 09:23:37",
           "publisher": "Google News→facebook.com",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "陳時中又對蔣萬安「容貌羞辱」 北市府怒反擊",
