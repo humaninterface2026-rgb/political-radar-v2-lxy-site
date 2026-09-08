@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "snapshot_at": "2026-09-08T01:42:49.852581+00:00",
+  "snapshot_at": "2026-09-08T01:50:19.886529+00:00",
   "hotspots": [
     {
       "title": "台北鼠患事件",
@@ -108,27 +108,6 @@
       "comments": []
     },
     {
-      "title": "高雄詐騙案",
-      "city": "高雄",
-      "place": "高雄市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "高雄停車場詭異紙鈔綁信用卡 民眾質疑新詐騙手法連忙報警",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5565558",
-          "time": "2026-09-07 11:41:54",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "桃園詐騙案",
       "city": "桃園",
       "place": "桃園市政府",
@@ -144,6 +123,27 @@
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03elRYcjJ6ZzVoSERFa2VoY3pDb1E2NEhjOU42bGRWMmdiSUh6bXdlM09iMThMN3d3dDlFZmxIOHMtWTJSZ0wyTzBSWmE?oc=5",
           "time": "2026-09-07 14:06:02",
           "publisher": "Google News→桃園電子報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄詐騙案",
+      "city": "高雄",
+      "place": "高雄市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "高雄停車場詭異紙鈔綁信用卡 民眾質疑新詐騙手法連忙報警",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5565558",
+          "time": "2026-09-07 11:41:54",
+          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -1146,6 +1146,195 @@
       "comments": []
     },
     {
+      "title": "金門地方動態",
+      "city": "金門",
+      "place": "金門縣政府",
+      "level": "yellow",
+      "news_count": 25,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 25,
+      "news_articles": [
+        {
+          "title": "金門大學新南向菁英班展新里程 顏郁芳勉學子精進專業力",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QalpQa21lU00tajhFUUFZZkR1VHNoWU9XX2UwTHVuU2J4TXJwYkVQemFRWlgtZ3RpekFoNHZmN1p0ZHdjQTlUX21RYzZHQUctQkE?oc=5",
+          "time": "2026-09-08 07:17:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "金門大學新南向菁英班展新里程 顏郁芳勉學子精進專業力 - 生活新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcC1GRElhTlV3ZEtjd1RnUld1TW9yOUs0YkpQaXZRRFdZd05qcV95THQ1RDdXMERERnQtb2Rra3VsTHBjTC1ITFZVTy1iQ0p1VTU1aGk5MGdHOUZYaV9YRU50VzdkdnMyaWZJaGtLMVJEZmZabklkNTdRUnc4YmxuR21vVXd4TXhnWHJjRg?oc=5",
+          "time": "2026-09-08 07:17:00",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "《2026金門縣長選情初探》陳玉珍聲量強 李文良穩健前行",
+          "url": "https://news.ltn.com.tw/news/politics/paper/1769809",
+          "time": "2026-09-08 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "2027金門馬拉松啟動！特約商家、補給品、風味餐同步招募 | 勁報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NUzNBN2hhS20xTVQ0LWFvU1p6UUM0UWVsanpwS0t4dlpmcFExRjlRZDhQYllxVzFnblVoVDFicWtHYXJmdWJRNUxTR0NPZmNnZDE5eDlR?oc=5",
+          "time": "2026-09-08 00:15:10",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "-2027金門馬拉松招募特約商家、補給品與風味餐",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xejVCQmJRUVY2WVZYYTRTMHBfVmZzSVhiX2FOR0w3emgzaXgxdndsdndYTmw4b3BQN0Y4WnVFTGZYem1wNU90SXpGZWludWt5VExld3YyZGo?oc=5",
+          "time": "2026-09-08 00:01:53",
+          "publisher": "Google News→kmdn.gov.tw",
+          "severity": null
+        },
+        {
+          "title": "-胡璉美學沙龍水彩研習結業 學員筆畫家鄉記錄金門之美",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xZTVEMjloRUp2VWtNMU9lYmVLM0hLdnBtMDB4X1RBZ21OLTdJZEk5UXhLbGl0YnYxUzRqdHhvTWdqX1BQOEtGNTB1a3R5T3FicDROWE92Ym8?oc=5",
+          "time": "2026-09-08 00:01:53",
+          "publisher": "Google News→kmdn.gov.tw",
+          "severity": null
+        },
+        {
+          "title": "-提升E化管理 金門辦志願服務資訊整合系統培訓",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqMXluUzJ4elRaZWpvOGxkRVZiSmNoOEZUY0h2amVPV2pfSkl1X2VZMGVjZDFMS1k3bjRNYUkxZDRiSzFKQk8tdjdrRWhxWFRWdmpEdFFNbw?oc=5",
+          "time": "2026-09-08 00:01:26",
+          "publisher": "Google News→kmdn.gov.tw",
+          "severity": null
+        },
+        {
+          "title": "金門傀儡戲劇團走進馬祖校園",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40RjE0M0N6aUQwZjhOdFpMbG5lc3JXV3Y1Snh5UUMtWi13SDZzZ0dQdUVLaVZ0ejNMN21IVGhyNXdmeExmRWZHZTFfTENIbVFHUHU1WTNIMFZSUmlSTmc?oc=5",
+          "time": "2026-09-08 00:00:52",
+          "publisher": "Google News→matsu-news.gov.tw",
+          "severity": null
+        },
+        {
+          "title": "2027金門馬拉松啟動！特約商家、補給品、風味餐同步招募",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90S3pYRmVtSWpZRjVJQTRJY3lTMXYzZTFzUjUwaFYxUHZFdGpFa294dFZYSWQ0N1hGS3hGV0xKT1FFRWR6Q2hxd2xIWlI1QnVqX3c?oc=5",
+          "time": "2026-09-07 23:59:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "智慧交控守護金門安全！觀光處偕警局合辦交控政策行銷路權與科技觀念",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5SUW1KcFZPdUpqRjR5SE5zbTFWUmZrRmptVUFUZ21Zai1WRU85UzRiY05EZzJjc2ZiR0NCVDFQSkJoTlQ0Ymk4?oc=5",
+          "time": "2026-09-07 23:25:20",
+          "publisher": "Google News→台灣新聞雲",
+          "severity": null
+        },
+        {
+          "title": "快評》金門縣長7搶1 陳玉珍穩定領先 李文良急起直追 | 自由電子報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52UVdXNjFkX3F2dnFNNGg4SkdRUE5peHgzX2Z3THZHdl9hMDhRUUJOREYzbF83YmU4M201ZmFUWnNGUDFkQlpFekUzWnVSTExpbzJaMUp3?oc=5",
+          "time": "2026-09-07 20:34:17",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "「金門還可以有多好？」 縣長參選人張國威要打不一樣的選戰",
+          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPOWVlNHFQNGFkZ1cwYVpkV0c0UjZ0eHNSWkwyNXBtRFJqYmZUdEFueWV6cG05Y0loeEVnb1dwLVdSYTczTTZVanNaSWJxRk82eXdSZ1dJU295cXJzaXlhWEZjZnB4a2otSFJRSGlkbHlBNlBlZFY4c2p1NVNJM3Blci13TnRwQ2JjRkRqbjVVdlRMQnB3WUQ1ZEtFNGJiVk5IcXd5WW1uS24wa0JXN3p0eWFaa0JPVEVqMkl6TzRscmhtek9ZYmpXTnl4VlBfbXUyaE44YVBQM2FQZVZjcWRQZUQwbjFSYWh2dTY2UXBVUC0tem9pOFZSeVVjOWltelRTN2ZvdWFkYzNNU2hpaDlMM3dZbWZCb3hNcU8xbmlvVWU2LVBVWXNQRTJtdC1YZExvcDItdlpCckFNWDlua0NGZjJpWjE2SFZzNmNFa1MyNGxkNmpiU005eG1VZ3g5eGE5dnhjWkdRZ2NSUQ?oc=5",
+          "time": "2026-09-07 20:34:17",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "快評》金門縣長7搶1 陳玉珍穩定領先 李文良急起直追",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5566195",
+          "time": "2026-09-07 19:53:05",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "金門長者活躍老化競賽熱力登場",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVhwSDFMOEFSUFdRRmR4YXZzV3I3cnA4bEs5SXdqaDluaE1HM0htRF9Mak9yUi1KYXlvQWdsazFXZzJUMHNWNzBtc1Y1Q0t5WHZZU3FVcmtnYWpOVGNpZ0xLSFVCREt1Yk1IczE0S3BQbm4xUnc4ODVKS0JXclc4MW0tWDFScTlIaEQ4akpsZlQtZUhsc3EzY21n?oc=5",
+          "time": "2026-09-07 18:02:32",
+          "publisher": "Google News→金門GO資訊網",
+          "severity": null
+        },
+        {
+          "title": "金門港公車直達東半島快線上路",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSnRaalI3aTZBMDVjbVpad2ZZRHBwUDFiQ0V3bzRReHU1YXNZU1FuUUR3RDRBOFphVS1wNlg0N3k0WjJPNHNvand3MWFySTFRXzhHRVhTWW9QdlpNNnktSHU2dGI0WUcwMi04X1VLYUhxZlhVSnR2NEFhOGRJeFo5NEp6M2lOX2xGM3hpOE0tUlZVVklYSngyekIxYzFuSnFR?oc=5",
+          "time": "2026-09-07 18:01:40",
+          "publisher": "Google News→金門GO資訊網",
+          "severity": null
+        },
+        {
+          "title": "金門縣華僑協會召開理監事會議聚焦華僑之家活化與華僑節籌辦",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBKNXZjTGxLLVRQTHVYdFk2eV9UaC0tUHItaFNsRlpXV2Y3OU0zVGxuZ3dneTYyTncxR05iemFfRjJ5R0F3dnJn?oc=5",
+          "time": "2026-09-07 17:55:08",
+          "publisher": "Google News→台灣新聞雲",
+          "severity": null
+        },
+        {
+          "title": "陸客開車10分鐘就能到金門旅遊？中國金廈大橋通車影片瘋傳 查核中心秀衛星照真相",
+          "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPUHlwbDM3aFVGLWVjZTNya2FCX0ZiMXdZTmpTVDRPRTFFNGJTV2VlWGp4elZDMV92eGVVS2l3c25pYnZocTVFQVpzRWNiR05pYjR3SGxyX1JHaWFSOHNQam1NTkk3YUxNWXZCcHlsYzNEWk80X245MDBISVFrSmZRcV9zNzdIMG00UmJGalE2bUxRQkdXMjk2cG0zV1dIWW5zX18zdlZLdF9vdnlkXzdNV0pYcm41VTdpWHBESFZKZVV5bEllMndMTGx1d3llcFVYeXBleFFFM2V1SGNnZVBBR1VaZkxpbmJ4YkpvQVA3a2Z4MWtWLWJTTWpSVjZjcXJfNWhiTEgtRnNuTjhrZldzUWZXQnVPU0xVOHlmUEVPY2hHQTNRLWlkaEZoUklFVm93Mzl3QUlTT256YkJ3R3Q0d01RaC1MSW95Nkt0QTk3M0E4YW9jNUtzWWV2MFZMUjZqMTEyd21PVW9xSVVBOVNDdm1qZDRfZk1uN2NETTR0T1lQa29HZTc3WnVvOWJta3A2a1doM3ZmcEE1a0l6bVNVQjc2MkRua09vVFhsLUhYMGwzOFZycEYwVk01eDFaeDlES2FMRzZadWZyMVVfSnRudEJKSUlJZkozcXpzY2s3dUZKT3EyX2hKbmNZTTE4NV9ZbXEzMG1COE81N2lr?oc=5",
+          "time": "2026-09-07 17:45:57",
+          "publisher": "Google News→tw.news.yahoo.com",
+          "severity": "yellow"
+        },
+        {
+          "title": "【搶救遷台歷史記憶庫-93】金門藝工隊 王春貴 烽火情緣",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90dTlDcTlqNkFWbkppR2RrdDFHMzF6cm5za3lEZUlORk9lUEVBVFdZYjd6aWVIQmpLa0RCSUJFTEtFSFZsaWdqZ2dEVmNKaVdGVEM5ZEkxNG0?oc=5",
+          "time": "2026-09-07 17:15:00",
+          "publisher": "Google News→梅花新聞網",
+          "severity": null
+        },
+        {
+          "title": "陸客開車10分鐘就能到金門旅遊？中國金廈大橋通車影片瘋傳查核中心秀衛星照真相| 張庭維 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WdXpub1FuVjZYQm5RcnhMd0NwNlJrRmxLb0VDTTVIM3libkZuSHlsaExkUGxCRS16bnRRckV3WDZ5dmZiUmphalh2Qkhidw?oc=5",
+          "time": "2026-09-07 15:45:57",
+          "publisher": "Google News→Storm.mg",
+          "severity": "yellow"
+        },
+        {
+          "title": "金門高職文教基金會交接 傅仰洹接任董事長",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQlBwcjFKdHVxeHdqQnQyb0FXeGtKbkJDS3RvMmdnZVY3ODFRRDZCY2tHS2ZBMmREOXBBUEhpUGNfOFRVdnJKWlJtTXNTdFdfeTI4ZEk4bFpRUVlDOXNiRUlRTDJnQUIzbTNUY2pEWWNvUDNyZmI2RGY4UUJIRVZLUnNjNUZybEU5VXVsRFhsUFNzbjhzcWhoZW1TSVFLb1daOHNuNUtFeEUtNF9JU0ZtUjZfUUJwRFJXbjdhSlZpY3lNekpHeUQtWGp3WU04RUZINElSaXJScTFXMkNmY2lBTXB3?oc=5",
+          "time": "2026-09-07 14:42:49",
+          "publisher": "Google News→金門GO資訊網",
+          "severity": null
+        },
+        {
+          "title": "金門佛光童軍開放體驗 培養孩子自信與責任",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQnVqNXA2bHRjZTVpc3FuNXdGMF82TlMzM25DT3o0a0pTYkxBUnY1a1NZbEFYZEpGVUxVLXhJbUxTc1NhcWYxQk1pRzI4ZWRhMEp1QWN2MmdXV1Y3VXhEOTBuOE9LXzJNeTk2OEwwS1ZiaFVSb2NybkZQQlg0eWVZdlJDWVNkbWxaYkRpb2FmcndnWmcwQUpwVTlxWnZBczVqNmJhZTZJd2YwM0ZRS213TlUwTnpZdTBIaEE?oc=5",
+          "time": "2026-09-07 14:39:06",
+          "publisher": "Google News→金門GO資訊網",
+          "severity": null
+        },
+        {
+          "title": "[中國新聞]金門鄉親走進廈門同安展開母縣尋根之旅",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPREk3VHY4OXdVQ0FfdHlpcnVqWTBYMGc2OUZSYjZNWExKVXB0NVBuT096Szh2RTZMTUQzMUNSMElxVHpQSEpIV1ZBNVMxd3RBZ0ZuMnJJdW9GUkdfaWhHYndtYkRXQTgwS195T080NHlZbEJ1QWN5dW9TTnhYS0JFOVdxYmlhLUtTLVNXWFJVbnNJQTV0?oc=5",
+          "time": "2026-09-07 14:10:14",
+          "publisher": "Google News→央视网",
+          "severity": "yellow"
+        },
+        {
+          "title": "金門縣政府115年中秋臺金專船今起開放購票6歲以下80歲以上僅100元",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE04ODMxUnlQekpKdWVDcVpWSVA3Vk1yeHRCYzRnQU9aMS1QVXFaM1RVZG5iLWtrVnZZREVDc05VZ1BjcmxsbVlF?oc=5",
+          "time": "2026-09-07 11:15:32",
+          "publisher": "Google News→台灣新聞雲",
+          "severity": null
+        },
+        {
+          "title": "退潮才看得到！金門沙灘「鐵支柱」曾專撕登陸艇 如今長滿石蚵成另類奇景",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2twN1BuTWVubUlteFIzTXhQYk5BLTZWOUgzNHA2LW5RY3lab0N6V0QyNXVoTDl6YWp2U2lCTkpqUTVtcVlYenRKVV9heHVwa0F2d3Jrdk1sME9URUFaYXRab2E5QVdUZXllaVdpWEVUeWxYekhjVXQyR3pYTWN2ZktLY29TUi1qd052YmlFQko?oc=5",
+          "time": "2026-09-07 10:40:03",
+          "publisher": "Google News→news.pchome.com.tw",
+          "severity": null
+        },
+        {
+          "title": "退潮才看得到！金門沙灘「鐵支柱」曾專撕登陸艇 如今長滿石蚵成另類奇景",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwX3dRWEdJc0pQVEtna0NjYkhvYWNvNnBPclpycTUxWjc3SS1TNlpDU3BmdjJJZ2lVZDZkUlJUeWxJTVRxa21n?oc=5",
+          "time": "2026-09-07 10:40:03",
+          "publisher": "Google News→ENews新聞網",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "澎湖地方動態",
       "city": "澎湖",
       "place": "澎湖縣政府",
@@ -1329,216 +1518,6 @@
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZUGpTS1FTeHplR3dzYV9XUXcyT2ExMmhoY2w4eU9Vay1aZzlhbWZSVTloMHJmSzNPdlh4dmZSeDAyYURwRU5jSHlxOC1ETWZYLTNzU2V3R2plZkJFNzlFX3ZWMTM3WWM?oc=5",
           "time": "2026-09-07 09:59:02",
           "publisher": "Google News→民視新聞網",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "金門地方動態",
-      "city": "金門",
-      "place": "金門縣政府",
-      "level": "yellow",
-      "news_count": 28,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 28,
-      "news_articles": [
-        {
-          "title": "金門大學新南向菁英班展新里程 顏郁芳勉學子精進專業力",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QalpQa21lU00tajhFUUFZZkR1VHNoWU9XX2UwTHVuU2J4TXJwYkVQemFRWlgtZ3RpekFoNHZmN1p0ZHdjQTlUX21RYzZHQUctQkE?oc=5",
-          "time": "2026-09-08 07:17:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "金門大學新南向菁英班展新里程 顏郁芳勉學子精進專業力 - 生活新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcC1GRElhTlV3ZEtjd1RnUld1TW9yOUs0YkpQaXZRRFdZd05qcV95THQ1RDdXMERERnQtb2Rra3VsTHBjTC1ITFZVTy1iQ0p1VTU1aGk5MGdHOUZYaV9YRU50VzdkdnMyaWZJaGtLMVJEZmZabklkNTdRUnc4YmxuR21vVXd4TXhnWHJjRg?oc=5",
-          "time": "2026-09-08 07:17:00",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "《2026金門縣長選情初探》陳玉珍聲量強 李文良穩健前行",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1769809",
-          "time": "2026-09-08 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "2027金門馬拉松啟動！特約商家、補給品、風味餐同步招募 | 勁報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NUzNBN2hhS20xTVQ0LWFvU1p6UUM0UWVsanpwS0t4dlpmcFExRjlRZDhQYllxVzFnblVoVDFicWtHYXJmdWJRNUxTR0NPZmNnZDE5eDlR?oc=5",
-          "time": "2026-09-08 00:15:10",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "-2027金門馬拉松招募特約商家、補給品與風味餐",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xejVCQmJRUVY2WVZYYTRTMHBfVmZzSVhiX2FOR0w3emgzaXgxdndsdndYTmw4b3BQN0Y4WnVFTGZYem1wNU90SXpGZWludWt5VExld3YyZGo?oc=5",
-          "time": "2026-09-08 00:01:53",
-          "publisher": "Google News→kmdn.gov.tw",
-          "severity": null
-        },
-        {
-          "title": "-胡璉美學沙龍水彩研習結業 學員筆畫家鄉記錄金門之美",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xZTVEMjloRUp2VWtNMU9lYmVLM0hLdnBtMDB4X1RBZ21OLTdJZEk5UXhLbGl0YnYxUzRqdHhvTWdqX1BQOEtGNTB1a3R5T3FicDROWE92Ym8?oc=5",
-          "time": "2026-09-08 00:01:53",
-          "publisher": "Google News→kmdn.gov.tw",
-          "severity": null
-        },
-        {
-          "title": "-提升E化管理 金門辦志願服務資訊整合系統培訓",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqMXluUzJ4elRaZWpvOGxkRVZiSmNoOEZUY0h2amVPV2pfSkl1X2VZMGVjZDFMS1k3bjRNYUkxZDRiSzFKQk8tdjdrRWhxWFRWdmpEdFFNbw?oc=5",
-          "time": "2026-09-08 00:01:26",
-          "publisher": "Google News→kmdn.gov.tw",
-          "severity": null
-        },
-        {
-          "title": "金門傀儡戲劇團走進馬祖校園",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40RjE0M0N6aUQwZjhOdFpMbG5lc3JXV3Y1Snh5UUMtWi13SDZzZ0dQdUVLaVZ0ejNMN21IVGhyNXdmeExmRWZHZTFfTENIbVFHUHU1WTNIMFZSUmlSTmc?oc=5",
-          "time": "2026-09-08 00:00:52",
-          "publisher": "Google News→matsu-news.gov.tw",
-          "severity": null
-        },
-        {
-          "title": "2027金門馬拉松啟動！特約商家、補給品、風味餐同步招募",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90S3pYRmVtSWpZRjVJQTRJY3lTMXYzZTFzUjUwaFYxUHZFdGpFa294dFZYSWQ0N1hGS3hGV0xKT1FFRWR6Q2hxd2xIWlI1QnVqX3c?oc=5",
-          "time": "2026-09-07 23:59:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "智慧交控守護金門安全！觀光處偕警局合辦交控政策行銷路權與科技觀念",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5SUW1KcFZPdUpqRjR5SE5zbTFWUmZrRmptVUFUZ21Zai1WRU85UzRiY05EZzJjc2ZiR0NCVDFQSkJoTlQ0Ymk4?oc=5",
-          "time": "2026-09-07 23:25:20",
-          "publisher": "Google News→台灣新聞雲",
-          "severity": null
-        },
-        {
-          "title": "快評》金門縣長7搶1 陳玉珍穩定領先 李文良急起直追 | 自由電子報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52UVdXNjFkX3F2dnFNNGg4SkdRUE5peHgzX2Z3THZHdl9hMDhRUUJOREYzbF83YmU4M201ZmFUWnNGUDFkQlpFekUzWnVSTExpbzJaMUp3?oc=5",
-          "time": "2026-09-07 20:34:17",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "「金門還可以有多好？」 縣長參選人張國威要打不一樣的選戰",
-          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPOWVlNHFQNGFkZ1cwYVpkV0c0UjZ0eHNSWkwyNXBtRFJqYmZUdEFueWV6cG05Y0loeEVnb1dwLVdSYTczTTZVanNaSWJxRk82eXdSZ1dJU295cXJzaXlhWEZjZnB4a2otSFJRSGlkbHlBNlBlZFY4c2p1NVNJM3Blci13TnRwQ2JjRkRqbjVVdlRMQnB3WUQ1ZEtFNGJiVk5IcXd5WW1uS24wa0JXN3p0eWFaa0JPVEVqMkl6TzRscmhtek9ZYmpXTnl4VlBfbXUyaE44YVBQM2FQZVZjcWRQZUQwbjFSYWh2dTY2UXBVUC0tem9pOFZSeVVjOWltelRTN2ZvdWFkYzNNU2hpaDlMM3dZbWZCb3hNcU8xbmlvVWU2LVBVWXNQRTJtdC1YZExvcDItdlpCckFNWDlua0NGZjJpWjE2SFZzNmNFa1MyNGxkNmpiU005eG1VZ3g5eGE5dnhjWkdRZ2NSUQ?oc=5",
-          "time": "2026-09-07 20:34:17",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "快評》金門縣長7搶1 陳玉珍穩定領先 李文良急起直追",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5566195",
-          "time": "2026-09-07 19:53:05",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "金門長者活躍老化競賽熱力登場",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVhwSDFMOEFSUFdRRmR4YXZzV3I3cnA4bEs5SXdqaDluaE1HM0htRF9Mak9yUi1KYXlvQWdsazFXZzJUMHNWNzBtc1Y1Q0t5WHZZU3FVcmtnYWpOVGNpZ0xLSFVCREt1Yk1IczE0S3BQbm4xUnc4ODVKS0JXclc4MW0tWDFScTlIaEQ4akpsZlQtZUhsc3EzY21n?oc=5",
-          "time": "2026-09-07 18:02:32",
-          "publisher": "Google News→金門GO資訊網",
-          "severity": null
-        },
-        {
-          "title": "金門港公車直達東半島快線上路",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSnRaalI3aTZBMDVjbVpad2ZZRHBwUDFiQ0V3bzRReHU1YXNZU1FuUUR3RDRBOFphVS1wNlg0N3k0WjJPNHNvand3MWFySTFRXzhHRVhTWW9QdlpNNnktSHU2dGI0WUcwMi04X1VLYUhxZlhVSnR2NEFhOGRJeFo5NEp6M2lOX2xGM3hpOE0tUlZVVklYSngyekIxYzFuSnFR?oc=5",
-          "time": "2026-09-07 18:01:40",
-          "publisher": "Google News→金門GO資訊網",
-          "severity": null
-        },
-        {
-          "title": "金門縣華僑協會召開理監事會議聚焦華僑之家活化與華僑節籌辦",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBKNXZjTGxLLVRQTHVYdFk2eV9UaC0tUHItaFNsRlpXV2Y3OU0zVGxuZ3dneTYyTncxR05iemFfRjJ5R0F3dnJn?oc=5",
-          "time": "2026-09-07 17:55:08",
-          "publisher": "Google News→台灣新聞雲",
-          "severity": null
-        },
-        {
-          "title": "陸客開車10分鐘就能到金門旅遊？中國金廈大橋通車影片瘋傳 查核中心秀衛星照真相",
-          "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPUHlwbDM3aFVGLWVjZTNya2FCX0ZiMXdZTmpTVDRPRTFFNGJTV2VlWGp4elZDMV92eGVVS2l3c25pYnZocTVFQVpzRWNiR05pYjR3SGxyX1JHaWFSOHNQam1NTkk3YUxNWXZCcHlsYzNEWk80X245MDBISVFrSmZRcV9zNzdIMG00UmJGalE2bUxRQkdXMjk2cG0zV1dIWW5zX18zdlZLdF9vdnlkXzdNV0pYcm41VTdpWHBESFZKZVV5bEllMndMTGx1d3llcFVYeXBleFFFM2V1SGNnZVBBR1VaZkxpbmJ4YkpvQVA3a2Z4MWtWLWJTTWpSVjZjcXJfNWhiTEgtRnNuTjhrZldzUWZXQnVPU0xVOHlmUEVPY2hHQTNRLWlkaEZoUklFVm93Mzl3QUlTT256YkJ3R3Q0d01RaC1MSW95Nkt0QTk3M0E4YW9jNUtzWWV2MFZMUjZqMTEyd21PVW9xSVVBOVNDdm1qZDRfZk1uN2NETTR0T1lQa29HZTc3WnVvOWJta3A2a1doM3ZmcEE1a0l6bVNVQjc2MkRua09vVFhsLUhYMGwzOFZycEYwVk01eDFaeDlES2FMRzZadWZyMVVfSnRudEJKSUlJZkozcXpzY2s3dUZKT3EyX2hKbmNZTTE4NV9ZbXEzMG1COE81N2lr?oc=5",
-          "time": "2026-09-07 17:45:57",
-          "publisher": "Google News→tw.news.yahoo.com",
-          "severity": "yellow"
-        },
-        {
-          "title": "【搶救遷台歷史記憶庫-93】金門藝工隊 王春貴 烽火情緣",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90dTlDcTlqNkFWbkppR2RrdDFHMzF6cm5za3lEZUlORk9lUEVBVFdZYjd6aWVIQmpLa0RCSUJFTEtFSFZsaWdqZ2dEVmNKaVdGVEM5ZEkxNG0?oc=5",
-          "time": "2026-09-07 17:15:00",
-          "publisher": "Google News→梅花新聞網",
-          "severity": null
-        },
-        {
-          "title": "陸客開車10分鐘就能到金門旅遊？中國金廈大橋通車影片瘋傳查核中心秀衛星照真相| 張庭維 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WdXpub1FuVjZYQm5RcnhMd0NwNlJrRmxLb0VDTTVIM3libkZuSHlsaExkUGxCRS16bnRRckV3WDZ5dmZiUmphalh2Qkhidw?oc=5",
-          "time": "2026-09-07 15:45:57",
-          "publisher": "Google News→Storm.mg",
-          "severity": "yellow"
-        },
-        {
-          "title": "金門高職文教基金會交接 傅仰洹接任董事長",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQlBwcjFKdHVxeHdqQnQyb0FXeGtKbkJDS3RvMmdnZVY3ODFRRDZCY2tHS2ZBMmREOXBBUEhpUGNfOFRVdnJKWlJtTXNTdFdfeTI4ZEk4bFpRUVlDOXNiRUlRTDJnQUIzbTNUY2pEWWNvUDNyZmI2RGY4UUJIRVZLUnNjNUZybEU5VXVsRFhsUFNzbjhzcWhoZW1TSVFLb1daOHNuNUtFeEUtNF9JU0ZtUjZfUUJwRFJXbjdhSlZpY3lNekpHeUQtWGp3WU04RUZINElSaXJScTFXMkNmY2lBTXB3?oc=5",
-          "time": "2026-09-07 14:42:49",
-          "publisher": "Google News→金門GO資訊網",
-          "severity": null
-        },
-        {
-          "title": "金門佛光童軍開放體驗 培養孩子自信與責任",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQnVqNXA2bHRjZTVpc3FuNXdGMF82TlMzM25DT3o0a0pTYkxBUnY1a1NZbEFYZEpGVUxVLXhJbUxTc1NhcWYxQk1pRzI4ZWRhMEp1QWN2MmdXV1Y3VXhEOTBuOE9LXzJNeTk2OEwwS1ZiaFVSb2NybkZQQlg0eWVZdlJDWVNkbWxaYkRpb2FmcndnWmcwQUpwVTlxWnZBczVqNmJhZTZJd2YwM0ZRS213TlUwTnpZdTBIaEE?oc=5",
-          "time": "2026-09-07 14:39:06",
-          "publisher": "Google News→金門GO資訊網",
-          "severity": null
-        },
-        {
-          "title": "[中國新聞]金門鄉親走進廈門同安展開母縣尋根之旅",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPREk3VHY4OXdVQ0FfdHlpcnVqWTBYMGc2OUZSYjZNWExKVXB0NVBuT096Szh2RTZMTUQzMUNSMElxVHpQSEpIV1ZBNVMxd3RBZ0ZuMnJJdW9GUkdfaWhHYndtYkRXQTgwS195T080NHlZbEJ1QWN5dW9TTnhYS0JFOVdxYmlhLUtTLVNXWFJVbnNJQTV0?oc=5",
-          "time": "2026-09-07 14:10:14",
-          "publisher": "Google News→央视网",
-          "severity": "yellow"
-        },
-        {
-          "title": "金門縣政府115年中秋臺金專船今起開放購票6歲以下80歲以上僅100元",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE04ODMxUnlQekpKdWVDcVpWSVA3Vk1yeHRCYzRnQU9aMS1QVXFaM1RVZG5iLWtrVnZZREVDc05VZ1BjcmxsbVlF?oc=5",
-          "time": "2026-09-07 11:15:32",
-          "publisher": "Google News→台灣新聞雲",
-          "severity": null
-        },
-        {
-          "title": "退潮才看得到！金門沙灘「鐵支柱」曾專撕登陸艇 如今長滿石蚵成另類奇景",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2twN1BuTWVubUlteFIzTXhQYk5BLTZWOUgzNHA2LW5RY3lab0N6V0QyNXVoTDl6YWp2U2lCTkpqUTVtcVlYenRKVV9heHVwa0F2d3Jrdk1sME9URUFaYXRab2E5QVdUZXllaVdpWEVUeWxYekhjVXQyR3pYTWN2ZktLY29TUi1qd052YmlFQko?oc=5",
-          "time": "2026-09-07 10:40:03",
-          "publisher": "Google News→news.pchome.com.tw",
-          "severity": null
-        },
-        {
-          "title": "退潮才看得到！金門沙灘「鐵支柱」曾專撕登陸艇 如今長滿石蚵成另類奇景",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwX3dRWEdJc0pQVEtna0NjYkhvYWNvNnBPclpycTUxWjc3SS1TNlpDU3BmdjJJZ2lVZDZkUlJUeWxJTVRxa21n?oc=5",
-          "time": "2026-09-07 10:40:03",
-          "publisher": "Google News→ENews新聞網",
-          "severity": null
-        },
-        {
-          "title": "金門縣115年全縣役男徵服常備兵軍種兵科第一場次(集中)抽籤作業",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9vby1DazV3R1U2RFhHRFJMQ3pNbENHR20xOS14Sy1xUVhYSmdqQVVKZlk2T3hWaXQwNmItVmdyVXhnQ3Rf?oc=5",
-          "time": "2026-09-07 09:50:00",
-          "publisher": "Google News→全國旅遊時報",
-          "severity": null
-        },
-        {
-          "title": "提升第一線社工專業能量！金門縣舉辦身心障礙者社工人員專業訓練",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1heTBYbjFEWjlIcVZZRlF2ZVZrTEtNVzNhVHp3UlZHM2FSeHQ5aHZ3MTNvcTFROWt6V1lXOHB6YlZERzRX?oc=5",
-          "time": "2026-09-07 09:47:00",
-          "publisher": "Google News→全國旅遊時報",
-          "severity": null
-        },
-        {
-          "title": "金門縣消防局全國工作獲評「特優機關」最高等第 內政部消防署署長親授表揚",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1pdzltSXZzLWRWLXc2SGp2elhGZm14NXA1QUo0cUxNbl9jWEJwdkFUMHVwQUprVzBWU21LdWp6cVVGRTln?oc=5",
-          "time": "2026-09-07 09:43:00",
-          "publisher": "Google News→全國旅遊時報",
           "severity": null
         }
       ],
@@ -2885,11 +2864,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 3,
+      "news_count": 2,
       "comment_count": 0,
       "negativity_pct": 100,
       "is_urgent": true,
-      "urgency_score": 12,
+      "urgency_score": 8,
       "news_articles": [
         {
           "title": "花蓮遊覽車司機襲胸中國女旅客 性騷擾被判刑",
@@ -2903,13 +2882,6 @@
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44YVNpdTVTU3k2aHV5OUExN0haMzdId3NTcEp2bS0zTDl3bTJpSVR1T1hodGJxdko3bFh2UHN6a0QtNWdTNWdhUnJ2WHNrY2VTeTUzNGY4eUY?oc=5",
           "time": "2026-09-07 09:56:53",
           "publisher": "Google News→CMoney",
-          "severity": "red"
-        },
-        {
-          "title": "花蓮遊覽車司機襲胸中國女旅客 性騷擾被判刑",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5565399",
-          "time": "2026-09-07 09:47:43",
-          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -4831,11 +4803,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 73,
+      "news_count": 72,
       "comment_count": 0,
-      "negativity_pct": 4,
+      "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 82,
+      "urgency_score": 78,
       "news_articles": [
         {
           "title": "花蓮瑞穗大橋交安 張峻促設巡檢制度",
@@ -5340,13 +5312,6 @@
           "time": "2026-09-07 09:51:30",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "花蓮遊覽車司機襲胸中國女旅客 性騷擾被判刑",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5565399",
-          "time": "2026-09-07 09:47:43",
-          "publisher": "自由時報",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -7547,11 +7512,11 @@
       "city": "高雄",
       "place": "高雄市楠梓區",
       "level": "red",
-      "news_count": 175,
+      "news_count": 174,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 208,
+      "urgency_score": 207,
       "news_articles": [
         {
           "title": "子瑜又要來高雄了！確定加入AAA主持陣容 搭檔張員瑛、池昌旭 | 綜藝 | 娛樂",
@@ -8770,13 +8735,6 @@
           "time": "2026-09-07 09:52:30",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "WATERBOMB、理想混蛋接續開唱高雄 高市府再推商圈夜市券",
-          "url": "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5565383",
-          "time": "2026-09-07 09:49:57",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []
@@ -8786,11 +8744,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 188,
+      "news_count": 186,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 203,
+      "urgency_score": 201,
       "news_articles": [
         {
           "title": "藍彰化縣提名魏平政想複製張善政模式？最強菜農揭3大困境",
@@ -10093,20 +10051,6 @@
           "time": "2026-09-07 09:51:50",
           "publisher": "Google News→桃園觀光導覽網",
           "severity": null
-        },
-        {
-          "title": "職涯攜手 一鹿相伴！ 桃園市9月10日大型就業博覽會登場 60家企業釋出逾3,000個職缺",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaGNQa3pjNHduS29fZW5qdmxXVG5CRHVCNHZ4Nkk3MGVMYlNQRG5lS2g0VFRsbGpscEE4eXVINllxOXdIb2lhQVlCUWFHOU9vMldkUEZZd0k0Nk5kNXZwVmlnU0V4LXRqVVB3TktsWnAtNXNCb0s1VWoyRXNQNzczRkxDVU96eElYQVhn?oc=5",
-          "time": "2026-09-07 09:46:45",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "桃園失智翁深夜急找「報廢車」警暖心化解烏龍 - 社會新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdGxtbEZKOWp5SVlpMkFmT2dNWFZSY2J3dlRpZE9GNEJQRXhDYzNsX3ZFVWZmQ2JmaVFHRUF4YUFwcTBWT3gyUW9YdG5McWNMWlY0LVJxWDJjeTJDSXJoN1d1ck83NU9TV2VMR1FiVTh0RGZBV3Y3LTc3RzhOcFNOVGY0NGVvZkN3T2Uw?oc=5",
-          "time": "2026-09-07 09:42:55",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -10116,12 +10060,19 @@
       "city": "台中",
       "place": "台中市清水區",
       "level": "red",
-      "news_count": 226,
+      "news_count": 227,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 238,
+      "urgency_score": 239,
       "news_articles": [
+        {
+          "title": "[Gossiping] [新聞] 台中護理師遭車撞擊二次輾壓亡 肇事男疑",
+          "url": "https://www.ptt.cc/bbs/Gossiping/M.1788830765.A.3FD.html",
+          "time": "2026-09-08 09:26:05",
+          "publisher": null,
+          "severity": null
+        },
         {
           "title": "中秋最暖回饋！台中海洋館邀清水、梧棲居民免費入館　9／9開放預約",
           "url": "https://n.yam.com/Article/20260908835170",
