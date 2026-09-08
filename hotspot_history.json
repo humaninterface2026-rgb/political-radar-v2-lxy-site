@@ -92929,7 +92929,7 @@
     },
     {
       "date": "2026-09-08",
-      "snapshot_at": "2026-09-08T10:40:18.042650+00:00",
+      "snapshot_at": "2026-09-08T10:40:44.658668+00:00",
       "hotspots": [
         {
           "title": "藍營路線爭議",
@@ -92946,20 +92946,6 @@
           ]
         },
         {
-          "title": "新北車禍事件",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "新北男載友吃午餐出事了！路口撞計程車側翻 車禍瞬間曝光"
-          ]
-        },
-        {
           "title": "高雄車禍事件",
           "city": "高雄",
           "place": "高雄市政府",
@@ -92971,6 +92957,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "毒駕車禍頻傳！高雄今年3197件大車事故 擬修法擴大駕駛尿檢「喪屍煙彈」也要驗"
+          ]
+        },
+        {
+          "title": "新北車禍事件",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "新北男載友吃午餐出事了！路口撞計程車側翻 車禍瞬間曝光"
           ]
         },
         {
@@ -93195,11 +93195,11 @@
           "city": "嘉義縣",
           "place": "嘉義縣政府",
           "level": "yellow",
-          "news_count": 23,
+          "news_count": 22,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 23,
+          "urgency_score": 22,
           "sample_titles": [
             "嘉義縣太興村候鳥黃頭鷺遷徙，遙控無人機禁飛至10月31日",
             "嘉義縣跨域攜手奇美醫院，深化偏鄉醫療與智慧照護",
@@ -93465,11 +93465,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 52,
+          "news_count": 51,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 52,
+          "urgency_score": 51,
           "sample_titles": [
             "台南市長選戰首度福利交鋒 陳亭妃推「六都齊」 謝龍介嗆：做不到就看我怎麼做",
             "2026/09/08 17:05 南市府與台糖簽訂MOU 新營糖廠變身機器人產業基地",

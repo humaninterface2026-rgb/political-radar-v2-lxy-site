@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "snapshot_at": "2026-09-08T10:40:18.042650+00:00",
+  "snapshot_at": "2026-09-08T10:40:44.658668+00:00",
   "hotspots": [
     {
       "title": "藍營路線爭議",
@@ -24,27 +24,6 @@
       "comments": []
     },
     {
-      "title": "新北車禍事件",
-      "city": "新北",
-      "place": "新北市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "新北男載友吃午餐出事了！路口撞計程車側翻 車禍瞬間曝光",
-          "url": "https://news.ebc.net.tw/news/society/570322",
-          "time": "2026-09-08 15:32:00",
-          "publisher": "東森新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "高雄車禍事件",
       "city": "高雄",
       "place": "高雄市政府",
@@ -60,6 +39,27 @@
           "url": "https://tw.news.yahoo.com/%E6%AF%92%E9%A7%95%E8%BB%8A%E7%A6%8D%E9%A0%BB%E5%82%B3-%E9%AB%98%E9%9B%84%E4%BB%8A%E5%B9%B43197%E4%BB%B6%E5%A4%A7%E8%BB%8A%E4%BA%8B%E6%95%85-%E6%93%AC%E4%BF%AE%E6%B3%95%E6%93%B4%E5%A4%A7%E9%A7%95%E9%A7%9B%E5%B0%BF%E6%AA%A2-%E5%96%AA%E5%B1%8D%E7%85%99%E5%BD%88-%E4%B9%9F%E8%A6%81%E9%A9%97-022347283.html",
           "time": "2026-09-08 02:23:47",
           "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新北車禍事件",
+      "city": "新北",
+      "place": "新北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "新北男載友吃午餐出事了！路口撞計程車側翻 車禍瞬間曝光",
+          "url": "https://news.ebc.net.tw/news/society/570322",
+          "time": "2026-09-08 15:32:00",
+          "publisher": "東森新聞",
           "severity": "yellow"
         }
       ],
@@ -819,11 +819,11 @@
       "city": "嘉義縣",
       "place": "嘉義縣政府",
       "level": "yellow",
-      "news_count": 23,
+      "news_count": 22,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 23,
+      "urgency_score": 22,
       "news_articles": [
         {
           "title": "嘉義縣太興村候鳥黃頭鷺遷徙，遙控無人機禁飛至10月31日",
@@ -977,13 +977,6 @@
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMWhMQzZTeklfVTJiZEdmMWxPZ2R0ejZreVI1ZkZyUXBIb0pjWGNyUUtBS0xGQXlTVWxvVHBuUTVkQU1ZZVUyeDdDQVpDLW5JUDhZRTZuNEFMbEZTcVB3aVNMTU5fOXdnakRBcW9WMDZyNVctMVdiS3hIQlNmTXhuZ2IycjFGaHBURDV6VWlJMDBQLXFZaFpLOGRVdlh0Y243NzZLbmEzd21vQTF2dFpXXzllYW1yZGlJV2dBcnhDVU9rRVpkQ0hxUUJsTGdvMFZzVkF0VjlhbDBWR1VLT3VzZEhyVkxLN09CM2h5bDd4WmtfN1ZtQXNiN1FsQ0gtNzZyazFxV0Z0UWRYS1U?oc=5",
           "time": "2026-09-07 18:42:26",
           "publisher": "Google News→tw.news.yahoo.com",
-          "severity": null
-        },
-        {
-          "title": "嘉義縣115年縣長盃慢速壘球季後賽開幕",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNeTJNYUxIMDZDSHMtLUhHLUVxZVRqbER2eFNiM1hBOEplcnl4M1lVaHdPbEFUZUpVVFlpZHhMUXZ5ZlBhWFJUSGYtRUdDTWRhSHNJbEpKSHk3Qm5IOF9IaVpwdDN6NFlLejhGUzRfSHdNSDJwVHNScXdNeUhwVWdSSmFUbmhQSmdLYzlpNUtYNnFLclNzOFItcXB1R2JDSkQycE42VU5SajNWdXV5cjkzLVhJU3VJSV9odG52UlBoSmFIc3dUV1pQeEZNVFNQVllXdkY5ZmpuZTBCektCb3FvYWpaclJSYndNdENFMDRqV1JpN1V1Ul9JdGl6WG1aUUpZVTFsaFdYcGN4R2dJZlh5T3gxZXpTRzg?oc=5",
-          "time": "2026-09-07 18:39:53",
-          "publisher": "Yahoo新聞",
           "severity": null
         }
       ],
@@ -4482,11 +4475,11 @@
       "city": "台南",
       "place": "台南市政府",
       "level": "red",
-      "news_count": 52,
+      "news_count": 51,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 52,
+      "urgency_score": 51,
       "news_articles": [
         {
           "title": "台南市長選戰首度福利交鋒 陳亭妃推「六都齊」 謝龍介嗆：做不到就看我怎麼做",
@@ -4843,13 +4836,6 @@
           "url": "https://newtalk.tw/news/view/2026-09-07/1058320",
           "time": "2026-09-07 18:46:40",
           "publisher": "新頭殼",
-          "severity": null
-        },
-        {
-          "title": "鍘美案圓滿落幕！傳統戲曲訴說台南歷史 陳幸妤故鄉開演《府城傳奇》",
-          "url": "https://tw.news.yahoo.com/%E9%8D%98%E7%BE%8E%E6%A1%88%E5%9C%93%E6%BB%BF%E8%90%BD%E5%B9%95-%E5%82%B3%E7%B5%B1%E6%88%B2%E6%9B%B2%E8%A8%B4%E8%AA%AA%E5%8F%B0%E5%8D%97%E6%AD%B7%E5%8F%B2-%E9%99%B3%E5%B9%B8%E5%A6%A4%E6%95%85%E9%84%89%E9%96%8B%E6%BC%94-%E5%BA%9C%E5%9F%8E%E5%82%B3%E5%A5%87-104000881.html",
-          "time": "2026-09-07 18:40:00",
-          "publisher": "Yahoo新聞",
           "severity": null
         }
       ],
