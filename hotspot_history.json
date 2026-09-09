@@ -93665,7 +93665,7 @@
     },
     {
       "date": "2026-09-09",
-      "snapshot_at": "2026-09-09T10:54:46.869093+00:00",
+      "snapshot_at": "2026-09-09T10:55:43.468042+00:00",
       "hotspots": [
         {
           "title": "台北狼師事件",
@@ -93883,9 +93883,9 @@
           ]
         },
         {
-          "title": "新竹縣弊案爭議",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
+          "title": "彰化弊案爭議",
+          "city": "彰化",
+          "place": "彰化縣政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -93893,21 +93893,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "新竹縣長選情震撼彈！竹東農地案 吳子嘉追加告發鄭朝方父鄭永金涉貪污"
-          ]
-        },
-        {
-          "title": "高雄弊案爭議",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "國民黨高市前議長涉詐助理費案外案》曾麗燕6助理護主作偽證 統統起訴"
+            "判刑沒在怕！毒駕累犯再吸「喪屍煙彈」載瓦斯桶撞車 下場曝 江姓瓦斯行員工5月毒駕載運瓦斯桶，行經彰化縣員林市撞上路旁汽車"
           ]
         },
         {
@@ -93939,9 +93925,9 @@
           ]
         },
         {
-          "title": "連江弊案爭議",
-          "city": "連江",
-          "place": "連江縣（馬祖）",
+          "title": "高雄弊案爭議",
+          "city": "高雄",
+          "place": "高雄市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -93949,35 +93935,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "護航妻舅搶標 承辦科長提異議遭調職／連江縣前秘書長 涉貪起訴"
-          ]
-        },
-        {
-          "title": "彰化弊案爭議",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "判刑沒在怕！毒駕累犯再吸「喪屍煙彈」載瓦斯桶撞車 下場曝 江姓瓦斯行員工5月毒駕載運瓦斯桶，行經彰化縣員林市撞上路旁汽車"
-          ]
-        },
-        {
-          "title": "花蓮弊案爭議",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "快訊／花蓮秀林爆「現金賄選案」！ 秀林鄉長夫妻遭收押禁見"
+            "國民黨高市前議長涉詐助理費案外案》曾麗燕6助理護主作偽證 統統起訴"
           ]
         },
         {
@@ -93995,9 +93953,9 @@
           ]
         },
         {
-          "title": "基隆弊案爭議",
-          "city": "基隆",
-          "place": "基隆市政府",
+          "title": "花蓮弊案爭議",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -94005,7 +93963,35 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "基隆知名慈善協會理事長捲官司 涉業務侵占840萬元被起訴"
+            "快訊／花蓮秀林爆「現金賄選案」！ 秀林鄉長夫妻遭收押禁見"
+          ]
+        },
+        {
+          "title": "新竹縣弊案爭議",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "新竹縣長選情震撼彈！竹東農地案 吳子嘉追加告發鄭朝方父鄭永金涉貪污"
+          ]
+        },
+        {
+          "title": "連江弊案爭議",
+          "city": "連江",
+          "place": "連江縣（馬祖）",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "護航妻舅搶標 承辦科長提異議遭調職／連江縣前秘書長 涉貪起訴"
           ]
         },
         {
@@ -94191,6 +94177,22 @@
           ]
         },
         {
+          "title": "基隆地方動態",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "red",
+          "news_count": 23,
+          "comment_count": 0,
+          "negativity_pct": 4,
+          "is_urgent": false,
+          "urgency_score": 26,
+          "sample_titles": [
+            "籃球》打造基隆運動賽事城市 永德盃分齡籃球邀請賽26日開打",
+            "基隆首創「兒少特偵隊」上路 跨局處無預警聯合稽查",
+            "基隆議員參選人林杏潔聲明早已退出國民黨 無黨籍身分服務地方"
+          ]
+        },
+        {
           "title": "雲林地方動態",
           "city": "雲林",
           "place": "雲林縣政府",
@@ -94204,22 +94206,6 @@
             "崔始源太懂台灣！曬水果釣出雲林副縣長 喊話「歡迎來雲林」",
             "雲林校園涉毒今年已17人次 縣府、警察局聯手防堵",
             "雲林首例「合法罷工」過關 艾杰旭工會96%同意爭全面調薪"
-          ]
-        },
-        {
-          "title": "基隆地方動態",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "red",
-          "news_count": 24,
-          "comment_count": 0,
-          "negativity_pct": 8,
-          "is_urgent": false,
-          "urgency_score": 30,
-          "sample_titles": [
-            "籃球》打造基隆運動賽事城市 永德盃分齡籃球邀請賽26日開打",
-            "基隆首創「兒少特偵隊」上路 跨局處無預警聯合稽查",
-            "基隆議員參選人林杏潔聲明早已退出國民黨 無黨籍身分服務地方"
           ]
         },
         {
@@ -94239,22 +94225,6 @@
           ]
         },
         {
-          "title": "台東地方動態",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "red",
-          "news_count": 34,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 34,
-          "sample_titles": [
-            "台東大武開出大樂透2.53億頭獎 全鄉瘋猜幸運兒！投注站曝1異象",
-            "2.53億大樂透獎落台東大武！ 全鄉5千人狂猜 台彩：只花50元",
-            "台東市公所斥資二千二百萬元補修道路 豐榮路２８巷率先改善"
-          ]
-        },
-        {
           "title": "新竹市地方動態",
           "city": "新竹市",
           "place": "新竹市政府",
@@ -94268,6 +94238,22 @@
             "竹市教師節前夕表揚404位優良教師！高虹安市長：加碼教師節禮金至1,000元感謝教育奉獻",
             "竹市推公車無障礙暨性平友善服務  高虹安市長：打造「友善同行、幸福共乘」環境",
             "外界關心新竹棒球場地下停車場重啟後結構改善 竹市府：上方大幅減載並改善排水、下方採碳纖維補強工法"
+          ]
+        },
+        {
+          "title": "台東地方動態",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "red",
+          "news_count": 34,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 34,
+          "sample_titles": [
+            "台東大武開出大樂透2.53億頭獎 全鄉瘋猜幸運兒！投注站曝1異象",
+            "2.53億大樂透獎落台東大武！ 全鄉5千人狂猜 台彩：只花50元",
+            "台東市公所斥資二千二百萬元補修道路 豐榮路２８巷率先改善"
           ]
         },
         {
@@ -94291,11 +94277,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "red",
-          "news_count": 38,
+          "news_count": 37,
           "comment_count": 0,
           "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 50,
+          "urgency_score": 49,
           "sample_titles": [
             "判刑沒在怕！毒駕累犯再吸「喪屍煙彈」載瓦斯桶撞車 下場曝 江姓瓦斯行員工5月毒駕載運瓦斯桶，行經彰化縣員林市撞上路旁汽車",
             "彰化火車站廣場髒亂惹議！市長夜襲發5國語言單祭重罰",
@@ -94355,11 +94341,11 @@
           "city": "金門",
           "place": "金門縣政府",
           "level": "red",
-          "news_count": 92,
+          "news_count": 91,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 92,
+          "urgency_score": 91,
           "sample_titles": [
             "達悟甩髮舞震撼小金門 海洋小學彼此大不同",
             "女力投入金門議會新戰局 尚文凱披民眾黨戰袍角逐第一選區、盼以專業與基層經驗拚席次",
@@ -94371,11 +94357,11 @@
           "city": "高雄",
           "place": "高雄市三民區",
           "level": "red",
-          "news_count": 104,
+          "news_count": 103,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 110,
+          "urgency_score": 109,
           "sample_titles": [
             "高市表揚70位體育有功人員 陳其邁頒獎致敬",
             "高市表揚70位體育有功人員 陳其邁頒獎致敬",
@@ -94451,11 +94437,11 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "red",
-          "news_count": 137,
+          "news_count": 136,
           "comment_count": 45,
           "negativity_pct": 2,
           "is_urgent": true,
-          "urgency_score": 225,
+          "urgency_score": 224,
           "sample_titles": [
             "盧秀燕主持開工 三謝江啟臣、未提何欣純",
             "東豐快速道路第2標開工盧秀燕、江啟臣、何欣純同台| 地方",
