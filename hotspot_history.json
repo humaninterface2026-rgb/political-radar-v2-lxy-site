@@ -93665,7 +93665,7 @@
     },
     {
       "date": "2026-09-09",
-      "snapshot_at": "2026-09-09T01:46:08.222226+00:00",
+      "snapshot_at": "2026-09-09T01:50:33.711271+00:00",
       "hotspots": [
         {
           "title": "新北車禍事件",
@@ -93901,11 +93901,11 @@
           "city": "高雄",
           "place": "高雄市政府",
           "level": "yellow",
-          "news_count": 9,
+          "news_count": 8,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 36,
+          "urgency_score": 32,
           "sample_titles": [
             "國民黨高雄市長參選人柯志恩今天提出3大空污政策，包括「燃煤除役不復活」、「石化安置轉型」、及「擴大肺癌篩檢」。民進黨高雄",
             "賴瑞隆為亞運選手加油 柯志恩提高雄空污政策",
@@ -93945,11 +93945,11 @@
           "city": "南投",
           "place": "南投縣政府",
           "level": "yellow",
-          "news_count": 38,
+          "news_count": 37,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 38,
+          "urgency_score": 37,
           "sample_titles": [
             "南投縣衛生局勇奪8項大獎 智慧藥政亮眼有成",
             "南投武德市集9/12開鑼 尋寶換好禮活動同步登場",
@@ -94264,11 +94264,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 111,
+          "news_count": 110,
           "comment_count": 0,
-          "negativity_pct": 42,
+          "negativity_pct": 43,
           "is_urgent": false,
-          "urgency_score": 252,
+          "urgency_score": 251,
           "sample_titles": [
             "地震速報／有嚇到！06:32宜蘭外海規模4.8地震 新北花蓮震度2級 | 天氣預報 | 生活",
             "迎中秋花蓮柚聯名艾絲樂小兔- 台灣萬象- 新聞",
@@ -94314,13 +94314,13 @@
           "level": "red",
           "news_count": 136,
           "comment_count": 0,
-          "negativity_pct": 12,
+          "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 184,
+          "urgency_score": 181,
           "sample_titles": [
+            "幕後》國民黨南霸天親自操盤高雄 蔣萬安卻意外害到柯志恩 | 戴祺修 | VIP",
             "港務公司林春福接任高雄分公司總經理 陳世鴻升任臺中分公司總經理",
-            "高雄關中秋教師節連假提供便利通關服務措施",
-            "內閣改組在即 日媒曝高市早苗選材標準：看能力不是看背景！"
+            "高雄關中秋教師節連假提供便利通關服務措施"
           ]
         },
         {
@@ -94328,11 +94328,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 160,
+          "news_count": 159,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 178,
+          "urgency_score": 177,
           "sample_titles": [
             "[HatePolitics] [討論] 台北桃園台中差距有20%這麼大？",
             "桃園寵物友善創3項全台第一！30座毛孩公園居冠 首創職棒專區、動保園區戲水池｜熱門話題",
@@ -94344,11 +94344,11 @@
           "city": "台中",
           "place": "台中市烏日區",
           "level": "red",
-          "news_count": 247,
+          "news_count": 244,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 289,
+          "urgency_score": 286,
           "sample_titles": [
             "[HatePolitics] [討論] 台北桃園台中差距有20%這麼大？",
             "[HatePolitics] [新聞] 驚！台中科博館植物園水池「驚見浮屍」",
@@ -94360,15 +94360,15 @@
           "city": "台北",
           "place": "台北市大安區",
           "level": "red",
-          "news_count": 320,
+          "news_count": 318,
           "comment_count": 0,
           "negativity_pct": 14,
           "is_urgent": false,
-          "urgency_score": 458,
+          "urgency_score": 456,
           "sample_titles": [
+            "北市副發言人因「這事」開轟吳崢 學者反問：妳是代表市府還是代表蔣萬安？",
             "[HatePolitics] [討論] 台北桃園台中差距有20%這麼大？",
-            "2026台北安全對話  副總統蕭美琴出席｜原音呈現LIVE",
-            "台北營養午餐出事了！87國中生集體腹瀉 蔣萬安滅火慘遭酸爆"
+            "2026台北安全對話  副總統蕭美琴出席｜原音呈現LIVE"
           ]
         }
       ]
