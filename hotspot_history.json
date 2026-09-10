@@ -94458,7 +94458,7 @@
     },
     {
       "date": "2026-09-10",
-      "snapshot_at": "2026-09-10T01:51:15.394368+00:00",
+      "snapshot_at": "2026-09-10T01:52:29.415267+00:00",
       "hotspots": [
         {
           "title": "台北墜樓事件",
@@ -94475,9 +94475,9 @@
           ]
         },
         {
-          "title": "新北車禍事件",
-          "city": "新北",
-          "place": "新北市政府",
+          "title": "台北車禍事件",
+          "city": "台北",
+          "place": "台北市政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -94485,7 +94485,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "中山高林口段車禍回堵4公里 警呼籲用路人及早改道"
+            "拆公館圓環後...北市十大車禍路口大洗牌 蔣萬安：持續檢討各路口安全"
           ]
         },
         {
@@ -94503,9 +94503,9 @@
           ]
         },
         {
-          "title": "台北車禍事件",
-          "city": "台北",
-          "place": "台北市政府",
+          "title": "新北車禍事件",
+          "city": "新北",
+          "place": "新北市政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -94513,7 +94513,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "拆公館圓環後...北市十大車禍路口大洗牌 蔣萬安：持續檢討各路口安全"
+            "中山高林口段車禍回堵4公里 警呼籲用路人及早改道"
           ]
         },
         {
@@ -94661,20 +94661,6 @@
           ]
         },
         {
-          "title": "桃園弊案爭議",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "桃園 誘赴陸摘器官未遂 7人被起訴"
-          ]
-        },
-        {
           "title": "新竹縣弊案爭議",
           "city": "新竹縣",
           "place": "新竹縣政府",
@@ -94686,6 +94672,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "新竹縣長選情震撼彈！竹東農地案 吳子嘉追加告發鄭朝方父鄭永金涉貪污"
+          ]
+        },
+        {
+          "title": "桃園弊案爭議",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "桃園 誘赴陸摘器官未遂 7人被起訴"
           ]
         },
         {
@@ -94853,21 +94853,6 @@
           ]
         },
         {
-          "title": "彰化弊案爭議",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "判刑沒在怕！毒駕累犯再吸「喪屍煙彈」載瓦斯桶撞車 下場曝 江姓瓦斯行員工5月毒駕載運瓦斯桶，行經彰化縣員林市撞上路旁汽車",
-            "男毒駕載瓦斯桶撞車 彰化地院判刑10月"
-          ]
-        },
-        {
           "title": "台南弊案爭議",
           "city": "台南",
           "place": "台南市政府",
@@ -94880,6 +94865,21 @@
           "sample_titles": [
             "港婦獨居台南亡 女兒「11天未探視」被判刑",
             "台南名醫控妻與王建民偷情 4萬則私訊搬上媒體遭判刑6月"
+          ]
+        },
+        {
+          "title": "彰化弊案爭議",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "判刑沒在怕！毒駕累犯再吸「喪屍煙彈」載瓦斯桶撞車 下場曝 江姓瓦斯行員工5月毒駕載運瓦斯桶，行經彰化縣員林市撞上路旁汽車",
+            "男毒駕載瓦斯桶撞車 彰化地院判刑10月"
           ]
         },
         {
@@ -94979,6 +94979,22 @@
           ]
         },
         {
+          "title": "新竹市地方動態",
+          "city": "新竹市",
+          "place": "新竹市政府",
+          "level": "red",
+          "news_count": 35,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 35,
+          "sample_titles": [
+            "竹市農藥空瓶與提神飲料玻璃瓶回收秋季場9/16開跑 高虹安市長邀市民回收換好禮",
+            "新竹市農藥空瓶與提神飲料玻璃瓶回收秋季場9/16開跑",
+            "竹市推公車無障礙暨性平友善服務"
+          ]
+        },
+        {
           "title": "彰化地方動態",
           "city": "彰化",
           "place": "彰化縣政府",
@@ -94992,22 +95008,6 @@
             "彰化家扶63戶寄養家庭持續學習 用專業接住孩子的每一份需要",
             "彰化3625個名額免費體驗 連續血糖監測 助糖友控糖找健康",
             "彰化免費監測血糖 還剩2千名額"
-          ]
-        },
-        {
-          "title": "新竹市地方動態",
-          "city": "新竹市",
-          "place": "新竹市政府",
-          "level": "red",
-          "news_count": 36,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 36,
-          "sample_titles": [
-            "竹市農藥空瓶與提神飲料玻璃瓶回收秋季場9/16開跑 高虹安市長邀市民回收換好禮",
-            "新竹市農藥空瓶與提神飲料玻璃瓶回收秋季場9/16開跑",
-            "竹市推公車無障礙暨性平友善服務"
           ]
         },
         {
@@ -95159,11 +95159,11 @@
           "city": "台中",
           "place": "台中市烏日區",
           "level": "red",
-          "news_count": 181,
+          "news_count": 180,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 199,
+          "urgency_score": 198,
           "sample_titles": [
             "[TaichungBun] [新聞] 太扯！盧秀燕才剪綵「台中最大公托」竟沒",
             "[TaichungBun] [交易]  Recaro 369汽座（二手）/台中烏日",
@@ -95175,11 +95175,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 184,
+          "news_count": 183,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 190,
+          "urgency_score": 189,
           "sample_titles": [
             "2026台灣設計展在桃園-桃園設計食堂「硬桃派」搶先全臺出發！",
             "A10山鼻站成功招商 桃園首件捷運土地開發案啟動TOD軌道經濟",
@@ -95191,11 +95191,11 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 255,
+          "news_count": 254,
           "comment_count": 0,
           "negativity_pct": 14,
           "is_urgent": false,
-          "urgency_score": 363,
+          "urgency_score": 362,
           "sample_titles": [
             "助攻偏鄉工程效能！南投縣府赴信義鄉辦採購座談",
             "登峰造極排球賽台北體育館登場！HVL勁旅東山高中、豐原高商首日開紅盤",
