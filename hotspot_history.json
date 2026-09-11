@@ -95236,7 +95236,7 @@
     },
     {
       "date": "2026-09-11",
-      "snapshot_at": "2026-09-11T10:32:42.702603+00:00",
+      "snapshot_at": "2026-09-11T10:46:24.209286+00:00",
       "hotspots": [
         {
           "title": "彰化狼師事件",
@@ -95250,20 +95250,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "誘騙女網友2度性侵又索財7千 彰化惡狼罪推哥哥遭DNA打臉下場曝"
-          ]
-        },
-        {
-          "title": "桃園車禍事件",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "桃園介壽路清晨自撞車禍 直撞民族地下道橋墩塞爆周邊"
           ]
         },
         {
@@ -95281,6 +95267,20 @@
           ]
         },
         {
+          "title": "桃園車禍事件",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "桃園介壽路清晨自撞車禍 直撞民族地下道橋墩塞爆周邊"
+          ]
+        },
+        {
           "title": "宜蘭車禍事件",
           "city": "宜蘭",
           "place": "宜蘭縣政府",
@@ -95292,20 +95292,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "宜蘭輪椅男突闖馬路嚇壞駕駛 後車急剎險釀車禍 | 華視新聞"
-          ]
-        },
-        {
-          "title": "連江陳情/抗議",
-          "city": "連江",
-          "place": "連江縣（馬祖）",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "農16到莒光 左楠區議員候選人薛兆基追問：陳情之後呢？"
           ]
         },
         {
@@ -95348,6 +95334,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "澎湖廚餘廠飄臭 湖西居民澎湖縣政府抗議"
+          ]
+        },
+        {
+          "title": "連江陳情/抗議",
+          "city": "連江",
+          "place": "連江縣（馬祖）",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "農16到莒光 左楠區議員候選人薛兆基追問：陳情之後呢？"
           ]
         },
         {
@@ -95473,11 +95473,11 @@
           "city": "連江",
           "place": "連江縣（馬祖）",
           "level": "green",
-          "news_count": 19,
+          "news_count": 18,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 19,
+          "urgency_score": 18,
           "sample_titles": [
             "嘉禮風華-校園巡演連江縣5校圓滿達陣傳承金門傳統傀儡戲 | 勁報",
             "嘉禮風華-校園巡演連江縣5校圓滿達陣 傳承金門傳統傀儡戲",
@@ -95499,9 +95499,9 @@
           ]
         },
         {
-          "title": "桃園弊案爭議",
-          "city": "桃園",
-          "place": "桃園市政府",
+          "title": "澎湖弊案爭議",
+          "city": "澎湖",
+          "place": "澎湖縣政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -95509,7 +95509,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "4 . 假高薪招募！3人關桃園民宅「等送中國摘器官」 7嫌遭起訴求刑"
+            "「提早1天變盜採！」 澎湖6人偷跑撈海膽 判刑恐罰76萬天價"
           ]
         },
         {
@@ -95527,9 +95527,9 @@
           ]
         },
         {
-          "title": "澎湖弊案爭議",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
+          "title": "桃園弊案爭議",
+          "city": "桃園",
+          "place": "桃園市政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -95537,7 +95537,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "「提早1天變盜採！」 澎湖6人偷跑撈海膽 判刑恐罰76萬天價"
+            "4 . 假高薪招募！3人關桃園民宅「等送中國摘器官」 7嫌遭起訴求刑"
           ]
         },
         {
@@ -95672,7 +95672,7 @@
           "urgency_score": 157,
           "sample_titles": [
             "盧秀燕參拜玉皇殿 贈匾「惟天為大」感恩護佑",
-            "王偉忠訪沈伯洋被炎上!柯文哲開庭後現身輔選!邱臣遠被提醒玩不過這些人!蔣萬安幫站台白小雞領情?黃國昌為藍白合私訊盧秀燕!",
+            "【19:05開播】王偉忠訪沈伯洋被炎上！柯文哲開庭後現身輔選！邱臣遠被提醒玩不過這些人！蔣萬安幫站台白小雞領情？黃國昌為",
             "中醫大附醫BOT「中賓立體停車場」啟用 盧秀燕：最有氣質、最有人文關懷的智慧停車場"
           ]
         },
@@ -95869,11 +95869,11 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "red",
-          "news_count": 47,
+          "news_count": 45,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 53,
+          "urgency_score": 51,
           "sample_titles": [
             "嫌貓叫太吵！苗栗男勒斃浪貓 提屍走過白沙屯媽眼前被攔下",
             "飛澎湖也要看護照？她沒帶多付200元 內行人曝原因",
@@ -95885,11 +95885,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "red",
-          "news_count": 51,
+          "news_count": 50,
           "comment_count": 0,
-          "negativity_pct": 16,
+          "negativity_pct": 14,
           "is_urgent": false,
-          "urgency_score": 75,
+          "urgency_score": 71,
           "sample_titles": [
             "曬「拜會卓揆照」遭藍支持者出征　王惠美：做對彰化有利的事",
             "誘騙女網友2度性侵又索財7千 彰化惡狼罪推哥哥遭DNA打臉下場曝",
@@ -95913,6 +95913,22 @@
           ]
         },
         {
+          "title": "宜蘭地方動態",
+          "city": "宜蘭",
+          "place": "宜蘭縣政府",
+          "level": "red",
+          "news_count": 66,
+          "comment_count": 0,
+          "negativity_pct": 9,
+          "is_urgent": false,
+          "urgency_score": 84,
+          "sample_titles": [
+            "拓展國際觀光市場與客源 宜蘭縣府組團赴日行銷多元特色賣點",
+            "林國漳發表教育政見深耕「宜蘭學」從本土出發| 中華日報",
+            "林國漳發表教育政見 深耕「宜蘭學」從本土出發"
+          ]
+        },
+        {
           "title": "台南地方動態",
           "city": "台南",
           "place": "台南市政府",
@@ -95926,22 +95942,6 @@
             "台南網紅翻車 7罪起訴",
             "中秋採買享加倍回饋 台南市溪北7市場「花好月圓－團圓好市券」開跑",
             "臺南市府啟動聯合標售 市地重劃抵費地、區段徵收剩餘建地一次公開標售"
-          ]
-        },
-        {
-          "title": "宜蘭地方動態",
-          "city": "宜蘭",
-          "place": "宜蘭縣政府",
-          "level": "red",
-          "news_count": 67,
-          "comment_count": 0,
-          "negativity_pct": 9,
-          "is_urgent": false,
-          "urgency_score": 85,
-          "sample_titles": [
-            "拓展國際觀光市場與客源 宜蘭縣府組團赴日行銷多元特色賣點",
-            "林國漳發表教育政見深耕「宜蘭學」從本土出發| 中華日報",
-            "林國漳發表教育政見 深耕「宜蘭學」從本土出發"
           ]
         },
         {
@@ -95981,11 +95981,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 95,
+          "news_count": 94,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 95,
+          "urgency_score": 94,
           "sample_titles": [
             "從校園提案獎勵到出國補助 花蓮青發中心六大資源陪高中職青年勇敢出發",
             "守護長者黃金救援 花蓮榮家醫護與照服員全員特訓急救術",
@@ -95997,15 +95997,15 @@
           "city": "台中",
           "place": "台中市南屯區",
           "level": "red",
-          "news_count": 127,
+          "news_count": 124,
           "comment_count": 0,
           "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 136,
+          "urgency_score": 133,
           "sample_titles": [
+            "[Gossiping] [新聞] 台中校園霸凌！國中生遭10人IG圍剿　手",
             "中市觀旅局邀單車環球旅人分享「用兩個輪子，閱讀一座城市」 | 青年日報",
-            "響應國家防災日 中市消防局推系列活動落實全民防災 | 青年日報",
-            "守護學生網路安全 中市教育局籲拒絕兒少性剝削「三不一要」"
+            "響應國家防災日 中市消防局推系列活動落實全民防災 | 青年日報"
           ]
         },
         {
@@ -96029,11 +96029,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 172,
+          "news_count": 171,
           "comment_count": 0,
-          "negativity_pct": 3,
+          "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 190,
+          "urgency_score": 189,
           "sample_titles": [
             "桃園市長選戰／龍科三期 藍綠爭執是回到正軌或空轉3年？ | 中央廣播電臺",
             "饗賓「URBAN PARADISE」進軍桃園 中壢籌備第3家店",
@@ -96045,11 +96045,11 @@
           "city": "台北",
           "place": "台北市松山區",
           "level": "red",
-          "news_count": 272,
+          "news_count": 274,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 371,
+          "urgency_score": 373,
           "sample_titles": [
             "獨／台北要變天了？沈伯洋緊追蔣萬安「驚人差距曝光」她爆：看到數字全跳起來",
             "民進黨台北市長參選人沈伯洋今下午舉辦「台北社會福利政策座談會」。現場邀集相關社福團體，會中他針對高齡、兒少、中年族群、女",
