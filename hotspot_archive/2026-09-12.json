@@ -1,7 +1,28 @@
 {
   "date": "2026-09-12",
-  "snapshot_at": "2026-09-12T10:24:35.006222+00:00",
+  "snapshot_at": "2026-09-12T10:33:33.305969+00:00",
   "hotspots": [
+    {
+      "title": "彰化狼師事件",
+      "city": "彰化",
+      "place": "彰化縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "交友軟體約女網友 彰化惡狼性侵2次還騙錢！下場慘了",
+          "url": "https://tw.news.yahoo.com/%E4%BA%A4%E5%8F%8B%E8%BB%9F%E9%AB%94%E7%B4%84%E5%A5%B3%E7%B6%B2%E5%8F%8B-%E5%BD%B0%E5%8C%96%E6%83%A1%E7%8B%BC%E6%80%A7%E4%BE%B52%E6%AC%A1%E9%82%84%E9%A8%99%E9%8C%A2-%E4%B8%8B%E5%A0%B4%E6%85%98%E4%BA%86-113100089.html",
+          "time": "2026-09-11 19:31:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
     {
       "title": "南投狼師事件",
       "city": "南投",
@@ -39,27 +60,6 @@
           "url": "https://news.ebc.net.tw/news/society/570850",
           "time": "2026-09-11 22:54:00",
           "publisher": "東森新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "彰化狼師事件",
-      "city": "彰化",
-      "place": "彰化縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "交友軟體約女網友 彰化惡狼性侵2次還騙錢！下場慘了",
-          "url": "https://tw.news.yahoo.com/%E4%BA%A4%E5%8F%8B%E8%BB%9F%E9%AB%94%E7%B4%84%E5%A5%B3%E7%B6%B2%E5%8F%8B-%E5%BD%B0%E5%8C%96%E6%83%A1%E7%8B%BC%E6%80%A7%E4%BE%B52%E6%AC%A1%E9%82%84%E9%A8%99%E9%8C%A2-%E4%B8%8B%E5%A0%B4%E6%85%98%E4%BA%86-113100089.html",
-          "time": "2026-09-11 19:31:00",
-          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -150,27 +150,6 @@
       "comments": []
     },
     {
-      "title": "高雄詐騙案",
-      "city": "高雄",
-      "place": "高雄市鳳山區",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "鳳山戶政前進龍成宮設攤 宣導戶政業務並提醒民眾慎防詐騙電話",
-          "url": "https://www.thehubnews.net/archives/664467",
-          "time": "2026-09-12 14:42:24",
-          "publisher": "新頭條",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "桃園詐騙案",
       "city": "桃園",
       "place": "桃園市政府",
@@ -187,6 +166,27 @@
           "time": "2026-09-12 13:32:14",
           "publisher": "Google News→桃園電子報",
           "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄詐騙案",
+      "city": "高雄",
+      "place": "高雄市鳳山區",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "鳳山戶政前進龍成宮設攤 宣導戶政業務並提醒民眾慎防詐騙電話",
+          "url": "https://www.thehubnews.net/archives/664467",
+          "time": "2026-09-12 14:42:24",
+          "publisher": "新頭條",
+          "severity": "yellow"
         }
       ],
       "comments": []
@@ -597,11 +597,11 @@
       "city": "連江",
       "place": "連江縣（馬祖）",
       "level": "green",
-      "news_count": 17,
+      "news_count": 16,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 17,
+      "urgency_score": 16,
       "news_articles": [
         {
           "title": "東北風發威！8級強風狠颳桃園、連江 威力直逼輕颱",
@@ -714,13 +714,6 @@
           "time": "2026-09-12 00:01:32",
           "publisher": "Google News→matsu-news.gov.tw",
           "severity": null
-        },
-        {
-          "title": "微光馬祖壓軸「國樂饗宴」9/19串聯觀光地景 | 青年日報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Lc1JzWUlzbjZBY1BhY0Qyb0J3b1E1djRsRjB0OHo2SU1rMmg1RkF1c3pQUUthRjFvNkR1dVBraHRldm1EVjVWVTBUVkJKS1k4WFA1N0FR?oc=5",
-          "time": "2026-09-11 18:24:28",
-          "publisher": "Google News→today.line.me",
-          "severity": null
         }
       ],
       "comments": []
@@ -768,27 +761,6 @@
       "comments": []
     },
     {
-      "title": "苗栗弊案爭議",
-      "city": "苗栗",
-      "place": "苗栗縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "持獵槍恫嚇竟真開槍！子彈射穿女友身後窗戶 苗栗男判刑5年半",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5571056",
-          "time": "2026-09-11 20:19:22",
-          "publisher": "自由時報",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "澎湖弊案爭議",
       "city": "澎湖",
       "place": "澎湖縣政府",
@@ -804,6 +776,27 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42YXRFclBsR2Y2LWFjZnVvNzhQcFZNOXAzUHlkbnEwVVBnaFJCN0wzeFdjSGh5eVhMNnRsR1JoX3c1NTFtTFFDeWR5ZmdSRDVuYkU2SFVMcjc3eFN5V3FjajhuRWpBODRQUDVmdURB?oc=5",
           "time": "2026-09-12 11:37:32",
           "publisher": "中時新聞網",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "苗栗弊案爭議",
+      "city": "苗栗",
+      "place": "苗栗縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "持獵槍恫嚇竟真開槍！子彈射穿女友身後窗戶 苗栗男判刑5年半",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5571056",
+          "time": "2026-09-11 20:19:22",
+          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -2466,11 +2459,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "yellow",
-      "news_count": 64,
+      "news_count": 63,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 76,
+      "urgency_score": 75,
       "news_articles": [
         {
           "title": "下周東北季風發威！桃園以北、宜蘭雨猛灌 氣象署：下周四轉晴 | 天氣預報 | 生活",
@@ -2910,13 +2903,6 @@
           "title": "宜蘭學子獲數理科學獎項耀眼國際 獲獎學校師生將榮耀與縣長共享",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pQ0hCUEpsdjVFa2VLZGdRcmZ1VGJwVG4zdkJxZTlIYWV1V2ttbVVhYklwTDdyNjQzRDBfQkRXMThQLVJSZEYtOFdsdDZmWVdKSmc?oc=5",
           "time": "2026-09-11 18:34:25",
-          "publisher": "Google News→中華新聞雲／中華日報",
-          "severity": null
-        },
-        {
-          "title": "許振昌接掌宜蘭消防局 打造「韌性宜蘭、安心宜蘭」",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YcUtpU0ItTGpqV19KOEpUSDBDQWNoN2dKc0tTdTFJa3MzZUZDV3ZoWlBPRVVUYjE0VVlSMW5ybDFkRUlBcGZIbDczbm5ILUdGdEE?oc=5",
-          "time": "2026-09-11 18:30:39",
           "publisher": "Google News→中華新聞雲／中華日報",
           "severity": null
         }
@@ -4411,11 +4397,11 @@
       "city": "台南",
       "place": "台南市政府",
       "level": "red",
-      "news_count": 38,
+      "news_count": 37,
       "comment_count": 0,
       "negativity_pct": 11,
       "is_urgent": false,
-      "urgency_score": 50,
+      "urgency_score": 49,
       "news_articles": [
         {
           "title": "鍘美藝術節＋國旅補助 台南旅遊淡季住宿率暴增5成",
@@ -4675,13 +4661,6 @@
           "time": "2026-09-11 18:51:41",
           "publisher": "壹蘋新聞網",
           "severity": "yellow"
-        },
-        {
-          "title": "全國漁民節睽違14年再回台南 賴總統南下表揚",
-          "url": "https://tw.news.yahoo.com/%E5%85%A8%E5%9C%8B%E6%BC%81%E6%B0%91%E7%AF%80%E7%9D%BD%E9%81%9514%E5%B9%B4%E5%86%8D%E5%9B%9E%E5%8F%B0%E5%8D%97-%E8%B3%B4%E7%B8%BD%E7%B5%B1%E5%8D%97%E4%B8%8B%E8%A1%A8%E6%8F%9A-102542324.html",
-          "time": "2026-09-11 18:25:42",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -5020,11 +4999,11 @@
       "city": "苗栗",
       "place": "苗栗縣政府",
       "level": "red",
-      "news_count": 52,
+      "news_count": 49,
       "comment_count": 0,
-      "negativity_pct": 15,
+      "negativity_pct": 16,
       "is_urgent": false,
-      "urgency_score": 76,
+      "urgency_score": 73,
       "news_articles": [
         {
           "title": "150元爽吃16種配料！ 苗栗公館美食「盆友大爆冰」消防署冷熱飲城 3～6人分享臉盆冰超划算",
@@ -5367,447 +5346,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4Y004cFNlX0NqajltQjNmazRNYk1GaHplOXBCYlJGWDVXalpuWWF5cmtPaWpiTjNRM0hIdUI4LWozN1cxc045OVFBT3hkdVVuTVNTLWJB?oc=5",
           "time": "2026-09-11 18:37:07",
           "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "影／苗栗新學年免費學校午餐登場 鍾東錦赴啟文國小與學生共餐",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MeWk2cnFxSDZNbC1KMHpJZURmZVFjNEh6Z0lCNEhlSzhCdjNLbldxeXBjYWtmVF8ydGxZM0lSam5RSGRFS1gwenVITlJlRFVf0gFWQVVfeXFMT19qQzQ1eFdnWjdIT3lRd0lyUk5hX0VJUWNPX0xUMTl2U1VYZTRVNXhrNHNXNXFzZTNLbGZTa3BsUHdKaTB0bmIwMDB6ZVRkYllwUUJGU2c?oc=5",
-          "time": "2026-09-11 18:30:35",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "影／苗栗新學年免費學校午餐登場鍾東錦赴啟文國小與學生共餐| 時事",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBEZGhOaU9xSm8tbF83eE1wdjlQeEw1ZGpnYXYweUlJTjJEc282SEpuRlVfQ01Bdm1GRjdrbjctcDJlR3BRSUpLbTNR?oc=5",
-          "time": "2026-09-11 18:30:00",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "苗栗國中小免費午餐上路！ 縣長鍾東錦視察啟文國小陪學童用餐",
-          "url": "https://tw.news.yahoo.com/%E8%8B%97%E6%A0%97%E5%9C%8B%E4%B8%AD%E5%B0%8F%E5%85%8D%E8%B2%BB%E5%8D%88%E9%A4%90%E4%B8%8A%E8%B7%AF-%E7%B8%A3%E9%95%B7%E9%8D%BE%E6%9D%B1%E9%8C%A6%E8%A6%96%E5%AF%9F%E5%95%9F%E6%96%87%E5%9C%8B%E5%B0%8F%E9%99%AA%E5%AD%B8%E7%AB%A5%E7%94%A8%E9%A4%90-102901670.html",
-          "time": "2026-09-11 18:29:01",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "屏東地方動態",
-      "city": "屏東",
-      "place": "屏東縣政府",
-      "level": "red",
-      "news_count": 58,
-      "comment_count": 0,
-      "negativity_pct": 2,
-      "is_urgent": false,
-      "urgency_score": 61,
-      "news_articles": [
-        {
-          "title": "快訊》屏東東港鎮海公園傳意外！現場救出1人、目前持續搜救中",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UOWk5NmpwbEFxTUszenFia25WVHlhcTY3bVpnVEJubE90NmRJQllnajNvV291Q1FzRFdIczM1M2tBbjBuSmxfN1Q3Y3oydw?oc=5",
-          "time": "2026-09-12 16:23:00",
-          "publisher": "Google News→news.tw789.net",
-          "severity": "red"
-        },
-        {
-          "title": "屏東樂智嘉年華登場",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MYmpjZ3o4aHpWeXdlQlltbU5lR2RaZjBhRTZ2OFJRRjNFSDJlRGN5Q2RZTDMxN0ctRGdvVk1BUkMySjZ1OHpzdg?oc=5",
-          "time": "2026-09-12 16:19:47",
-          "publisher": "Google News→台灣民眾電子報",
-          "severity": null
-        },
-        {
-          "title": "影／挑戰75年藍營版圖屏東3任縣長同台力拱梁育慈攻市長| 高屏離島| 地方",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zSm5RdGVXemZrUjIzU3dwQzZMcU44LWlGWkhUaENoeEU0RVJCeFFyVVgyc2F3b3FQR25HUkZDUXVIR1NaU1ZINENKYkJiSG5j?oc=5",
-          "time": "2026-09-12 16:11:09",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "梁育慈競總成立潘孟安喊「屏東市不能落後」綠估選情五五波",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GNGRUT2tFYnZJbW5sSnNOUVhObW04aV9CLTR1eTZhcEQ3NGdMTHhMZkItSGJWVm84WGJEWEFuTFFIZHFYNU5ETVJ6dzd5c2VOcG81eDBzb2hQdjRsZDk2TVlSVlRzaWQ2NlJXaEh3?oc=5",
-          "time": "2026-09-12 15:51:11",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "選情逼近五五波！梁育慈總部茶會4000人擠爆，屏東三任縣長同框力挺「屏東的查某囝」訴求做事翻轉屏東市",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUGlNYXF4Rm1PM0p1Q2tQM1VkQ0t0ODN5RjdfS25BclJBYmZaSW45OU92T3Q0UG1EMWVCLVRVS0NMSGN3czZoTg?oc=5",
-          "time": "2026-09-12 15:48:37",
-          "publisher": "Google News→台灣民眾電子報",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園盃／恆春兩局海灌7分！王葦程猛打賞又跑2盜 7比3退新埔",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDaWc4TkhrQ053djBwMEhWY3pyRXhwS2FwbmRTQXVCQTM1aDk2RVBsdVlVV2lMcVNybEFWS0Q2bUZoVURCTFBUT2FhRl91WVNP0gFPQVVfeXFMUDNaY1lhQkN4Rk5UQnpsbnRwQ3RrT25oVXdCYnZoVUNrb0lpb1pGazZkQ3U2ZWljWmtHWDN4TG1lTGc4QUc3N1BBdno2RWdUMA?oc=5",
-          "time": "2026-09-12 15:23:00",
-          "publisher": "ETtoday",
-          "severity": null
-        },
-        {
-          "title": "桃園盃／贏球後有功課 恆春教頭盼「穩定」：比賽都有機會",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MWVF2WW9yT1dBZkNWenBEQlZITXR0dkFzSThMLU50LWo3OE9LZk5CSlloT0NOS1VpTmRfekxhTWswNERCVlE5OTkzeGczaEtw0gFPQVVfeXFMT3gteTJ5VzVhazAycktvaGs3V2J0aWhXS1NnNnFaN2FLX2plRnJVeHoxMDFVVG1IbndkeERDaE1fZDRzemZ5NlVoYUp0a3lYMA?oc=5",
-          "time": "2026-09-12 15:22:00",
-          "publisher": "ETtoday",
-          "severity": null
-        },
-        {
-          "title": "一盒難求！高雄林皇宮松子蛋黃酥熱銷 萬丹豆沙搭鹹蛋黃掀中秋搶購潮",
-          "url": "https://www.thehubnews.net/archives/664465",
-          "time": "2026-09-12 15:12:47",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "屏東三任縣長站台力挺 梁育慈總部茶會4000人擠爆 有信心做事翻轉屏東市",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yelhYTUctRGQ1RDhTQmU0NU94dmFIZktUdS1DV25qNTNvWTNaQzFFU2lJekV1Nm5zWmJPUlg5Q0c5Y29CbDhtS3U1N0lKaDU4dWc?oc=5",
-          "time": "2026-09-12 14:59:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "3屏東縣長同框！梁育慈競選總部成立 拚民進黨首位屏東市長",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5571638",
-          "time": "2026-09-12 14:55:47",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "影／潘孟安久違拿麥為梁育慈站台 喊屏東市要突破「最後一哩路」",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uZ3JwSHdVR0E1WGFyUFByaFh4SVFOcVRwQktjZlpJSUdXclNJZEhNX1padGVVVmVJVm5jbEgxYThBc1FzVWdjLUw4MkdpUVBQ0gFWQVVfeXFMUHBsWVp0MzFYb0xyeW1qaVNSZWxIY2s2R0JPNnhQdUFkUkdnTHBuODJyeWVrUzFCMmlqX250blN2MGZuamJRdzZCcjVWd194Z1BZWmpzT1E?oc=5",
-          "time": "2026-09-12 14:52:36",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "屏東縣老宅延壽計畫申請開跑 9月份巡迴說明會深入五鄉鎮辦理",
-          "url": "https://www.thehubnews.net/archives/664473",
-          "time": "2026-09-12 14:50:51",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "屏東8月豪雨「辣手摧花」！ 早生蓮霧大量落花、產量恐雪崩",
-          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOYmF0czN5RnhCeW5OUy0zWlRUMEdxU2ZDY09yQ3NmUWlrcGlFTGlVUWFydTl0d2dZV2tfQk5hWVZFWEVRYXpGMDA1dVF2MXZETHBfZG5lUjM4bUJJdl9JOE80Wkh3dzZyUlg1dTY3SFBwUGpzSkVUT1dfV0s4ckVqb21wdVQ1bWdrNVpkSHMwNFFBNV9yc0w4bjdpa0lXeU54YzBaSXJkNVBpcTBLSFFsTGNJT3Rqbmhpem5xZ1E4MlI0V2JxTGdfR0lYOUx6Z3IxcTZuaWkwT0gtZS1FcTBIaENXWWlEVGlSN3ozMUstaTlJRjh0N3R4ZWxEdmNXM1lia21WcE9Pel9mcnZxUGl6YkdrZl9CRUxCZGEwSFJEY3k2MjRhSDNwTThXWVpOb1NMTENsSC1FZFE5am1QeC1udkZCWFRUX2I1ZFFLMGRsQVlOQzFONkFBckdlMEh0VGV6?oc=5",
-          "time": "2026-09-12 14:45:17",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "115年屏東縣長盃排球錦標賽 內埔國中熱血開賽",
-          "url": "https://www.cdns.com.tw/articles/1458788",
-          "time": "2026-09-12 14:45:09",
-          "publisher": "中華日報",
-          "severity": null
-        },
-        {
-          "title": "一週天氣預報 - 週初屏東午後雷陣雨機率高、週末北海岸與宜蘭轉有雨，馬祖與澎湖東北風增強。",
-          "url": "https://news.nextapple.com/life/20260912/1DD8ED1E45A4655C637CE1420434E87F",
-          "time": "2026-09-12 14:10:03",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "屏東恐怖男放火燒老家「鹽酸藏草叢」想潑弟 1警員慘被灼傷",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBES0ZmT05HdWwyNnV5SXN3T0xJVGdzTGZocWpHb1YyU0pmYUdwNDZzN2FDaFREVFV0R2U4bnRMb1RrRkJTTHFCazJSdktlZHE5M2ZaUm1TeENqNlB0d2fSAUtBVV95cUxPSWhJY0lCSDdOUndveHVXRXYySjJHNmdNRkx1UHYyZ2hoZkhsZndTZ1A0ZDRRZzVya0czOUJSMW9EMzJ1Y3RHbFQ3TVE?oc=5",
-          "time": "2026-09-12 13:35:00",
-          "publisher": "ETtoday",
-          "severity": "red"
-        },
-        {
-          "title": "屏東最強「綠鬣蜥獵人」換人 8個月領走131萬禮券 | 華視新聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VMG9pVFMwcHozRTVRQTliX19FWlVDZXR1ajNPaEZmXzQwbldNLVc4WEFsX2NWeE5LYjBmSXhPTlBhOVo5blk1Y05FUXFURlJTeFlJakVR?oc=5",
-          "time": "2026-09-12 13:16:22",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "屏東最強「綠鬣蜥獵人」換人8個月領走131萬禮券- 社會",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wUmMwc0RwQXRSRktXREItYU1lcndvWUNGeEdCZDVpbFFQWEFHQkhFVzBWN0ZOaGRtbEtnZmhWdEZ1TVd0NXRTbU9DR3F5V2Vod2VScWl5ZVV6UzZacVBZRGN6eWNISnM2WFp6dl8wd1g?oc=5",
-          "time": "2026-09-12 12:45:00",
-          "publisher": "Google News→華視新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "2026屏東釀醬生活節移師醬油故鄉「竹田頓物驛」 跨國發酵美學與醬香Runway翻轉客庄味緒",
-          "url": "https://www.thehubnews.net/archives/664434",
-          "time": "2026-09-12 11:59:01",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "屏東最強綠鬣蜥獵人！8個月抓近9千隻綠鬣蜥 獲131萬禮券",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzc01IUzhxejlwT1pGQ3VDOFpNMWhsY0dXQW9mUlZ2WEc4d2QyVlB2a3pUVzBVQWRYRHE3QkxFX2pyMDU1UHNqRGdZMVZSZDg?oc=5",
-          "time": "2026-09-12 11:01:00",
-          "publisher": "Google News→news.tvbs.com.tw",
-          "severity": "yellow"
-        },
-        {
-          "title": "屏東政壇傳噩耗！前議員王志豐病逝享壽64歲曾任兩屆鎮長- 政治",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLTVwZG9QRDRGVFIwaXZqT3AzejV5dzA4aEo0eVFDWEhiUm1HQUQ2S0xFUFB6UmxQMzFYakFVYklFb1JrTUxmTG4xOFN4dzZ4LS1uNW1RZkhXOWdzT01sYV96T2pNSm1lb0g4TUVkME5qcldMTzNhZG0xTllJSDUxZEk0VXZLNzgxclhGWHE5UQ?oc=5",
-          "time": "2026-09-12 10:08:48",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "震驚地方政壇！前屏東議員王志豐病逝享壽64歲 曾連任兩屆鎮長",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NdlRZRm9ldmxnaFNsaVgzZjZVdU1yR2Joa1JEUG9kQTBkM2ZXNURVaHdLa2Z3bUtCN0ZWQUgyaFpESW5MLVh5LUZ3RERibHc?oc=5",
-          "time": "2026-09-12 09:45:00",
-          "publisher": "TVBS",
-          "severity": null
-        },
-        {
-          "title": "週末去哪玩？屏東新豐親水公園開放戲水 免費入場",
-          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQeEVaRVhxZ1JiOHZ2ZXF1U2lNaS1TWXhlR0pqT1plX1ZqWFRldUUwUE5lVU5LYmM5dXh0Z01jMUdMdlZtVXc1YkZ5eVJUbjhVS3JDamVtc01DRFItSVoxNnhIUlpGTXF0aUpSN2tHVWxpaXZLRTdLV1JXWlF2SWktYUExSHR3QkdlR0tQUk5DLURST2RXT1FleXRoOG1lSkRFaGJMT0hBMlRMcXY2cHNqTUFYel9ZWE1jQ1h2RHYwVE4tcVFzTWE3THJIa0ZONVA0OHlSU0ZVWXU3a0ZYaU9LZi1kMC1Dek91NDBkLXlmWktEemxOZlJVZzJOVE5rOVJnQURJcEp0MVh0TkJaanloTnRNS2drOGVyVGNNSXBhMmdMVWRsT1N0a2RjSlY5MXVZU0xHT1puZ3VEUHhUVWU2Rk1CWFk0bHdzZ2d2aENLUFpiQQ?oc=5",
-          "time": "2026-09-12 09:33:11",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "屏東文化Buffet開桌！ 21處文化據點端出山海好滋味",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jc2ZUNHBfOHlSMm1MbWhVUU5KRFpLTEZnTVVBM1RhTHE0ZXhuUXE1TEZoUG96dlc2UkhwVTB5R3lYYi1xTDJOMUpjY1lDSkpQOThZVEpiY3MzdmdWa0dKa0dnYjPSAWpBVV95cUxNelllRGZnMERVdmJjakFqSUVUUXlXV21jUVNYQWpuLUtCWFYtMFBBTW40RzEzRFZJSEdjTnZJRjhqd1JUVUVHemlBWndTM2dCUlBXek83d0dUQm9ESmdaQkVtaFBjSEFwaEdB?oc=5",
-          "time": "2026-09-12 09:31:11",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "落實職場安全衛生 林業保育署屏東分署辦理林業技術人員職能訓練",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51NjNVaHpQVGVYd2lyYkFUS2ktYy1adVZLNzRmWjRGWS1sQjIxVzJQWWJJUjFMcktLUWJJaU45LU9tVzRIb0J4TjhIdWM0aUk?oc=5",
-          "time": "2026-09-12 09:30:36",
-          "publisher": "Google News→forest.gov.tw",
-          "severity": null
-        },
-        {
-          "title": "屏東文化Buffet開桌！ 百大文化基地攜手地方文化館聯展",
-          "url": "https://n.yam.com/Article/20260912985922",
-          "time": "2026-09-12 09:21:21",
-          "publisher": "蕃新聞→News586",
-          "severity": null
-        },
-        {
-          "title": "討論牆 | 屏東最強「綠鬣蜥獵人」換人！8個月領走131萬超商禮券",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oeVlrWUhRWlp6RmVkWWlGMWFjNVgxaDZmYk1zSXExY1lqcm5wVVNOd1lRMi1uRU5vaU45TDFSZk9jZ3gtbEJhcmFrZkpld1NxdjhPQW1oMWZfcFQxbno1ODdkVFk?oc=5",
-          "time": "2026-09-12 08:38:51",
-          "publisher": "Google News→today.line.me",
-          "severity": "yellow"
-        },
-        {
-          "title": "屏東縣老宅延壽巡迴說明會 9月份開跑 - 社會新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQTYyMTFWQktlNTU4b3JOOTVfUU4zQjdNVVZRdnhFM1pKRGxvaVpMOGNackhPRHhvbFdMaFF1MkZSTGhhRVVRTWloRkQ5cjMxcEFpeEhhaHlDekhMald4T3FFd1l3OC1RY1pJWVJWaXRnZGREdXRmSVljV1hFRE1Nb3BnTUFFRmtlNjA4?oc=5",
-          "time": "2026-09-12 08:37:06",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "屏東文化Buffet開桌！ 百大文化基地攜手地方文化館聯展 - 社會新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbU5QaEg3aE5ZZDFORXpMb1JnbVV2WmpUcExlX3JnS2I0UWY2YXp6YmFUZHl2Y2MtZ0tuNm9EcjZHdHBTZjdnZG9JLTRzSUQxQzdTYjZ1S1drUng2N1FiQnV3VUQxVl9rWDhqeDZOU1NyTWV1VUZKbnlCeHdDRnE3Y0lUWmdHZVZ3cTNV?oc=5",
-          "time": "2026-09-12 08:37:06",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "屏東縣老宅延壽巡迴說明會 9月份開跑",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KRXRvTUQ5QnpPOFRCMnNucFB1SlNjRlZLMkZhV19fOXQtaG93UEN6M09OSi1qV2M2X2g5YnpqWlpROGVYX0ptQlduOUlwaGM2aGc?oc=5",
-          "time": "2026-09-12 08:37:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "「屏東新創時光河」屏東數位青創中心登場 3組在地新創、9場體驗活動邀民眾玩科技、看創新",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kWEpJNkRaRXNVeDFHOWsySVFleDJ4ZTdmTVJZeldFM3plNEZnVW1VSzZwOWZSXzM4SDdZNXdPZzgxMHl5cm9NWnZoNXFhRnZYYWc?oc=5",
-          "time": "2026-09-12 08:37:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "屏東樂智嘉年華9月11日登場 「診斷及時 翻轉失智」邀長輩家屬一起玩出樂智新生活",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tODRVZHI1eWJpYW1DLVN1ak9OT1cxa0tIbFVNUFlUd1FocGJwOGtyT08tcURIVmtZZ0FtbVNBVjNHZGYxMG5QQmNRbGVHR1c0bGc?oc=5",
-          "time": "2026-09-12 08:37:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "屏東縣世界狂犬病日活動9月19日登場 毛孩好康看過來",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80WklIaXptNnJUMEF4UDNua2Y4Ynh2RGx4MHlHN3RFc2hjdHR1NUE2eXJ3a245MEg3ZzRlNW1pNndNMjA3clNOdWJudFdWbHJyWlE?oc=5",
-          "time": "2026-09-12 08:37:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "民進黨梁育慈拚屏東市長競總成立 3屏東縣長出席力挺",
-          "url": "https://tw.news.yahoo.com/%E6%B0%91%E9%80%B2%E9%BB%A8%E6%A2%81%E8%82%B2%E6%85%88%E6%8B%9A%E5%B1%8F%E6%9D%B1%E5%B8%82%E9%95%B7%E7%AB%B6%E7%B8%BD%E6%88%90%E7%AB%8B-3%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%95%B7%E5%87%BA%E5%B8%AD%E5%8A%9B%E6%8C%BA-081302272.html",
-          "time": "2026-09-12 08:13:02",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "持有電子煙恐重罰10萬！屏東縣設34個專用回收桶 民眾主動投遞免受罰",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04cmF3ZVYyQVdGVXFOTnZpWlFnaXhVVG83QVdqM3pVaENacEtJZ0otWnN4V0wzb19yMGF5MGtpX3RENDZwZVdzU2hwUU5nTHhY0gFWQVVfeXFMUE9VWVZMcGNpU3FnRGU1MUFrdmVQaEEyUmRrTlhGaFc3VmcyTm1hMEdZWWNaLTVsaG9zbVBKS1hmalFnTmlhc1RETDYxWXU2RlpiWFRsZEE?oc=5",
-          "time": "2026-09-12 08:11:50",
-          "publisher": "Google News→udn.com",
-          "severity": null
-        },
-        {
-          "title": "綠營屏東市長候選人梁育慈競總啟用 點燃兩個女人戰火",
-          "url": "https://tw.news.yahoo.com/%E7%B6%A0%E7%87%9F%E5%B1%8F%E6%9D%B1%E5%B8%82%E9%95%B7%E5%80%99%E9%81%B8%E4%BA%BA%E6%A2%81%E8%82%B2%E6%85%88%E7%AB%B6%E7%B8%BD%E5%95%9F%E7%94%A8-%E9%BB%9E%E7%87%83%E5%85%A9%E5%80%8B%E5%A5%B3%E4%BA%BA%E6%88%B0%E7%81%AB-080908915.html",
-          "time": "2026-09-12 08:09:08",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "8 . 當街槍殺屏東角頭！凶憂被報復逃亡性高遭延押 遺孀鄉代拒訪原因曝",
-          "url": "https://www.mnews.tw/story/20260910nm019",
-          "time": "2026-09-12 06:16:27",
-          "publisher": "鏡新聞",
-          "severity": "red"
-        },
-        {
-          "title": "屏東文化Buffet",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lRGFGQ2xRMDlPcmpfMnZxZVczOGdkRVFBRFVjRVVfd0wyUW5fMnFXT2lfNDRPRWVnYW9LOEh2ak1wVGNCbHlvU2F2a0NqdWVIMVhIVDF4NXlKaEZpUkg1WWZZLUdkMHF5SzYxZ2c1OUxSUQ?oc=5",
-          "time": "2026-09-12 05:00:44",
-          "publisher": "Google News→國語日報",
-          "severity": null
-        },
-        {
-          "title": "屏東最強「綠鬣蜥獵人」洗牌！他8個月殺9千隻…領走131萬",
-          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E6%9C%80%E5%BC%B7-%E7%B6%A0%E9%AC%A3%E8%9C%A5%E7%8D%B5%E4%BA%BA-%E6%B4%97%E7%89%8C-%E4%BB%968%E5%80%8B%E6%9C%88%E6%AE%BA9%E5%8D%83%E9%9A%BB-%E9%A0%98%E8%B5%B0131%E8%90%AC-044400496.html",
-          "time": "2026-09-12 04:44:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "一週天氣預報 - 東北風增強，北宜與屏東雨勢較明顯，外島強陣風",
-          "url": "https://news.nextapple.com/life/20260912/B691BE31259F049D16F4E12D0DC675F8",
-          "time": "2026-09-12 02:10:08",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "屏東九如國小運動場嶄新啟用 學童開心「有新操場了」",
-          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E4%B9%9D%E5%A6%82%E5%9C%8B%E5%B0%8F%E9%81%8B%E5%8B%95%E5%A0%B4%E5%B6%84%E6%96%B0%E5%95%9F%E7%94%A8-%E5%AD%B8%E7%AB%A5%E9%96%8B%E5%BF%83-%E6%9C%89%E6%96%B0%E6%93%8D%E5%A0%B4%E4%BA%86-164400963.html",
-          "time": "2026-09-12 00:44:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "【前屏東縣議員王志豐病逝！享壽64歲 從鎮代表一路拚到縣議員】 一路好走。(#起啵)",
-          "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQNmlQaU9PbXRhNWhpdVJlZy04bDZKZnFMOVJEQzd0aTJIVnNDWU9YWFY2T0dOcERWQ3JteXpPLWlIamNMZlVRSFMtU2VhblBxMTctRTZJUWl5Vk82QjBoUjZ4ckJuRzRHR0VQU1BTWURPaG9wTlBTR2Z0aFo1aEI2VHptX3JaUERvbV92SlVMaXk3cEpXcDJUVzRES0lVMGVzQWNxeTdzb3EwZnNqSVRtYWpBdlprMjFTTXp2VXNiSlUzNmZza05IWld3WTd1b1VLVVI2Q1F3eDI3YUtLOEN4cFBkdl8tdkpacUwybzBQY0x5TEhwMkNCOEJva3NsVk5fc1BpSktHdDY5Ul9VYnpPVk92QkY2WkVTRFhwMmhrYTY5TFZTUlFIX2dQN2d2cWJlSklXTUIxeGxUTG56cVJyUVRITnI0SDFocFlIM3dOTWdYSkFDT1VyeVdEVzdXb0lTLXhoZ2dKQWtJMzViWDVXNnh2NW15ajZKek81VkZreklIMjc4WUktUm9VMVJIaUdoQzR4b3paQlNtZGQtSTVVNUxiVUhSNjdJdzZNSWxtWVotQlJobzNPNU1JNnZtVkJYVzg0ektMVTJIeFRINmU4YU9nemRrOVNPRDc1Uk1DR0M?oc=5",
-          "time": "2026-09-11 23:36:03",
-          "publisher": "Google News→facebook.com",
-          "severity": null
-        },
-        {
-          "title": "屏東最強「綠鬣蜥獵人」換人！8個月領走131萬超商禮券",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5571132",
-          "time": "2026-09-11 22:15:18",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "屏東最強「綠鬣蜥獵人」換人！8個月領走131萬超商禮券- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aRVFQLV9ZdWRIaGZKeDNwaW53V1dBX2VoUHlrNXpMeGhodUJZTkpUaU9vYThQUE1hMVNaM3JUZ0tBVUIzXzBhSEhRR0FOUUhoMzJjdE51QVJqdUx5YXJjQXdDVGo?oc=5",
-          "time": "2026-09-11 22:15:18",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "馬來西亞沙巴州提升稻米自給率 率團拜會屏東縣政府交流農業經驗",
-          "url": "https://focus.586.com.tw/2026/09/11/p403284/",
-          "time": "2026-09-11 22:02:40",
-          "publisher": "焦點時報",
-          "severity": null
-        },
-        {
-          "title": "「浪潮屏東 連線亞洲」 2026臺灣屏東佳樂水亞洲衝浪聯盟系列積分賽 9月30日浪尖對決",
-          "url": "https://focus.586.com.tw/2026/09/11/p403282/",
-          "time": "2026-09-11 22:02:40",
-          "publisher": "焦點時報",
-          "severity": null
-        },
-        {
-          "title": "打造安心學習家園 屏東「飛夢林學園」新校舍落成 周春米:發掘孩子潛力 陪伴孩子勇敢逐夢",
-          "url": "https://focus.586.com.tw/2026/09/11/p403280/",
-          "time": "2026-09-11 22:02:40",
-          "publisher": "焦點時報",
-          "severity": null
-        },
-        {
-          "title": "馬來西亞沙巴州提升稻米自給率率團拜會屏東縣政府交流農業經驗- 社會新聞- PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3NGYndwSW1MRVdGUzhQR0x3aGV3SFlVQzgzeWxHRWZWcDh4OUNLZWE2ajRpM2drSFZPTTlJcXFOTDJ0UmZxOE0wb0NYc2JSdi1rbEF2RFRKNlBPN2RKSmxKaFUwZUl1OTFpYnpHNW9xSkNsRV9LQ3B5aTQ0UFlrME9FSnQwY2VTUWduVQ?oc=5",
-          "time": "2026-09-11 22:02:40",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "前屏東縣議員王志豐病逝！享壽64歲 從鎮代表一路拚到縣議員 | 政治 | CTWANT",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jUUE1S2ZLWThmNU90ekUtY3lHOFpfeHJsTGJZbHppSEtYWldYQ19nbjBqY0pza0dRRDMxWHB5aGZmMFh4R1dBT0JQN0FmTDTSAVRBVV95cUxON0dhRGY0RHNKWHlqRllqcUZFNmV0eGRPd0w2WXM1T18ybUxBSEs5bDZGaFBJTGRqdHlZV1BNYXEyVFdVVHNveVc4QTFldV9Qc3FTdm4?oc=5",
-          "time": "2026-09-11 21:49:32",
-          "publisher": "Google News→CTWANT",
-          "severity": null
-        },
-        {
-          "title": "屏東樂智嘉年華9月11日登場「診斷及時 翻轉失智」",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA2dlp0d19HX1YzWkdkSjR2T3FfUVJoQ1JXQWtpME1TRUE3NEhrWG1uUktsZ09JNGMxaEtDQXhLaU0tNjQ0ZGNV?oc=5",
-          "time": "2026-09-11 20:55:20",
-          "publisher": "Google News→台灣新聞雲",
-          "severity": null
-        },
-        {
-          "title": "屏東2女將無緣世錦賽！運動部將依法撤免秘書長 教練：盼完善選手權益保障",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxbGU0SjBEMmRiWTg0QzFlV0J3eFF6M3l2X3hRby1Xdjh4UWN1U3drSE5YblN1eXN6d3Qwa2U4eVJkaTU1TDExcFV6TmFVdw?oc=5",
-          "time": "2026-09-11 20:55:00",
-          "publisher": "Google News→news.tw789.net",
-          "severity": "red"
-        },
-        {
-          "title": "前屏東縣議員、潮州鎮長王志豐今晨驟逝 享壽64歲",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12MzNiaXNnaXZ2cTM0SXp2UW1qd0hrbk1VWXVxUTRXUGVmX1JaaGdZUUVTTms2SFAtM3MtZktKTlJONjc5N0oya096RS1WN1hZdXVQMjg4dw?oc=5",
-          "time": "2026-09-11 20:10:00",
-          "publisher": "東森新聞",
-          "severity": null
-        },
-        {
-          "title": "已打烊3小時還不走！ 屏東2奧客不滿打烊被趕　竟猛揍老闆",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-09-11/2464409.html",
-          "time": "2026-09-11 19:59:17",
-          "publisher": "壹電視",
-          "severity": "yellow"
-        },
-        {
-          "title": "「時光河」展屏東數位青創中心登場 邀民眾玩科技、看創新",
-          "url": "https://www.ctee.com.tw/news/20260911701787-431401",
-          "time": "2026-09-11 19:59:14",
-          "publisher": "工商時報",
-          "severity": null
-        },
-        {
-          "title": "屏東市店家遭客人毆打一案，屏東分局查處",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBd3gxd183QlNIUVB5bTdlN1NuYXF6UlFsR1RxYi1VVDl2eHczT3N1N3pVcDIzeG5pOFdPZC1ZbHRuMzAxTmZfODdjWE5id2FqQkZIT3F3?oc=5",
-          "time": "2026-09-11 19:36:43",
-          "publisher": "Google News→藍雀新傳媒",
-          "severity": "yellow"
-        },
-        {
-          "title": "屏東九如國小運動場重鋪跑道 孩子們歡呼：有新操場了",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5570982",
-          "time": "2026-09-11 19:35:26",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "「時光河」展屏東數位青創中心登場邀民眾玩科技、看創新- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FNTVpWEhiNnFucmFhS3lkWTAwUTZUM3gwc0h1UXVlUlU4QlMtdGQ5VEpZN0huSEd4cWpzS2tYZjRFRGhsT0EwTGt4OUdBR0Q0dGxUUjZhc3U3OWNjRGQw?oc=5",
-          "time": "2026-09-11 19:20:00",
-          "publisher": "Google News→工商時報",
-          "severity": null
-        },
-        {
-          "title": "國旅補助正式上線 「屏東旅遊購GO節」加碼好康",
-          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOYXJ2dFNYM09YTF9EQmkyc195am9yVEgtaEdFcENjS0p5UUZYSWx2V2dER25WTWNaNjVZWm1TTGxiXzFWaXptOEpsenlpS2xfLXRJZjBxaTJxZGFZT1MwaTRzUnZPNkNab0Q2OTBfbDVFOFJDRjhvN2FrMHdKUHFWT2RPYkFnc0d1enFkTTBuMVJ1bmVidU95VFBxWlhLaDJZU3JHVzVQUE9JczQtU3FVSW9FYTRLYVV1UG1hM1JOekNtblA4RFRmZ3NKZ3QwejhJV08xMHlyc3FEai1DemhyY3B0TWE5TjR0RTlXQU05QXZ3eE5qMF94c21YVUFaNE5HOUVZdkdSMUxNV1c4eUtoUU43UzdDMDZ3U0s4NTdfN3lGWjlxM3BjZUEyTWVveHdXZDhkcVY1ZERnejFLZDlkb25KbXl0eEtFX3d3b3V4Nzc3VmExcGtTNEc4THU?oc=5",
-          "time": "2026-09-11 18:34:45",
-          "publisher": "Google News→新唐人亞太電視台",
           "severity": null
         }
       ],
@@ -6234,15 +5772,435 @@
       "comments": []
     },
     {
+      "title": "屏東地方動態",
+      "city": "屏東",
+      "place": "屏東縣政府",
+      "level": "red",
+      "news_count": 58,
+      "comment_count": 0,
+      "negativity_pct": 2,
+      "is_urgent": false,
+      "urgency_score": 61,
+      "news_articles": [
+        {
+          "title": "快訊》屏東東港鎮海公園傳意外！現場救出1人、目前持續搜救中",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UOWk5NmpwbEFxTUszenFia25WVHlhcTY3bVpnVEJubE90NmRJQllnajNvV291Q1FzRFdIczM1M2tBbjBuSmxfN1Q3Y3oydw?oc=5",
+          "time": "2026-09-12 16:23:00",
+          "publisher": "Google News→news.tw789.net",
+          "severity": "red"
+        },
+        {
+          "title": "屏東樂智嘉年華登場",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MYmpjZ3o4aHpWeXdlQlltbU5lR2RaZjBhRTZ2OFJRRjNFSDJlRGN5Q2RZTDMxN0ctRGdvVk1BUkMySjZ1OHpzdg?oc=5",
+          "time": "2026-09-12 16:19:47",
+          "publisher": "Google News→台灣民眾電子報",
+          "severity": null
+        },
+        {
+          "title": "影／挑戰75年藍營版圖屏東3任縣長同台力拱梁育慈攻市長| 高屏離島| 地方",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zSm5RdGVXemZrUjIzU3dwQzZMcU44LWlGWkhUaENoeEU0RVJCeFFyVVgyc2F3b3FQR25HUkZDUXVIR1NaU1ZINENKYkJiSG5j?oc=5",
+          "time": "2026-09-12 16:11:09",
+          "publisher": "Google News→UDN",
+          "severity": "yellow"
+        },
+        {
+          "title": "梁育慈競總成立潘孟安喊「屏東市不能落後」綠估選情五五波",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GNGRUT2tFYnZJbW5sSnNOUVhObW04aV9CLTR1eTZhcEQ3NGdMTHhMZkItSGJWVm84WGJEWEFuTFFIZHFYNU5ETVJ6dzd5c2VOcG81eDBzb2hQdjRsZDk2TVlSVlRzaWQ2NlJXaEh3?oc=5",
+          "time": "2026-09-12 15:51:11",
+          "publisher": "中時新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "選情逼近五五波！梁育慈總部茶會4000人擠爆，屏東三任縣長同框力挺「屏東的查某囝」訴求做事翻轉屏東市",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUGlNYXF4Rm1PM0p1Q2tQM1VkQ0t0ODN5RjdfS25BclJBYmZaSW45OU92T3Q0UG1EMWVCLVRVS0NMSGN3czZoTg?oc=5",
+          "time": "2026-09-12 15:48:37",
+          "publisher": "Google News→台灣民眾電子報",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園盃／恆春兩局海灌7分！王葦程猛打賞又跑2盜 7比3退新埔",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDaWc4TkhrQ053djBwMEhWY3pyRXhwS2FwbmRTQXVCQTM1aDk2RVBsdVlVV2lMcVNybEFWS0Q2bUZoVURCTFBUT2FhRl91WVNP0gFPQVVfeXFMUDNaY1lhQkN4Rk5UQnpsbnRwQ3RrT25oVXdCYnZoVUNrb0lpb1pGazZkQ3U2ZWljWmtHWDN4TG1lTGc4QUc3N1BBdno2RWdUMA?oc=5",
+          "time": "2026-09-12 15:23:00",
+          "publisher": "ETtoday",
+          "severity": null
+        },
+        {
+          "title": "桃園盃／贏球後有功課 恆春教頭盼「穩定」：比賽都有機會",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MWVF2WW9yT1dBZkNWenBEQlZITXR0dkFzSThMLU50LWo3OE9LZk5CSlloT0NOS1VpTmRfekxhTWswNERCVlE5OTkzeGczaEtw0gFPQVVfeXFMT3gteTJ5VzVhazAycktvaGs3V2J0aWhXS1NnNnFaN2FLX2plRnJVeHoxMDFVVG1IbndkeERDaE1fZDRzemZ5NlVoYUp0a3lYMA?oc=5",
+          "time": "2026-09-12 15:22:00",
+          "publisher": "ETtoday",
+          "severity": null
+        },
+        {
+          "title": "一盒難求！高雄林皇宮松子蛋黃酥熱銷 萬丹豆沙搭鹹蛋黃掀中秋搶購潮",
+          "url": "https://www.thehubnews.net/archives/664465",
+          "time": "2026-09-12 15:12:47",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "屏東三任縣長站台力挺 梁育慈總部茶會4000人擠爆 有信心做事翻轉屏東市",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yelhYTUctRGQ1RDhTQmU0NU94dmFIZktUdS1DV25qNTNvWTNaQzFFU2lJekV1Nm5zWmJPUlg5Q0c5Y29CbDhtS3U1N0lKaDU4dWc?oc=5",
+          "time": "2026-09-12 14:59:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "3屏東縣長同框！梁育慈競選總部成立 拚民進黨首位屏東市長",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5571638",
+          "time": "2026-09-12 14:55:47",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "影／潘孟安久違拿麥為梁育慈站台 喊屏東市要突破「最後一哩路」",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uZ3JwSHdVR0E1WGFyUFByaFh4SVFOcVRwQktjZlpJSUdXclNJZEhNX1padGVVVmVJVm5jbEgxYThBc1FzVWdjLUw4MkdpUVBQ0gFWQVVfeXFMUHBsWVp0MzFYb0xyeW1qaVNSZWxIY2s2R0JPNnhQdUFkUkdnTHBuODJyeWVrUzFCMmlqX250blN2MGZuamJRdzZCcjVWd194Z1BZWmpzT1E?oc=5",
+          "time": "2026-09-12 14:52:36",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "屏東縣老宅延壽計畫申請開跑 9月份巡迴說明會深入五鄉鎮辦理",
+          "url": "https://www.thehubnews.net/archives/664473",
+          "time": "2026-09-12 14:50:51",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "屏東8月豪雨「辣手摧花」！ 早生蓮霧大量落花、產量恐雪崩",
+          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOYmF0czN5RnhCeW5OUy0zWlRUMEdxU2ZDY09yQ3NmUWlrcGlFTGlVUWFydTl0d2dZV2tfQk5hWVZFWEVRYXpGMDA1dVF2MXZETHBfZG5lUjM4bUJJdl9JOE80Wkh3dzZyUlg1dTY3SFBwUGpzSkVUT1dfV0s4ckVqb21wdVQ1bWdrNVpkSHMwNFFBNV9yc0w4bjdpa0lXeU54YzBaSXJkNVBpcTBLSFFsTGNJT3Rqbmhpem5xZ1E4MlI0V2JxTGdfR0lYOUx6Z3IxcTZuaWkwT0gtZS1FcTBIaENXWWlEVGlSN3ozMUstaTlJRjh0N3R4ZWxEdmNXM1lia21WcE9Pel9mcnZxUGl6YkdrZl9CRUxCZGEwSFJEY3k2MjRhSDNwTThXWVpOb1NMTENsSC1FZFE5am1QeC1udkZCWFRUX2I1ZFFLMGRsQVlOQzFONkFBckdlMEh0VGV6?oc=5",
+          "time": "2026-09-12 14:45:17",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "115年屏東縣長盃排球錦標賽 內埔國中熱血開賽",
+          "url": "https://www.cdns.com.tw/articles/1458788",
+          "time": "2026-09-12 14:45:09",
+          "publisher": "中華日報",
+          "severity": null
+        },
+        {
+          "title": "一週天氣預報 - 週初屏東午後雷陣雨機率高、週末北海岸與宜蘭轉有雨，馬祖與澎湖東北風增強。",
+          "url": "https://news.nextapple.com/life/20260912/1DD8ED1E45A4655C637CE1420434E87F",
+          "time": "2026-09-12 14:10:03",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "屏東恐怖男放火燒老家「鹽酸藏草叢」想潑弟 1警員慘被灼傷",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBES0ZmT05HdWwyNnV5SXN3T0xJVGdzTGZocWpHb1YyU0pmYUdwNDZzN2FDaFREVFV0R2U4bnRMb1RrRkJTTHFCazJSdktlZHE5M2ZaUm1TeENqNlB0d2fSAUtBVV95cUxPSWhJY0lCSDdOUndveHVXRXYySjJHNmdNRkx1UHYyZ2hoZkhsZndTZ1A0ZDRRZzVya0czOUJSMW9EMzJ1Y3RHbFQ3TVE?oc=5",
+          "time": "2026-09-12 13:35:00",
+          "publisher": "ETtoday",
+          "severity": "red"
+        },
+        {
+          "title": "屏東最強「綠鬣蜥獵人」換人 8個月領走131萬禮券 | 華視新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VMG9pVFMwcHozRTVRQTliX19FWlVDZXR1ajNPaEZmXzQwbldNLVc4WEFsX2NWeE5LYjBmSXhPTlBhOVo5blk1Y05FUXFURlJTeFlJakVR?oc=5",
+          "time": "2026-09-12 13:16:22",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "yellow"
+        },
+        {
+          "title": "屏東最強「綠鬣蜥獵人」換人8個月領走131萬禮券- 社會",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wUmMwc0RwQXRSRktXREItYU1lcndvWUNGeEdCZDVpbFFQWEFHQkhFVzBWN0ZOaGRtbEtnZmhWdEZ1TVd0NXRTbU9DR3F5V2Vod2VScWl5ZVV6UzZacVBZRGN6eWNISnM2WFp6dl8wd1g?oc=5",
+          "time": "2026-09-12 12:45:00",
+          "publisher": "Google News→華視新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "2026屏東釀醬生活節移師醬油故鄉「竹田頓物驛」 跨國發酵美學與醬香Runway翻轉客庄味緒",
+          "url": "https://www.thehubnews.net/archives/664434",
+          "time": "2026-09-12 11:59:01",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "屏東最強綠鬣蜥獵人！8個月抓近9千隻綠鬣蜥 獲131萬禮券",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzc01IUzhxejlwT1pGQ3VDOFpNMWhsY0dXQW9mUlZ2WEc4d2QyVlB2a3pUVzBVQWRYRHE3QkxFX2pyMDU1UHNqRGdZMVZSZDg?oc=5",
+          "time": "2026-09-12 11:01:00",
+          "publisher": "Google News→news.tvbs.com.tw",
+          "severity": "yellow"
+        },
+        {
+          "title": "屏東政壇傳噩耗！前議員王志豐病逝享壽64歲曾任兩屆鎮長- 政治",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLTVwZG9QRDRGVFIwaXZqT3AzejV5dzA4aEo0eVFDWEhiUm1HQUQ2S0xFUFB6UmxQMzFYakFVYklFb1JrTUxmTG4xOFN4dzZ4LS1uNW1RZkhXOWdzT01sYV96T2pNSm1lb0g4TUVkME5qcldMTzNhZG0xTllJSDUxZEk0VXZLNzgxclhGWHE5UQ?oc=5",
+          "time": "2026-09-12 10:08:48",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "震驚地方政壇！前屏東議員王志豐病逝享壽64歲 曾連任兩屆鎮長",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NdlRZRm9ldmxnaFNsaVgzZjZVdU1yR2Joa1JEUG9kQTBkM2ZXNURVaHdLa2Z3bUtCN0ZWQUgyaFpESW5MLVh5LUZ3RERibHc?oc=5",
+          "time": "2026-09-12 09:45:00",
+          "publisher": "TVBS",
+          "severity": null
+        },
+        {
+          "title": "週末去哪玩？屏東新豐親水公園開放戲水 免費入場",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQeEVaRVhxZ1JiOHZ2ZXF1U2lNaS1TWXhlR0pqT1plX1ZqWFRldUUwUE5lVU5LYmM5dXh0Z01jMUdMdlZtVXc1YkZ5eVJUbjhVS3JDamVtc01DRFItSVoxNnhIUlpGTXF0aUpSN2tHVWxpaXZLRTdLV1JXWlF2SWktYUExSHR3QkdlR0tQUk5DLURST2RXT1FleXRoOG1lSkRFaGJMT0hBMlRMcXY2cHNqTUFYel9ZWE1jQ1h2RHYwVE4tcVFzTWE3THJIa0ZONVA0OHlSU0ZVWXU3a0ZYaU9LZi1kMC1Dek91NDBkLXlmWktEemxOZlJVZzJOVE5rOVJnQURJcEp0MVh0TkJaanloTnRNS2drOGVyVGNNSXBhMmdMVWRsT1N0a2RjSlY5MXVZU0xHT1puZ3VEUHhUVWU2Rk1CWFk0bHdzZ2d2aENLUFpiQQ?oc=5",
+          "time": "2026-09-12 09:33:11",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "屏東文化Buffet開桌！ 21處文化據點端出山海好滋味",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jc2ZUNHBfOHlSMm1MbWhVUU5KRFpLTEZnTVVBM1RhTHE0ZXhuUXE1TEZoUG96dlc2UkhwVTB5R3lYYi1xTDJOMUpjY1lDSkpQOThZVEpiY3MzdmdWa0dKa0dnYjPSAWpBVV95cUxNelllRGZnMERVdmJjakFqSUVUUXlXV21jUVNYQWpuLUtCWFYtMFBBTW40RzEzRFZJSEdjTnZJRjhqd1JUVUVHemlBWndTM2dCUlBXek83d0dUQm9ESmdaQkVtaFBjSEFwaEdB?oc=5",
+          "time": "2026-09-12 09:31:11",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "落實職場安全衛生 林業保育署屏東分署辦理林業技術人員職能訓練",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51NjNVaHpQVGVYd2lyYkFUS2ktYy1adVZLNzRmWjRGWS1sQjIxVzJQWWJJUjFMcktLUWJJaU45LU9tVzRIb0J4TjhIdWM0aUk?oc=5",
+          "time": "2026-09-12 09:30:36",
+          "publisher": "Google News→forest.gov.tw",
+          "severity": null
+        },
+        {
+          "title": "屏東文化Buffet開桌！ 百大文化基地攜手地方文化館聯展",
+          "url": "https://n.yam.com/Article/20260912985922",
+          "time": "2026-09-12 09:21:21",
+          "publisher": "蕃新聞→News586",
+          "severity": null
+        },
+        {
+          "title": "討論牆 | 屏東最強「綠鬣蜥獵人」換人！8個月領走131萬超商禮券",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oeVlrWUhRWlp6RmVkWWlGMWFjNVgxaDZmYk1zSXExY1lqcm5wVVNOd1lRMi1uRU5vaU45TDFSZk9jZ3gtbEJhcmFrZkpld1NxdjhPQW1oMWZfcFQxbno1ODdkVFk?oc=5",
+          "time": "2026-09-12 08:38:51",
+          "publisher": "Google News→today.line.me",
+          "severity": "yellow"
+        },
+        {
+          "title": "屏東縣老宅延壽巡迴說明會 9月份開跑 - 社會新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQTYyMTFWQktlNTU4b3JOOTVfUU4zQjdNVVZRdnhFM1pKRGxvaVpMOGNackhPRHhvbFdMaFF1MkZSTGhhRVVRTWloRkQ5cjMxcEFpeEhhaHlDekhMald4T3FFd1l3OC1RY1pJWVJWaXRnZGREdXRmSVljV1hFRE1Nb3BnTUFFRmtlNjA4?oc=5",
+          "time": "2026-09-12 08:37:06",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "屏東文化Buffet開桌！ 百大文化基地攜手地方文化館聯展 - 社會新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbU5QaEg3aE5ZZDFORXpMb1JnbVV2WmpUcExlX3JnS2I0UWY2YXp6YmFUZHl2Y2MtZ0tuNm9EcjZHdHBTZjdnZG9JLTRzSUQxQzdTYjZ1S1drUng2N1FiQnV3VUQxVl9rWDhqeDZOU1NyTWV1VUZKbnlCeHdDRnE3Y0lUWmdHZVZ3cTNV?oc=5",
+          "time": "2026-09-12 08:37:06",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "屏東縣老宅延壽巡迴說明會 9月份開跑",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KRXRvTUQ5QnpPOFRCMnNucFB1SlNjRlZLMkZhV19fOXQtaG93UEN6M09OSi1qV2M2X2g5YnpqWlpROGVYX0ptQlduOUlwaGM2aGc?oc=5",
+          "time": "2026-09-12 08:37:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "「屏東新創時光河」屏東數位青創中心登場 3組在地新創、9場體驗活動邀民眾玩科技、看創新",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kWEpJNkRaRXNVeDFHOWsySVFleDJ4ZTdmTVJZeldFM3plNEZnVW1VSzZwOWZSXzM4SDdZNXdPZzgxMHl5cm9NWnZoNXFhRnZYYWc?oc=5",
+          "time": "2026-09-12 08:37:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "屏東樂智嘉年華9月11日登場 「診斷及時 翻轉失智」邀長輩家屬一起玩出樂智新生活",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tODRVZHI1eWJpYW1DLVN1ak9OT1cxa0tIbFVNUFlUd1FocGJwOGtyT08tcURIVmtZZ0FtbVNBVjNHZGYxMG5QQmNRbGVHR1c0bGc?oc=5",
+          "time": "2026-09-12 08:37:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "屏東縣世界狂犬病日活動9月19日登場 毛孩好康看過來",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80WklIaXptNnJUMEF4UDNua2Y4Ynh2RGx4MHlHN3RFc2hjdHR1NUE2eXJ3a245MEg3ZzRlNW1pNndNMjA3clNOdWJudFdWbHJyWlE?oc=5",
+          "time": "2026-09-12 08:37:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "民進黨梁育慈拚屏東市長競總成立 3屏東縣長出席力挺",
+          "url": "https://tw.news.yahoo.com/%E6%B0%91%E9%80%B2%E9%BB%A8%E6%A2%81%E8%82%B2%E6%85%88%E6%8B%9A%E5%B1%8F%E6%9D%B1%E5%B8%82%E9%95%B7%E7%AB%B6%E7%B8%BD%E6%88%90%E7%AB%8B-3%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%95%B7%E5%87%BA%E5%B8%AD%E5%8A%9B%E6%8C%BA-081302272.html",
+          "time": "2026-09-12 08:13:02",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "持有電子煙恐重罰10萬！屏東縣設34個專用回收桶 民眾主動投遞免受罰",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04cmF3ZVYyQVdGVXFOTnZpWlFnaXhVVG83QVdqM3pVaENacEtJZ0otWnN4V0wzb19yMGF5MGtpX3RENDZwZVdzU2hwUU5nTHhY0gFWQVVfeXFMUE9VWVZMcGNpU3FnRGU1MUFrdmVQaEEyUmRrTlhGaFc3VmcyTm1hMEdZWWNaLTVsaG9zbVBKS1hmalFnTmlhc1RETDYxWXU2RlpiWFRsZEE?oc=5",
+          "time": "2026-09-12 08:11:50",
+          "publisher": "Google News→udn.com",
+          "severity": null
+        },
+        {
+          "title": "綠營屏東市長候選人梁育慈競總啟用 點燃兩個女人戰火",
+          "url": "https://tw.news.yahoo.com/%E7%B6%A0%E7%87%9F%E5%B1%8F%E6%9D%B1%E5%B8%82%E9%95%B7%E5%80%99%E9%81%B8%E4%BA%BA%E6%A2%81%E8%82%B2%E6%85%88%E7%AB%B6%E7%B8%BD%E5%95%9F%E7%94%A8-%E9%BB%9E%E7%87%83%E5%85%A9%E5%80%8B%E5%A5%B3%E4%BA%BA%E6%88%B0%E7%81%AB-080908915.html",
+          "time": "2026-09-12 08:09:08",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "8 . 當街槍殺屏東角頭！凶憂被報復逃亡性高遭延押 遺孀鄉代拒訪原因曝",
+          "url": "https://www.mnews.tw/story/20260910nm019",
+          "time": "2026-09-12 06:16:27",
+          "publisher": "鏡新聞",
+          "severity": "red"
+        },
+        {
+          "title": "屏東文化Buffet",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lRGFGQ2xRMDlPcmpfMnZxZVczOGdkRVFBRFVjRVVfd0wyUW5fMnFXT2lfNDRPRWVnYW9LOEh2ak1wVGNCbHlvU2F2a0NqdWVIMVhIVDF4NXlKaEZpUkg1WWZZLUdkMHF5SzYxZ2c1OUxSUQ?oc=5",
+          "time": "2026-09-12 05:00:44",
+          "publisher": "Google News→國語日報",
+          "severity": null
+        },
+        {
+          "title": "屏東最強「綠鬣蜥獵人」洗牌！他8個月殺9千隻…領走131萬",
+          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E6%9C%80%E5%BC%B7-%E7%B6%A0%E9%AC%A3%E8%9C%A5%E7%8D%B5%E4%BA%BA-%E6%B4%97%E7%89%8C-%E4%BB%968%E5%80%8B%E6%9C%88%E6%AE%BA9%E5%8D%83%E9%9A%BB-%E9%A0%98%E8%B5%B0131%E8%90%AC-044400496.html",
+          "time": "2026-09-12 04:44:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "一週天氣預報 - 東北風增強，北宜與屏東雨勢較明顯，外島強陣風",
+          "url": "https://news.nextapple.com/life/20260912/B691BE31259F049D16F4E12D0DC675F8",
+          "time": "2026-09-12 02:10:08",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "屏東九如國小運動場嶄新啟用 學童開心「有新操場了」",
+          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E4%B9%9D%E5%A6%82%E5%9C%8B%E5%B0%8F%E9%81%8B%E5%8B%95%E5%A0%B4%E5%B6%84%E6%96%B0%E5%95%9F%E7%94%A8-%E5%AD%B8%E7%AB%A5%E9%96%8B%E5%BF%83-%E6%9C%89%E6%96%B0%E6%93%8D%E5%A0%B4%E4%BA%86-164400963.html",
+          "time": "2026-09-12 00:44:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "【前屏東縣議員王志豐病逝！享壽64歲 從鎮代表一路拚到縣議員】 一路好走。(#起啵)",
+          "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQNmlQaU9PbXRhNWhpdVJlZy04bDZKZnFMOVJEQzd0aTJIVnNDWU9YWFY2T0dOcERWQ3JteXpPLWlIamNMZlVRSFMtU2VhblBxMTctRTZJUWl5Vk82QjBoUjZ4ckJuRzRHR0VQU1BTWURPaG9wTlBTR2Z0aFo1aEI2VHptX3JaUERvbV92SlVMaXk3cEpXcDJUVzRES0lVMGVzQWNxeTdzb3EwZnNqSVRtYWpBdlprMjFTTXp2VXNiSlUzNmZza05IWld3WTd1b1VLVVI2Q1F3eDI3YUtLOEN4cFBkdl8tdkpacUwybzBQY0x5TEhwMkNCOEJva3NsVk5fc1BpSktHdDY5Ul9VYnpPVk92QkY2WkVTRFhwMmhrYTY5TFZTUlFIX2dQN2d2cWJlSklXTUIxeGxUTG56cVJyUVRITnI0SDFocFlIM3dOTWdYSkFDT1VyeVdEVzdXb0lTLXhoZ2dKQWtJMzViWDVXNnh2NW15ajZKek81VkZreklIMjc4WUktUm9VMVJIaUdoQzR4b3paQlNtZGQtSTVVNUxiVUhSNjdJdzZNSWxtWVotQlJobzNPNU1JNnZtVkJYVzg0ektMVTJIeFRINmU4YU9nemRrOVNPRDc1Uk1DR0M?oc=5",
+          "time": "2026-09-11 23:36:03",
+          "publisher": "Google News→facebook.com",
+          "severity": null
+        },
+        {
+          "title": "屏東最強「綠鬣蜥獵人」換人！8個月領走131萬超商禮券",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5571132",
+          "time": "2026-09-11 22:15:18",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "屏東最強「綠鬣蜥獵人」換人！8個月領走131萬超商禮券- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aRVFQLV9ZdWRIaGZKeDNwaW53V1dBX2VoUHlrNXpMeGhodUJZTkpUaU9vYThQUE1hMVNaM3JUZ0tBVUIzXzBhSEhRR0FOUUhoMzJjdE51QVJqdUx5YXJjQXdDVGo?oc=5",
+          "time": "2026-09-11 22:15:18",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "馬來西亞沙巴州提升稻米自給率 率團拜會屏東縣政府交流農業經驗",
+          "url": "https://focus.586.com.tw/2026/09/11/p403284/",
+          "time": "2026-09-11 22:02:40",
+          "publisher": "焦點時報",
+          "severity": null
+        },
+        {
+          "title": "「浪潮屏東 連線亞洲」 2026臺灣屏東佳樂水亞洲衝浪聯盟系列積分賽 9月30日浪尖對決",
+          "url": "https://focus.586.com.tw/2026/09/11/p403282/",
+          "time": "2026-09-11 22:02:40",
+          "publisher": "焦點時報",
+          "severity": null
+        },
+        {
+          "title": "打造安心學習家園 屏東「飛夢林學園」新校舍落成 周春米:發掘孩子潛力 陪伴孩子勇敢逐夢",
+          "url": "https://focus.586.com.tw/2026/09/11/p403280/",
+          "time": "2026-09-11 22:02:40",
+          "publisher": "焦點時報",
+          "severity": null
+        },
+        {
+          "title": "馬來西亞沙巴州提升稻米自給率率團拜會屏東縣政府交流農業經驗- 社會新聞- PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3NGYndwSW1MRVdGUzhQR0x3aGV3SFlVQzgzeWxHRWZWcDh4OUNLZWE2ajRpM2drSFZPTTlJcXFOTDJ0UmZxOE0wb0NYc2JSdi1rbEF2RFRKNlBPN2RKSmxKaFUwZUl1OTFpYnpHNW9xSkNsRV9LQ3B5aTQ0UFlrME9FSnQwY2VTUWduVQ?oc=5",
+          "time": "2026-09-11 22:02:40",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "前屏東縣議員王志豐病逝！享壽64歲 從鎮代表一路拚到縣議員 | 政治 | CTWANT",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jUUE1S2ZLWThmNU90ekUtY3lHOFpfeHJsTGJZbHppSEtYWldYQ19nbjBqY0pza0dRRDMxWHB5aGZmMFh4R1dBT0JQN0FmTDTSAVRBVV95cUxON0dhRGY0RHNKWHlqRllqcUZFNmV0eGRPd0w2WXM1T18ybUxBSEs5bDZGaFBJTGRqdHlZV1BNYXEyVFdVVHNveVc4QTFldV9Qc3FTdm4?oc=5",
+          "time": "2026-09-11 21:49:32",
+          "publisher": "Google News→CTWANT",
+          "severity": null
+        },
+        {
+          "title": "屏東樂智嘉年華9月11日登場「診斷及時 翻轉失智」",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA2dlp0d19HX1YzWkdkSjR2T3FfUVJoQ1JXQWtpME1TRUE3NEhrWG1uUktsZ09JNGMxaEtDQXhLaU0tNjQ0ZGNV?oc=5",
+          "time": "2026-09-11 20:55:20",
+          "publisher": "Google News→台灣新聞雲",
+          "severity": null
+        },
+        {
+          "title": "屏東2女將無緣世錦賽！運動部將依法撤免秘書長 教練：盼完善選手權益保障",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxbGU0SjBEMmRiWTg0QzFlV0J3eFF6M3l2X3hRby1Xdjh4UWN1U3drSE5YblN1eXN6d3Qwa2U4eVJkaTU1TDExcFV6TmFVdw?oc=5",
+          "time": "2026-09-11 20:55:00",
+          "publisher": "Google News→news.tw789.net",
+          "severity": "red"
+        },
+        {
+          "title": "前屏東縣議員、潮州鎮長王志豐今晨驟逝 享壽64歲",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12MzNiaXNnaXZ2cTM0SXp2UW1qd0hrbk1VWXVxUTRXUGVmX1JaaGdZUUVTTms2SFAtM3MtZktKTlJONjc5N0oya096RS1WN1hZdXVQMjg4dw?oc=5",
+          "time": "2026-09-11 20:10:00",
+          "publisher": "東森新聞",
+          "severity": null
+        },
+        {
+          "title": "已打烊3小時還不走！ 屏東2奧客不滿打烊被趕　竟猛揍老闆",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-09-11/2464409.html",
+          "time": "2026-09-11 19:59:17",
+          "publisher": "壹電視",
+          "severity": "yellow"
+        },
+        {
+          "title": "「時光河」展屏東數位青創中心登場 邀民眾玩科技、看創新",
+          "url": "https://www.ctee.com.tw/news/20260911701787-431401",
+          "time": "2026-09-11 19:59:14",
+          "publisher": "工商時報",
+          "severity": null
+        },
+        {
+          "title": "屏東市店家遭客人毆打一案，屏東分局查處",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBd3gxd183QlNIUVB5bTdlN1NuYXF6UlFsR1RxYi1VVDl2eHczT3N1N3pVcDIzeG5pOFdPZC1ZbHRuMzAxTmZfODdjWE5id2FqQkZIT3F3?oc=5",
+          "time": "2026-09-11 19:36:43",
+          "publisher": "Google News→藍雀新傳媒",
+          "severity": "yellow"
+        },
+        {
+          "title": "屏東九如國小運動場重鋪跑道 孩子們歡呼：有新操場了",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5570982",
+          "time": "2026-09-11 19:35:26",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "「時光河」展屏東數位青創中心登場邀民眾玩科技、看創新- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FNTVpWEhiNnFucmFhS3lkWTAwUTZUM3gwc0h1UXVlUlU4QlMtdGQ5VEpZN0huSEd4cWpzS2tYZjRFRGhsT0EwTGt4OUdBR0Q0dGxUUjZhc3U3OWNjRGQw?oc=5",
+          "time": "2026-09-11 19:20:00",
+          "publisher": "Google News→工商時報",
+          "severity": null
+        },
+        {
+          "title": "國旅補助正式上線 「屏東旅遊購GO節」加碼好康",
+          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOYXJ2dFNYM09YTF9EQmkyc195am9yVEgtaEdFcENjS0p5UUZYSWx2V2dER25WTWNaNjVZWm1TTGxiXzFWaXptOEpsenlpS2xfLXRJZjBxaTJxZGFZT1MwaTRzUnZPNkNab0Q2OTBfbDVFOFJDRjhvN2FrMHdKUHFWT2RPYkFnc0d1enFkTTBuMVJ1bmVidU95VFBxWlhLaDJZU3JHVzVQUE9JczQtU3FVSW9FYTRLYVV1UG1hM1JOekNtblA4RFRmZ3NKZ3QwejhJV08xMHlyc3FEai1DemhyY3B0TWE5TjR0RTlXQU05QXZ3eE5qMF94c21YVUFaNE5HOUVZdkdSMUxNV1c4eUtoUU43UzdDMDZ3U0s4NTdfN3lGWjlxM3BjZUEyTWVveHdXZDhkcVY1ZERnejFLZDlkb25KbXl0eEtFX3d3b3V4Nzc3VmExcGtTNEc4THU?oc=5",
+          "time": "2026-09-11 18:34:45",
+          "publisher": "Google News→新唐人亞太電視台",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "花蓮地方動態",
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 64,
+      "news_count": 61,
       "comment_count": 0,
-      "negativity_pct": 9,
+      "negativity_pct": 10,
       "is_urgent": false,
-      "urgency_score": 82,
+      "urgency_score": 79,
       "news_articles": [
         {
           "title": "守護東光國中二十載 「校園英雄」鮑伯伯入住花蓮榮家 | 青年日報",
@@ -6669,27 +6627,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LTzFtcjVDLVRGLXNBT3NEbk9qR2dUTGxxZ080NzhYdHAtc2NnOUJwbDktOXBkdGsxQS00ZlZMSllWb3hsWWFycmJ4Yzl0a25KSlJIb253?oc=5",
           "time": "2026-09-11 18:37:07",
           "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "一顆文旦多種風味！花蓮縣政府打造特色文旦禮盒",
-          "url": "https://tw.news.yahoo.com/%E9%A1%86%E6%96%87%E6%97%A6%E5%A4%9A%E7%A8%AE%E9%A2%A8%E5%91%B3-%E8%8A%B1%E8%93%AE%E7%B8%A3%E6%94%BF%E5%BA%9C%E6%89%93%E9%80%A0%E7%89%B9%E8%89%B2%E6%96%87%E6%97%A6%E7%A6%AE%E7%9B%92-102809459.html",
-          "time": "2026-09-11 18:28:09",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "一顆文旦多種風味！花蓮縣政府打造特色文旦禮盒",
-          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNU2ZVa2RhWUpsdXZsd2lPREtjYkE4eFpDRS1XNlVGLU5LOHBUbnRBVVp2d1RPX3hVRXF4Wkl4cG41NlNYWG55Y2dlVXFhUU1udTA3dlNTNnE0bjI5S3d0M0tpdi1ob19CNmtCVi1GTEJTZ0pLTXJNYUZ5TmJjVUF4YUNxdU5FMVVjQmlRaWstVjZOb3VqWnFPbVEwd2xFbTV6aG1IT2pwVEdTMGNDWV9TTnVNUjlIcFN3MUc1eV9Nb3R5OXd4aTFvLURQRlZtMllnWU5hbnhlUUY1NkZCM1pCVFVSV3l1NFFOQjJzRG1EWERGWVNCMERIbmQtUTNrbzU5amhQX0p3NkxZRVZlV2lVMGFteHpNMmJIRmM5TlFydHZuOVhxNFRyODlVSUU1aEN4RXAtaUlzUWJkU01raGdKNVREalY?oc=5",
-          "time": "2026-09-11 18:28:09",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "守護長者黃金救援!花蓮榮家醫護與照服員全員特訓急救術",
-          "url": "https://tw.news.yahoo.com/%E5%AE%88%E8%AD%B7%E9%95%B7%E8%80%85%E9%BB%83%E9%87%91%E6%95%91%E6%8F%B4-%E8%8A%B1%E8%93%AE%E6%A6%AE%E5%AE%B6%E9%86%AB%E8%AD%B7%E8%88%87%E7%85%A7%E6%9C%8D%E5%93%A1%E5%85%A8%E5%93%A1%E7%89%B9%E8%A8%93%E6%80%A5%E6%95%91%E8%A1%93-102720284.html",
-          "time": "2026-09-11 18:27:20",
-          "publisher": "Yahoo新聞",
           "severity": null
         }
       ],
@@ -7246,11 +7183,11 @@
       "city": "高雄",
       "place": "高雄市前鎮區",
       "level": "red",
-      "news_count": 101,
+      "news_count": 97,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 101,
+      "urgency_score": 97,
       "news_articles": [
         {
           "title": "澎湖縣長候選人吳淑瑾競選總部成立 民進黨陳其邁等重量級貴賓跨海相挺",
@@ -7930,34 +7867,6 @@
           "time": "2026-09-11 18:41:39",
           "publisher": "新頭殼",
           "severity": null
-        },
-        {
-          "title": "簽署特公盟承諾書 賴瑞隆推10分鐘遊戲圈、涼感公園打造兒少友善高雄",
-          "url": "https://tw.news.yahoo.com/%E7%B0%BD%E7%BD%B2%E7%89%B9%E5%85%AC%E7%9B%9F%E6%89%BF%E8%AB%BE%E6%9B%B8-%E8%B3%B4%E7%91%9E%E9%9A%86%E6%8E%A810%E5%88%86%E9%90%98%E9%81%8A%E6%88%B2%E5%9C%88-%E6%B6%BC%E6%84%9F%E5%85%AC%E5%9C%92%E6%89%93%E9%80%A0%E5%85%92%E5%B0%91%E5%8F%8B%E5%96%84%E9%AB%98%E9%9B%84-103018538.html",
-          "time": "2026-09-11 18:30:18",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "涉販毒、開毒趴！高雄「越南街」暗藏越式KTV 警攻堅逮35移工",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5570936",
-          "time": "2026-09-11 18:27:33",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "因應高雄超高齡社會 柯志恩提三大敬老政策",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5570937",
-          "time": "2026-09-11 18:26:46",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "把握選前質詢機會 高市議員湯詠瑜財經部門提五建言",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5570929",
-          "time": "2026-09-11 18:24:34",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []
@@ -7967,11 +7876,11 @@
       "city": "台中",
       "place": "台中市清水區",
       "level": "red",
-      "news_count": 106,
+      "news_count": 104,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 115,
+      "urgency_score": 113,
       "news_articles": [
         {
           "title": "放鳥台中盛事！盧秀燕臨時取消踩舞嘉年華行 被質疑新北輔選優先",
@@ -8700,20 +8609,6 @@
           "time": "2026-09-11 18:33:32",
           "publisher": "臺灣導報",
           "severity": null
-        },
-        {
-          "title": "全台首家LV珠寶腕錶專門店 9/18進駐台中大遠百",
-          "url": "https://news.nextapple.com/lifestyle/20260911/D4355C8442FFFEF855BF9AA43C59F98A",
-          "time": "2026-09-11 18:31:07",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "[Gossiping] [新聞] 台中校園霸凌！國中生遭10人IG圍剿　手",
-          "url": "https://www.ptt.cc/bbs/Gossiping/M.1789122281.A.82E.html",
-          "time": "2026-09-11 18:24:41",
-          "publisher": null,
-          "severity": null
         }
       ],
       "comments": []
@@ -8723,11 +8618,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 125,
+      "news_count": 120,
       "comment_count": 0,
-      "negativity_pct": 6,
+      "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 149,
+      "urgency_score": 138,
       "news_articles": [
         {
           "title": "下周東北季風發威！桃園以北、宜蘭雨猛灌 氣象署：下周四轉晴 | 天氣預報 | 生活",
@@ -9568,41 +9463,6 @@
           "time": "2026-09-11 18:44:39",
           "publisher": "Google News→台灣好新聞",
           "severity": null
-        },
-        {
-          "title": "清大桃園醫院爭議延燒！綠嗆換市長就能蓋、藍批三寶議員洗地翻車",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yOUs5emxlZDAxLWJoelYySWhoLWVRUnlKRVFkMExtazVfSUJ0VWJaYXlLUWZ4Q2wwbVIzbGZFLU93VENuai1XMmtYVF9hZzVFNE1B0gFYQVVfeXFMTk5ZLU81M0dHbUYtblR1MVFZZVdVQzBOLWMtdzFNYklZdW5hZDkxZzhxMmEtdGRTejlLU1d1VFUwVUNtY2ZkQVhqMFBQUzR0cnZhZ3FfX3JuLQ?oc=5",
-          "time": "2026-09-11 18:31:25",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "清大桃園醫院爭議延燒…綠嗆換市長就能蓋藍批三寶議員洗地翻車| 2026九合一選舉",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OaWZTeFJyREVZZ1RDelBKSnBSYWpyNUZ2ZG5fRzB1c0xxdjU0SU9wNXZSNmduS1J6Y1AwUGhMSHRkZldTV3NsdG12T0dhUktqQTlNOFJROHM?oc=5",
-          "time": "2026-09-11 18:31:25",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "張老師「1980愛的迴響」巡迴展桃園登場 建築業攜手打造防護網",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YeVFuVW5jdi1wU1RSZmdCVzJ4ZEJ1cDJPby1RVzRtLXF0Ym9xUDIxaXJEVVAtLURsOFBacE1Sa01sRVdHQ3BWazdrVnZSa3ZfOHNPeFRNUW1maENEMkHSAUtBVV95cUxOYU0wcHFVejY5UkQ5WnFCc3IwSklSam1qRWtiTHlrZUhBNTJiNWhBUTZHdmF3RTlpV3VabkpGaVM2X1htV3RtRXRQbkU?oc=5",
-          "time": "2026-09-11 18:29:00",
-          "publisher": "ETtoday",
-          "severity": null
-        },
-        {
-          "title": "桃園體育局反駁黃世杰批制度停滯 強調持續擴充選手培訓資源",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5570945",
-          "time": "2026-09-11 18:25:48",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園體育局反駁黃世杰批制度停滯 強調持續擴充選手培訓資源",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xZXh3ODNRcmZveHFxVHYwWGxkV3FvQWIwdHp5UUpYRm9DTW1rUW9XTEFTaTd6dThGY3VWNTJIb2JyQmtlNVVXXzZ0Zm9zWU1FQXQxekNDSUN5Nlo1ZHV3dWdUSS0xTzJ3NGfSAW9BVV95cUxOanI5U1EwOENqWjB5cjZjV1pkNFdmZEpQczJnS0cxdU5CSTl4TUlKU2tyUUJXTENYVEJJeHh5a1EtZ09mMVowV1hEWkJHYXFBTzVUQ2xEdE45WWd5NjhkX0NJV05uT2xnYzBqeElMNDg?oc=5",
-          "time": "2026-09-11 18:25:48",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []

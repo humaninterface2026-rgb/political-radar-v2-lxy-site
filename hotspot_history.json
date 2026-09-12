@@ -96071,8 +96071,22 @@
     },
     {
       "date": "2026-09-12",
-      "snapshot_at": "2026-09-12T10:24:35.006222+00:00",
+      "snapshot_at": "2026-09-12T10:33:33.305969+00:00",
       "hotspots": [
+        {
+          "title": "彰化狼師事件",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "交友軟體約女網友 彰化惡狼性侵2次還騙錢！下場慘了"
+          ]
+        },
         {
           "title": "南投狼師事件",
           "city": "南投",
@@ -96099,20 +96113,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "台東女KTV遭拖進廁所性侵 惡狼狡辯遭DNA鑑定打臉"
-          ]
-        },
-        {
-          "title": "彰化狼師事件",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "交友軟體約女網友 彰化惡狼性侵2次還騙錢！下場慘了"
           ]
         },
         {
@@ -96172,20 +96172,6 @@
           ]
         },
         {
-          "title": "高雄詐騙案",
-          "city": "高雄",
-          "place": "高雄市鳳山區",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "鳳山戶政前進龍成宮設攤 宣導戶政業務並提醒民眾慎防詐騙電話"
-          ]
-        },
-        {
           "title": "桃園詐騙案",
           "city": "桃園",
           "place": "桃園市政府",
@@ -96197,6 +96183,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "桃園警深入社區解析常見詐騙陷阱 教民眾守住血汗錢"
+          ]
+        },
+        {
+          "title": "高雄詐騙案",
+          "city": "高雄",
+          "place": "高雄市鳳山區",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "鳳山戶政前進龍成宮設攤 宣導戶政業務並提醒民眾慎防詐騙電話"
           ]
         },
         {
@@ -96293,11 +96293,11 @@
           "city": "連江",
           "place": "連江縣（馬祖）",
           "level": "green",
-          "news_count": 17,
+          "news_count": 16,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 17,
+          "urgency_score": 16,
           "sample_titles": [
             "東北風發威！8級強風狠颳桃園、連江 威力直逼輕颱",
             "185人搶50席！馬祖導覽新血南竿練功拚深度旅遊 | 楊艾喬 | 地方新聞",
@@ -96333,20 +96333,6 @@
           ]
         },
         {
-          "title": "苗栗弊案爭議",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "持獵槍恫嚇竟真開槍！子彈射穿女友身後窗戶 苗栗男判刑5年半"
-          ]
-        },
-        {
           "title": "澎湖弊案爭議",
           "city": "澎湖",
           "place": "澎湖縣政府",
@@ -96358,6 +96344,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "潛陸通緝犯偷渡回台！澎湖漁船「接力載人上岸」遭判刑"
+          ]
+        },
+        {
+          "title": "苗栗弊案爭議",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "持獵槍恫嚇竟真開槍！子彈射穿女友身後窗戶 苗栗男判刑5年半"
           ]
         },
         {
@@ -96516,11 +96516,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "yellow",
-          "news_count": 64,
+          "news_count": 63,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 76,
+          "urgency_score": 75,
           "sample_titles": [
             "下周東北季風發威！桃園以北、宜蘭雨猛灌 氣象署：下周四轉晴 | 天氣預報 | 生活",
             "美國學人走進宜蘭家庭～16名ETA展開一年臺美文化交流",
@@ -96628,11 +96628,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 38,
+          "news_count": 37,
           "comment_count": 0,
           "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 50,
+          "urgency_score": 49,
           "sample_titles": [
             "鍘美藝術節＋國旅補助 台南旅遊淡季住宿率暴增5成",
             "陳亭妃台南競總登場！融入「這數字」全力投入選戰",
@@ -96660,31 +96660,15 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 52,
+          "news_count": 49,
           "comment_count": 0,
-          "negativity_pct": 15,
+          "negativity_pct": 16,
           "is_urgent": false,
-          "urgency_score": 76,
+          "urgency_score": 73,
           "sample_titles": [
             "150元爽吃16種配料！ 苗栗公館美食「盆友大爆冰」消防署冷熱飲城 3～6人分享臉盆冰超划算",
             "苗栗大矽谷一日遊綠色後花園！西湖湖東休區成 CSR 共好新示範 台積電等12家竹科企業朝聖",
             "苗栗縣一一五年度體育會縣長盃角力錦標賽開幕 邱副縣長為選手加油打氣"
-          ]
-        },
-        {
-          "title": "屏東地方動態",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "red",
-          "news_count": 58,
-          "comment_count": 0,
-          "negativity_pct": 2,
-          "is_urgent": false,
-          "urgency_score": 61,
-          "sample_titles": [
-            "快訊》屏東東港鎮海公園傳意外！現場救出1人、目前持續搜救中",
-            "屏東樂智嘉年華登場",
-            "影／挑戰75年藍營版圖屏東3任縣長同台力拱梁育慈攻市長| 高屏離島| 地方"
           ]
         },
         {
@@ -96704,15 +96688,31 @@
           ]
         },
         {
+          "title": "屏東地方動態",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "red",
+          "news_count": 58,
+          "comment_count": 0,
+          "negativity_pct": 2,
+          "is_urgent": false,
+          "urgency_score": 61,
+          "sample_titles": [
+            "快訊》屏東東港鎮海公園傳意外！現場救出1人、目前持續搜救中",
+            "屏東樂智嘉年華登場",
+            "影／挑戰75年藍營版圖屏東3任縣長同台力拱梁育慈攻市長| 高屏離島| 地方"
+          ]
+        },
+        {
           "title": "花蓮地方動態",
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 64,
+          "news_count": 61,
           "comment_count": 0,
-          "negativity_pct": 9,
+          "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 82,
+          "urgency_score": 79,
           "sample_titles": [
             "守護東光國中二十載 「校園英雄」鮑伯伯入住花蓮榮家 | 青年日報",
             "蘇花安2032年通車，花蓮準備好了嗎？ 張峻：中央地方應攜手整合花東快與大花蓮交通路網",
@@ -96740,11 +96740,11 @@
           "city": "高雄",
           "place": "高雄市前鎮區",
           "level": "red",
-          "news_count": 101,
+          "news_count": 97,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 101,
+          "urgency_score": 97,
           "sample_titles": [
             "澎湖縣長候選人吳淑瑾競選總部成立 民進黨陳其邁等重量級貴賓跨海相挺",
             "澎湖縣長候選人吳淑瑾競選總部成立 民進黨陳其邁等重量級貴賓跨海相挺",
@@ -96756,11 +96756,11 @@
           "city": "台中",
           "place": "台中市清水區",
           "level": "red",
-          "news_count": 106,
+          "news_count": 104,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 115,
+          "urgency_score": 113,
           "sample_titles": [
             "放鳥台中盛事！盧秀燕臨時取消踩舞嘉年華行 被質疑新北輔選優先",
             "放鳥台中盛事！盧秀燕臨時取消踩舞嘉年華行 被質疑新北輔選優先",
@@ -96772,11 +96772,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 125,
+          "news_count": 120,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 149,
+          "urgency_score": 138,
           "sample_titles": [
             "下周東北季風發威！桃園以北、宜蘭雨猛灌 氣象署：下周四轉晴 | 天氣預報 | 生活",
             "東北風發威！8級強風狠颳桃園、連江 威力直逼輕颱",
