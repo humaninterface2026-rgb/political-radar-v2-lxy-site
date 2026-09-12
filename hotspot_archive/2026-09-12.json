@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "snapshot_at": "2026-09-12T01:30:29.498651+00:00",
+  "snapshot_at": "2026-09-12T01:38:22.735751+00:00",
   "hotspots": [
     {
       "title": "台東狼師事件",
@@ -66,27 +66,6 @@
       "comments": []
     },
     {
-      "title": "台北陳情/抗議",
-      "city": "台北",
-      "place": "台北市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "詐領助理費案還有後續?高金辦公室前主任張俊傑竟捲共諜案? 14年前新北市景觀整建爭議 議員爆李四川嗆陳情人\"隨便你們\"?｜李正皓 主持｜【新台派上線 完整版】20260911｜三立新聞台",
-          "url": "https://www.youtube.com/watch?v=Olj53ptkvB4",
-          "time": "2026-09-11 23:19:13",
-          "publisher": null,
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "雲林陳情/抗議",
       "city": "雲林",
       "place": "雲林縣政府",
@@ -102,6 +81,27 @@
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5570458",
           "time": "2026-09-11 12:41:16",
           "publisher": "自由時報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台北陳情/抗議",
+      "city": "台北",
+      "place": "台北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "詐領助理費案還有後續?高金辦公室前主任張俊傑竟捲共諜案? 14年前新北市景觀整建爭議 議員爆李四川嗆陳情人\"隨便你們\"?｜李正皓 主持｜【新台派上線 完整版】20260911｜三立新聞台",
+          "url": "https://www.youtube.com/watch?v=Olj53ptkvB4",
+          "time": "2026-09-11 23:19:13",
+          "publisher": null,
           "severity": "yellow"
         }
       ],
@@ -708,27 +708,6 @@
       "comments": []
     },
     {
-      "title": "高雄弊案爭議",
-      "city": "高雄",
-      "place": "高雄市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "涉賄選遭判刑潛逃中國！前高雄市議長朱安雄病逝享壽82歲",
-          "url": "https://www.taisounds.com/news/content/71/288052",
-          "time": "2026-09-11 09:34:47",
-          "publisher": "太報",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "桃園弊案爭議",
       "city": "桃園",
       "place": "桃園市政府",
@@ -981,181 +960,6 @@
       "comments": []
     },
     {
-      "title": "南投地方動態",
-      "city": "南投",
-      "place": "南投縣政府",
-      "level": "yellow",
-      "news_count": 23,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 23,
-      "news_articles": [
-        {
-          "title": "南投縣府辦理風險評估訓練暨職場霸凌防治宣導",
-          "url": "https://n.yam.com/Article/20260912281086",
-          "time": "2026-09-12 08:10:03",
-          "publisher": "蕃新聞→News586",
-          "severity": null
-        },
-        {
-          "title": "南投打造安全友善職場 辦理職場霸凌防治宣導",
-          "url": "https://tw.news.yahoo.com/%E5%8D%97%E6%8A%95%E6%89%93%E9%80%A0%E5%AE%89%E5%85%A8%E5%8F%8B%E5%96%84%E8%81%B7%E5%A0%B4-%E8%BE%A6%E7%90%86%E8%81%B7%E5%A0%B4%E9%9C%B8%E5%87%8C%E9%98%B2%E6%B2%BB%E5%AE%A3%E5%B0%8E-000421626.html",
-          "time": "2026-09-12 08:04:21",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "南投清境農場攜手韓國仁川 中秋節打造高山韓劇場景",
-          "url": "https://tw.news.yahoo.com/%E5%8D%97%E6%8A%95%E6%B8%85%E5%A2%83%E8%BE%B2%E5%A0%B4%E6%94%9C%E6%89%8B%E9%9F%93%E5%9C%8B%E4%BB%81%E5%B7%9D-%E4%B8%AD%E7%A7%8B%E7%AF%80%E6%89%93%E9%80%A0%E9%AB%98%E5%B1%B1%E9%9F%93%E5%8A%87%E5%A0%B4%E6%99%AF-235227207.html",
-          "time": "2026-09-12 07:52:27",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "南投醫院中秋聯歡晚會 許淑華感謝醫護辛勞守護縣民健康",
-          "url": "https://tw.news.yahoo.com/%E5%8D%97%E6%8A%95%E9%86%AB%E9%99%A2%E4%B8%AD%E7%A7%8B%E8%81%AF%E6%AD%A1%E6%99%9A%E6%9C%83-%E8%A8%B1%E6%B7%91%E8%8F%AF%E6%84%9F%E8%AC%9D%E9%86%AB%E8%AD%B7%E8%BE%9B%E5%8B%9E%E5%AE%88%E8%AD%B7%E7%B8%A3%E6%B0%91%E5%81%A5%E5%BA%B7-230456149.html",
-          "time": "2026-09-12 07:04:56",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "南投勇消殉職 議會催生水域救援專責隊",
-          "url": "https://tw.news.yahoo.com/%E5%8D%97%E6%8A%95%E5%8B%87%E6%B6%88%E6%AE%89%E8%81%B7-%E8%AD%B0%E6%9C%83%E5%82%AC%E7%94%9F%E6%B0%B4%E5%9F%9F%E6%95%91%E6%8F%B4%E5%B0%88%E8%B2%AC%E9%9A%8A-213000659.html",
-          "time": "2026-09-12 05:30:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "機器人進駐南投校園！「AI凱比」真本事曝光",
-          "url": "https://news.ltn.com.tw/news/Nantou/breakingnews/5571036",
-          "time": "2026-09-11 21:09:48",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "宜居南投‧智慧校園 臺北市青溪總會率各界熱心人士捐贈AI凱比機器人 助力南投縣 AI 科技教育向下扎根",
-          "url": "https://more-news.tw/717476/",
-          "time": "2026-09-11 18:00:52",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "(影)名間焚化爐疑復工！南投縣府才承諾停工就被抓包 地下水狂噴畫面曝光",
-          "url": "https://newtalk.tw/news/view/2026-09-11/1059113",
-          "time": "2026-09-11 17:46:14",
-          "publisher": "新頭殼",
-          "severity": "yellow"
-        },
-        {
-          "title": "把愛化作種子陪孩子看見更大的世界 南投高商張佳蕙獲杏壇芬芳獎",
-          "url": "https://more-news.tw/717457/",
-          "time": "2026-09-11 17:38:23",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "「2026南投‧國姓搶成功」系列活動 即日起開放報名！",
-          "url": "https://more-news.tw/717425/",
-          "time": "2026-09-11 17:12:33",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "世界急救日×急救無國界 南投縣衛生局培力外籍照護員守護第一線",
-          "url": "https://more-news.tw/717380/",
-          "time": "2026-09-11 16:47:25",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "2026/09/11 15:52 省荷包注意！南投115年地價稅11月開徵 錯過這天優惠沒了",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5570684",
-          "time": "2026-09-11 16:39:22",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "下一站南投！跨國數位遊牧走進地方 共創成果分享啟動國際人才交流新契機",
-          "url": "https://more-news.tw/717368/",
-          "time": "2026-09-11 16:27:30",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "文化×市集×遊樂一次滿足 南投武德市集第二階段9/12開幕",
-          "url": "https://tw.news.yahoo.com/%E6%96%87%E5%8C%96-%E5%B8%82%E9%9B%86-%E9%81%8A%E6%A8%82-%E6%AC%A1%E6%BB%BF%E8%B6%B3-%E5%8D%97%E6%8A%95%E6%AD%A6%E5%BE%B7%E5%B8%82%E9%9B%86%E7%AC%AC%E4%BA%8C%E9%9A%8E%E6%AE%B59-081552854.html",
-          "time": "2026-09-11 16:15:52",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "從產業需求到人才媒合 南投榮服處打造退除役官兵就業新鏈結",
-          "url": "https://tw.news.yahoo.com/%E5%BE%9E%E7%94%A2%E6%A5%AD%E9%9C%80%E6%B1%82%E5%88%B0%E4%BA%BA%E6%89%8D%E5%AA%92%E5%90%88-%E5%8D%97%E6%8A%95%E6%A6%AE%E6%9C%8D%E8%99%95%E6%89%93%E9%80%A0%E9%80%80%E9%99%A4%E5%BD%B9%E5%AE%98%E5%85%B5%E5%B0%B1%E6%A5%AD%E6%96%B0%E9%8F%88%E7%B5%90-064236521.html",
-          "time": "2026-09-11 14:42:36",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "志願服務不退休 南投移民署志工用心陪伴新住民",
-          "url": "https://tw.news.yahoo.com/%E5%BF%97%E9%A1%98%E6%9C%8D%E5%8B%99%E4%B8%8D%E9%80%80%E4%BC%91-%E5%8D%97%E6%8A%95%E7%A7%BB%E6%B0%91%E7%BD%B2%E5%BF%97%E5%B7%A5%E7%94%A8%E5%BF%83%E9%99%AA%E4%BC%B4%E6%96%B0%E4%BD%8F%E6%B0%91-064154373.html",
-          "time": "2026-09-11 14:41:54",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "下一站南投 跨國數位遊牧共創成果分享",
-          "url": "https://tw.news.yahoo.com/%E4%B8%8B-%E7%AB%99%E5%8D%97%E6%8A%95-%E8%B7%A8%E5%9C%8B%E6%95%B8%E4%BD%8D%E9%81%8A%E7%89%A7%E5%85%B1%E5%89%B5%E6%88%90%E6%9E%9C%E5%88%86%E4%BA%AB-062915017.html",
-          "time": "2026-09-11 14:29:15",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "下一站南投 跨國數位遊牧走進地方啟動國際人才交流新契機",
-          "url": "https://www.storm.mg/article/11163888",
-          "time": "2026-09-11 13:54:00",
-          "publisher": "風傳媒",
-          "severity": null
-        },
-        {
-          "title": "超高齡社會照顧再升級 南投縣府攜手社區據點打造智慧共融社區",
-          "url": "https://tw.news.yahoo.com/%E8%B6%85%E9%AB%98%E9%BD%A1%E7%A4%BE%E6%9C%83%E7%85%A7%E9%A1%A7%E5%86%8D%E5%8D%87%E7%B4%9A-%E5%8D%97%E6%8A%95%E7%B8%A3%E5%BA%9C%E6%94%9C%E6%89%8B%E7%A4%BE%E5%8D%80%E6%93%9A%E9%BB%9E%E6%89%93%E9%80%A0%E6%99%BA%E6%85%A7%E5%85%B1%E8%9E%8D%E7%A4%BE%E5%8D%80-051826775.html",
-          "time": "2026-09-11 13:18:26",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "守護職場安全友善 南投縣府辦理風險評估與霸凌防治訓練宣導",
-          "url": "https://n.yam.com/Article/20260911632694",
-          "time": "2026-09-11 12:00:00",
-          "publisher": "蕃新聞→台灣好報",
-          "severity": null
-        },
-        {
-          "title": "感謝醫護堅守崗位守護健康！許淑華出席南投醫院中秋聯歡晚會",
-          "url": "https://n.yam.com/Article/20260911779971",
-          "time": "2026-09-11 12:00:00",
-          "publisher": "蕃新聞→News586",
-          "severity": null
-        },
-        {
-          "title": "北市校園廚餘暴增掀警訊 許淑華促完善營養午餐品質",
-          "url": "https://www.ctwant.com/article/497487/",
-          "time": "2026-09-11 11:27:34",
-          "publisher": "CTWANT",
-          "severity": "yellow"
-        },
-        {
-          "title": "2026南投劇場藝術季 大開兒童歌舞劇－好久茶的秘密2《夢幻雞排大冒險》 9/19於南投縣政府文化局演藝廳售票入場",
-          "url": "https://more-news.tw/717019/",
-          "time": "2026-09-11 11:06:23",
-          "publisher": "墨新聞",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "雲林地方動態",
       "city": "雲林",
       "place": "雲林縣政府",
@@ -1324,6 +1128,181 @@
           "title": "竹筍入菜、山林鮮味上桌 2人即可用餐 雲林縣政府與劍湖山世界推出「鮮筍饗宴」",
           "url": "https://more-news.tw/717067/",
           "time": "2026-09-11 11:27:42",
+          "publisher": "墨新聞",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "南投地方動態",
+      "city": "南投",
+      "place": "南投縣政府",
+      "level": "yellow",
+      "news_count": 23,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 23,
+      "news_articles": [
+        {
+          "title": "南投縣府辦理風險評估訓練暨職場霸凌防治宣導",
+          "url": "https://n.yam.com/Article/20260912281086",
+          "time": "2026-09-12 08:10:03",
+          "publisher": "蕃新聞→News586",
+          "severity": null
+        },
+        {
+          "title": "南投打造安全友善職場 辦理職場霸凌防治宣導",
+          "url": "https://tw.news.yahoo.com/%E5%8D%97%E6%8A%95%E6%89%93%E9%80%A0%E5%AE%89%E5%85%A8%E5%8F%8B%E5%96%84%E8%81%B7%E5%A0%B4-%E8%BE%A6%E7%90%86%E8%81%B7%E5%A0%B4%E9%9C%B8%E5%87%8C%E9%98%B2%E6%B2%BB%E5%AE%A3%E5%B0%8E-000421626.html",
+          "time": "2026-09-12 08:04:21",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "南投清境農場攜手韓國仁川 中秋節打造高山韓劇場景",
+          "url": "https://tw.news.yahoo.com/%E5%8D%97%E6%8A%95%E6%B8%85%E5%A2%83%E8%BE%B2%E5%A0%B4%E6%94%9C%E6%89%8B%E9%9F%93%E5%9C%8B%E4%BB%81%E5%B7%9D-%E4%B8%AD%E7%A7%8B%E7%AF%80%E6%89%93%E9%80%A0%E9%AB%98%E5%B1%B1%E9%9F%93%E5%8A%87%E5%A0%B4%E6%99%AF-235227207.html",
+          "time": "2026-09-12 07:52:27",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "南投醫院中秋聯歡晚會 許淑華感謝醫護辛勞守護縣民健康",
+          "url": "https://tw.news.yahoo.com/%E5%8D%97%E6%8A%95%E9%86%AB%E9%99%A2%E4%B8%AD%E7%A7%8B%E8%81%AF%E6%AD%A1%E6%99%9A%E6%9C%83-%E8%A8%B1%E6%B7%91%E8%8F%AF%E6%84%9F%E8%AC%9D%E9%86%AB%E8%AD%B7%E8%BE%9B%E5%8B%9E%E5%AE%88%E8%AD%B7%E7%B8%A3%E6%B0%91%E5%81%A5%E5%BA%B7-230456149.html",
+          "time": "2026-09-12 07:04:56",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "南投勇消殉職 議會催生水域救援專責隊",
+          "url": "https://tw.news.yahoo.com/%E5%8D%97%E6%8A%95%E5%8B%87%E6%B6%88%E6%AE%89%E8%81%B7-%E8%AD%B0%E6%9C%83%E5%82%AC%E7%94%9F%E6%B0%B4%E5%9F%9F%E6%95%91%E6%8F%B4%E5%B0%88%E8%B2%AC%E9%9A%8A-213000659.html",
+          "time": "2026-09-12 05:30:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "機器人進駐南投校園！「AI凱比」真本事曝光",
+          "url": "https://news.ltn.com.tw/news/Nantou/breakingnews/5571036",
+          "time": "2026-09-11 21:09:48",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "宜居南投‧智慧校園 臺北市青溪總會率各界熱心人士捐贈AI凱比機器人 助力南投縣 AI 科技教育向下扎根",
+          "url": "https://more-news.tw/717476/",
+          "time": "2026-09-11 18:00:52",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "(影)名間焚化爐疑復工！南投縣府才承諾停工就被抓包 地下水狂噴畫面曝光",
+          "url": "https://newtalk.tw/news/view/2026-09-11/1059113",
+          "time": "2026-09-11 17:46:14",
+          "publisher": "新頭殼",
+          "severity": "yellow"
+        },
+        {
+          "title": "把愛化作種子陪孩子看見更大的世界 南投高商張佳蕙獲杏壇芬芳獎",
+          "url": "https://more-news.tw/717457/",
+          "time": "2026-09-11 17:38:23",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "「2026南投‧國姓搶成功」系列活動 即日起開放報名！",
+          "url": "https://more-news.tw/717425/",
+          "time": "2026-09-11 17:12:33",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "世界急救日×急救無國界 南投縣衛生局培力外籍照護員守護第一線",
+          "url": "https://more-news.tw/717380/",
+          "time": "2026-09-11 16:47:25",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "2026/09/11 15:52 省荷包注意！南投115年地價稅11月開徵 錯過這天優惠沒了",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5570684",
+          "time": "2026-09-11 16:39:22",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "下一站南投！跨國數位遊牧走進地方 共創成果分享啟動國際人才交流新契機",
+          "url": "https://more-news.tw/717368/",
+          "time": "2026-09-11 16:27:30",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "文化×市集×遊樂一次滿足 南投武德市集第二階段9/12開幕",
+          "url": "https://tw.news.yahoo.com/%E6%96%87%E5%8C%96-%E5%B8%82%E9%9B%86-%E9%81%8A%E6%A8%82-%E6%AC%A1%E6%BB%BF%E8%B6%B3-%E5%8D%97%E6%8A%95%E6%AD%A6%E5%BE%B7%E5%B8%82%E9%9B%86%E7%AC%AC%E4%BA%8C%E9%9A%8E%E6%AE%B59-081552854.html",
+          "time": "2026-09-11 16:15:52",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "從產業需求到人才媒合 南投榮服處打造退除役官兵就業新鏈結",
+          "url": "https://tw.news.yahoo.com/%E5%BE%9E%E7%94%A2%E6%A5%AD%E9%9C%80%E6%B1%82%E5%88%B0%E4%BA%BA%E6%89%8D%E5%AA%92%E5%90%88-%E5%8D%97%E6%8A%95%E6%A6%AE%E6%9C%8D%E8%99%95%E6%89%93%E9%80%A0%E9%80%80%E9%99%A4%E5%BD%B9%E5%AE%98%E5%85%B5%E5%B0%B1%E6%A5%AD%E6%96%B0%E9%8F%88%E7%B5%90-064236521.html",
+          "time": "2026-09-11 14:42:36",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "志願服務不退休 南投移民署志工用心陪伴新住民",
+          "url": "https://tw.news.yahoo.com/%E5%BF%97%E9%A1%98%E6%9C%8D%E5%8B%99%E4%B8%8D%E9%80%80%E4%BC%91-%E5%8D%97%E6%8A%95%E7%A7%BB%E6%B0%91%E7%BD%B2%E5%BF%97%E5%B7%A5%E7%94%A8%E5%BF%83%E9%99%AA%E4%BC%B4%E6%96%B0%E4%BD%8F%E6%B0%91-064154373.html",
+          "time": "2026-09-11 14:41:54",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "下一站南投 跨國數位遊牧共創成果分享",
+          "url": "https://tw.news.yahoo.com/%E4%B8%8B-%E7%AB%99%E5%8D%97%E6%8A%95-%E8%B7%A8%E5%9C%8B%E6%95%B8%E4%BD%8D%E9%81%8A%E7%89%A7%E5%85%B1%E5%89%B5%E6%88%90%E6%9E%9C%E5%88%86%E4%BA%AB-062915017.html",
+          "time": "2026-09-11 14:29:15",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "下一站南投 跨國數位遊牧走進地方啟動國際人才交流新契機",
+          "url": "https://www.storm.mg/article/11163888",
+          "time": "2026-09-11 13:54:00",
+          "publisher": "風傳媒",
+          "severity": null
+        },
+        {
+          "title": "超高齡社會照顧再升級 南投縣府攜手社區據點打造智慧共融社區",
+          "url": "https://tw.news.yahoo.com/%E8%B6%85%E9%AB%98%E9%BD%A1%E7%A4%BE%E6%9C%83%E7%85%A7%E9%A1%A7%E5%86%8D%E5%8D%87%E7%B4%9A-%E5%8D%97%E6%8A%95%E7%B8%A3%E5%BA%9C%E6%94%9C%E6%89%8B%E7%A4%BE%E5%8D%80%E6%93%9A%E9%BB%9E%E6%89%93%E9%80%A0%E6%99%BA%E6%85%A7%E5%85%B1%E8%9E%8D%E7%A4%BE%E5%8D%80-051826775.html",
+          "time": "2026-09-11 13:18:26",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "守護職場安全友善 南投縣府辦理風險評估與霸凌防治訓練宣導",
+          "url": "https://n.yam.com/Article/20260911632694",
+          "time": "2026-09-11 12:00:00",
+          "publisher": "蕃新聞→台灣好報",
+          "severity": null
+        },
+        {
+          "title": "感謝醫護堅守崗位守護健康！許淑華出席南投醫院中秋聯歡晚會",
+          "url": "https://n.yam.com/Article/20260911779971",
+          "time": "2026-09-11 12:00:00",
+          "publisher": "蕃新聞→News586",
+          "severity": null
+        },
+        {
+          "title": "北市校園廚餘暴增掀警訊 許淑華促完善營養午餐品質",
+          "url": "https://www.ctwant.com/article/497487/",
+          "time": "2026-09-11 11:27:34",
+          "publisher": "CTWANT",
+          "severity": "yellow"
+        },
+        {
+          "title": "2026南投劇場藝術季 大開兒童歌舞劇－好久茶的秘密2《夢幻雞排大冒險》 9/19於南投縣政府文化局演藝廳售票入場",
+          "url": "https://more-news.tw/717019/",
+          "time": "2026-09-11 11:06:23",
           "publisher": "墨新聞",
           "severity": null
         }
@@ -3921,11 +3900,11 @@
       "city": "新竹市",
       "place": "新竹市政府",
       "level": "red",
-      "news_count": 33,
+      "news_count": 32,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 36,
+      "urgency_score": 35,
       "news_articles": [
         {
           "title": "竹市「2026反賄之鏡」全國影片競賽成果出爐！高虹安市長：宣導查緝雙管齊下守護選票自主",
@@ -4150,13 +4129,6 @@
           "time": "2026-09-11 10:01:12",
           "publisher": "Yahoo新聞",
           "severity": "red"
-        },
-        {
-          "title": "竹市115年節電宣導第15場落幕 高虹安：節電從生活做起、永續從新竹出發",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YWmNvSG9FUzlvbmZlVDIwZ3V1aHdKWkV0MTdYbzREcjJpMGJlZUUzZWdUMm51cm1UaWtxNnBxM19PXzBGd1pZdlE3Y1AwWFRyOTg4bE1n?oc=5",
-          "time": "2026-09-11 09:32:39",
-          "publisher": "中央社",
-          "severity": null
         }
       ],
       "comments": []
@@ -6574,11 +6546,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 81,
+      "news_count": 80,
       "comment_count": 0,
-      "negativity_pct": 23,
+      "negativity_pct": 24,
       "is_urgent": false,
-      "urgency_score": 138,
+      "urgency_score": 137,
       "news_articles": [
         {
           "title": "民進黨新北市長參選人蘇巧慧今天社群發布最新影片，日前她與副總統蕭美琴到金山與金山農會、多個地方創生青年團隊，面對面暢聊對金山與新北觀光產業的未來願景。蘇巧慧提出「新皇冠計畫」觀光政見，將串連從八里、淡水、三芝、石門，到金山、萬里、瑞芳、貢寮等沿海八區的觀光資源，打造新北北海岸獨一無二的觀光品牌。",
@@ -7139,13 +7111,6 @@
           "time": "2026-09-11 10:29:05",
           "publisher": "Yahoo新聞",
           "severity": "red"
-        },
-        {
-          "title": "2026.09.11 09:25 新北夜不平靜！三重好友逛夜市翻臉 五股超商酒醉互毆",
-          "url": "https://www.mnews.tw/story/20260911sot0923001",
-          "time": "2026-09-11 09:34:49",
-          "publisher": "鏡新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -7897,11 +7862,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 110,
+      "news_count": 109,
       "comment_count": 0,
       "negativity_pct": 7,
       "is_urgent": false,
-      "urgency_score": 134,
+      "urgency_score": 133,
       "news_articles": [
         {
           "title": "花蓮馬太鞍溪設通訊站 可即時回傳影像",
@@ -8665,13 +8630,6 @@
           "time": "2026-09-11 09:40:33",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "花蓮不缺美景缺轉譯 馬太鞍讓旅宿重新讀懂地方",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pVkNhU3hjNjc5T1lYTlhXdTYzUlptT0Vld25uRWM0VjBiSE0zWVdia2dudnhIWUlhcVl2Y0FfUVEzQWhRZGRucjBpNG9BTElyQWc?oc=5",
-          "time": "2026-09-11 09:34:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -8681,11 +8639,11 @@
       "city": "台中",
       "place": "台中市沙鹿區",
       "level": "red",
-      "news_count": 145,
+      "news_count": 143,
       "comment_count": 0,
       "negativity_pct": 2,
       "is_urgent": false,
-      "urgency_score": 154,
+      "urgency_score": 152,
       "news_articles": [
         {
           "title": "國民黨立法院副院長、台中市長參選人江啟臣昨晚與市議員李文傑、楊啓邦接連參與北大安、大甲日南「台中升級、幸福加給」聯合問政說明會，民眾黨前立委蔡壁如到大甲場應援。江啟臣提出建設加碼、觀光串聯、產業升級與全齡照顧等主張，強調要讓「海線不是吹海風，是要走路有風」，讓台中29區均衡發展、幸福持續升級。",
@@ -9687,20 +9645,6 @@
           "time": "2026-09-11 09:40:33",
           "publisher": "自由時報",
           "severity": "yellow"
-        },
-        {
-          "title": "台中翁清晨倒臥3公尺深大排 頭部重創留大量血跡",
-          "url": "https://news.ebc.net.tw/news/society/570743",
-          "time": "2026-09-11 09:32:00",
-          "publisher": "東森新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "踩街＋樂儀隊！台中踩舞嘉年華 9/12潭子、后里 9/13北屯、北區登場",
-          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5570193",
-          "time": "2026-09-11 09:31:55",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []
@@ -9710,11 +9654,11 @@
       "city": "高雄",
       "place": "高雄市左營區",
       "level": "red",
-      "news_count": 154,
+      "news_count": 150,
       "comment_count": 0,
-      "negativity_pct": 6,
+      "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 181,
+      "urgency_score": 174,
       "news_articles": [
         {
           "title": "廢棄物別亂倒！高雄104處列管場址嚴密監控 今年再拚19處解列",
@@ -10765,34 +10709,6 @@
           "time": "2026-09-11 09:38:28",
           "publisher": "自由時報",
           "severity": "yellow"
-        },
-        {
-          "title": "高雄民調詭異落差！「這指標」竟倒向賴瑞隆",
-          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E6%B0%91%E8%AA%BF%E8%A9%AD%E7%95%B0%E8%90%BD%E5%B7%AE-%E9%80%99%E6%8C%87%E6%A8%99-%E7%AB%9F%E5%80%92%E5%90%91%E8%B3%B4%E7%91%9E%E9%9A%86-060939777.html",
-          "time": "2026-09-11 09:35:48",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "分手談不攏竟持斧砍女友！高雄男當街血洗 警壓制逮捕又驗出毒駕",
-          "url": "https://www.ctwant.com/article/497475/",
-          "time": "2026-09-11 09:34:51",
-          "publisher": "CTWANT",
-          "severity": "yellow"
-        },
-        {
-          "title": "涉賄選遭判刑潛逃中國！前高雄市議長朱安雄病逝享壽82歲",
-          "url": "https://www.taisounds.com/news/content/71/288052",
-          "time": "2026-09-11 09:34:47",
-          "publisher": "太報",
-          "severity": "red"
-        },
-        {
-          "title": "近半選民看好賴瑞隆但支持度僅打平柯志恩 高雄綠營大整合但選民「另有所想」？",
-          "url": "https://tw.news.yahoo.com/%E8%BF%91%E5%8D%8A%E9%81%B8%E6%B0%91%E7%9C%8B%E5%A5%BD%E8%B3%B4%E7%91%9E%E9%9A%86%E4%BD%86%E6%94%AF%E6%8C%81%E5%BA%A6%E5%83%85%E6%89%93%E5%B9%B3%E6%9F%AF%E5%BF%97%E6%81%A9-%E9%AB%98%E9%9B%84%E7%B6%A0%E7%87%9F%E5%A4%A7%E6%95%B4%E5%90%88%E4%BD%86%E9%81%B8%E6%B0%91-%E5%8F%A6%E6%9C%89%E6%89%80%E6%83%B3-093400347.html",
-          "time": "2026-09-11 09:34:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -10802,11 +10718,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 179,
+      "news_count": 178,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 203,
+      "urgency_score": 202,
       "news_articles": [
         {
           "title": "半夜驚魂！桃園平鎮工寮突然竄火 燒毀報廢機車",
@@ -12053,13 +11969,6 @@
           "time": "2026-09-11 09:38:31",
           "publisher": "Google News→桃園電子報",
           "severity": null
-        },
-        {
-          "title": "桃園藝術亮點聯展即起登場 集結10位傑出藝術家創作",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SbzZTSmd4anZtVUlUWFNvZ2ZLaE1kYnk2YmFBZW84WGZ3ODlWeFphdkMxalpPTVNRa2V4Q3VtclJON3NCNGF6NGtBa0g?oc=5",
-          "time": "2026-09-11 09:35:02",
-          "publisher": "Google News→桃園電子報",
-          "severity": null
         }
       ],
       "comments": []
@@ -12069,11 +11978,11 @@
       "city": "台北",
       "place": "台北市南港區",
       "level": "red",
-      "news_count": 257,
+      "news_count": 253,
       "comment_count": 0,
       "negativity_pct": 16,
       "is_urgent": false,
-      "urgency_score": 377,
+      "urgency_score": 373,
       "news_articles": [
         {
           "title": "民進黨新北市長參選人蘇巧慧今天社群發布最新影片，日前她與副總統蕭美琴到金山與金山農會、多個地方創生青年團隊，面對面暢聊對金山與新北觀光產業的未來願景。蘇巧慧提出「新皇冠計畫」觀光政見，將串連從八里、淡水、三芝、石門，到金山、萬里、瑞芳、貢寮等沿海八區的觀光資源，打造新北北海岸獨一無二的觀光品牌。",
@@ -13845,34 +13754,6 @@
           "time": "2026-09-11 09:39:40",
           "publisher": "芋傳媒",
           "severity": "yellow"
-        },
-        {
-          "title": "北市民宅地基塌陷 蔣萬安視察承諾協助處理",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PLU84QmdqYTRndG0zU1dvR2llelNKbXN0LTk0U3Z5YnBQRTJOR3k0bF9Kei13QVZZb09UQ0NYSnJyUmduWHpsN1NMTjhPOWNfVXBlVl9acHPSAV5BVV95cUxNSmlrclJhTzVmTERwZnhHOG4wTEtFZndaS3BWS3p5YS1Tc1hHSnVxSEhpY0R1WWxjZjg3SVJoYl8zOURYQWRxT3Z6ektUSEVhM3hHa0hhNnlzcjVVaUNR?oc=5",
-          "time": "2026-09-11 09:35:00",
-          "publisher": "Google News→鏡新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "天氣／熱帶性低氣壓將生成！東北季風連2波接力 大台北雨下整周 | 天氣預報 | 生活",
-          "url": "https://www.nownews.com/news/6874108",
-          "time": "2026-09-11 09:34:59",
-          "publisher": "NOWnews今日新聞",
-          "severity": null
-        },
-        {
-          "title": "北市大西區崛起！機捷雙子星領頭 「中悦中心」定鼎A3首都國門特區",
-          "url": "https://www.ctee.com.tw/news/20260911700046-431206",
-          "time": "2026-09-11 09:34:50",
-          "publisher": "工商時報",
-          "severity": null
-        },
-        {
-          "title": "民進黨北市長參選人沈伯洋今早到臨江市場掃街，日前接受主持人王偉忠廣播節目專訪，被稱讚Line互動平台、選舉蠻順，連台北市長蔣萬安都要頭暈等。沈今天說，很謝謝稱讚，能夠獲得市民迴響很重要；相信王偉忠是某種程度提醒現在市政應該要被關注。",
-          "url": "https://udn.com/news/story/124652/9747907?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-11 09:34:48",
-          "publisher": "聯合新聞網",
-          "severity": null
         }
       ],
       "comments": []
