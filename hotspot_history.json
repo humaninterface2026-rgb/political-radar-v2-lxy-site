@@ -96775,7 +96775,7 @@
     },
     {
       "date": "2026-09-13",
-      "snapshot_at": "2026-09-13T02:00:13.821312+00:00",
+      "snapshot_at": "2026-09-13T02:05:41.985099+00:00",
       "hotspots": [
         {
           "title": "台北鼠患事件",
@@ -96806,20 +96806,6 @@
           ]
         },
         {
-          "title": "苗栗車禍事件",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "開學5天傳悲劇！苗栗大一新生夜衝武嶺車禍亡 墜6米深橋下傷重不治"
-          ]
-        },
-        {
           "title": "台中車禍事件",
           "city": "台中",
           "place": "台中市政府",
@@ -96831,6 +96817,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "台中梧棲嚴重車禍！21歲女大生遭撞噴飛 氣血胸命危"
+          ]
+        },
+        {
+          "title": "苗栗車禍事件",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "開學5天傳悲劇！苗栗大一新生夜衝武嶺車禍亡 墜6米深橋下傷重不治"
           ]
         },
         {
@@ -96966,20 +96966,6 @@
           ]
         },
         {
-          "title": "桃園狼師事件",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "【桃園男拿刀恐嚇性侵前女友:「情侶相處模式」 法官判8年...】 （#大表哥）"
-          ]
-        },
-        {
           "title": "台北狼師事件",
           "city": "台北",
           "place": "台北市政府",
@@ -96991,6 +96977,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "北市里長參選人爆性侵前科！王婉諭、吳欣岱籲修法揭露，她服務處竟遭死亡恐嚇"
+          ]
+        },
+        {
+          "title": "桃園狼師事件",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "【桃園男拿刀恐嚇性侵前女友:「情侶相處模式」 法官判8年...】 （#大表哥）"
           ]
         },
         {
@@ -97008,20 +97008,6 @@
           ]
         },
         {
-          "title": "澎湖弊案爭議",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "潛陸通緝犯偷渡回台！澎湖漁船「接力載人上岸」遭判刑"
-          ]
-        },
-        {
           "title": "南投弊案爭議",
           "city": "南投",
           "place": "南投縣政府",
@@ -97033,6 +97019,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "兄弟財產糾紛失控！潑汽油燒老宅、鹽酸攻擊未遂 南投7旬翁收押"
+          ]
+        },
+        {
+          "title": "澎湖弊案爭議",
+          "city": "澎湖",
+          "place": "澎湖縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "潛陸通緝犯偷渡回台！澎湖漁船「接力載人上岸」遭判刑"
           ]
         },
         {
@@ -97239,6 +97239,22 @@
           ]
         },
         {
+          "title": "嘉義市地方動態",
+          "city": "嘉義市",
+          "place": "嘉義市政府",
+          "level": "red",
+          "news_count": 6,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 6,
+          "sample_titles": [
+            "嘉市知名火雞肉飯火警 幸無人員受傷受困",
+            "嘉市規律運動率38.9%超全國 健身博士教你從零開始練肌力",
+            "嘉義市阿宏師火雞肉飯失火 廚房竄煙畫面曝"
+          ]
+        },
+        {
           "title": "台北槍擊事件",
           "city": "台北",
           "place": "台北市政府",
@@ -97252,22 +97268,6 @@
             "北市槍擊案 傷者丈夫遭聲押禁見",
             "陸配遭丈夫夥同女友槍擊 北市警逮2人送辦",
             "妻北市出門遭槍擊！丈夫竟接應女槍手 一路繞國道掩護逃逸"
-          ]
-        },
-        {
-          "title": "嘉義市地方動態",
-          "city": "嘉義市",
-          "place": "嘉義市政府",
-          "level": "red",
-          "news_count": 7,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 7,
-          "sample_titles": [
-            "嘉市知名火雞肉飯火警 幸無人員受傷受困",
-            "嘉市規律運動率38.9%超全國 健身博士教你從零開始練肌力",
-            "嘉義市阿宏師火雞肉飯失火 廚房竄煙畫面曝"
           ]
         },
         {
@@ -97319,22 +97319,6 @@
           ]
         },
         {
-          "title": "澎湖地方動態",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
-          "level": "red",
-          "news_count": 58,
-          "comment_count": 0,
-          "negativity_pct": 2,
-          "is_urgent": false,
-          "urgency_score": 61,
-          "sample_titles": [
-            "賠錢後繼續勾勾纏 這回又同遊澎湖住同房再賠35萬",
-            "吳淑瑾成立澎湖縣長競總 陳其邁站台",
-            "吳淑瑾成立澎湖縣長競總 陳其邁站台"
-          ]
-        },
-        {
           "title": "宜蘭地方動態",
           "city": "宜蘭",
           "place": "宜蘭縣政府",
@@ -97348,6 +97332,22 @@
             "《政策論壇交鋒》吳宗憲提教育四磚 林國漳打造宜蘭大教室",
             "宜蘭 吳宗憲推教育四磚 林國漳關注親師生",
             "雨彈夜襲！台北山區、宜蘭炸豪雨 新北、基隆防大雨"
+          ]
+        },
+        {
+          "title": "澎湖地方動態",
+          "city": "澎湖",
+          "place": "澎湖縣政府",
+          "level": "red",
+          "news_count": 58,
+          "comment_count": 0,
+          "negativity_pct": 2,
+          "is_urgent": false,
+          "urgency_score": 61,
+          "sample_titles": [
+            "賠錢後繼續勾勾纏 這回又同遊澎湖住同房再賠35萬",
+            "吳淑瑾成立澎湖縣長競總 陳其邁站台",
+            "吳淑瑾成立澎湖縣長競總 陳其邁站台"
           ]
         },
         {
@@ -97403,11 +97403,11 @@
           "city": "高雄",
           "place": "高雄市鼓山區",
           "level": "red",
-          "news_count": 114,
+          "news_count": 109,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 117,
+          "urgency_score": 112,
           "sample_titles": [
             "【中天直播#LIVE】高雄選情藍綠民調緊咬 柯志恩拜會王金平請益 20260913@中天新聞CtiNews",
             "鼓山柴山大路恢復通行 保障高雄後山行車安全",
@@ -97435,11 +97435,11 @@
           "city": "台中",
           "place": "台中市清水區",
           "level": "red",
-          "news_count": 153,
+          "news_count": 152,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 168,
+          "urgency_score": 164,
           "sample_titles": [
             "[Gossiping] [新聞] 月老牽紅線 中市單身聯誼17對表心意91.",
             "平日拼交通、場上展球技！中市跨局處羽球聯隊以球會友勇奪丙組冠軍",
@@ -97451,11 +97451,11 @@
           "city": "台北",
           "place": "台北市士林區",
           "level": "red",
-          "news_count": 156,
+          "news_count": 154,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 198,
+          "urgency_score": 196,
           "sample_titles": [
             "\"新北市綠生活音樂節\"登場 跨世代歌手輪番開唱",
             "王偉忠訪談成為北市長選戰關鍵轉折",
