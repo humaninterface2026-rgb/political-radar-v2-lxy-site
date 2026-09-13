@@ -96775,7 +96775,7 @@
     },
     {
       "date": "2026-09-13",
-      "snapshot_at": "2026-09-13T10:45:17.144734+00:00",
+      "snapshot_at": "2026-09-13T10:51:24.282499+00:00",
       "hotspots": [
         {
           "title": "台中車禍事件",
@@ -96880,22 +96880,6 @@
           ]
         },
         {
-          "title": "嘉義縣地方動態",
-          "city": "嘉義縣",
-          "place": "嘉義縣政府",
-          "level": "green",
-          "news_count": 6,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 6,
-          "sample_titles": [
-            "10縣市嚴防高溫 嘉義縣今飆破37°C",
-            "11縣市發布高溫警示 嘉義縣出現37.9度高溫",
-            "社團法人天恩慈善會及台北嘉義同鄉會東石聯誼會等3民間團體 善心助學東石鄉學生"
-          ]
-        },
-        {
           "title": "連江地方動態",
           "city": "連江",
           "place": "連江縣（馬祖）",
@@ -96909,6 +96893,22 @@
             "馬祖成年禮 93位高一生參加場面溫馨",
             "馬祖海域再添2,000尾新生命！條石鯛魚苗南竿四維放流 盼海洋資源生生不息",
             "馬祖學子英檢傳捷報！九年級3人通過劍橋英檢 AI、IG、線上家教成學習助力"
+          ]
+        },
+        {
+          "title": "嘉義縣地方動態",
+          "city": "嘉義縣",
+          "place": "嘉義縣政府",
+          "level": "green",
+          "news_count": 6,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 6,
+          "sample_titles": [
+            "10縣市嚴防高溫 嘉義縣今飆破37°C",
+            "11縣市發布高溫警示 嘉義縣出現37.9度高溫",
+            "社團法人天恩慈善會及台北嘉義同鄉會東石聯誼會等3民間團體 善心助學東石鄉學生"
           ]
         },
         {
@@ -97028,11 +97028,11 @@
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "yellow",
-          "news_count": 11,
+          "news_count": 10,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 11,
+          "urgency_score": 10,
           "sample_titles": [
             "竹市表揚10位好人好事代表 表彰無私奉獻",
             "改善柴橋路積淹水！竹市府9月底啟動側溝工程",
@@ -97060,15 +97060,31 @@
           "city": "澎湖",
           "place": "澎湖縣政府",
           "level": "yellow",
-          "news_count": 25,
+          "news_count": 24,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 25,
+          "urgency_score": 24,
           "sample_titles": [
             "澎湖土魠魚限捕草案惹議！漁業署、縣府與漁民達共識：不推動草案",
             "SJ圭賢首訪澎湖大啖在地美食！ 中文獻唱〈那些年〉掀全場尖叫",
             "華航A321neo新機周二起執飛沖繩、高松 今率先飛高雄-澎湖暖身"
+          ]
+        },
+        {
+          "title": "新竹縣地方動態",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "yellow",
+          "news_count": 27,
+          "comment_count": 0,
+          "negativity_pct": 7,
+          "is_urgent": false,
+          "urgency_score": 33,
+          "sample_titles": [
+            "白營小雞求曝光「新竹縣母雞2選1」？徐嶔煌揭：比較喜歡鄭朝方！｜#頭家來開講｜民視讚夯.com",
+            "竹北市長民調吳旭智領先 持續爭取民眾認同",
+            "竹北裂痕掀骨牌效應 柯文哲點名「彰化、新竹」難挽救"
           ]
         },
         {
@@ -97085,22 +97101,6 @@
             "金門絲竹軒藝陣團歡慶成立一週年凝聚團員情誼，攜手傳承藝陣文化",
             "「友愛智者社區相伴」2026 RUN伴TAIWAN－金門場登場結合失智宣導與金門文化 攜手打造友善社區",
             "結合失智宣導與浯島文化RUN伴TAIWAN金門場登場打造友善社區| 勁報"
-          ]
-        },
-        {
-          "title": "新竹縣地方動態",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "yellow",
-          "news_count": 28,
-          "comment_count": 0,
-          "negativity_pct": 7,
-          "is_urgent": false,
-          "urgency_score": 34,
-          "sample_titles": [
-            "白營小雞求曝光「新竹縣母雞2選1」？徐嶔煌揭：比較喜歡鄭朝方！｜#頭家來開講｜民視讚夯.com",
-            "竹北市長民調吳旭智領先 持續爭取民眾認同",
-            "竹北裂痕掀骨牌效應 柯文哲點名「彰化、新竹」難挽救"
           ]
         },
         {
@@ -97136,11 +97136,11 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
-          "news_count": 45,
+          "news_count": 43,
           "comment_count": 61,
           "negativity_pct": 0,
           "is_urgent": true,
-          "urgency_score": 142,
+          "urgency_score": 140,
           "sample_titles": [
             "影》賴清德、盧秀燕攻防 何欣純挨酸被邊緣化：妳才該回歸市政",
             "盧秀燕籲成立在野大聯盟 黃國昌、謝龍介同台呼應：綠撕裂社會之時更應團結",
@@ -97280,15 +97280,31 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 47,
+          "news_count": 45,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 59,
+          "urgency_score": 57,
           "sample_titles": [
             "苗栗縣115年度勞工教育暨「幸福有約」未婚聯誼活動 拓展單身勞工交友生活圈",
             "苗栗市綠營支持者「不敢表態」？林月琴曝苗栗選戰困境！｜#新聞觀測站｜民視讚夯.com",
             "115年度苗栗縣廣場舞錦標賽熱鬧登場 縣長偕夫人與鄉親共享健康活力"
+          ]
+        },
+        {
+          "title": "屏東地方動態",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "red",
+          "news_count": 45,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 45,
+          "sample_titles": [
+            "一生傳唱民謠 陳英與張日貴獲頒屏東文化獎特展",
+            "屏東釀醬生活節 台日韓發酵美學PK (圖)",
+            "黃捷陪同潘筱潔掃街 搶攻屏東縣第3選區年輕票源"
           ]
         },
         {
@@ -97308,31 +97324,15 @@
           ]
         },
         {
-          "title": "屏東地方動態",
-          "city": "屏東",
-          "place": "屏東縣政府",
-          "level": "red",
-          "news_count": 49,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 49,
-          "sample_titles": [
-            "一生傳唱民謠 陳英與張日貴獲頒屏東文化獎特展",
-            "屏東釀醬生活節 台日韓發酵美學PK (圖)",
-            "黃捷陪同潘筱潔掃街 搶攻屏東縣第3選區年輕票源"
-          ]
-        },
-        {
           "title": "新北地方動態",
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 82,
+          "news_count": 78,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 97,
+          "urgency_score": 93,
           "sample_titles": [
             "蘇巧慧偕蔡英文成立山友後援會 打造「新北大縱走」山道品牌",
             "新北割頸案少年18歲冥誕！父淚崩自責「教他要負責任」 家屬捐500萬提校安3訴求",
@@ -97344,11 +97344,11 @@
           "city": "高雄",
           "place": "高雄市前鎮區",
           "level": "red",
-          "news_count": 89,
+          "news_count": 88,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 104,
+          "urgency_score": 100,
           "sample_titles": [
             "高雄前鎮漁港船員會館引起外界關注，針對「高級澡堂」的說法，五大遠洋漁業產業團體發出三點聯合聲明表達不滿，並強調，外籍船員",
             "高雄市長之爭拉鋸，最新民調顯示，國民黨柯志恩領先民進黨賴瑞隆0.3個百分點，部分藍營支持者雀躍，認為柯後勢看好。時事評論",
@@ -97360,11 +97360,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 108,
+          "news_count": 106,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 117,
+          "urgency_score": 115,
           "sample_titles": [
             "百GO夜行在桃園 張善政：打造友善綠色交通探索城市魅力",
             "龍潭送聖蹟傳承150年 盼登錄桃園市定民俗",
@@ -97376,11 +97376,11 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 116,
+          "news_count": 109,
           "comment_count": 0,
-          "negativity_pct": 10,
+          "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 152,
+          "urgency_score": 145,
           "sample_titles": [
             "一周天氣／大台北要變天了！東北季風再一波直擊 杜鵑颱風醞釀中 | 天氣預報 | 生活",
             "吸茫了？ 北市毒駕男報警「自投羅網」 搜出大量咖啡包",
@@ -97392,11 +97392,11 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 139,
+          "news_count": 136,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 154,
+          "urgency_score": 151,
           "sample_titles": [
             "[Gossiping] [新聞] 快訊／台中街友抓狂攻擊！清潔員四肢擦",
             "[TaichungBun] [情報] 台中多區里公益法律諮詢",

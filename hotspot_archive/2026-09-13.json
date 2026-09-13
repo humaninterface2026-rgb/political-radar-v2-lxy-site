@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "snapshot_at": "2026-09-13T10:45:17.144734+00:00",
+  "snapshot_at": "2026-09-13T10:51:24.282499+00:00",
   "hotspots": [
     {
       "title": "台中車禍事件",
@@ -211,62 +211,6 @@
       ]
     },
     {
-      "title": "嘉義縣地方動態",
-      "city": "嘉義縣",
-      "place": "嘉義縣政府",
-      "level": "green",
-      "news_count": 6,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 6,
-      "news_articles": [
-        {
-          "title": "10縣市嚴防高溫 嘉義縣今飆破37°C",
-          "url": "https://news.nextapple.com/life/20260913/635AB12228EF182E8A8455EF0C973AEC",
-          "time": "2026-09-13 16:41:25",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "11縣市發布高溫警示 嘉義縣出現37.9度高溫",
-          "url": "https://tw.news.yahoo.com/11%E7%B8%A3%E5%B8%82%E7%99%BC%E5%B8%83%E9%AB%98%E6%BA%AB%E8%AD%A6%E7%A4%BA-%E5%98%89%E7%BE%A9%E7%B8%A3%E5%87%BA%E7%8F%BE37-9%E5%BA%A6%E9%AB%98%E6%BA%AB-083113255.html",
-          "time": "2026-09-13 16:31:13",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "社團法人天恩慈善會及台北嘉義同鄉會東石聯誼會等3民間團體 善心助學東石鄉學生",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA2bmNOYkNvSjRtZzlFRksyY1p4Wlg3d1dUcEtwSEgxQmdURFJFZnM2SlJ3QlFpNklxeExibkpxam1qZw?oc=5",
-          "time": "2026-09-13 16:14:46",
-          "publisher": "Google News→墨新聞-MORE News",
-          "severity": null
-        },
-        {
-          "title": "慶祝國民體育日 全國基層有功團體及個人表揚大會在嘉義縣舉行",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6eFpkcFRLeGZac2FIM3JTRlJBWk9xbG4zaWZfQ1UyUXZ0TzRPa0E0aXlOc19PZDAxNjBEYlVCRUpQemtDSU8tM1N5TVdERVNyN3hGdV8zR1Z3RTJaWUJaYzhBVGLSAWpBVV95cUxPRDlfQi03VUdISkNoWERTVm5UbEkza2h0MEdnemRET0liRlRqWkl4Nl9laHRtc2JYcUlRYXBuM1NQTEVDdDhDUHk1SHMzYjV4WW9vWHJENmhWMVMwNHNWc2RLOFdPNmxRRHlB?oc=5",
-          "time": "2026-09-12 22:05:10",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "社團法人天恩慈善會及台北嘉義同鄉會東石聯誼會等3民間團體善心助學東石鄉學生",
-          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=257271",
-          "time": "2026-09-12 21:55:24",
-          "publisher": "嘉義縣政府",
-          "severity": null
-        },
-        {
-          "title": "古早吃桌走進現代莊園嘉義縣中埔陽陽艾利森莊園攜手盛昌國際外燴團隊舉辦「脆友吃桌」歡樂盛會讓台灣味玩出新可能！",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zOURPM19EVlllOGVUX1A5RkxjdHRLT0VESG5nWktabTQ5MnZkODhQOGRobnk3Uzl2Q2FUYzBNY2ZXNE1NU2NRQVhYdHlWSm10TVYyNmdJMURxeHNNak9QVFp3aDRaTVZKMFNvTk16ckhRLTFsbTJwUWFiRUs?oc=5",
-          "time": "2026-09-12 21:33:05",
-          "publisher": "Google News→kingtop.com.tw",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "連江地方動態",
       "city": "連江",
       "place": "連江縣（馬祖）",
@@ -317,6 +261,62 @@
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44dmltYXpJZUxncHVLNC1sc1RKNzdNN2VUVUEwMWlIV3dSWUVnNC1LeEJPSEtuaDBic0lvWFhya19lRlkwR3BpZm1IOUF3ZjZKcDRKcWNDUFA1U0Z1QlE?oc=5",
           "time": "2026-09-12 20:12:34",
           "publisher": "Google News→matsu-news.gov.tw",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "嘉義縣地方動態",
+      "city": "嘉義縣",
+      "place": "嘉義縣政府",
+      "level": "green",
+      "news_count": 6,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 6,
+      "news_articles": [
+        {
+          "title": "10縣市嚴防高溫 嘉義縣今飆破37°C",
+          "url": "https://news.nextapple.com/life/20260913/635AB12228EF182E8A8455EF0C973AEC",
+          "time": "2026-09-13 16:41:25",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "11縣市發布高溫警示 嘉義縣出現37.9度高溫",
+          "url": "https://tw.news.yahoo.com/11%E7%B8%A3%E5%B8%82%E7%99%BC%E5%B8%83%E9%AB%98%E6%BA%AB%E8%AD%A6%E7%A4%BA-%E5%98%89%E7%BE%A9%E7%B8%A3%E5%87%BA%E7%8F%BE37-9%E5%BA%A6%E9%AB%98%E6%BA%AB-083113255.html",
+          "time": "2026-09-13 16:31:13",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "社團法人天恩慈善會及台北嘉義同鄉會東石聯誼會等3民間團體 善心助學東石鄉學生",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA2bmNOYkNvSjRtZzlFRksyY1p4Wlg3d1dUcEtwSEgxQmdURFJFZnM2SlJ3QlFpNklxeExibkpxam1qZw?oc=5",
+          "time": "2026-09-13 16:14:46",
+          "publisher": "Google News→墨新聞-MORE News",
+          "severity": null
+        },
+        {
+          "title": "慶祝國民體育日 全國基層有功團體及個人表揚大會在嘉義縣舉行",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6eFpkcFRLeGZac2FIM3JTRlJBWk9xbG4zaWZfQ1UyUXZ0TzRPa0E0aXlOc19PZDAxNjBEYlVCRUpQemtDSU8tM1N5TVdERVNyN3hGdV8zR1Z3RTJaWUJaYzhBVGLSAWpBVV95cUxPRDlfQi03VUdISkNoWERTVm5UbEkza2h0MEdnemRET0liRlRqWkl4Nl9laHRtc2JYcUlRYXBuM1NQTEVDdDhDUHk1SHMzYjV4WW9vWHJENmhWMVMwNHNWc2RLOFdPNmxRRHlB?oc=5",
+          "time": "2026-09-12 22:05:10",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "社團法人天恩慈善會及台北嘉義同鄉會東石聯誼會等3民間團體善心助學東石鄉學生",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=257271",
+          "time": "2026-09-12 21:55:24",
+          "publisher": "嘉義縣政府",
+          "severity": null
+        },
+        {
+          "title": "古早吃桌走進現代莊園嘉義縣中埔陽陽艾利森莊園攜手盛昌國際外燴團隊舉辦「脆友吃桌」歡樂盛會讓台灣味玩出新可能！",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zOURPM19EVlllOGVUX1A5RkxjdHRLT0VESG5nWktabTQ5MnZkODhQOGRobnk3Uzl2Q2FUYzBNY2ZXNE1NU2NRQVhYdHlWSm10TVYyNmdJMURxeHNNak9QVFp3aDRaTVZKMFNvTk16ckhRLTFsbTJwUWFiRUs?oc=5",
+          "time": "2026-09-12 21:33:05",
+          "publisher": "Google News→kingtop.com.tw",
           "severity": null
         }
       ],
@@ -621,11 +621,11 @@
       "city": "新竹市",
       "place": "新竹市政府",
       "level": "yellow",
-      "news_count": 11,
+      "news_count": 10,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 11,
+      "urgency_score": 10,
       "news_articles": [
         {
           "title": "竹市表揚10位好人好事代表 表彰無私奉獻",
@@ -695,13 +695,6 @@
           "url": "https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=9862b65c-aa1c-46fd-8fc0-1e87ae76e538",
           "time": "2026-09-12 20:37:53",
           "publisher": "新竹市政府",
-          "severity": null
-        },
-        {
-          "title": "市政新聞-竹市600名游泳健將齊聚全市運動會高虹安市長：香山游泳池升級後首迎大型賽事-新竹市政府全球資訊網",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdmFsdmRyeUhhRGx3ekdmckM0MEhxSC1NYjVXZmlVS0xIQ3E0ek13VlgyVUtZdWl4dDMyalA4Szh1OVZCcjE2dktNMEJBUHB6NmVBanRESE4yRFVyZGo1eldLUjlEQ01ZV0syZlprd01LYkZEZnRKWHVkR2xXRXk4QmZjdmRqZnBzYURnbXJvUmJ3QTRCSTFjT2hGOWxVUDRlcFhSR1R1bTh1amZEQi1XTEZXZW9MUQ?oc=5",
-          "time": "2026-09-12 18:48:20",
-          "publisher": "Google News→hccg.gov.tw",
           "severity": null
         }
       ],
@@ -824,11 +817,11 @@
       "city": "澎湖",
       "place": "澎湖縣政府",
       "level": "yellow",
-      "news_count": 25,
+      "news_count": 24,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 25,
+      "urgency_score": 24,
       "news_articles": [
         {
           "title": "澎湖土魠魚限捕草案惹議！漁業署、縣府與漁民達共識：不推動草案",
@@ -997,13 +990,209 @@
           "time": "2026-09-12 19:26:00",
           "publisher": "中央社",
           "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新竹縣地方動態",
+      "city": "新竹縣",
+      "place": "新竹縣政府",
+      "level": "yellow",
+      "news_count": 27,
+      "comment_count": 0,
+      "negativity_pct": 7,
+      "is_urgent": false,
+      "urgency_score": 33,
+      "news_articles": [
+        {
+          "title": "白營小雞求曝光「新竹縣母雞2選1」？徐嶔煌揭：比較喜歡鄭朝方！｜#頭家來開講｜民視讚夯.com",
+          "url": "https://www.youtube.com/watch?v=klKRusiHkM0",
+          "time": "2026-09-13 18:05:23",
+          "publisher": null,
+          "severity": null
         },
         {
-          "title": "內政部長劉世芳今天赴澎湖縣馬公市「文學好室」社宅基地，視察離島中央社宅的工程品質與進度。她指出，「文學好室」是中央在澎湖...",
-          "url": "https://udn.com/news/story/6656/9750649?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-12 18:46:52",
-          "publisher": "聯合新聞網",
+          "title": "竹北市長民調吳旭智領先 持續爭取民眾認同",
+          "url": "https://www.cdns.com.tw/articles/1459309",
+          "time": "2026-09-13 17:00:03",
+          "publisher": "中華日報",
           "severity": null
+        },
+        {
+          "title": "竹北裂痕掀骨牌效應 柯文哲點名「彰化、新竹」難挽救",
+          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOQWkxSGZHamctZngtTHJhWDR2UmZqWk4tdzZzQUl3LVRTMDIwRlllNTIzWXhRX2xqcmZleENMSFFhQUpWazU2bkxESmczZUN1R01qSUxSYUZOZjRxaHNoMk9kMjAwWHM5TkxGcjhQUVJUdzZoOTIyZmRmQnVEVmF5alIzakNnUmRqU3RhWHA1Nmk0YmY1dEhnblNVZHkzRGpmV2FOeUh2T2ZHdjZCazlyb1lTelZhaW9sdzlpcFdBN2FzQUpmSFNjelFWSGJpMnk2Sm9kUldPZlRqQWNSeTZCZ3kxb0UzdkcxQ2tHcVZPNDcyTE1LS3U5akVPa0dhVzhrTG5PZGl2WDJYSjcydTBvQnNha1I3ekhDRG1hWllHeGNTUmVBaVdqOEFhYlJHd0R6dllkUUs5UDVYcy1HT2pNNnoxSzMySVUyVE9rXzhRbGM2WnRX?oc=5",
+          "time": "2026-09-13 16:55:26",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "五力全開峰動全場 新竹縣五峰鄉射箭競賽高手雲集",
+          "url": "https://tw.news.yahoo.com/%E4%BA%94%E5%8A%9B%E5%85%A8%E9%96%8B%E5%B3%B0%E5%8B%95%E5%85%A8%E5%A0%B4-%E6%96%B0%E7%AB%B9%E7%B8%A3%E4%BA%94%E5%B3%B0%E9%84%89%E5%B0%84%E7%AE%AD%E7%AB%B6%E8%B3%BD%E9%AB%98%E6%89%8B%E9%9B%B2%E9%9B%86-084551125.html",
+          "time": "2026-09-13 16:45:51",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "美麗島民調竹北市長藍勝白　柯文哲轟吳子嘉「只會激怒人」",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-09-13/2465776.html",
+          "time": "2026-09-13 15:51:54",
+          "publisher": "壹電視",
+          "severity": "yellow"
+        },
+        {
+          "title": "竹北市藍白宣告分裂，根據「美麗島電子報」發布最新竹北市長民調，在藍白未整合之下，國民黨吳旭智以29.0%支持度微幅領先民進黨曾聖凱的25.2%，差距僅3.8個百分點。對此，吳旭智今天回應，每一個數字的背後，都是一份期待，希望最後爭取到的，不只是一張選票，而是竹北市民願意把這座城市的未來交給他的信任。",
+          "url": "https://udn.com/news/story/124652/9751697?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-09-13 15:51:50",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "國民黨新竹縣長參選人徐欣瑩今天出席黨部活動，對於有民調顯示競選對手、民進黨鄭朝方的好感度領先，她受訪表示，與其關注好感度，人民對金權政治的厭惡度才是政治人物最應該重視的問題，「我也相信新竹縣民絕對不願意再回到家族利益把持的回頭路」。",
+          "url": "https://udn.com/news/story/124652/9751694?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-09-13 15:51:50",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "竹北藍白破局引外溢效應 柯文哲:恐波及新北高雄宜蘭",
+          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQUFlscUxfWkNNb1ZWWGpLWkV1UlZjSC0tY09RUE1UUE1YMWRtS1Rla2F3YlNBVGZ1d3djeGFUWkNyTjdyQ1RqSzFyUE5uLWtKYkxKd3E0T1VBZ2pvLW1qb2JydVpFN0xPdVRBQ0JWOV9sMEJfSVoyN3R2MVhRckFaOVJwYXhncFJMcmtJOVN3bUlyUjBDT29yS0ZURWxkdFR3V0hIVTdtTTlaX1FQZmVVQ2p5TURBN3QwMWUwTTFNX1ozWWZXRXh1RUpRam80cDlwcU5PeVhuOFBxWjJ0Mzdvam5iemFKSVB1VnZVMVFoekVsR3ByU0RwVm11b3VFc0ROM3E3TGFCNUtMbm5KWlJSOUdjZnVvNkNmYW9ybXpsY2RQNExscXVQc0N5bnNfUnVldVdreExMempCZnBaakFTNExuTGtOU0k0Y2FFeXJ3aFF0NzJpcnlUQU1PQU5xWExKdG5YMG1DTHJsQQ?oc=5",
+          "time": "2026-09-13 14:39:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "竹北藍白破局外溢效應 柯文哲點名：彰化大勢已去、竹縣很難挽救",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3OG4taF9MVXlIamhDQzltUVFmV1M1ZnU1QUN5VS05TzYxOHpJcVhQZTJ5UTk5Uzh1WkRuZ1Q5YnZQWWswdlNUbdIBTEFVX3lxTFBNUHkzYmllTGtud2VOVHowQXdrR2p2ckpPYjdSLXZ4VnFjT1VXMlRwU29wVTRvY1hjbjN6X2J1OFhiS2tRYjlnZWtiUlI?oc=5",
+          "time": "2026-09-13 14:20:00",
+          "publisher": "三立新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "鄭朝方好感度領先！徐欣瑩批新竹縣金權政治 籲拒絕家族利益回頭路",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5572396",
+          "time": "2026-09-13 13:14:56",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "竹北藍白合破局外溢？柯文哲點名5縣市「恐失控」：竹縣難救、彰化大勢已去",
+          "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%8C%97%E8%97%8D%E7%99%BD%E5%90%88%E7%A0%B4%E5%B1%80%E5%A4%96%E6%BA%A2-%E6%9F%AF%E6%96%87%E5%93%B2%E9%BB%9E%E5%90%8D5%E7%B8%A3%E5%B8%82-%E6%81%90%E5%A4%B1%E6%8E%A7-%E7%AB%B9%E7%B8%A3%E9%9B%A3%E6%95%91-%E5%BD%B0%E5%8C%96%E5%A4%A7%E5%8B%A2%E5%B7%B2%E5%8E%BB-051132395.html",
+          "time": "2026-09-13 13:11:32",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "竹北藍白不合爆外溢效應！柯文哲示警新北、宜蘭、高雄受波及彰縣、竹縣大勢已去- 鏡報",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RMEx5ZVFMU0prNk4wekRvSG8tTDdKNEM1QlFuYkgyU3dkLVlEUmw0NGNzWkRQWkFZS2lZUWYxa3daOEpLR3dRNktPdEVSSFFJcFE?oc=5",
+          "time": "2026-09-13 13:02:00",
+          "publisher": "Google News→鏡報",
+          "severity": "yellow"
+        },
+        {
+          "title": "竹北藍白破局「外溢效應」擴大 柯文哲：彰化大勢已去、竹縣也難救 | 上報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RU3NfWnF1TlJPRE02U3hqaDZnVjlhVzVfSWV1dnV3OS1oWWRVOHdib0NfMkZ0R3FWZFprSXdhbTh5aDRmcUpNZ055UTNCQWt1UVB3dDFn?oc=5",
+          "time": "2026-09-13 12:50:17",
+          "publisher": "Google News→today.line.me",
+          "severity": "yellow"
+        },
+        {
+          "title": "2026新竹縣五峰鄉射箭競賽 鄉長秋維書：射箭蘊含深厚的原鄉文化",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SYjNVV19BclpCZXowV3N0dFFMSHlIM0lvOTNLS0dIdldKYVVDcU1KUGVSSWtTNGVOSUpWRHMtWEFHTThBZDQyU0Jjakl0b3M4WHc?oc=5",
+          "time": "2026-09-13 12:36:00",
+          "publisher": "Google News→n.yam.com",
+          "severity": null
+        },
+        {
+          "title": "竹北藍白破局「外溢效應」擴大 柯文哲：彰化大勢已去、竹縣也難救",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YejFVYk9CclNvdFVYMDhzMmZ6Zkd5RGNhQzJUZk1vckRKdG1pX1JsUTVQR2QzallwUlR3UHdsWVNTS1Jvd2FvNzllZkZmaEVJLUotRWNGNHRUWXc?oc=5",
+          "time": "2026-09-13 12:10:00",
+          "publisher": "Google News→上報Up Media",
+          "severity": "yellow"
+        },
+        {
+          "title": "竹北市長藍白合破局！ 柯文哲警告外溢效應：恐波及新北、高雄、宜蘭",
+          "url": "https://n.yam.com/Article/20260913894456",
+          "time": "2026-09-13 12:00:00",
+          "publisher": "蕃新聞→台灣好新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "謝國樑談竹北破局「藍白應檢討」 基隆非常順利不需要擔心",
+          "url": "https://www.ettoday.net/news/20260913/3236551.htm",
+          "time": "2026-09-13 11:37:00",
+          "publisher": "ETtoday",
+          "severity": "yellow"
+        },
+        {
+          "title": "民眾黨創黨主席柯文哲今天出席民眾黨在台北市議會舉辦的鐳射對戰賽，談到竹北藍白合破局是否影響其他縣市選情，柯文哲表示，現在是要防止外溢效應，點名新北、高雄、宜蘭可能受到波及，呼籲藍白陣營不能等閒視之。",
+          "url": "https://udn.com/news/story/124652/9751365?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-09-13 10:44:40",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "竹北市藍白宣告分裂，根據「美麗島電子報」發布最新竹北市長民調，在藍白未整合之下，藍綠差距僅3.8個百分點，民眾黨邱臣遠支持度則居第三。對此，邱臣遠今天接受聯訪時回應，這份民調結果「意料中的產品，結果可想而知」，吳子嘉是在忠實執行自己的業務。他近期透過家戶拜訪、掃街拜票，感受到的民意與民調有巨大落差。",
+          "url": "https://udn.com/news/story/124652/9751302?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-09-13 10:44:40",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "竹北藍白破局恐外溢！柯文哲點名5縣市 直言彰化大勢已去、竹縣難救",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NczJWQ3EyaElwbGRPSzdXY2dDUEpXZXREbV9nTy1EQmR4cVVuaWJUOFduM1l2TnZhSjVnM1BEbGwzWVF5Y0ZyZTRPWQ?oc=5",
+          "time": "2026-09-13 10:37:00",
+          "publisher": "Google News→FTNN 新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "竹北藍白合破局外溢效應 柯文哲：彰化大勢已去、竹縣難挽救",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5572218",
+          "time": "2026-09-13 10:29:09",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "竹北藍白合破局敲警鐘 謝國樑坦言要檢討：但基隆不用擔心",
+          "url": "https://newtalk.tw/news/view/2026-09-13/1059428",
+          "time": "2026-09-13 10:03:04",
+          "publisher": "新頭殼",
+          "severity": "yellow"
+        },
+        {
+          "title": "竹北市長最新民調出爐！吳旭智：持續努力 邱臣遠：意料中的產品",
+          "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%8C%97%E5%B8%82%E9%95%B7%E6%9C%80%E6%96%B0%E6%B0%91%E8%AA%BF%E5%87%BA%E7%88%90-%E5%90%B3%E6%97%AD%E6%99%BA-%E6%8C%81%E7%BA%8C%E5%8A%AA%E5%8A%9B-%E9%82%B1%E8%87%A3%E9%81%A0-%E6%84%8F%E6%96%99%E4%B8%AD%E7%9A%84%E7%94%A2%E5%93%81-083826728.html",
+          "time": "2026-09-13 08:38:26",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "竹北藍白破局外溢效應？柯文哲稱北市穩5縣市恐失控：彰化大勢已去",
+          "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%8C%97%E8%97%8D%E7%99%BD%E7%A0%B4%E5%B1%80%E5%A4%96%E6%BA%A2%E6%95%88%E6%87%89-%E6%9F%AF%E6%96%87%E5%93%B2%E7%A8%B1%E5%8C%97%E5%B8%82%E7%A9%A95%E7%B8%A3%E5%B8%82%E6%81%90%E5%A4%B1%E6%8E%A7-%E5%BD%B0%E5%8C%96%E5%A4%A7%E5%8B%A2%E5%B7%B2%E5%8E%BB-072628044.html",
+          "time": "2026-09-13 07:26:28",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "竹北藍白不合爆外溢效應！柯文哲示警新北、宜蘭、高雄受波及 彰縣、竹縣大勢已去",
+          "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%8C%97%E8%97%8D%E7%99%BD%E4%B8%8D%E5%90%88%E7%88%86%E5%A4%96%E6%BA%A2%E6%95%88%E6%87%89-%E6%9F%AF%E6%96%87%E5%93%B2%E7%A4%BA%E8%AD%A6%E6%96%B0%E5%8C%97-%E5%AE%9C%E8%98%AD-%E9%AB%98%E9%9B%84%E5%8F%97%E6%B3%A2%E5%8F%8A-%E5%BD%B0%E7%B8%A3-050200839.html",
+          "time": "2026-09-13 05:02:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "新竹縣長選戰主軸 徐欣瑩：廉能政治對抗金權政治 | 勁報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PSGtHcFNXZ0VpWFpMMXRUV1daa3RJVHdMSFp5enVxUmd4S09QMXhycHJLV0JlclptU0h3OG5GT0RtOEIwcU5XZ1NyUnVia25FOG5EQXl3?oc=5",
+          "time": "2026-09-12 21:29:47",
+          "publisher": "Google News→today.line.me",
+          "severity": "yellow"
+        },
+        {
+          "title": "新竹縣長選戰主軸 徐欣瑩：廉能政治對抗金權政治",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oTjVBaTFYRVF3MGlLa2o5S0FrblNPcGFDWnItS0pFdjNvQTIxU0VRN19NYXk0ckpzcnlYVWQ2elU4WGlvOHlpMmhTSUp1b0dwVXc?oc=5",
+          "time": "2026-09-12 20:46:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": "yellow"
         }
       ],
       "comments": []
@@ -1206,216 +1395,6 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yXzh5VnQyMmdfY05zeTVfM1lEVktORHMzNTVLcFlNY01mc3Q4YWxzdm93LWdfTHhyY2VFV3Nuazg0dnpjWm1zb2I0ZEY1SGFS0gFWQVVfeXFMT0xMdnhsOFNkMW4xMkV2SFVMNC1SR3gtcEF5akxnQ3JQWnBKUF82WTI5SkY0Z2VHMEZORnVxUnBmTXRpbkxTeVlRTk9iVzFiVFlUZE9kcFE?oc=5",
           "time": "2026-09-12 19:20:28",
           "publisher": "Google News→UDN",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "新竹縣地方動態",
-      "city": "新竹縣",
-      "place": "新竹縣政府",
-      "level": "yellow",
-      "news_count": 28,
-      "comment_count": 0,
-      "negativity_pct": 7,
-      "is_urgent": false,
-      "urgency_score": 34,
-      "news_articles": [
-        {
-          "title": "白營小雞求曝光「新竹縣母雞2選1」？徐嶔煌揭：比較喜歡鄭朝方！｜#頭家來開講｜民視讚夯.com",
-          "url": "https://www.youtube.com/watch?v=klKRusiHkM0",
-          "time": "2026-09-13 18:05:23",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "竹北市長民調吳旭智領先 持續爭取民眾認同",
-          "url": "https://www.cdns.com.tw/articles/1459309",
-          "time": "2026-09-13 17:00:03",
-          "publisher": "中華日報",
-          "severity": null
-        },
-        {
-          "title": "竹北裂痕掀骨牌效應 柯文哲點名「彰化、新竹」難挽救",
-          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOQWkxSGZHamctZngtTHJhWDR2UmZqWk4tdzZzQUl3LVRTMDIwRlllNTIzWXhRX2xqcmZleENMSFFhQUpWazU2bkxESmczZUN1R01qSUxSYUZOZjRxaHNoMk9kMjAwWHM5TkxGcjhQUVJUdzZoOTIyZmRmQnVEVmF5alIzakNnUmRqU3RhWHA1Nmk0YmY1dEhnblNVZHkzRGpmV2FOeUh2T2ZHdjZCazlyb1lTelZhaW9sdzlpcFdBN2FzQUpmSFNjelFWSGJpMnk2Sm9kUldPZlRqQWNSeTZCZ3kxb0UzdkcxQ2tHcVZPNDcyTE1LS3U5akVPa0dhVzhrTG5PZGl2WDJYSjcydTBvQnNha1I3ekhDRG1hWllHeGNTUmVBaVdqOEFhYlJHd0R6dllkUUs5UDVYcy1HT2pNNnoxSzMySVUyVE9rXzhRbGM2WnRX?oc=5",
-          "time": "2026-09-13 16:55:26",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "五力全開峰動全場 新竹縣五峰鄉射箭競賽高手雲集",
-          "url": "https://tw.news.yahoo.com/%E4%BA%94%E5%8A%9B%E5%85%A8%E9%96%8B%E5%B3%B0%E5%8B%95%E5%85%A8%E5%A0%B4-%E6%96%B0%E7%AB%B9%E7%B8%A3%E4%BA%94%E5%B3%B0%E9%84%89%E5%B0%84%E7%AE%AD%E7%AB%B6%E8%B3%BD%E9%AB%98%E6%89%8B%E9%9B%B2%E9%9B%86-084551125.html",
-          "time": "2026-09-13 16:45:51",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "美麗島民調竹北市長藍勝白　柯文哲轟吳子嘉「只會激怒人」",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-09-13/2465776.html",
-          "time": "2026-09-13 15:51:54",
-          "publisher": "壹電視",
-          "severity": "yellow"
-        },
-        {
-          "title": "竹北市藍白宣告分裂，根據「美麗島電子報」發布最新竹北市長民調，在藍白未整合之下，國民黨吳旭智以29.0%支持度微幅領先民進黨曾聖凱的25.2%，差距僅3.8個百分點。對此，吳旭智今天回應，每一個數字的背後，都是一份期待，希望最後爭取到的，不只是一張選票，而是竹北市民願意把這座城市的未來交給他的信任。",
-          "url": "https://udn.com/news/story/124652/9751697?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-13 15:51:50",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "國民黨新竹縣長參選人徐欣瑩今天出席黨部活動，對於有民調顯示競選對手、民進黨鄭朝方的好感度領先，她受訪表示，與其關注好感度，人民對金權政治的厭惡度才是政治人物最應該重視的問題，「我也相信新竹縣民絕對不願意再回到家族利益把持的回頭路」。",
-          "url": "https://udn.com/news/story/124652/9751694?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-13 15:51:50",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "竹北藍白破局引外溢效應 柯文哲:恐波及新北高雄宜蘭",
-          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQUFlscUxfWkNNb1ZWWGpLWkV1UlZjSC0tY09RUE1UUE1YMWRtS1Rla2F3YlNBVGZ1d3djeGFUWkNyTjdyQ1RqSzFyUE5uLWtKYkxKd3E0T1VBZ2pvLW1qb2JydVpFN0xPdVRBQ0JWOV9sMEJfSVoyN3R2MVhRckFaOVJwYXhncFJMcmtJOVN3bUlyUjBDT29yS0ZURWxkdFR3V0hIVTdtTTlaX1FQZmVVQ2p5TURBN3QwMWUwTTFNX1ozWWZXRXh1RUpRam80cDlwcU5PeVhuOFBxWjJ0Mzdvam5iemFKSVB1VnZVMVFoekVsR3ByU0RwVm11b3VFc0ROM3E3TGFCNUtMbm5KWlJSOUdjZnVvNkNmYW9ybXpsY2RQNExscXVQc0N5bnNfUnVldVdreExMempCZnBaakFTNExuTGtOU0k0Y2FFeXJ3aFF0NzJpcnlUQU1PQU5xWExKdG5YMG1DTHJsQQ?oc=5",
-          "time": "2026-09-13 14:39:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "竹北藍白破局外溢效應 柯文哲點名：彰化大勢已去、竹縣很難挽救",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3OG4taF9MVXlIamhDQzltUVFmV1M1ZnU1QUN5VS05TzYxOHpJcVhQZTJ5UTk5Uzh1WkRuZ1Q5YnZQWWswdlNUbdIBTEFVX3lxTFBNUHkzYmllTGtud2VOVHowQXdrR2p2ckpPYjdSLXZ4VnFjT1VXMlRwU29wVTRvY1hjbjN6X2J1OFhiS2tRYjlnZWtiUlI?oc=5",
-          "time": "2026-09-13 14:20:00",
-          "publisher": "三立新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "鄭朝方好感度領先！徐欣瑩批新竹縣金權政治 籲拒絕家族利益回頭路",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5572396",
-          "time": "2026-09-13 13:14:56",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "竹北藍白合破局外溢？柯文哲點名5縣市「恐失控」：竹縣難救、彰化大勢已去",
-          "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%8C%97%E8%97%8D%E7%99%BD%E5%90%88%E7%A0%B4%E5%B1%80%E5%A4%96%E6%BA%A2-%E6%9F%AF%E6%96%87%E5%93%B2%E9%BB%9E%E5%90%8D5%E7%B8%A3%E5%B8%82-%E6%81%90%E5%A4%B1%E6%8E%A7-%E7%AB%B9%E7%B8%A3%E9%9B%A3%E6%95%91-%E5%BD%B0%E5%8C%96%E5%A4%A7%E5%8B%A2%E5%B7%B2%E5%8E%BB-051132395.html",
-          "time": "2026-09-13 13:11:32",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "竹北藍白不合爆外溢效應！柯文哲示警新北、宜蘭、高雄受波及彰縣、竹縣大勢已去- 鏡報",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RMEx5ZVFMU0prNk4wekRvSG8tTDdKNEM1QlFuYkgyU3dkLVlEUmw0NGNzWkRQWkFZS2lZUWYxa3daOEpLR3dRNktPdEVSSFFJcFE?oc=5",
-          "time": "2026-09-13 13:02:00",
-          "publisher": "Google News→鏡報",
-          "severity": "yellow"
-        },
-        {
-          "title": "竹北藍白破局「外溢效應」擴大 柯文哲：彰化大勢已去、竹縣也難救 | 上報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RU3NfWnF1TlJPRE02U3hqaDZnVjlhVzVfSWV1dnV3OS1oWWRVOHdib0NfMkZ0R3FWZFprSXdhbTh5aDRmcUpNZ055UTNCQWt1UVB3dDFn?oc=5",
-          "time": "2026-09-13 12:50:17",
-          "publisher": "Google News→today.line.me",
-          "severity": "yellow"
-        },
-        {
-          "title": "2026新竹縣五峰鄉射箭競賽 鄉長秋維書：射箭蘊含深厚的原鄉文化",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SYjNVV19BclpCZXowV3N0dFFMSHlIM0lvOTNLS0dIdldKYVVDcU1KUGVSSWtTNGVOSUpWRHMtWEFHTThBZDQyU0Jjakl0b3M4WHc?oc=5",
-          "time": "2026-09-13 12:36:00",
-          "publisher": "Google News→n.yam.com",
-          "severity": null
-        },
-        {
-          "title": "竹北藍白破局「外溢效應」擴大 柯文哲：彰化大勢已去、竹縣也難救",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YejFVYk9CclNvdFVYMDhzMmZ6Zkd5RGNhQzJUZk1vckRKdG1pX1JsUTVQR2QzallwUlR3UHdsWVNTS1Jvd2FvNzllZkZmaEVJLUotRWNGNHRUWXc?oc=5",
-          "time": "2026-09-13 12:10:00",
-          "publisher": "Google News→上報Up Media",
-          "severity": "yellow"
-        },
-        {
-          "title": "竹北市長藍白合破局！ 柯文哲警告外溢效應：恐波及新北、高雄、宜蘭",
-          "url": "https://n.yam.com/Article/20260913894456",
-          "time": "2026-09-13 12:00:00",
-          "publisher": "蕃新聞→台灣好新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "謝國樑談竹北破局「藍白應檢討」 基隆非常順利不需要擔心",
-          "url": "https://www.ettoday.net/news/20260913/3236551.htm",
-          "time": "2026-09-13 11:37:00",
-          "publisher": "ETtoday",
-          "severity": "yellow"
-        },
-        {
-          "title": "民眾黨創黨主席柯文哲今天出席民眾黨在台北市議會舉辦的鐳射對戰賽，談到竹北藍白合破局是否影響其他縣市選情，柯文哲表示，現在是要防止外溢效應，點名新北、高雄、宜蘭可能受到波及，呼籲藍白陣營不能等閒視之。",
-          "url": "https://udn.com/news/story/124652/9751365?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-13 10:44:40",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "竹北市藍白宣告分裂，根據「美麗島電子報」發布最新竹北市長民調，在藍白未整合之下，藍綠差距僅3.8個百分點，民眾黨邱臣遠支持度則居第三。對此，邱臣遠今天接受聯訪時回應，這份民調結果「意料中的產品，結果可想而知」，吳子嘉是在忠實執行自己的業務。他近期透過家戶拜訪、掃街拜票，感受到的民意與民調有巨大落差。",
-          "url": "https://udn.com/news/story/124652/9751302?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-13 10:44:40",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "竹北藍白破局恐外溢！柯文哲點名5縣市 直言彰化大勢已去、竹縣難救",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NczJWQ3EyaElwbGRPSzdXY2dDUEpXZXREbV9nTy1EQmR4cVVuaWJUOFduM1l2TnZhSjVnM1BEbGwzWVF5Y0ZyZTRPWQ?oc=5",
-          "time": "2026-09-13 10:37:00",
-          "publisher": "Google News→FTNN 新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "竹北藍白合破局外溢效應 柯文哲：彰化大勢已去、竹縣難挽救",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5572218",
-          "time": "2026-09-13 10:29:09",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "竹北藍白合破局敲警鐘 謝國樑坦言要檢討：但基隆不用擔心",
-          "url": "https://newtalk.tw/news/view/2026-09-13/1059428",
-          "time": "2026-09-13 10:03:04",
-          "publisher": "新頭殼",
-          "severity": "yellow"
-        },
-        {
-          "title": "竹北市長最新民調出爐！吳旭智：持續努力 邱臣遠：意料中的產品",
-          "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%8C%97%E5%B8%82%E9%95%B7%E6%9C%80%E6%96%B0%E6%B0%91%E8%AA%BF%E5%87%BA%E7%88%90-%E5%90%B3%E6%97%AD%E6%99%BA-%E6%8C%81%E7%BA%8C%E5%8A%AA%E5%8A%9B-%E9%82%B1%E8%87%A3%E9%81%A0-%E6%84%8F%E6%96%99%E4%B8%AD%E7%9A%84%E7%94%A2%E5%93%81-083826728.html",
-          "time": "2026-09-13 08:38:26",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "竹北藍白破局外溢效應？柯文哲稱北市穩5縣市恐失控：彰化大勢已去",
-          "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%8C%97%E8%97%8D%E7%99%BD%E7%A0%B4%E5%B1%80%E5%A4%96%E6%BA%A2%E6%95%88%E6%87%89-%E6%9F%AF%E6%96%87%E5%93%B2%E7%A8%B1%E5%8C%97%E5%B8%82%E7%A9%A95%E7%B8%A3%E5%B8%82%E6%81%90%E5%A4%B1%E6%8E%A7-%E5%BD%B0%E5%8C%96%E5%A4%A7%E5%8B%A2%E5%B7%B2%E5%8E%BB-072628044.html",
-          "time": "2026-09-13 07:26:28",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "竹北藍白不合爆外溢效應！柯文哲示警新北、宜蘭、高雄受波及 彰縣、竹縣大勢已去",
-          "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%8C%97%E8%97%8D%E7%99%BD%E4%B8%8D%E5%90%88%E7%88%86%E5%A4%96%E6%BA%A2%E6%95%88%E6%87%89-%E6%9F%AF%E6%96%87%E5%93%B2%E7%A4%BA%E8%AD%A6%E6%96%B0%E5%8C%97-%E5%AE%9C%E8%98%AD-%E9%AB%98%E9%9B%84%E5%8F%97%E6%B3%A2%E5%8F%8A-%E5%BD%B0%E7%B8%A3-050200839.html",
-          "time": "2026-09-13 05:02:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "新竹縣長選戰主軸 徐欣瑩：廉能政治對抗金權政治 | 勁報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PSGtHcFNXZ0VpWFpMMXRUV1daa3RJVHdMSFp5enVxUmd4S09QMXhycHJLV0JlclptU0h3OG5GT0RtOEIwcU5XZ1NyUnVia25FOG5EQXl3?oc=5",
-          "time": "2026-09-12 21:29:47",
-          "publisher": "Google News→today.line.me",
-          "severity": "yellow"
-        },
-        {
-          "title": "新竹縣長選戰主軸 徐欣瑩：廉能政治對抗金權政治",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oTjVBaTFYRVF3MGlLa2o5S0FrblNPcGFDWnItS0pFdjNvQTIxU0VRN19NYXk0ckpzcnlYVWQ2elU4WGlvOHlpMmhTSUp1b0dwVXc?oc=5",
-          "time": "2026-09-12 20:46:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "國民黨新竹縣長參選人徐欣瑩今提出「雙AI」政策，若當選將成立「AI產業學院」，導入科技治理、大數據及動態交通流控，整合13鄉鎮交通、醫療與教育資源，並與竹北市公所「竹竹攜手」，讓科技真正解決民生痛點。",
-          "url": "https://udn.com/news/story/124652/9750650?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-12 18:46:52",
-          "publisher": "聯合新聞網",
           "severity": null
         }
       ],
@@ -1977,11 +1956,11 @@
       "city": "台中",
       "place": "台中市政府",
       "level": "yellow",
-      "news_count": 45,
+      "news_count": 43,
       "comment_count": 61,
       "negativity_pct": 0,
       "is_urgent": true,
-      "urgency_score": 142,
+      "urgency_score": 140,
       "news_articles": [
         {
           "title": "影》賴清德、盧秀燕攻防 何欣純挨酸被邊緣化：妳才該回歸市政",
@@ -2282,20 +2261,6 @@
           "url": "https://tw.news.yahoo.com/%E7%9B%A7%E7%A7%80%E7%87%95%E8%BD%9F%E5%9F%B7%E6%94%BF%E9%BB%A8%E6%BF%AB%E7%94%A8%E6%AC%8A%E5%8B%A2-%E5%8F%B8%E6%B3%95-%E5%96%8A%E8%A9%B1%E6%88%90%E7%AB%8B%E5%9C%A8%E9%87%8E%E5%A4%A7%E8%81%AF%E7%9B%9F-050523011.html",
           "time": "2026-09-13 05:05:23",
           "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "賴總統站台挺何欣純 砲轟盧秀燕市府「施政3缺失」滿意度輸3縣",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95c2ZxR09ENjZlTWhwNHNWdnBLSFlTNUF5aW80d3BXaW8taXZVZ2FWV1JKS3VyM0ZpUUVFZzIydldLaE1FV2lGdW4zWTlBcWw5eTV1bmJ6SWo?oc=5",
-          "time": "2026-09-12 18:46:55",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "賴總統站台挺何欣純 砲轟盧秀燕市府「施政3缺失」滿意度輸3縣",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRdlcwSUJWbTduWk1jVDZtM2VxUV9qdDkyNU1rN1RaY28wV3RFR3lISzlrN05senhTRTk2bGRjR0x2eV9XcFZCTEVhQTJEY1RvRkxJ0gFYQVVfeXFMT2NpcEpRdnRxNWNjVEUyUnRYVUVfZ2VTR3hPUGVQV1VpSDVrYy1yT2NlV1RHanBCbXlwdWh4LUExSWFLUVJUOHo2WWFPckJxTkxVY2JYLVg0Vw?oc=5",
-          "time": "2026-09-12 18:46:55",
-          "publisher": "Google News→UDN",
           "severity": "yellow"
         }
       ],
@@ -4097,11 +4062,11 @@
       "city": "苗栗",
       "place": "苗栗縣政府",
       "level": "red",
-      "news_count": 47,
+      "news_count": 45,
       "comment_count": 0,
       "negativity_pct": 9,
       "is_urgent": false,
-      "urgency_score": 59,
+      "urgency_score": 57,
       "news_articles": [
         {
           "title": "苗栗縣115年度勞工教育暨「幸福有約」未婚聯誼活動 拓展單身勞工交友生活圈",
@@ -4417,20 +4382,335 @@
           "time": "2026-09-12 18:55:04",
           "publisher": "Google News→LINE TODAY",
           "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "屏東地方動態",
+      "city": "屏東",
+      "place": "屏東縣政府",
+      "level": "red",
+      "news_count": 45,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 45,
+      "news_articles": [
+        {
+          "title": "一生傳唱民謠 陳英與張日貴獲頒屏東文化獎特展",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tcTBhcWhhaWZXSTFhbm1pQWpMVDBTU0xkb05nX0xWOHBOU2Uwc3poOHhfRDRZVXZIbkNFQUVjSElncXdKb0Fkag?oc=5",
+          "time": "2026-09-13 16:55:15",
+          "publisher": "Google News→台灣民眾電子報",
+          "severity": null
         },
         {
-          "title": "明年挹注苗栗增加20億元 賴清德：陳品安若有需要一定全力支援 | Newtalk",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSeWFxb3pKckpoek1UMTR0RHp3c0xrb1pRY29rNFMteHdOdC1lYjI5REUwbFpYMVdfeld6OVRLQ0xWQThZWWczVmM5S2R5RFNEeFpDeDhn?oc=5",
-          "time": "2026-09-12 18:47:02",
+          "title": "屏東釀醬生活節 台日韓發酵美學PK (圖)",
+          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E9%87%80%E9%86%AC%E7%94%9F%E6%B4%BB%E7%AF%80-%E5%8F%B0%E6%97%A5%E9%9F%93%E7%99%BC%E9%85%B5%E7%BE%8E%E5%AD%B8pk-%E5%9C%96-080829712.html",
+          "time": "2026-09-13 16:08:29",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "黃捷陪同潘筱潔掃街 搶攻屏東縣第3選區年輕票源",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOQWJ6cXhtcW1hTEw4QlFYSzFFRkxQTE8waC1nQTdncERrenFjSmprNHpTNHI1ZmJLSldHUXZXU3dNa2xfVmlNcmwyZTh0M2lXa0dGSWttS0RKOFVmQnc1dk1PTHRyd29uSnNrRjRNcjZ6VTN1UFNBLW1mMjdNUXoxRzJjTUJFVmZ1TzhSdThQOU5nbWFJeWZFUEM2Y2NQOW43dk1qMEJ4UnNmS2JqeEFKMzJwY0xkMFE1dWNtMTA5ZG1ieEFZQ2Fxa01QanltR2ZoWU5Zc0xzRG1aMDNFNGJSZDE1UjJpNlhLSHl1dG0wWjNubFI5TXBXQ2lQV2hkUjRsVFhrLXJGMHlUTGtTLWJRTEMyb1o0T0xTbXVUbnJIeWtpRUNfTnZGakZBZnNLM0R4MWc1SHlSeEJHUDBFdG96QlYxN25YcDdlRk1qQm9Qc0kzQQ?oc=5",
+          "time": "2026-09-13 16:00:40",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "屏東釀醬生活節在竹田頓物驛熱鬧登場",
+          "url": "https://www.cdns.com.tw/articles/1459273",
+          "time": "2026-09-13 15:45:09",
+          "publisher": "中華日報",
+          "severity": null
+        },
+        {
+          "title": "屏東郵局攜手屏南教會清淨家園 響應環保並防詐宣導 | 中華日報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53Y1FGU0pvZlhJMXdEVGNYT0xsa3E4YXBFQjJvQ2tmVGFzVm5NTTc5MC1DRmxhbk9hX1E0Wmlvck1XWEp2TDFtU1pxN00xaGd5Q1BsQkxR?oc=5",
+          "time": "2026-09-13 15:41:22",
           "publisher": "Google News→LINE TODAY",
           "severity": null
         },
         {
-          "title": "賴清德總統今天下午到苗栗縣竹南鎮參加民進黨苗栗縣長參選人陳品安競選總部成立大會，為民進黨與親綠鄉鎮市長、縣議員參選人造勢。賴清德上台致詞前20分鐘突然下起一陣大雨，但雨勢很快停歇，賴清德感謝支持者都「沒有離開」，強調推出陳品安參選苗栗縣長，他的內心感受很深，因大家都有共同願景盼苗栗愈來愈好，苗栗未來要發展，需要專業能力的縣長，因此一定要送她進縣府，讓苗栗成為光榮、 驕傲的所在。",
-          "url": "https://udn.com/news/story/124652/9750667?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-12 18:46:52",
+          "title": "屏東郵局攜手屏南教會清淨家園 響應環保並防詐宣導",
+          "url": "https://www.cdns.com.tw/articles/1459271",
+          "time": "2026-09-13 15:39:45",
+          "publisher": "中華日報",
+          "severity": null
+        },
+        {
+          "title": "屏東釀醬生活節 台日韓發酵料理竹田飄香",
+          "url": "https://www.cna.com.tw/news/aloc/202609130104.aspx",
+          "time": "2026-09-13 15:32:25",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "屏東釀醬生活節台日韓發酵料理竹田飄香| 地方",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yX2dvb0hrUzI2UU9hWmU4RFo2RkdZc0FHYTltcHNCRmRYbHJhLXZpQnpBUnZJdC01YXRxd2h6NllSbExHek9tWWQ3N1VyWUpUekhVdTZmSHdYTFhHeWdR?oc=5",
+          "time": "2026-09-13 15:32:00",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "屏東郵局攜手屏南教會清淨家園 響應環保公益並加強防詐宣導",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14RGI1cFpiVFZJRmpzRHJIakx5WU81V3RzNnFJeUFWS0wtTnJJV3RXaDN1dS1hMzhaX3l5TXJLMm1fOHRLMzRXMg?oc=5",
+          "time": "2026-09-13 15:21:54",
+          "publisher": "Google News→台灣民眾電子報",
+          "severity": null
+        },
+        {
+          "title": "落實職場安全衛生 林業保育署屏東分署辦理林業技術人員職能訓練",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91TUg1ZnVZTTc2T3l0cms5RENUVmFLR1hob2RsYUpqR3lpYnJlcUNxUTNxeFlkWUlTZHNxanpzc2dVTHlPVkJDWkFnRmdrOEFBaVE?oc=5",
+          "time": "2026-09-13 14:40:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "高屏二快終於要動了！屏東端9月28日動土典禮全線估2033年完工| 高屏離島| 地方",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tYnIxV3JVY2V4RzN2VWo1VEx4S3BDdmpKRjRvaGcxOXdjUzk5dVdMVFJ6aW9aWVJqbUJhQjRyZzNHejkzY2w0QnRydEo4MVhD?oc=5",
+          "time": "2026-09-13 14:34:47",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "一週天氣預報 - 東北風增強、北東雲多轉涼，屏東午後雨勢最明顯",
+          "url": "https://news.nextapple.com/life/20260913/0846D3C137C0A32450CC7A43679882B9",
+          "time": "2026-09-13 14:10:04",
+          "publisher": "壹蘋新聞網",
+          "severity": null
+        },
+        {
+          "title": "屏東原民館織之有序開展 許春美師生演譯排灣織藝傳承",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hQzRDUElyQU11eEdoa01TN25NMlJBMzZ1YVZmdTVaUGdwZ2xBczk4Q1hyNlI1RW4zbmhGNFcwQWZhNGNweVJTRA?oc=5",
+          "time": "2026-09-13 14:06:00",
+          "publisher": "Google News→peopo.org",
+          "severity": null
+        },
+        {
+          "title": "屏東縣議員第三選區參選人潘筱潔今邀立法院最年輕立委黃捷聯合掃街拜票，「捷」「潔」雙姝深入地方街巷，向鄉親請託，展現高人氣，潘筱潔說，藉由新世代清新形象與改革活力，擴大爭取年輕選民支持。",
+          "url": "https://udn.com/news/story/124652/9751621?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-09-13 13:56:02",
           "publisher": "聯合新聞網",
           "severity": null
+        },
+        {
+          "title": "從海廢重生到低碳旅遊 屏東打造小琉球永續觀光新樣貌",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OZ28wNDBpOFRxR0JlZzRSODJTem5DajRuU1llTHhNVGlTN1VxUmNTM0VLRXdaSjYzY2x6LW9UYlo5TThqSXN4dlhyX2gwN29DUTRfcA?oc=5",
+          "time": "2026-09-13 13:37:21",
+          "publisher": "Google News→新頭條",
+          "severity": null
+        },
+        {
+          "title": "「捷潔」雙姝合體掃街！黃捷跨區挺潘筱潔力拚屏東縣議會新席次| 2026九合一選舉",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CNmhUZmJYLVBHR2lvNjhVTWFzRm16d0g5QWY0TzczaGJYZC02TU1qODN6bVRublRoVzFKcEE0eG4xUEZJSUlVUGJWUTloemZzdVFNY202Yjc?oc=5",
+          "time": "2026-09-13 13:27:42",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "屏東鎮海公園2男童溺水 弟被救起、兄送醫不治",
+          "url": "https://news.pts.org.tw/article/826840",
+          "time": "2026-09-13 13:14:37",
+          "publisher": "公視 即時",
+          "severity": "red"
+        },
+        {
+          "title": "雨炸南台灣！ 屏東道路積水 風雨太大店家急歇【最新快訊】",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84WHBwWi01aWh2TjFLU3BuOXd6MFE1V1JfdlJORVdXcUhmM01tTWZWN3lUVTZObWVrS0dEVFFCZk1ZV1FSc2J0UkxSWXZYSWdwQS1BN1BiWjRveHRjblJORDFQOTFianNQT3U5NFZoelB2MnA0aU1oYmlPWUs?oc=5",
+          "time": "2026-09-13 12:44:47",
+          "publisher": "Google News→台視全球資訊網",
+          "severity": "yellow"
+        },
+        {
+          "title": "屏東縣縣長盃排球錦標賽 內埔國中熱血開賽",
+          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E7%B8%A3%E7%B8%A3%E9%95%B7%E7%9B%83%E6%8E%92%E7%90%83%E9%8C%A6%E6%A8%99%E8%B3%BD-%E5%85%A7%E5%9F%94%E5%9C%8B%E4%B8%AD%E7%86%B1%E8%A1%80%E9%96%8B%E8%B3%BD-220800895.html",
+          "time": "2026-09-13 06:08:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "屏東縣縣長盃排球錦標賽 內埔國中熱血開賽 - 政府消息新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGd5bW5kTm1xTHktZUJkQUFCYmpSVXh6cVhNclpjUml5TGZWR2dYZzRtOG8yV251TTlXTDlBQmE4MWlxT1RMaTRDLWptQkVsTlAtX2xMM1dsdW52YVR5eUs4LVpJay1HdTVUVjFudXFDRURQc3NvcG1fdVVoZXRLWTZrLThNVm8yTC1XRA?oc=5",
+          "time": "2026-09-13 06:08:00",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "梁育慈競總成立 拚民進黨首位屏東市長",
+          "url": "https://news.ltn.com.tw/news/Pingtung/paper/1770487",
+          "time": "2026-09-13 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "慶伯公生 屏東南州閹雞賽 15.06斤稱霸",
+          "url": "https://tw.news.yahoo.com/%E6%85%B6%E4%BC%AF%E5%85%AC%E7%94%9F-%E5%B1%8F%E6%9D%B1%E5%8D%97%E5%B7%9E%E9%96%B9%E9%9B%9E%E8%B3%BD-15-06%E6%96%A4%E7%A8%B1%E9%9C%B8-201000644.html",
+          "time": "2026-09-13 04:10:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "選情逼近五五波！梁育慈總部茶會4000人擠爆，屏東三任縣長同框力挺 「屏東的查某囝」訴求做事翻轉屏東市",
+          "url": "https://more-news.tw/718420/",
+          "time": "2026-09-13 00:58:06",
+          "publisher": "墨新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "屏東市綠拚翻轉、3任縣長力挺 斗六市「3姝爭霸」藍陷分裂",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyNjkyYWE4UWlwcEp3QWJDNkVqQjd6UkQySXBJTjVDZWJwREw5bU8zZEZYelhGeFVZWHlpcXZ0c2pBRGNSRkllN2VXME44YzQ1R3E40gFYQVVfeXFMUE9CUXdaNmdzZnhUbWZzMUFxQ1lFN2VtUlBDLWR4MmVaU3drNFNEODJTcjlJRE93b0RPRnJkbjVvZ1VuaDdQNnNnT0VBN2VTeWU1RVJ1MEZibg?oc=5",
+          "time": "2026-09-13 00:00:00",
+          "publisher": "Google News→UDN",
+          "severity": "yellow"
+        },
+        {
+          "title": "柯志恩稱高雄成屏東孩子的「花花世界」 綠選將批天龍國傲慢 | 自由電子報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YNmk3VVpkMFdSU09LV296U0ptVVhKbG9lY3JJZW50R0NUMVJDLWdpcUUwTEQ0Z2FEZUJaNDdXTFRjVmFHYTZBSFdNTG9mM2FHUDc1LVJR?oc=5",
+          "time": "2026-09-12 23:49:52",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "yellow"
+        },
+        {
+          "title": "暑期破紀錄大雨沖不毀先人智慧 屏東來義「崑崙坳古道」朝聖再添新路段",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5572071",
+          "time": "2026-09-12 23:30:32",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "叫你阿嬤出來打！屏東縣「銀閃閃電競大賽」 長輩嗨玩體感遊戲",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5572065",
+          "time": "2026-09-12 23:22:09",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "國旅補助上路！屏東再加碼「旅遊購GO節」 9月住宿抽獎序號直接翻倍",
+          "url": "https://more-news.tw/718370/",
+          "time": "2026-09-12 22:58:13",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "新北潛水意外！男學員昏迷不治 屏東兄弟檔落海13歲哥溺亡",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5RGw0T2UtQjlaV0hDSldvQWtjLTRMYXB1RERUOU9IUUJ4SUZjaTVGazN2QVJHMzkxb0VIMUJ5eXR6ZXZaZjRXWkhnU0xmaEk?oc=5",
+          "time": "2026-09-12 22:41:00",
+          "publisher": "TVBS",
+          "severity": "red"
+        },
+        {
+          "title": "柯志恩稱高雄成屏東孩子的「花花世界」 綠選將批天龍國傲慢",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5572059",
+          "time": "2026-09-12 22:23:09",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "屏東溺水悲劇！小兄弟鎮海公園戲水 13歲哥哥搶救不治",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NcnA1ZWpLNDg0T0ZyWks2MUtYaU5Wd3R0Sy1DVXl1dVlqamZwODJuQjBXa2tDN2VxdzJLRUZYWEtPbDY3UVl5SU5COEdvQVVyTTFiSGNBbXgzaWRuajB1Sw?oc=5",
+          "time": "2026-09-12 22:20:48",
+          "publisher": "Google News→ftvnews.com.tw",
+          "severity": "red"
+        },
+        {
+          "title": "從椅子有氧到拳擊有氧 「屏東Young有氧Jump」周春米、潘若迪帶領千人嗨跳律動",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaVRaWU9aeGRaZGxwd2wwUmdFV2kzZlBGSVRIY2daMUwwcWI5UGI5X0Y5anlCbDA4bHFCQmRNR05WMGR1cHp0RERwcUR6QkZWcmdMcEFzWkxqNG15SkxNai00Y2lXTWQxNHZYMjNhN0RkZlFaYW5YeFZaZ0tlU1BwUzhWWVFmUVcteUpDUVVuREJNQTQ?oc=5",
+          "time": "2026-09-12 21:47:05",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "屏東銀閃閃電競大賽熱鬧登場 長輩體驗科技樂趣展現健康活力",
+          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E9%8A%80%E9%96%83%E9%96%83%E9%9B%BB%E7%AB%B6%E5%A4%A7%E8%B3%BD%E7%86%B1%E9%AC%A7%E7%99%BB%E5%A0%B4-%E9%95%B7%E8%BC%A9%E9%AB%94%E9%A9%97%E7%A7%91%E6%8A%80%E6%A8%82%E8%B6%A3%E5%B1%95%E7%8F%BE%E5%81%A5%E5%BA%B7%E6%B4%BB%E5%8A%9B-131922504.html",
+          "time": "2026-09-12 21:19:22",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "屏東東港鎮海公園驚傳兄弟溺水　哥獲救意識清楚、13歲弟OHCA送醫",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-09-12/2465375.html",
+          "time": "2026-09-12 20:37:46",
+          "publisher": "壹電視",
+          "severity": "red"
+        },
+        {
+          "title": "社會 2026/09/12 18:14 屏東兄弟鎮海公園落海 9歲弟獲救14歲兄無生命徵象",
+          "url": "https://news.cts.com.tw/cna/society/202609/202609123078086.html",
+          "time": "2026-09-12 20:37:44",
+          "publisher": "華視新聞網",
+          "severity": "red"
+        },
+        {
+          "title": "梁育慈競總成立拼屏東市長 3任屏東縣長同框力挺",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Gcmkxc1NKWWxXN1d3TWhzY0dtTm5TUF9vakw1M1Nlc3RBYzJobk1VcnIzaTk3ckZGbWppSVJoQlJ1dzN5dkJrR2pSOFlCVzFNQ3dPSlZtclo5alA3NHEwX9IBZkFVX3lxTE45ZDVyRmFlXzNqdDI1LTd3VzZCUWZwYmxxdkNDX2lxamdwXzRaYll6bXVGdERCdXVyZFdITnppdHV6SHZIdkZQejFWME53aE12NTloTUh4azhjVU5hUDNBbGhWTzVyZw?oc=5",
+          "time": "2026-09-12 20:33:00",
+          "publisher": "Google News→大纪元",
+          "severity": null
+        },
+        {
+          "title": "快訊／屏東鎮海公園小兄弟溺水 9歲弟獲救、14歲哥送醫不治",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sbk1yRkFuMWttcE9BQkZZUFV4c2d1RzczbGY2OGw0cWExdUhrTkdCZlg3aDRPUXZ0SWFjRGNjMEIxd3Bxb1ZmeENBd0tPUlRxZ2YzMEhMSFh3RHJMSWfSAUtBVV95cUxNc2djemxCOEsydG9wNkwxdU9yLVRBUHhUUTBzVC01T2JadFpJWGQ0c0syTHJoQWNvNXNCM2hzb1hyVENha1oxOU1NMTg?oc=5",
+          "time": "2026-09-12 20:12:00",
+          "publisher": "ETtoday",
+          "severity": "yellow"
+        },
+        {
+          "title": "桃園土地公「百神會師」今起駕 屏東、馬來西亞宮廟跨域交流",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQRk9PemJpZUx1ODNVYy1jOVZVTlMwcTdIV2xvSExGX1ZReXVUS3FVcEsxMktTcm43SENXWGk5X2JaSEd2X0JQSzAtWFVNMHQ10gFWQVVfeXFMTTRfSVUxb0NhQlp6SUhORWtnUmZUOU5tX2NZenR4MVloM3otUE9Gak1sWGNBLWp6dXotNXZFczdfSnpkUldQS0xIeTZZbFlHTGV1NWgwSGc?oc=5",
+          "time": "2026-09-12 19:55:53",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "屏東醫院攜資策會推智慧醫療平台 加速跨院落地應用",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fT19VWms2cjNoREptbkZCR2YxdG9tTXJsQm1UV2RGT05KZ2tlWjJSTXlRTWxvRGh6SGZpenVTYTBPQVZLZVREUVVLdmVtQWkzQnQ5eENOQmQ3Uk16MHZmU9IBZkFVX3lxTE8yMnZBbGlYcWY5WUhvcmdJU2pLMFhRVlplQ1U2dGdGRTVsWGt2dkVrbDgyck5jOXdXQUlnMHJyUXJWejRYTlhtWDhZcGNQd0VBWUg4djNfckxnaWNpT2dnWk9zdWpxZw?oc=5",
+          "time": "2026-09-12 19:42:00",
+          "publisher": "Google News→大纪元",
+          "severity": null
+        },
+        {
+          "title": "屏東體操館家長會發聲！「事件沒有誰輸誰贏」盼選手權益不再受損",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9val9HMDZteUhLSFNpTDBRZ3R4OWhaVlpiX0xXeV9CaEJUZjhrdFFkaFFPemMtbE9CYnFRLUtvYkhnaV9CM1l4UTNJTlJodw?oc=5",
+          "time": "2026-09-12 19:25:00",
+          "publisher": "Google News→news.tw789.net",
+          "severity": "yellow"
+        },
+        {
+          "title": "屏東東港鎮海公園驚傳兄弟溺水 哥獲救意識清楚、13歲弟OHCA送醫",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YSjNsWVFHTWQ5YVdnaEthdzhGMnR5dVQyS1VjWDdia3ZlMXBSTkhjMXpWWGduMzJIaHkzc0pLbnlWcXZzYS1FWjQxdG1tUVRxckk2dm4taXFxU3RMY2xaeFcxaTFlZ0NoV1hhZFFaVFlTckxpaV9xLVhR?oc=5",
+          "time": "2026-09-12 19:10:37",
+          "publisher": "Google News→eracom.com.tw",
+          "severity": "red"
+        },
+        {
+          "title": "屏東市長選戰逼近五五波！梁育慈總部湧4千人相挺潘孟安、周春米、曹啟鴻三任縣長站台| 徐炳文 | 地方新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUSUl5SkduSThBTFRqU2JPR2VJZnp2Q183bDNJZXZjbGVTOTdYS01NcEY0WTdZcF9sWmRvQmZ3MmcycjRqYmg5c05lQ0RYZw?oc=5",
+          "time": "2026-09-12 19:10:00",
+          "publisher": "Google News→風傳媒",
+          "severity": null
+        },
+        {
+          "title": "屏東市長選戰逼近五五波！梁育慈總部湧4千人相挺 潘孟安、周春米、曹啟鴻三任縣長站台",
+          "url": "https://www.storm.mg/article/11164087",
+          "time": "2026-09-12 19:10:00",
+          "publisher": "風傳媒",
+          "severity": null
+        },
+        {
+          "title": "屏東東港小兄弟海邊溺水 14歲兄無呼吸心跳送醫",
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOSzd0SGNYc2xVbHNtbUV0Wjk5dzZmMjV4QVl6SllFcVFPU2d3YVZ0MWZIU19aMGpDTzFGeVBuSlZnckhSNHFXSFNjOHdlOE5MNVhUZE03SlhQUW9UTl94VVdoRC1LMzlKZUhlR2M3b0pNQjJXT3dia2RkT3hkV1piLWtBRlBoRXktTmlOb2ZqYmZqYkRmb0RZaHg0UVFpRjdMcFFJUFYtQTlUWmQ2M2ZmQk1QT0dwNWFFeE9IWktWT2JNaW9raG9aRUxSemJ3VVhUWHdJRThaR3V3aGlBUEF3X21NQ3haRV9vYVBIRVpjcHNXTWVLVHB6UkxDTzU1cmZaZEtZMFFYeERFVUJ5TnNsaGxPeHE5Qjd6a1lVNHUzOEVTTFpmQVptVl8yTTgxd1JVeFBfTWJzMXAzb2JVS1hGM1llWEZiVzQ?oc=5",
+          "time": "2026-09-12 18:58:37",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "屏東東港溺水意外 兩男童鎮海公園落海 13歲童卡防波堤尋獲命危",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HYUx4VXdrVkszZTJ3eW9WVF9ad2JYaXQ1anl6dDhSQjV3NmQ5bTk0SFVEUjJ0UndKWDUxaGlUVVdOYnhEY0JsUDBVeE9GUkc3Ymc?oc=5",
+          "time": "2026-09-12 18:52:08",
+          "publisher": "Google News→鏡報",
+          "severity": "yellow"
         }
       ],
       "comments": []
@@ -4786,372 +5066,15 @@
       "comments": []
     },
     {
-      "title": "屏東地方動態",
-      "city": "屏東",
-      "place": "屏東縣政府",
-      "level": "red",
-      "news_count": 49,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 49,
-      "news_articles": [
-        {
-          "title": "一生傳唱民謠 陳英與張日貴獲頒屏東文化獎特展",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tcTBhcWhhaWZXSTFhbm1pQWpMVDBTU0xkb05nX0xWOHBOU2Uwc3poOHhfRDRZVXZIbkNFQUVjSElncXdKb0Fkag?oc=5",
-          "time": "2026-09-13 16:55:15",
-          "publisher": "Google News→台灣民眾電子報",
-          "severity": null
-        },
-        {
-          "title": "屏東釀醬生活節 台日韓發酵美學PK (圖)",
-          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E9%87%80%E9%86%AC%E7%94%9F%E6%B4%BB%E7%AF%80-%E5%8F%B0%E6%97%A5%E9%9F%93%E7%99%BC%E9%85%B5%E7%BE%8E%E5%AD%B8pk-%E5%9C%96-080829712.html",
-          "time": "2026-09-13 16:08:29",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "黃捷陪同潘筱潔掃街 搶攻屏東縣第3選區年輕票源",
-          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOQWJ6cXhtcW1hTEw4QlFYSzFFRkxQTE8waC1nQTdncERrenFjSmprNHpTNHI1ZmJLSldHUXZXU3dNa2xfVmlNcmwyZTh0M2lXa0dGSWttS0RKOFVmQnc1dk1PTHRyd29uSnNrRjRNcjZ6VTN1UFNBLW1mMjdNUXoxRzJjTUJFVmZ1TzhSdThQOU5nbWFJeWZFUEM2Y2NQOW43dk1qMEJ4UnNmS2JqeEFKMzJwY0xkMFE1dWNtMTA5ZG1ieEFZQ2Fxa01QanltR2ZoWU5Zc0xzRG1aMDNFNGJSZDE1UjJpNlhLSHl1dG0wWjNubFI5TXBXQ2lQV2hkUjRsVFhrLXJGMHlUTGtTLWJRTEMyb1o0T0xTbXVUbnJIeWtpRUNfTnZGakZBZnNLM0R4MWc1SHlSeEJHUDBFdG96QlYxN25YcDdlRk1qQm9Qc0kzQQ?oc=5",
-          "time": "2026-09-13 16:00:40",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "屏東釀醬生活節在竹田頓物驛熱鬧登場",
-          "url": "https://www.cdns.com.tw/articles/1459273",
-          "time": "2026-09-13 15:45:09",
-          "publisher": "中華日報",
-          "severity": null
-        },
-        {
-          "title": "屏東郵局攜手屏南教會清淨家園 響應環保並防詐宣導 | 中華日報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53Y1FGU0pvZlhJMXdEVGNYT0xsa3E4YXBFQjJvQ2tmVGFzVm5NTTc5MC1DRmxhbk9hX1E0Wmlvck1XWEp2TDFtU1pxN00xaGd5Q1BsQkxR?oc=5",
-          "time": "2026-09-13 15:41:22",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "屏東郵局攜手屏南教會清淨家園 響應環保並防詐宣導",
-          "url": "https://www.cdns.com.tw/articles/1459271",
-          "time": "2026-09-13 15:39:45",
-          "publisher": "中華日報",
-          "severity": null
-        },
-        {
-          "title": "屏東釀醬生活節 台日韓發酵料理竹田飄香",
-          "url": "https://www.cna.com.tw/news/aloc/202609130104.aspx",
-          "time": "2026-09-13 15:32:25",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "屏東釀醬生活節台日韓發酵料理竹田飄香| 地方",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yX2dvb0hrUzI2UU9hWmU4RFo2RkdZc0FHYTltcHNCRmRYbHJhLXZpQnpBUnZJdC01YXRxd2h6NllSbExHek9tWWQ3N1VyWUpUekhVdTZmSHdYTFhHeWdR?oc=5",
-          "time": "2026-09-13 15:32:00",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "屏東郵局攜手屏南教會清淨家園 響應環保公益並加強防詐宣導",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14RGI1cFpiVFZJRmpzRHJIakx5WU81V3RzNnFJeUFWS0wtTnJJV3RXaDN1dS1hMzhaX3l5TXJLMm1fOHRLMzRXMg?oc=5",
-          "time": "2026-09-13 15:21:54",
-          "publisher": "Google News→台灣民眾電子報",
-          "severity": null
-        },
-        {
-          "title": "落實職場安全衛生 林業保育署屏東分署辦理林業技術人員職能訓練",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91TUg1ZnVZTTc2T3l0cms5RENUVmFLR1hob2RsYUpqR3lpYnJlcUNxUTNxeFlkWUlTZHNxanpzc2dVTHlPVkJDWkFnRmdrOEFBaVE?oc=5",
-          "time": "2026-09-13 14:40:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "高屏二快終於要動了！屏東端9月28日動土典禮全線估2033年完工| 高屏離島| 地方",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tYnIxV3JVY2V4RzN2VWo1VEx4S3BDdmpKRjRvaGcxOXdjUzk5dVdMVFJ6aW9aWVJqbUJhQjRyZzNHejkzY2w0QnRydEo4MVhD?oc=5",
-          "time": "2026-09-13 14:34:47",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "一週天氣預報 - 東北風增強、北東雲多轉涼，屏東午後雨勢最明顯",
-          "url": "https://news.nextapple.com/life/20260913/0846D3C137C0A32450CC7A43679882B9",
-          "time": "2026-09-13 14:10:04",
-          "publisher": "壹蘋新聞網",
-          "severity": null
-        },
-        {
-          "title": "屏東原民館織之有序開展 許春美師生演譯排灣織藝傳承",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hQzRDUElyQU11eEdoa01TN25NMlJBMzZ1YVZmdTVaUGdwZ2xBczk4Q1hyNlI1RW4zbmhGNFcwQWZhNGNweVJTRA?oc=5",
-          "time": "2026-09-13 14:06:00",
-          "publisher": "Google News→peopo.org",
-          "severity": null
-        },
-        {
-          "title": "屏東縣議員第三選區參選人潘筱潔今邀立法院最年輕立委黃捷聯合掃街拜票，「捷」「潔」雙姝深入地方街巷，向鄉親請託，展現高人氣，潘筱潔說，藉由新世代清新形象與改革活力，擴大爭取年輕選民支持。",
-          "url": "https://udn.com/news/story/124652/9751621?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-13 13:56:02",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "從海廢重生到低碳旅遊 屏東打造小琉球永續觀光新樣貌",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OZ28wNDBpOFRxR0JlZzRSODJTem5DajRuU1llTHhNVGlTN1VxUmNTM0VLRXdaSjYzY2x6LW9UYlo5TThqSXN4dlhyX2gwN29DUTRfcA?oc=5",
-          "time": "2026-09-13 13:37:21",
-          "publisher": "Google News→新頭條",
-          "severity": null
-        },
-        {
-          "title": "「捷潔」雙姝合體掃街！黃捷跨區挺潘筱潔力拚屏東縣議會新席次| 2026九合一選舉",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CNmhUZmJYLVBHR2lvNjhVTWFzRm16d0g5QWY0TzczaGJYZC02TU1qODN6bVRublRoVzFKcEE0eG4xUEZJSUlVUGJWUTloemZzdVFNY202Yjc?oc=5",
-          "time": "2026-09-13 13:27:42",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "屏東鎮海公園2男童溺水 弟被救起、兄送醫不治",
-          "url": "https://news.pts.org.tw/article/826840",
-          "time": "2026-09-13 13:14:37",
-          "publisher": "公視 即時",
-          "severity": "red"
-        },
-        {
-          "title": "雨炸南台灣！ 屏東道路積水 風雨太大店家急歇【最新快訊】",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84WHBwWi01aWh2TjFLU3BuOXd6MFE1V1JfdlJORVdXcUhmM01tTWZWN3lUVTZObWVrS0dEVFFCZk1ZV1FSc2J0UkxSWXZYSWdwQS1BN1BiWjRveHRjblJORDFQOTFianNQT3U5NFZoelB2MnA0aU1oYmlPWUs?oc=5",
-          "time": "2026-09-13 12:44:47",
-          "publisher": "Google News→台視全球資訊網",
-          "severity": "yellow"
-        },
-        {
-          "title": "屏東縣縣長盃排球錦標賽 內埔國中熱血開賽",
-          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E7%B8%A3%E7%B8%A3%E9%95%B7%E7%9B%83%E6%8E%92%E7%90%83%E9%8C%A6%E6%A8%99%E8%B3%BD-%E5%85%A7%E5%9F%94%E5%9C%8B%E4%B8%AD%E7%86%B1%E8%A1%80%E9%96%8B%E8%B3%BD-220800895.html",
-          "time": "2026-09-13 06:08:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "屏東縣縣長盃排球錦標賽 內埔國中熱血開賽 - 政府消息新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGd5bW5kTm1xTHktZUJkQUFCYmpSVXh6cVhNclpjUml5TGZWR2dYZzRtOG8yV251TTlXTDlBQmE4MWlxT1RMaTRDLWptQkVsTlAtX2xMM1dsdW52YVR5eUs4LVpJay1HdTVUVjFudXFDRURQc3NvcG1fdVVoZXRLWTZrLThNVm8yTC1XRA?oc=5",
-          "time": "2026-09-13 06:08:00",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "梁育慈競總成立 拚民進黨首位屏東市長",
-          "url": "https://news.ltn.com.tw/news/Pingtung/paper/1770487",
-          "time": "2026-09-13 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "慶伯公生 屏東南州閹雞賽 15.06斤稱霸",
-          "url": "https://tw.news.yahoo.com/%E6%85%B6%E4%BC%AF%E5%85%AC%E7%94%9F-%E5%B1%8F%E6%9D%B1%E5%8D%97%E5%B7%9E%E9%96%B9%E9%9B%9E%E8%B3%BD-15-06%E6%96%A4%E7%A8%B1%E9%9C%B8-201000644.html",
-          "time": "2026-09-13 04:10:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "選情逼近五五波！梁育慈總部茶會4000人擠爆，屏東三任縣長同框力挺 「屏東的查某囝」訴求做事翻轉屏東市",
-          "url": "https://more-news.tw/718420/",
-          "time": "2026-09-13 00:58:06",
-          "publisher": "墨新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "屏東市綠拚翻轉、3任縣長力挺 斗六市「3姝爭霸」藍陷分裂",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyNjkyYWE4UWlwcEp3QWJDNkVqQjd6UkQySXBJTjVDZWJwREw5bU8zZEZYelhGeFVZWHlpcXZ0c2pBRGNSRkllN2VXME44YzQ1R3E40gFYQVVfeXFMUE9CUXdaNmdzZnhUbWZzMUFxQ1lFN2VtUlBDLWR4MmVaU3drNFNEODJTcjlJRE93b0RPRnJkbjVvZ1VuaDdQNnNnT0VBN2VTeWU1RVJ1MEZibg?oc=5",
-          "time": "2026-09-13 00:00:00",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "柯志恩稱高雄成屏東孩子的「花花世界」 綠選將批天龍國傲慢 | 自由電子報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YNmk3VVpkMFdSU09LV296U0ptVVhKbG9lY3JJZW50R0NUMVJDLWdpcUUwTEQ0Z2FEZUJaNDdXTFRjVmFHYTZBSFdNTG9mM2FHUDc1LVJR?oc=5",
-          "time": "2026-09-12 23:49:52",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "暑期破紀錄大雨沖不毀先人智慧 屏東來義「崑崙坳古道」朝聖再添新路段",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5572071",
-          "time": "2026-09-12 23:30:32",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "叫你阿嬤出來打！屏東縣「銀閃閃電競大賽」 長輩嗨玩體感遊戲",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5572065",
-          "time": "2026-09-12 23:22:09",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "國旅補助上路！屏東再加碼「旅遊購GO節」 9月住宿抽獎序號直接翻倍",
-          "url": "https://more-news.tw/718370/",
-          "time": "2026-09-12 22:58:13",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "新北潛水意外！男學員昏迷不治 屏東兄弟檔落海13歲哥溺亡",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5RGw0T2UtQjlaV0hDSldvQWtjLTRMYXB1RERUOU9IUUJ4SUZjaTVGazN2QVJHMzkxb0VIMUJ5eXR6ZXZaZjRXWkhnU0xmaEk?oc=5",
-          "time": "2026-09-12 22:41:00",
-          "publisher": "TVBS",
-          "severity": "red"
-        },
-        {
-          "title": "柯志恩稱高雄成屏東孩子的「花花世界」 綠選將批天龍國傲慢",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5572059",
-          "time": "2026-09-12 22:23:09",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "屏東溺水悲劇！小兄弟鎮海公園戲水 13歲哥哥搶救不治",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NcnA1ZWpLNDg0T0ZyWks2MUtYaU5Wd3R0Sy1DVXl1dVlqamZwODJuQjBXa2tDN2VxdzJLRUZYWEtPbDY3UVl5SU5COEdvQVVyTTFiSGNBbXgzaWRuajB1Sw?oc=5",
-          "time": "2026-09-12 22:20:48",
-          "publisher": "Google News→ftvnews.com.tw",
-          "severity": "red"
-        },
-        {
-          "title": "從椅子有氧到拳擊有氧 「屏東Young有氧Jump」周春米、潘若迪帶領千人嗨跳律動",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaVRaWU9aeGRaZGxwd2wwUmdFV2kzZlBGSVRIY2daMUwwcWI5UGI5X0Y5anlCbDA4bHFCQmRNR05WMGR1cHp0RERwcUR6QkZWcmdMcEFzWkxqNG15SkxNai00Y2lXTWQxNHZYMjNhN0RkZlFaYW5YeFZaZ0tlU1BwUzhWWVFmUVcteUpDUVVuREJNQTQ?oc=5",
-          "time": "2026-09-12 21:47:05",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "屏東銀閃閃電競大賽熱鬧登場 長輩體驗科技樂趣展現健康活力",
-          "url": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E9%8A%80%E9%96%83%E9%96%83%E9%9B%BB%E7%AB%B6%E5%A4%A7%E8%B3%BD%E7%86%B1%E9%AC%A7%E7%99%BB%E5%A0%B4-%E9%95%B7%E8%BC%A9%E9%AB%94%E9%A9%97%E7%A7%91%E6%8A%80%E6%A8%82%E8%B6%A3%E5%B1%95%E7%8F%BE%E5%81%A5%E5%BA%B7%E6%B4%BB%E5%8A%9B-131922504.html",
-          "time": "2026-09-12 21:19:22",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "屏東東港鎮海公園驚傳兄弟溺水　哥獲救意識清楚、13歲弟OHCA送醫",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-09-12/2465375.html",
-          "time": "2026-09-12 20:37:46",
-          "publisher": "壹電視",
-          "severity": "red"
-        },
-        {
-          "title": "社會 2026/09/12 18:14 屏東兄弟鎮海公園落海 9歲弟獲救14歲兄無生命徵象",
-          "url": "https://news.cts.com.tw/cna/society/202609/202609123078086.html",
-          "time": "2026-09-12 20:37:44",
-          "publisher": "華視新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "梁育慈競總成立拼屏東市長 3任屏東縣長同框力挺",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Gcmkxc1NKWWxXN1d3TWhzY0dtTm5TUF9vakw1M1Nlc3RBYzJobk1VcnIzaTk3ckZGbWppSVJoQlJ1dzN5dkJrR2pSOFlCVzFNQ3dPSlZtclo5alA3NHEwX9IBZkFVX3lxTE45ZDVyRmFlXzNqdDI1LTd3VzZCUWZwYmxxdkNDX2lxamdwXzRaYll6bXVGdERCdXVyZFdITnppdHV6SHZIdkZQejFWME53aE12NTloTUh4azhjVU5hUDNBbGhWTzVyZw?oc=5",
-          "time": "2026-09-12 20:33:00",
-          "publisher": "Google News→大纪元",
-          "severity": null
-        },
-        {
-          "title": "快訊／屏東鎮海公園小兄弟溺水 9歲弟獲救、14歲哥送醫不治",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sbk1yRkFuMWttcE9BQkZZUFV4c2d1RzczbGY2OGw0cWExdUhrTkdCZlg3aDRPUXZ0SWFjRGNjMEIxd3Bxb1ZmeENBd0tPUlRxZ2YzMEhMSFh3RHJMSWfSAUtBVV95cUxNc2djemxCOEsydG9wNkwxdU9yLVRBUHhUUTBzVC01T2JadFpJWGQ0c0syTHJoQWNvNXNCM2hzb1hyVENha1oxOU1NMTg?oc=5",
-          "time": "2026-09-12 20:12:00",
-          "publisher": "ETtoday",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園土地公「百神會師」今起駕 屏東、馬來西亞宮廟跨域交流",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQRk9PemJpZUx1ODNVYy1jOVZVTlMwcTdIV2xvSExGX1ZReXVUS3FVcEsxMktTcm43SENXWGk5X2JaSEd2X0JQSzAtWFVNMHQ10gFWQVVfeXFMTTRfSVUxb0NhQlp6SUhORWtnUmZUOU5tX2NZenR4MVloM3otUE9Gak1sWGNBLWp6dXotNXZFczdfSnpkUldQS0xIeTZZbFlHTGV1NWgwSGc?oc=5",
-          "time": "2026-09-12 19:55:53",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "屏東醫院攜資策會推智慧醫療平台 加速跨院落地應用",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fT19VWms2cjNoREptbkZCR2YxdG9tTXJsQm1UV2RGT05KZ2tlWjJSTXlRTWxvRGh6SGZpenVTYTBPQVZLZVREUVVLdmVtQWkzQnQ5eENOQmQ3Uk16MHZmU9IBZkFVX3lxTE8yMnZBbGlYcWY5WUhvcmdJU2pLMFhRVlplQ1U2dGdGRTVsWGt2dkVrbDgyck5jOXdXQUlnMHJyUXJWejRYTlhtWDhZcGNQd0VBWUg4djNfckxnaWNpT2dnWk9zdWpxZw?oc=5",
-          "time": "2026-09-12 19:42:00",
-          "publisher": "Google News→大纪元",
-          "severity": null
-        },
-        {
-          "title": "屏東體操館家長會發聲！「事件沒有誰輸誰贏」盼選手權益不再受損",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9val9HMDZteUhLSFNpTDBRZ3R4OWhaVlpiX0xXeV9CaEJUZjhrdFFkaFFPemMtbE9CYnFRLUtvYkhnaV9CM1l4UTNJTlJodw?oc=5",
-          "time": "2026-09-12 19:25:00",
-          "publisher": "Google News→news.tw789.net",
-          "severity": "yellow"
-        },
-        {
-          "title": "屏東東港鎮海公園驚傳兄弟溺水 哥獲救意識清楚、13歲弟OHCA送醫",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YSjNsWVFHTWQ5YVdnaEthdzhGMnR5dVQyS1VjWDdia3ZlMXBSTkhjMXpWWGduMzJIaHkzc0pLbnlWcXZzYS1FWjQxdG1tUVRxckk2dm4taXFxU3RMY2xaeFcxaTFlZ0NoV1hhZFFaVFlTckxpaV9xLVhR?oc=5",
-          "time": "2026-09-12 19:10:37",
-          "publisher": "Google News→eracom.com.tw",
-          "severity": "red"
-        },
-        {
-          "title": "屏東市長選戰逼近五五波！梁育慈總部湧4千人相挺潘孟安、周春米、曹啟鴻三任縣長站台| 徐炳文 | 地方新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUSUl5SkduSThBTFRqU2JPR2VJZnp2Q183bDNJZXZjbGVTOTdYS01NcEY0WTdZcF9sWmRvQmZ3MmcycjRqYmg5c05lQ0RYZw?oc=5",
-          "time": "2026-09-12 19:10:00",
-          "publisher": "Google News→風傳媒",
-          "severity": null
-        },
-        {
-          "title": "屏東市長選戰逼近五五波！梁育慈總部湧4千人相挺 潘孟安、周春米、曹啟鴻三任縣長站台",
-          "url": "https://www.storm.mg/article/11164087",
-          "time": "2026-09-12 19:10:00",
-          "publisher": "風傳媒",
-          "severity": null
-        },
-        {
-          "title": "屏東東港小兄弟海邊溺水 14歲兄無呼吸心跳送醫",
-          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOSzd0SGNYc2xVbHNtbUV0Wjk5dzZmMjV4QVl6SllFcVFPU2d3YVZ0MWZIU19aMGpDTzFGeVBuSlZnckhSNHFXSFNjOHdlOE5MNVhUZE03SlhQUW9UTl94VVdoRC1LMzlKZUhlR2M3b0pNQjJXT3dia2RkT3hkV1piLWtBRlBoRXktTmlOb2ZqYmZqYkRmb0RZaHg0UVFpRjdMcFFJUFYtQTlUWmQ2M2ZmQk1QT0dwNWFFeE9IWktWT2JNaW9raG9aRUxSemJ3VVhUWHdJRThaR3V3aGlBUEF3X21NQ3haRV9vYVBIRVpjcHNXTWVLVHB6UkxDTzU1cmZaZEtZMFFYeERFVUJ5TnNsaGxPeHE5Qjd6a1lVNHUzOEVTTFpmQVptVl8yTTgxd1JVeFBfTWJzMXAzb2JVS1hGM1llWEZiVzQ?oc=5",
-          "time": "2026-09-12 18:58:37",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "屏東東港溺水意外 兩男童鎮海公園落海 13歲童卡防波堤尋獲命危",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HYUx4VXdrVkszZTJ3eW9WVF9ad2JYaXQ1anl6dDhSQjV3NmQ5bTk0SFVEUjJ0UndKWDUxaGlUVVdOYnhEY0JsUDBVeE9GUkc3Ymc?oc=5",
-          "time": "2026-09-12 18:52:08",
-          "publisher": "Google News→鏡報",
-          "severity": "yellow"
-        },
-        {
-          "title": "屏東文化Buffet開桌 百大文化基地聯展",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rR1pTV2hyaWZtOHZXbWdpRkU1bXBLZk5TNDhyaHpXR3pRRURVN1M0ZXhfU254ZjZCMjVUZXN0SjIwZ2F1NHU3UVRFSFlBOW1qbDB2MmotRzA0bU8yeFQzMtIBZkFVX3lxTE5kVENLalJ4X0N4aXJSSHBoTU15akcydmlaQjhDZmRGdUJkZTBZSmJkblZGVUd1LXAtSnBTR3h1QWlfLWdUaGdpeWRVc2w4R1NBOElVSUxtazlzQ3pTRS1KeGVYRE9mdw?oc=5",
-          "time": "2026-09-12 18:51:00",
-          "publisher": "Google News→大纪元",
-          "severity": null
-        },
-        {
-          "title": "2026亞洲衝浪積分賽 屏東佳樂水9/30登場",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WajBIWml6bzV5MVU5RkV6aERtMjg5eEptU1EyQTN3QjlEd3VhM01kSnA5dHlKZWhMYXhscHo0T1lWdlRvbzFEQnJxaXhocmZzVWQzWUVmc0dZUk9iTzRjU9IBZkFVX3lxTE9raC1LUEZxcHJtYS0xaUcwZDNnUjN4dncweF9uRVh4cFN5cGFrSUhkUzJRTVJqbkRnd0lwbWx5UGE5UF9KTmF6NVEtVkZxa2FERFF0ZEUxRFpzcktPanVvNEp0T2lmUQ?oc=5",
-          "time": "2026-09-12 18:49:00",
-          "publisher": "Google News→大纪元",
-          "severity": null
-        },
-        {
-          "title": "屏東驚傳2男童溺水！1人卡防波堤命危送醫搶救",
-          "url": "https://today.line.me/tw/v2/article/288122983",
-          "time": "2026-09-12 18:46:52",
-          "publisher": "Line Today",
-          "severity": "red"
-        },
-        {
-          "title": "屏東兄弟鎮海公園落海 9歲弟獲救14歲兄無生命徵象",
-          "url": "https://newtalk.tw/news/view/2026-09-12/1059385",
-          "time": "2026-09-12 18:45:03",
-          "publisher": "新頭殼",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "新北地方動態",
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 82,
+      "news_count": 78,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 97,
+      "urgency_score": 93,
       "news_articles": [
         {
           "title": "蘇巧慧偕蔡英文成立山友後援會 打造「新北大縱走」山道品牌",
@@ -5698,34 +5621,6 @@
           "time": "2026-09-12 19:08:00",
           "publisher": "Google News→新華報導",
           "severity": null
-        },
-        {
-          "title": "新北選戰​搶攻親子票！ 李四川玩戰鬥陀螺　蘇巧慧闖關與童同樂",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-09-12/2465258.html",
-          "time": "2026-09-12 18:46:55",
-          "publisher": "壹電視",
-          "severity": null
-        },
-        {
-          "title": "國民黨新北市長參選人李四川今晚間在板橋體育館舉辦首場大型造勢「我們都挺李四川」，活動晚間6時30分開始，6時出頭館內座位就已幾乎坐滿，競選辦公室表示現場突破6000人。支持者揮舞旗幟、舉起看板，暖場階段歡呼聲不斷；現場雖仍以中高齡支持者居多，但也能看到不少年輕爸媽帶著孩子到場，群眾年齡層比外界對李四川支持者的既定印象更多元。",
-          "url": "https://udn.com/news/story/124652/9750703?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-12 18:46:52",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "國民黨新北市長參選人李四川今天受邀出席新北市教師會「115年教育政策研討會」，針對教師會先前提出的九大訴求逐一回應，並承諾將教師節禮金提高至2000元。李四川表示，面對AI科技發展及少子化挑戰，未來若有機會擔任市長，將持續改善校園軟硬體、減輕第一線教師負擔，並把教師會意見納入施政參考。",
-          "url": "https://udn.com/news/story/124652/9750674?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-12 18:46:52",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "2026.09.12 18:35 新北原民文化活動 侯友宜、李四川、蘇巧慧三人同場",
-          "url": "https://www.mnews.tw/story/20260912sot1828001",
-          "time": "2026-09-12 18:46:52",
-          "publisher": "鏡新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -5735,11 +5630,11 @@
       "city": "高雄",
       "place": "高雄市前鎮區",
       "level": "red",
-      "news_count": 89,
+      "news_count": 88,
       "comment_count": 0,
-      "negativity_pct": 6,
+      "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 104,
+      "urgency_score": 100,
       "news_articles": [
         {
           "title": "高雄前鎮漁港船員會館引起外界關注，針對「高級澡堂」的說法，五大遠洋漁業產業團體發出三點聯合聲明表達不滿，並強調，外籍船員遠渡重洋為台灣漁業與經濟付出，擁有一處乾淨、像樣且具尊嚴的洗浴與休憩空間，是基本人權，絕非奢侈享受，呼籲社會理性看待前鎮漁港人權建設成果。",
@@ -6356,13 +6251,6 @@
           "time": "2026-09-12 19:40:52",
           "publisher": "自由時報",
           "severity": null
-        },
-        {
-          "title": "高雄市長選戰升溫，藍綠今天不約而同拚陸戰、搶基層，國民黨參選人柯志恩再喊在野力量團結「下架新潮流」；民進黨新潮流系參選人賴瑞隆回擊，柯只剩政治、攻擊性語言，不會獲得市民認同，雙方隔空交火，煙硝味漸濃。",
-          "url": "https://udn.com/news/story/124652/9750672?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-12 18:46:52",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -6372,11 +6260,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 108,
+      "news_count": 106,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 117,
+      "urgency_score": 115,
       "news_articles": [
         {
           "title": "百GO夜行在桃園 張善政：打造友善綠色交通探索城市魅力",
@@ -7119,20 +7007,6 @@
           "time": "2026-09-12 18:53:16",
           "publisher": "中時新聞網",
           "severity": "red"
-        },
-        {
-          "title": "桃園機場持刀男闖國泰航空辦公室挾持實習生 警制伏送醫",
-          "url": "https://www.cna.com.tw/news/asoc/202609120182.aspx",
-          "time": "2026-09-12 18:49:58",
-          "publisher": "中央社",
-          "severity": "yellow"
-        },
-        {
-          "title": "桃園機場持刀男闖國泰航空辦公室挾持實習生警制伏送醫| 社會",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RQXNVdy1LTFAyT1FhM2dsck1oTzBiWWZCcVNkRzFLRnVmTV9icmxQVnYtNEhaZFRQUklURjM4aHIzRWRaZDZNUE9BSHRndndhc2dvWngxbTZRTlZsZlFj?oc=5",
-          "time": "2026-09-12 18:49:00",
-          "publisher": "中央社",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -7142,11 +7016,11 @@
       "city": "台北",
       "place": "台北市信義區",
       "level": "red",
-      "news_count": 116,
+      "news_count": 109,
       "comment_count": 0,
-      "negativity_pct": 10,
+      "negativity_pct": 11,
       "is_urgent": false,
-      "urgency_score": 152,
+      "urgency_score": 145,
       "news_articles": [
         {
           "title": "一周天氣／大台北要變天了！東北季風再一波直擊 杜鵑颱風醞釀中 | 天氣預報 | 生活",
@@ -7910,55 +7784,6 @@
           "time": "2026-09-12 19:07:00",
           "publisher": "Google News→原住民族文化事業基金會",
           "severity": null
-        },
-        {
-          "title": "國民黨新北市長參選人李四川今晚間在板橋體育館舉辦首場大型造勢「我們都挺李四川」，活動晚間6時30分開始，6時出頭館內座位就已幾乎坐滿，競選辦公室表示現場突破6000人。支持者揮舞旗幟、舉起看板，暖場階段歡呼聲不斷；現場雖仍以中高齡支持者居多，但也能看到不少年輕爸媽帶著孩子到場，群眾年齡層比外界對李四川支持者的既定印象更多元。",
-          "url": "https://udn.com/news/story/124652/9750703?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-12 18:46:52",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "國民黨新北市長參選人李四川今天受邀出席新北市教師會「115年教育政策研討會」，針對教師會先前提出的九大訴求逐一回應，並承諾將教師節禮金提高至2000元。李四川表示，面對AI科技發展及少子化挑戰，未來若有機會擔任市長，將持續改善校園軟硬體、減輕第一線教師負擔，並把教師會意見納入施政參考。",
-          "url": "https://udn.com/news/story/124652/9750674?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-12 18:46:52",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "民進黨台北市長參選人沈伯洋昨日出訪日本，今日下午出席「沈伯洋市長後援會 全日本大會」。沈談及日本前首相安倍晉三對自己的影響，安倍「台灣有事論」給他很大強心針，盼持續深化台日及國際交流，將台灣獨特的民主、文化與治理經驗帶向國際。",
-          "url": "https://udn.com/news/story/124652/9750665?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-12 18:46:52",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "民進黨台北市長參選人沈伯洋昨日出訪日本，今日走訪皇居的運動驛站，還租借裝備體驗跑步，上衣可見防彈背心的輪廓，引發熱議。沈也回應，「我只要出國都會穿」，上次出訪美國也幾乎全程穿著，「我們必須對選民負責，我現在被中國通緝，自己安全應該多加注意，這樣才不會有什麼閃失。」",
-          "url": "https://udn.com/news/story/124652/9750656?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-12 18:46:52",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "投入台北市長選戰的民進黨立委沈伯洋今天在東京出席全日本後援會成立大會，強調將透過國際連結打造韌性城市，並指台北的城市外交...",
-          "url": "https://udn.com/news/story/124652/9750647?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-12 18:46:52",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "國民黨新竹縣長參選人徐欣瑩今提出「雙AI」政策，若當選將成立「AI產業學院」，導入科技治理、大數據及動態交通流控，整合13鄉鎮交通、醫療與教育資源，並與竹北市公所「竹竹攜手」，讓科技真正解決民生痛點。",
-          "url": "https://udn.com/news/story/124652/9750650?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-12 18:46:52",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "2026.09.12 18:35 洋流慧聚反攻雙北 藍又內亂燒到蔣萬安1／沈伯洋赴日體驗「運動驛站」 將跑者意見帶回台北",
-          "url": "https://www.mnews.tw/story/20260912sot1825001",
-          "time": "2026-09-12 18:46:52",
-          "publisher": "鏡新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -7968,11 +7793,11 @@
       "city": "台中",
       "place": "台中市北屯區",
       "level": "red",
-      "news_count": 139,
+      "news_count": 136,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 154,
+      "urgency_score": 151,
       "news_articles": [
         {
           "title": "[Gossiping] [新聞] 快訊／台中街友抓狂攻擊！清潔員四肢擦",
@@ -8924,27 +8749,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DRmx2SUk5ZjlxU2N3ekdKeWhhd1pId20tTG1DWG1odEItekhhdGlyVlEtZUswZ3NLeEZ2Rkl5MVA1T3luSVNNVVR1ZkVnSy1XQlFwU0x3?oc=5",
           "time": "2026-09-12 18:54:45",
           "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "民進黨台中市長參選人何欣純競總今成立，何欣純喊出政見，「三個第一」，軌道、公路交通建設、產業經濟、全民六星福利政策拚全國第一，「一個大」台中國際大機場，以準首都格局，讓台中大進擊，只要中央地方一條心，讓台中換新，一起成就國際級偉大城市。",
-          "url": "https://udn.com/news/story/124652/9750694?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-12 18:46:52",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "民進黨台中市長參選人、立委何欣純競選總部今天成立，行政院副院長鄭麗君到場站台相挺。鄭麗君表示，何欣純是她的好姊妹，歷經三屆議員、四屆立委，從全台中最高票拚到全國最高票，何深耕基層，有最完整的歷練，也有遠見，呼籲大家用選票讓何欣純進入台中市府，讓台中升級大進步，成為產業重鎮。",
-          "url": "https://udn.com/news/story/124652/9750677?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-12 18:46:52",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "蔡其酸江啟臣選中市長本想催他辭立院副院長 怕換成傅崐萁作罷",
-          "url": "https://www.taisounds.com/news/content/71/288295",
-          "time": "2026-09-12 18:46:50",
-          "publisher": "太報",
           "severity": "yellow"
         }
       ],
