@@ -96775,7 +96775,7 @@
     },
     {
       "date": "2026-09-13",
-      "snapshot_at": "2026-09-13T10:51:24.282499+00:00",
+      "snapshot_at": "2026-09-13T11:03:38.666590+00:00",
       "hotspots": [
         {
           "title": "台中車禍事件",
@@ -96940,6 +96940,20 @@
           ]
         },
         {
+          "title": "基隆狼師事件",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "基隆男逼女友簽「愛情契約」性侵20次！ 下場慘了"
+          ]
+        },
+        {
           "title": "台北狼師事件",
           "city": "台北",
           "place": "台北市政府",
@@ -96968,20 +96982,6 @@
           ]
         },
         {
-          "title": "基隆狼師事件",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "基隆男逼女友簽「愛情契約」性侵20次！ 下場慘了"
-          ]
-        },
-        {
           "title": "台南火災事件",
           "city": "台南",
           "place": "台南市政府",
@@ -96996,20 +96996,6 @@
           ]
         },
         {
-          "title": "苗栗弊案爭議",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "苗栗男挾持女友揚言引爆瓦斯 對峙3小時聳了！落網旋遭收押"
-          ]
-        },
-        {
           "title": "台北弊案爭議",
           "city": "台北",
           "place": "台北市政府",
@@ -97021,6 +97007,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "年底大選縣市首長、議員選舉登記截止，民進黨北市黨部今指出，此次選舉共有3人涉嫌違紀參選，而北市第三選區（中山、大同）就有"
+          ]
+        },
+        {
+          "title": "苗栗弊案爭議",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "苗栗男挾持女友揚言引爆瓦斯 對峙3小時聳了！落網旋遭收押"
           ]
         },
         {
@@ -97072,22 +97072,6 @@
           ]
         },
         {
-          "title": "新竹縣地方動態",
-          "city": "新竹縣",
-          "place": "新竹縣政府",
-          "level": "yellow",
-          "news_count": 27,
-          "comment_count": 0,
-          "negativity_pct": 7,
-          "is_urgent": false,
-          "urgency_score": 33,
-          "sample_titles": [
-            "白營小雞求曝光「新竹縣母雞2選1」？徐嶔煌揭：比較喜歡鄭朝方！｜#頭家來開講｜民視讚夯.com",
-            "竹北市長民調吳旭智領先 持續爭取民眾認同",
-            "竹北裂痕掀骨牌效應 柯文哲點名「彰化、新竹」難挽救"
-          ]
-        },
-        {
           "title": "金門地方動態",
           "city": "金門",
           "place": "金門縣政府",
@@ -97101,6 +97085,22 @@
             "金門絲竹軒藝陣團歡慶成立一週年凝聚團員情誼，攜手傳承藝陣文化",
             "「友愛智者社區相伴」2026 RUN伴TAIWAN－金門場登場結合失智宣導與金門文化 攜手打造友善社區",
             "結合失智宣導與浯島文化RUN伴TAIWAN金門場登場打造友善社區| 勁報"
+          ]
+        },
+        {
+          "title": "新竹縣地方動態",
+          "city": "新竹縣",
+          "place": "新竹縣政府",
+          "level": "yellow",
+          "news_count": 27,
+          "comment_count": 0,
+          "negativity_pct": 7,
+          "is_urgent": false,
+          "urgency_score": 33,
+          "sample_titles": [
+            "白營小雞求曝光「新竹縣母雞2選1」？徐嶔煌揭：比較喜歡鄭朝方！｜#頭家來開講｜民視讚夯.com",
+            "竹北市長民調吳旭智領先 持續爭取民眾認同",
+            "竹北裂痕掀骨牌效應 柯文哲點名「彰化、新竹」難挽救"
           ]
         },
         {
@@ -97126,7 +97126,7 @@
           "is_urgent": true,
           "urgency_score": 90,
           "sample_titles": [
-            "張惇涵酸盧秀燕：捷運1公分沒蓋、垃圾山堆1公里 市府回應了...",
+            "張惇涵酸盧秀燕：捷運1公分沒蓋、垃圾山堆1公里 市府回應了",
             "垃圾山、廢棄床墊牆都沒解決 蔡其昌轟盧秀燕：8年只會包裝｜# 全民話燒",
             "【#原音重現】蔡其昌轟盧秀燕8年只會包裝 媽媽交爸爸 是把延宕繼續交棒！垃圾山、廢棄床墊牆都沒解決 酸盧秀燕只秀不驗！｜"
           ]
@@ -97136,15 +97136,15 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
-          "news_count": 43,
+          "news_count": 51,
           "comment_count": 61,
-          "negativity_pct": 0,
+          "negativity_pct": 2,
           "is_urgent": true,
-          "urgency_score": 140,
+          "urgency_score": 151,
           "sample_titles": [
-            "影》賴清德、盧秀燕攻防 何欣純挨酸被邊緣化：妳才該回歸市政",
-            "盧秀燕籲成立在野大聯盟 黃國昌、謝龍介同台呼應：綠撕裂社會之時更應團結",
-            "[HatePolitics] Re: [討論] 盧秀燕：總統只關注我 讓何欣純落後"
+            "徐瑄灃潭子感恩茶會 盧秀燕、江啟臣站台力挺連任",
+            "賴清德害綠營參選人邊緣化？何欣純稱盧秀燕想2028、籲「回歸市政」",
+            "修補藍白合危機？盧秀燕喊「在野大聯盟」要對抗執政黨 黃國昌：百分之百支持 | 晏明強 | 新聞"
           ]
         },
         {
@@ -97200,11 +97200,11 @@
           "city": "南投",
           "place": "南投縣政府",
           "level": "red",
-          "news_count": 18,
+          "news_count": 16,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 18,
+          "urgency_score": 16,
           "sample_titles": [
             "雨害水傷！南投文旦減產逾3成 果農「凍漲」拚買氣",
             "南投駒盆山48歲山友「遭落石砸頭」暈眩受困 空勤黑鷹飛赴救援送醫",
@@ -97248,15 +97248,15 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 35,
+          "news_count": 37,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 41,
+          "urgency_score": 43,
           "sample_titles": [
-            "台南2男超商結帳爆口角　櫃檯前「近身搏鬥」客嚇呆",
-            "台中市長盧秀燕今指出，面對現在執政黨濫用司法、行政資源，在野包括無黨、民眾黨、國民黨等志同道合的在野一定要團結；國民黨台",
-            "偷用時光器？黃偉哲連續現身熊本、台南 黃智賢直批：瘋了"
+            "盧秀燕喊「在野大聯盟」 謝龍介、黃國昌台南合體：百分之百支持",
+            "台南藍白聯合服務中心揭幕 黃國昌：支持盧秀燕籲成立在野大聯盟",
+            "台南2男超商結帳爆口角　櫃檯前「近身搏鬥」客嚇呆"
           ]
         },
         {
@@ -97276,31 +97276,15 @@
           ]
         },
         {
-          "title": "苗栗地方動態",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "red",
-          "news_count": 45,
-          "comment_count": 0,
-          "negativity_pct": 9,
-          "is_urgent": false,
-          "urgency_score": 57,
-          "sample_titles": [
-            "苗栗縣115年度勞工教育暨「幸福有約」未婚聯誼活動 拓展單身勞工交友生活圈",
-            "苗栗市綠營支持者「不敢表態」？林月琴曝苗栗選戰困境！｜#新聞觀測站｜民視讚夯.com",
-            "115年度苗栗縣廣場舞錦標賽熱鬧登場 縣長偕夫人與鄉親共享健康活力"
-          ]
-        },
-        {
           "title": "屏東地方動態",
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 45,
+          "news_count": 43,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 45,
+          "urgency_score": 43,
           "sample_titles": [
             "一生傳唱民謠 陳英與張日貴獲頒屏東文化獎特展",
             "屏東釀醬生活節 台日韓發酵美學PK (圖)",
@@ -97308,19 +97292,35 @@
           ]
         },
         {
+          "title": "苗栗地方動態",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "red",
+          "news_count": 43,
+          "comment_count": 0,
+          "negativity_pct": 9,
+          "is_urgent": false,
+          "urgency_score": 55,
+          "sample_titles": [
+            "苗栗縣115年度勞工教育暨「幸福有約」未婚聯誼活動 拓展單身勞工交友生活圈",
+            "苗栗市綠營支持者「不敢表態」？林月琴曝苗栗選戰困境！｜#新聞觀測站｜民視讚夯.com",
+            "115年度苗栗縣廣場舞錦標賽熱鬧登場 縣長偕夫人與鄉親共享健康活力"
+          ]
+        },
+        {
           "title": "宜蘭地方動態",
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 48,
+          "news_count": 49,
           "comment_count": 0,
-          "negativity_pct": 21,
+          "negativity_pct": 20,
           "is_urgent": false,
-          "urgency_score": 78,
+          "urgency_score": 79,
           "sample_titles": [
+            "影/卓榮泰：林國漳可湊蔣萬安耳說「宜蘭敬老卡1000點，台北600點」",
             "宜蘭雙載紅牌重機追撞貨車！ 騎士當場OHCA送醫搶救不治",
-            "行政院長卓榮泰到宜蘭看長照機構，民進黨縣長參選人林國漳穿著行政院政務顧問背心陪同，卓榮泰在致詞時提到，他沿路看到林國漳的",
-            "林國漳啟動「宜蘭好主漳」12鄉鎮市巡迴 首站壯圍登場"
+            "行政院長卓榮泰到宜蘭看長照機構，民進黨縣長參選人林國漳穿著行政院政務顧問背心陪同，卓榮泰在致詞時提到，他沿路看到林國漳的"
           ]
         },
         {
@@ -97360,11 +97360,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 106,
+          "news_count": 104,
           "comment_count": 0,
-          "negativity_pct": 3,
+          "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 115,
+          "urgency_score": 110,
           "sample_titles": [
             "百GO夜行在桃園 張善政：打造友善綠色交通探索城市魅力",
             "龍潭送聖蹟傳承150年 盼登錄桃園市定民俗",
@@ -97376,15 +97376,15 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 109,
+          "news_count": 111,
           "comment_count": 0,
           "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 145,
+          "urgency_score": 147,
           "sample_titles": [
+            "影/卓榮泰：林國漳可湊蔣萬安耳說「宜蘭敬老卡1000點，台北600點」",
             "一周天氣／大台北要變天了！東北季風再一波直擊 杜鵑颱風醞釀中 | 天氣預報 | 生活",
-            "吸茫了？ 北市毒駕男報警「自投羅網」 搜出大量咖啡包",
-            "北市議員選戰開打！綠揪5人違紀參選開鍘 吳沛憶：絕無分票空間"
+            "吸茫了？ 北市毒駕男報警「自投羅網」 搜出大量咖啡包"
           ]
         },
         {
@@ -97392,15 +97392,15 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 136,
+          "news_count": 139,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 151,
+          "urgency_score": 154,
           "sample_titles": [
+            "盧秀燕喊「在野大聯盟」 謝龍介、黃國昌台南合體：百分之百支持",
             "[Gossiping] [新聞] 快訊／台中街友抓狂攻擊！清潔員四肢擦",
-            "[TaichungBun] [情報] 台中多區里公益法律諮詢",
-            "盧秀燕諷賴總統為了2028多次赴台中 何欣純：是盧自己在想2028"
+            "台南藍白聯合服務中心揭幕 黃國昌：支持盧秀燕籲成立在野大聯盟"
           ]
         }
       ]
