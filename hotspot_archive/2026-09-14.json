@@ -1,28 +1,7 @@
 {
   "date": "2026-09-14",
-  "snapshot_at": "2026-09-14T10:23:19.847300+00:00",
+  "snapshot_at": "2026-09-14T10:25:34.821867+00:00",
   "hotspots": [
-    {
-      "title": "新北車禍事件",
-      "city": "新北",
-      "place": "新北市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "影/土城嚴重車禍！迴轉對撞直行車「車頭消失」 2人受傷",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B1-%E5%9C%9F%E5%9F%8E%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D-%E8%BF%B4%E8%BD%89%E5%B0%8D%E6%92%9E%E7%9B%B4%E8%A1%8C%E8%BB%8A-%E8%BB%8A%E9%A0%AD%E6%B6%88%E5%A4%B1-2%E4%BA%BA%E5%8F%97%E5%82%B7-073001302.html",
-          "time": "2026-09-14 15:30:01",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
     {
       "title": "苗栗車禍事件",
       "city": "苗栗",
@@ -39,6 +18,27 @@
           "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=993878",
           "time": "2026-09-14 08:50:16",
           "publisher": "苗栗縣政府",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新北車禍事件",
+      "city": "新北",
+      "place": "新北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "影/土城嚴重車禍！迴轉對撞直行車「車頭消失」 2人受傷",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B1-%E5%9C%9F%E5%9F%8E%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D-%E8%BF%B4%E8%BD%89%E5%B0%8D%E6%92%9E%E7%9B%B4%E8%A1%8C%E8%BB%8A-%E8%BB%8A%E9%A0%AD%E6%B6%88%E5%A4%B1-2%E4%BA%BA%E5%8F%97%E5%82%B7-073001302.html",
+          "time": "2026-09-14 15:30:01",
+          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -66,27 +66,6 @@
       "comments": []
     },
     {
-      "title": "台南陳情/抗議",
-      "city": "台南",
-      "place": "台南市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "翁曉玲荒腔走板發言也惹毛清華人！校友怒吼：高為元根本小巫見大巫 對台灣的影響為什麼「沒人抗議」？全場拍手叫好...再加碼痛批陳永康「在國防委員會裝惦惦」｜【台灣ON AIR】",
-          "url": "https://www.youtube.com/watch?v=pTXhIu24uHo",
-          "time": "2026-09-14 15:00:06",
-          "publisher": null,
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "高雄陳情/抗議",
       "city": "高雄",
       "place": "高雄市政府",
@@ -102,6 +81,27 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FRU8yUVNabkt4N0s3T0pOOFNJNF92RU5VMTFGRUMzOUdBbTFRYW5aT2lzZ2ZpTkZGOFJMRkpmYkhndGtrVlRWYUI2enZBZ2d4TFR6dm9R?oc=5",
           "time": "2026-09-14 01:14:42",
           "publisher": "Google News→LINE TODAY",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台南陳情/抗議",
+      "city": "台南",
+      "place": "台南市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "翁曉玲荒腔走板發言也惹毛清華人！校友怒吼：高為元根本小巫見大巫 對台灣的影響為什麼「沒人抗議」？全場拍手叫好...再加碼痛批陳永康「在國防委員會裝惦惦」｜【台灣ON AIR】",
+          "url": "https://www.youtube.com/watch?v=pTXhIu24uHo",
+          "time": "2026-09-14 15:00:06",
+          "publisher": null,
           "severity": "yellow"
         }
       ],
@@ -961,181 +961,6 @@
       "comments": []
     },
     {
-      "title": "彰化地方動態",
-      "city": "彰化",
-      "place": "彰化縣政府",
-      "level": "yellow",
-      "news_count": 23,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 23,
-      "news_articles": [
-        {
-          "title": "台中市長盧秀燕繼日前在彰化輔選時以「戰士沒有選擇戰場的權利！」為彰化難以整合的亂局下見解，今再呼籲成立「在野大聯盟」以整合各界的力量，以直球對壘執政的民進黨。對於各界正揣測竹北一局是否有外溢效應時，籌組在野大聯盟具更上位的思考，是否有助於竹北一局的收尾，以及收攏外溢效應，值得觀察。",
-          "url": "https://udn.com/news/story/124652/9753595?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-14 16:01:13",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "生人勿近！彰化花壇明晚「送肉粽」 一路送往鹿港海邊「路線一次看」",
-          "url": "https://www.mirrormedia.mg/story/20260914edi057",
-          "time": "2026-09-14 15:02:00",
-          "publisher": "鏡週刊",
-          "severity": null
-        },
-        {
-          "title": "老舊住宅公共設施修繕不易 新北議員林秉宥籲設立基金支應",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5573377",
-          "time": "2026-09-14 13:52:14",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "彰化男遇色情應召詐財買點數卡 超商店員機靈報警攔阻",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E7%94%B7%E9%81%87%E8%89%B2%E6%83%85%E6%87%89%E5%8F%AC%E8%A9%90%E8%B2%A1%E8%B2%B7%E9%BB%9E%E6%95%B8%E5%8D%A1-%E8%B6%85%E5%95%86%E5%BA%97%E5%93%A1%E6%A9%9F%E9%9D%88%E5%A0%B1%E8%AD%A6%E6%94%94%E9%98%BB-053928938.html",
-          "time": "2026-09-14 13:39:28",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "吳肇勳書藝展演繹傳統新意 彰化縣立美術館展出",
-          "url": "https://n.yam.com/Article/20260914233912",
-          "time": "2026-09-14 12:00:00",
-          "publisher": "蕃新聞→互傳媒",
-          "severity": null
-        },
-        {
-          "title": "彰化男住宅區養百羊！「深夜狂咩」鄰居崩潰報警…飼主竟稱：比鳥叫小聲",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E7%94%B7%E4%BD%8F%E5%AE%85%E5%8D%80%E9%A4%8A%E7%99%BE%E7%BE%8A-%E6%B7%B1%E5%A4%9C%E7%8B%82%E5%92%A9-%E9%84%B0%E5%B1%85%E5%B4%A9%E6%BD%B0%E5%A0%B1%E8%AD%A6-%E9%A3%BC%E4%B8%BB%E7%AB%9F%E7%A8%B1-%E6%AF%94%E9%B3%A5%E5%8F%AB%E5%B0%8F%E8%81%B2-034100749.html",
-          "time": "2026-09-14 11:41:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "【#大新聞大爆卦】郭正亮出手助藍白彰化了!鄭麗文柯文哲握手押寶10天救新竹了?沈伯洋穿防彈衣綠崩潰了吹韓流!綠邀侯友宜站台暗示挺李四川?20260914 @大新聞大爆卦HotNewsTalk",
-          "url": "https://www.youtube.com/watch?v=JHynWIce50A",
-          "time": "2026-09-14 11:06:05",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "板橋彰化同鄉會近七百人齊聚 鄉親「挺好川」應援：我們只挺李四川",
-          "url": "https://www.cdns.com.tw/articles/1459593",
-          "time": "2026-09-14 09:07:56",
-          "publisher": "中華日報",
-          "severity": null
-        },
-        {
-          "title": "「彰化大勢已去、竹縣也難挽救」 柯文哲憂藍白破局波及3縣市：黃國昌、鄭麗文趕快去善後| 鏡週刊",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yRzlNcmJKeEpGZFFTM3VGc0NuZHJpMGxwa3pvbzR3cWtwUFE4UHVvTVJ0SGNuQXotMWJuUGgtM2hvVDBISnJXNWRYQWxzMUZxclMzY0h3?oc=5",
-          "time": "2026-09-14 07:58:00",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "彰化3縣長參選人 同台簽教育承諾",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1770598",
-          "time": "2026-09-14 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "彰化男住宅養95隻羊狂叫！辯「比鳥小聲」挨罰定讞",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E7%94%B7%E4%BD%8F%E5%AE%85%E9%A4%8A95%E9%9A%BB%E7%BE%8A%E7%8B%82%E5%8F%AB-%E8%BE%AF-%E6%AF%94%E9%B3%A5%E5%B0%8F%E8%81%B2-%E6%8C%A8%E7%BD%B0%E5%AE%9A%E8%AE%9E-025321277.html",
-          "time": "2026-09-14 02:53:21",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "板橋彰化同鄉會近700鄉親 應援「挺好川」",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5572942",
-          "time": "2026-09-14 00:17:56",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "「彰化大勢已去、竹縣也難挽救」 柯文哲憂藍白破局波及3縣市：黃國昌、鄭麗文趕快去善後",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E5%A4%A7%E5%8B%A2%E5%B7%B2%E5%8E%BB-%E7%AB%B9%E7%B8%A3%E4%B9%9F%E9%9B%A3%E6%8C%BD%E6%95%91-%E6%9F%AF%E6%96%87%E5%93%B2%E6%86%82%E8%97%8D%E7%99%BD%E7%A0%B4%E5%B1%80%E6%B3%A2%E5%8F%8A3%E7%B8%A3%E5%B8%82-%E9%BB%83%E5%9C%8B%E6%98%8C-%E9%84%AD%E9%BA%97%E6%96%87%E8%B6%95%E5%BF%AB%E5%8E%BB%E5%96%84%E5%BE%8C-232955538.html",
-          "time": "2026-09-13 23:29:55",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "洋流來了！黃柏瑜選彰化市長太年輕？沈伯洋這樣說！",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5572901",
-          "time": "2026-09-13 22:37:48",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "雲林縣長參選人張嘉郡首場廟口開講今晚在西螺福興宮廣場登場，尋求連任的南投縣長許淑華及台南縣長參選人的立委謝龍介到場力挺，吸引大批民眾聆聽，許、謝讚許縣長張麗善八年亮眼政績，強調交棒張嘉郡延續政績是雲林首選，全場凍蒜聲不斷，拉高了雲林選情，帶動藍營士氣。",
-          "url": "https://udn.com/news/story/124652/9752201?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-13 22:29:30",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "國民黨新北市長參選人李四川今天先後出席土城區、三重區彰化同鄉會會員大會，持續經營地方社團及中南部移居族群。李四川表示，自己同樣是從南部北上打拚，能體會異鄉遊子的心情，未來若當選市長，將持續推動交通、民生及產業建設，打造安居樂業環境，照顧在新北落地生根的市民。",
-          "url": "https://udn.com/news/story/124652/9752190?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-13 22:29:30",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "未滿百隻管不到？彰化羊群發情「咩咩叫」擾鄰僅罰1000元",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5572882",
-          "time": "2026-09-13 21:59:59",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "邱建富競總成立湧入逾5000人 喊超越藍綠拚彰化改變",
-          "url": "https://more-news.tw/718954/",
-          "time": "2026-09-13 21:59:22",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "李四川出席三重彰化同鄉會 理事長祖孫3代同台喊「凍蒜」",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5572816",
-          "time": "2026-09-13 21:50:39",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "無黨籍彰化縣長參選人邱建富今天下午在彰化市舉辦競選總部成立大會，地方社團與跨黨派不同陣營都有人到場力挺，對於彰化縣長王惠美日前喊出彰化縣的建設必須一棒接一棒，邱建富指出，自己是所有縣長參選人中最具有行政經驗的人，最有資格接好這一棒，而且不會掉棒。",
-          "url": "https://udn.com/news/story/124652/9752062?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-13 20:21:02",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "李四川出席土城、三重彰化同鄉會 拋醫療敬老政見搶票",
-          "url": "https://tw.news.yahoo.com/%E6%9D%8E%E5%9B%9B%E5%B7%9D%E5%87%BA%E5%B8%AD%E5%9C%9F%E5%9F%8E-%E4%B8%89%E9%87%8D%E5%BD%B0%E5%8C%96%E5%90%8C%E9%84%89%E6%9C%83-%E6%8B%8B%E9%86%AB%E7%99%82%E6%95%AC%E8%80%81%E6%94%BF%E8%A6%8B%E6%90%B6%E7%A5%A8-115756615.html",
-          "time": "2026-09-13 19:57:56",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "竹北藍白分裂柯稱「彰化大勢已去」 邱建富：我的支持者不分藍綠白",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5572758",
-          "time": "2026-09-13 19:54:43",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "近百羊群半夜發情咩咩叫 彰化飼主辯「比鳥叫小聲」仍挨罰",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5572734",
-          "time": "2026-09-13 18:47:19",
-          "publisher": "自由時報",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "雲林地方動態",
       "city": "雲林",
       "place": "雲林縣政府",
@@ -1306,6 +1131,181 @@
           "time": "2026-09-13 18:38:04",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "彰化地方動態",
+      "city": "彰化",
+      "place": "彰化縣政府",
+      "level": "yellow",
+      "news_count": 23,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 23,
+      "news_articles": [
+        {
+          "title": "台中市長盧秀燕繼日前在彰化輔選時以「戰士沒有選擇戰場的權利！」為彰化難以整合的亂局下見解，今再呼籲成立「在野大聯盟」以整合各界的力量，以直球對壘執政的民進黨。對於各界正揣測竹北一局是否有外溢效應時，籌組在野大聯盟具更上位的思考，是否有助於竹北一局的收尾，以及收攏外溢效應，值得觀察。",
+          "url": "https://udn.com/news/story/124652/9753595?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-09-14 16:01:13",
+          "publisher": "聯合新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "生人勿近！彰化花壇明晚「送肉粽」 一路送往鹿港海邊「路線一次看」",
+          "url": "https://www.mirrormedia.mg/story/20260914edi057",
+          "time": "2026-09-14 15:02:00",
+          "publisher": "鏡週刊",
+          "severity": null
+        },
+        {
+          "title": "老舊住宅公共設施修繕不易 新北議員林秉宥籲設立基金支應",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5573377",
+          "time": "2026-09-14 13:52:14",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "彰化男遇色情應召詐財買點數卡 超商店員機靈報警攔阻",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E7%94%B7%E9%81%87%E8%89%B2%E6%83%85%E6%87%89%E5%8F%AC%E8%A9%90%E8%B2%A1%E8%B2%B7%E9%BB%9E%E6%95%B8%E5%8D%A1-%E8%B6%85%E5%95%86%E5%BA%97%E5%93%A1%E6%A9%9F%E9%9D%88%E5%A0%B1%E8%AD%A6%E6%94%94%E9%98%BB-053928938.html",
+          "time": "2026-09-14 13:39:28",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "吳肇勳書藝展演繹傳統新意 彰化縣立美術館展出",
+          "url": "https://n.yam.com/Article/20260914233912",
+          "time": "2026-09-14 12:00:00",
+          "publisher": "蕃新聞→互傳媒",
+          "severity": null
+        },
+        {
+          "title": "彰化男住宅區養百羊！「深夜狂咩」鄰居崩潰報警…飼主竟稱：比鳥叫小聲",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E7%94%B7%E4%BD%8F%E5%AE%85%E5%8D%80%E9%A4%8A%E7%99%BE%E7%BE%8A-%E6%B7%B1%E5%A4%9C%E7%8B%82%E5%92%A9-%E9%84%B0%E5%B1%85%E5%B4%A9%E6%BD%B0%E5%A0%B1%E8%AD%A6-%E9%A3%BC%E4%B8%BB%E7%AB%9F%E7%A8%B1-%E6%AF%94%E9%B3%A5%E5%8F%AB%E5%B0%8F%E8%81%B2-034100749.html",
+          "time": "2026-09-14 11:41:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "【#大新聞大爆卦】郭正亮出手助藍白彰化了!鄭麗文柯文哲握手押寶10天救新竹了?沈伯洋穿防彈衣綠崩潰了吹韓流!綠邀侯友宜站台暗示挺李四川?20260914 @大新聞大爆卦HotNewsTalk",
+          "url": "https://www.youtube.com/watch?v=JHynWIce50A",
+          "time": "2026-09-14 11:06:05",
+          "publisher": null,
+          "severity": null
+        },
+        {
+          "title": "板橋彰化同鄉會近七百人齊聚 鄉親「挺好川」應援：我們只挺李四川",
+          "url": "https://www.cdns.com.tw/articles/1459593",
+          "time": "2026-09-14 09:07:56",
+          "publisher": "中華日報",
+          "severity": null
+        },
+        {
+          "title": "「彰化大勢已去、竹縣也難挽救」 柯文哲憂藍白破局波及3縣市：黃國昌、鄭麗文趕快去善後| 鏡週刊",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yRzlNcmJKeEpGZFFTM3VGc0NuZHJpMGxwa3pvbzR3cWtwUFE4UHVvTVJ0SGNuQXotMWJuUGgtM2hvVDBISnJXNWRYQWxzMUZxclMzY0h3?oc=5",
+          "time": "2026-09-14 07:58:00",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "yellow"
+        },
+        {
+          "title": "彰化3縣長參選人 同台簽教育承諾",
+          "url": "https://news.ltn.com.tw/news/politics/paper/1770598",
+          "time": "2026-09-14 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "彰化男住宅養95隻羊狂叫！辯「比鳥小聲」挨罰定讞",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E7%94%B7%E4%BD%8F%E5%AE%85%E9%A4%8A95%E9%9A%BB%E7%BE%8A%E7%8B%82%E5%8F%AB-%E8%BE%AF-%E6%AF%94%E9%B3%A5%E5%B0%8F%E8%81%B2-%E6%8C%A8%E7%BD%B0%E5%AE%9A%E8%AE%9E-025321277.html",
+          "time": "2026-09-14 02:53:21",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "板橋彰化同鄉會近700鄉親 應援「挺好川」",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5572942",
+          "time": "2026-09-14 00:17:56",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "「彰化大勢已去、竹縣也難挽救」 柯文哲憂藍白破局波及3縣市：黃國昌、鄭麗文趕快去善後",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E5%A4%A7%E5%8B%A2%E5%B7%B2%E5%8E%BB-%E7%AB%B9%E7%B8%A3%E4%B9%9F%E9%9B%A3%E6%8C%BD%E6%95%91-%E6%9F%AF%E6%96%87%E5%93%B2%E6%86%82%E8%97%8D%E7%99%BD%E7%A0%B4%E5%B1%80%E6%B3%A2%E5%8F%8A3%E7%B8%A3%E5%B8%82-%E9%BB%83%E5%9C%8B%E6%98%8C-%E9%84%AD%E9%BA%97%E6%96%87%E8%B6%95%E5%BF%AB%E5%8E%BB%E5%96%84%E5%BE%8C-232955538.html",
+          "time": "2026-09-13 23:29:55",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "洋流來了！黃柏瑜選彰化市長太年輕？沈伯洋這樣說！",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5572901",
+          "time": "2026-09-13 22:37:48",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "雲林縣長參選人張嘉郡首場廟口開講今晚在西螺福興宮廣場登場，尋求連任的南投縣長許淑華及台南縣長參選人的立委謝龍介到場力挺，吸引大批民眾聆聽，許、謝讚許縣長張麗善八年亮眼政績，強調交棒張嘉郡延續政績是雲林首選，全場凍蒜聲不斷，拉高了雲林選情，帶動藍營士氣。",
+          "url": "https://udn.com/news/story/124652/9752201?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-09-13 22:29:30",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "國民黨新北市長參選人李四川今天先後出席土城區、三重區彰化同鄉會會員大會，持續經營地方社團及中南部移居族群。李四川表示，自己同樣是從南部北上打拚，能體會異鄉遊子的心情，未來若當選市長，將持續推動交通、民生及產業建設，打造安居樂業環境，照顧在新北落地生根的市民。",
+          "url": "https://udn.com/news/story/124652/9752190?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-09-13 22:29:30",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "未滿百隻管不到？彰化羊群發情「咩咩叫」擾鄰僅罰1000元",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5572882",
+          "time": "2026-09-13 21:59:59",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "邱建富競總成立湧入逾5000人 喊超越藍綠拚彰化改變",
+          "url": "https://more-news.tw/718954/",
+          "time": "2026-09-13 21:59:22",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "李四川出席三重彰化同鄉會 理事長祖孫3代同台喊「凍蒜」",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5572816",
+          "time": "2026-09-13 21:50:39",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "無黨籍彰化縣長參選人邱建富今天下午在彰化市舉辦競選總部成立大會，地方社團與跨黨派不同陣營都有人到場力挺，對於彰化縣長王惠美日前喊出彰化縣的建設必須一棒接一棒，邱建富指出，自己是所有縣長參選人中最具有行政經驗的人，最有資格接好這一棒，而且不會掉棒。",
+          "url": "https://udn.com/news/story/124652/9752062?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-09-13 20:21:02",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "李四川出席土城、三重彰化同鄉會 拋醫療敬老政見搶票",
+          "url": "https://tw.news.yahoo.com/%E6%9D%8E%E5%9B%9B%E5%B7%9D%E5%87%BA%E5%B8%AD%E5%9C%9F%E5%9F%8E-%E4%B8%89%E9%87%8D%E5%BD%B0%E5%8C%96%E5%90%8C%E9%84%89%E6%9C%83-%E6%8B%8B%E9%86%AB%E7%99%82%E6%95%AC%E8%80%81%E6%94%BF%E8%A6%8B%E6%90%B6%E7%A5%A8-115756615.html",
+          "time": "2026-09-13 19:57:56",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "竹北藍白分裂柯稱「彰化大勢已去」 邱建富：我的支持者不分藍綠白",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5572758",
+          "time": "2026-09-13 19:54:43",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "近百羊群半夜發情咩咩叫 彰化飼主辯「比鳥叫小聲」仍挨罰",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5572734",
+          "time": "2026-09-13 18:47:19",
+          "publisher": "自由時報",
+          "severity": null
         }
       ],
       "comments": []
@@ -5407,11 +5407,11 @@
       "city": "台南",
       "place": "台南市政府",
       "level": "red",
-      "news_count": 64,
+      "news_count": 63,
       "comment_count": 0,
-      "negativity_pct": 9,
+      "negativity_pct": 10,
       "is_urgent": false,
-      "urgency_score": 82,
+      "urgency_score": 81,
       "news_articles": [
         {
           "title": "快訊／台南大雨特報！氣象署：東北季風增強 入夜桃園以北雨更大 | 天氣預報 | 生活",
@@ -5853,13 +5853,6 @@
           "time": "2026-09-13 18:29:22",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "台南42國小學生不到50人 議員喊整併黃偉哲回應",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%9742%E5%9C%8B%E5%B0%8F%E5%AD%B8%E7%94%9F%E4%B8%8D%E5%88%B050%E4%BA%BA-%E8%AD%B0%E5%93%A1%E5%96%8A%E6%95%B4%E4%BD%B5%E9%BB%83%E5%81%89%E5%93%B2%E5%9B%9E%E6%87%89-102426270.html",
-          "time": "2026-09-13 18:24:26",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
