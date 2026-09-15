@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "snapshot_at": "2026-09-15T12:20:54.031093+00:00",
+  "snapshot_at": "2026-09-15T12:33:53.599744+00:00",
   "hotspots": [
     {
       "title": "盧秀燕訪美外交",
@@ -19,27 +19,6 @@
           "time": "2026-09-15 14:08:18",
           "publisher": "TVBS",
           "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "台北狼師事件",
-      "city": "台北",
-      "place": "台北市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "議員質疑狼師性侵調查報告拖228天蔣萬安允檢討| 地方",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oX052bVpMUFQyMXdWQ3BnWTE0X0dKaG9zWWY3YWktWFR0dEtYdEpiUUtLT0N2OGdIUmJFeU1NSzRHdnJOVGR4R1NBcUNDUlM1Si0zeFNKTmRUYnFyUzEw?oc=5",
-          "time": "2026-09-14 20:31:00",
-          "publisher": "中央社",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -771,139 +750,6 @@
       ]
     },
     {
-      "title": "連江地方動態",
-      "city": "連江",
-      "place": "連江縣（馬祖）",
-      "level": "yellow",
-      "news_count": 17,
-      "comment_count": 0,
-      "negativity_pct": 6,
-      "is_urgent": false,
-      "urgency_score": 20,
-      "news_articles": [
-        {
-          "title": "第十一屆離島運動會聖火抵達馬公 連江縣府教育處長王禮民率隊「離島不離心」再寫新篇章",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1SMHVoNllVd0R5V0RTUjFGcmtuUjBtX1FxNnI4OFFTcFlnZDRqZ1JsR3B6TEJQYndTVEdlTXYxMFVBN0MzOGRN?oc=5",
-          "time": "2026-09-15 16:47:39",
-          "publisher": "Google News→台灣新聞雲",
-          "severity": null
-        },
-        {
-          "title": "連江地檢署召開查賄選會議 分析最新選情、研商查賄查幽靈人口策略",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5574537",
-          "time": "2026-09-15 14:56:34",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "台銀深耕馬祖推廣行動支付 使用 TWQR 消費最高享12.5%回饋",
-          "url": "https://money.udn.com/money/story/5613/9755770",
-          "time": "2026-09-15 13:57:40",
-          "publisher": "經濟日報",
-          "severity": null
-        },
-        {
-          "title": "離島運聖火傳抵金門 兩百人代表隊十月出征馬祖",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUU9CY0dYbjBObld1akVSakd4dTRHVkNEU1Zua0hjc2VXM1lFaWNqcVRfYy1pdUlMVzNuNnhpb0dWS0tIeExqT2NYclQxYVBEb1dCMDZQaUg1UUFJal8xVGRXai1hbzVzRlR5V29DUzdkUnVtOXF5X2VsZDhhaTJ2Y3d2UEI5WC1nVWpzdkFtelV2ZF9WTDFGTkJWWm54OGNhak1Cc0ZQRkFrV1EyN0JVLWU1MGk?oc=5",
-          "time": "2026-09-15 13:41:11",
-          "publisher": "Google News→金門GO資訊網",
-          "severity": null
-        },
-        {
-          "title": "台軍馬祖防衛部參謀長被控性騷擾",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mT3ZTaWJZQkJrcjlFVy1yYWZ5V1M2SUhHZnZIWmxGbTAwc05HX0tPU1lDUXVEWFd2aENCdW1ueU5kZUtzMC1qTF8tV01TQ2ZmcExxOVZZcldJVmMwM3kydHdzV20yQQ?oc=5",
-          "time": "2026-09-15 09:36:00",
-          "publisher": "Google News→Hkcna.Hk",
-          "severity": "red"
-        },
-        {
-          "title": "馬管處導覽解說培訓結訓 50名生力軍投入馬祖觀光服務",
-          "url": "https://tw.news.yahoo.com/%E9%A6%AC%E7%AE%A1%E8%99%95%E5%B0%8E%E8%A6%BD%E8%A7%A3%E8%AA%AA%E5%9F%B9%E8%A8%93%E7%B5%90%E8%A8%93-50%E5%90%8D%E7%94%9F%E5%8A%9B%E8%BB%8D%E6%8A%95%E5%85%A5%E9%A6%AC%E7%A5%96%E8%A7%80%E5%85%89%E6%9C%8D%E5%8B%99-222032652.html",
-          "time": "2026-09-15 06:20:32",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "馬管處導覽解說培訓結訓 50名生力軍投入馬祖觀光服務 - 消費新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXBfYXYtTjh0ME1oNzAwbWFZNkNSSVFSSlo3YjZqY3lPWlpNalVKSlI3V3ZBRlZxYldMaDB6TGpsdV9WMktUb2w0Q1Z6ZlBnaE1OSjdGcFB0bmxTYVJOd3l1YlZCeFhCWGtyWExkM1ZZRU9JdDg5QU5nbWJBM0FsQUNJWHlPcnRVY1Fndg?oc=5",
-          "time": "2026-09-15 06:20:32",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "響應2026交通安全月 連江監理站鎖定遊客、鄉親與駕駛人強化交安宣導",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1seXh0T3NranYwR1FNcHdmdUVTRWJjcVJjdEE5ZkR1ZDhUb2hDUm93SVRaU2h1ZHpETUtacVRXblREOC1VMl9z?oc=5",
-          "time": "2026-09-15 02:47:11",
-          "publisher": "Google News→台灣新聞雲",
-          "severity": null
-        },
-        {
-          "title": "馬祖開辦電子煙回收！衛生局9月7日起辦1個月 免具名、免留個資安心回收",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE55MlNaZmRkR2NXZTJiTGpINWhrek9GdFdTMWdUT0llalRnYThJbV8xTnczVEdxUktueFFDckduZjFodkdQSGE4?oc=5",
-          "time": "2026-09-15 02:45:03",
-          "publisher": "Google News→台灣新聞雲",
-          "severity": null
-        },
-        {
-          "title": "少子化下守住離島產科！彰基跨海守護馬祖，建構母嬰醫療後盾",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tWHlxTjFGSmR4S1FLWGh1U3lBYzBmWTFTSDJfSE44V2g5NkZqUmZhNHd1dzhLMnFYaGxVY1F3bng4dVo0Q1lWR3prNHMzYU9zSGRnNW1iQ2t5WUYwODJkTQ?oc=5",
-          "time": "2026-09-15 01:00:00",
-          "publisher": "Google News→民視新聞網",
-          "severity": null
-        },
-        {
-          "title": "-離島運動會聖火傳抵金門 莒光樓前完成交接",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kSi00Ml9DU0tGQXlTbkowb0t4OWUzR0RwRktMYm5KUXlXSGk0ZElTVU1vVktpRjNETDNaNlp6X0g4LW9jcXRkek9lcG00blZia0hLN0VWSHQ?oc=5",
-          "time": "2026-09-15 00:03:10",
-          "publisher": "Google News→kmdn.gov.tw",
-          "severity": null
-        },
-        {
-          "title": "守護馬祖海域 連江縣啟動「海洋污染」實兵演練",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QZjh2eURYaHRmRlBLam55aThzM3ZDMXIzLTBGX0ZVLUtGbDN3RzJPSm9iRE1fdFJzcXQwSU8xZTQxT0lHd1ZNWTlGYmdGRzZYelR0ZTRhRS1VMkVOYlE?oc=5",
-          "time": "2026-09-15 00:02:05",
-          "publisher": "Google News→matsu-news.gov.tw",
-          "severity": null
-        },
-        {
-          "title": "高規格 連江縣首座無人機考場正式啟用",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94bGNnUlVsMGU0VVdzVE1QczBzRUlFSHRFTFlJN1hwYi1VM0JFSVBxSnRPazZoa3pNeDlOaHFIbEhtTVFBV0hQRl9KejZXWWlJa0pCNW1Xc2ZWZVhNQkE?oc=5",
-          "time": "2026-09-15 00:02:02",
-          "publisher": "Google News→matsu-news.gov.tw",
-          "severity": null
-        },
-        {
-          "title": "離島運聖火抵金門 莒光樓前完成傳遞",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XQTlYYnJWaHFma01CendxUnlXYm1SSXdhMVhVZjZ6NGV4bmFCTVBLcGxkbnBON1J1ZmlnVjFWaEk4SmdzMGd3N2VzVm83NXJkd0tRNC0yaVhncUZEUVE?oc=5",
-          "time": "2026-09-15 00:01:52",
-          "publisher": "Google News→matsu-news.gov.tw",
-          "severity": null
-        },
-        {
-          "title": "微光馬祖精彩壓軸 國樂饗宴9/19北海坑道、媽祖巨神像接力演出",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ER1EwMndEazkxTVBMLVk0M3lZWm1VeGRpZW55ZjdWTzg3MnUtMGpBRmdLMTJRWkJUdUJIdjVmVXhET1BfU01IS3NZaUZ5WTViMFU0MFRfV1A3NU9PYXc?oc=5",
-          "time": "2026-09-15 00:01:52",
-          "publisher": "Google News→matsu-news.gov.tw",
-          "severity": null
-        },
-        {
-          "title": "效法金門「戰鬥英雄」賴生明永不放棄 離島運動會聖火莒光樓前閃耀",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5573927",
-          "time": "2026-09-14 22:59:09",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "臺銀深耕馬祖 使用TWQR享12.5%回饋",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQengtWFdzSVl4bzIyTlhzSV9HVUNMVEZVOXRHd2o5ZjdKR21HTGZWVjFfYm5fT3oxSDljT1BWWG8tbGRjN2dqLWh4LVV0a3JuUGl4YzY2U0FQUXJSSHloMmxlMFoxa2NwZ2ZYcGNNbzNXME03YXJSdTQwVFFlQ2pBN2xtV3A1S3htQWVZZWN0ZERQcGpoQTJjWHJvQXdIUTVPaGpuRC04cWN6TkJZVGcxMjc1SkVvSnZ6R3cwZTF6U09ZelVtczlncUl0bnFoa19yM2pueDVieTA2d0lELVFoMWlFQ08?oc=5",
-          "time": "2026-09-14 20:39:48",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "嘉義市地方動態",
       "city": "嘉義市",
       "place": "嘉義市政府",
@@ -1037,15 +883,148 @@
       "comments": []
     },
     {
+      "title": "連江地方動態",
+      "city": "連江",
+      "place": "連江縣（馬祖）",
+      "level": "yellow",
+      "news_count": 17,
+      "comment_count": 0,
+      "negativity_pct": 6,
+      "is_urgent": false,
+      "urgency_score": 20,
+      "news_articles": [
+        {
+          "title": "第十一屆離島運動會聖火抵達馬公 連江縣府教育處長王禮民率隊「離島不離心」再寫新篇章",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1SMHVoNllVd0R5V0RTUjFGcmtuUjBtX1FxNnI4OFFTcFlnZDRqZ1JsR3B6TEJQYndTVEdlTXYxMFVBN0MzOGRN?oc=5",
+          "time": "2026-09-15 16:47:39",
+          "publisher": "Google News→台灣新聞雲",
+          "severity": null
+        },
+        {
+          "title": "連江地檢署召開查賄選會議 分析最新選情、研商查賄查幽靈人口策略",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5574537",
+          "time": "2026-09-15 14:56:34",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "台銀深耕馬祖推廣行動支付 使用 TWQR 消費最高享12.5%回饋",
+          "url": "https://money.udn.com/money/story/5613/9755770",
+          "time": "2026-09-15 13:57:40",
+          "publisher": "經濟日報",
+          "severity": null
+        },
+        {
+          "title": "離島運聖火傳抵金門 兩百人代表隊十月出征馬祖",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUU9CY0dYbjBObld1akVSakd4dTRHVkNEU1Zua0hjc2VXM1lFaWNqcVRfYy1pdUlMVzNuNnhpb0dWS0tIeExqT2NYclQxYVBEb1dCMDZQaUg1UUFJal8xVGRXai1hbzVzRlR5V29DUzdkUnVtOXF5X2VsZDhhaTJ2Y3d2UEI5WC1nVWpzdkFtelV2ZF9WTDFGTkJWWm54OGNhak1Cc0ZQRkFrV1EyN0JVLWU1MGk?oc=5",
+          "time": "2026-09-15 13:41:11",
+          "publisher": "Google News→金門GO資訊網",
+          "severity": null
+        },
+        {
+          "title": "台軍馬祖防衛部參謀長被控性騷擾",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mT3ZTaWJZQkJrcjlFVy1yYWZ5V1M2SUhHZnZIWmxGbTAwc05HX0tPU1lDUXVEWFd2aENCdW1ueU5kZUtzMC1qTF8tV01TQ2ZmcExxOVZZcldJVmMwM3kydHdzV20yQQ?oc=5",
+          "time": "2026-09-15 09:36:00",
+          "publisher": "Google News→Hkcna.Hk",
+          "severity": "red"
+        },
+        {
+          "title": "馬管處導覽解說培訓結訓 50名生力軍投入馬祖觀光服務",
+          "url": "https://tw.news.yahoo.com/%E9%A6%AC%E7%AE%A1%E8%99%95%E5%B0%8E%E8%A6%BD%E8%A7%A3%E8%AA%AA%E5%9F%B9%E8%A8%93%E7%B5%90%E8%A8%93-50%E5%90%8D%E7%94%9F%E5%8A%9B%E8%BB%8D%E6%8A%95%E5%85%A5%E9%A6%AC%E7%A5%96%E8%A7%80%E5%85%89%E6%9C%8D%E5%8B%99-222032652.html",
+          "time": "2026-09-15 06:20:32",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "馬管處導覽解說培訓結訓 50名生力軍投入馬祖觀光服務 - 消費新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXBfYXYtTjh0ME1oNzAwbWFZNkNSSVFSSlo3YjZqY3lPWlpNalVKSlI3V3ZBRlZxYldMaDB6TGpsdV9WMktUb2w0Q1Z6ZlBnaE1OSjdGcFB0bmxTYVJOd3l1YlZCeFhCWGtyWExkM1ZZRU9JdDg5QU5nbWJBM0FsQUNJWHlPcnRVY1Fndg?oc=5",
+          "time": "2026-09-15 06:20:32",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "響應2026交通安全月 連江監理站鎖定遊客、鄉親與駕駛人強化交安宣導",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1seXh0T3NranYwR1FNcHdmdUVTRWJjcVJjdEE5ZkR1ZDhUb2hDUm93SVRaU2h1ZHpETUtacVRXblREOC1VMl9z?oc=5",
+          "time": "2026-09-15 02:47:11",
+          "publisher": "Google News→台灣新聞雲",
+          "severity": null
+        },
+        {
+          "title": "馬祖開辦電子煙回收！衛生局9月7日起辦1個月 免具名、免留個資安心回收",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE55MlNaZmRkR2NXZTJiTGpINWhrek9GdFdTMWdUT0llalRnYThJbV8xTnczVEdxUktueFFDckduZjFodkdQSGE4?oc=5",
+          "time": "2026-09-15 02:45:03",
+          "publisher": "Google News→台灣新聞雲",
+          "severity": null
+        },
+        {
+          "title": "少子化下守住離島產科！彰基跨海守護馬祖，建構母嬰醫療後盾",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tWHlxTjFGSmR4S1FLWGh1U3lBYzBmWTFTSDJfSE44V2g5NkZqUmZhNHd1dzhLMnFYaGxVY1F3bng4dVo0Q1lWR3prNHMzYU9zSGRnNW1iQ2t5WUYwODJkTQ?oc=5",
+          "time": "2026-09-15 01:00:00",
+          "publisher": "Google News→民視新聞網",
+          "severity": null
+        },
+        {
+          "title": "-離島運動會聖火傳抵金門 莒光樓前完成交接",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kSi00Ml9DU0tGQXlTbkowb0t4OWUzR0RwRktMYm5KUXlXSGk0ZElTVU1vVktpRjNETDNaNlp6X0g4LW9jcXRkek9lcG00blZia0hLN0VWSHQ?oc=5",
+          "time": "2026-09-15 00:03:10",
+          "publisher": "Google News→kmdn.gov.tw",
+          "severity": null
+        },
+        {
+          "title": "守護馬祖海域 連江縣啟動「海洋污染」實兵演練",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QZjh2eURYaHRmRlBLam55aThzM3ZDMXIzLTBGX0ZVLUtGbDN3RzJPSm9iRE1fdFJzcXQwSU8xZTQxT0lHd1ZNWTlGYmdGRzZYelR0ZTRhRS1VMkVOYlE?oc=5",
+          "time": "2026-09-15 00:02:05",
+          "publisher": "Google News→matsu-news.gov.tw",
+          "severity": null
+        },
+        {
+          "title": "高規格 連江縣首座無人機考場正式啟用",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94bGNnUlVsMGU0VVdzVE1QczBzRUlFSHRFTFlJN1hwYi1VM0JFSVBxSnRPazZoa3pNeDlOaHFIbEhtTVFBV0hQRl9KejZXWWlJa0pCNW1Xc2ZWZVhNQkE?oc=5",
+          "time": "2026-09-15 00:02:02",
+          "publisher": "Google News→matsu-news.gov.tw",
+          "severity": null
+        },
+        {
+          "title": "離島運聖火抵金門 莒光樓前完成傳遞",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XQTlYYnJWaHFma01CendxUnlXYm1SSXdhMVhVZjZ6NGV4bmFCTVBLcGxkbnBON1J1ZmlnVjFWaEk4SmdzMGd3N2VzVm83NXJkd0tRNC0yaVhncUZEUVE?oc=5",
+          "time": "2026-09-15 00:01:52",
+          "publisher": "Google News→matsu-news.gov.tw",
+          "severity": null
+        },
+        {
+          "title": "微光馬祖精彩壓軸 國樂饗宴9/19北海坑道、媽祖巨神像接力演出",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ER1EwMndEazkxTVBMLVk0M3lZWm1VeGRpZW55ZjdWTzg3MnUtMGpBRmdLMTJRWkJUdUJIdjVmVXhET1BfU01IS3NZaUZ5WTViMFU0MFRfV1A3NU9PYXc?oc=5",
+          "time": "2026-09-15 00:01:52",
+          "publisher": "Google News→matsu-news.gov.tw",
+          "severity": null
+        },
+        {
+          "title": "效法金門「戰鬥英雄」賴生明永不放棄 離島運動會聖火莒光樓前閃耀",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5573927",
+          "time": "2026-09-14 22:59:09",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "臺銀深耕馬祖 使用TWQR享12.5%回饋",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQengtWFdzSVl4bzIyTlhzSV9HVUNMVEZVOXRHd2o5ZjdKR21HTGZWVjFfYm5fT3oxSDljT1BWWG8tbGRjN2dqLWh4LVV0a3JuUGl4YzY2U0FQUXJSSHloMmxlMFoxa2NwZ2ZYcGNNbzNXME03YXJSdTQwVFFlQ2pBN2xtV3A1S3htQWVZZWN0ZERQcGpoQTJjWHJvQXdIUTVPaGpuRC04cWN6TkJZVGcxMjc1SkVvSnZ6R3cwZTF6U09ZelVtczlncUl0bnFoa19yM2pueDVieTA2d0lELVFoMWlFQ08?oc=5",
+          "time": "2026-09-14 20:39:48",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "新竹縣地方動態",
       "city": "新竹縣",
       "place": "新竹縣政府",
       "level": "yellow",
-      "news_count": 27,
+      "news_count": 26,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 30,
+      "urgency_score": 29,
       "news_articles": [
         {
           "title": "新竹縣美術館籌備處今天揭牌",
@@ -1228,13 +1207,6 @@
           "time": "2026-09-14 21:15:00",
           "publisher": "Google News→蕃新聞",
           "severity": null
-        },
-        {
-          "title": "沈蔣隔空再交鋒 新北「尊侯牌」搶票5／竹北藍白破局外溢效應 柯文哲：地方組織需國民黨多幫忙",
-          "url": "https://www.mnews.tw/story/20260914sot1913001",
-          "time": "2026-09-14 20:20:58",
-          "publisher": "鏡新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -1244,11 +1216,11 @@
       "city": "澎湖",
       "place": "澎湖縣政府",
       "level": "yellow",
-      "news_count": 27,
+      "news_count": 26,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 27,
+      "urgency_score": 26,
       "news_articles": [
         {
           "title": "繼全民運後離島運動會聖火抵澎湖傳遞| 運動",
@@ -1430,13 +1402,6 @@
           "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNUTdDc0lhall3U3p3ZzNoOUJqNHdjcnBwSG5qSFRTeWVPQkFRV2g0NFJKWkZWVVV6OFFWTjNKQ3lhT1k2OUxNanBGQmJSWExmR0ZUMUhuOWY1SzJhMWRocGExQ1d3VTU3NWhZanBfVUVZdEVPRnRuelBMTmg2QUF4SzVHM1FlWnBSbmg3LVdSeVRiTmFkWENRZk9sV3k2ZDdYV3QwOElna1hBRG93Q0l4OUZ6eW9fRjFrUWN0VDcyTDBMSDRuN2NGdnFCYXE2MkstTU8tcjRYSlI5di12NkFTNl8zMlcwR000NUY0WVJMTDJyS0R1YnVvR00wbHVtWllZcGxZaEdzVW4wLXR2bHRsX0RPQjFDWFh0Q0trWWtWT2RyTFgtWnV4b2ZxX28wLUxaZ19ELUxycnZwZ01yMkt3?oc=5",
           "time": "2026-09-14 21:07:52",
           "publisher": "Google News→澎湖e傳媒",
-          "severity": null
-        },
-        {
-          "title": "華航新機首航高雄-澎湖 華信布局國際航線 | NOWNEWS今日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04QVkxU2lHbzQzWFc3TFJfR3dDb2Y0QUI1TGV5S3FCREJlRDl4NGlOQnhNZVVla21HdFk3bEdUbHRLNk5zSnhDNFFfREo0cWhjaEtUTF9n?oc=5",
-          "time": "2026-09-14 20:32:08",
-          "publisher": "Google News→LINE TODAY",
           "severity": null
         }
       ],
@@ -1678,11 +1643,11 @@
       "city": "台中",
       "place": "台中市北屯區",
       "level": "yellow",
-      "news_count": 163,
+      "news_count": 160,
       "comment_count": 36,
       "negativity_pct": 8,
       "is_urgent": true,
-      "urgency_score": 248,
+      "urgency_score": 245,
       "news_articles": [
         {
           "title": "【震傳媒｜新聞！給問嗎？】EP637｜選戰倒數73天！首任市政總質詢結束！蔣萬安將轉守為攻？盧秀燕拋在野大聯盟！能破藍白僵局？「尚豪麻吉」尚毅夫、陳東豪帶你看新聞！",
@@ -2803,27 +2768,6 @@
           "time": "2026-09-14 20:44:00",
           "publisher": "Google News→蕃新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "【#大新聞大爆卦 中】盧秀燕這招太狠綠一票人倒戈了!綠邀侯友宜站台嫌賴清德不給力?綠圍蔣救賴又來了選情真崩了?郭正亮爆蘇巧慧忘爸超有詭內幕!綠崩潰了? 完整版  @大新聞大爆卦HotNewsTalk​",
-          "url": "https://www.youtube.com/watch?v=icV_UnYT_IA",
-          "time": "2026-09-14 20:30:15",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "竹北藍白合破局後柯文哲籲合作 盧秀燕主張成立在野大聯盟",
-          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPSjEtZUdsUW9nSWZXSmhIWG1lekpZQWpEdkFWbFgydjB5RkV3MFFWNmNWVTN0Z3N5VG9MUFgxbWU3bDhIUktxNEl3cDlQSWdqTHdVX1N0Q05xZlBTbWZBcFJYTGV2QzluZ1hiZ0k5OXFZcjVGNkRlZ2dIV2h1Zk9PMFNwZHNpTWhER2ZOZFR4UFVtd1o4ak9fcnFTbFR5MW81S2hpX1dOb3NHNkE4UTFWdXp1OVppSkxLWWhmbVVVVlVaYUsyQ0xDWXVKMU5hUUZONGlVN3NKdTgtc1F4N3BCU3NYSl9RYmJEX2pvQUpnZnYzRG9wdjgtZnRxQjRmckdhRUhmQlVaMHoxaFAzd2FLLW1iS3RJNnZIeWp1MlJ3ZjhfMkFzVDhMQmJKbGNIWWUyOWd5NUFZejRGRlVnRHlja1kwbnBHY21uSG1rWjloWGhlWEd1alVQT0JDajdQS2hKYkR0cU13RlQxQkNBQVBvb1V1aE9rSlllU2xIN0ZUbjlRVzQwbFZJOEhzV1c?oc=5",
-          "time": "2026-09-14 20:24:52",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "藍白合破局修補裂痕？ 盧秀燕喊「在野大聯盟」：不能讓民進黨一黨獨大",
-          "url": "https://www.taisounds.com/news/content/71/288610",
-          "time": "2026-09-14 20:20:56",
-          "publisher": "太報",
-          "severity": "yellow"
         }
       ],
       "comments": [
@@ -3118,34 +3062,6 @@
       ]
     },
     {
-      "title": "新北弊案爭議",
-      "city": "新北",
-      "place": "新北市政府",
-      "level": "red",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "8 . 新北消防採購弊案二波搜索！ 檢調今帶走3科員",
-          "url": "https://www.mnews.tw/story/20260914sot1637001",
-          "time": "2026-09-15 14:08:19",
-          "publisher": "鏡新聞",
-          "severity": "red"
-        },
-        {
-          "title": "新北消防採購弊案第二波搜索 檢調帶回3人",
-          "url": "https://news.ebc.net.tw/news/society/571313",
-          "time": "2026-09-15 09:04:00",
-          "publisher": "東森新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台北弊案爭議",
       "city": "台北",
       "place": "台北市政府",
@@ -3196,6 +3112,34 @@
           "url": "https://news.nextapple.com/local/20260915/89E37D7E97E17A37E9B5F14847B0B76C",
           "time": "2026-09-15 15:01:51",
           "publisher": "壹蘋新聞網",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新北弊案爭議",
+      "city": "新北",
+      "place": "新北市政府",
+      "level": "red",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "8 . 新北消防採購弊案二波搜索！ 檢調今帶走3科員",
+          "url": "https://www.mnews.tw/story/20260914sot1637001",
+          "time": "2026-09-15 14:08:19",
+          "publisher": "鏡新聞",
+          "severity": "red"
+        },
+        {
+          "title": "新北消防採購弊案第二波搜索 檢調帶回3人",
+          "url": "https://news.ebc.net.tw/news/society/571313",
+          "time": "2026-09-15 09:04:00",
+          "publisher": "東森新聞",
           "severity": "red"
         }
       ],
@@ -4501,11 +4445,11 @@
       "city": "台南",
       "place": "台南市政府",
       "level": "red",
-      "news_count": 48,
+      "news_count": 47,
       "comment_count": 0,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 54,
+      "urgency_score": 53,
       "news_articles": [
         {
           "title": "南市農業局攜手漁港所 100萬尾草蝦苗放流",
@@ -4835,13 +4779,6 @@
           "time": "2026-09-14 21:15:00",
           "publisher": "Google News→蕃新聞",
           "severity": null
-        },
-        {
-          "title": "獨家》亞資中心台南專區一波三折！台南市府與金融業917簽約記者會延期原因曝光",
-          "url": "https://www.ctee.com.tw/news/20260914701765-430301",
-          "time": "2026-09-14 20:20:58",
-          "publisher": "工商時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -5992,11 +5929,11 @@
       "city": "宜蘭",
       "place": "宜蘭縣政府",
       "level": "red",
-      "news_count": 63,
+      "news_count": 60,
       "comment_count": 0,
-      "negativity_pct": 13,
+      "negativity_pct": 12,
       "is_urgent": false,
-      "urgency_score": 87,
+      "urgency_score": 81,
       "news_articles": [
         {
           "title": "宜蘭縣長參選人林國漳團隊今天再批對手抹黑，拒絕惡質選風，吳宗憲競辦隨後回應，面對質疑林國漳派系酬庸，縣民都在等一個清楚的回答，但林國漳陣營答非所問，林國漳個人也閃躲，參選縣長者的言行舉止，原本就應該攤在陽光下接受檢驗，對選民負責、誠信是最基本要求。",
@@ -6417,27 +6354,6 @@
           "time": "2026-09-14 20:42:10",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "婉拒N次之後終於點頭 林國漳被潑髒水不退縮 返鄉30年角逐宜蘭縣長 力抗KMT空降部隊｜上集",
-          "url": "https://www.mnews.tw/story/20260914nm024",
-          "time": "2026-09-14 20:20:58",
-          "publisher": "鏡新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "杜鵑颱風最快明生成！ 北部、宜蘭今晚防雨",
-          "url": "https://www.mnews.tw/story/20260914sot1952001",
-          "time": "2026-09-14 20:20:58",
-          "publisher": "鏡新聞",
-          "severity": null
-        },
-        {
-          "title": "宜蘭縣長選舉藍綠交鋒，民進黨縣黨部主委邱嘉進今天批國民黨選情告急？從員山鄉長涉貪，到壯圍鄉長候選人涉賄選，不先向宜蘭鄉親說清楚，反發動負面攻擊；國民黨縣黨部回應，邱嘉進惡意帶風向，刑法規定被告在判決有罪確定前，一律是無罪推定原則，不能「未審先判」，既然要講政策願景，就邀請林國漳顧問公開辯論。",
-          "url": "https://udn.com/news/story/124652/9754187?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-14 20:20:57",
-          "publisher": "聯合新聞網",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -6447,11 +6363,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 111,
+      "news_count": 109,
       "comment_count": 0,
       "negativity_pct": 11,
       "is_urgent": false,
-      "urgency_score": 147,
+      "urgency_score": 145,
       "news_articles": [
         {
           "title": "花蓮「鏟子超人」促成新制！重大災害志工有保險 最高100萬元",
@@ -7215,20 +7131,6 @@
           "time": "2026-09-14 20:43:27",
           "publisher": "Google News→公視新聞網PNN",
           "severity": "yellow"
-        },
-        {
-          "title": "花蓮男子失蹤逾1月！手機斷訊、愛車被偷 家屬怒控警方吃案 | 民視新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBscjZZMFM2WVhBZW9GbTdYVzdQNFRBUTN0WXlBb2pJMnJZM1hSeUJEM2xRTDFoYXZWUlNEckQzVlY5OUtrQTNDZDI2YVg2QVVDSGVJVFRR?oc=5",
-          "time": "2026-09-14 20:23:19",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "yellow"
-        },
-        {
-          "title": "國旅補助各縣市拼加碼 花蓮加倍補助三天兩夜住宿0元起",
-          "url": "https://www.ctee.com.tw/news/20260914701760-431207",
-          "time": "2026-09-14 20:20:58",
-          "publisher": "工商時報",
-          "severity": null
         }
       ],
       "comments": []
@@ -7238,11 +7140,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 114,
+      "news_count": 110,
       "comment_count": 0,
-      "negativity_pct": 4,
+      "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 126,
+      "urgency_score": 119,
       "news_articles": [
         {
           "title": "桃園7輛汽機車連環撞 5傷送醫",
@@ -8013,34 +7915,6 @@
           "time": "2026-09-14 20:36:09",
           "publisher": "Google News→中華新聞雲／中華日報",
           "severity": null
-        },
-        {
-          "title": "黃世杰提3大醫療政策喊話布局桃園第二座醫學中心| 2026九合一選舉",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qam9NS05IVTRLY2xjYU44cnBvWjJseWJkemROVDJvYVp1Zkg1eDgyS0FmeXFrMkNqblYtdUhWYThWZmhiekluRFpoSWFrdTktV0gwRlZIMlU?oc=5",
-          "time": "2026-09-14 20:24:34",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "黃瓊慧不滿被叫「綠營三寶」 凌濤曬三寶飯酸：你們是桃園寶藏",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kUEhFSEZIV1hQLTA2MkRJMUpBQ3laZUU0SF9VbjZEZldrMF9ZRVFOVEhBR25vQUM3QkNodWQzTWhrYnpURjAwcDNMbmlETkZ10gFWQVVfeXFMT2ZtdmFQbndRbWFFRVpqaTlYb3k2YW9udllSVW9ZRnFzblNybFRUWnhydS1BVGhBdVpPaXZBRnFqcU5INm9QYnIxUjBiUkU5Ymdod1BhU3c?oc=5",
-          "time": "2026-09-14 20:23:04",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "斷片？嘉義男到桃園酒後掉手機由30公里外龍潭警尋獲 不記得去過龍潭",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETDZsMGJxQVF1ajhLOTg1a2RoMnhCUmw1bDVIa0g5MDFGQmEzSXVvWmVWZTZtdUlXdkQwSGFLTXNvS2pxb2tMMHBQR21aTTA00gFWQVVfeXFMTURuWE0xakplZ3pjQmRVcEFXTlZwV3l5ak1mZ0dKTC1YUGpvdkc3SjBISDRqaFpYQjNOWmNNdTRSenhnRWVWZ3Q2cnUtUF9WWEplVHZ5VXc?oc=5",
-          "time": "2026-09-14 20:22:14",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "房市冷風吹不散剛需！「桃園兩區」3字頭賣破2千件 奪七都熱銷冠亞軍",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RR05yaWdidUJBTTBnRzhwT0NWcDhZU29FclFqQXAzZnVFY1F2NjhvNWdTMjBUTm05bTVHWHNLcU1od1pzMW1PUzE0RFVHekdf?oc=5",
-          "time": "2026-09-14 20:22:00",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []
@@ -8050,11 +7924,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 117,
+      "news_count": 113,
       "comment_count": 0,
       "negativity_pct": 8,
       "is_urgent": false,
-      "urgency_score": 144,
+      "urgency_score": 140,
       "news_articles": [
         {
           "title": "新北街頭驚見「遛人形機器人」 警方發聲",
@@ -8846,34 +8720,6 @@
           "time": "2026-09-14 20:57:11",
           "publisher": "自由時報",
           "severity": null
-        },
-        {
-          "title": "沈蔣隔空再交鋒 新北「尊侯牌」搶票1／台日友好！ 沈伯洋拜會自民黨談「外交防衛政策」",
-          "url": "https://www.mnews.tw/story/20260914sot1813001",
-          "time": "2026-09-14 20:20:58",
-          "publisher": "鏡新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "沈蔣隔空再交鋒 新北「尊侯牌」搶票5／竹北藍白破局外溢效應 柯文哲：地方組織需國民黨多幫忙",
-          "url": "https://www.mnews.tw/story/20260914sot1913001",
-          "time": "2026-09-14 20:20:58",
-          "publisher": "鏡新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "2026.09.14 19:48 洋流變海波浪！民調追至個位數！蔣萬安自己養大沈伯洋？李四川競選飄AI味？英賴左右護法！蘇巧慧新北逆轉有戲？藍白合也難救？柯文哲喊先止血！",
-          "url": "https://www.mnews.tw/story/20260914nm025",
-          "time": "2026-09-14 20:20:58",
-          "publisher": "鏡新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "2026.09.14 19:15 沈蔣隔空再交鋒 新北「尊侯牌」搶票2／綠議員輪番砲轟 蔣萬安總質詢遭酸「三不市府」",
-          "url": "https://www.mnews.tw/story/20260914sot1910001",
-          "time": "2026-09-14 20:20:58",
-          "publisher": "鏡新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -8883,11 +8729,11 @@
       "city": "高雄",
       "place": "高雄市三民區",
       "level": "red",
-      "news_count": 152,
+      "news_count": 150,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 176,
+      "urgency_score": 174,
       "news_articles": [
         {
           "title": "高雄米其林推薦餐廳 Li.nu秋季新菜登場",
@@ -9938,20 +9784,6 @@
           "time": "2026-09-14 20:33:47",
           "publisher": "自由時報",
           "severity": "red"
-        },
-        {
-          "title": "華航新機首航高雄-澎湖 華信布局國際航線 | NOWNEWS今日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04QVkxU2lHbzQzWFc3TFJfR3dDb2Y0QUI1TGV5S3FCREJlRDl4NGlOQnhNZVVla21HdFk3bEdUbHRLNk5zSnhDNFFfREo0cWhjaEtUTF9n?oc=5",
-          "time": "2026-09-14 20:32:08",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "開業五年畫句點！饗麻饗辣高雄夢時代店10/26熄燈",
-          "url": "https://news.ebc.net.tw/news/living/571259",
-          "time": "2026-09-14 20:21:00",
-          "publisher": "東森新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -9961,11 +9793,11 @@
       "city": "台中",
       "place": "台中市沙鹿區",
       "level": "red",
-      "news_count": 163,
+      "news_count": 161,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 178,
+      "urgency_score": 176,
       "news_articles": [
         {
           "title": "台中榮總醫材廠商代刀案 一審地院判2醫師緩刑",
@@ -11093,20 +10925,6 @@
           "time": "2026-09-14 20:42:01",
           "publisher": null,
           "severity": null
-        },
-        {
-          "title": "台中石岡大貨車忘拉手煞車 「自駕」連撞住宅大門、夜市攤車",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5573862",
-          "time": "2026-09-14 20:30:48",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "大里光正國中創校30年首建禮堂！ 中市府斥資上億落成啟用",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4MnZRZndFeFRtdDZ3eGYwVHEzazctSXpFUG0zZnA2NWJKWUJqY05rRWk5Sy1vSVZxTmhCckNvUGJTdlZmMmI5WHhKMkdQLXJiZUE?oc=5",
-          "time": "2026-09-14 20:28:12",
-          "publisher": "Google News→中華新聞雲／中華日報",
-          "severity": null
         }
       ],
       "comments": []
@@ -11116,11 +10934,11 @@
       "city": "台北",
       "place": "台北市南港區",
       "level": "red",
-      "news_count": 192,
+      "news_count": 188,
       "comment_count": 0,
       "negativity_pct": 13,
       "is_urgent": false,
-      "urgency_score": 267,
+      "urgency_score": 263,
       "news_articles": [
         {
           "title": "MAMAMOO台北合體！11月小巨蛋連唱2場 福利、票價一次公開",
@@ -12436,34 +12254,6 @@
           "url": "https://www.youtube.com/watch?v=NBeMyWTEngQ",
           "time": "2026-09-14 20:44:12",
           "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "酸「沈伯洋穿防彈衣」扯台北治安？顏若芳批蔣萬安：說不出口的佛地魔｜#頭家來開講｜民視讚夯.com",
-          "url": "https://www.youtube.com/watch?v=PzVIGt5eu2g",
-          "time": "2026-09-14 20:30:05",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "2026.09.14 19:48 洋流變海波浪！民調追至個位數！蔣萬安自己養大沈伯洋？李四川競選飄AI味？英賴左右護法！蘇巧慧新北逆轉有戲？藍白合也難救？柯文哲喊先止血！",
-          "url": "https://www.mnews.tw/story/20260914nm025",
-          "time": "2026-09-14 20:20:58",
-          "publisher": "鏡新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "2026.09.14 19:15 沈蔣隔空再交鋒 新北「尊侯牌」搶票2／綠議員輪番砲轟 蔣萬安總質詢遭酸「三不市府」",
-          "url": "https://www.mnews.tw/story/20260914sot1910001",
-          "time": "2026-09-14 20:20:58",
-          "publisher": "鏡新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "已故國民黨元老張群生前以「中行廬」為齋名廣收書畫，香港邦瀚斯中國書畫秋拍台北預展將帶來張群系列收藏，其中蔣介石親筆楷書估...",
-          "url": "https://udn.com/news/story/7314/9754214?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-14 20:20:57",
-          "publisher": "聯合新聞網",
           "severity": null
         }
       ],
