@@ -98108,7 +98108,7 @@
     },
     {
       "date": "2026-09-15",
-      "snapshot_at": "2026-09-15T12:18:02.798201+00:00",
+      "snapshot_at": "2026-09-15T12:20:54.031093+00:00",
       "hotspots": [
         {
           "title": "盧秀燕訪美外交",
@@ -98153,20 +98153,6 @@
           ]
         },
         {
-          "title": "新北詐騙案",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "Line詐騙頻傳 綠營新北議員受害直呼「很恐怖」"
-          ]
-        },
-        {
           "title": "宜蘭詐騙案",
           "city": "宜蘭",
           "place": "宜蘭縣政府",
@@ -98178,6 +98164,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "宜蘭金融機構兩月擋下10件詐騙～成功攔阻364萬元"
+          ]
+        },
+        {
+          "title": "新北詐騙案",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "Line詐騙頻傳 綠營新北議員受害直呼「很恐怖」"
           ]
         },
         {
@@ -98388,6 +98388,22 @@
           ]
         },
         {
+          "title": "連江地方動態",
+          "city": "連江",
+          "place": "連江縣（馬祖）",
+          "level": "yellow",
+          "news_count": 17,
+          "comment_count": 0,
+          "negativity_pct": 6,
+          "is_urgent": false,
+          "urgency_score": 20,
+          "sample_titles": [
+            "第十一屆離島運動會聖火抵達馬公 連江縣府教育處長王禮民率隊「離島不離心」再寫新篇章",
+            "連江地檢署召開查賄選會議 分析最新選情、研商查賄查幽靈人口策略",
+            "台銀深耕馬祖推廣行動支付 使用 TWQR 消費最高享12.5%回饋"
+          ]
+        },
+        {
           "title": "嘉義市地方動態",
           "city": "嘉義市",
           "place": "嘉義市政府",
@@ -98401,22 +98417,6 @@
             "擴大長者福利 嘉義市10月起65歲以上享健保費補助",
             "65歲以上長者免健保費 嘉義市可以 吳品叡希望嘉義縣也可以",
             "嘉義市勇奪永續幸福城市冠軍 黃敏惠連4年獲評施政標竿"
-          ]
-        },
-        {
-          "title": "連江地方動態",
-          "city": "連江",
-          "place": "連江縣（馬祖）",
-          "level": "yellow",
-          "news_count": 18,
-          "comment_count": 0,
-          "negativity_pct": 6,
-          "is_urgent": false,
-          "urgency_score": 21,
-          "sample_titles": [
-            "第十一屆離島運動會聖火抵達馬公 連江縣府教育處長王禮民率隊「離島不離心」再寫新篇章",
-            "連江地檢署召開查賄選會議 分析最新選情、研商查賄查幽靈人口策略",
-            "台銀深耕馬祖推廣行動支付 使用 TWQR 消費最高享12.5%回饋"
           ]
         },
         {
@@ -98484,36 +98484,6 @@
           ]
         },
         {
-          "title": "台北弊案爭議",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "【#原音重現】蔣市府驚爆弊案？已完工的還能再招標？蔣萬安當場語塞！遭追問「要不要送檢調」不敢回應...簡舒培開嗆：不要包",
-            "蔣市府驚爆弊案？已完工的還能再招標？蔣萬安當場語塞！遭追問「要不要送檢調」不敢回應...簡舒培開嗆：不要包庇自己人！｜【"
-          ]
-        },
-        {
-          "title": "台東弊案爭議",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "red",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "台東縣府貪污案向上延燒 副議長列被告100萬交保",
-            "東映農路拓寬圖利弊案 台東副議長林琮翰改列被告、友人喊冤"
-          ]
-        },
-        {
           "title": "新北弊案爭議",
           "city": "新北",
           "place": "新北市政府",
@@ -98529,6 +98499,21 @@
           ]
         },
         {
+          "title": "台北弊案爭議",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "【#原音重現】蔣市府驚爆弊案？已完工的還能再招標？蔣萬安當場語塞！遭追問「要不要送檢調」不敢回應...簡舒培開嗆：不要包",
+            "蔣市府驚爆弊案？已完工的還能再招標？蔣萬安當場語塞！遭追問「要不要送檢調」不敢回應...簡舒培開嗆：不要包庇自己人！｜【"
+          ]
+        },
+        {
           "title": "台中弊案爭議",
           "city": "台中",
           "place": "台中市政府",
@@ -98541,6 +98526,21 @@
           "sample_titles": [
             "找廠商代刀私下分利！台中榮總2神經外科名醫遭判刑…院方回應曝光",
             "扯爆！醫材商進手術房代執刀 台中榮總2主任判刑出爐"
+          ]
+        },
+        {
+          "title": "台東弊案爭議",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "red",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "台東縣府貪污案向上延燒 副議長列被告100萬交保",
+            "東映農路拓寬圖利弊案 台東副議長林琮翰改列被告、友人喊冤"
           ]
         },
         {
