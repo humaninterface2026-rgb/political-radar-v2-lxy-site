@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "snapshot_at": "2026-09-15T01:56:28.345371+00:00",
+  "snapshot_at": "2026-09-15T01:59:37.116042+00:00",
   "hotspots": [
     {
       "title": "台北狼師事件",
@@ -1018,11 +1018,11 @@
       "city": "台中",
       "place": "台中市政府",
       "level": "yellow",
-      "news_count": 18,
+      "news_count": 17,
       "comment_count": 2,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 25,
+      "urgency_score": 24,
       "news_articles": [
         {
           "title": "【#大新聞大爆卦】郭正亮諷撲馬洋流變洋相?鄭麗文拋新模式!彰化宜蘭有贏面!盧秀燕這招太狠綠一票人倒戈了!綠邀侯友宜站台喊票投李四川?20260914特別版@大新聞大爆卦HotNewsTalk",
@@ -1141,13 +1141,6 @@
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLRk1TRDlOUnUzZWdlaVpzQm9JZGk0YlRkcl9WdFpCS3Z5SzE5ckJDa2k4bjI2dm5obGtJaFN1d1hsTXNib000UdIBTEFVX3lxTE43VzktMDRWNmJqUWVaMXpwc3RTblctN09SQ3RaaXlrMmdINGNkTmxmdVd1NDZnS005ZUdFeWFhdjJqZVVvUUVHczJfRno?oc=5",
           "time": "2026-09-14 14:08:00",
           "publisher": "三立新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "打臉鄭麗文？盧秀燕喊「在野大聯盟」黃國昌秒響應 林俊憲1句酸爆",
-          "url": "https://tw.news.yahoo.com/%E6%89%93%E8%87%89%E9%84%AD%E9%BA%97%E6%96%87-%E7%9B%A7%E7%A7%80%E7%87%95%E5%96%8A-%E5%9C%A8%E9%87%8E%E5%A4%A7%E8%81%AF%E7%9B%9F-%E9%BB%83%E5%9C%8B%E6%98%8C%E7%A7%92%E9%9F%BF%E6%87%89-%E6%9E%97%E4%BF%8A%E6%86%B21%E5%8F%A5%E9%85%B8%E7%88%86-095708734.html",
-          "time": "2026-09-14 09:57:08",
-          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -3440,12 +3433,19 @@
       "city": "台中",
       "place": "台中市霧峰區",
       "level": "yellow",
-      "news_count": 110,
+      "news_count": 109,
       "comment_count": 61,
       "negativity_pct": 1,
       "is_urgent": true,
-      "urgency_score": 210,
+      "urgency_score": 209,
       "news_articles": [
+        {
+          "title": "盧秀燕拋在野大聯盟 林俊憲揭兩盤算：藍白合重新包裝",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MOFBTVk03SFlXNnFqa3lNQm00QkQxdGw4UFRLYWF1RXhZZWJ6ZHpfVUZ2ZE5vckpHNG55TDdaSVEtTlBoNkxNdjREODBHOHRfZWxoSEowMVhrMms?oc=5",
+          "time": "2026-09-15 09:52:20",
+          "publisher": "Google News→zmedia.com.tw",
+          "severity": null
+        },
         {
           "title": "盧秀燕拋「在野大聯盟」藏4大考量？學者：招式已越發凌厲- 政治",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ddms4aDk0UmV3eFVjM0M5aVNXb0tyMTNqeGxibjlLTlBTMS1OX0N6WUxOUTdfaVFWU0F2ZFp5TmVFLWo2NExnS05vVVJFdF83bng2dWYzaXV5OXMwN1ZwZGd4RnlodkxDUmFoNDZ3?oc=5",
@@ -3464,7 +3464,7 @@
           "title": "盧秀燕市長任內最後一次總質詢明天開始 可預料砲聲隆隆",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sVkVrQ2V2TUN2bk5QMjZ5OWdoa0tNOVoxYmgyckRCZDlldVVjWVI0b3VFejF0Q25wMkpkTlpJaFhHRW5GWGFrdTVJeDNKQkxOcFZpN05ubkc3YlRXX2IxM0FZTF9YWDhrMEHSAW9BVV95cUxOc1J5S3BHc3RSQXNJUGhtOXUzQjRWMzFiSE5qYkQ5WTVqRUhza0xWSThEai0xbHZYUGlwLXBaNFItZnlIZjljejNRLU1seWxLV1ZwVVRlbXcxeDUyXzNBWEI2c0dmMm9pTnA4aGlSTmM?oc=5",
           "time": "2026-09-15 06:49:49",
-          "publisher": "Google News→news.ltn.com.tw",
+          "publisher": "自由時報",
           "severity": "yellow"
         },
         {
@@ -3520,7 +3520,7 @@
           "title": "霧峰聯合行政中心未完工 盧秀燕搶剪綵",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sWXhPOFoydlpzUUhVQmlyYzB4cGdRUXlhWUZETWRCZ0luaGNkRHBTaVh5b29SZGRpcThjcUlxWjFieElFVVJxakc0ZTBqQkJ5SmVIZnVyU1JmelXSAWBBVV95cUxNaTJRU2EzVVpzRTRDVFo0cmpoeEhkLTBrT0N5RGZyQjVPYU85ZHhrRTlkR2ZlcFdIU08tTHE4bW5tUUhjQWp4dHhfakVIcDlmOUVQdEh5a1Z5VG1IcURQckc?oc=5",
           "time": "2026-09-15 05:30:00",
-          "publisher": "Google News→news.ltn.com.tw",
+          "publisher": "自由時報",
           "severity": "yellow"
         },
         {
@@ -3604,7 +3604,7 @@
           "title": "盧秀燕喊反一黨獨大 黃守達列數據反擊：國會、議會國民黨都獨大",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MWEZpTVJoTGJVV1VtV1NyVV9YeU5FbDRWbU1aV0pEU1AxUEFYMjVRMXBxVkRDQkhOc2FJbUpIeUZNWUtncmhjUTdFN2ozcE1rZjhLOUt2ZkFlTzFTMWhnbHBtb2JCRzBPSWfSAW9BVV95cUxNT0pSWE5rWU9TU1F1UHBHNUJKQlRidGFmRUkwU1dGdEQ1Yi1nV2ptOGpoSTdGQlFleEZMcklrZFlQeEVoOUpHd3VDWm00NjlWZVlIOXUtMEgyQlg0TzN3bWlXLUpwbkZBTVNVanllZWs?oc=5",
           "time": "2026-09-14 22:53:34",
-          "publisher": "Google News→news.ltn.com.tw",
+          "publisher": "自由時報",
           "severity": "yellow"
         },
         {
@@ -3681,7 +3681,7 @@
           "title": "盧秀燕、江啟臣為他黨輔選 市黨部：盧可能有長遠規劃且市長選舉是藍白合",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oYVFlM1lzZ2tZN3dteXdxclZ0Z1B4eVlMc0xJNTdLUFVfSDJaVXpJM0NBLUg5RkRhTHhqQ2I1d0dRV2t4T2xOSTR3NC01YjdZQ0Z6bHpQN0dCMUJvWS1wa3Z2aUVRZVlxR0HSAW9BVV95cUxPLWxQY0x4WXdzWjZWbHBEbHl3UGMwSFVhSTNFX2V3UmRXRFhOZzZwRFJTX1NhTGU0RTJBMUtHRDFUWnhZS05VdERZZW9ER3QzaUZZd2x2Vk5UVHJvSVBPQWt0cFc1LTZFZWdtdkZmTTg?oc=5",
           "time": "2026-09-14 19:24:00",
-          "publisher": "Google News→news.ltn.com.tw",
+          "publisher": "自由時報",
           "severity": "yellow"
         },
         {
@@ -3919,7 +3919,7 @@
           "title": "修補藍白合裂痕提「在野大聯盟」？ 盧秀燕：不能讓民進黨一黨獨大",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94VDJ2bzNaWkgxUUFSVGVLdzBOLVkzb0FtQVYtZWVhVTlBZ2dDeGdyZkJFcVA2bTJleHdCa3VOX1VSSU5PSHpieDVSb1U5MXBOcXdQRGtRd3RKQVlYUzRUd0dzZldsXzd1WXfSAW9BVV95cUxQVHlaSVVuYmxvSmdHaTUzOEV4X0pqUGVycGlSeUpQN2VSOU8yQnBSUlMwTkNGVmY3eWt3LTkyYkt6VDdUUTlOR0tVUjZXLVp3SVJYT2FTT0kwV2JBQnJURjNqcHM4MlNyQXowMXA5Zk0?oc=5",
           "time": "2026-09-14 12:58:09",
-          "publisher": "Google News→news.ltn.com.tw",
+          "publisher": "自由時報",
           "severity": "yellow"
         },
         {
@@ -4178,7 +4178,7 @@
           "title": "認同盧秀燕在野大聯盟 蔣萬安：追求藍白席次最大化",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwY3RlTDZkYktsTTctLWlPMm1kaFpkV2NBSlRLRGV0d0tMWUh0UVlPam95WkhBemZWSDZacENDaGhFa2p5MDZjdE1CdE9MU0E3QUtMUEtuU1lGbENKOVlJN09wSUlYVG83WHfSAW9BVV95cUxPNjYwLVdCaXFWeTFFOHVYT3VRUEQ1Qlh1QlZwR25UNERjRS01U0lCck5RcGZuMUlLSGlaVGFvaGtEYzVKNEg0ZE1EeDhvampvNXFsNjZCTHdDQ1BpM29pZlc5N1BaV3ZOYU1ZTE96VGc?oc=5",
           "time": "2026-09-14 10:30:08",
-          "publisher": "Google News→news.ltn.com.tw",
+          "publisher": "自由時報",
           "severity": "yellow"
         },
         {
@@ -4201,20 +4201,6 @@
           "time": "2026-09-14 10:04:39",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "盧秀燕拋在野大聯盟 蔣萬安：我當然認同",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQdURuV29QTkRaVXRoaGc1R2dmbDd4c1hITHVBTEswbGdpbG13SDM1aTRSRnNPWTVjUjBSVXFfZlR5YVVZQzdWZE9aelJuR21rS29hTDMzSWxLdUNFM0Q0MUQydWxLVUMzRHBjV0gzS1dhSy0tX3g3RFY2U2FCVlVZaXRmR1ZoVkE0Wl94NTVwXzBwOGVxNUhCR0hjZW5rTUFuZFl1RXoxRENwVGg1aGd1bi0wRUt0VEhTODhDTnFwM0Q4TW1DdzVkdWtkWFVXSmMzX0ZYckV6UzNXN0FNU3A1ZUtjOXNGbnBDd053MVVzdDgzYjduNnRuSGR2MTc4QXRYVGdrTkRlUDlDOVk1MDllVTlLdkxZVGJHNS1VOXNYaE95dw?oc=5",
-          "time": "2026-09-14 09:56:56",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "盧秀燕拋「在野大聯盟」 羅智強表態百分百支持：年底大勝、2028政黨輪替 | 政治 | CTWANT",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkRkJxSmx2TFVKaTh5dFRXTG5QVG5PS1E4dHBLSk1ITlRJV28ydThqUVh3T3pMNWh3LUt1RFU4cm1CTmU5U2haSVJDQUdwNVXSAVRBVV95cUxOSWNGTkYxTW45UHdULUlGc3VlOHliNXozRFV2QUpHMnBiaDd6bERVbTBXVjZ5aHdxZ3pmQkFlbXExdTNJVmx1MTJrbXBvcnFSTFpoY2M?oc=5",
-          "time": "2026-09-14 09:56:56",
-          "publisher": "Google News→CTWANT",
-          "severity": null
         }
       ],
       "comments": [
@@ -10908,12 +10894,19 @@
       "city": "台中",
       "place": "台中市霧峰區",
       "level": "red",
-      "news_count": 206,
+      "news_count": 207,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 224,
+      "urgency_score": 225,
       "news_articles": [
+        {
+          "title": "盧秀燕2028總統大選起手式？學者提台中最新民調「拆解4大考量」：招式變凌厲了| 李瑋萱 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aRU5hTFNNNy1PV1I0cll0b3VEMWdvX3FhZXYySS1vRWJKeUM3VUd4eFRUOFFnN0QtWWRPc0E2WXNGdjBBMUkwTFprVE9KQQ?oc=5",
+          "time": "2026-09-15 09:52:07",
+          "publisher": "Google News→風傳媒",
+          "severity": null
+        },
         {
           "title": "酷運動圈粉年輕世代 中市運動政策獲8成5青年肯定",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96UlYtSVFYQWhyWVB6NUJrcDJKVVA0QzJEdU81eGRSYkZLMzlzZzVINWl0M0dYaXZ2XzhScW04MW9QeDhPT2JQM1hieDRDMmhxR2FOckJ2aXg?oc=5",
@@ -11891,7 +11884,7 @@
           "title": "盧秀燕喊組「在野大聯盟」 周永鴻諷：鼓勵台中市民換黨執政嗎？",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNbWtNa2Q1N29VbGJEU2tpZ0tKdU9SSHJfRnJKRlA2SW45VllPUEdhdUk0MlVIZVlWVG11cXo0c2w0VUdkeHE2WnJmZVdva1gtdkd6UzhjclNoQ3l6S0trWFNPN0pWUXZKNUHSAW9BVV95cUxONm5uNXM0VzBkLUphUjhidjlGamZUWXNpS1FxSjhDcEs3NDBmUDlhZmYwdG1IakdNb1ZnZHZMUVZwanVVWGp0R3luNU9XY0tuTUVRS0E4SWZZRzFham5nV0VoUFZha2ppNlg0VVlzZHc?oc=5",
           "time": "2026-09-14 12:45:23",
-          "publisher": "Google News→news.ltn.com.tw",
+          "publisher": "自由時報",
           "severity": "yellow"
         },
         {

@@ -98108,7 +98108,7 @@
     },
     {
       "date": "2026-09-15",
-      "snapshot_at": "2026-09-15T01:56:28.345371+00:00",
+      "snapshot_at": "2026-09-15T01:59:37.116042+00:00",
       "hotspots": [
         {
           "title": "台北狼師事件",
@@ -98411,11 +98411,11 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "yellow",
-          "news_count": 18,
+          "news_count": 17,
           "comment_count": 2,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 25,
+          "urgency_score": 24,
           "sample_titles": [
             "【#大新聞大爆卦】郭正亮諷撲馬洋流變洋相?鄭麗文拋新模式!彰化宜蘭有贏面!盧秀燕這招太狠綠一票人倒戈了!綠邀侯友宜站台喊",
             "蔣萬安母雞光環褪?甩不開市政泥淖 藍寄望他救艱困選區難如願?票房毒藥?李四川.侯友宜.盧秀燕同台 鄭麗文大團結戲碼被打臉",
@@ -98547,15 +98547,15 @@
           "city": "台中",
           "place": "台中市霧峰區",
           "level": "yellow",
-          "news_count": 110,
+          "news_count": 109,
           "comment_count": 61,
           "negativity_pct": 1,
           "is_urgent": true,
-          "urgency_score": 210,
+          "urgency_score": 209,
           "sample_titles": [
+            "盧秀燕拋在野大聯盟 林俊憲揭兩盤算：藍白合重新包裝",
             "盧秀燕拋「在野大聯盟」藏4大考量？學者：招式已越發凌厲- 政治",
-            "[HatePolitics] Re: [新聞] 盧秀燕喊話成立在野大聯盟 黃國昌喊「百分之百支持」",
-            "盧秀燕市長任內最後一次總質詢明天開始 可預料砲聲隆隆"
+            "[HatePolitics] Re: [新聞] 盧秀燕喊話成立在野大聯盟 黃國昌喊「百分之百支持」"
           ]
         },
         {
@@ -98771,15 +98771,15 @@
           "city": "台中",
           "place": "台中市霧峰區",
           "level": "red",
-          "news_count": 206,
+          "news_count": 207,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 224,
+          "urgency_score": 225,
           "sample_titles": [
+            "盧秀燕2028總統大選起手式？學者提台中最新民調「拆解4大考量」：招式變凌厲了| 李瑋萱 | 新聞",
             "酷運動圈粉年輕世代 中市運動政策獲8成5青年肯定",
-            "[TaichungBun] [閒聊] 請問台中到福壽山/梨山的交通方式",
-            "江啟臣拉民進黨創黨元老站台 黃敬平稱台中「拔樁骨牌效應」已發生 | CTWANT"
+            "[TaichungBun] [閒聊] 請問台中到福壽山/梨山的交通方式"
           ]
         },
         {
