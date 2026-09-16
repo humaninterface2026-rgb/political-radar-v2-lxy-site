@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "snapshot_at": "2026-09-16T11:40:22.965988+00:00",
+  "snapshot_at": "2026-09-16T11:44:08.049472+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -66,6 +66,27 @@
           "signal": "red"
         }
       ]
+    },
+    {
+      "title": "台中鼠患事件",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 1,
+      "news_articles": [
+        {
+          "title": "【#頭家來開講】2026.09.16 沈伯洋擠爆公館商圈「更勝石牌」！支持者高喊「我不是蟑螂老鼠」！盧秀燕跌落神壇？縣市長滿意度「倒數第二」！｜民視讚夯.com",
+          "url": "https://www.youtube.com/watch?v=B6n0Jd7r87A",
+          "time": "2026-09-16 18:30:08",
+          "publisher": null,
+          "severity": null
+        }
+      ],
+      "comments": []
     },
     {
       "title": "苗栗公廁議題",
@@ -155,74 +176,6 @@
           "text": "🖼 10 2026 台中人看清楚！ 燃煤拆除許可 嘴巴喊減煤 沒先拿到， 就不發 燃氣操作許可！ 手上卻卡燃氣？ 我已經 準備好了 不發 卻上不了場！ 燃氣許可 我準備 退場了 … 台中市長 盧秀燕 4 台電規劃時程 燃氣1號機 9月底商轉 燃氣2號機 劉試中 10月開始拆除 燃煤1 燃煤1、2號機 2號機 2034年底 目標無煤供電 盗爆機組 燃氣機組 高污染 該退場 高污染 該退場 較乾淨 較乾淨 準備上場 準備上場 舊的要退場 舊的要退骗，新的又不讓先接棒 新的又不讓先",
           "author": "wolf.7173502",
           "url": "https://www.threads.com/@wolf.7173502/post/DdHXkqAAUaL",
-          "time_text": "4d",
-          "signal": "red"
-        }
-      ]
-    },
-    {
-      "title": "廚餘山",
-      "city": "台中",
-      "place": "台中市大里區",
-      "level": "green",
-      "news_count": 3,
-      "comment_count": 4,
-      "negativity_pct": 0,
-      "is_urgent": true,
-      "urgency_score": 15,
-      "news_articles": [
-        {
-          "title": "議員抨盧秀燕八年治理失靈 恐讓市民明年須負擔廚餘處理費",
-          "url": "https://tw.news.yahoo.com/%E8%AD%B0%E5%93%A1%E6%8A%A8%E7%9B%A7%E7%A7%80%E7%87%95%E5%85%AB%E5%B9%B4%E6%B2%BB%E7%90%86%E5%A4%B1%E9%9D%88-%E6%81%90%E8%AE%93%E5%B8%82%E6%B0%91%E6%98%8E%E5%B9%B4%E9%A0%88%E8%B2%A0%E6%93%94%E5%BB%9A%E9%A4%98%E8%99%95%E7%90%86%E8%B2%BB-102726522.html",
-          "time": "2026-09-16 18:27:26",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "議員抨盧秀燕八年治理失靈 恐讓市民明年須負擔廚餘處理費",
-          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNMjRqa0h6UWxtVTJsTHdBWm5RSE0ybnJwdWI2NnUxODRvdFJwclQzN2RyZXd4SU9xLTZpVDJsX3NXUC1GTGNoRjlaOGFlR1Z3U280bGp6VkNrX1dhd3BzT3l5Y1JTcVFQeXZwYkxWRWYxSUhQeHptSzJlRWRGelBEUWRid0NQWTJEU2o3SzUyd1REUzgwbDJTWUwzVDdvcnRvTlFnemFQWjBRclY1QVFBcy1idXRaaXhod0FyLUpmOUxGanhfMExSU0lid1NqMURJMUpGdHoyQWZRSUlxM2tMQWhNVlhQQWtVTHBkLWxsLVU1eDUwaTdaaWhpOWVWT2RHTFIzOVNmNWx2a2h5T2gzdjFsb2xUOUxpbGU4Y3p1Qko5cWZjODNkSXB4YmE3d2JyQXBsMFVpVUZuSHd2ZmNwSkNMek5JaldQUHU2cGN5dTd6X0ZSZ0doUkJrUzVYanlMTEZlWHJTUzIxN29lUmxqY1E0OWJfUDd3LXFLLUpDQjQ4UlhaT25hNDVzOWo?oc=5",
-          "time": "2026-09-16 18:27:26",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "廚餘處理明年恐增市民負擔　中市議員要求環保局說清楚",
-          "url": "https://n.yam.com/Article/20260916589591",
-          "time": "2026-09-16 12:00:00",
-          "publisher": "蕃新聞→台灣好新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": [
-        {
-          "platform": "facebook",
-          "text": "江和樹 但是台中原地踏步8年，垃圾廚餘棄置、捷運還生不出一條，市長有檢討嗎",
-          "author": "Grace Lin",
-          "url": "https://www.facebook.com/grace.zinlin?comment_id=Y29tbWVudDoxNjY5MDM4MzU3OTExMDY2XzEwODM3NDExMDc3NDI5ODc%3D&__tn__=R",
-          "time_text": "12 hours ago",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "🖼 10 2026 10 2026 67 台中市長盧秀燕說有雙主菜 2 … 10221978 10221978 37 37 她是説給大家聽爽的，都已 都已經 她是説給大家聽爽的 騙8年了， 了，不要再被騙了 7 0111 4 說真的， 這菜色有夠差 不管是原物料還是成品 25 10 2026 上週剛開學四菜一湯 大雞腿 好多政治人物來學校擺拍 開學第二週怎麽只剩三菜一湯 今天還有一道菜是饅頭 營養午餐免費後越吃越爛 1 2 窮只能窮教育小孩真可憐 606 104 42 42 ",
-          "author": "joy_ginger_bread",
-          "url": "https://www.threads.com/@joy_ginger_bread/post/DdG2PX5Gey7",
-          "time_text": "4d",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "🖼 10 2026 台中人看清楚！ 燃煤拆除許可 嘴巴喊減煤 沒先拿到， 就不發 燃氣操作許可！ 手上卻卡燃氣？ 我已經 準備好了 不發 卻上不了場！ 燃氣許可 我準備 退場了 … 台中市長 盧秀燕 4 台電規劃時程 燃氣1號機 9月底商轉 燃氣2號機 劉試中 10月開始拆除 燃煤1 燃煤1、2號機 2號機 2034年底 目標無煤供電 盗爆機組 燃氣機組 高污染 該退場 高污染 該退場 較乾淨 較乾淨 準備上場 準備上場 舊的要退場 舊的要退骗，新的又不讓先接棒 新的又不讓先",
-          "author": "wolf.7173502",
-          "url": "https://www.threads.com/@wolf.7173502/post/DdHXkqAAUaL",
-          "time_text": "4d",
-          "signal": "red"
-        },
-        {
-          "platform": "threads",
-          "text": "豬瘟食安，槍擊跳樓，廚餘垃圾，毒品叛國",
-          "author": "ichuan1210",
-          "url": "https://www.threads.com/@ichuan1210/post/DdHG2yDmIbt",
           "time_text": "4d",
           "signal": "red"
         }
@@ -538,27 +491,6 @@
       "comments": []
     },
     {
-      "title": "台東弊案爭議",
-      "city": "台東",
-      "place": "台東縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "吳秀華家族東映農路弊案 台東副議長列被告",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1770803",
-          "time": "2026-09-16 05:30:00",
-          "publisher": "自由時報",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "新北弊案爭議",
       "city": "新北",
       "place": "新北市政府",
@@ -574,6 +506,27 @@
           "url": "https://news.ltn.com.tw/news/society/breakingnews/5575661",
           "time": "2026-09-16 12:27:09",
           "publisher": "自由時報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "苗栗弊案爭議",
+      "city": "苗栗",
+      "place": "苗栗縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "​壓力太大開車甩尾燒胎發洩？ 苗栗男犯3罪遭判刑5個月",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-09-16/2468884.html",
+          "time": "2026-09-16 16:33:27",
+          "publisher": "壹電視",
           "severity": "red"
         }
       ],
@@ -601,9 +554,9 @@
       "comments": []
     },
     {
-      "title": "苗栗弊案爭議",
-      "city": "苗栗",
-      "place": "苗栗縣政府",
+      "title": "台東弊案爭議",
+      "city": "台東",
+      "place": "台東縣政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -612,10 +565,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "​壓力太大開車甩尾燒胎發洩？ 苗栗男犯3罪遭判刑5個月",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-09-16/2468884.html",
-          "time": "2026-09-16 16:33:27",
-          "publisher": "壹電視",
+          "title": "吳秀華家族東映農路弊案 台東副議長列被告",
+          "url": "https://news.ltn.com.tw/news/politics/paper/1770803",
+          "time": "2026-09-16 05:30:00",
+          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -711,6 +664,74 @@
         }
       ],
       "comments": []
+    },
+    {
+      "title": "廚餘山",
+      "city": "台中",
+      "place": "台中市大里區",
+      "level": "yellow",
+      "news_count": 3,
+      "comment_count": 4,
+      "negativity_pct": 0,
+      "is_urgent": true,
+      "urgency_score": 15,
+      "news_articles": [
+        {
+          "title": "議員抨盧秀燕八年治理失靈 恐讓市民明年須負擔廚餘處理費",
+          "url": "https://tw.news.yahoo.com/%E8%AD%B0%E5%93%A1%E6%8A%A8%E7%9B%A7%E7%A7%80%E7%87%95%E5%85%AB%E5%B9%B4%E6%B2%BB%E7%90%86%E5%A4%B1%E9%9D%88-%E6%81%90%E8%AE%93%E5%B8%82%E6%B0%91%E6%98%8E%E5%B9%B4%E9%A0%88%E8%B2%A0%E6%93%94%E5%BB%9A%E9%A4%98%E8%99%95%E7%90%86%E8%B2%BB-102726522.html",
+          "time": "2026-09-16 18:27:26",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "議員抨盧秀燕八年治理失靈 恐讓市民明年須負擔廚餘處理費",
+          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNMjRqa0h6UWxtVTJsTHdBWm5RSE0ybnJwdWI2NnUxODRvdFJwclQzN2RyZXd4SU9xLTZpVDJsX3NXUC1GTGNoRjlaOGFlR1Z3U280bGp6VkNrX1dhd3BzT3l5Y1JTcVFQeXZwYkxWRWYxSUhQeHptSzJlRWRGelBEUWRid0NQWTJEU2o3SzUyd1REUzgwbDJTWUwzVDdvcnRvTlFnemFQWjBRclY1QVFBcy1idXRaaXhod0FyLUpmOUxGanhfMExSU0lid1NqMURJMUpGdHoyQWZRSUlxM2tMQWhNVlhQQWtVTHBkLWxsLVU1eDUwaTdaaWhpOWVWT2RHTFIzOVNmNWx2a2h5T2gzdjFsb2xUOUxpbGU4Y3p1Qko5cWZjODNkSXB4YmE3d2JyQXBsMFVpVUZuSHd2ZmNwSkNMek5JaldQUHU2cGN5dTd6X0ZSZ0doUkJrUzVYanlMTEZlWHJTUzIxN29lUmxqY1E0OWJfUDd3LXFLLUpDQjQ4UlhaT25hNDVzOWo?oc=5",
+          "time": "2026-09-16 18:27:26",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "廚餘處理明年恐增市民負擔　中市議員要求環保局說清楚",
+          "url": "https://n.yam.com/Article/20260916589591",
+          "time": "2026-09-16 12:00:00",
+          "publisher": "蕃新聞→台灣好新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": [
+        {
+          "platform": "facebook",
+          "text": "江和樹 但是台中原地踏步8年，垃圾廚餘棄置、捷運還生不出一條，市長有檢討嗎",
+          "author": "Grace Lin",
+          "url": "https://www.facebook.com/grace.zinlin?comment_id=Y29tbWVudDoxNjY5MDM4MzU3OTExMDY2XzEwODM3NDExMDc3NDI5ODc%3D&__tn__=R",
+          "time_text": "12 hours ago",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "🖼 10 2026 10 2026 67 台中市長盧秀燕說有雙主菜 2 … 10221978 10221978 37 37 她是説給大家聽爽的，都已 都已經 她是説給大家聽爽的 騙8年了， 了，不要再被騙了 7 0111 4 說真的， 這菜色有夠差 不管是原物料還是成品 25 10 2026 上週剛開學四菜一湯 大雞腿 好多政治人物來學校擺拍 開學第二週怎麽只剩三菜一湯 今天還有一道菜是饅頭 營養午餐免費後越吃越爛 1 2 窮只能窮教育小孩真可憐 606 104 42 42 ",
+          "author": "joy_ginger_bread",
+          "url": "https://www.threads.com/@joy_ginger_bread/post/DdG2PX5Gey7",
+          "time_text": "4d",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "🖼 10 2026 台中人看清楚！ 燃煤拆除許可 嘴巴喊減煤 沒先拿到， 就不發 燃氣操作許可！ 手上卻卡燃氣？ 我已經 準備好了 不發 卻上不了場！ 燃氣許可 我準備 退場了 … 台中市長 盧秀燕 4 台電規劃時程 燃氣1號機 9月底商轉 燃氣2號機 劉試中 10月開始拆除 燃煤1 燃煤1、2號機 2號機 2034年底 目標無煤供電 盗爆機組 燃氣機組 高污染 該退場 高污染 該退場 較乾淨 較乾淨 準備上場 準備上場 舊的要退場 舊的要退骗，新的又不讓先接棒 新的又不讓先",
+          "author": "wolf.7173502",
+          "url": "https://www.threads.com/@wolf.7173502/post/DdHXkqAAUaL",
+          "time_text": "4d",
+          "signal": "red"
+        },
+        {
+          "platform": "threads",
+          "text": "豬瘟食安，槍擊跳樓，廚餘垃圾，毒品叛國",
+          "author": "ichuan1210",
+          "url": "https://www.threads.com/@ichuan1210/post/DdHG2yDmIbt",
+          "time_text": "4d",
+          "signal": "red"
+        }
+      ]
     },
     {
       "title": "嘉義市地方動態",
@@ -1855,7 +1876,7 @@
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04VlV3eElmV2lDNzFUMmpTTS1Yd19XdUdDcER0eU8zaTVCeHhydHlQcGtJSlkyQzJ4NU05RWdsenZFeWM4N0ZidEs4WTEwN21hV1hkQw?oc=5",
           "time": "2026-09-16 18:40:08",
           "publisher": "Google News→臺灣導報",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "陳雅惠呼籲盧秀燕把心收回來專心市政",
@@ -1883,7 +1904,7 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzal9IbEFlV083TGdJdGQ0NmFEVTUxbkY0emtTTjhCd0l4Vm40bWpsU3FDeW9Kdmk1ZzZjeGEwUXVKTDBtR3p3dlBwMnQ5OGFi?oc=5",
           "time": "2026-09-16 18:06:31",
           "publisher": "Google News→台灣生活新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "外界籲鳴槍領跑藍營地方選情 盧秀燕這樣說",
@@ -3158,55 +3179,6 @@
       "comments": []
     },
     {
-      "title": "高雄車禍事件",
-      "city": "高雄",
-      "place": "高雄市政府",
-      "level": "red",
-      "news_count": 5,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 20,
-      "news_articles": [
-        {
-          "title": "高雄民族陸橋追撞車禍 7旬女開休旅車直衝停等紅燈轎車",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5575913",
-          "time": "2026-09-16 15:08:55",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "高雄76歲阿嬤車禍爆頭亡！ 搭女兒機車遭拖板車撞倒輾過慘死",
-          "url": "https://www.thehubnews.net/archives/665763",
-          "time": "2026-09-16 11:47:00",
-          "publisher": "新頭條",
-          "severity": "red"
-        },
-        {
-          "title": "高雄死亡車禍！奪命曳引車害76歲婦「命喪輪下」又波及1機車、3汽車",
-          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E6%AD%BB%E4%BA%A1%E8%BB%8A%E7%A6%8D-%E5%A5%AA%E5%91%BD%E6%9B%B3%E5%BC%95%E8%BB%8A%E5%AE%B376%E6%AD%B2%E5%A9%A6-%E5%91%BD%E5%96%AA%E8%BC%AA%E4%B8%8B-%E5%8F%88%E6%B3%A2%E5%8F%8A1%E6%A9%9F%E8%BB%8A-3%E6%B1%BD%E8%BB%8A-015900906.html",
-          "time": "2026-09-16 09:59:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "高雄死亡車禍！機車後座7旬老婦慘遭曳引車輾過",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5575422",
-          "time": "2026-09-16 09:53:09",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "大寮連環車禍奪魂！曳引車擦撞雙載機車 後座76歲婦命喪輪下",
-          "url": "https://tw.news.yahoo.com/%E5%A4%A7%E5%AF%AE%E9%80%A3%E7%92%B0%E8%BB%8A%E7%A6%8D%E5%A5%AA%E9%AD%82-%E6%9B%B3%E5%BC%95%E8%BB%8A%E6%93%A6%E6%92%9E%E9%9B%99%E8%BC%89%E6%A9%9F%E8%BB%8A-%E5%BE%8C%E5%BA%A776%E6%AD%B2%E5%A9%A6%E5%91%BD%E5%96%AA%E8%BC%AA%E4%B8%8B-024800145.html",
-          "time": "2026-09-16 02:48:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台中車禍事件",
       "city": "台中",
       "place": "台中市西區",
@@ -3250,6 +3222,55 @@
           "url": "https://www.ptt.cc/bbs/Gossiping/M.1789477678.A.DDE.html",
           "time": "2026-09-15 21:07:58",
           "publisher": null,
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄車禍事件",
+      "city": "高雄",
+      "place": "高雄市政府",
+      "level": "red",
+      "news_count": 5,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 20,
+      "news_articles": [
+        {
+          "title": "高雄民族陸橋追撞車禍 7旬女開休旅車直衝停等紅燈轎車",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5575913",
+          "time": "2026-09-16 15:08:55",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "高雄76歲阿嬤車禍爆頭亡！ 搭女兒機車遭拖板車撞倒輾過慘死",
+          "url": "https://www.thehubnews.net/archives/665763",
+          "time": "2026-09-16 11:47:00",
+          "publisher": "新頭條",
+          "severity": "red"
+        },
+        {
+          "title": "高雄死亡車禍！奪命曳引車害76歲婦「命喪輪下」又波及1機車、3汽車",
+          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E6%AD%BB%E4%BA%A1%E8%BB%8A%E7%A6%8D-%E5%A5%AA%E5%91%BD%E6%9B%B3%E5%BC%95%E8%BB%8A%E5%AE%B376%E6%AD%B2%E5%A9%A6-%E5%91%BD%E5%96%AA%E8%BC%AA%E4%B8%8B-%E5%8F%88%E6%B3%A2%E5%8F%8A1%E6%A9%9F%E8%BB%8A-3%E6%B1%BD%E8%BB%8A-015900906.html",
+          "time": "2026-09-16 09:59:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "高雄死亡車禍！機車後座7旬老婦慘遭曳引車輾過",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5575422",
+          "time": "2026-09-16 09:53:09",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "大寮連環車禍奪魂！曳引車擦撞雙載機車 後座76歲婦命喪輪下",
+          "url": "https://tw.news.yahoo.com/%E5%A4%A7%E5%AF%AE%E9%80%A3%E7%92%B0%E8%BB%8A%E7%A6%8D%E5%A5%AA%E9%AD%82-%E6%9B%B3%E5%BC%95%E8%BB%8A%E6%93%A6%E6%92%9E%E9%9B%99%E8%BC%89%E6%A9%9F%E8%BB%8A-%E5%BE%8C%E5%BA%A776%E6%AD%B2%E5%A9%A6%E5%91%BD%E5%96%AA%E8%BC%AA%E4%B8%8B-024800145.html",
+          "time": "2026-09-16 02:48:00",
+          "publisher": "Yahoo新聞",
           "severity": "red"
         }
       ],
@@ -3358,12 +3379,19 @@
       "city": "台東",
       "place": "台東縣政府",
       "level": "red",
-      "news_count": 15,
+      "news_count": 16,
       "comment_count": 0,
-      "negativity_pct": 13,
+      "negativity_pct": 12,
       "is_urgent": false,
-      "urgency_score": 21,
+      "urgency_score": 22,
       "news_articles": [
+        {
+          "title": "【想像台灣】台東社區照護革命｜90歲獨居長者為何風雨無阻？關山中福社區奪衛福部冠軍的「互助共生」秘密｜何文堯  ft..臺東縣政府社會處處長  PIUS 社區專案經理人",
+          "url": "https://www.youtube.com/watch?v=6_lGeSFrzos",
+          "time": "2026-09-16 19:00:15",
+          "publisher": null,
+          "severity": null
+        },
         {
           "title": "台東東河文旦柚評鑑 農友曾紅秋奪金",
           "url": "https://www.cna.com.tw/news/aloc/202609160271.aspx",
@@ -3613,6 +3641,209 @@
       "comments": []
     },
     {
+      "title": "彰化地方動態",
+      "city": "彰化",
+      "place": "彰化縣政府",
+      "level": "red",
+      "news_count": 27,
+      "comment_count": 0,
+      "negativity_pct": 30,
+      "is_urgent": false,
+      "urgency_score": 51,
+      "news_articles": [
+        {
+          "title": "議會辦桌風波擴大！謝典霖遭約談震撼彰化政壇 王惠美反應曝光 | 政治快訊 | 要聞",
+          "url": "https://www.nownews.com/news/6875622",
+          "time": "2026-09-16 18:47:59",
+          "publisher": "NOWnews今日新聞",
+          "severity": "red"
+        },
+        {
+          "title": "彰化前行金馬63聯名禮盒亮相",
+          "url": "https://taiwanreports.com/archives/1013421",
+          "time": "2026-09-16 18:45:28",
+          "publisher": "臺灣導報",
+          "severity": null
+        },
+        {
+          "title": "學生喊午餐吃不飽 民進黨台中市議員林祈烽籲生生每餐80元 盧市府三長拒簽 中市府：依營養基準供餐不足可取備品",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHZDRuOXdRdGIxYkFsOVN5amtMMWdMYkE4S3NuZllyWG9VcmtUa0g1N040OGpFblZIWU1sZm0zQnRTMFZZUFhaajVOZjNIX2FtRkRqLU5TcnRpdHV4VnVONGlVal85akQ1?oc=5",
+          "time": "2026-09-16 18:29:25",
+          "publisher": "Google News→元丰傳媒",
+          "severity": "yellow"
+        },
+        {
+          "title": "影／彰化警察勇奪打詐、掃黑、肅槍三冠 王惠美表揚破案有功同仁",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B1-%E5%BD%B0%E5%8C%96%E8%AD%A6%E5%AF%9F%E5%8B%87%E5%A5%AA%E6%89%93%E8%A9%90-%E6%8E%83%E9%BB%91-%E8%82%85%E6%A7%8D%E4%B8%89%E5%86%A0-%E7%8E%8B%E6%83%A0%E7%BE%8E%E8%A1%A8%E6%8F%9A%E7%A0%B4%E6%A1%88%E6%9C%89%E5%8A%9F%E5%90%8C%E4%BB%81-102748861.html",
+          "time": "2026-09-16 18:27:48",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "770位教育人員獲彰化表揚 2人榮獲全國師鐸獎",
+          "url": "https://tw.news.yahoo.com/770%E4%BD%8D%E6%95%99%E8%82%B2%E4%BA%BA%E5%93%A1%E7%8D%B2%E5%BD%B0%E5%8C%96%E8%A1%A8%E6%8F%9A-2%E4%BA%BA%E6%A6%AE%E7%8D%B2%E5%85%A8%E5%9C%8B%E5%B8%AB%E9%90%B8%E7%8D%8E-102648514.html",
+          "time": "2026-09-16 18:26:48",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "溪湖餐會遭引爭議！ 彰化地檢約談謝典霖父子等人",
+          "url": "https://newtalk.tw/news/view/2026-09-16/1060166",
+          "time": "2026-09-16 16:10:12",
+          "publisher": "新頭殼",
+          "severity": "red"
+        },
+        {
+          "title": "議會宴客輔選惹議！彰化地檢署出手 通知謝典霖等20人到案說明",
+          "url": "https://www.mirrormedia.mg/story/20260916edi037",
+          "time": "2026-09-16 16:10:00",
+          "publisher": "鏡週刊",
+          "severity": "red"
+        },
+        {
+          "title": "幫助合法老屋改建更安全！彰化補助老宅更新補助9/16開跑",
+          "url": "https://tw.news.yahoo.com/%E5%B9%AB%E5%8A%A9%E5%90%88%E6%B3%95%E8%80%81%E5%B1%8B%E6%94%B9%E5%BB%BA%E6%9B%B4%E5%AE%89%E5%85%A8-%E5%BD%B0%E5%8C%96%E8%A3%9C%E5%8A%A9%E8%80%81%E5%AE%85%E6%9B%B4%E6%96%B0%E8%A3%9C%E5%8A%A99-16%E9%96%8B%E8%B7%91-075941152.html",
+          "time": "2026-09-16 15:59:41",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "議會宴客被疑賄選 彰化地檢署傳喚謝典霖父子等人到案說明",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5575926",
+          "time": "2026-09-16 15:29:45",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "彰化、新竹選情有感？鄭麗文：不是所有人都願為大局共體時艱 | 政治內幕 | 要聞",
+          "url": "https://www.nownews.com/news/6875542",
+          "time": "2026-09-16 15:23:16",
+          "publisher": "NOWnews今日新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "昨民進黨臉書發文批評國民黨新北市長參選人李四川是惡霸家族，今國民黨新北市議員林國春、呂家愷公開指控民進黨新北市長參選人蘇巧慧與父親蘇貞昌鴨霸事蹟。林國春指，蘇貞昌任台北縣長時，在台北市住家失竊184萬現金及兩本護照，不但刻意隱瞞現金一事，還謊報護照失竊地在台北縣長官邸，痛罵警察偵辦不力，害兩名基層員警被記申誡。",
+          "url": "https://udn.com/news/story/124652/9758132?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-09-16 14:12:32",
+          "publisher": "聯合新聞網",
+          "severity": "red"
+        },
+        {
+          "title": "彰化救護車鳴笛閃燈仍受阻！6汽機車我行我素通行 警：最重吊銷牌照",
+          "url": "https://newtalk.tw/news/view/2026-09-16/1060104",
+          "time": "2026-09-16 13:55:30",
+          "publisher": "新頭殼",
+          "severity": "yellow"
+        },
+        {
+          "title": "工藝展覽館新址揭牌 首檔展出「匠心•微光慢行—彰化工藝之家聯展」",
+          "url": "https://more-news.tw/720967/",
+          "time": "2026-09-16 13:02:14",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "6車擋救護車卡路口！彰化花壇駕駛挨轟 未禮讓最重吊銷駕照",
+          "url": "https://tw.news.yahoo.com/6%E8%BB%8A%E6%93%8B%E6%95%91%E8%AD%B7%E8%BB%8A%E5%8D%A1%E8%B7%AF%E5%8F%A3-%E5%BD%B0%E5%8C%96%E8%8A%B1%E5%A3%87%E9%A7%95%E9%A7%9B%E6%8C%A8%E8%BD%9F-%E6%9C%AA%E7%A6%AE%E8%AE%93%E6%9C%80%E9%87%8D%E5%90%8A%E9%8A%B7%E9%A7%95%E7%85%A7-043000074.html",
+          "time": "2026-09-16 12:30:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "彰化縣和美鎮汙水下水道系統第一期水資源回收中心正式啟用",
+          "url": "https://more-news.tw/720920/",
+          "time": "2026-09-16 12:15:54",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "彰化傳統戲曲節精彩持續 9/19兒童歌仔戲、9/20北管展演 接力登場",
+          "url": "https://n.yam.com/Article/20260916612257",
+          "time": "2026-09-16 12:00:00",
+          "publisher": "蕃新聞→墨新聞",
+          "severity": null
+        },
+        {
+          "title": "彰化縣表揚770位優秀教育人員 祝福教師節快樂",
+          "url": "https://n.yam.com/Article/20260916620158",
+          "time": "2026-09-16 12:00:00",
+          "publisher": "蕃新聞→墨新聞",
+          "severity": null
+        },
+        {
+          "title": "房市／雙鐵＋私校學區 大慶成彰化家庭跨城置產首選 | 地產居家 | 生活",
+          "url": "https://www.nownews.com/news/6875397",
+          "time": "2026-09-16 11:36:46",
+          "publisher": "NOWnews今日新聞",
+          "severity": null
+        },
+        {
+          "title": "質疑台東議長夫在議會有藏寶庫 議員林參天攜滅火器作勢破門",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5575572",
+          "time": "2026-09-16 11:25:51",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "獨家》彰化縣議長謝典霖議會宴客涉賄選？ 彰檢傳喚多人偵辦中",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5575402",
+          "time": "2026-09-16 10:38:37",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "餐會爆賄選疑雲！彰化議長謝典霖遭約談",
+          "url": "https://tw.news.yahoo.com/%E9%A4%90%E6%9C%83%E7%88%86%E8%B3%84%E9%81%B8%E7%96%91%E9%9B%B2-%E5%BD%B0%E5%8C%96%E8%AD%B0%E9%95%B7%E8%AC%9D%E5%85%B8%E9%9C%96%E9%81%AD%E7%B4%84%E8%AB%87-102218876.html",
+          "time": "2026-09-16 10:22:18",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "彰化議會辦席宴客遭疑輔選 檢調約談謝典霖父子及陳貞妃等20人",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E8%AD%B0%E6%9C%83%E8%BE%A6%E5%B8%AD%E5%AE%B4%E5%AE%A2%E9%81%AD%E7%96%91%E8%BC%94%E9%81%B8-%E6%AA%A2%E8%AA%BF%E7%B4%84%E8%AB%87%E8%AC%9D%E5%85%B8%E9%9C%96%E7%88%B6%E5%AD%90%E5%8F%8A%E9%99%B3%E8%B2%9E%E5%A6%83%E7%AD%8920%E4%BA%BA-100200260.html",
+          "time": "2026-09-16 10:02:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "彰化議長謝典霖疑涉賄選？縣議會內擺10多桌「參選人、里長都來了」 檢調出手查了",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E8%AD%B0%E9%95%B7%E8%AC%9D%E5%85%B8%E9%9C%96%E7%96%91%E6%B6%89%E8%B3%84%E9%81%B8-%E7%B8%A3%E8%AD%B0%E6%9C%83%E5%85%A7%E6%93%BA10%E5%A4%9A%E6%A1%8C-%E5%8F%83%E9%81%B8%E4%BA%BA-%E9%87%8C%E9%95%B7%E9%83%BD%E4%BE%86%E4%BA%86-%E6%AA%A2%E8%AA%BF%E5%87%BA%E6%89%8B%E6%9F%A5%E4%BA%86-065300950.html",
+          "time": "2026-09-16 06:53:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "開公務車載妻遊高雄、台北／竹塘鄉長刷2314元油費 求緩刑遭駁回",
+          "url": "https://news.ltn.com.tw/news/society/paper/1770869",
+          "time": "2026-09-16 05:30:00",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "2個月爆開2次 彰化蒜香藤紫花浪漫",
+          "url": "https://tw.news.yahoo.com/2%E5%80%8B%E6%9C%88%E7%88%86%E9%96%8B2%E6%AC%A1-%E5%BD%B0%E5%8C%96%E8%92%9C%E9%A6%99%E8%97%A4%E7%B4%AB%E8%8A%B1%E6%B5%AA%E6%BC%AB-213000514.html",
+          "time": "2026-09-16 05:30:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "愛心不間斷！彰化縣議員賴清美連續20年送暖彰化家扶 參選人曾煥燁接棒傳承溫情",
+          "url": "https://more-news.tw/720671/",
+          "time": "2026-09-15 20:02:13",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "「彰化陶韻20」陶藝學會成立20周年慶 邀請鄉親賞陶、玩陶共度陶藝嘉年華",
+          "url": "https://more-news.tw/720658/",
+          "time": "2026-09-15 20:00:44",
+          "publisher": "墨新聞",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "澎湖地方動態",
       "city": "澎湖",
       "place": "澎湖縣政府",
@@ -3816,218 +4047,15 @@
       "comments": []
     },
     {
-      "title": "彰化地方動態",
-      "city": "彰化",
-      "place": "彰化縣政府",
-      "level": "red",
-      "news_count": 27,
-      "comment_count": 0,
-      "negativity_pct": 30,
-      "is_urgent": false,
-      "urgency_score": 51,
-      "news_articles": [
-        {
-          "title": "議會辦桌風波擴大！謝典霖遭約談震撼彰化政壇 王惠美反應曝光 | 政治快訊 | 要聞",
-          "url": "https://www.nownews.com/news/6875622",
-          "time": "2026-09-16 18:47:59",
-          "publisher": "NOWnews今日新聞",
-          "severity": "red"
-        },
-        {
-          "title": "彰化前行金馬63聯名禮盒亮相",
-          "url": "https://taiwanreports.com/archives/1013421",
-          "time": "2026-09-16 18:45:28",
-          "publisher": "臺灣導報",
-          "severity": null
-        },
-        {
-          "title": "學生喊午餐吃不飽 民進黨台中市議員林祈烽籲生生每餐80元 盧市府三長拒簽 中市府：依營養基準供餐不足可取備品",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHZDRuOXdRdGIxYkFsOVN5amtMMWdMYkE4S3NuZllyWG9VcmtUa0g1N040OGpFblZIWU1sZm0zQnRTMFZZUFhaajVOZjNIX2FtRkRqLU5TcnRpdHV4VnVONGlVal85akQ1?oc=5",
-          "time": "2026-09-16 18:29:25",
-          "publisher": "Google News→元丰傳媒",
-          "severity": null
-        },
-        {
-          "title": "影／彰化警察勇奪打詐、掃黑、肅槍三冠 王惠美表揚破案有功同仁",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B1-%E5%BD%B0%E5%8C%96%E8%AD%A6%E5%AF%9F%E5%8B%87%E5%A5%AA%E6%89%93%E8%A9%90-%E6%8E%83%E9%BB%91-%E8%82%85%E6%A7%8D%E4%B8%89%E5%86%A0-%E7%8E%8B%E6%83%A0%E7%BE%8E%E8%A1%A8%E6%8F%9A%E7%A0%B4%E6%A1%88%E6%9C%89%E5%8A%9F%E5%90%8C%E4%BB%81-102748861.html",
-          "time": "2026-09-16 18:27:48",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "770位教育人員獲彰化表揚 2人榮獲全國師鐸獎",
-          "url": "https://tw.news.yahoo.com/770%E4%BD%8D%E6%95%99%E8%82%B2%E4%BA%BA%E5%93%A1%E7%8D%B2%E5%BD%B0%E5%8C%96%E8%A1%A8%E6%8F%9A-2%E4%BA%BA%E6%A6%AE%E7%8D%B2%E5%85%A8%E5%9C%8B%E5%B8%AB%E9%90%B8%E7%8D%8E-102648514.html",
-          "time": "2026-09-16 18:26:48",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "溪湖餐會遭引爭議！ 彰化地檢約談謝典霖父子等人",
-          "url": "https://newtalk.tw/news/view/2026-09-16/1060166",
-          "time": "2026-09-16 16:10:12",
-          "publisher": "新頭殼",
-          "severity": "red"
-        },
-        {
-          "title": "議會宴客輔選惹議！彰化地檢署出手 通知謝典霖等20人到案說明",
-          "url": "https://www.mirrormedia.mg/story/20260916edi037",
-          "time": "2026-09-16 16:10:00",
-          "publisher": "鏡週刊",
-          "severity": "red"
-        },
-        {
-          "title": "幫助合法老屋改建更安全！彰化補助老宅更新補助9/16開跑",
-          "url": "https://tw.news.yahoo.com/%E5%B9%AB%E5%8A%A9%E5%90%88%E6%B3%95%E8%80%81%E5%B1%8B%E6%94%B9%E5%BB%BA%E6%9B%B4%E5%AE%89%E5%85%A8-%E5%BD%B0%E5%8C%96%E8%A3%9C%E5%8A%A9%E8%80%81%E5%AE%85%E6%9B%B4%E6%96%B0%E8%A3%9C%E5%8A%A99-16%E9%96%8B%E8%B7%91-075941152.html",
-          "time": "2026-09-16 15:59:41",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "議會宴客被疑賄選 彰化地檢署傳喚謝典霖父子等人到案說明",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5575926",
-          "time": "2026-09-16 15:29:45",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "彰化、新竹選情有感？鄭麗文：不是所有人都願為大局共體時艱 | 政治內幕 | 要聞",
-          "url": "https://www.nownews.com/news/6875542",
-          "time": "2026-09-16 15:23:16",
-          "publisher": "NOWnews今日新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "昨民進黨臉書發文批評國民黨新北市長參選人李四川是惡霸家族，今國民黨新北市議員林國春、呂家愷公開指控民進黨新北市長參選人蘇巧慧與父親蘇貞昌鴨霸事蹟。林國春指，蘇貞昌任台北縣長時，在台北市住家失竊184萬現金及兩本護照，不但刻意隱瞞現金一事，還謊報護照失竊地在台北縣長官邸，痛罵警察偵辦不力，害兩名基層員警被記申誡。",
-          "url": "https://udn.com/news/story/124652/9758132?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-16 14:12:32",
-          "publisher": "聯合新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "彰化救護車鳴笛閃燈仍受阻！6汽機車我行我素通行 警：最重吊銷牌照",
-          "url": "https://newtalk.tw/news/view/2026-09-16/1060104",
-          "time": "2026-09-16 13:55:30",
-          "publisher": "新頭殼",
-          "severity": "yellow"
-        },
-        {
-          "title": "工藝展覽館新址揭牌 首檔展出「匠心•微光慢行—彰化工藝之家聯展」",
-          "url": "https://more-news.tw/720967/",
-          "time": "2026-09-16 13:02:14",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "6車擋救護車卡路口！彰化花壇駕駛挨轟 未禮讓最重吊銷駕照",
-          "url": "https://tw.news.yahoo.com/6%E8%BB%8A%E6%93%8B%E6%95%91%E8%AD%B7%E8%BB%8A%E5%8D%A1%E8%B7%AF%E5%8F%A3-%E5%BD%B0%E5%8C%96%E8%8A%B1%E5%A3%87%E9%A7%95%E9%A7%9B%E6%8C%A8%E8%BD%9F-%E6%9C%AA%E7%A6%AE%E8%AE%93%E6%9C%80%E9%87%8D%E5%90%8A%E9%8A%B7%E9%A7%95%E7%85%A7-043000074.html",
-          "time": "2026-09-16 12:30:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "彰化縣和美鎮汙水下水道系統第一期水資源回收中心正式啟用",
-          "url": "https://more-news.tw/720920/",
-          "time": "2026-09-16 12:15:54",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "彰化傳統戲曲節精彩持續 9/19兒童歌仔戲、9/20北管展演 接力登場",
-          "url": "https://n.yam.com/Article/20260916612257",
-          "time": "2026-09-16 12:00:00",
-          "publisher": "蕃新聞→墨新聞",
-          "severity": null
-        },
-        {
-          "title": "彰化縣表揚770位優秀教育人員 祝福教師節快樂",
-          "url": "https://n.yam.com/Article/20260916620158",
-          "time": "2026-09-16 12:00:00",
-          "publisher": "蕃新聞→墨新聞",
-          "severity": null
-        },
-        {
-          "title": "房市／雙鐵＋私校學區 大慶成彰化家庭跨城置產首選 | 地產居家 | 生活",
-          "url": "https://www.nownews.com/news/6875397",
-          "time": "2026-09-16 11:36:46",
-          "publisher": "NOWnews今日新聞",
-          "severity": null
-        },
-        {
-          "title": "質疑台東議長夫在議會有藏寶庫 議員林參天攜滅火器作勢破門",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5575572",
-          "time": "2026-09-16 11:25:51",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "獨家》彰化縣議長謝典霖議會宴客涉賄選？ 彰檢傳喚多人偵辦中",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5575402",
-          "time": "2026-09-16 10:38:37",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "餐會爆賄選疑雲！彰化議長謝典霖遭約談",
-          "url": "https://tw.news.yahoo.com/%E9%A4%90%E6%9C%83%E7%88%86%E8%B3%84%E9%81%B8%E7%96%91%E9%9B%B2-%E5%BD%B0%E5%8C%96%E8%AD%B0%E9%95%B7%E8%AC%9D%E5%85%B8%E9%9C%96%E9%81%AD%E7%B4%84%E8%AB%87-102218876.html",
-          "time": "2026-09-16 10:22:18",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "彰化議會辦席宴客遭疑輔選 檢調約談謝典霖父子及陳貞妃等20人",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E8%AD%B0%E6%9C%83%E8%BE%A6%E5%B8%AD%E5%AE%B4%E5%AE%A2%E9%81%AD%E7%96%91%E8%BC%94%E9%81%B8-%E6%AA%A2%E8%AA%BF%E7%B4%84%E8%AB%87%E8%AC%9D%E5%85%B8%E9%9C%96%E7%88%B6%E5%AD%90%E5%8F%8A%E9%99%B3%E8%B2%9E%E5%A6%83%E7%AD%8920%E4%BA%BA-100200260.html",
-          "time": "2026-09-16 10:02:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "彰化議長謝典霖疑涉賄選？縣議會內擺10多桌「參選人、里長都來了」 檢調出手查了",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E8%AD%B0%E9%95%B7%E8%AC%9D%E5%85%B8%E9%9C%96%E7%96%91%E6%B6%89%E8%B3%84%E9%81%B8-%E7%B8%A3%E8%AD%B0%E6%9C%83%E5%85%A7%E6%93%BA10%E5%A4%9A%E6%A1%8C-%E5%8F%83%E9%81%B8%E4%BA%BA-%E9%87%8C%E9%95%B7%E9%83%BD%E4%BE%86%E4%BA%86-%E6%AA%A2%E8%AA%BF%E5%87%BA%E6%89%8B%E6%9F%A5%E4%BA%86-065300950.html",
-          "time": "2026-09-16 06:53:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "開公務車載妻遊高雄、台北／竹塘鄉長刷2314元油費 求緩刑遭駁回",
-          "url": "https://news.ltn.com.tw/news/society/paper/1770869",
-          "time": "2026-09-16 05:30:00",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "2個月爆開2次 彰化蒜香藤紫花浪漫",
-          "url": "https://tw.news.yahoo.com/2%E5%80%8B%E6%9C%88%E7%88%86%E9%96%8B2%E6%AC%A1-%E5%BD%B0%E5%8C%96%E8%92%9C%E9%A6%99%E8%97%A4%E7%B4%AB%E8%8A%B1%E6%B5%AA%E6%BC%AB-213000514.html",
-          "time": "2026-09-16 05:30:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "愛心不間斷！彰化縣議員賴清美連續20年送暖彰化家扶 參選人曾煥燁接棒傳承溫情",
-          "url": "https://more-news.tw/720671/",
-          "time": "2026-09-15 20:02:13",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "「彰化陶韻20」陶藝學會成立20周年慶 邀請鄉親賞陶、玩陶共度陶藝嘉年華",
-          "url": "https://more-news.tw/720658/",
-          "time": "2026-09-15 20:00:44",
-          "publisher": "墨新聞",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台南地方動態",
       "city": "台南",
       "place": "台南市政府",
       "level": "red",
-      "news_count": 34,
+      "news_count": 32,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 37,
+      "urgency_score": 35,
       "news_articles": [
         {
           "title": "台南社大觀測沙崙農場草鴞 籲開發案迴避生態熱區",
@@ -4250,20 +4278,6 @@
           "title": "南市教育局兒童權利公約創意圖卡 徵選",
           "url": "https://tw.news.yahoo.com/%E5%8D%97%E5%B8%82%E6%95%99%E8%82%B2%E5%B1%80%E5%85%92%E7%AB%A5%E6%AC%8A%E5%88%A9%E5%85%AC%E7%B4%84%E5%89%B5%E6%84%8F%E5%9C%96%E5%8D%A1-%E5%BE%B5%E9%81%B8-114441434.html",
           "time": "2026-09-15 19:44:41",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台南美術播種者 陳輝東故居掛牌",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E7%BE%8E%E8%A1%93%E6%92%AD%E7%A8%AE%E8%80%85-%E9%99%B3%E8%BC%9D%E6%9D%B1%E6%95%85%E5%B1%85%E6%8E%9B%E7%89%8C-114332486.html",
-          "time": "2026-09-15 19:43:32",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "綠影創作獎 台南學子締佳績",
-          "url": "https://tw.news.yahoo.com/%E7%B6%A0%E5%BD%B1%E5%89%B5%E4%BD%9C%E7%8D%8E-%E5%8F%B0%E5%8D%97%E5%AD%B8%E5%AD%90%E7%B7%A0%E4%BD%B3%E7%B8%BE-114058372.html",
-          "time": "2026-09-15 19:40:58",
           "publisher": "Yahoo新聞",
           "severity": null
         }
@@ -5612,11 +5626,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 59,
+      "news_count": 58,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 68,
+      "urgency_score": 67,
       "news_articles": [
         {
           "title": "花蓮爆持刀襲警！男「全身血」攀牆逃屋頂 對峙1小時遭逮",
@@ -6022,13 +6036,6 @@
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBPR0FXZlJZUGRnRWVJRVZ2ckRWMC1OZlNnQjJaVmFEclFvcC1WR2MyTnA2bmlib1YwQkQyY0dscm9kZVI4SHc?oc=5",
           "time": "2026-09-15 19:46:14",
           "publisher": "Google News→台灣新聞雲報",
-          "severity": null
-        },
-        {
-          "title": "2027花蓮羊年主視覺設計競賽正式開跑",
-          "url": "https://tw.news.yahoo.com/2027%E8%8A%B1%E8%93%AE%E7%BE%8A%E5%B9%B4%E4%B8%BB%E8%A6%96%E8%A6%BA%E8%A8%AD%E8%A8%88%E7%AB%B6%E8%B3%BD%E6%AD%A3%E5%BC%8F%E9%96%8B%E8%B7%91-114145375.html",
-          "time": "2026-09-15 19:41:45",
-          "publisher": "Yahoo新聞",
           "severity": null
         }
       ],
@@ -8332,7 +8339,7 @@
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyV0Y5RjI3dDB5RnN0S1JqU25BMnRMYWRkWXVuOVQtYzhBRDJuWnQ5RC1CcUYzcEZlU2RnYzAyamlTdjFiaUs5WjZWNU9aakhMbkV5Q3JWQXNPWFBWSHpmODl0QnNielQz?oc=5",
           "time": "2026-09-16 19:34:56",
           "publisher": "Google News→元丰傳媒",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "台中「床墊長城」清空了！盧秀燕卸任倒數拚有感 3000床全消失",
@@ -8367,7 +8374,7 @@
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHZDRuOXdRdGIxYkFsOVN5amtMMWdMYkE4S3NuZllyWG9VcmtUa0g1N040OGpFblZIWU1sZm0zQnRTMFZZUFhaajVOZjNIX2FtRkRqLU5TcnRpdHV4VnVONGlVal85akQ1?oc=5",
           "time": "2026-09-16 18:29:25",
           "publisher": "Google News→元丰傳媒",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "無關選舉！台中驚見「絕世佳人」1公里生日旗 網全跪了",
@@ -9371,18 +9378,32 @@
       "city": "台北",
       "place": "台北市萬華區",
       "level": "red",
-      "news_count": 233,
+      "news_count": 236,
       "comment_count": 0,
       "negativity_pct": 10,
       "is_urgent": false,
-      "urgency_score": 305,
+      "urgency_score": 308,
       "news_articles": [
+        {
+          "title": "【#直播中LIVE】「洋流」席捲北市！沈伯洋推競選歌曲",
+          "url": "https://www.youtube.com/watch?v=pNEtQlv7ipU",
+          "time": "2026-09-16 19:25:16",
+          "publisher": null,
+          "severity": null
+        },
+        {
+          "title": "【#直播中LIVE】「洋流」席捲北市！沈伯洋推競選歌曲",
+          "url": "https://www.youtube.com/watch?v=JkcpSeNoG5Y",
+          "time": "2026-09-16 19:24:53",
+          "publisher": null,
+          "severity": null
+        },
         {
           "title": "心結未解? 藍營北市黨部餐敘 蔣萬安.秦慧珠同桌\"零互動\"",
           "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQRHZKUVNQTGYta0VvNFZKWFo3UVZ5dXJSeDNMZnpEanhzeVM2M2ppVjY5ZWVRSnFuUHRlNUFRUnVUV2FhWnRSRGRGV2hZSm1zMGd0WkpkWml4Sm9kamxhSVZXaXdRc2dwY2ZqZHA1dUIxYjZzbktnV1lnOWVLbEdDQWxlVFpLdjRkZ1pqX25PXzQzRWp6U0sxZXp6Vmp0c201ZmZqSkt4dHZTM3c0dkVBeWx1dk44c0lwTGJkV2NXdmtVN1MwMGhCTTBqamVEWWlBd2gyZFM1Tnl5Z3FBd2VBUFN1TDJCN1h4aGRBSVFWRVZ1TkxJa2liWlpoQjRfWERIc19oUTNvMDBHMGVYY2hTN2VxbG1PZlhsUWxpUG1seFltZkVkNkxiRG13S1loWkVRWER6aTh5a2E4ejMtOWpzeWdkNEhCRWl2c1dXV1dRX3VfemoyNlpaZFNJdnVuYkVLUTB4STFOblZPaG5E?oc=5",
           "time": "2026-09-16 18:55:03",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "yellow"
         },
         {
           "title": "4月就大讚沈伯洋參選 呱吉：他是台北人會喜歡的候選人 | 政治快訊 | 要聞",
@@ -9452,7 +9473,7 @@
           "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQd0hZVm5YRUhlcVZNNWVvNFhpME5JQVBPMG1CTDNNakpYVXRNMkJYYnpqYl9jRGR5V0VrX1Rya2JLVXdYMEptcERrM2dYdGVGMHVzU3FGODQ2YnVyZjVmLW9NbWxhWGN1c1Uta252OXNkR19nR3NrUl9ZUGN1cHNZWE11aDVFX1dYRkc1WTVWWDEzOGJ1Tlo4SWFfTE9nRTA0b0h5N0lkbE9CZHNCMm5sVEFxZ0VWWGwtREN6R05pbzlpUTZ1empVd1lvUUlPWXNMZkY1dGpudllhbXRiRW14YmVBQWNGUGtiRWNEZnNLUUdIQkgxQTB0MldqbmJzTHhrMFRuQ0k1eDJYQWhCYWNRVGlkQ29ucXJwbmlpQnJSajFNUjZGMTN1Q3pPZ3F3eVNvenZiVkFDUHpIRW1mbFVrQzlET05wcEVGSUZNNzB3aFBPbFlNLWhfOWdPaW1BU3ZrdjNmMjRTc29TUQ?oc=5",
           "time": "2026-09-16 17:15:00",
           "publisher": "Yahoo新聞",
-          "severity": null
+          "severity": "red"
         },
         {
           "title": "才酸完沈伯洋...北市就爆槍擊案？于北辰轟蔣萬安：過三小時才處理｜#台灣最前線｜民視讚夯.com",
@@ -10601,6 +10622,13 @@
           "time": "2026-09-16 08:52:00",
           "publisher": "Google News→setn.com",
           "severity": "yellow"
+        },
+        {
+          "title": "#LIVE【新台派上線】現象級政治追星?台北街頭罕見沸騰 沈伯洋公館掃街熱度爆表  手握市政資源!蔣萬安準備絕地大反攻?親藍媒體人卻看衰?｜李正皓 主持｜20260916",
+          "url": "https://www.youtube.com/watch?v=Y7PJb12FeyE",
+          "time": "2026-09-16 08:41:30",
+          "publisher": null,
+          "severity": null
         },
         {
           "title": "🔴0916 LIVE 晚間新聞直播｜「洋流」席捲北市、專訪破兩百萬觀看　黃暐瀚：國民黨誤判了沈伯洋",

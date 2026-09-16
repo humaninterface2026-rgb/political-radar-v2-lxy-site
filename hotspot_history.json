@@ -98834,7 +98834,7 @@
     },
     {
       "date": "2026-09-16",
-      "snapshot_at": "2026-09-16T11:40:22.965988+00:00",
+      "snapshot_at": "2026-09-16T11:44:08.049472+00:00",
       "hotspots": [
         {
           "title": "海線立委戰局",
@@ -98873,6 +98873,20 @@
           "is_urgent": false,
           "urgency_score": 3,
           "sample_titles": []
+        },
+        {
+          "title": "台中鼠患事件",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 1,
+          "sample_titles": [
+            "【#頭家來開講】2026.09.16 沈伯洋擠爆公館商圈「更勝石牌」！支持者高喊「我不是蟑螂老鼠」！盧秀燕跌落神壇？縣市"
+          ]
         },
         {
           "title": "苗栗公廁議題",
@@ -98927,22 +98941,6 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": []
-        },
-        {
-          "title": "廚餘山",
-          "city": "台中",
-          "place": "台中市大里區",
-          "level": "green",
-          "news_count": 3,
-          "comment_count": 4,
-          "negativity_pct": 0,
-          "is_urgent": true,
-          "urgency_score": 15,
-          "sample_titles": [
-            "議員抨盧秀燕八年治理失靈 恐讓市民明年須負擔廚餘處理費",
-            "議員抨盧秀燕八年治理失靈 恐讓市民明年須負擔廚餘處理費",
-            "廚餘處理明年恐增市民負擔　中市議員要求環保局說清楚"
-          ]
         },
         {
           "title": "垃圾山",
@@ -99019,20 +99017,6 @@
           ]
         },
         {
-          "title": "台東弊案爭議",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "吳秀華家族東映農路弊案 台東副議長列被告"
-          ]
-        },
-        {
           "title": "新北弊案爭議",
           "city": "新北",
           "place": "新北市政府",
@@ -99044,6 +99028,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "汐止警收錢擅查個資 全國首件國民法官審理貪污案下午宣判"
+          ]
+        },
+        {
+          "title": "苗栗弊案爭議",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "​壓力太大開車甩尾燒胎發洩？ 苗栗男犯3罪遭判刑5個月"
           ]
         },
         {
@@ -99061,9 +99059,9 @@
           ]
         },
         {
-          "title": "苗栗弊案爭議",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
+          "title": "台東弊案爭議",
+          "city": "台東",
+          "place": "台東縣政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -99071,7 +99069,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "​壓力太大開車甩尾燒胎發洩？ 苗栗男犯3罪遭判刑5個月"
+            "吳秀華家族東映農路弊案 台東副議長列被告"
           ]
         },
         {
@@ -99104,6 +99102,22 @@
             "桃園市中壢體育轅區車禍 直行車與左轉車衝撞",
             "桃園楊梅離譜車禍！粗心阿公臨停疑忘拉手煞車 車輛飄移撞翻路邊3機車",
             "2026.09.16 09:45 桃園八德8車連環車禍 失控撞待轉區5人受傷送醫"
+          ]
+        },
+        {
+          "title": "廚餘山",
+          "city": "台中",
+          "place": "台中市大里區",
+          "level": "yellow",
+          "news_count": 3,
+          "comment_count": 4,
+          "negativity_pct": 0,
+          "is_urgent": true,
+          "urgency_score": 15,
+          "sample_titles": [
+            "議員抨盧秀燕八年治理失靈 恐讓市民明年須負擔廚餘處理費",
+            "議員抨盧秀燕八年治理失靈 恐讓市民明年須負擔廚餘處理費",
+            "廚餘處理明年恐增市民負擔　中市議員要求環保局說清楚"
           ]
         },
         {
@@ -99251,22 +99265,6 @@
           ]
         },
         {
-          "title": "高雄車禍事件",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "red",
-          "news_count": 5,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 20,
-          "sample_titles": [
-            "高雄民族陸橋追撞車禍 7旬女開休旅車直衝停等紅燈轎車",
-            "高雄76歲阿嬤車禍爆頭亡！ 搭女兒機車遭拖板車撞倒輾過慘死",
-            "高雄死亡車禍！奪命曳引車害76歲婦「命喪輪下」又波及1機車、3汽車"
-          ]
-        },
-        {
           "title": "台中車禍事件",
           "city": "台中",
           "place": "台中市西區",
@@ -99280,6 +99278,22 @@
             "台中嚴重車禍！國光客運撞上新加坡女遊客 OHCA送醫",
             "[Gossiping] [新聞] 影／台中西區台銀前嚴重車禍！國光客運",
             "台中重大車禍！國光客運轉彎「新加坡女遊客」卡車底命危 司機：有確認沒人才開"
+          ]
+        },
+        {
+          "title": "高雄車禍事件",
+          "city": "高雄",
+          "place": "高雄市政府",
+          "level": "red",
+          "news_count": 5,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 20,
+          "sample_titles": [
+            "高雄民族陸橋追撞車禍 7旬女開休旅車直衝停等紅燈轎車",
+            "高雄76歲阿嬤車禍爆頭亡！ 搭女兒機車遭拖板車撞倒輾過慘死",
+            "高雄死亡車禍！奪命曳引車害76歲婦「命喪輪下」又波及1機車、3汽車"
           ]
         },
         {
@@ -99303,15 +99317,15 @@
           "city": "台東",
           "place": "台東縣政府",
           "level": "red",
-          "news_count": 15,
+          "news_count": 16,
           "comment_count": 0,
-          "negativity_pct": 13,
+          "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 21,
+          "urgency_score": 22,
           "sample_titles": [
+            "【想像台灣】台東社區照護革命｜90歲獨居長者為何風雨無阻？關山中福社區奪衛福部冠軍的「互助共生」秘密｜何文堯  ft..",
             "台東東河文旦柚評鑑 農友曾紅秋奪金",
-            "2026台東縣長選戰持續升溫，國民黨參選人吳秀華、民進黨參選人陳瑩近日分別接受專訪，從青年返鄉、產業發展、長者照顧到地方",
-            "吳秀華拋「一心二軸三共好」 打造台東下一個十年"
+            "2026台東縣長選戰持續升溫，國民黨參選人吳秀華、民進黨參選人陳瑩近日分別接受專訪，從青年返鄉、產業發展、長者照顧到地方"
           ]
         },
         {
@@ -99331,22 +99345,6 @@
           ]
         },
         {
-          "title": "澎湖地方動態",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
-          "level": "red",
-          "news_count": 27,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 27,
-          "sample_titles": [
-            "澎湖地區選舉查察分區座談會議 (圖)",
-            "地方公職選舉在即 澎湖檢警調廉等全面啟動查賄",
-            "地方公職選舉在即澎湖檢警調廉等全面啟動查賄| 地方"
-          ]
-        },
-        {
           "title": "彰化地方動態",
           "city": "彰化",
           "place": "彰化縣政府",
@@ -99363,15 +99361,31 @@
           ]
         },
         {
+          "title": "澎湖地方動態",
+          "city": "澎湖",
+          "place": "澎湖縣政府",
+          "level": "red",
+          "news_count": 27,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 27,
+          "sample_titles": [
+            "澎湖地區選舉查察分區座談會議 (圖)",
+            "地方公職選舉在即 澎湖檢警調廉等全面啟動查賄",
+            "地方公職選舉在即澎湖檢警調廉等全面啟動查賄| 地方"
+          ]
+        },
+        {
           "title": "台南地方動態",
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 34,
+          "news_count": 32,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 37,
+          "urgency_score": 35,
           "sample_titles": [
             "台南社大觀測沙崙農場草鴞 籲開發案迴避生態熱區",
             "台南白河萬里長城開價6億讓售！旅遊業傳奇人物「林務局長」曝原因",
@@ -99447,11 +99461,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 59,
+          "news_count": 58,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 68,
+          "urgency_score": 67,
           "sample_titles": [
             "花蓮爆持刀襲警！男「全身血」攀牆逃屋頂 對峙1小時遭逮",
             "花蓮男持刀襲警！爬屋頂對峙超1小時落網 疑吸毒情緒失控",
@@ -99527,15 +99541,15 @@
           "city": "台北",
           "place": "台北市萬華區",
           "level": "red",
-          "news_count": 233,
+          "news_count": 236,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 305,
+          "urgency_score": 308,
           "sample_titles": [
-            "心結未解? 藍營北市黨部餐敘 蔣萬安.秦慧珠同桌\"零互動\"",
-            "4月就大讚沈伯洋參選 呱吉：他是台北人會喜歡的候選人 | 政治快訊 | 要聞",
-            "國民黨宜蘭縣長參選人吳宗憲今天拜訪國民黨台北市議會黨團，討論北、宜未來合作，尋求北市議長戴錫欽和議員支持。吳宗憲指出，大"
+            "【#直播中LIVE】「洋流」席捲北市！沈伯洋推競選歌曲",
+            "【#直播中LIVE】「洋流」席捲北市！沈伯洋推競選歌曲",
+            "心結未解? 藍營北市黨部餐敘 蔣萬安.秦慧珠同桌\"零互動\""
           ]
         }
       ]
