@@ -99609,7 +99609,7 @@
     },
     {
       "date": "2026-09-17",
-      "snapshot_at": "2026-09-17T10:34:55.871799+00:00",
+      "snapshot_at": "2026-09-17T10:41:39.834967+00:00",
       "hotspots": [
         {
           "title": "盧秀燕訪美外交",
@@ -99666,20 +99666,6 @@
           ]
         },
         {
-          "title": "台東陳情/抗議",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台東市四維路施工封閉中央通道 居民控影響進出向公所陳情"
-          ]
-        },
-        {
           "title": "高雄陳情/抗議",
           "city": "高雄",
           "place": "高雄市政府",
@@ -99691,6 +99677,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "高雄家長為制服規定陳情 黃柏霖：未要求校方更改"
+          ]
+        },
+        {
+          "title": "台東陳情/抗議",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "台東市四維路施工封閉中央通道 居民控影響進出向公所陳情"
           ]
         },
         {
@@ -99722,20 +99722,6 @@
           ]
         },
         {
-          "title": "花蓮詐騙案",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "詐騙老梗「有人持您委託書辦謄本？」花蓮市戶政提醒：牢記3步驟守護個資安全"
-          ]
-        },
-        {
           "title": "金門詐騙案",
           "city": "金門",
           "place": "金門縣政府",
@@ -99761,6 +99747,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "全台社群農產詐騙率竟高達50%，屏東、台南、南投淪重災區，教你識破「假小農」與「一頁式」詐騙手法"
+          ]
+        },
+        {
+          "title": "花蓮詐騙案",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "詐騙老梗「有人持您委託書辦謄本？」花蓮市戶政提醒：牢記3步驟守護個資安全"
           ]
         },
         {
@@ -99794,21 +99794,6 @@
           ]
         },
         {
-          "title": "花蓮車禍事件",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "green",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "影音／花蓮「危險路口」車禍頻傳！少年、婦人對撞噴飛 | TVBS",
-            "影音／花蓮「危險路口」車禍頻傳！少年、婦人對撞噴飛"
-          ]
-        },
-        {
           "title": "金門車禍事件",
           "city": "金門",
           "place": "金門縣政府",
@@ -99824,9 +99809,9 @@
           ]
         },
         {
-          "title": "屏東詐騙案",
-          "city": "屏東",
-          "place": "屏東縣政府",
+          "title": "花蓮車禍事件",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
           "level": "green",
           "news_count": 2,
           "comment_count": 0,
@@ -99834,8 +99819,8 @@
           "is_urgent": true,
           "urgency_score": 8,
           "sample_titles": [
-            "全台社群農產詐騙率竟高達50%，屏東、台南、南投淪重災區，教你識破「假小農」與「一頁式」詐騙手法",
-            "屏東縣推防詐十八銅人 創意短劇揭詐騙攻心手法"
+            "影音／花蓮「危險路口」車禍頻傳！少年、婦人對撞噴飛 | TVBS",
+            "影音／花蓮「危險路口」車禍頻傳！少年、婦人對撞噴飛"
           ]
         },
         {
@@ -99851,6 +99836,21 @@
           "sample_titles": [
             "前鎮警翻拍唐伯虎點秋香揭穿最新QR Code詐騙",
             "唐伯虎穿越現代遇詐騙！高雄警拍片揭LINE視訊新招 小心荷包一秒見底"
+          ]
+        },
+        {
+          "title": "屏東詐騙案",
+          "city": "屏東",
+          "place": "屏東縣政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "全台社群農產詐騙率竟高達50%，屏東、台南、南投淪重災區，教你識破「假小農」與「一頁式」詐騙手法",
+            "屏東縣推防詐十八銅人 創意短劇揭詐騙攻心手法"
           ]
         },
         {
@@ -100037,11 +100037,11 @@
           "city": "連江",
           "place": "連江縣（馬祖）",
           "level": "yellow",
-          "news_count": 20,
+          "news_count": 19,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 23,
+          "urgency_score": 22,
           "sample_titles": [
             "沙德爾海警 暴風圈週五將通過馬祖北方近海",
             "空屋竟設籍多人！連江地檢啟動幽靈人口查核檢察長親自上門勘查| 2026九合一選舉",
@@ -100117,11 +100117,11 @@
           "city": "台中",
           "place": "台中市清水區",
           "level": "yellow",
-          "news_count": 76,
+          "news_count": 74,
           "comment_count": 13,
           "negativity_pct": 7,
           "is_urgent": true,
-          "urgency_score": 112,
+          "urgency_score": 110,
           "sample_titles": [
             "敬老愛心卡遭酸「敬老一折卡」 盧秀燕承諾務實檢討",
             "呼籲國民黨團結別內訌 盧秀燕：反對為職位「爭得頭破血流」",
@@ -100144,22 +100144,6 @@
           ]
         },
         {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市霧峰區",
-          "level": "red",
-          "news_count": 3,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 12,
-          "sample_titles": [
-            "「台灣前進陣線」成立「2026議員參選人刑事案件紀錄」號稱是民間版選舉公報網站。有民眾以其內的判決內容在網路上批評台中市",
-            "前中市府處長不只洩密？想撤銷限制出境 案由赫見「貪污」2字",
-            "海巡署查毒溯源槓上開花 台中起獲長槍子彈2嫌遭起訴"
-          ]
-        },
-        {
           "title": "雲林弊案爭議",
           "city": "雲林",
           "place": "雲林縣政府",
@@ -100176,19 +100160,19 @@
           ]
         },
         {
-          "title": "嘉義市弊案爭議",
-          "city": "嘉義市",
-          "place": "嘉義市政府",
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市霧峰區",
           "level": "red",
-          "news_count": 4,
+          "news_count": 3,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 16,
+          "urgency_score": 12,
           "sample_titles": [
-            "嘉義市前正副議長莊豐安、蘇澤峰詐欺判刑定讞 檢啟動防逃機制",
-            "前嘉義市正副議長買房超貸4000萬判刑定讞 「這天」發監執行 | 民視新聞網",
-            "前嘉市正副議長莊豐安、蘇澤峰詐欺判刑定讞 9/18發監"
+            "「台灣前進陣線」成立「2026議員參選人刑事案件紀錄」號稱是民間版選舉公報網站。有民眾以其內的判決內容在網路上批評台中市",
+            "前中市府處長不只洩密？想撤銷限制出境 案由赫見「貪污」2字",
+            "海巡署查毒溯源槓上開花 台中起獲長槍子彈2嫌遭起訴"
           ]
         },
         {
@@ -100205,6 +100189,22 @@
             "把司法當空氣！新北聯醫前主任陳世瑀貪污「拖2年不入監」 警緝捕歸案 新北聯醫前心臟內科主任陳世瑀涉在採購案貪污收賄等，遭",
             "新北聯醫前主任涉貪遭判刑 拖2年未入監遭緝捕歸案",
             "國民法官審貪污案首件宣判 汐止警收錢查個資判刑4年8月"
+          ]
+        },
+        {
+          "title": "嘉義市弊案爭議",
+          "city": "嘉義市",
+          "place": "嘉義市政府",
+          "level": "red",
+          "news_count": 4,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 16,
+          "sample_titles": [
+            "嘉義市前正副議長莊豐安、蘇澤峰詐欺判刑定讞 檢啟動防逃機制",
+            "前嘉義市正副議長買房超貸4000萬判刑定讞 「這天」發監執行 | 民視新聞網",
+            "前嘉市正副議長莊豐安、蘇澤峰詐欺判刑定讞 9/18發監"
           ]
         },
         {
@@ -100276,11 +100276,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 47,
+          "news_count": 45,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 56,
+          "urgency_score": 54,
           "sample_titles": [
             "演練太逼真！屏東消防無人機、機器人齊出動 居民：發生什麼事？",
             "屏東海生館中秋人團圓、企鵝忙求偶！「孵卵斑」成育兒關鍵。",
@@ -100308,11 +100308,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 57,
+          "news_count": 55,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 57,
+          "urgency_score": 55,
           "sample_titles": [
             "苗栗3鄉市整體規劃座談登場，邀鄉親共繪地方發展藍圖",
             "苗栗環保績效亮眼　4項考核榮獲中央「優等」肯定",
@@ -100336,6 +100336,22 @@
           ]
         },
         {
+          "title": "彰化地方動態",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "red",
+          "news_count": 84,
+          "comment_count": 0,
+          "negativity_pct": 31,
+          "is_urgent": false,
+          "urgency_score": 162,
+          "sample_titles": [
+            "謝典霖被聲押！彰化副議長挑戰議長寶座",
+            "彰化南瑤宮角頭遶境 將跨越中彰投11個鄉鎮市",
+            "彰化福興婦人落水 1小時後尋獲OHCA送醫搶救"
+          ]
+        },
+        {
           "title": "花蓮地方動態",
           "city": "花蓮",
           "place": "花蓮縣政府",
@@ -100349,22 +100365,6 @@
             "青山紅茶腸桿菌超標百倍！手搖飲稽查6件不合格 花蓮公正街青草茶也上榜",
             "總統盃全國角力錦標賽 花蓮登場千餘名菁英競技",
             "花蓮基層建設座談游淑貞就地方需求提案建構優質吉安"
-          ]
-        },
-        {
-          "title": "彰化地方動態",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "red",
-          "news_count": 85,
-          "comment_count": 0,
-          "negativity_pct": 32,
-          "is_urgent": false,
-          "urgency_score": 166,
-          "sample_titles": [
-            "謝典霖被聲押！彰化副議長挑戰議長寶座",
-            "彰化南瑤宮角頭遶境 將跨越中彰投11個鄉鎮市",
-            "彰化福興婦人落水 1小時後尋獲OHCA送醫搶救"
           ]
         },
         {
@@ -100388,15 +100388,15 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 131,
+          "news_count": 132,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 131,
+          "urgency_score": 132,
           "sample_titles": [
+            "【#原音重現】台北營養午餐「3顆藍莓」對比桃園一整盒！苗博雅傻眼上教育部官網抓包：真的只給3顆！ 再模仿市長答詢精髓…酸",
             "柚子鳳梨酥飄香！桃園郵局局長親訪榮民長眷 寫明信片傳遞中秋團圓溫暖",
-            "桃園拚「第2個護國神山」！航空城瞄準AI關鍵 布局40公頃載板園區",
-            "秉持郵政溫暖精神！桃園郵局長吳進益率隊關懷榮民 深化公益傳遞正向力量"
+            "桃園拚「第2個護國神山」！航空城瞄準AI關鍵 布局40公頃載板園區"
           ]
         },
         {
@@ -100404,15 +100404,15 @@
           "city": "台中",
           "place": "台中市西區",
           "level": "red",
-          "news_count": 158,
+          "news_count": 159,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 197,
+          "urgency_score": 198,
           "sample_titles": [
             "彈殼飛進垃圾車？ 中市府請軍方釐清並加強安全防護",
-            "2026/09/17 16:18 停業226天痛失寶座！新光三越吳昕陽：台中店力拚重返店王",
-            "台中爆工安意外！36歲工人遭壓 送醫搶救仍不治"
+            "[Gossiping] [新聞]台中第一銀行工安意外!工人遭重物砸壓受困",
+            "2026/09/17 16:18 停業226天痛失寶座！新光三越吳昕陽：台中店力拚重返店王"
           ]
         },
         {
@@ -100420,11 +100420,11 @@
           "city": "高雄",
           "place": "高雄市鳳山區",
           "level": "red",
-          "news_count": 181,
+          "news_count": 180,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 202,
+          "urgency_score": 201,
           "sample_titles": [
             "鳳山刺嬤案「都是孫在顧」？ 高雄衛生局曝不同紀錄",
             "國民黨高雄市長參選人柯志恩周末在鳳山舉辦首場大型造勢，邀請台北市長蔣萬安、國民黨新北市長參選人李四川站台；對此，蔣萬安下",
@@ -100442,9 +100442,9 @@
           "is_urgent": false,
           "urgency_score": 326,
           "sample_titles": [
-            "沈伯洋問「誰害我們用中華台北」蔣萬安搬蔡英文反問 學者批：講不出中國？",
-            "沈伯洋問「誰害我們用中華台北」蔣萬安搬蔡英文反問 學者批：講不出中國？",
-            "台北選情有變數？小笠原欣幸曝關鍵「預測結局」 蔣萬安這樣回"
+            "【#原音重現】台北營養午餐「3顆藍莓」對比桃園一整盒！苗博雅傻眼上教育部官網抓包：真的只給3顆！ 再模仿市長答詢精髓…酸",
+            "【#原音重現】備詢玩手游？北市民政局長陳永德市議會大玩「消消樂」遭參訪學生抓包！陳永德稱會特別注意…蔣萬安回應：有好好跟",
+            "沈伯洋問「誰害我們用中華台北」蔣萬安搬蔡英文反問 學者批：講不出中國？"
           ]
         }
       ]
