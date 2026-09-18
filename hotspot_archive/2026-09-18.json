@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "snapshot_at": "2026-09-18T01:35:33.380232+00:00",
+  "snapshot_at": "2026-09-18T01:38:23.180704+00:00",
   "hotspots": [
     {
       "title": "盧秀燕訪美外交",
@@ -62,6 +62,27 @@
           "time": "2026-09-17 12:00:00",
           "publisher": "蕃新聞→焦點時報",
           "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台南陳情/抗議",
+      "city": "台南",
+      "place": "台南市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "台南人回憶要沒了？27年「復華夜市」11月底熄燈 攤商急陳情",
+          "url": "https://news.ebc.net.tw/news/living/571799",
+          "time": "2026-09-17 22:56:00",
+          "publisher": "東森新聞",
+          "severity": "yellow"
         }
       ],
       "comments": []
@@ -130,27 +151,6 @@
       "comments": []
     },
     {
-      "title": "台南陳情/抗議",
-      "city": "台南",
-      "place": "台南市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "台南人回憶要沒了？27年「復華夜市」11月底熄燈 攤商急陳情",
-          "url": "https://news.ebc.net.tw/news/living/571799",
-          "time": "2026-09-17 22:56:00",
-          "publisher": "東森新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台南空氣污染",
       "city": "台南",
       "place": "台南市政府",
@@ -167,69 +167,6 @@
           "time": "2026-09-17 12:00:00",
           "publisher": "蕃新聞→台灣好新聞",
           "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "基隆詐騙案",
-      "city": "基隆",
-      "place": "基隆市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "基隆警方公布8月詐欺概況 以「網路購物詐騙」居首",
-          "url": "https://www.cdns.com.tw/articles/1461617",
-          "time": "2026-09-17 17:48:54",
-          "publisher": "中華日報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "桃園詐騙案",
-      "city": "桃園",
-      "place": "桃園市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "從AI變臉到網路詐騙 桃園推媒體識讀走進校園教學生破解AI假訊息",
-          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQYWZKY3M2c0VDSEs5OUcxZDBTT0hVeUtuVVZRXzctVFdMWGxmQ3N1UWNILTRDaW5Tcy0tc01NaF9Eem1xMmZoYXRsMlpqLVJGOE5OZllEcnpWMVdhRXRfRFp4dy1rN3gzdk5XOHFzWEp1ZlRaZ1FRejhsSXV3RTNjNEFKbV84TDE1SnJlZzNucm5wbzBJa3pkZWxfem1pZnJ5OFBRSWZVZ0x5dUEwY2tUWElERl9sSnU4WHdmcTNDejhVZlVLVHZDX1lpclBBeVJ0V1RUQnNMZWNqcF9ic2x6cGd1MXVlVVc3aS1uMVRrdmdNNWN2ZkF3ZlhRZ1UyYXB3YXZ0SjR4V0FFZ09EclNGNkNSd2kycGk1b0lTMkt4Z2dWMEpBVzFwMVdzNUMybmNveUdTOG5IUVJSMk1MN0ptTko3YlBCYWZyRktsMFBJZmlJYk9EUHl2NWJzUHlVYW90WDhBVmxmR1gwazJVY0lYdHRwZ2ZqOTFRaUxfX25YLW1ha2pKRWFQcFVIMUs3WTd4Y2tvLTFtNlZCQXc?oc=5",
-          "time": "2026-09-17 18:33:01",
-          "publisher": "Google News→台灣好新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "高雄詐騙案",
-      "city": "高雄",
-      "place": "高雄市前鎮區",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "前鎮警翻拍唐伯虎點秋香揭穿最新QR Code詐騙",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5577008",
-          "time": "2026-09-17 13:22:33",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -292,6 +229,69 @@
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04THJlcFFUazlxTVNHeTN1RTdxdzFhR3VfVDhYNlhCZUhLQnEzRmpmeUNSTXR2T1ppRFBTU1IzSGo4UFJ6clY3aER3c3VLaWFEcUE2LTQ0cGoxc2E3blFBUjJRTDFtb3czLVg2elo4LUFON2VmUFRHTGwyREtoUQ?oc=5",
           "time": "2026-09-17 16:30:00",
           "publisher": "Google News→T客邦",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "桃園詐騙案",
+      "city": "桃園",
+      "place": "桃園市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "從AI變臉到網路詐騙 桃園推媒體識讀走進校園教學生破解AI假訊息",
+          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQYWZKY3M2c0VDSEs5OUcxZDBTT0hVeUtuVVZRXzctVFdMWGxmQ3N1UWNILTRDaW5Tcy0tc01NaF9Eem1xMmZoYXRsMlpqLVJGOE5OZllEcnpWMVdhRXRfRFp4dy1rN3gzdk5XOHFzWEp1ZlRaZ1FRejhsSXV3RTNjNEFKbV84TDE1SnJlZzNucm5wbzBJa3pkZWxfem1pZnJ5OFBRSWZVZ0x5dUEwY2tUWElERl9sSnU4WHdmcTNDejhVZlVLVHZDX1lpclBBeVJ0V1RUQnNMZWNqcF9ic2x6cGd1MXVlVVc3aS1uMVRrdmdNNWN2ZkF3ZlhRZ1UyYXB3YXZ0SjR4V0FFZ09EclNGNkNSd2kycGk1b0lTMkt4Z2dWMEpBVzFwMVdzNUMybmNveUdTOG5IUVJSMk1MN0ptTko3YlBCYWZyRktsMFBJZmlJYk9EUHl2NWJzUHlVYW90WDhBVmxmR1gwazJVY0lYdHRwZ2ZqOTFRaUxfX25YLW1ha2pKRWFQcFVIMUs3WTd4Y2tvLTFtNlZCQXc?oc=5",
+          "time": "2026-09-17 18:33:01",
+          "publisher": "Google News→台灣好新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "基隆詐騙案",
+      "city": "基隆",
+      "place": "基隆市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "基隆警方公布8月詐欺概況 以「網路購物詐騙」居首",
+          "url": "https://www.cdns.com.tw/articles/1461617",
+          "time": "2026-09-17 17:48:54",
+          "publisher": "中華日報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄詐騙案",
+      "city": "高雄",
+      "place": "高雄市前鎮區",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "前鎮警翻拍唐伯虎點秋香揭穿最新QR Code詐騙",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5577008",
+          "time": "2026-09-17 13:22:33",
+          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -7735,11 +7735,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 158,
+      "news_count": 156,
       "comment_count": 0,
       "negativity_pct": 1,
       "is_urgent": false,
-      "urgency_score": 161,
+      "urgency_score": 159,
       "news_articles": [
         {
           "title": "天氣／秋老虎發威？2區熱飆34℃ 「全台變天倒數」這地先迎降雨 受東北季風影響，全台天氣大致穩定；氣象專家林得恩指出，今（18日）、明（19日）兩天僅位處迎風面的基隆北海岸、東半部地區及大台北山區偶有零星降雨，待週日（20日）雨區才會擴大到桃園以北、嘉義山區及南部地區。 1 小時前 ｜ 生活 天氣／秋老虎發威？2區熱飆34℃ 「全台變天倒數」這地先迎降雨 1 小時前 ｜ 生活",
@@ -8832,20 +8832,6 @@
           "time": "2026-09-17 09:40:00",
           "publisher": "Google News→工商時報",
           "severity": null
-        },
-        {
-          "title": "大園交流道旁丟垃圾亂象多 桃園環保局：今年科技執法已罰35件",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdlQ0ZGs1eUs2ZnVQZklyenNxbGRtN1FvRkZkVVczMmhEZW45akUzVnU1SERSNG5DV2s5MWFQcXZuaDI0Y2c1dzlCeDVMcWJTVjFMbkQzbXNxOFNTbExPQnpaaFo0OXNCRXRNaVJ0Q1FmcEJCa1I0TVFfX3o3b1hSN1duTFBiVEE3cnAw?oc=5",
-          "time": "2026-09-17 09:35:32",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "大園交流道旁丟垃圾亂象多 桃園環保局：今年科技執法已罰35件",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14V0VMd3dDOXNIczZMRjJMUDg0MG53c2t6Skx1Y2VZZVF6cmxRZklCd1ZGVFV1VDhSZDRIUzM5QmJ3NWgtTzhQbTdxWk4?oc=5",
-          "time": "2026-09-17 09:35:32",
-          "publisher": "Google News→桃園電子報",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -11249,11 +11235,11 @@
       "city": "台北",
       "place": "台北市信義區",
       "level": "red",
-      "news_count": 306,
+      "news_count": 305,
       "comment_count": 0,
-      "negativity_pct": 6,
+      "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 357,
+      "urgency_score": 353,
       "news_articles": [
         {
           "title": "論沈柏洋陽光台北《看得見的願景，住得到的幸福：給台北市民的城市改造提案》",
@@ -12190,7 +12176,7 @@
           "title": "台北選情有變數？小笠原欣幸曝關鍵「預測結局」 蔣萬安這樣回",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4TDBjd0liUEREU1Eza3U0WUw3eTJmRDFWaWdiaVB0cHR6a2NzcUJPWnJXWGxZbHlxR2UwS3J2a2VZTTBFVDVaRNIBTEFVX3lxTE4wMVdzaU81eEJFdlNnclloenk0Mk5PVEF0ZHV2ZkhwZkVGcUgyMUdrY1ZsQ2FHRjdjdUswLTVlTTFEeHA3OW42djB6LTU?oc=5",
           "time": "2026-09-17 17:43:00",
-          "publisher": "Google News→setn.com",
+          "publisher": "三立新聞網",
           "severity": "yellow"
         },
         {
@@ -13388,13 +13374,6 @@
           "url": "https://tw.news.yahoo.com/%E8%B6%81%E7%81%AB%E6%89%93%E5%8A%AB%E5%B0%8F%E5%81%B7%E7%AB%9F%E6%98%AF%E5%8F%B0%E5%8C%97%E8%AD%A6%E5%93%A1-%E6%B6%89%E5%81%B7%E7%81%AB%E5%A0%B4%E4%BD%8F%E6%88%B66000%E5%85%83%E7%8F%BE%E9%87%91-%E8%AD%A6%E8%AD%BD%E6%8E%83%E5%9C%B01%E5%A4%A7%E9%81%8E%E8%AA%BF%E8%81%B7-094752971.html",
           "time": "2026-09-17 09:47:52",
           "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "預告今下午2點中正紀念堂「無差別攻擊」 北市警初步調查結果曝光",
-          "url": "https://www.mirrormedia.mg/story/20260917edi004",
-          "time": "2026-09-17 09:38:00",
-          "publisher": "鏡週刊",
           "severity": "red"
         }
       ],

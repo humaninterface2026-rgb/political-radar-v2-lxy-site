@@ -100500,7 +100500,7 @@
     },
     {
       "date": "2026-09-18",
-      "snapshot_at": "2026-09-18T01:35:33.380232+00:00",
+      "snapshot_at": "2026-09-18T01:38:23.180704+00:00",
       "hotspots": [
         {
           "title": "盧秀燕訪美外交",
@@ -100540,6 +100540,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "國訓中心火災情境逼真 高市消防出動特搜、RIT強化人命搜救"
+          ]
+        },
+        {
+          "title": "台南陳情/抗議",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "台南人回憶要沒了？27年「復華夜市」11月底熄燈 攤商急陳情"
           ]
         },
         {
@@ -100585,20 +100599,6 @@
           ]
         },
         {
-          "title": "台南陳情/抗議",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台南人回憶要沒了？27年「復華夜市」11月底熄燈 攤商急陳情"
-          ]
-        },
-        {
           "title": "台南空氣污染",
           "city": "台南",
           "place": "台南市政府",
@@ -100610,48 +100610,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "南市建置「火災智慧模擬及自動通報服務平台」 5分鐘掌握空污影響區域"
-          ]
-        },
-        {
-          "title": "基隆詐騙案",
-          "city": "基隆",
-          "place": "基隆市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "基隆警方公布8月詐欺概況 以「網路購物詐騙」居首"
-          ]
-        },
-        {
-          "title": "桃園詐騙案",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "從AI變臉到網路詐騙 桃園推媒體識讀走進校園教學生破解AI假訊息"
-          ]
-        },
-        {
-          "title": "高雄詐騙案",
-          "city": "高雄",
-          "place": "高雄市前鎮區",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "前鎮警翻拍唐伯虎點秋香揭穿最新QR Code詐騙"
           ]
         },
         {
@@ -100694,6 +100652,48 @@
           "urgency_score": 4,
           "sample_titles": [
             "全台社群農產詐騙率竟高達50%，屏東、台南、南投淪重災區，教你識破「假小農」與「一頁式」詐騙手法"
+          ]
+        },
+        {
+          "title": "桃園詐騙案",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "從AI變臉到網路詐騙 桃園推媒體識讀走進校園教學生破解AI假訊息"
+          ]
+        },
+        {
+          "title": "基隆詐騙案",
+          "city": "基隆",
+          "place": "基隆市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "基隆警方公布8月詐欺概況 以「網路購物詐騙」居首"
+          ]
+        },
+        {
+          "title": "高雄詐騙案",
+          "city": "高雄",
+          "place": "高雄市前鎮區",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "前鎮警翻拍唐伯虎點秋香揭穿最新QR Code詐騙"
           ]
         },
         {
@@ -101277,11 +101277,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 158,
+          "news_count": 156,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 161,
+          "urgency_score": 159,
           "sample_titles": [
             "天氣／秋老虎發威？2區熱飆34℃ 「全台變天倒數」這地先迎降雨 受東北季風影響，全台天氣大致穩定；氣象專家林得恩指出，今",
             "桃園就是棒》陳柏寬2分砲率隊火力全開 KEEP棒球學院攻守俱佳拿下連勝",
@@ -101325,11 +101325,11 @@
           "city": "台北",
           "place": "台北市信義區",
           "level": "red",
-          "news_count": 306,
+          "news_count": 305,
           "comment_count": 0,
-          "negativity_pct": 6,
+          "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 357,
+          "urgency_score": 353,
           "sample_titles": [
             "論沈柏洋陽光台北《看得見的願景，住得到的幸福：給台北市民的城市改造提案》",
             "天氣／秋老虎發威？2區熱飆34℃ 「全台變天倒數」這地先迎降雨 受東北季風影響，全台天氣大致穩定；氣象專家林得恩指出，今",
