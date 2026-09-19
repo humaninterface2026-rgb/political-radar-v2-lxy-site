@@ -101314,7 +101314,7 @@
     },
     {
       "date": "2026-09-19",
-      "snapshot_at": "2026-09-19T01:22:54.792580+00:00",
+      "snapshot_at": "2026-09-19T01:30:11.519942+00:00",
       "hotspots": [
         {
           "title": "盧秀燕訪美外交",
@@ -101671,6 +101671,22 @@
           ]
         },
         {
+          "title": "苗栗弊案爭議",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "red",
+          "news_count": 5,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 20,
+          "sample_titles": [
+            "每戶豪砸1萬！苗栗查獲大選首宗現金賄選 頭份女里長候選人深夜收押禁見",
+            "每戶豪砸1萬！苗栗查獲大選首宗現金賄選 頭份女里長候選人深夜收押禁見",
+            "1戶1萬現金買票 苗栗頭份里長參選人收押禁見 | 自由電子報"
+          ]
+        },
+        {
           "title": "台中弊案爭議",
           "city": "台中",
           "place": "台中市政府",
@@ -101684,22 +101700,6 @@
             "盧秀燕愛將顏迺倫遭限制出境！法院駁回抗告：涉犯貪污等罪嫌重大| 社會",
             "盧秀燕愛將顏迺倫遭限制出境！法院駁回抗告：涉犯貪污等罪嫌重大",
             "盧秀燕愛將顏迺倫遭限制出境！法院駁回抗告：涉犯貪污等罪嫌重大"
-          ]
-        },
-        {
-          "title": "苗栗弊案爭議",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "red",
-          "news_count": 7,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 28,
-          "sample_titles": [
-            "每戶豪砸1萬！苗栗查獲大選首宗現金賄選 頭份女里長候選人深夜收押禁見",
-            "每戶豪砸1萬！苗栗查獲大選首宗現金賄選 頭份女里長候選人深夜收押禁見",
-            "1戶1萬現金買票 苗栗頭份里長參選人收押禁見 | 自由電子報"
           ]
         },
         {
@@ -101771,11 +101771,11 @@
           "city": "雲林",
           "place": "雲林縣政府",
           "level": "red",
-          "news_count": 20,
+          "news_count": 19,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 23,
+          "urgency_score": 22,
           "sample_titles": [
             "幕後／賴清德掛帥雲林！助攻劉建國催返鄉票 拚突破張家優勢選區",
             "雲林「虎尾廳」整修 將升級500席展演空間",
@@ -101819,11 +101819,11 @@
           "city": "基隆",
           "place": "基隆市政府",
           "level": "red",
-          "news_count": 32,
+          "news_count": 31,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 38,
+          "urgency_score": 37,
           "sample_titles": [
             "基隆小吃店千元半套！16名小姐輪番上陣 包廂門「夾衛生紙」當暗號",
             "基隆-石垣島航線「宣布停運」！開航僅4個月喊卡 10月起暫停 基隆到石垣島國際定期渡輪「八重山丸」（YAIMAMARU）",
@@ -101883,15 +101883,15 @@
           "city": "台中",
           "place": "台中市清水區",
           "level": "red",
-          "news_count": 37,
+          "news_count": 38,
           "comment_count": 15,
           "negativity_pct": 0,
           "is_urgent": true,
-          "urgency_score": 62,
+          "urgency_score": 63,
           "sample_titles": [
+            "柯志恩找蔣萬安、盧秀燕站台在地里長：不需要「被當者聯盟」下指導棋| 選舉",
             "廖偉翔議員母怒了！議會質問盧秀燕「鞭刑公投被沒收」 網揭發飆真相",
-            "經濟部核定拆除中火2燃煤機組 盧秀燕：收到公文就發燃氣許可「說到做到」",
-            "盧秀燕喊被中央虧待「賣地含淚籌錢」 議員打臉「誰修法誰負責」 | 自由電子報"
+            "經濟部核定拆除中火2燃煤機組 盧秀燕：收到公文就發燃氣許可「說到做到」"
           ]
         },
         {
@@ -101899,11 +101899,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 64,
+          "news_count": 62,
           "comment_count": 0,
-          "negativity_pct": 20,
+          "negativity_pct": 18,
           "is_urgent": false,
-          "urgency_score": 103,
+          "urgency_score": 95,
           "sample_titles": [
             "「筆墨傳情．語韻共響」　115年苗栗縣全國語文競賽複賽 9/19、9/20 新港國中小盛大登場",
             "影／苗栗十方圓通寺護持會捐贈苗栗、恆春兩地醫院 神秘1879車號解密",
@@ -101947,11 +101947,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 87,
+          "news_count": 86,
           "comment_count": 0,
           "negativity_pct": 15,
           "is_urgent": false,
-          "urgency_score": 126,
+          "urgency_score": 125,
           "sample_titles": [
             "天氣／又要變天！明午後「雷雨開炸」北部警戒 杜鵑颱風路徑大迴轉 今天（19日）各地普遍多雲到晴，僅基隆北海岸、東半部、大",
             "影／苗栗十方圓通寺護持會捐贈苗栗、恆春兩地醫院 神秘1879車號解密",
@@ -101963,15 +101963,15 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 117,
+          "news_count": 118,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 135,
+          "urgency_score": 136,
           "sample_titles": [
+            "新北捷運局成立十年推動四環八線建設  攜手六都共創永續新局",
             "新北推寵物除戶線上申辦 完成登記可抽新北幣",
-            "雙北市公車922免費搭 新北捷運3線4天免刷卡",
-            "新北秋遊一路玩到11月 山林海岸文化一次收"
+            "雙北市公車922免費搭 新北捷運3線4天免刷卡"
           ]
         },
         {
@@ -101985,9 +101985,9 @@
           "is_urgent": false,
           "urgency_score": 169,
           "sample_titles": [
+            "【輿情回應】 新加坡遊客交通事故 中市府慰問家屬並全力協助治喪",
             "路易威登再創台中精品新地標 全台首間珠寶腕錶專門店開幕 獨家新作坐鎮打造璀璨萌趣",
-            "何欣純推「六星新屯區」 打造台中版松菸",
-            "台中教師節禮金 國立老師比職員少"
+            "何欣純推「六星新屯區」 打造台中版松菸"
           ]
         },
         {
@@ -101995,11 +101995,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 154,
+          "news_count": 153,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 166,
+          "urgency_score": 165,
           "sample_titles": [
             "國旅補助桃園加碼雙重抽！百萬好禮、千萬現金邀全台住桃園",
             "快訊／國一今晨火燒車 佔用桃園出口槽化區",
@@ -102011,11 +102011,11 @@
           "city": "高雄",
           "place": "高雄市前鎮區",
           "level": "red",
-          "news_count": 218,
+          "news_count": 217,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 254,
+          "urgency_score": 253,
           "sample_titles": [
             "六龜首座公托家園開幕！高市府打造山城12名幼兒安心成長",
             "28年中秋不缺席！高雄港獅子會與仁愛之家長輩年年相約",

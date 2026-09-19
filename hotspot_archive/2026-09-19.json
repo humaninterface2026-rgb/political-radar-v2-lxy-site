@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "snapshot_at": "2026-09-19T01:22:54.792580+00:00",
+  "snapshot_at": "2026-09-19T01:30:11.519942+00:00",
   "hotspots": [
     {
       "title": "盧秀燕訪美外交",
@@ -1534,6 +1534,55 @@
       "comments": []
     },
     {
+      "title": "苗栗弊案爭議",
+      "city": "苗栗",
+      "place": "苗栗縣政府",
+      "level": "red",
+      "news_count": 5,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 20,
+      "news_articles": [
+        {
+          "title": "每戶豪砸1萬！苗栗查獲大選首宗現金賄選 頭份女里長候選人深夜收押禁見",
+          "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOU3JyT1pqdTR1TllFakVCdzJRVnd1ai1FYnU2R0F6UmN1M24wWGRjaHA1cmw0TzRYa2czUkVLNE03cElIbWdUbDBQWlNieklucFV2UVZTMkczc1IyeHBQdU1INjRvTFZ1Wm8yNXUyTU04dC14WkhVUEZHeXNZcjdGX1FVaEFxSXZWbFFLVHk0U1duN3lLUGRzcFhNUXVablRxaWNMOTFKQ0hpUFFsaXNZVjZWZm1lckoyYzhnZVZNZ0Z3N2o0UUwxS3FwbEVnREpfQkVIdDFQSk1XNHFhQmd6SlZnY1pPNU1yd0VFTDZ0emcwNW1EX3ltNWV5T29OYWJDSWFJZ25fb2dtVUEtdGpUdkpKZFFaNXRJQl9OSXFrYWJkcmVFQmpJOXdUSGZfcy1KSUFRY3Nqc0dWV09ETm9FcFdIT2FsRGNDakREV2hvVW5SaGNZaDdXUUdDWm5udUp4dVJaS0RTUHR2cEdnbklwekdtUEVYazN4allENFZTSFI1SDdTaEFiU2wyN0JDNm0tZ3AyZ0ZPQkhTVVE4Q005S1U3T2plMDRRak81NVNTaWJjY2hxVXJNVnNaVVB4WV9HaDFNbEs1Yl9CRDg?oc=5",
+          "time": "2026-09-18 12:16:47",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "每戶豪砸1萬！苗栗查獲大選首宗現金賄選 頭份女里長候選人深夜收押禁見",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81VDV2OGxGWnpVZHhmbS1MWmp1eU8xM19KX19ULUljXzlaWU5YX2xwSnpFcmQtN2IzRUx1WlJUUHVUUDhkcWZZWHY5Y3VQQWRld2dtWUs1ajdrdw?oc=5",
+          "time": "2026-09-18 11:00:00",
+          "publisher": "Google News→鏡新聞",
+          "severity": "red"
+        },
+        {
+          "title": "1戶1萬現金買票 苗栗頭份里長參選人收押禁見 | 自由電子報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XcFdBRlBOQTdjaURPMFdyNUh3VHNsQzJCMXk0UVFPQVk0WFNURkEtdzJkWFBLSFlyRXlYV2dyVlFNRlZyNUVTSGNxYUJCd1dWSHZ1bXpB?oc=5",
+          "time": "2026-09-18 10:23:20",
+          "publisher": "Google News→LINE TODAY",
+          "severity": "red"
+        },
+        {
+          "title": "1戶1萬現金買票 苗栗頭份里長參選人收押禁見",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5577935",
+          "time": "2026-09-18 09:56:47",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "1戶1萬現金買票 苗栗頭份里長參選人收押禁見",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42MWhaRVpoZlRaTl9VV0k4RUk0dUd1Nk9LT3FsZEtjbEIwUElZQWg1elJ3YXBiM21BRFNiZHVtVU44OUhLZVRBdmp1bzZ2Nk9nUHI3S045SnhBVnNmY2tINGo0b2h3VGx1OGfSAW9BVV95cUxQcVBiQ01Xb0pJa3FpUE5fQUZYeUQ1Wnd5N2FvQUFPSWR4WF9XeUZzTWdJZFFCVzAtNWVtTzB6QnRWcTdySXF5Q2JHekE1V1NxcjM3ZDFCS2I2STcxZ2N5NjhPUTJTZ2g5RXhIOEZPS28?oc=5",
+          "time": "2026-09-18 09:56:47",
+          "publisher": "自由時報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "台中弊案爭議",
       "city": "台中",
       "place": "台中市政府",
@@ -1577,69 +1626,6 @@
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04Mm9GSWE5TnpORVRmdFo2X21Jbi1SSF9kOTNHZjV4YV9lalQ4RWNJVmFaQVNtSmtfY2tYZXZtSWVjMXM5X0R6cllqZGhFNUg2b2MySlpWSFZCTWNh?oc=5",
           "time": "2026-09-18 10:10:05",
           "publisher": "Google News→太報 TaiSounds",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "苗栗弊案爭議",
-      "city": "苗栗",
-      "place": "苗栗縣政府",
-      "level": "red",
-      "news_count": 7,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 28,
-      "news_articles": [
-        {
-          "title": "每戶豪砸1萬！苗栗查獲大選首宗現金賄選 頭份女里長候選人深夜收押禁見",
-          "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOU3JyT1pqdTR1TllFakVCdzJRVnd1ai1FYnU2R0F6UmN1M24wWGRjaHA1cmw0TzRYa2czUkVLNE03cElIbWdUbDBQWlNieklucFV2UVZTMkczc1IyeHBQdU1INjRvTFZ1Wm8yNXUyTU04dC14WkhVUEZHeXNZcjdGX1FVaEFxSXZWbFFLVHk0U1duN3lLUGRzcFhNUXVablRxaWNMOTFKQ0hpUFFsaXNZVjZWZm1lckoyYzhnZVZNZ0Z3N2o0UUwxS3FwbEVnREpfQkVIdDFQSk1XNHFhQmd6SlZnY1pPNU1yd0VFTDZ0emcwNW1EX3ltNWV5T29OYWJDSWFJZ25fb2dtVUEtdGpUdkpKZFFaNXRJQl9OSXFrYWJkcmVFQmpJOXdUSGZfcy1KSUFRY3Nqc0dWV09ETm9FcFdIT2FsRGNDakREV2hvVW5SaGNZaDdXUUdDWm5udUp4dVJaS0RTUHR2cEdnbklwekdtUEVYazN4allENFZTSFI1SDdTaEFiU2wyN0JDNm0tZ3AyZ0ZPQkhTVVE4Q005S1U3T2plMDRRak81NVNTaWJjY2hxVXJNVnNaVVB4WV9HaDFNbEs1Yl9CRDg?oc=5",
-          "time": "2026-09-18 12:16:47",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "每戶豪砸1萬！苗栗查獲大選首宗現金賄選 頭份女里長候選人深夜收押禁見",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81VDV2OGxGWnpVZHhmbS1MWmp1eU8xM19KX19ULUljXzlaWU5YX2xwSnpFcmQtN2IzRUx1WlJUUHVUUDhkcWZZWHY5Y3VQQWRld2dtWUs1ajdrdw?oc=5",
-          "time": "2026-09-18 11:00:00",
-          "publisher": "Google News→鏡新聞",
-          "severity": "red"
-        },
-        {
-          "title": "1戶1萬現金買票 苗栗頭份里長參選人收押禁見 | 自由電子報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XcFdBRlBOQTdjaURPMFdyNUh3VHNsQzJCMXk0UVFPQVk0WFNURkEtdzJkWFBLSFlyRXlYV2dyVlFNRlZyNUVTSGNxYUJCd1dWSHZ1bXpB?oc=5",
-          "time": "2026-09-18 10:23:20",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "red"
-        },
-        {
-          "title": "1戶1萬現金買票 苗栗頭份里長參選人收押禁見",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5577935",
-          "time": "2026-09-18 09:56:47",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "1戶1萬現金買票 苗栗頭份里長參選人收押禁見",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42MWhaRVpoZlRaTl9VV0k4RUk0dUd1Nk9LT3FsZEtjbEIwUElZQWg1elJ3YXBiM21BRFNiZHVtVU44OUhLZVRBdmp1bzZ2Nk9nUHI3S045SnhBVnNmY2tINGo0b2h3VGx1OGfSAW9BVV95cUxQcVBiQ01Xb0pJa3FpUE5fQUZYeUQ1Wnd5N2FvQUFPSWR4WF9XeUZzTWdJZFFCVzAtNWVtTzB6QnRWcTdySXF5Q2JHekE1V1NxcjM3ZDFCS2I2STcxZ2N5NjhPUTJTZ2g5RXhIOEZPS28?oc=5",
-          "time": "2026-09-18 09:56:47",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "請朋友喝毒咖啡包又賣「K」 苗栗男遭判刑",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5577886",
-          "time": "2026-09-18 09:29:37",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "請朋友喝毒咖啡包又賣「K」 苗栗男遭判刑",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3dnpHMGM4RDVMakN3SFBSVE5mX0U5WURQVUcwZTFhMnNMR0lEWWdIai1kNWR0bW4wUnZkY3k4NmdJQkhWN1dpTjJZV00wQXNWdmU5a3VmNVN2ODBLM2Ffczg3b1I0aHdI0gFuQVVfeXFMTWlXNUxlWjNnNHJOSWtOV0JkY25rVXBvOWk3QW1qa2J2U3RKOGwyVG1qVnplNnN6ZE9xR0RUUWlkXzVndFFVRU15TlI1clB0MmFpV1VGbFdSalgyRVpJVGllM1FPWnhwQXZXalRJZFE?oc=5",
-          "time": "2026-09-18 09:29:37",
-          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -2028,11 +2014,11 @@
       "city": "雲林",
       "place": "雲林縣政府",
       "level": "red",
-      "news_count": 20,
+      "news_count": 19,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 23,
+      "urgency_score": 22,
       "news_articles": [
         {
           "title": "幕後／賴清德掛帥雲林！助攻劉建國催返鄉票 拚突破張家優勢選區",
@@ -2165,13 +2151,6 @@
           "url": "https://news.nextapple.com/politics/20260918/CD871319C1842872FE29FA93A23EB9A6",
           "time": "2026-09-18 09:50:30",
           "publisher": "壹蘋新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "雲林文旦柚突列中國海關名單 嘉東農場喊「完全不知情」",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5577883",
-          "time": "2026-09-18 09:24:03",
-          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -2553,11 +2532,11 @@
       "city": "基隆",
       "place": "基隆市政府",
       "level": "red",
-      "news_count": 32,
+      "news_count": 31,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 38,
+      "urgency_score": 37,
       "news_articles": [
         {
           "title": "基隆小吃店千元半套！16名小姐輪番上陣 包廂門「夾衛生紙」當暗號",
@@ -2774,13 +2753,6 @@
           "url": "https://news.ltn.com.tw/news/society/breakingnews/5577917",
           "time": "2026-09-18 09:46:54",
           "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "快訊／基隆廟口「拾年碳烤三明治」竄火 民眾受困5樓待救",
-          "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%9F%BA%E9%9A%86%E5%BB%9F%E5%8F%A3%E5%A4%9C%E5%B8%82%E6%97%A9%E9%A4%90%E5%BA%97%E7%AB%84%E7%81%AB-%E6%B0%91%E7%9C%BE%E5%8F%97%E5%9B%B05%E6%A8%93%E5%BE%85%E6%95%91-012800936.html",
-          "time": "2026-09-18 09:28:00",
-          "publisher": "Yahoo新聞",
           "severity": "red"
         }
       ],
@@ -3792,12 +3764,19 @@
       "city": "台中",
       "place": "台中市清水區",
       "level": "red",
-      "news_count": 37,
+      "news_count": 38,
       "comment_count": 15,
       "negativity_pct": 0,
       "is_urgent": true,
-      "urgency_score": 62,
+      "urgency_score": 63,
       "news_articles": [
+        {
+          "title": "柯志恩找蔣萬安、盧秀燕站台在地里長：不需要「被當者聯盟」下指導棋| 選舉",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRHBxMkxKUVc0T3BadHE3LTNqenBIMEhiTktVRkI2VnVkeWtZbG54alZJckhFUUEwRE81Q2hsZmM5S3VhaGx2T1dBQmw0aFVXZzFHRUZoVmZNa2c?oc=5",
+          "time": "2026-09-19 09:14:45",
+          "publisher": "Google News→Newtalk新聞",
+          "severity": "yellow"
+        },
         {
           "title": "廖偉翔議員母怒了！議會質問盧秀燕「鞭刑公投被沒收」 網揭發飆真相",
           "url": "https://www.setn.com/news/1909436",
@@ -4186,11 +4165,11 @@
       "city": "苗栗",
       "place": "苗栗縣政府",
       "level": "red",
-      "news_count": 64,
+      "news_count": 62,
       "comment_count": 0,
-      "negativity_pct": 20,
+      "negativity_pct": 18,
       "is_urgent": false,
-      "urgency_score": 103,
+      "urgency_score": 95,
       "news_articles": [
         {
           "title": "「筆墨傳情．語韻共響」　115年苗栗縣全國語文競賽複賽 9/19、9/20 新港國中小盛大登場",
@@ -4623,20 +4602,6 @@
           "title": "1戶1萬現金買票 苗栗頭份里長參選人收押禁見",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42MWhaRVpoZlRaTl9VV0k4RUk0dUd1Nk9LT3FsZEtjbEIwUElZQWg1elJ3YXBiM21BRFNiZHVtVU44OUhLZVRBdmp1bzZ2Nk9nUHI3S045SnhBVnNmY2tINGo0b2h3VGx1OGfSAW9BVV95cUxQcVBiQ01Xb0pJa3FpUE5fQUZYeUQ1Wnd5N2FvQUFPSWR4WF9XeUZzTWdJZFFCVzAtNWVtTzB6QnRWcTdySXF5Q2JHekE1V1NxcjM3ZDFCS2I2STcxZ2N5NjhPUTJTZ2g5RXhIOEZPS28?oc=5",
           "time": "2026-09-18 09:56:47",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "請朋友喝毒咖啡包又賣「K」 苗栗男遭判刑",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5577886",
-          "time": "2026-09-18 09:29:37",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "請朋友喝毒咖啡包又賣「K」 苗栗男遭判刑",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3dnpHMGM4RDVMakN3SFBSVE5mX0U5WURQVUcwZTFhMnNMR0lEWWdIai1kNWR0bW4wUnZkY3k4NmdJQkhWN1dpTjJZV00wQXNWdmU5a3VmNVN2ODBLM2Ffczg3b1I0aHdI0gFuQVVfeXFMTWlXNUxlWjNnNHJOSWtOV0JkY25rVXBvOWk3QW1qa2J2U3RKOGwyVG1qVnplNnN6ZE9xR0RUUWlkXzVndFFVRU15TlI1clB0MmFpV1VGbFdSalgyRVpJVGllM1FPWnhwQXZXalRJZFE?oc=5",
-          "time": "2026-09-18 09:29:37",
           "publisher": "自由時報",
           "severity": "red"
         }
@@ -5796,11 +5761,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "red",
-      "news_count": 87,
+      "news_count": 86,
       "comment_count": 0,
       "negativity_pct": 15,
       "is_urgent": false,
-      "urgency_score": 126,
+      "urgency_score": 125,
       "news_articles": [
         {
           "title": "天氣／又要變天！明午後「雷雨開炸」北部警戒 杜鵑颱風路徑大迴轉 今天（19日）各地普遍多雲到晴，僅基隆北海岸、東半部、大台北山區及恆春半島偶有零星降雨，高溫上看36度。氣象專家吳德榮提醒，週末慎防午後雷陣雨，降雨範圍稍增加。 59 分鐘前 ｜ 生活 天氣／又要變天！明午後「雷雨開炸」北部警戒 杜鵑颱風路徑大迴轉 59 分鐘前 ｜ 生活",
@@ -6403,13 +6368,6 @@
           "time": "2026-09-18 09:48:37",
           "publisher": "聯合新聞網",
           "severity": null
-        },
-        {
-          "title": "台鐵貨物列車出軌！ 屏東到西勢單線通行誤點 | 華視新聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Edzc1aV80dklielRnbjdYRlFWRDAwNFpEVGFsblZXQ1BuTmh6X0lVMXkzV01CNFllUEF6cFc2TVhoMmMyVTJiTTdwS19nVmdCbHc1bFZR?oc=5",
-          "time": "2026-09-18 09:27:10",
-          "publisher": "Google News→LINE TODAY",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -6419,12 +6377,19 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 117,
+      "news_count": 118,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 135,
+      "urgency_score": 136,
       "news_articles": [
+        {
+          "title": "新北捷運局成立十年推動四環八線建設  攜手六都共創永續新局",
+          "url": "https://n.yam.com/Article/20260919190461",
+          "time": "2026-09-19 09:26:34",
+          "publisher": "蕃新聞→新頭條",
+          "severity": null
+        },
         {
           "title": "新北推寵物除戶線上申辦 完成登記可抽新北幣",
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5578901",
@@ -7258,6 +7223,13 @@
       "is_urgent": false,
       "urgency_score": 169,
       "news_articles": [
+        {
+          "title": "【輿情回應】 新加坡遊客交通事故 中市府慰問家屬並全力協助治喪",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BZS01YkktNndWcUtoM2JNRU92TXFPTWhqX05VWjV3TG81eDlPMGRkdzd4MEU3T3AxTXV5Zk5SM1dvWVVTUVZfUmZsZEJMcW9qOXdubU5nTWZJSDY3WUxsblc1WW9FZw?oc=5",
+          "time": "2026-09-19 09:11:00",
+          "publisher": "Google News→新華報導",
+          "severity": "yellow"
+        },
         {
           "title": "路易威登再創台中精品新地標 全台首間珠寶腕錶專門店開幕 獨家新作坐鎮打造璀璨萌趣",
           "url": "https://istyle.ltn.com.tw/article/41102",
@@ -8307,13 +8279,6 @@
           "time": "2026-09-18 09:33:46",
           "publisher": null,
           "severity": null
-        },
-        {
-          "title": "新加坡遊客走台中行人穿越道遭大客車撞 搶救仍不治",
-          "url": "https://www.cna.com.tw/news/asoc/202609180035.aspx",
-          "time": "2026-09-18 09:27:29",
-          "publisher": "中央社",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -8323,11 +8288,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 154,
+      "news_count": 153,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 166,
+      "urgency_score": 165,
       "news_articles": [
         {
           "title": "國旅補助桃園加碼雙重抽！百萬好禮、千萬現金邀全台住桃園",
@@ -9399,13 +9364,6 @@
           "time": "2026-09-18 09:33:34",
           "publisher": "Google News→PChome Online 新聞",
           "severity": null
-        },
-        {
-          "title": "【廣編】2026台灣設計展來桃園體驗屬「智慧城市」",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vdDM0UDFpQTNUVTBtYVJlNERMdXdzbUlOX1hVUGswcXpxNVFnQUMzV0lybmVrY1RkY25lcXBpdWZBRW5ROTRVa2FyZEJYd3FYbnp3Y1FvYWZmNGNCbWfSAUtBVV95cUxQMFZFM0tHMkUybzE2alhNMG1Rdlo5a3dRakFWMW84UnpHRkotTGszV1h0dXk5cTU0cGtORzJiTHZ6MzMydHlRZm5OSlE?oc=5",
-          "time": "2026-09-18 09:24:00",
-          "publisher": "ETtoday",
-          "severity": null
         }
       ],
       "comments": []
@@ -9415,11 +9373,11 @@
       "city": "高雄",
       "place": "高雄市前鎮區",
       "level": "red",
-      "news_count": 218,
+      "news_count": 217,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 254,
+      "urgency_score": 253,
       "news_articles": [
         {
           "title": "六龜首座公托家園開幕！高市府打造山城12名幼兒安心成長",
@@ -9915,7 +9873,7 @@
           "title": "洋流反攻北市查水表？ 行文攤商迫「行政中立」3／藍綠同天北高連線！ 陳其邁酸蔣萬安「來高雄多走走」",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13WFlyRUd1RFVscmNTcmh6ajRaT01iVmRDXzY5LVhnSGNXTFRTZWNVTzduZThFTnlhbnF3T3BZRGpEOXc1V1VDTFcza0hxNVBBZ1BFT2hrb2zSAV5BVV95cUxNRDVPMmZfNjNvNUx4RWNhQVB3SVRWUmtYV2xpR0VRZUhhVzUxUldtYWFtZjJUUHBxbTBxUXRtQm9ScTJVWnJfS205R3RzMEt4ampRb19IMzlveVUyWUN3?oc=5",
           "time": "2026-09-18 18:39:00",
-          "publisher": "Google News→鏡新聞",
+          "publisher": "Google News→mnews.tw",
           "severity": "yellow"
         },
         {
@@ -10069,7 +10027,7 @@
           "title": "2千萬元打造AI教育Token Bank 高雄整合OpenAI、Claude、Gemini 陳其邁：AI教育要走在最前面| 徐炳文 | 地方新聞",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IM1g4UW9fbDdMenhPWkxpQnR2RWl2RlhtbE9iTEhOUGVXLUFSMmkwMzNMM0xJTUxTaGlRbnJRYzlWMlZIYUJLbHJKQWlDdw?oc=5",
           "time": "2026-09-18 14:52:12",
-          "publisher": "Google News→storm.mg",
+          "publisher": "Google News→風傳媒",
           "severity": null
         },
         {
@@ -10370,7 +10328,7 @@
           "title": "高雄選情緊繃？傳賴瑞隆、柯志恩五五波激戰 陳其邁示警這1事",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NX3RhM0trZEtHWWduZUFlWW16MWotNWtOMFpMcnBrNTZFU1VkV3ZZMXlsMkNZWnJRenJoaVF6ZGZDY3hUTEdoWndWa0tJZjRLbmlCelJLS2Vhd0lRRlFIcw?oc=5",
           "time": "2026-09-18 12:58:33",
-          "publisher": "Google News→民視新聞網",
+          "publisher": "Google News→ftvnews.com.tw",
           "severity": "yellow"
         },
         {
@@ -10939,13 +10897,6 @@
           "time": "2026-09-18 09:35:00",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        },
-        {
-          "title": "高雄左營南門圓環9/23起施工 封閉內圓環、保留外圓環通行",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5577898",
-          "time": "2026-09-18 09:29:47",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []
@@ -11609,7 +11560,7 @@
           "title": "洋流反攻北市查水表？ 行文攤商迫「行政中立」3／藍綠同天北高連線！ 陳其邁酸蔣萬安「來高雄多走走」",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13WFlyRUd1RFVscmNTcmh6ajRaT01iVmRDXzY5LVhnSGNXTFRTZWNVTzduZThFTnlhbnF3T3BZRGpEOXc1V1VDTFcza0hxNVBBZ1BFT2hrb2zSAV5BVV95cUxNRDVPMmZfNjNvNUx4RWNhQVB3SVRWUmtYV2xpR0VRZUhhVzUxUldtYWFtZjJUUHBxbTBxUXRtQm9ScTJVWnJfS205R3RzMEt4ampRb19IMzlveVUyWUN3?oc=5",
           "time": "2026-09-18 18:39:00",
-          "publisher": "Google News→鏡新聞",
+          "publisher": "Google News→mnews.tw",
           "severity": "yellow"
         },
         {
@@ -12785,7 +12736,7 @@
           "title": "蔣萬安連任有懸念？小笠原欣幸北市選戰預測曝光林濁水拋一時間點：看法要變了| 李瑋萱 | 新聞",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBac0xaMlhSN0d4bElPVUdpd2FMdXBDTjEzS183TnBYOE13dk1wUTI1anYtLVktYjVrVVR6WHlQcWV2N2RWYmFXUGFWOWZ2dw?oc=5",
           "time": "2026-09-18 10:30:12",
-          "publisher": "Google News→storm.mg",
+          "publisher": "Google News→風傳媒",
           "severity": "yellow"
         },
         {
