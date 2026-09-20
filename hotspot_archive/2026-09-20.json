@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "snapshot_at": "2026-09-20T10:35:27.788193+00:00",
+  "snapshot_at": "2026-09-20T10:37:55.281743+00:00",
   "hotspots": [
     {
       "title": "盧秀燕訪美外交",
@@ -88,27 +88,6 @@
       "comments": []
     },
     {
-      "title": "澎湖詐騙案",
-      "city": "澎湖",
-      "place": "澎湖縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "西嶼警深入社區宣導 反賄選、防詐騙守護鄉親權益",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FSjdpaVlndXpQbUptWE5hbW9MdHhwZ1NGUEp5QW5pN3J4anZMeUc3MDRhc2h6RVRSUHRkTml6dGd6WTBRTFFKYTZpSGFHRGQ4SDlBQzN6eWJFOHgybjhmMENWVjZ4SndaY1ZZ?oc=5",
-          "time": "2026-09-20 14:29:13",
-          "publisher": "Google News→澎湖日報",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "桃園詐騙案",
       "city": "桃園",
       "place": "桃園市政府",
@@ -125,6 +104,27 @@
           "time": "2026-09-20 12:34:24",
           "publisher": "Google News→民視新聞網",
           "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "澎湖詐騙案",
+      "city": "澎湖",
+      "place": "澎湖縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "西嶼警深入社區宣導 反賄選、防詐騙守護鄉親權益",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FSjdpaVlndXpQbUptWE5hbW9MdHhwZ1NGUEp5QW5pN3J4anZMeUc3MDRhc2h6RVRSUHRkTml6dGd6WTBRTFFKYTZpSGFHRGQ4SDlBQzN6eWJFOHgybjhmMENWVjZ4SndaY1ZZ?oc=5",
+          "time": "2026-09-20 14:29:13",
+          "publisher": "Google News→澎湖日報",
+          "severity": null
         }
       ],
       "comments": []
@@ -1006,11 +1006,11 @@
       "city": "基隆",
       "place": "基隆市政府",
       "level": "yellow",
-      "news_count": 26,
+      "news_count": 25,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 26,
+      "urgency_score": 25,
       "news_articles": [
         {
           "title": "基隆市長謝國樑競選連任，今到七堵南興市場拜票時說，已勾選以「辯論方式」辦理公辦政見會，「這是基隆的第一次，非常期待。」挑戰他的基隆市議長童子瑋回應，辯論一直都在進行，但謝國樑一直沒有回答市民在意的問題。",
@@ -1185,13 +1185,6 @@
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5579534",
           "time": "2026-09-19 18:52:38",
           "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "地域振興大賞 34組團隊齊聚基隆",
-          "url": "https://taiwanreports.com/archives/1014172",
-          "time": "2026-09-19 18:37:19",
-          "publisher": "臺灣導報",
           "severity": null
         }
       ],
@@ -4655,11 +4648,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 111,
+      "news_count": 109,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 126,
+      "urgency_score": 124,
       "news_articles": [
         {
           "title": "杜鵑颱風攪局！台灣虎航明飛日本「2班機提前」旅客快看 受到杜鵑颱風影響，台灣虎航今（20）日下午4時50分公告，基於飛行安全考量，明（21）日2班由台灣桃園、高雄往返與東京成田的航班將提前，提醒搭乘的旅客留意航班異動。 7 分鐘前 ｜ 生活 杜鵑颱風攪局！台灣虎航明飛日本「2班機提前」旅客快看 7 分鐘前 ｜ 生活",
@@ -5421,20 +5414,6 @@
           "title": "桃園區健走 近4千人漫步虎頭山",
           "url": "https://taiwanreports.com/archives/1014177",
           "time": "2026-09-19 18:41:27",
-          "publisher": "臺灣導報",
-          "severity": null
-        },
-        {
-          "title": "桃園經發局提醒 公司債私募人數總計不得超過35人",
-          "url": "https://taiwanreports.com/archives/1014170",
-          "time": "2026-09-19 18:36:30",
-          "publisher": "臺灣導報",
-          "severity": null
-        },
-        {
-          "title": "15分鐘城市論壇 桃園重塑百年格局",
-          "url": "https://taiwanreports.com/archives/1014168",
-          "time": "2026-09-19 18:36:02",
           "publisher": "臺灣導報",
           "severity": null
         }
