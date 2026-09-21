@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "snapshot_at": "2026-09-21T01:46:02.241643+00:00",
+  "snapshot_at": "2026-09-21T01:46:17.433433+00:00",
   "hotspots": [
     {
       "title": "盧秀燕訪美外交",
@@ -23,27 +23,6 @@
           "signal": "yellow"
         }
       ]
-    },
-    {
-      "title": "桃園詐騙案",
-      "city": "桃園",
-      "place": "桃園市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "二次詐騙! 桃園女子心碎大哭\"真心換絕情\"財損上百萬－民視新聞- 民視新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sQjNadHBkdEV0NGN0bEMybWw0VC1UbS1lVlZfUmZMalZaYjc3M2MtMkZRMzRYY2x0UFBGaVFaeUNhUXpYMU1mQUR3YW82OFJGbjFkOGdEMDFTQURnRjJtWFpTeWVPbUU?oc=5",
-          "time": "2026-09-20 12:34:24",
-          "publisher": "Google News→民視新聞網",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
     },
     {
       "title": "澎湖詐騙案",
@@ -82,6 +61,27 @@
           "url": "https://news.ltn.com.tw/news/society/breakingnews/5580711",
           "time": "2026-09-21 08:32:38",
           "publisher": "自由時報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "桃園詐騙案",
+      "city": "桃園",
+      "place": "桃園市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "二次詐騙! 桃園女子心碎大哭\"真心換絕情\"財損上百萬－民視新聞- 民視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sQjNadHBkdEV0NGN0bEMybWw0VC1UbS1lVlZfUmZMalZaYjc3M2MtMkZRMzRYY2x0UFBGaVFaeUNhUXpYMU1mQUR3YW82OFJGbjFkOGdEMDFTQURnRjJtWFpTeWVPbUU?oc=5",
+          "time": "2026-09-20 12:34:24",
+          "publisher": "Google News→民視新聞網",
           "severity": "yellow"
         }
       ],

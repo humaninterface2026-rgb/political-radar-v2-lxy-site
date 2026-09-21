@@ -102546,7 +102546,7 @@
     },
     {
       "date": "2026-09-21",
-      "snapshot_at": "2026-09-21T01:46:02.241643+00:00",
+      "snapshot_at": "2026-09-21T01:46:17.433433+00:00",
       "hotspots": [
         {
           "title": "盧秀燕訪美外交",
@@ -102559,20 +102559,6 @@
           "is_urgent": false,
           "urgency_score": 1,
           "sample_titles": []
-        },
-        {
-          "title": "桃園詐騙案",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "二次詐騙! 桃園女子心碎大哭\"真心換絕情\"財損上百萬－民視新聞- 民視新聞網"
-          ]
         },
         {
           "title": "澎湖詐騙案",
@@ -102600,6 +102586,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "高雄婦誤信假檢警險失11萬 警方即時攔阻詐騙"
+          ]
+        },
+        {
+          "title": "桃園詐騙案",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "二次詐騙! 桃園女子心碎大哭\"真心換絕情\"財損上百萬－民視新聞- 民視新聞網"
           ]
         },
         {
