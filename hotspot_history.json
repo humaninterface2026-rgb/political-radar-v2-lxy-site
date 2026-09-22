@@ -103315,7 +103315,7 @@
     },
     {
       "date": "2026-09-22",
-      "snapshot_at": "2026-09-22T10:26:28.273075+00:00",
+      "snapshot_at": "2026-09-22T10:27:16.712685+00:00",
       "hotspots": [
         {
           "title": "盧秀燕訪美外交",
@@ -103443,6 +103443,22 @@
           ]
         },
         {
+          "title": "嘉義縣地方動態",
+          "city": "嘉義縣",
+          "place": "嘉義縣政府",
+          "level": "green",
+          "news_count": 4,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "嘉義縣民眾衰弱研究登上國際期刊 (圖)",
+            "嘉義縣推親子旅遊護照 70家據點串聯假日體驗",
+            "2026嘉義縣「東石蚵．營業中」！ 消費滿額送蚵寶盲盒 打卡集章解鎖優惠"
+          ]
+        },
+        {
           "title": "廚餘山",
           "city": "台中",
           "place": "台中市大里區",
@@ -103466,22 +103482,6 @@
           "urgency_score": 5,
           "sample_titles": [
             "民進黨台中市議員何文海批重大建設盤點進度落後 下任市長待處理 中市府：捷運藍線地下段細設進入期末 各項工程依規推進"
-          ]
-        },
-        {
-          "title": "嘉義縣地方動態",
-          "city": "嘉義縣",
-          "place": "嘉義縣政府",
-          "level": "green",
-          "news_count": 5,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 5,
-          "sample_titles": [
-            "嘉義縣民眾衰弱研究登上國際期刊 (圖)",
-            "嘉義縣推親子旅遊護照 70家據點串聯假日體驗",
-            "2026嘉義縣「東石蚵．營業中」！ 消費滿額送蚵寶盲盒 打卡集章解鎖優惠"
           ]
         },
         {
@@ -103929,11 +103929,11 @@
           "city": "台中",
           "place": "台中市豐原區",
           "level": "red",
-          "news_count": 80,
+          "news_count": 79,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 101,
+          "urgency_score": 100,
           "sample_titles": [
             "中市交通局加值17條公車路線服務 發揮公共運輸資源效益 | 王秀禾 | 地方新聞",
             "聚焦AI、減碳與無人載具！ 中市府SBIR再助35企業力拼轉型",
