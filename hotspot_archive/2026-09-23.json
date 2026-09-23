@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "snapshot_at": "2026-09-23T10:31:57.232680+00:00",
+  "snapshot_at": "2026-09-23T10:32:14.659324+00:00",
   "hotspots": [
     {
       "title": "台北鼠患事件",
@@ -765,27 +765,6 @@
       "comments": []
     },
     {
-      "title": "桃園弊案爭議",
-      "city": "桃園",
-      "place": "桃園市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "黑幫勾結越南車手跨國洗錢 主嫌遭桃園地檢起訴",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00RVZHOURaTFVEd1RnMGNOckdXdGlybWVuRElXYTdwLUU3bGp4U1hpbGgzSEVGSE4xZERvcUxZNG4zRE9LSDhVTHlIZEw?oc=5",
-          "time": "2026-09-23 14:49:35",
-          "publisher": "Google News→桃園電子報",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "嘉義市弊案爭議",
       "city": "嘉義市",
       "place": "嘉義市政府",
@@ -801,6 +780,27 @@
           "url": "https://news.ltn.com.tw/news/society/breakingnews/5583280",
           "time": "2026-09-23 10:45:39",
           "publisher": "自由時報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新竹縣弊案爭議",
+      "city": "新竹縣",
+      "place": "新竹縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "新竹縣府工務處約聘人員包庇建商、土資場 收賄逾千萬遭起訴",
+          "url": "https://news.nextapple.com/local/20260923/08FFC5CFB8FFEC3D9ACF9F16203C670A",
+          "time": "2026-09-23 11:48:57",
+          "publisher": "壹蘋新聞網",
           "severity": "red"
         }
       ],
@@ -828,9 +828,9 @@
       "comments": []
     },
     {
-      "title": "新竹縣弊案爭議",
-      "city": "新竹縣",
-      "place": "新竹縣政府",
+      "title": "桃園弊案爭議",
+      "city": "桃園",
+      "place": "桃園市政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -839,10 +839,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "新竹縣府工務處約聘人員包庇建商、土資場 收賄逾千萬遭起訴",
-          "url": "https://news.nextapple.com/local/20260923/08FFC5CFB8FFEC3D9ACF9F16203C670A",
-          "time": "2026-09-23 11:48:57",
-          "publisher": "壹蘋新聞網",
+          "title": "黑幫勾結越南車手跨國洗錢 主嫌遭桃園地檢起訴",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00RVZHOURaTFVEd1RnMGNOckdXdGlybWVuRElXYTdwLUU3bGp4U1hpbGgzSEVGSE4xZERvcUxZNG4zRE9LSDhVTHlIZEw?oc=5",
+          "time": "2026-09-23 14:49:35",
+          "publisher": "Google News→桃園電子報",
           "severity": "red"
         }
       ],
@@ -1297,34 +1297,6 @@
       "comments": []
     },
     {
-      "title": "新北狼師事件",
-      "city": "新北",
-      "place": "新北市政府",
-      "level": "red",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "不滿女友提分手竟闖住處性侵！新北男判1年8月、賠百萬元",
-          "url": "https://tw.news.yahoo.com/%E4%B8%8D%E6%BB%BF%E5%A5%B3%E5%8F%8B%E6%8F%90%E5%88%86%E6%89%8B%E7%AB%9F%E9%97%96%E4%BD%8F%E8%99%95%E6%80%A7%E4%BE%B5-%E6%96%B0%E5%8C%97%E7%94%B7%E5%88%A41%E5%B9%B48%E6%9C%88-%E8%B3%A0%E7%99%BE%E8%90%AC%E5%85%83-145400020.html",
-          "time": "2026-09-22 22:54:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "不滿女友提分手竟闖住處性侵！新北男判1年8月、賠百萬元",
-          "url": "https://news.ebc.net.tw/news/society/572484",
-          "time": "2026-09-22 22:54:00",
-          "publisher": "東森新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台南狼師事件",
       "city": "台南",
       "place": "台南市政府",
@@ -1353,9 +1325,9 @@
       "comments": []
     },
     {
-      "title": "高雄弊案爭議",
-      "city": "高雄",
-      "place": "高雄市政府",
+      "title": "新北狼師事件",
+      "city": "新北",
+      "place": "新北市政府",
       "level": "red",
       "news_count": 2,
       "comment_count": 0,
@@ -1364,17 +1336,17 @@
       "urgency_score": 8,
       "news_articles": [
         {
-          "title": "插隊火化每具收2千賺爆！高雄二殯爆收賄弊案 2技工涉貪遭羈押禁見",
-          "url": "https://tw.news.yahoo.com/%E6%8F%92%E9%9A%8A%E7%81%AB%E5%8C%96%E6%AF%8F%E5%85%B7%E6%94%B62%E5%8D%83%E8%B3%BA%E7%88%86-%E9%AB%98%E9%9B%84%E4%BA%8C%E6%AE%AF%E7%88%86%E6%94%B6%E8%B3%84%E5%BC%8A%E6%A1%88-2%E6%8A%80%E5%B7%A5%E6%B6%89%E8%B2%AA%E9%81%AD%E7%BE%88%E6%8A%BC%E7%A6%81%E8%A6%8B-024600901.html",
-          "time": "2026-09-23 10:46:00",
+          "title": "不滿女友提分手竟闖住處性侵！新北男判1年8月、賠百萬元",
+          "url": "https://tw.news.yahoo.com/%E4%B8%8D%E6%BB%BF%E5%A5%B3%E5%8F%8B%E6%8F%90%E5%88%86%E6%89%8B%E7%AB%9F%E9%97%96%E4%BD%8F%E8%99%95%E6%80%A7%E4%BE%B5-%E6%96%B0%E5%8C%97%E7%94%B7%E5%88%A41%E5%B9%B48%E6%9C%88-%E8%B3%A0%E7%99%BE%E8%90%AC%E5%85%83-145400020.html",
+          "time": "2026-09-22 22:54:00",
           "publisher": "Yahoo新聞",
           "severity": "red"
         },
         {
-          "title": "高雄螺絲廠延長線短路引爆火海 負責人「1疏忽」遭判刑",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5583086",
-          "time": "2026-09-23 09:02:01",
-          "publisher": "自由時報",
+          "title": "不滿女友提分手竟闖住處性侵！新北男判1年8月、賠百萬元",
+          "url": "https://news.ebc.net.tw/news/society/572484",
+          "time": "2026-09-22 22:54:00",
+          "publisher": "東森新聞",
           "severity": "red"
         }
       ],
@@ -1403,6 +1375,34 @@
           "url": "https://news.tvbs.com.tw/local/4026062",
           "time": "2026-09-22 19:23:18",
           "publisher": "TVBS",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄弊案爭議",
+      "city": "高雄",
+      "place": "高雄市政府",
+      "level": "red",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "插隊火化每具收2千賺爆！高雄二殯爆收賄弊案 2技工涉貪遭羈押禁見",
+          "url": "https://tw.news.yahoo.com/%E6%8F%92%E9%9A%8A%E7%81%AB%E5%8C%96%E6%AF%8F%E5%85%B7%E6%94%B62%E5%8D%83%E8%B3%BA%E7%88%86-%E9%AB%98%E9%9B%84%E4%BA%8C%E6%AE%AF%E7%88%86%E6%94%B6%E8%B3%84%E5%BC%8A%E6%A1%88-2%E6%8A%80%E5%B7%A5%E6%B6%89%E8%B2%AA%E9%81%AD%E7%BE%88%E6%8A%BC%E7%A6%81%E8%A6%8B-024600901.html",
+          "time": "2026-09-23 10:46:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "高雄螺絲廠延長線短路引爆火海 負責人「1疏忽」遭判刑",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5583086",
+          "time": "2026-09-23 09:02:01",
+          "publisher": "自由時報",
           "severity": "red"
         }
       ],
