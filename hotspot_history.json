@@ -104984,7 +104984,7 @@
     },
     {
       "date": "2026-09-24",
-      "snapshot_at": "2026-09-24T10:26:38.134433+00:00",
+      "snapshot_at": "2026-09-24T10:29:29.903895+00:00",
       "hotspots": [
         {
           "title": "基隆鼠患事件",
@@ -105057,6 +105057,20 @@
           ]
         },
         {
+          "title": "連江火災事件",
+          "city": "連江",
+          "place": "連江縣（馬祖）",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "馬祖消防升級「智慧大腦」！AI＋GPS＋火災預警 打造四鄉五島防災新防線"
+          ]
+        },
+        {
           "title": "嘉義縣火災事件",
           "city": "嘉義縣",
           "place": "嘉義縣政府",
@@ -105082,20 +105096,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "燒烤店疑爆潛在火災隱患 新北市嚴查近3年曾有火警紀錄"
-          ]
-        },
-        {
-          "title": "連江火災事件",
-          "city": "連江",
-          "place": "連江縣（馬祖）",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "馬祖消防升級「智慧大腦」！AI＋GPS＋火災預警 打造四鄉五島防災新防線"
           ]
         },
         {
@@ -105127,20 +105127,6 @@
           ]
         },
         {
-          "title": "台北陳情/抗議",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "北市午餐出包蓋牌？議員監督追真相！ 舒培曝：蔣教育局動員家長上門抗議！【台灣最前線 精華】2026.09.23"
-          ]
-        },
-        {
           "title": "台東陳情/抗議",
           "city": "台東",
           "place": "台東縣政府",
@@ -105152,6 +105138,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "台東大武鄉村民陳情夜間照明不足 陳瑩助設20盞路燈今全數啟用"
+          ]
+        },
+        {
+          "title": "台北陳情/抗議",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "北市午餐出包蓋牌？議員監督追真相！ 舒培曝：蔣教育局動員家長上門抗議！【台灣最前線 精華】2026.09.23"
           ]
         },
         {
@@ -105308,34 +105308,6 @@
           ]
         },
         {
-          "title": "高雄弊案爭議",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "永安廢木材案掀選戰攻防 高市府駁柯陣營：早已裁罰起訴、持續清運"
-          ]
-        },
-        {
-          "title": "新北弊案爭議",
-          "city": "新北",
-          "place": "新北市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "詐補助407萬、吞公益款783萬還收業者400萬 民進黨前新北議員黃俊哲起訴"
-          ]
-        },
-        {
           "title": "彰化弊案爭議",
           "city": "彰化",
           "place": "彰化縣政府",
@@ -105361,6 +105333,34 @@
           "urgency_score": 4,
           "sample_titles": [
             "金門鎮民代表選舉驚傳賄選！參選人及樁腳收押 現金買票慘了"
+          ]
+        },
+        {
+          "title": "新北弊案爭議",
+          "city": "新北",
+          "place": "新北市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "詐補助407萬、吞公益款783萬還收業者400萬 民進黨前新北議員黃俊哲起訴"
+          ]
+        },
+        {
+          "title": "高雄弊案爭議",
+          "city": "高雄",
+          "place": "高雄市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "永安廢木材案掀選戰攻防 高市府駁柯陣營：早已裁罰起訴、持續清運"
           ]
         },
         {
@@ -105596,6 +105596,22 @@
           ]
         },
         {
+          "title": "嘉義市地方動態",
+          "city": "嘉義市",
+          "place": "嘉義市政府",
+          "level": "red",
+          "news_count": 23,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 23,
+          "sample_titles": [
+            "中秋烤肉樂團圓 嘉市衛生局提醒飲食衛生、落實防蚊",
+            "2026年嘉義市議會秋節敬軍 感謝官兵捍衛國家安全",
+            "嘉市補助65歲以上健保費！嘉縣不跟進 翁章梁曝原因：縣府還有負債"
+          ]
+        },
+        {
           "title": "澎湖地方動態",
           "city": "澎湖",
           "place": "澎湖縣政府",
@@ -105609,22 +105625,6 @@
             "澎湖縣紀念孔子誕辰2576周年釋奠大典 發放智慧糕",
             "澎湖縣紀念孔子誕辰2576周年釋奠大典 傳承尊師重道精神",
             "送「澎湖人」帽、設宴款待選民 許智富涉賄交保喊不退選－民視台語新聞"
-          ]
-        },
-        {
-          "title": "嘉義市地方動態",
-          "city": "嘉義市",
-          "place": "嘉義市政府",
-          "level": "red",
-          "news_count": 24,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 24,
-          "sample_titles": [
-            "中秋烤肉樂團圓 嘉市衛生局提醒飲食衛生、落實防蚊",
-            "2026年嘉義市議會秋節敬軍 感謝官兵捍衛國家安全",
-            "嘉市補助65歲以上健保費！嘉縣不跟進 翁章梁曝原因：縣府還有負債"
           ]
         },
         {
@@ -105776,15 +105776,15 @@
           "city": "台中",
           "place": "台中市政府",
           "level": "red",
-          "news_count": 83,
+          "news_count": 84,
           "comment_count": 38,
           "negativity_pct": 6,
           "is_urgent": true,
-          "urgency_score": 162,
+          "urgency_score": 163,
           "sample_titles": [
+            "川習會盧秀燕喊總統等首長中秋不要歌舞昇平 挨轟「先管好市政」",
             "嘉義選戰中秋連假強強滾！盧秀燕加持吳品叡 賴清德站台蔡易餘",
-            "嘉義選戰中秋連假強強滾！盧秀燕加持吳品叡 賴清德站台蔡易餘",
-            "川普高規格接機習近平 盧秀燕點名正副總統等首長「中秋連假別亂跑」"
+            "嘉義選戰中秋連假強強滾！盧秀燕加持吳品叡 賴清德站台蔡易餘"
           ]
         },
         {
@@ -105808,15 +105808,15 @@
           "city": "高雄",
           "place": "高雄市前鎮區",
           "level": "red",
-          "news_count": 190,
+          "news_count": 191,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 238,
+          "urgency_score": 239,
           "sample_titles": [
             "陳其邁參訪高雄法國國際學校 與師生體驗法式實作教學",
-            "宗教界捐款逾9.7億元助弱勢 陳其邁感謝攜手守護高雄",
-            "AIT高雄分處長拜會屏東縣長周春米 延續臺美地方交流"
+            "陳其邁參訪高雄法國國際學校 與師生體驗法式實作教學",
+            "宗教界捐款逾9.7億元助弱勢 陳其邁感謝攜手守護高雄"
           ]
         },
         {
@@ -105824,11 +105824,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 213,
+          "news_count": 211,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 279,
+          "urgency_score": 277,
           "sample_titles": [
             "被賴清德狂讚 張善政曝「總統的話有弦外之音」：講給全桃園的人聽",
             "中油桃園廠經理涉收賄 經長：督促國營事業加強防弊",
@@ -105840,11 +105840,11 @@
           "city": "台北",
           "place": "台北市大安區",
           "level": "red",
-          "news_count": 286,
+          "news_count": 285,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 361,
+          "urgency_score": 360,
           "sample_titles": [
             "政治讀新術／北市民調蔣萬安僅領先1.2% 李坤城：若小贏「政治生涯恐告一段落」",
             "蔣萬安拿萬聖節「索隆照」談同志遊行？網友質疑行程造假 北市府公布證據",

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "snapshot_at": "2026-09-24T10:26:38.134433+00:00",
+  "snapshot_at": "2026-09-24T10:29:29.903895+00:00",
   "hotspots": [
     {
       "title": "基隆鼠患事件",
@@ -108,6 +108,27 @@
       "comments": []
     },
     {
+      "title": "連江火災事件",
+      "city": "連江",
+      "place": "連江縣（馬祖）",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "馬祖消防升級「智慧大腦」！AI＋GPS＋火災預警 打造四鄉五島防災新防線",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1tX1JpRTFjOVRyRlR1SWZhTF9CTkdPZm1QV1MwWGdMbGhfNjA2TkIzYTR3VUJMNmhPU0wzanpDYlB2VE5CUWQ0?oc=5",
+          "time": "2026-09-24 02:19:56",
+          "publisher": "Google News→台灣新聞雲",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "嘉義縣火災事件",
       "city": "嘉義縣",
       "place": "嘉義縣政府",
@@ -145,27 +166,6 @@
           "time": "2026-09-24 17:01:45",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "連江火災事件",
-      "city": "連江",
-      "place": "連江縣（馬祖）",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "馬祖消防升級「智慧大腦」！AI＋GPS＋火災預警 打造四鄉五島防災新防線",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1tX1JpRTFjOVRyRlR1SWZhTF9CTkdPZm1QV1MwWGdMbGhfNjA2TkIzYTR3VUJMNmhPU0wzanpDYlB2VE5CUWQ0?oc=5",
-          "time": "2026-09-24 02:19:56",
-          "publisher": "Google News→台灣新聞雲",
-          "severity": null
         }
       ],
       "comments": []
@@ -213,27 +213,6 @@
       "comments": []
     },
     {
-      "title": "台北陳情/抗議",
-      "city": "台北",
-      "place": "台北市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "北市午餐出包蓋牌？議員監督追真相！ 舒培曝：蔣教育局動員家長上門抗議！【台灣最前線 精華】2026.09.23",
-          "url": "https://www.youtube.com/watch?v=kqF-HAwtC5g",
-          "time": "2026-09-23 21:48:16",
-          "publisher": null,
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台東陳情/抗議",
       "city": "台東",
       "place": "台東縣政府",
@@ -249,6 +228,27 @@
           "url": "https://cnews.com.tw/250260924a04/",
           "time": "2026-09-24 13:24:40",
           "publisher": "匯流新聞網",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台北陳情/抗議",
+      "city": "台北",
+      "place": "台北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "北市午餐出包蓋牌？議員監督追真相！ 舒培曝：蔣教育局動員家長上門抗議！【台灣最前線 精華】2026.09.23",
+          "url": "https://www.youtube.com/watch?v=kqF-HAwtC5g",
+          "time": "2026-09-23 21:48:16",
+          "publisher": null,
           "severity": "yellow"
         }
       ],
@@ -825,48 +825,6 @@
       "comments": []
     },
     {
-      "title": "高雄弊案爭議",
-      "city": "高雄",
-      "place": "高雄市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "永安廢木材案掀選戰攻防 高市府駁柯陣營：早已裁罰起訴、持續清運",
-          "url": "https://tw.news.yahoo.com/%E6%B0%B8%E5%AE%89%E5%BB%A2%E6%9C%A8%E6%9D%90%E6%A1%88%E6%8E%80%E9%81%B8%E6%88%B0%E6%94%BB%E9%98%B2-%E9%AB%98%E5%B8%82%E5%BA%9C%E9%A7%81%E6%9F%AF%E9%99%A3%E7%87%9F-%E6%97%A9%E5%B7%B2%E8%A3%81%E7%BD%B0%E8%B5%B7%E8%A8%B4-%E6%8C%81%E7%BA%8C%E6%B8%85%E9%81%8B-075909519.html",
-          "time": "2026-09-24 15:59:09",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "新北弊案爭議",
-      "city": "新北",
-      "place": "新北市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "詐補助407萬、吞公益款783萬還收業者400萬 民進黨前新北議員黃俊哲起訴",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5585116",
-          "time": "2026-09-24 16:56:32",
-          "publisher": "自由時報",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "彰化弊案爭議",
       "city": "彰化",
       "place": "彰化縣政府",
@@ -903,6 +861,48 @@
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nX1hjZ3U4RS1CbnlqZzNTU1U2d2N2Q1VZdFRKS2pZQzVrbF9mRmFZeXF5ZnFtYjl1ZGhtSlFJNmJNbkxQSGo5MFl4czk5TmU0YWdWWExHdVpGakRjZGfSAUtBVV95cUxNUDJiUng5RWdaXzJCZmEzTUJkVFM3Q3AzZHJ5QVhDbUhyTU9QcXdHTmwzc3c3YVNOaVdvaUN1dmNQc1JhN2psN2xYa1E?oc=5",
           "time": "2026-09-24 12:31:00",
           "publisher": "ETtoday",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "新北弊案爭議",
+      "city": "新北",
+      "place": "新北市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "詐補助407萬、吞公益款783萬還收業者400萬 民進黨前新北議員黃俊哲起訴",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5585116",
+          "time": "2026-09-24 16:56:32",
+          "publisher": "自由時報",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄弊案爭議",
+      "city": "高雄",
+      "place": "高雄市政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "永安廢木材案掀選戰攻防 高市府駁柯陣營：早已裁罰起訴、持續清運",
+          "url": "https://tw.news.yahoo.com/%E6%B0%B8%E5%AE%89%E5%BB%A2%E6%9C%A8%E6%9D%90%E6%A1%88%E6%8E%80%E9%81%B8%E6%88%B0%E6%94%BB%E9%98%B2-%E9%AB%98%E5%B8%82%E5%BA%9C%E9%A7%81%E6%9F%AF%E9%99%A3%E7%87%9F-%E6%97%A9%E5%B7%B2%E8%A3%81%E7%BD%B0%E8%B5%B7%E8%A8%B4-%E6%8C%81%E7%BA%8C%E6%B8%85%E9%81%8B-075909519.html",
+          "time": "2026-09-24 15:59:09",
+          "publisher": "Yahoo新聞",
           "severity": "red"
         }
       ],
@@ -3601,6 +3601,181 @@
       "comments": []
     },
     {
+      "title": "嘉義市地方動態",
+      "city": "嘉義市",
+      "place": "嘉義市政府",
+      "level": "red",
+      "news_count": 23,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 23,
+      "news_articles": [
+        {
+          "title": "中秋烤肉樂團圓 嘉市衛生局提醒飲食衛生、落實防蚊",
+          "url": "https://more-news.tw/727942/",
+          "time": "2026-09-24 16:05:27",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "2026年嘉義市議會秋節敬軍 感謝官兵捍衛國家安全",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82UmNPbGZ5d3NHOEJETkswaVNtUUJ3NUV4QkpUMUNWTTBDcnRQZjFBbHgtTG90bmFzSTFITHd6MUV2cTVRLUVEU2VndW1uY25jMVE?oc=5",
+          "time": "2026-09-24 15:57:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉市補助65歲以上健保費！嘉縣不跟進 翁章梁曝原因：縣府還有負債",
+          "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQc1lNVi1saHRTMzBxZXRKVEUta3hDSEpfZWRVUDZQd1hma0VGMEhBV1ZFTzg2RzNTeUNkTnFWazFGVVY2WXc3bWYxTVdnZDVLaC0zV09GRkw1bGNyNXJSYkRDNGtwamZIekVYQ2p3endGcnZvWlJOdUZBOUFIMVFRR3BIOXd1bGJlS0hPOThfZEpKZWFKdndPY25lc2FhRlVoSHZrM2tPYk5zOHgxcEdJRVE2UmhVNHhHaXc4Tk1BbTJhLVBKU3N4UjJ0LXNNNjdJVTMtR0VPWXJmUUh0Y09SMmZxbjdVd3VldWU0N1ctcktvcU9pVnczTGUzNVFGUGU2TXB1UjdyeTZ3TzhqR0VaQ0VqWnh2Q1BvS1Z4SmxPT2J5eXN2UmVqMVU3M0RxUDhPRHJVWWNoSU9hcEZlRW1JLVdZaUZlUjBoQjZVVTVDM3A0S0RoanlvSEFFRHQxeFFVVndiemhMclV0MWgwTEZ2dTZyTXlOWVhKVFhDejZHUnJLQ2M2eEwxVmdzcTFyZUt0eHdWQThDamdRNnlyOXc?oc=5",
+          "time": "2026-09-24 15:32:29",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "黃盈智：民進黨執政台灣好經濟 要把握時機讓嘉義市民好生活",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5taFF5LVlEUkFUWk5paGZMeGpZa0tqdFVKZmpsUjdTdDZ1aWlJc3NYYUM0aVV5QkpYSWVMdllnZzNUZzJONEZrSDZ0RFBuUHRLNFh5UGNoR1lqSlVubk9Qenlod3QtTWU4ei1F?oc=5",
+          "time": "2026-09-24 15:13:53",
+          "publisher": "Google News→台灣華報",
+          "severity": null
+        },
+        {
+          "title": "嘉市中秋送暖 地藏庵發贊普品 黃敏惠：十方來十方去",
+          "url": "https://more-news.tw/727771/",
+          "time": "2026-09-24 13:34:29",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "補助65歲以上健保費！嘉市能 嘉縣不能 翁章梁與蔡易餘表態了",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42TVllZWxJNDB2OUNDZEo1OE95MFlMWTVWY0ZLclJxRUpRLUZoeFVsOGZMdEgzTUJKM1BqOEQyeVg2U1d2WkhNWUF3Mkh2TjBtMHdvVTZReHVEeWFmVHB3VHlmdnY5cjhpMFdNNVdB?oc=5",
+          "time": "2026-09-24 13:23:30",
+          "publisher": "中時新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "中秋送暖 嘉義市府攜手九華山地藏庵發愛心贊普品",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5584800",
+          "time": "2026-09-24 13:18:37",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "嘉義市古禮祭孔 黃敏惠送「智慧筆」 學子搶拿：開智慧了",
+          "url": "https://more-news.tw/727687/",
+          "time": "2026-09-24 12:03:34",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉市府攜手九華山地藏庵 中秋愛心送暖發放贊普品",
+          "url": "https://n.yam.com/Article/20260924445107",
+          "time": "2026-09-24 12:00:00",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "中秋烤肉樂團圓 嘉市衛生局籲請民眾注意飲食衛生落實防蚊措施",
+          "url": "https://n.yam.com/Article/20260924125307",
+          "time": "2026-09-24 12:00:00",
+          "publisher": "蕃新聞→台灣好報",
+          "severity": null
+        },
+        {
+          "title": "張啓楷籲嘉義市民手機滑開比政見 預告928競總成立藍白集結",
+          "url": "https://tw.news.yahoo.com/%E5%BC%B5%E5%95%93%E6%A5%B7%E7%B1%B2%E5%98%89%E7%BE%A9%E5%B8%82%E6%B0%91%E6%89%8B%E6%A9%9F%E6%BB%91%E9%96%8B%E6%AF%94%E6%94%BF%E8%A6%8B-%E9%A0%90%E5%91%8A928%E7%AB%B6%E7%B8%BD%E6%88%90%E7%AB%8B%E8%97%8D%E7%99%BD%E9%9B%86%E7%B5%90-030050266.html",
+          "time": "2026-09-24 11:00:50",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉義市東區清晨規模3.4地震 民眾驚喊：有地鳴",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80THhidUoyVFY2RGU4M0FUZm5JTmpkaktsTVlVdUZhclRmWTY2bk4xQzRETzFvVmVLb3NBNUpDTkRsMXNTengxZEhyZVNzYUZnMTdTMVpWdw?oc=5",
+          "time": "2026-09-24 09:05:14",
+          "publisher": "Google News→台視新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "地震速報／05:57嘉義市東區規模3.4地震！5縣市有感 最大震度3級 | 天氣預報 | 生活",
+          "url": "https://www.nownews.com/news/6877675",
+          "time": "2026-09-24 06:58:16",
+          "publisher": "NOWnews今日新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "清晨被晃醒！嘉義市極淺層地震「最大震度3級」5縣市有感 嘉義市今（24）日清晨5時57分發生芮氏規模3.4地震。根據中央氣象署地震觀測網即時資料，震央位於嘉義市東區、嘉義市政府北方約2.1公里，地震深度7.3公里，屬於淺層地震。 22 分鐘前 ｜ 生活 清晨被晃醒！嘉義市極淺層地震「最大震度3級」5縣市有感 22 分鐘前 ｜ 生活",
+          "url": "https://news.tvbs.com.tw/life/4026727",
+          "time": "2026-09-24 06:58:15",
+          "publisher": "TVBS",
+          "severity": "yellow"
+        },
+        {
+          "title": "清晨被晃醒！嘉義市極淺層地震「最大震度3級」5縣市有感",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LMzZGbWpoMll4QjhRVFVudWFJOWhMLVdnVTljMjh1S09TQjFsUnpENUZ2VExVLVB3elVCQ25rN21zLW5nUklqNkNzSUxLZw?oc=5",
+          "time": "2026-09-24 06:36:00",
+          "publisher": "TVBS",
+          "severity": null
+        },
+        {
+          "title": "清晨5:57嘉義市東區規模3.4地震 最大震度3級",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5584348",
+          "time": "2026-09-24 06:09:51",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "清晨5點57分嘉義市東區規模3.4淺層有感地震",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VUTBXT215cUZmUDZrOXBIWWVMdVJGdDVvUnFCdUdidExjbUFPS0Y1aDZUcGxJMmlyWFQwVEstaW1wNTFIV1NNd1lmTFdVakVO?oc=5",
+          "time": "2026-09-24 06:07:06",
+          "publisher": "Google News→UDN",
+          "severity": null
+        },
+        {
+          "title": "嘉市吳鳳北路刨鋪釀壅塞 市府今明調整半半施工維持通行",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51Mm50cWtydUJFU2pTckh1Z3lYcHlKR2xpbVpyZklfb0w4U3J3Z0J6bERuV2Y0THhTS2tvVXlwdURKNFFTU0MydTJTTXBFeFhFb0E?oc=5",
+          "time": "2026-09-24 00:01:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "嘉義市木造民宅火警全面燃燒 住戶及時逃出",
+          "url": "https://newtalk.tw/news/view/2026-09-23/1061649",
+          "time": "2026-09-23 22:10:02",
+          "publisher": "新頭殼",
+          "severity": "red"
+        },
+        {
+          "title": "快訊／嘉義民宅「燒成火海」！烈焰直衝夜空 消防急灌水搶救 嘉義市東區今（23）日晚間發生火警，延平街一處民宅突然起火燃燒，火舌竄出、大量黑煙直衝天際。嘉義市消防局獲報後迅速到場，持續灌水搶救並確認起火原因。 10 分鐘前 ｜ 社會 快訊／嘉義民宅「燒成火海」！烈焰直衝夜空 消防急灌水搶救 10 分鐘前 ｜ 社會",
+          "url": "https://news.tvbs.com.tw/local/4026678",
+          "time": "2026-09-23 21:38:17",
+          "publisher": "TVBS",
+          "severity": "red"
+        },
+        {
+          "title": "嘉義市延平街木造住宅大火畫面曝 至少延燒2戶",
+          "url": "https://news.ltn.com.tw/news/ChiayiCity/breakingnews/5584228",
+          "time": "2026-09-23 21:35:49",
+          "publisher": "自由時報",
+          "severity": "red"
+        },
+        {
+          "title": "嘉市獨特迎孔繞境文化 傳承儒家尊師重道精神",
+          "url": "https://tw.news.yahoo.com/%E5%98%89%E5%B8%82%E7%8D%A8%E7%89%B9%E8%BF%8E%E5%AD%94%E7%B9%9E%E5%A2%83%E6%96%87%E5%8C%96-%E5%82%B3%E6%89%BF%E5%84%92%E5%AE%B6%E5%B0%8A%E5%B8%AB%E9%87%8D%E9%81%93%E7%B2%BE%E7%A5%9E-120142185.html",
+          "time": "2026-09-23 20:01:42",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "新北民調李四川落後？ 張啓楷：嘉義市責任重大、挺身而出",
+          "url": "https://taiwanreports.com/archives/1015102",
+          "time": "2026-09-23 19:42:53",
+          "publisher": "臺灣導報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "澎湖地方動態",
       "city": "澎湖",
       "place": "澎湖縣政府",
@@ -3778,188 +3953,6 @@
           "time": "2026-09-23 18:43:27",
           "publisher": "壹電視",
           "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "嘉義市地方動態",
-      "city": "嘉義市",
-      "place": "嘉義市政府",
-      "level": "red",
-      "news_count": 24,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 24,
-      "news_articles": [
-        {
-          "title": "中秋烤肉樂團圓 嘉市衛生局提醒飲食衛生、落實防蚊",
-          "url": "https://more-news.tw/727942/",
-          "time": "2026-09-24 16:05:27",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "2026年嘉義市議會秋節敬軍 感謝官兵捍衛國家安全",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82UmNPbGZ5d3NHOEJETkswaVNtUUJ3NUV4QkpUMUNWTTBDcnRQZjFBbHgtTG90bmFzSTFITHd6MUV2cTVRLUVEU2VndW1uY25jMVE?oc=5",
-          "time": "2026-09-24 15:57:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉市補助65歲以上健保費！嘉縣不跟進 翁章梁曝原因：縣府還有負債",
-          "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQc1lNVi1saHRTMzBxZXRKVEUta3hDSEpfZWRVUDZQd1hma0VGMEhBV1ZFTzg2RzNTeUNkTnFWazFGVVY2WXc3bWYxTVdnZDVLaC0zV09GRkw1bGNyNXJSYkRDNGtwamZIekVYQ2p3endGcnZvWlJOdUZBOUFIMVFRR3BIOXd1bGJlS0hPOThfZEpKZWFKdndPY25lc2FhRlVoSHZrM2tPYk5zOHgxcEdJRVE2UmhVNHhHaXc4Tk1BbTJhLVBKU3N4UjJ0LXNNNjdJVTMtR0VPWXJmUUh0Y09SMmZxbjdVd3VldWU0N1ctcktvcU9pVnczTGUzNVFGUGU2TXB1UjdyeTZ3TzhqR0VaQ0VqWnh2Q1BvS1Z4SmxPT2J5eXN2UmVqMVU3M0RxUDhPRHJVWWNoSU9hcEZlRW1JLVdZaUZlUjBoQjZVVTVDM3A0S0RoanlvSEFFRHQxeFFVVndiemhMclV0MWgwTEZ2dTZyTXlOWVhKVFhDejZHUnJLQ2M2eEwxVmdzcTFyZUt0eHdWQThDamdRNnlyOXc?oc=5",
-          "time": "2026-09-24 15:32:29",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "黃盈智：民進黨執政台灣好經濟 要把握時機讓嘉義市民好生活",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5taFF5LVlEUkFUWk5paGZMeGpZa0tqdFVKZmpsUjdTdDZ1aWlJc3NYYUM0aVV5QkpYSWVMdllnZzNUZzJONEZrSDZ0RFBuUHRLNFh5UGNoR1lqSlVubk9Qenlod3QtTWU4ei1F?oc=5",
-          "time": "2026-09-24 15:13:53",
-          "publisher": "Google News→台灣華報",
-          "severity": null
-        },
-        {
-          "title": "嘉市中秋送暖 地藏庵發贊普品 黃敏惠：十方來十方去",
-          "url": "https://more-news.tw/727771/",
-          "time": "2026-09-24 13:34:29",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "補助65歲以上健保費！嘉市能 嘉縣不能 翁章梁與蔡易餘表態了",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42TVllZWxJNDB2OUNDZEo1OE95MFlMWTVWY0ZLclJxRUpRLUZoeFVsOGZMdEgzTUJKM1BqOEQyeVg2U1d2WkhNWUF3Mkh2TjBtMHdvVTZReHVEeWFmVHB3VHlmdnY5cjhpMFdNNVdB?oc=5",
-          "time": "2026-09-24 13:23:30",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "中秋送暖 嘉義市府攜手九華山地藏庵發愛心贊普品",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5584800",
-          "time": "2026-09-24 13:18:37",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "嘉義市古禮祭孔 黃敏惠送「智慧筆」 學子搶拿：開智慧了",
-          "url": "https://more-news.tw/727687/",
-          "time": "2026-09-24 12:03:34",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉市府攜手九華山地藏庵 中秋愛心送暖發放贊普品",
-          "url": "https://n.yam.com/Article/20260924445107",
-          "time": "2026-09-24 12:00:00",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "中秋烤肉樂團圓 嘉市衛生局籲請民眾注意飲食衛生落實防蚊措施",
-          "url": "https://n.yam.com/Article/20260924125307",
-          "time": "2026-09-24 12:00:00",
-          "publisher": "蕃新聞→台灣好報",
-          "severity": null
-        },
-        {
-          "title": "張啓楷籲嘉義市民手機滑開比政見 預告928競總成立藍白集結",
-          "url": "https://tw.news.yahoo.com/%E5%BC%B5%E5%95%93%E6%A5%B7%E7%B1%B2%E5%98%89%E7%BE%A9%E5%B8%82%E6%B0%91%E6%89%8B%E6%A9%9F%E6%BB%91%E9%96%8B%E6%AF%94%E6%94%BF%E8%A6%8B-%E9%A0%90%E5%91%8A928%E7%AB%B6%E7%B8%BD%E6%88%90%E7%AB%8B%E8%97%8D%E7%99%BD%E9%9B%86%E7%B5%90-030050266.html",
-          "time": "2026-09-24 11:00:50",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉義市東區清晨規模3.4地震 民眾驚喊：有地鳴",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80THhidUoyVFY2RGU4M0FUZm5JTmpkaktsTVlVdUZhclRmWTY2bk4xQzRETzFvVmVLb3NBNUpDTkRsMXNTengxZEhyZVNzYUZnMTdTMVpWdw?oc=5",
-          "time": "2026-09-24 09:05:14",
-          "publisher": "Google News→台視新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "地震速報／05:57嘉義市東區規模3.4地震！5縣市有感 最大震度3級 | 天氣預報 | 生活",
-          "url": "https://www.nownews.com/news/6877675",
-          "time": "2026-09-24 06:58:16",
-          "publisher": "NOWnews今日新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "清晨被晃醒！嘉義市極淺層地震「最大震度3級」5縣市有感 嘉義市今（24）日清晨5時57分發生芮氏規模3.4地震。根據中央氣象署地震觀測網即時資料，震央位於嘉義市東區、嘉義市政府北方約2.1公里，地震深度7.3公里，屬於淺層地震。 22 分鐘前 ｜ 生活 清晨被晃醒！嘉義市極淺層地震「最大震度3級」5縣市有感 22 分鐘前 ｜ 生活",
-          "url": "https://news.tvbs.com.tw/life/4026727",
-          "time": "2026-09-24 06:58:15",
-          "publisher": "TVBS",
-          "severity": "yellow"
-        },
-        {
-          "title": "清晨被晃醒！嘉義市極淺層地震「最大震度3級」5縣市有感",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LMzZGbWpoMll4QjhRVFVudWFJOWhMLVdnVTljMjh1S09TQjFsUnpENUZ2VExVLVB3elVCQ25rN21zLW5nUklqNkNzSUxLZw?oc=5",
-          "time": "2026-09-24 06:36:00",
-          "publisher": "TVBS",
-          "severity": null
-        },
-        {
-          "title": "清晨5:57嘉義市東區規模3.4地震 最大震度3級",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5584348",
-          "time": "2026-09-24 06:09:51",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "清晨5點57分嘉義市東區規模3.4淺層有感地震",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VUTBXT215cUZmUDZrOXBIWWVMdVJGdDVvUnFCdUdidExjbUFPS0Y1aDZUcGxJMmlyWFQwVEstaW1wNTFIV1NNd1lmTFdVakVO?oc=5",
-          "time": "2026-09-24 06:07:06",
-          "publisher": "Google News→UDN",
-          "severity": null
-        },
-        {
-          "title": "嘉市吳鳳北路刨鋪釀壅塞 市府今明調整半半施工維持通行",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51Mm50cWtydUJFU2pTckh1Z3lYcHlKR2xpbVpyZklfb0w4U3J3Z0J6bERuV2Y0THhTS2tvVXlwdURKNFFTU0MydTJTTXBFeFhFb0E?oc=5",
-          "time": "2026-09-24 00:01:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "嘉義市木造民宅火警全面燃燒 住戶及時逃出",
-          "url": "https://newtalk.tw/news/view/2026-09-23/1061649",
-          "time": "2026-09-23 22:10:02",
-          "publisher": "新頭殼",
-          "severity": "red"
-        },
-        {
-          "title": "快訊／嘉義民宅「燒成火海」！烈焰直衝夜空 消防急灌水搶救 嘉義市東區今（23）日晚間發生火警，延平街一處民宅突然起火燃燒，火舌竄出、大量黑煙直衝天際。嘉義市消防局獲報後迅速到場，持續灌水搶救並確認起火原因。 10 分鐘前 ｜ 社會 快訊／嘉義民宅「燒成火海」！烈焰直衝夜空 消防急灌水搶救 10 分鐘前 ｜ 社會",
-          "url": "https://news.tvbs.com.tw/local/4026678",
-          "time": "2026-09-23 21:38:17",
-          "publisher": "TVBS",
-          "severity": "red"
-        },
-        {
-          "title": "嘉義市延平街木造住宅大火畫面曝 至少延燒2戶",
-          "url": "https://news.ltn.com.tw/news/ChiayiCity/breakingnews/5584228",
-          "time": "2026-09-23 21:35:49",
-          "publisher": "自由時報",
-          "severity": "red"
-        },
-        {
-          "title": "嘉市獨特迎孔繞境文化 傳承儒家尊師重道精神",
-          "url": "https://tw.news.yahoo.com/%E5%98%89%E5%B8%82%E7%8D%A8%E7%89%B9%E8%BF%8E%E5%AD%94%E7%B9%9E%E5%A2%83%E6%96%87%E5%8C%96-%E5%82%B3%E6%89%BF%E5%84%92%E5%AE%B6%E5%B0%8A%E5%B8%AB%E9%87%8D%E9%81%93%E7%B2%BE%E7%A5%9E-120142185.html",
-          "time": "2026-09-23 20:01:42",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "新北民調李四川落後？ 張啓楷：嘉義市責任重大、挺身而出",
-          "url": "https://taiwanreports.com/archives/1015102",
-          "time": "2026-09-23 19:42:53",
-          "publisher": "臺灣導報",
-          "severity": "yellow"
-        },
-        {
-          "title": "嘉市18警獲表揚 救援輕生女子、助民返家展現警察溫度",
-          "url": "https://more-news.tw/727328/",
-          "time": "2026-09-23 18:26:35",
-          "publisher": "墨新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -7665,12 +7658,19 @@
       "city": "台中",
       "place": "台中市政府",
       "level": "red",
-      "news_count": 83,
+      "news_count": 84,
       "comment_count": 38,
       "negativity_pct": 6,
       "is_urgent": true,
-      "urgency_score": 162,
+      "urgency_score": 163,
       "news_articles": [
+        {
+          "title": "川習會盧秀燕喊總統等首長中秋不要歌舞昇平 挨轟「先管好市政」",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9neGxoamg2MTFYQWxNSi14a0pRM2c2YWYxaVk1Y04xSVVyNmd2TS1oaWFZcWJPMVdOcWgzcmRIeGQzektXTWZsTENoSzFsX1liS3pvYkQtZy1yOGZOSzdPTHF2TGNOUEpqWkHSAW9BVV95cUxOblc3Q3U4MVpJSUlNd05IVEFZc1JJUDRxbFVpSElIaVJ2ZjhoRFJ6TmlWNG5kSHZtV3NPUlRJblNET0JyeGx3TlZ3VDltNzVid1JxUVlyT2hEUk9TSldwYl83RDBtaWVhaU5TUmpLblE?oc=5",
+          "time": "2026-09-24 18:14:50",
+          "publisher": "Google News→news.ltn.com.tw",
+          "severity": null
+        },
         {
           "title": "嘉義選戰中秋連假強強滾！盧秀燕加持吳品叡 賴清德站台蔡易餘",
           "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOWTRYYkdMTEFxdHprZzZXd0R1c3pDSlllWXpudmFVY2xqalpFTHRsellYUTd1aTFyaEdGUUQxTDAya3JGa0k1UzF6SkgxdzJ4VmZLWFI5cmRXV3dfeFU4ZWNEemFVekk1T0ZvVHVRbEhvNmhrUFIyWjdsa21pNGs2RnlVZnFWZ09Wa0xIaEJJakFwaGp2WEZXSVYxaGJid21LLVFOSmgyRjRXUXRpZG5hQkJSbnBGMHUwZEtIWXRkVUVDUUVYb3BOd090Y1lJQmdoaVJFTUw3X0J3MUd3aWI0V2FrdjVVZWdTY0tNVE5rR3VjdGVzS2l1R3FFQTlfcTNrY0luaEhYVG5fZl9FTUpmUWJZZHg2U2dEWVIzOGNlZUExR3RqY1F1N0trTmhLa19FTW9vMXplTDJkV2xSbDhTV0c4eUFkZzdkOTJ4cFYyUlpOdXZXUHJnX3Bvc2VUZ0k1bDVIVWROemI2eFJ2bUpWWWNpQjVmWnFFQWdkd095bW5SamhQRVFpa1RUa2tSNlJXNTRFeGo2cjlZZw?oc=5",
@@ -8151,7 +8151,7 @@
           "title": "盧秀燕喊接單庇護工場禮盒 綠議員批拿既有採購包裝成個人善舉 | 自由電子報",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tcG02U3lzTHhfd0tOZDdoZHpWX0tkaWJJNkpfNWhCN3JrUkZLN2kwd1dkTkRtc3EtS0NKWDFFR1g4M3hibUVpSGt5UXlrSWdGQ0R0elJB?oc=5",
           "time": "2026-09-23 23:03:02",
-          "publisher": "Google News→LINE TODAY",
+          "publisher": "Google News→today.line.me",
           "severity": "yellow"
         },
         {
@@ -8235,7 +8235,7 @@
           "title": "(影)昔日團隊成員涉賄選 盧秀燕：不能因政黨不同有不同標準 | Newtalk",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLMVlCYWJ2NnBNV1Q3bmZUT1Q3ZjNqMjlFMnBXY0hmR2tTSzBCQU9val8tdkpXNmFKZFBKdk5oMGdMN2k1OVV1ZDg1Ni1VSHRqVWRiQTZn?oc=5",
           "time": "2026-09-23 18:51:59",
-          "publisher": "Google News→LINE TODAY",
+          "publisher": "Google News→today.line.me",
           "severity": "red"
         },
         {
@@ -9755,12 +9755,19 @@
       "city": "高雄",
       "place": "高雄市前鎮區",
       "level": "red",
-      "news_count": 190,
+      "news_count": 191,
       "comment_count": 0,
       "negativity_pct": 8,
       "is_urgent": false,
-      "urgency_score": 238,
+      "urgency_score": 239,
       "news_articles": [
+        {
+          "title": "陳其邁參訪高雄法國國際學校 與師生體驗法式實作教學",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBITHJoOWNKanFEdmY4M0MxSlZrajcxOW1QX2p1eFNXaWNDcG5PQTdXejdaZkd5ajF0RkV4aEN4TmFhYjAzR294N0VzcU8tTm1SRlE?oc=5",
+          "time": "2026-09-24 18:22:42",
+          "publisher": "Google News→中華新聞雲／中華日報",
+          "severity": null
+        },
         {
           "title": "陳其邁參訪高雄法國國際學校 與師生體驗法式實作教學",
           "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOdUdidE82WVBYeUYwdnI1Z1h0bTJRZk90Zzl4UHJ6c3luVFhsVm1FN3J6dldZZ2h6VzJBR2c5aFJQcElkMzVWX2QtTF95TDNTOFpUeEpVQVR6VDcxZm96aVdZYTBUOXQxeU1CeEFNd2Zvb2c0S2VxVXRWRFF3a09sbzRmdzBET0IweXlPLXJZMG0zQlprZ21iUWpYWEFLY2lHeEd0blNDblRxWS1DLVBXVzlWcTJ2RG9CQWs3YzFqRTFQQkFNaDMzZXM1eFlsVEhJX1ZiZGFBdDJ3S2N1c01zMUlZbVNEQ3Rock1qWmVETEtGeDkxYXVNS1NXZXVOemZkMk8tdVdqc3EtWFd1V3hHc1diQVBCVjk4QVdPT2ZlS1RfcjRCbEx6ZEFmSUk2QmF0eEMxR1RhcmJrZmhCSlRBRjR1VUVaY2hEaVZ0Q0JuRjNkUUpIelV4WnA4dHNaQ2RQVFYxby1HUUdQdDN3V0pEUnVYOTg?oc=5",
@@ -11099,11 +11106,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 213,
+      "news_count": 211,
       "comment_count": 0,
       "negativity_pct": 10,
       "is_urgent": false,
-      "urgency_score": 279,
+      "urgency_score": 277,
       "news_articles": [
         {
           "title": "被賴清德狂讚 張善政曝「總統的話有弦外之音」：講給全桃園的人聽",
@@ -12581,20 +12588,6 @@
           "time": "2026-09-23 18:30:00",
           "publisher": "Google News→moea.gov.tw",
           "severity": null
-        },
-        {
-          "title": "台灣設計展開幕 張善政：吸收菁華讓桃園愈來愈美",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E8%A8%AD%E8%A8%88%E5%B1%95%E9%96%8B%E5%B9%95-%E5%BC%B5%E5%96%84%E6%94%BF-%E5%90%B8%E6%94%B6%E8%8F%81%E8%8F%AF%E8%AE%93%E6%A1%83%E5%9C%92%E6%84%88%E4%BE%86%E6%84%88%E7%BE%8E-102829002.html",
-          "time": "2026-09-23 18:28:29",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "台灣設計展開幕 張善政：吸收菁華讓桃園愈來愈美",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oNXdadE9Jc2MxajJ1aW1CbDQ1Y2Q3YzlYREZoNG9GM3VubHRnakdlR0NaTFNvLWFiS2lXM1NBMVlMUWlxRE5CdEU1VkJteVYzcmdDS2ZyNA?oc=5",
-          "time": "2026-09-23 18:28:29",
-          "publisher": "Google News→rti.org.tw",
-          "severity": null
         }
       ],
       "comments": []
@@ -12604,11 +12597,11 @@
       "city": "台北",
       "place": "台北市大安區",
       "level": "red",
-      "news_count": 286,
+      "news_count": 285,
       "comment_count": 0,
       "negativity_pct": 9,
       "is_urgent": false,
-      "urgency_score": 361,
+      "urgency_score": 360,
       "news_articles": [
         {
           "title": "政治讀新術／北市民調蔣萬安僅領先1.2% 李坤城：若小贏「政治生涯恐告一段落」",
@@ -12684,7 +12677,7 @@
           "title": "蔣萬安「索隆照」遭疑沒去同志大遊行北市府曬照反擊：有圖有真相- 政治",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZYzN3azVPWnhHYk9qRzlybFpqdWl5YW5JUTBReF9ib2dVUnJuMXVmazRrZzNNQTVBT3k2dlh5dGp1blB4Q3VGWkpJY1BZTEFDcFZpNjlqRmxySldocWFDOHdkY01EQnlEdHIxbW1vYmQ5QQ?oc=5",
           "time": "2026-09-24 17:12:00",
-          "publisher": "Google News→華視新聞網",
+          "publisher": "Google News→news.cts.com.tw",
           "severity": "yellow"
         },
         {
@@ -14602,13 +14595,6 @@
           "title": "台北小宅房價誰最強？中正區年漲11%居冠",
           "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E5%B0%8F%E5%AE%85%E6%88%BF%E5%83%B9%E8%AA%B0%E6%9C%80%E5%BC%B7-%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%B9%B4%E6%BC%B211-%E5%B1%85%E5%86%A0-103913335.html",
           "time": "2026-09-23 18:39:13",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "\"梵谷\"現身街頭! 北市文化小旅行20處景點 變身名畫場景",
-          "url": "https://tw.news.yahoo.com/%E6%A2%B5%E8%B0%B7-%E7%8F%BE%E8%BA%AB%E8%A1%97%E9%A0%AD-%E5%8C%97%E5%B8%82%E6%96%87%E5%8C%96%E5%B0%8F%E6%97%85%E8%A1%8C20%E8%99%95%E6%99%AF%E9%BB%9E-%E8%AE%8A%E8%BA%AB%E5%90%8D%E7%95%AB%E5%A0%B4%E6%99%AF-102803238.html",
-          "time": "2026-09-23 18:28:03",
           "publisher": "Yahoo新聞",
           "severity": null
         }
