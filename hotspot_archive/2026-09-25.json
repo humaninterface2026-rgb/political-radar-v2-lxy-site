@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "snapshot_at": "2026-09-25T01:53:18.311161+00:00",
+  "snapshot_at": "2026-09-25T01:56:28.240824+00:00",
   "hotspots": [
     {
       "title": "基隆鼠患事件",
@@ -87,27 +87,6 @@
       "comments": []
     },
     {
-      "title": "嘉義縣火災事件",
-      "city": "嘉義縣",
-      "place": "嘉義縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "目擊火災劫難 蕭荏佑堅定公益信念領嘉義縣心意慈善會傳愛全台",
-          "url": "https://tw.news.yahoo.com/%E7%9B%AE%E6%93%8A%E7%81%AB%E7%81%BD%E5%8A%AB%E9%9B%A3-%E8%95%AD%E8%8D%8F%E4%BD%91%E5%A0%85%E5%AE%9A%E5%85%AC%E7%9B%8A%E4%BF%A1%E5%BF%B5%E9%A0%98%E5%98%89%E7%BE%A9%E7%B8%A3%E5%BF%83%E6%84%8F%E6%85%88%E5%96%84%E6%9C%83%E5%82%B3%E6%84%9B%E5%85%A8%E5%8F%B0-030334567.html",
-          "time": "2026-09-24 11:03:34",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台北火災事件",
       "city": "台北",
       "place": "台北市政府",
@@ -129,9 +108,9 @@
       "comments": []
     },
     {
-      "title": "台北車禍事件",
-      "city": "台北",
-      "place": "台北市政府",
+      "title": "嘉義縣火災事件",
+      "city": "嘉義縣",
+      "place": "嘉義縣政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -140,11 +119,11 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "中和女過馬路遭撞！「捲入車底慘遭拖行」 4熱心民眾緊急抬車救人 新北市中和區景平路昨（24）日晚間8時許發生一起驚險車禍。一名張姓女子（48歲）在過馬路時，遭左轉的自小客車撞上並捲入車底，所幸事發現場4名熱心民眾見狀趕緊合力抬起車輛將張女拉出送醫，經救治後意識清醒、無生命危險。 1 小時前 ｜ 社會 中和女過馬路遭撞！「捲入車底慘遭拖行」 4熱心民眾緊急抬車救人 1 小時前 ｜ 社會",
-          "url": "https://news.tvbs.com.tw/local/4027215",
-          "time": "2026-09-25 05:43:16",
-          "publisher": "TVBS",
-          "severity": "yellow"
+          "title": "目擊火災劫難 蕭荏佑堅定公益信念領嘉義縣心意慈善會傳愛全台",
+          "url": "https://tw.news.yahoo.com/%E7%9B%AE%E6%93%8A%E7%81%AB%E7%81%BD%E5%8A%AB%E9%9B%A3-%E8%95%AD%E8%8D%8F%E4%BD%91%E5%A0%85%E5%AE%9A%E5%85%AC%E7%9B%8A%E4%BF%A1%E5%BF%B5%E9%A0%98%E5%98%89%E7%BE%A9%E7%B8%A3%E5%BF%83%E6%84%8F%E6%85%88%E5%96%84%E6%9C%83%E5%82%B3%E6%84%9B%E5%85%A8%E5%8F%B0-030334567.html",
+          "time": "2026-09-24 11:03:34",
+          "publisher": "Yahoo新聞",
+          "severity": null
         }
       ],
       "comments": []
@@ -166,6 +145,27 @@
           "time": "2026-09-24 12:42:56",
           "publisher": "中時新聞網",
           "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台北車禍事件",
+      "city": "台北",
+      "place": "台北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "中和女過馬路遭撞！「捲入車底慘遭拖行」 4熱心民眾緊急抬車救人 新北市中和區景平路昨（24）日晚間8時許發生一起驚險車禍。一名張姓女子（48歲）在過馬路時，遭左轉的自小客車撞上並捲入車底，所幸事發現場4名熱心民眾見狀趕緊合力抬起車輛將張女拉出送醫，經救治後意識清醒、無生命危險。 1 小時前 ｜ 社會 中和女過馬路遭撞！「捲入車底慘遭拖行」 4熱心民眾緊急抬車救人 1 小時前 ｜ 社會",
+          "url": "https://news.tvbs.com.tw/local/4027215",
+          "time": "2026-09-25 05:43:16",
+          "publisher": "TVBS",
+          "severity": "yellow"
         }
       ],
       "comments": []
@@ -1469,216 +1469,6 @@
       "comments": []
     },
     {
-      "title": "嘉義市地方動態",
-      "city": "嘉義市",
-      "place": "嘉義市政府",
-      "level": "yellow",
-      "news_count": 28,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 28,
-      "news_articles": [
-        {
-          "title": "嘉市府攜手九華山地藏庵 中秋愛心送暖",
-          "url": "https://tw.news.yahoo.com/%E5%98%89%E5%B8%82%E5%BA%9C%E6%94%9C%E6%89%8B%E4%B9%9D%E8%8F%AF%E5%B1%B1%E5%9C%B0%E8%97%8F%E5%BA%B5-%E4%B8%AD%E7%A7%8B%E6%84%9B%E5%BF%83%E9%80%81%E6%9A%96-153302840.html",
-          "time": "2026-09-24 23:33:02",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉義市祭孔大典 黃敏惠盼從古禮中探索教育精神",
-          "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E5%B8%82%E7%A5%AD%E5%AD%94%E5%A4%A7%E5%85%B8-%E9%BB%83%E6%95%8F%E6%83%A0%E7%9B%BC%E5%BE%9E%E5%8F%A4%E7%A6%AE%E4%B8%AD%E6%8E%A2%E7%B4%A2%E6%95%99%E8%82%B2%E7%B2%BE%E7%A5%9E-150752452.html",
-          "time": "2026-09-24 23:07:52",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "減輕負擔 嘉義市國中小教師每班員額提高",
-          "url": "https://news.ltn.com.tw/news/ChiayiCounty/breakingnews/5585334",
-          "time": "2026-09-24 19:56:32",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "嘉義市教師節表揚212位教育夥伴 明年敬師禮金規劃增至2千元",
-          "url": "https://www.thehubnews.net/archives/668685",
-          "time": "2026-09-24 18:35:04",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "嘉市府攜手九華山地藏庵中秋送暖 3,200份贊普品關懷弱勢",
-          "url": "https://www.thehubnews.net/archives/668687",
-          "time": "2026-09-24 18:33:37",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "中秋前夕送暖敬軍！嘉義市議會感謝國軍官兵守護家園",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WV1lwal83ZUI5SnhPWGVuZ2JCQjlVX3VlbFY3OERUcWFpMnJMRktfRHcyZnRCNTRtRFR4TWVSeW5XcW9zdDdTYmYtVnd5Y0dPb1E?oc=5",
-          "time": "2026-09-24 18:28:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "中秋烤肉樂團圓 嘉市衛生局提醒飲食衛生、落實防蚊",
-          "url": "https://more-news.tw/727942/",
-          "time": "2026-09-24 16:05:27",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "2026年嘉義市議會秋節敬軍 感謝官兵捍衛國家安全",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82UmNPbGZ5d3NHOEJETkswaVNtUUJ3NUV4QkpUMUNWTTBDcnRQZjFBbHgtTG90bmFzSTFITHd6MUV2cTVRLUVEU2VndW1uY25jMVE?oc=5",
-          "time": "2026-09-24 15:57:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉市補助65歲以上健保費！嘉縣不跟進 翁章梁曝原因：縣府還有負債",
-          "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQc1lNVi1saHRTMzBxZXRKVEUta3hDSEpfZWRVUDZQd1hma0VGMEhBV1ZFTzg2RzNTeUNkTnFWazFGVVY2WXc3bWYxTVdnZDVLaC0zV09GRkw1bGNyNXJSYkRDNGtwamZIekVYQ2p3endGcnZvWlJOdUZBOUFIMVFRR3BIOXd1bGJlS0hPOThfZEpKZWFKdndPY25lc2FhRlVoSHZrM2tPYk5zOHgxcEdJRVE2UmhVNHhHaXc4Tk1BbTJhLVBKU3N4UjJ0LXNNNjdJVTMtR0VPWXJmUUh0Y09SMmZxbjdVd3VldWU0N1ctcktvcU9pVnczTGUzNVFGUGU2TXB1UjdyeTZ3TzhqR0VaQ0VqWnh2Q1BvS1Z4SmxPT2J5eXN2UmVqMVU3M0RxUDhPRHJVWWNoSU9hcEZlRW1JLVdZaUZlUjBoQjZVVTVDM3A0S0RoanlvSEFFRHQxeFFVVndiemhMclV0MWgwTEZ2dTZyTXlOWVhKVFhDejZHUnJLQ2M2eEwxVmdzcTFyZUt0eHdWQThDamdRNnlyOXc?oc=5",
-          "time": "2026-09-24 15:32:29",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "黃盈智：民進黨執政台灣好經濟 要把握時機讓嘉義市民好生活",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5taFF5LVlEUkFUWk5paGZMeGpZa0tqdFVKZmpsUjdTdDZ1aWlJc3NYYUM0aVV5QkpYSWVMdllnZzNUZzJONEZrSDZ0RFBuUHRLNFh5UGNoR1lqSlVubk9Qenlod3QtTWU4ei1F?oc=5",
-          "time": "2026-09-24 15:13:53",
-          "publisher": "Google News→台灣華報",
-          "severity": null
-        },
-        {
-          "title": "嘉市中秋送暖 地藏庵發贊普品 黃敏惠：十方來十方去",
-          "url": "https://more-news.tw/727771/",
-          "time": "2026-09-24 13:34:29",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "補助65歲以上健保費！嘉市能 嘉縣不能 翁章梁與蔡易餘表態了",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42TVllZWxJNDB2OUNDZEo1OE95MFlMWTVWY0ZLclJxRUpRLUZoeFVsOGZMdEgzTUJKM1BqOEQyeVg2U1d2WkhNWUF3Mkh2TjBtMHdvVTZReHVEeWFmVHB3VHlmdnY5cjhpMFdNNVdB?oc=5",
-          "time": "2026-09-24 13:23:30",
-          "publisher": "Google News→chinatimes.com",
-          "severity": "yellow"
-        },
-        {
-          "title": "中秋送暖 嘉義市府攜手九華山地藏庵發愛心贊普品",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5584800",
-          "time": "2026-09-24 13:18:37",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "嘉義市古禮祭孔 黃敏惠送「智慧筆」 學子搶拿：開智慧了",
-          "url": "https://more-news.tw/727687/",
-          "time": "2026-09-24 12:03:34",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉市府攜手九華山地藏庵 中秋愛心送暖發放贊普品",
-          "url": "https://n.yam.com/Article/20260924445107",
-          "time": "2026-09-24 12:00:00",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "中秋烤肉樂團圓 嘉市衛生局籲請民眾注意飲食衛生落實防蚊措施",
-          "url": "https://n.yam.com/Article/20260924125307",
-          "time": "2026-09-24 12:00:00",
-          "publisher": "蕃新聞→台灣好報",
-          "severity": null
-        },
-        {
-          "title": "嘉市議會秋節敬軍團赴空軍四聯隊　向國軍官兵致敬送暖",
-          "url": "https://n.yam.com/Article/20260924543387",
-          "time": "2026-09-24 12:00:00",
-          "publisher": "蕃新聞→民生好報",
-          "severity": null
-        },
-        {
-          "title": "嘉市議長陳姿妏帶隊赴空軍基地秋節敬軍&#160;&#160;&#160; 感謝國軍守護家園",
-          "url": "https://n.yam.com/Article/20260924898264",
-          "time": "2026-09-24 12:00:00",
-          "publisher": "蕃新聞→觀傳媒",
-          "severity": null
-        },
-        {
-          "title": "2026年嘉義市議會秋節敬軍 感謝官兵捍衛國家安全",
-          "url": "https://n.yam.com/Article/20260924826973",
-          "time": "2026-09-24 12:00:00",
-          "publisher": "蕃新聞→三星傳媒",
-          "severity": null
-        },
-        {
-          "title": "台灣好報 剛剛 嘉市府x九華山地藏庵 中秋愛心送暖發放贊普品",
-          "url": "https://n.yam.com/Article/20260924864690",
-          "time": "2026-09-24 12:00:00",
-          "publisher": "蕃新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉市祭孔大典今登場！黃敏惠盼學子從古禮中探索至聖先師教育精神",
-          "url": "https://n.yam.com/Article/20260924978496",
-          "time": "2026-09-24 12:00:00",
-          "publisher": "蕃新聞→三星傳媒",
-          "severity": null
-        },
-        {
-          "title": "感謝國軍戮力戰備守護家園 嘉義市議會秋節敬軍團赴空軍四聯隊慰問官兵",
-          "url": "https://n.yam.com/Article/20260924692297",
-          "time": "2026-09-24 12:00:00",
-          "publisher": "蕃新聞→波新聞",
-          "severity": null
-        },
-        {
-          "title": "中秋前夕送暖敬軍！嘉義市議會感謝國軍官兵守護家園",
-          "url": "https://n.yam.com/Article/20260924517746",
-          "time": "2026-09-24 12:00:00",
-          "publisher": "蕃新聞→引新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉義市議會秋節敬軍　赴空軍四聯隊慰問官兵",
-          "url": "https://n.yam.com/Article/20260924974344",
-          "time": "2026-09-24 12:00:00",
-          "publisher": "蕃新聞→台灣好新聞",
-          "severity": null
-        },
-        {
-          "title": "嘉市議長陳姿妏率領議會秋節敬軍團　赴空軍四聯隊慰問官兵",
-          "url": "https://n.yam.com/Article/20260924853042",
-          "time": "2026-09-24 12:00:00",
-          "publisher": "蕃新聞→台灣好報",
-          "severity": null
-        },
-        {
-          "title": "嘉義市議會秋節敬軍 赴空軍四聯隊慰問官兵",
-          "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E5%B8%82%E8%AD%B0%E6%9C%83%E7%A7%8B%E7%AF%80%E6%95%AC%E8%BB%8D-%E8%B5%B4%E7%A9%BA%E8%BB%8D%E5%9B%9B%E8%81%AF%E9%9A%8A%E6%85%B0%E5%95%8F%E5%AE%98%E5%85%B5-110400732.html",
-          "time": "2026-09-24 11:04:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "張啓楷籲嘉義市民手機滑開比政見 預告928競總成立藍白集結",
-          "url": "https://tw.news.yahoo.com/%E5%BC%B5%E5%95%93%E6%A5%B7%E7%B1%B2%E5%98%89%E7%BE%A9%E5%B8%82%E6%B0%91%E6%89%8B%E6%A9%9F%E6%BB%91%E9%96%8B%E6%AF%94%E6%94%BF%E8%A6%8B-%E9%A0%90%E5%91%8A928%E7%AB%B6%E7%B8%BD%E6%88%90%E7%AB%8B%E8%97%8D%E7%99%BD%E9%9B%86%E7%B5%90-030050266.html",
-          "time": "2026-09-24 11:00:50",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "張啓楷籲嘉義市民手機滑開比政見 預告928競總成立藍白集結",
-          "url": "https://cnews.com.tw/174260924a01/",
-          "time": "2026-09-24 11:00:50",
-          "publisher": "匯流新聞網",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "澎湖地方動態",
       "city": "澎湖",
       "place": "澎湖縣政府",
@@ -1883,6 +1673,216 @@
           "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPRjRnWU5vMGpPRXU1Q2lTUmFfajIxY3ZNZUlHXzFnVDM4M1lhbnczbUg3aVVORWw2dVZxM2ZoZUZNSTVzOEJjZHhUa3pwbXRZQTJybkhWZ0RfSEdwMW1XbF9UU1J0dzNaRl81d3pwc2lkdFM2SXR5MGs0clE3S2xPN1FMdHVubjU4eVVjcTNBcWk1Ql90Rk5RQm1WSS1ZbDlwUlJFM0Q5a2JWY3hmZVpNX2JPdm5CNmZyOFJGX3EyNFRzUklDaFNuTWFkcUt5QmFmNV8zcVc3TzhpQXE2b18wak4tOVUwZG85RW02YmFvQ05zSWFQTkx0LXc0cHVLU3o0dFVIdjNoTmlWTW1UcUdiSm1qaXFkTE5ka0FnSEZYb0tIWW1NaDFpSWpmc3Q4dW9nTGZObDJWcFhueW8?oc=5",
           "time": "2026-09-24 10:00:09",
           "publisher": "Google News→澎湖e傳媒",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "嘉義市地方動態",
+      "city": "嘉義市",
+      "place": "嘉義市政府",
+      "level": "yellow",
+      "news_count": 28,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 28,
+      "news_articles": [
+        {
+          "title": "嘉市府攜手九華山地藏庵 中秋愛心送暖",
+          "url": "https://tw.news.yahoo.com/%E5%98%89%E5%B8%82%E5%BA%9C%E6%94%9C%E6%89%8B%E4%B9%9D%E8%8F%AF%E5%B1%B1%E5%9C%B0%E8%97%8F%E5%BA%B5-%E4%B8%AD%E7%A7%8B%E6%84%9B%E5%BF%83%E9%80%81%E6%9A%96-153302840.html",
+          "time": "2026-09-24 23:33:02",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉義市祭孔大典 黃敏惠盼從古禮中探索教育精神",
+          "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E5%B8%82%E7%A5%AD%E5%AD%94%E5%A4%A7%E5%85%B8-%E9%BB%83%E6%95%8F%E6%83%A0%E7%9B%BC%E5%BE%9E%E5%8F%A4%E7%A6%AE%E4%B8%AD%E6%8E%A2%E7%B4%A2%E6%95%99%E8%82%B2%E7%B2%BE%E7%A5%9E-150752452.html",
+          "time": "2026-09-24 23:07:52",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "減輕負擔 嘉義市國中小教師每班員額提高",
+          "url": "https://news.ltn.com.tw/news/ChiayiCounty/breakingnews/5585334",
+          "time": "2026-09-24 19:56:32",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "嘉義市教師節表揚212位教育夥伴 明年敬師禮金規劃增至2千元",
+          "url": "https://www.thehubnews.net/archives/668685",
+          "time": "2026-09-24 18:35:04",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "嘉市府攜手九華山地藏庵中秋送暖 3,200份贊普品關懷弱勢",
+          "url": "https://www.thehubnews.net/archives/668687",
+          "time": "2026-09-24 18:33:37",
+          "publisher": "新頭條",
+          "severity": null
+        },
+        {
+          "title": "中秋前夕送暖敬軍！嘉義市議會感謝國軍官兵守護家園",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WV1lwal83ZUI5SnhPWGVuZ2JCQjlVX3VlbFY3OERUcWFpMnJMRktfRHcyZnRCNTRtRFR4TWVSeW5XcW9zdDdTYmYtVnd5Y0dPb1E?oc=5",
+          "time": "2026-09-24 18:28:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "中秋烤肉樂團圓 嘉市衛生局提醒飲食衛生、落實防蚊",
+          "url": "https://more-news.tw/727942/",
+          "time": "2026-09-24 16:05:27",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "2026年嘉義市議會秋節敬軍 感謝官兵捍衛國家安全",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82UmNPbGZ5d3NHOEJETkswaVNtUUJ3NUV4QkpUMUNWTTBDcnRQZjFBbHgtTG90bmFzSTFITHd6MUV2cTVRLUVEU2VndW1uY25jMVE?oc=5",
+          "time": "2026-09-24 15:57:00",
+          "publisher": "Google News→蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉市補助65歲以上健保費！嘉縣不跟進 翁章梁曝原因：縣府還有負債",
+          "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQc1lNVi1saHRTMzBxZXRKVEUta3hDSEpfZWRVUDZQd1hma0VGMEhBV1ZFTzg2RzNTeUNkTnFWazFGVVY2WXc3bWYxTVdnZDVLaC0zV09GRkw1bGNyNXJSYkRDNGtwamZIekVYQ2p3endGcnZvWlJOdUZBOUFIMVFRR3BIOXd1bGJlS0hPOThfZEpKZWFKdndPY25lc2FhRlVoSHZrM2tPYk5zOHgxcEdJRVE2UmhVNHhHaXc4Tk1BbTJhLVBKU3N4UjJ0LXNNNjdJVTMtR0VPWXJmUUh0Y09SMmZxbjdVd3VldWU0N1ctcktvcU9pVnczTGUzNVFGUGU2TXB1UjdyeTZ3TzhqR0VaQ0VqWnh2Q1BvS1Z4SmxPT2J5eXN2UmVqMVU3M0RxUDhPRHJVWWNoSU9hcEZlRW1JLVdZaUZlUjBoQjZVVTVDM3A0S0RoanlvSEFFRHQxeFFVVndiemhMclV0MWgwTEZ2dTZyTXlOWVhKVFhDejZHUnJLQ2M2eEwxVmdzcTFyZUt0eHdWQThDamdRNnlyOXc?oc=5",
+          "time": "2026-09-24 15:32:29",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "黃盈智：民進黨執政台灣好經濟 要把握時機讓嘉義市民好生活",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5taFF5LVlEUkFUWk5paGZMeGpZa0tqdFVKZmpsUjdTdDZ1aWlJc3NYYUM0aVV5QkpYSWVMdllnZzNUZzJONEZrSDZ0RFBuUHRLNFh5UGNoR1lqSlVubk9Qenlod3QtTWU4ei1F?oc=5",
+          "time": "2026-09-24 15:13:53",
+          "publisher": "Google News→台灣華報",
+          "severity": null
+        },
+        {
+          "title": "嘉市中秋送暖 地藏庵發贊普品 黃敏惠：十方來十方去",
+          "url": "https://more-news.tw/727771/",
+          "time": "2026-09-24 13:34:29",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "補助65歲以上健保費！嘉市能 嘉縣不能 翁章梁與蔡易餘表態了",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42TVllZWxJNDB2OUNDZEo1OE95MFlMWTVWY0ZLclJxRUpRLUZoeFVsOGZMdEgzTUJKM1BqOEQyeVg2U1d2WkhNWUF3Mkh2TjBtMHdvVTZReHVEeWFmVHB3VHlmdnY5cjhpMFdNNVdB?oc=5",
+          "time": "2026-09-24 13:23:30",
+          "publisher": "Google News→chinatimes.com",
+          "severity": "yellow"
+        },
+        {
+          "title": "中秋送暖 嘉義市府攜手九華山地藏庵發愛心贊普品",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5584800",
+          "time": "2026-09-24 13:18:37",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "嘉義市古禮祭孔 黃敏惠送「智慧筆」 學子搶拿：開智慧了",
+          "url": "https://more-news.tw/727687/",
+          "time": "2026-09-24 12:03:34",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉市府攜手九華山地藏庵 中秋愛心送暖發放贊普品",
+          "url": "https://n.yam.com/Article/20260924445107",
+          "time": "2026-09-24 12:00:00",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "中秋烤肉樂團圓 嘉市衛生局籲請民眾注意飲食衛生落實防蚊措施",
+          "url": "https://n.yam.com/Article/20260924125307",
+          "time": "2026-09-24 12:00:00",
+          "publisher": "蕃新聞→台灣好報",
+          "severity": null
+        },
+        {
+          "title": "嘉市議會秋節敬軍團赴空軍四聯隊　向國軍官兵致敬送暖",
+          "url": "https://n.yam.com/Article/20260924543387",
+          "time": "2026-09-24 12:00:00",
+          "publisher": "蕃新聞→民生好報",
+          "severity": null
+        },
+        {
+          "title": "嘉市議長陳姿妏帶隊赴空軍基地秋節敬軍&#160;&#160;&#160; 感謝國軍守護家園",
+          "url": "https://n.yam.com/Article/20260924898264",
+          "time": "2026-09-24 12:00:00",
+          "publisher": "蕃新聞→觀傳媒",
+          "severity": null
+        },
+        {
+          "title": "2026年嘉義市議會秋節敬軍 感謝官兵捍衛國家安全",
+          "url": "https://n.yam.com/Article/20260924826973",
+          "time": "2026-09-24 12:00:00",
+          "publisher": "蕃新聞→三星傳媒",
+          "severity": null
+        },
+        {
+          "title": "台灣好報 剛剛 嘉市府x九華山地藏庵 中秋愛心送暖發放贊普品",
+          "url": "https://n.yam.com/Article/20260924864690",
+          "time": "2026-09-24 12:00:00",
+          "publisher": "蕃新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉市祭孔大典今登場！黃敏惠盼學子從古禮中探索至聖先師教育精神",
+          "url": "https://n.yam.com/Article/20260924978496",
+          "time": "2026-09-24 12:00:00",
+          "publisher": "蕃新聞→三星傳媒",
+          "severity": null
+        },
+        {
+          "title": "感謝國軍戮力戰備守護家園 嘉義市議會秋節敬軍團赴空軍四聯隊慰問官兵",
+          "url": "https://n.yam.com/Article/20260924692297",
+          "time": "2026-09-24 12:00:00",
+          "publisher": "蕃新聞→波新聞",
+          "severity": null
+        },
+        {
+          "title": "中秋前夕送暖敬軍！嘉義市議會感謝國軍官兵守護家園",
+          "url": "https://n.yam.com/Article/20260924517746",
+          "time": "2026-09-24 12:00:00",
+          "publisher": "蕃新聞→引新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉義市議會秋節敬軍　赴空軍四聯隊慰問官兵",
+          "url": "https://n.yam.com/Article/20260924974344",
+          "time": "2026-09-24 12:00:00",
+          "publisher": "蕃新聞→台灣好新聞",
+          "severity": null
+        },
+        {
+          "title": "嘉市議長陳姿妏率領議會秋節敬軍團　赴空軍四聯隊慰問官兵",
+          "url": "https://n.yam.com/Article/20260924853042",
+          "time": "2026-09-24 12:00:00",
+          "publisher": "蕃新聞→台灣好報",
+          "severity": null
+        },
+        {
+          "title": "嘉義市議會秋節敬軍 赴空軍四聯隊慰問官兵",
+          "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E5%B8%82%E8%AD%B0%E6%9C%83%E7%A7%8B%E7%AF%80%E6%95%AC%E8%BB%8D-%E8%B5%B4%E7%A9%BA%E8%BB%8D%E5%9B%9B%E8%81%AF%E9%9A%8A%E6%85%B0%E5%95%8F%E5%AE%98%E5%85%B5-110400732.html",
+          "time": "2026-09-24 11:04:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "張啓楷籲嘉義市民手機滑開比政見 預告928競總成立藍白集結",
+          "url": "https://tw.news.yahoo.com/%E5%BC%B5%E5%95%93%E6%A5%B7%E7%B1%B2%E5%98%89%E7%BE%A9%E5%B8%82%E6%B0%91%E6%89%8B%E6%A9%9F%E6%BB%91%E9%96%8B%E6%AF%94%E6%94%BF%E8%A6%8B-%E9%A0%90%E5%91%8A928%E7%AB%B6%E7%B8%BD%E6%88%90%E7%AB%8B%E8%97%8D%E7%99%BD%E9%9B%86%E7%B5%90-030050266.html",
+          "time": "2026-09-24 11:00:50",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "張啓楷籲嘉義市民手機滑開比政見 預告928競總成立藍白集結",
+          "url": "https://cnews.com.tw/174260924a01/",
+          "time": "2026-09-24 11:00:50",
+          "publisher": "匯流新聞網",
           "severity": null
         }
       ],
@@ -8025,11 +8025,11 @@
       "city": "新北",
       "place": "新北市政府",
       "level": "red",
-      "news_count": 140,
+      "news_count": 138,
       "comment_count": 0,
       "negativity_pct": 9,
       "is_urgent": false,
-      "urgency_score": 176,
+      "urgency_score": 174,
       "news_articles": [
         {
           "title": "新北國三生剪刀狠刺學長！同學曝「兩人根本不認識」 網質疑自首動機",
@@ -8996,20 +8996,6 @@
           "time": "2026-09-24 10:00:00",
           "publisher": "關鍵評論網",
           "severity": null
-        },
-        {
-          "title": "新北男跌落地下室雙腿骨折 送醫驚爆吞下3顆子彈",
-          "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E7%94%B7%E8%B7%8C%E8%90%BD%E5%9C%B0%E4%B8%8B%E5%AE%A4%E9%9B%99%E8%85%BF%E9%AA%A8%E6%8A%98-%E9%80%81%E9%86%AB%E9%A9%9A%E7%88%86%E5%90%9E%E4%B8%8B3%E9%A1%86%E5%AD%90%E5%BD%88-015600797.html",
-          "time": "2026-09-24 09:56:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "新北男跌落地下室雙腿骨折 送醫驚爆吞下3顆子彈",
-          "url": "https://news.ebc.net.tw/news/society/572692",
-          "time": "2026-09-24 09:56:00",
-          "publisher": "東森新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -11189,11 +11175,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 204,
+      "news_count": 203,
       "comment_count": 0,
       "negativity_pct": 13,
       "is_urgent": false,
-      "urgency_score": 285,
+      "urgency_score": 284,
       "news_articles": [
         {
           "title": "115全民運10月在桃園 桃市府推機捷主題車站、彩繪列車熱血相挺",
@@ -12614,13 +12600,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwUG1ZUmE5SWV4STVZSHBtc0hqNlZZM3hMV0dZTmhyNDAyWThhRXFkUEhGTEpJOUFjS1FDeGJzTWZjUnUzSWVheUZ3b0JvTWpQS1Zzc3lB?oc=5",
           "time": "2026-09-24 09:56:31",
           "publisher": "Google News→Mombaby 媽媽寶寶懷孕生活網",
-          "severity": null
-        },
-        {
-          "title": "七都十大交易熱區出爐！桃園、中壢搶下冠亞軍 專家：低房價、交通吸引通勤族",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTU0hvRk92elM5T2RMaUpjNnowMmpHV1pLelBuQjkzVjNQNGVKMzNfSjFSVTZUNTR3dGhWMnBhUk1HQ1pvbzVLY1dSWDRuYkZ4VkFUNk9aWnNCZmVvTklzaWo4X291SE1fWDZz0gFwQVVfeXFMTllmaGUtVEk4My0yeWJLOW16NjhyT184bDZMQ0xpR3dxTk9LWFRlZDFVMmJpWktQLUxDUDk4UFhXS2UwTnJpOVF1Qjk4SUZHSkJPMHczbnk0bkZGNWZxTXRlUWk1VDhjeXRwb0Nmc3JxdA?oc=5",
-          "time": "2026-09-24 09:55:00",
-          "publisher": "Google News→好房網News",
           "severity": null
         }
       ],

@@ -105828,7 +105828,7 @@
     },
     {
       "date": "2026-09-25",
-      "snapshot_at": "2026-09-25T01:53:18.311161+00:00",
+      "snapshot_at": "2026-09-25T01:56:28.240824+00:00",
       "hotspots": [
         {
           "title": "基隆鼠患事件",
@@ -105887,20 +105887,6 @@
           ]
         },
         {
-          "title": "嘉義縣火災事件",
-          "city": "嘉義縣",
-          "place": "嘉義縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "目擊火災劫難 蕭荏佑堅定公益信念領嘉義縣心意慈善會傳愛全台"
-          ]
-        },
-        {
           "title": "台北火災事件",
           "city": "台北",
           "place": "台北市政府",
@@ -105915,9 +105901,9 @@
           ]
         },
         {
-          "title": "台北車禍事件",
-          "city": "台北",
-          "place": "台北市政府",
+          "title": "嘉義縣火災事件",
+          "city": "嘉義縣",
+          "place": "嘉義縣政府",
           "level": "green",
           "news_count": 1,
           "comment_count": 0,
@@ -105925,7 +105911,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "中和女過馬路遭撞！「捲入車底慘遭拖行」 4熱心民眾緊急抬車救人 新北市中和區景平路昨（24）日晚間8時許發生一起驚險車禍"
+            "目擊火災劫難 蕭荏佑堅定公益信念領嘉義縣心意慈善會傳愛全台"
           ]
         },
         {
@@ -105940,6 +105926,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "告別塞車與車禍高風險 桃園永安觀海橋斥資3千萬拓寬"
+          ]
+        },
+        {
+          "title": "台北車禍事件",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "中和女過馬路遭撞！「捲入車底慘遭拖行」 4熱心民眾緊急抬車救人 新北市中和區景平路昨（24）日晚間8時許發生一起驚險車禍"
           ]
         },
         {
@@ -106265,22 +106265,6 @@
           ]
         },
         {
-          "title": "嘉義市地方動態",
-          "city": "嘉義市",
-          "place": "嘉義市政府",
-          "level": "yellow",
-          "news_count": 28,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 28,
-          "sample_titles": [
-            "嘉市府攜手九華山地藏庵 中秋愛心送暖",
-            "嘉義市祭孔大典 黃敏惠盼從古禮中探索教育精神",
-            "減輕負擔 嘉義市國中小教師每班員額提高"
-          ]
-        },
-        {
           "title": "澎湖地方動態",
           "city": "澎湖",
           "place": "澎湖縣政府",
@@ -106294,6 +106278,22 @@
             "飄香! 澎湖千人烤肉趴 歡聚「澎湖小希臘」三仙塔",
             "孔子誕辰2576周年 澎湖孔廟舉辦釋奠大典",
             "澎湖地檢反賄列車 吳檢察長領軍深入陸、海、空三軍"
+          ]
+        },
+        {
+          "title": "嘉義市地方動態",
+          "city": "嘉義市",
+          "place": "嘉義市政府",
+          "level": "yellow",
+          "news_count": 28,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 28,
+          "sample_titles": [
+            "嘉市府攜手九華山地藏庵 中秋愛心送暖",
+            "嘉義市祭孔大典 黃敏惠盼從古禮中探索教育精神",
+            "減輕負擔 嘉義市國中小教師每班員額提高"
           ]
         },
         {
@@ -106583,11 +106583,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 140,
+          "news_count": 138,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 176,
+          "urgency_score": 174,
           "sample_titles": [
             "新北國三生剪刀狠刺學長！同學曝「兩人根本不認識」 網質疑自首動機",
             "新北火災！早餐店、金紙店驚傳爆炸聲 14人送醫",
@@ -106631,11 +106631,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 204,
+          "news_count": 203,
           "comment_count": 0,
           "negativity_pct": 13,
           "is_urgent": false,
-          "urgency_score": 285,
+          "urgency_score": 284,
           "sample_titles": [
             "115全民運10月在桃園 桃市府推機捷主題車站、彩繪列車熱血相挺",
             "2026台灣設計展首度登陸桃園！設計能量全面引爆 跟著Flowmomo跑跳數位集章，跨界享 Global Mall 桃園",
