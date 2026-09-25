@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "snapshot_at": "2026-09-25T10:08:22.278816+00:00",
+  "snapshot_at": "2026-09-25T10:19:45.894813+00:00",
   "hotspots": [
     {
       "title": "台北軍購爭議",
@@ -66,27 +66,6 @@
       "comments": []
     },
     {
-      "title": "彰化車禍事件",
-      "city": "彰化",
-      "place": "彰化縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "田尾前鄉長林文華偕妻拜票車禍翻覆！2人一度受困 幸送醫無礙",
-          "url": "https://tw.news.yahoo.com/%E7%94%B0%E5%B0%BE%E5%89%8D%E9%84%89%E9%95%B7%E6%9E%97%E6%96%87%E8%8F%AF%E5%81%95%E5%A6%BB%E6%8B%9C%E7%A5%A8%E8%BB%8A%E7%A6%8D%E7%BF%BB%E8%A6%86-2%E4%BA%BA-%E5%BA%A6%E5%8F%97%E5%9B%B0-%E5%B9%B8%E9%80%81%E9%86%AB%E7%84%A1%E7%A4%99-074919799.html",
-          "time": "2026-09-25 07:49:19",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台北車禍事件",
       "city": "台北",
       "place": "台北市政府",
@@ -102,6 +81,27 @@
           "url": "https://news.tvbs.com.tw/local/4027215",
           "time": "2026-09-25 05:43:16",
           "publisher": "TVBS",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "彰化車禍事件",
+      "city": "彰化",
+      "place": "彰化縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "田尾前鄉長林文華偕妻拜票車禍翻覆！2人一度受困 幸送醫無礙",
+          "url": "https://tw.news.yahoo.com/%E7%94%B0%E5%B0%BE%E5%89%8D%E9%84%89%E9%95%B7%E6%9E%97%E6%96%87%E8%8F%AF%E5%81%95%E5%A6%BB%E6%8B%9C%E7%A5%A8%E8%BB%8A%E7%A6%8D%E7%BF%BB%E8%A6%86-2%E4%BA%BA-%E5%BA%A6%E5%8F%97%E5%9B%B0-%E5%B9%B8%E9%80%81%E9%86%AB%E7%84%A1%E7%A4%99-074919799.html",
+          "time": "2026-09-25 07:49:19",
+          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -942,27 +942,6 @@
       "comments": []
     },
     {
-      "title": "苗栗弊案爭議",
-      "city": "苗栗",
-      "place": "苗栗縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "苗栗竹南鎮長參選人茶葉、果乾禮盒賄選 生日當天遭收押",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83cS1BVDREdm1YaEhJZ19wanpaWTlZcC1Ub1Nac2hFZGF5cHlWeEluVnozRUpqQ3pRaGhjVE5MYzJPeWZtd3RRcERSRVRyRkdGMlI2eWVGcFhaWHZfcGfSAUtBVV95cUxOOU0wTXNudkZUdF9CZDN6dHAwWXFUOFpPc3NJV3NrRnZmT3czal9icEZOeHVKYXAxNVpFeVNFR0NRYjdnY2FoYkY3NXc?oc=5",
-          "time": "2026-09-25 15:50:00",
-          "publisher": "ETtoday",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "高雄弊案爭議",
       "city": "高雄",
       "place": "高雄市政府",
@@ -999,6 +978,27 @@
           "url": "https://www.setn.com/news/1912534",
           "time": "2026-09-24 19:48:21",
           "publisher": "三立新聞網",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "苗栗弊案爭議",
+      "city": "苗栗",
+      "place": "苗栗縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "苗栗竹南鎮長參選人茶葉、果乾禮盒賄選 生日當天遭收押",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83cS1BVDREdm1YaEhJZ19wanpaWTlZcC1Ub1Nac2hFZGF5cHlWeEluVnozRUpqQ3pRaGhjVE5MYzJPeWZtd3RRcERSRVRyRkdGMlI2eWVGcFhaWHZfcGfSAUtBVV95cUxOOU0wTXNudkZUdF9CZDN6dHAwWXFUOFpPc3NJV3NrRnZmT3czal9icEZOeHVKYXAxNVpFeVNFR0NRYjdnY2FoYkY3NXc?oc=5",
+          "time": "2026-09-25 15:50:00",
+          "publisher": "ETtoday",
           "severity": "red"
         }
       ],
@@ -1093,11 +1093,11 @@
       "city": "金門",
       "place": "金門縣政府",
       "level": "yellow",
-      "news_count": 12,
+      "news_count": 11,
       "comment_count": 0,
-      "negativity_pct": 8,
+      "negativity_pct": 9,
       "is_urgent": false,
-      "urgency_score": 15,
+      "urgency_score": 14,
       "news_articles": [
         {
           "title": "金門國境安全秋節不打烊 岸海聯合擴大威力掃蕩",
@@ -1174,13 +1174,6 @@
           "url": "https://www.cdns.com.tw/articles/1465381",
           "time": "2026-09-24 19:45:28",
           "publisher": "中華日報",
-          "severity": null
-        },
-        {
-          "title": "金門10／3「玩水祭」登場 玖壹壹、郭書瑤齊聚烈嶼",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrcFh1elR4ZHNGT3ZNd20zTXNKMWJSc3B6LXFXWEp5WE1oVXRleWZCMWxMMWpwTVRmNkhuVHVtY0FwLXo5alNDX2owczlTbU5KVFJXMkFOUDV6N1huTkHSAUtBVV95cUxNQTFFVGIweVU3UGZjNmR5MXlWOHVSMm0yTXBrZFlXS3EzR3NSeWtvWXBxQy02dlZMQUNpcW5Wa3M5VllzbE9ERVBWZ2c?oc=5",
-          "time": "2026-09-24 18:17:00",
-          "publisher": "ETtoday",
           "severity": null
         }
       ],
@@ -1303,11 +1296,11 @@
       "city": "新竹市",
       "place": "新竹市政府",
       "level": "yellow",
-      "news_count": 18,
+      "news_count": 17,
       "comment_count": 0,
       "negativity_pct": 6,
       "is_urgent": false,
-      "urgency_score": 21,
+      "urgency_score": 20,
       "news_articles": [
         {
           "title": "舊家具華麗變身！竹市街坊換工日10/4登場 高虹安市長邀市民來將軍村尋寶",
@@ -1427,13 +1420,6 @@
           "time": "2026-09-24 19:21:00",
           "publisher": "Google News→cna.com.tw",
           "severity": "yellow"
-        },
-        {
-          "title": "2026新竹市萬聖節 「宇宙集結令」10/16登場",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xRmJON29iam93NXhCbUxMUVQ5dmFySFJBQUgwTExIN1BBY1l2UDMwV241b3QwZmJUcllLazhBVWduVGY2QTVwVVU0QlBmakx4R2Y4S3Vn?oc=5",
-          "time": "2026-09-24 18:09:07",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
         }
       ],
       "comments": []
@@ -1590,11 +1576,11 @@
       "city": "台中",
       "place": "台中市烏日區",
       "level": "yellow",
-      "news_count": 73,
+      "news_count": 71,
       "comment_count": 23,
       "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 109,
+      "urgency_score": 107,
       "news_articles": [
         {
           "title": "盧秀燕贈匾「護國佑民」感念玉旨奉天宮保佑",
@@ -2091,20 +2077,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43UENKWU1ESTNXWExwbXFHNTdVTVE2R010UEdCN1dQejVVQ25OVkZManlKN3RibHFab2V1cS0xcTJDUGFEN2ludFlELWh2M1BLX25fUA?oc=5",
           "time": "2026-09-24 18:47:04",
           "publisher": "Google News→臺灣導報",
-          "severity": "yellow"
-        },
-        {
-          "title": "川習會盧秀燕喊總統等首長中秋不要歌舞昇平 挨轟「先管好市政」",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9neGxoamg2MTFYQWxNSi14a0pRM2c2YWYxaVk1Y04xSVVyNmd2TS1oaWFZcWJPMVdOcWgzcmRIeGQzektXTWZsTENoSzFsX1liS3pvYkQtZy1yOGZOSzdPTHF2TGNOUEpqWkHSAW9BVV95cUxOblc3Q3U4MVpJSUlNd05IVEFZc1JJUDRxbFVpSElIaVJ2ZjhoRFJ6TmlWNG5kSHZtV3NPUlRJblNET0JyeGx3TlZ3VDltNzVid1JxUVlyT2hEUk9TSldwYl83RDBtaWVhaU5TUmpLblE?oc=5",
-          "time": "2026-09-24 18:14:50",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "美方稱軍售不會只考慮台灣需求 盧秀燕：賴政府應確認明年軍購武器能否到位",
-          "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxORUVpYVZneHJaM21wQzNFOHBkdmNXTGtvNFZHNXBObW1FZndPRnJZaTd2MmdTa0dTNDZXb2JEam0taW9iTVd4STB3dlJwYnpaUm51NlF4SnB4R01OOXItNXkzaHhOZnNOalNIRjk5cnU1WWlPX0xqVDVLYzJkX3V1WDI2OWs0UW5COGEtQmZ4WnBteWNDdFJWYmJLQ2NheEh2NkNGZ2EzcG9SQS1ERnJkVmROUGxXQ3pHRUVEYjVxT3ZoYXpOaTFoX3dET0h6YzFOaHJJMExtYUpqYWtVblhSNWlqYVRyWXZEdUwxT1ltYWZvYUhMenBPTVFmUDZjd3dsSTIzMXdyVkIwb3VHeUhWSDIyb1h3RVg5RWdFVy1wQ25BbTVpRHE4eWl3V2d6Y3JleGZ6RnpLLUxFXzNUV1IyRmZUODdhNkhMVDc1R1FYSEpsOWNMdmpSS1JUTGJrYk5GUEdoM1RfM19pMF8wam9SZWMxV25Ua1U0aXRNejVhUkpEb09yVXFwUkd2ZVpBQXR1RXNvX0dGOTQ5Sk1mVGpzSkFBMXJxWGFad1ZFMWRDNEVnZ29zaWRfN2hNWUJVWVNMbkZINGd3LVQyaTNaNUJsUWM2Q1I1UmpCTWNnU0RFbzhvdw?oc=5",
-          "time": "2026-09-24 18:14:50",
-          "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
       ],
@@ -3798,11 +3770,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "red",
-      "news_count": 60,
+      "news_count": 57,
       "comment_count": 0,
-      "negativity_pct": 8,
+      "negativity_pct": 9,
       "is_urgent": false,
-      "urgency_score": 75,
+      "urgency_score": 72,
       "news_articles": [
         {
           "title": "屏東北大武山新入口 泰武鄉旅遊服務中心動土",
@@ -4201,27 +4173,6 @@
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KQ3RIdjR5UDJON3IycUJDai02YjJ2Mk52UFFtZVc1T0l1WVIwR0dMQWpocG9qeXAwdEFyNTVhcFZFdDN4c3dtOUFpZ09YT3JPYk9MYlc2b1FJeG02blZWeNIBZkFVX3lxTE1WVzlOYmdYanIwZ295RDRKUl9wa0U3UTVtMXdLLUVlaTNHZTM2Rks2YkNvdW9ncVR6NnRLRE9sWHBVX2JnN3p4UjlaalkzZW1KWFoxYUJzTmZzTEVOREZLMVBGUFprZw?oc=5",
           "time": "2026-09-24 18:36:00",
           "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "漢神巨蛋屏東物產展登場",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rcHQtVzJlZm5VVWhyNEw3bmE5RU4tTmZHcGpWTVpveHA1R3Bmcjd0eGZqMDlMX1pZRG1TQWV1X0VUNzU2TGsxOQ?oc=5",
-          "time": "2026-09-24 18:19:18",
-          "publisher": "Google News→台灣民眾電子報",
-          "severity": null
-        },
-        {
-          "title": "曾被撤照沒學乖！ 屏東農業行賣偽農藥「草枯拜」 2年狂撈830萬",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VcURDdnVhWkJIOEZSOUQ0N2V5Z0tmcFhqZlUwTXhBZ3NEbXA1SWdrOXBiakdYenZFekR1ODdmdDREQURDejdfZHJUS0J0ZTZWWnRiSHBnQ0ZIbkhRNlE4cThJa2llb19MQnR4N2Zn?oc=5",
-          "time": "2026-09-24 18:15:36",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "史崇理屏東拜會周春米延續台美地方友好交流| 地方",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvM3FsSVZORWJVQXp0ZUg3RWs1cnc5VUFYMlV0RWx2SXhCUjd0SHMzLXZqcExkWU1WcWNsUzRHOUJ3aDZOem5YamdKNDNmSGI2aWJkSXdZRjZhOEQ4ZlR3?oc=5",
-          "time": "2026-09-24 18:12:00",
-          "publisher": "Google News→cna.com.tw",
           "severity": null
         }
       ],
@@ -4680,11 +4631,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 63,
+      "news_count": 62,
       "comment_count": 0,
       "negativity_pct": 11,
       "is_urgent": false,
-      "urgency_score": 84,
+      "urgency_score": 83,
       "news_articles": [
         {
           "title": "中秋團圓遇憾事！祖孫三代花蓮出遊遭撞 1死2昏迷2輕傷",
@@ -5118,13 +5069,6 @@
           "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxORlRmcjhSbUhjU2YwVnJkTzdJclItWVhCNDdFbEtQR2NaRnVDekk0cDY5a2ljc0ZOSkFjN1NCZU1Tc3BXTU9hUGpJZUM4NUZlMUd5ODJMZmJOUHM5eWV5VW45aXpFakxqOVBIWUc0Z2o0aHJZWWJrRXcteXdUV2ZQM2xMQU9JbmVKMG9seFQwNTRmbk5IMmR4WlllMlRJVXpSbHUtUnpPbk1zVG5fWlpwTi15UTRLOXlXc0duY1pFYnlIVFhnb1JKQ3N5WjdJbFo2bUFWVXJ0b3ZmT3duRUxLTnRKMmRNVVhHc0pYNi1FbWF3MWxFWEQwUklONDFyb09fQmNsOE5xbXRVN2RkbHR1Z3ZJNzNoTWx2dmhVR0pLTGJJUWQ0VXVoNQ?oc=5",
           "time": "2026-09-24 18:30:14",
           "publisher": "Google News→花蓮最速報",
-          "severity": null
-        },
-        {
-          "title": "花蓮連假訂房率全台第2 游淑貞：讓觀光紅利走進13鄉鎮",
-          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOTkhrV2tvbjd1ZkVmVzlZX056cV9mWlp2dE5IczRCLVlMQW1CbDdpY0x2NlNES05WZU8yRm9NTVlUNXI2Q0llMmRrRFptbUZiRmswY3pBOF9veFZkSkN4dG1oNzRjRTJkT05IRjluZjBlaXF6WG8wRWtWcFhhbVBhZ2Yyc290b21PdnpTX3N3TTFFcUN5Qnc2VEdKdVFVSWdNZGtlREwyUnVTNGRCZS1GZG1xOVpieGNpT2xVamltOEIzVElVaFFlSThfQkxLUTgzM1Y3NTVPdWwxYktJai1Vczd6VFJGSlVwOFFfYVRlTXRvbHgzY1BiREJyZDA2cEs2bThKdWxINlpBLUlyNXpLTWUtaUY3Mm1mNXlDNFlWcU9QeDdaelRoMzZDNmpPVV9qMEMxSGR5QU5XTFBiamdBV1ZmaWdFTkY0SkxpNVJDYXZRVVRQTktwOC1tcjQxUC00UWc?oc=5",
-          "time": "2026-09-24 18:10:00",
-          "publisher": "Yahoo新聞",
           "severity": null
         }
       ],
@@ -5702,11 +5646,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 83,
+      "news_count": 81,
       "comment_count": 0,
-      "negativity_pct": 8,
+      "negativity_pct": 9,
       "is_urgent": false,
-      "urgency_score": 104,
+      "urgency_score": 102,
       "news_articles": [
         {
           "title": "拍照分享居家改善前後對比 桃園消防復旦分隊送好禮",
@@ -6274,20 +6218,6 @@
           "time": "2026-09-24 18:58:05",
           "publisher": "自由時報",
           "severity": "yellow"
-        },
-        {
-          "title": "2026台灣設計展《光流方舟》從海拔0到2000公尺，走進桃園未來農業想像- 活動大聲公- 微笑台灣- 用深度旅遊體驗鄉鎮魅力",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NbG9xZkhyMkE5VF9zRUhlbV9GQjFjWmRsNGk3Y2VLRk41U2hyTW15WjN2azNfNDVoeGFjRXNLem83V1NOSGlCZ0pnbU9vcDA1LUdzVA?oc=5",
-          "time": "2026-09-24 18:15:22",
-          "publisher": "Google News→smiletaiwan.cw.com.tw",
-          "severity": null
-        },
-        {
-          "title": "桃茶生活節進駐桃園機場「桃茶沙龍」讓百年茶鄉走向國際 | 中華日報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fSnllRHp4WG90VTctMGJZOWtvTFBtOHZCWEpoRWJZMWlPVUxJLXAzOTB3ZmVHeHUwOUtuczFoaGszaENtQXRNdldjY1ZYMi1ERnRhWkVR?oc=5",
-          "time": "2026-09-24 18:11:48",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
         }
       ],
       "comments": []
@@ -6297,11 +6227,11 @@
       "city": "台中",
       "place": "台中市清水區",
       "level": "red",
-      "news_count": 86,
+      "news_count": 85,
       "comment_count": 0,
-      "negativity_pct": 3,
+      "negativity_pct": 4,
       "is_urgent": false,
-      "urgency_score": 95,
+      "urgency_score": 94,
       "news_articles": [
         {
           "title": "中秋節返回基隆合體力挺謝國樑 盧秀燕認了「很掛心」選情",
@@ -6897,13 +6827,6 @@
           "time": "2026-09-24 18:33:06",
           "publisher": "自由時報",
           "severity": null
-        },
-        {
-          "title": "八年市政持續空轉 民進黨林祈烽等議員送台中市長盧秀燕2米長「台中空轉瓶」",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuSXRfOFRZdG9La3NKMmc1RzI3YlFrdHRhbFBhSWJULW03bWZ2WUpxNTY2b0JqRzlSWmNvdXVPVWNTck9mVzV0TWlsZ0swbEtLTkV4T252X1lzbERjbjNiVTZRNkpPaTZi?oc=5",
-          "time": "2026-09-24 18:09:40",
-          "publisher": "Google News→元丰傳媒",
-          "severity": "yellow"
         }
       ],
       "comments": []
