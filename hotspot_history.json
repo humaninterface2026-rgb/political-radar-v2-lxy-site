@@ -106461,22 +106461,8 @@
     },
     {
       "date": "2026-09-26",
-      "snapshot_at": "2026-09-26T10:07:14.359289+00:00",
+      "snapshot_at": "2026-09-26T10:18:11.311501+00:00",
       "hotspots": [
-        {
-          "title": "台北公廁議題",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 1,
-          "sample_titles": [
-            "國民黨新北市長參選人李四川今天出席市議員參選人林正峰聯合競選總部成立大會，眾多鄉親到場支持齊聲高喊「凍蒜」，展現團結氣勢"
-          ]
-        },
         {
           "title": "宜蘭公廁議題",
           "city": "宜蘭",
@@ -106489,6 +106475,20 @@
           "urgency_score": 1,
           "sample_titles": [
             "羅東公園公廁傳偷拍男童案 警依法函送法辦"
+          ]
+        },
+        {
+          "title": "台北公廁議題",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 1,
+          "sample_titles": [
+            "國民黨新北市長參選人李四川今天出席市議員參選人林正峰聯合競選總部成立大會，眾多鄉親到場支持齊聲高喊「凍蒜」，展現團結氣勢"
           ]
         },
         {
@@ -106506,20 +106506,6 @@
           ]
         },
         {
-          "title": "高雄車禍事件",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "國1高雄九如路段「連環車禍」！疑半聯結車變換車道不當釀追撞"
-          ]
-        },
-        {
           "title": "台中車禍事件",
           "city": "台中",
           "place": "台中市政府",
@@ -106531,20 +106517,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "中秋連假台中2車禍！休旅車側翻困駕駛 深夜再傳自撞路邊車 中秋連假期間，台中市接連發生兩起交通事故。24日晚間神岡區發生"
-          ]
-        },
-        {
-          "title": "南投車禍事件",
-          "city": "南投",
-          "place": "南投縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "南投台14甲線離奇車禍！休旅車「斜插護欄」受困…網友驚：怎麼撞的？"
           ]
         },
         {
@@ -106562,6 +106534,34 @@
           ]
         },
         {
+          "title": "高雄車禍事件",
+          "city": "高雄",
+          "place": "高雄市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "國1高雄九如路段「連環車禍」！疑半聯結車變換車道不當釀追撞"
+          ]
+        },
+        {
+          "title": "南投車禍事件",
+          "city": "南投",
+          "place": "南投縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "南投台14甲線離奇車禍！休旅車「斜插護欄」受困…網友驚：怎麼撞的？"
+          ]
+        },
+        {
           "title": "新竹市空氣污染",
           "city": "新竹市",
           "place": "新竹市政府",
@@ -106573,20 +106573,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "竹市科技產業空污減量見成效！高虹安市長：精準治理守護好空氣"
-          ]
-        },
-        {
-          "title": "台北詐騙案",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "影/北市男中招投資詐騙臨櫃匯款 警急阻險噴千萬"
           ]
         },
         {
@@ -106604,18 +106590,17 @@
           ]
         },
         {
-          "title": "台北鼠患事件",
+          "title": "台北詐騙案",
           "city": "台北",
-          "place": "台北市大安區",
+          "place": "台北市政府",
           "level": "green",
-          "news_count": 2,
+          "news_count": 1,
           "comment_count": 0,
-          "negativity_pct": 0,
+          "negativity_pct": 100,
           "is_urgent": false,
-          "urgency_score": 2,
+          "urgency_score": 4,
           "sample_titles": [
-            "蔣萬安談選情戒慎恐懼 律師：打臉國民黨議員蟑螂老鼠粗鄙政治口水",
-            "安鼠之亂未歇！大安區國宅陽台驚見「章萬安下台」標語"
+            "影/北市男中招投資詐騙臨櫃匯款 警急阻險噴千萬"
           ]
         },
         {
@@ -106674,6 +106659,22 @@
           "is_urgent": true,
           "urgency_score": 9,
           "sample_titles": []
+        },
+        {
+          "title": "台北鼠患事件",
+          "city": "台北",
+          "place": "台北市大安區",
+          "level": "green",
+          "news_count": 3,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 3,
+          "sample_titles": [
+            "蔣萬安談選情戒慎恐懼 律師：打臉國民黨議員蟑螂老鼠粗鄙政治口水",
+            "蔣萬安談選情戒慎恐懼 律師：打臉國民黨議員蟑螂老鼠粗鄙政治口水",
+            "安鼠之亂未歇！大安區國宅陽台驚見「章萬安下台」標語"
+          ]
         },
         {
           "title": "連江地方動態",
@@ -106782,20 +106783,6 @@
           ]
         },
         {
-          "title": "苗栗弊案爭議",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "向友人借房開賭場玩「13支」 苗栗男賺800元抽頭金判刑3月"
-          ]
-        },
-        {
           "title": "澎湖弊案爭議",
           "city": "澎湖",
           "place": "澎湖縣政府",
@@ -106807,6 +106794,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "澎湖傳竊水案! 嫌犯私接水供海鮮商鋪使用遭判刑"
+          ]
+        },
+        {
+          "title": "苗栗弊案爭議",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "向友人借房開賭場玩「13支」 苗栗男賺800元抽頭金判刑3月"
           ]
         },
         {
@@ -106989,11 +106990,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "red",
-          "news_count": 46,
+          "news_count": 45,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 52,
+          "urgency_score": 51,
           "sample_titles": [
             "蕭美琴赴鹿港參香祈福彰化市競總開講 力挺陳素月展現女性堅韌力量",
             "蕭美琴彰化力挺女力 稱陳素月已為擔任縣長做好準備",
@@ -107133,15 +107134,15 @@
           "city": "台北",
           "place": "台北市中山區",
           "level": "red",
-          "news_count": 195,
+          "news_count": 197,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 264,
+          "urgency_score": 266,
           "sample_titles": [
+            "談北市選情 蔣萬安：競爭確實激烈 會戒慎恐懼",
             "台北市長選戰升溫…藍營人士憂心「洋流」 蔣萬安：選舉競爭不大意",
-            "台北市長選戰升溫…藍營人士憂心「洋流」 蔣萬安：選舉競爭不大意",
-            "談北市選情蔣萬安：競爭確實激烈會戒慎恐懼| 政治"
+            "台北市長選戰升溫…藍營人士憂心「洋流」 蔣萬安：選舉競爭不大意"
           ]
         }
       ]
