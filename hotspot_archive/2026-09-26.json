@@ -1,28 +1,7 @@
 {
   "date": "2026-09-26",
-  "snapshot_at": "2026-09-26T10:18:11.311501+00:00",
+  "snapshot_at": "2026-09-26T10:23:03.737388+00:00",
   "hotspots": [
-    {
-      "title": "宜蘭公廁議題",
-      "city": "宜蘭",
-      "place": "宜蘭縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 0,
-      "is_urgent": false,
-      "urgency_score": 1,
-      "news_articles": [
-        {
-          "title": "羅東公園公廁傳偷拍男童案 警依法函送法辦",
-          "url": "https://tw.news.yahoo.com/%E7%BE%85%E6%9D%B1%E5%85%AC%E5%9C%92%E5%85%AC%E5%BB%81%E5%82%B3%E5%81%B7%E6%8B%8D%E7%94%B7%E7%AB%A5%E6%A1%88-%E8%AD%A6%E4%BE%9D%E6%B3%95%E5%87%BD%E9%80%81%E6%B3%95%E8%BE%A6-142215497.html",
-          "time": "2026-09-25 22:22:15",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
     {
       "title": "台北公廁議題",
       "city": "台北",
@@ -40,6 +19,27 @@
           "time": "2026-09-26 15:33:18",
           "publisher": "聯合新聞網",
           "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "宜蘭公廁議題",
+      "city": "宜蘭",
+      "place": "宜蘭縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 0,
+      "is_urgent": false,
+      "urgency_score": 1,
+      "news_articles": [
+        {
+          "title": "羅東公園公廁傳偷拍男童案 警依法函送法辦",
+          "url": "https://tw.news.yahoo.com/%E7%BE%85%E6%9D%B1%E5%85%AC%E5%9C%92%E5%85%AC%E5%BB%81%E5%82%B3%E5%81%B7%E6%8B%8D%E7%94%B7%E7%AB%A5%E6%A1%88-%E8%AD%A6%E4%BE%9D%E6%B3%95%E5%87%BD%E9%80%81%E6%B3%95%E8%BE%A6-142215497.html",
+          "time": "2026-09-25 22:22:15",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
         }
       ],
       "comments": []
@@ -81,27 +81,6 @@
           "url": "https://news.tvbs.com.tw/local/4027352",
           "time": "2026-09-25 19:08:18",
           "publisher": "TVBS",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "彰化車禍事件",
-      "city": "彰化",
-      "place": "彰化縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "彰化田尾鄉代夫婦拜票途中車禍「烏龜翻」 2人一度受困車內",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5586802",
-          "time": "2026-09-26 14:29:28",
-          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -150,6 +129,27 @@
       "comments": []
     },
     {
+      "title": "彰化車禍事件",
+      "city": "彰化",
+      "place": "彰化縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "彰化田尾鄉代夫婦拜票途中車禍「烏龜翻」 2人一度受困車內",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5586802",
+          "time": "2026-09-26 14:29:28",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "新竹市空氣污染",
       "city": "新竹市",
       "place": "新竹市政府",
@@ -171,27 +171,6 @@
       "comments": []
     },
     {
-      "title": "宜蘭詐騙案",
-      "city": "宜蘭",
-      "place": "宜蘭縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "國民黨立法院黨團近日質疑民進黨宜蘭縣長參選人林國漳自稱「公益律師」，過去卻幫性侵、詐騙犯辯護，林回擊對手抹黑、潑髒水，強調多是法扶指派案件。柯文哲今天以自己當台大醫師時治療邵曉玲、連勝文等傷患為例，「對我來說都是病人」，這也沒什麼奇怪的地方。",
-          "url": "https://udn.com/news/story/124652/9778660?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-26 12:03:18",
-          "publisher": "聯合新聞網",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台北詐騙案",
       "city": "台北",
       "place": "台北市政府",
@@ -207,6 +186,27 @@
           "url": "https://tw.news.yahoo.com/%E5%BD%B1-%E5%8C%97%E5%B8%82%E7%94%B7%E4%B8%AD%E6%8B%9B%E6%8A%95%E8%B3%87%E8%A9%90%E9%A8%99%E8%87%A8%E6%AB%83%E5%8C%AF%E6%AC%BE-%E8%AD%A6%E6%80%A5%E9%98%BB%E9%9A%AA%E5%99%B4%E5%8D%83%E8%90%AC-140323450.html",
           "time": "2026-09-25 22:03:23",
           "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "宜蘭詐騙案",
+      "city": "宜蘭",
+      "place": "宜蘭縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "國民黨立法院黨團近日質疑民進黨宜蘭縣長參選人林國漳自稱「公益律師」，過去卻幫性侵、詐騙犯辯護，林回擊對手抹黑、潑髒水，強調多是法扶指派案件。柯文哲今天以自己當台大醫師時治療邵曉玲、連勝文等傷患為例，「對我來說都是病人」，這也沒什麼奇怪的地方。",
+          "url": "https://udn.com/news/story/124652/9778660?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-09-26 12:03:18",
+          "publisher": "聯合新聞網",
           "severity": "yellow"
         }
       ],
@@ -374,11 +374,11 @@
       "city": "連江",
       "place": "連江縣（馬祖）",
       "level": "green",
-      "news_count": 7,
+      "news_count": 6,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 7,
+      "urgency_score": 6,
       "news_articles": [
         {
           "title": "海大三系青年抵馬「報到」！王忠銘、陳冠人親赴福澳港迎接 77名學子展開一年馬祖移地學習",
@@ -421,13 +421,6 @@
           "time": "2026-09-25 18:50:00",
           "publisher": "中央社",
           "severity": null
-        },
-        {
-          "title": "搭船一趟8小時…返鄉投票成馬祖選舉勝敗關鍵地檢嚴防幽靈人口| 高屏離島| 地方",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WcjdiNnFSYW1MM0FzTndWbW42REFqR2lZZjhoYWs5eUthU2lnOXlubUNMd1ZiU0o5ZTkycEptX3dLU1FQc0tpWmR1SlpGTGpy?oc=5",
-          "time": "2026-09-25 18:18:08",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -753,11 +746,11 @@
       "city": "金門",
       "place": "金門縣政府",
       "level": "green",
-      "news_count": 19,
+      "news_count": 18,
       "comment_count": 0,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 19,
+      "urgency_score": 18,
       "news_articles": [
         {
           "title": "影音／金門人看川習會 臺恐成犧牲品？ 葛來儀：需關注武器何時給",
@@ -884,13 +877,6 @@
           "time": "2026-09-25 19:21:00",
           "publisher": "Google News→蕃新聞",
           "severity": null
-        },
-        {
-          "title": "大船入港！金門水頭港萬噸級碼頭啟用 迎接「金門快輪」240乘客",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5586227",
-          "time": "2026-09-25 18:22:39",
-          "publisher": "自由時報",
-          "severity": null
         }
       ],
       "comments": []
@@ -982,6 +968,34 @@
           "time": "2026-09-26 00:00:19",
           "publisher": "中時新聞網",
           "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台東車禍事件",
+      "city": "台東",
+      "place": "台東縣政府",
+      "level": "yellow",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "中秋連假台東死亡車禍！金針山砂石車連人帶車墜谷 駕駛身亡",
+          "url": "https://www.chinatimes.com/realtimenews/20260926001965-260402",
+          "time": "2026-09-26 15:33:18",
+          "publisher": "中時新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "快訊／台東金針山死亡車禍！砂石車翻落山坡7旬駕駛受困 警消救出已明顯死亡",
+          "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%8F%B0%E6%9D%B1%E9%87%91%E9%87%9D%E5%B1%B1%E6%AD%BB%E4%BA%A1%E8%BB%8A%E7%A6%8D-%E7%A0%82%E7%9F%B3%E8%BB%8A%E7%BF%BB%E8%90%BD%E5%B1%B1%E5%9D%A17%E6%97%AC%E9%A7%95%E9%A7%9B%E5%8F%97%E5%9B%B0-%E8%AD%A6%E6%B6%88%E6%95%91%E5%87%BA%E5%B7%B2%E6%98%8E%E9%A1%AF%E6%AD%BB%E4%BA%A1-080000498.html",
+          "time": "2026-09-26 08:00:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
         }
       ],
       "comments": []
@@ -1341,11 +1355,11 @@
       "city": "台中",
       "place": "台中市烏日區",
       "level": "yellow",
-      "news_count": 57,
+      "news_count": 54,
       "comment_count": 26,
       "negativity_pct": 0,
       "is_urgent": false,
-      "urgency_score": 85,
+      "urgency_score": 82,
       "news_articles": [
         {
           "title": "盧秀燕中秋赴嘉義力挺吳品叡 送「檸檬派」倡在野大聯盟 女力學姊團攜手改變嘉義",
@@ -1724,27 +1738,6 @@
           "time": "2026-09-25 18:42:44",
           "publisher": "Google News→LINE TODAY",
           "severity": null
-        },
-        {
-          "title": "百年信仰落葉歸根 烏日朥(月胥)福德廟完成廟地回歸 盧秀燕贈匾祝福",
-          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxPOVhnNElwM1YtbUp1MkFLSnVLaW81ZDhrVHlnanEtTXgtdDBYVHhvY3VudF9mbXlUOTN5d0ZmenJIYXZQeTlNLTY3dDkwNWpZLWptRGJCY2I4UEROemRFdFVmYjkzczhwbG5yeWhHak94eHg3MFpfT19EbEkzMXZ6R0NyVlJCUnpub2Q4d2tSbk42YjQ0T2VIWWtWTHFJWElvOFRVczhFN01EaEc3RF96bDhxT0xJVWNreWd6QU5ubEc4cWxZUEJ6MVV4aUptUlBieXQzRW1aRjBjY2RRbWdDdlJkcWJ0a1V4LUZ2VmdSekotZkJ3OUVCcWdod096aEhuS0xzYW9EVm10bFg5dGdoUGpOeXdjdmFKNGt3ZnZOeVJ2Z1lRLTA5RDdFc1VSWFU3R1dCc0xHZnptWC1vaEpYYkpjbWRwS21Od3FxS3JkNDhnaEZpQl9OSUVJenR3TEFYSEZmb21kTWM4VXdfSXJuaEF0YzZlbG1Oblp2TFllSGV0UkhKdWtnSGFSQkpGOFdwLW9vSzQ5WEloYUhVZmJzWjh0M1d2a2lTSGZyN0xkeXpxZXM5?oc=5",
-          "time": "2026-09-25 18:19:29",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "百年信仰落葉歸根 烏日朥(月胥)福德廟完成廟地回歸 盧秀燕贈匾祝福",
-          "url": "https://tw.news.yahoo.com/%E7%99%BE%E5%B9%B4%E4%BF%A1%E4%BB%B0%E8%90%BD%E8%91%89%E6%AD%B8%E6%A0%B9-%E7%83%8F%E6%97%A5%E6%9C%A5-%E6%9C%88%E8%83%A5-%E7%A6%8F%E5%BE%B7%E5%BB%9F%E5%AE%8C%E6%88%90%E5%BB%9F%E5%9C%B0%E5%9B%9E%E6%AD%B8-%E7%9B%A7%E7%A7%80%E7%87%95%E8%B4%88%E5%8C%BE%E7%A5%9D%E7%A6%8F-101929351.html",
-          "time": "2026-09-25 18:19:29",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "百年信仰落葉歸根 烏日朥(月胥)福德廟完成廟地回歸 盧秀燕贈匾祝福",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iMFRxaWRkY1l1RzllcUFpUHIwVTI0RHJ5RkZkMTRMaEtETThMZ3JJT2hVODgyRG1YZ3BuQ0RveXBzQnVDUTZsdFp1WFoxNWkyOTlZcVdaNA?oc=5",
-          "time": "2026-09-25 18:19:23",
-          "publisher": "Google News→觀傳媒",
-          "severity": null
         }
       ],
       "comments": [
@@ -1959,50 +1952,15 @@
       ]
     },
     {
-      "title": "台東車禍事件",
-      "city": "台東",
-      "place": "台東縣政府",
-      "level": "red",
-      "news_count": 3,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 12,
-      "news_articles": [
-        {
-          "title": "中秋連假台東死亡車禍！金針山砂石車連人帶車墜谷 駕駛身亡",
-          "url": "https://www.chinatimes.com/realtimenews/20260926001965-260402",
-          "time": "2026-09-26 15:33:18",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "快訊／台東金針山死亡車禍！砂石車翻落山坡7旬駕駛受困 警消救出已明顯死亡",
-          "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%8F%B0%E6%9D%B1%E9%87%91%E9%87%9D%E5%B1%B1%E6%AD%BB%E4%BA%A1%E8%BB%8A%E7%A6%8D-%E7%A0%82%E7%9F%B3%E8%BB%8A%E7%BF%BB%E8%90%BD%E5%B1%B1%E5%9D%A17%E6%97%AC%E9%A7%95%E9%A7%9B%E5%8F%97%E5%9B%B0-%E8%AD%A6%E6%B6%88%E6%95%91%E5%87%BA%E5%B7%B2%E6%98%8E%E9%A1%AF%E6%AD%BB%E4%BA%A1-080000498.html",
-          "time": "2026-09-26 08:00:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "中秋台東出遊到花蓮 祖孫三代遇車禍1死2昏迷2傷",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwdWRWa2UySngzSk45TVlISDdzVDYwWGJ6NmNOTXQyX0lYSTNodklsMWtkZFVUNEg4YXlKcEFRWWNTczBCQ0RiaTE4aE84S3BDSE1RZmhtSGVQTU1ZR0huMmVCT09vTnZMbEsyREI4UGk?oc=5",
-          "time": "2026-09-25 18:20:00",
-          "publisher": "Google News→華視新聞網",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "花蓮車禍事件",
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 5,
+      "news_count": 4,
       "comment_count": 0,
       "negativity_pct": 100,
       "is_urgent": true,
-      "urgency_score": 20,
+      "urgency_score": 16,
       "news_articles": [
         {
           "title": "祖孫三代5口花蓮出遊遇車禍釀2死3傷 疑遭不當超車迎面猛撞",
@@ -2031,13 +1989,6 @@
           "time": "2026-09-25 19:44:29",
           "publisher": "Yahoo新聞",
           "severity": "red"
-        },
-        {
-          "title": "中秋台東出遊到花蓮 祖孫三代遇車禍1死2昏迷2傷",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwdWRWa2UySngzSk45TVlISDdzVDYwWGJ6NmNOTXQyX0lYSTNodklsMWtkZFVUNEg4YXlKcEFRWWNTczBCQ0RiaTE4aE84S3BDSE1RZmhtSGVQTU1ZR0huMmVCT09vTnZMbEsyREI4UGk?oc=5",
-          "time": "2026-09-25 18:20:00",
-          "publisher": "Google News→華視新聞網",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -2047,11 +1998,11 @@
       "city": "台東",
       "place": "台東縣政府",
       "level": "red",
-      "news_count": 16,
+      "news_count": 15,
       "comment_count": 0,
-      "negativity_pct": 38,
+      "negativity_pct": 33,
       "is_urgent": false,
-      "urgency_score": 34,
+      "urgency_score": 30,
       "news_articles": [
         {
           "title": "中秋連假期間，台東縣長選戰也持續拚人氣。民進黨台東縣長參選人陳瑩今天在活水湖舉辦「Kid Kid Taitung｜親子自由探索日」，從親子活動延伸提出育兒政見；國民黨縣長參選人吳秀華則走訪基層拜票，遇到民眾烤肉還拿起手中扇子幫忙搧火，意外成為「生火神器」，兩人分別以親子與基層互動方式與民眾共度中秋連假。",
@@ -2157,13 +2108,6 @@
           "time": "2026-09-25 19:13:51",
           "publisher": "Google News→臺灣導報",
           "severity": null
-        },
-        {
-          "title": "中秋台東出遊到花蓮 祖孫三代遇車禍1死2昏迷2傷",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwdWRWa2UySngzSk45TVlISDdzVDYwWGJ6NmNOTXQyX0lYSTNodklsMWtkZFVUNEg4YXlKcEFRWWNTczBCQ0RiaTE4aE84S3BDSE1RZmhtSGVQTU1ZR0huMmVCT09vTnZMbEsyREI4UGk?oc=5",
-          "time": "2026-09-25 18:20:00",
-          "publisher": "Google News→華視新聞網",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -4315,11 +4259,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 60,
+      "news_count": 59,
       "comment_count": 0,
-      "negativity_pct": 13,
+      "negativity_pct": 12,
       "is_urgent": false,
-      "urgency_score": 84,
+      "urgency_score": 80,
       "news_articles": [
         {
           "title": "國民黨花蓮縣長參選人游淑貞今天在市場掃街拜票，與前來輔選的民眾黨主席黃國昌「巧遇」，下午民眾黨在花蓮市辦活動游專程到場致意，藍白合不合引起討論。黃國昌沒有明確表態，只說期待黨提名的戴于文當選市長，游鄉長也能當選縣長，縣市合作一起讓花蓮大步向前。",
@@ -4733,13 +4677,6 @@
           "time": "2026-09-25 18:59:12",
           "publisher": "Google News→民視新聞網",
           "severity": null
-        },
-        {
-          "title": "中秋台東出遊到花蓮 祖孫三代遇車禍1死2昏迷2傷",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwdWRWa2UySngzSk45TVlISDdzVDYwWGJ6NmNOTXQyX0lYSTNodklsMWtkZFVUNEg4YXlKcEFRWWNTczBCQ0RiaTE4aE84S3BDSE1RZmhtSGVQTU1ZR0huMmVCT09vTnZMbEsyREI4UGk?oc=5",
-          "time": "2026-09-25 18:20:00",
-          "publisher": "Google News→華視新聞網",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -4749,11 +4686,11 @@
       "city": "屏東",
       "place": "屏東縣政府",
       "level": "red",
-      "news_count": 66,
+      "news_count": 65,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 72,
+      "urgency_score": 71,
       "news_articles": [
         {
           "title": "國1高雄九如路段「連環車禍」！疑半聯結車變換車道不當釀追撞",
@@ -5208,13 +5145,6 @@
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42UjRINDVveWwyQVVhSVBzcTA5elktRkNMYUVESURXZENOTFF1bTZMcGJMSjQ1NWJ0ckoyZU81c0pXbnRqQUJiVWN5YzZPeDB0SnZERDVjdUh6RVprSmpyelZqbmpQRTRtbGNqUzBjUE4?oc=5",
           "time": "2026-09-25 18:28:25",
           "publisher": "Google News→大成報",
-          "severity": null
-        },
-        {
-          "title": "屏東連假車潮湧現 警方啟動調撥車道、空拍機疏導守護交通",
-          "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQcy1XZlM4NzZCOVNCa1RLbjFrdmtwNFlkTGJQVnNyZmlUXzBkR0tqR3ZHZF9BRXBsV001Y1huaVFYX3ZxWEtSbzI3OHBacUEzbzItN2YxYkxPS0s1X25EWE0waFI3T0tteHlXejdYRlE5aF9XeEJTTktvN1B1bk9WMVhqdXE1bV94RGxWcXc1ZzE3WVExM203eFM0M2VJUnc3YXNDc1hDTEZpdHhYWWZrSmJoWVRjT2hKWjdaOVdfSFdyODlrNjVYc0RvQVZnV0JpcmFDU0o1UlFIVFlsVklpSnpzckZqMEk3NlB1dlNLM3ppSHRQeUpqeEt0dTJpRlhLcnFZUHotYlFBclF5UlYxMmg2Q2FiYTdmZU5XX0RrdzVSYlNhSlNqaVhSV1pGQ2dsU2ZRMzQ5UVBPU1d2TnExSzQzdmFQNUhHV3NkZ1FZZk9GckhEMmVrdWdqaUtvbS0zbDV4WWFISQ?oc=5",
-          "time": "2026-09-25 18:19:25",
-          "publisher": "Google News→報新聞",
           "severity": null
         }
       ],
