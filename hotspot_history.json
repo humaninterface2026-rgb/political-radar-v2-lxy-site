@@ -107136,22 +107136,8 @@
     },
     {
       "date": "2026-09-27",
-      "snapshot_at": "2026-09-27T10:16:31.595406+00:00",
+      "snapshot_at": "2026-09-27T10:25:03.791567+00:00",
       "hotspots": [
-        {
-          "title": "台中車禍事件",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "不想兩段式左轉？54歲女路口減速靠左 下秒遭追撞噴飛 台中南區26日下午發生一起機車追撞車禍，一名54歲林姓女子疑似未依"
-          ]
-        },
         {
           "title": "雲林車禍事件",
           "city": "雲林",
@@ -107178,6 +107164,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "快訊》國3北上土城段凌晨驚傳車禍！車輛翻覆 2人一度受困"
+          ]
+        },
+        {
+          "title": "台中車禍事件",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "不想兩段式左轉？54歲女路口減速靠左 下秒遭追撞噴飛 台中南區26日下午發生一起機車追撞車禍，一名54歲林姓女子疑似未依"
           ]
         },
         {
@@ -107358,20 +107358,6 @@
           ]
         },
         {
-          "title": "彰化弊案爭議",
-          "city": "彰化",
-          "place": "彰化縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "假綁票索4公斤黃金！彰化「天金詐團」20人遭起訴 女首腦求刑25年"
-          ]
-        },
-        {
           "title": "台北弊案爭議",
           "city": "台北",
           "place": "台北市政府",
@@ -107397,6 +107383,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "高雄逆子與父口角縱火燒家 落網搜出毒品遭收押"
+          ]
+        },
+        {
+          "title": "彰化弊案爭議",
+          "city": "彰化",
+          "place": "彰化縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "假綁票索4公斤黃金！彰化「天金詐團」20人遭起訴 女首腦求刑25年"
           ]
         },
         {
@@ -107495,6 +107495,22 @@
           ]
         },
         {
+          "title": "澎湖地方動態",
+          "city": "澎湖",
+          "place": "澎湖縣政府",
+          "level": "yellow",
+          "news_count": 25,
+          "comment_count": 0,
+          "negativity_pct": 12,
+          "is_urgent": false,
+          "urgency_score": 34,
+          "sample_titles": [
+            "澎湖中秋夜盛況曝！高爾宣合體玖壹壹開炸 周湯豪、安心亞接力壓軸",
+            "國民黨馬公市長參選人洪棟霖今天成立競選總部表示，服務澎湖是他唯一的志願，未來將以民意為師，「營造馬公成為世界的馬公城」",
+            "洪棟霖馬公競選總部成立強調服務澎湖唯一志願| 政治"
+          ]
+        },
+        {
           "title": "基隆地方動態",
           "city": "基隆",
           "place": "基隆市政府",
@@ -107508,22 +107524,6 @@
             "「童子連線」拚基隆招商引資 童子瑋帶童子賢遊港口",
             "航港局9/27海運航班通報-新臺馬輪基隆港正常開航 | 中華日報",
             "航港局9/27海運航班通報-新臺馬輪基隆港正常開航"
-          ]
-        },
-        {
-          "title": "澎湖地方動態",
-          "city": "澎湖",
-          "place": "澎湖縣政府",
-          "level": "yellow",
-          "news_count": 26,
-          "comment_count": 0,
-          "negativity_pct": 12,
-          "is_urgent": false,
-          "urgency_score": 35,
-          "sample_titles": [
-            "澎湖中秋夜盛況曝！高爾宣合體玖壹壹開炸 周湯豪、安心亞接力壓軸",
-            "國民黨馬公市長參選人洪棟霖今天成立競選總部表示，服務澎湖是他唯一的志願，未來將以民意為師，「營造馬公成為世界的馬公城」",
-            "洪棟霖馬公競選總部成立強調服務澎湖唯一志願| 政治"
           ]
         },
         {
@@ -107675,11 +107675,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 91,
+          "news_count": 87,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 94,
+          "urgency_score": 90,
           "sample_titles": [
             "民進黨未在花蓮縣長選舉推出人選，外界關注是否與無黨籍縣長參選人、花蓮縣議長張峻合作，副總統蕭美琴今天返花蓮輔選時，當眾向",
             "地震速報／不是頭暈！15:33花蓮近海規模4.4地震 全台8縣市有感 | 天氣預報 | 生活",
@@ -107707,11 +107707,11 @@
           "city": "台北",
           "place": "台北市松山區",
           "level": "red",
-          "news_count": 208,
+          "news_count": 206,
           "comment_count": 0,
-          "negativity_pct": 12,
+          "negativity_pct": 13,
           "is_urgent": false,
-          "urgency_score": 286,
+          "urgency_score": 284,
           "sample_titles": [
             "台北要演《狸貓換太子》影射蔣萬安？沈伯洋明確反對：不贊成就是不贊成 選戰應看市政能力",
             "在北市演「貍貓換太子」諷蔣萬安？沈伯洋連喊3次「非常不贊成」：我們只關心他的市政能力| 張大任| 新聞",

@@ -1,28 +1,7 @@
 {
   "date": "2026-09-27",
-  "snapshot_at": "2026-09-27T10:16:31.595406+00:00",
+  "snapshot_at": "2026-09-27T10:25:03.791567+00:00",
   "hotspots": [
-    {
-      "title": "台中車禍事件",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "不想兩段式左轉？54歲女路口減速靠左 下秒遭追撞噴飛 台中南區26日下午發生一起機車追撞車禍，一名54歲林姓女子疑似未依規定兩段式左轉，在路口減速靠左時，遭後方23歲周姓男子騎車追撞，兩人連人帶車噴飛，所幸僅手腳擦挫傷。警方表示肇事原因仍待釐清，但會針對女子違規左轉部分開罰。 1 分鐘前 ｜ 社會 不想兩段式左轉？54歲女路口減速靠左 下秒遭追撞噴飛 1 分鐘前 ｜ 社會",
-          "url": "https://news.tvbs.com.tw/local/4028196",
-          "time": "2026-09-27 14:18:18",
-          "publisher": "TVBS",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
     {
       "title": "雲林車禍事件",
       "city": "雲林",
@@ -61,6 +40,27 @@
           "time": "2026-09-27 01:28:17",
           "publisher": "中時新聞網",
           "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台中車禍事件",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "不想兩段式左轉？54歲女路口減速靠左 下秒遭追撞噴飛 台中南區26日下午發生一起機車追撞車禍，一名54歲林姓女子疑似未依規定兩段式左轉，在路口減速靠左時，遭後方23歲周姓男子騎車追撞，兩人連人帶車噴飛，所幸僅手腳擦挫傷。警方表示肇事原因仍待釐清，但會針對女子違規左轉部分開罰。 1 分鐘前 ｜ 社會 不想兩段式左轉？54歲女路口減速靠左 下秒遭追撞噴飛 1 分鐘前 ｜ 社會",
+          "url": "https://news.tvbs.com.tw/local/4028196",
+          "time": "2026-09-27 14:18:18",
+          "publisher": "TVBS",
+          "severity": null
         }
       ],
       "comments": []
@@ -763,27 +763,6 @@
       "comments": []
     },
     {
-      "title": "彰化弊案爭議",
-      "city": "彰化",
-      "place": "彰化縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "假綁票索4公斤黃金！彰化「天金詐團」20人遭起訴 女首腦求刑25年",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5587566",
-          "time": "2026-09-27 13:51:50",
-          "publisher": "自由時報",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台北弊案爭議",
       "city": "台北",
       "place": "台北市政府",
@@ -820,6 +799,27 @@
           "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E9%80%86%E5%AD%90%E8%88%87%E7%88%B6%E5%8F%A3%E8%A7%92%E7%B8%B1%E7%81%AB%E7%87%92%E5%AE%B6-%E8%90%BD%E7%B6%B2%E6%90%9C%E5%87%BA%E6%AF%92%E5%93%81%E9%81%AD%E6%94%B6%E6%8A%BC-020800208.html",
           "time": "2026-09-27 10:08:00",
           "publisher": "Yahoo新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "彰化弊案爭議",
+      "city": "彰化",
+      "place": "彰化縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "假綁票索4公斤黃金！彰化「天金詐團」20人遭起訴 女首腦求刑25年",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5587566",
+          "time": "2026-09-27 13:51:50",
+          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -1463,6 +1463,195 @@
       "comments": []
     },
     {
+      "title": "澎湖地方動態",
+      "city": "澎湖",
+      "place": "澎湖縣政府",
+      "level": "yellow",
+      "news_count": 25,
+      "comment_count": 0,
+      "negativity_pct": 12,
+      "is_urgent": false,
+      "urgency_score": 34,
+      "news_articles": [
+        {
+          "title": "澎湖中秋夜盛況曝！高爾宣合體玖壹壹開炸 周湯豪、安心亞接力壓軸",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5587709",
+          "time": "2026-09-27 16:07:06",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "國民黨馬公市長參選人洪棟霖今天成立競選總部表示，服務澎湖是他唯一的志願，未來將以民意為師，「營造馬公成為世界的馬公城」",
+          "url": "https://udn.com/news/story/124652/9780018?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-09-27 14:18:18",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "洪棟霖馬公競選總部成立強調服務澎湖唯一志願| 政治",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpbkNvYk03ZnVKZ2hvOTZIa1BpVGpfM0g0WDB6ZUkxMlpVRTFKaTBueDVZMkhNS1VhcTB0a0ZtYlh3ZldBU1dEMk00dlR0bHBCZ0RVYXQzbDRkNmNvYUFN?oc=5",
+          "time": "2026-09-27 13:37:00",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "澎湖縣紅十字會理監事會會議 關懷弱勢與送暖",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BLUpUTTZib043ZDFKZldIb1pZdmgwd3NMUG9VWlBmRHhRWXVsLUlBMG5VaVQzS3FyYVZRNzh4VGFfb2F1a1lOdC1GbHhfM0htOS1ZbDFVSUE1M210Sm9kQ0RCdW1adkZ4M1NV?oc=5",
+          "time": "2026-09-27 13:26:56",
+          "publisher": "Google News→澎湖日報",
+          "severity": null
+        },
+        {
+          "title": "2026台灣科普環島列車澎湖站創意實作親子營",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vM2pVai1FcjZsNUU4WEtmSV9MNzQ2aDJFWlpOaGRFcE1VQ0dMY2N5VTA4Y0JXTUpGbkx0V05TZWFFWHhiY2dzMXdoYVFkSFFrMTN2ODE5Vl9ZYmd3cS0taUlRS1h0ZXFGYUs4dDcxYw?oc=5",
+          "time": "2026-09-27 13:18:19",
+          "publisher": "Google News→澎湖日報",
+          "severity": null
+        },
+        {
+          "title": "7棵「40年」行道樹遭砍　澎湖開發環保平衡受關注",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-09-27/2478686.html",
+          "time": "2026-09-27 13:08:19",
+          "publisher": "壹電視",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖民宿老闆酒後常爆粗口 不滿妻提離婚帶孩子離家日狂Call50通電話",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xRk42SjlKZDhqRUVxeGJxeUdoVEpVNmhGNFozRFk3Tl9PNjRaa243NnJmeFdPUlU0UjMxQXdnbnBoVzVpU2diMTNXZWg5bTdj0gFWQVVfeXFMTlVPVWxHSGRDaEhqWTJRNkM0MmNKQm9GU3RKYUd5VEhPN0ZIV2p1UFZFbVk3T2pkOG50ak4td0lzVkloZU01bUE3aXYtQW1sUTVuZDlvYlE?oc=5",
+          "time": "2026-09-27 12:10:30",
+          "publisher": "Google News→udn.com",
+          "severity": "yellow"
+        },
+        {
+          "title": "啦啦隊》​電豹女跨海應援甜美空降澎湖 助陣台啤永豐雲豹首屆菊島籃球對抗賽",
+          "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxOMFVYVk1LRTh5SWU3QnJqU09lQjZKMGN0Mzc3NHl1dUZXN3hHcmpzakt0ZFB2M05XOTFOd2N2aDhVWW1PY1pNM3VmRm45VjFyQmgzN1lYc1VRekxfc2FoT1lNTzdhRnJvVWp5UHgtS2d6VUZYS1dSU3NqNkdCSXlrdnphODQzRGoxZ09vVEthSGR5bnEybVVPQ1YtXzFPN3Y3MENSTl94eE1hdDY4aVRaem8tUjBIMFY5cFJqUnhuUUtBN3pMQWhUNWFTZVRWRkNONElyRXdyN1Z6dURIaWlfQUZ3NG9MNS13aTM4WUV6Z19lVF9idTRmM0pSUDA2RHM0QW9tQkVJc0VSY3FsazhPMEhBZGJEZUl4X1JwNUVFU0dYNndGUVBSSC1pVFREaWlyMnYwbGVoMlktU0ZQMXJWUG1ieDhwcFZEQmdYdGcwdGZRVUozcjlqVFRGSjNjV29GRVBROXoyQ0dnTVdCLXBkN3dGZ1poT3dNanMydWNUd2JRNElfSzFKNDd2bHE1OWJIUVFrR25icnNuWWdoQWdRUmhzYmtYdUtnalhBYkp1QlpKc1NPQ2NoQTAtaEFiSGo0RUNhRTFQUzdXcTZxb2xLV1E1QUVwT0gtU2tOcmpIYmxaZVRVVHY0b2U4SQ?oc=5",
+          "time": "2026-09-27 11:19:07",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "玖壹壹、高爾宣、PIZZALI合體 澎湖追風「音浪狂潮夜」嗨翻中秋",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56TFNXZFdqaUR1ckxoaUlOdFJDTmFtVlQ2NEVNYTBlRlFBTVM2RmJRcTdoRGotSkctVHhnQ19YSE1tT1JoOGpaaXJNMWdpS3VSRGFQUW9XWmdBMmplSVlrM0JlQm9sQmpaSjNNeVhR?oc=5",
+          "time": "2026-09-27 11:17:25",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "啦啦隊》電豹女跨海應援甜美空降澎湖 助陣台啤永豐雲豹首屆菊島籃球對抗賽 | TSNA",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NZ3hDRTlTdDk0VnhySlpiQXYyd3B3cVd4T0I4QXlXNEcyY185YkJTdDJpckVvQzBjdzVTT3l2cm5nRnBzZ1BXUVpyOHZqVHo5SzJXdldn?oc=5",
+          "time": "2026-09-27 11:00:32",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "布袋港中秋湧近8千旅客赴澎湖 海巡跨機關嚴密清艙防逃",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjRTlsLS1fbjdWMXFJZmJ6VEprblJfX3d5SjBzZDhpaXRpQ3ktV0RUWk1uT2RmSWE1Y3JmVVgtMERaOE9MUjRnYk92V3pBSmxidEc4MlNFLTFqWDhCZlHSAUtBVV95cUxNRThWUnBlSTlKX3JEOWFIREQ4dlEyYWViVTJEZ3lXenctLWJmM3BHaGtyX29DQUN1TmY0TVdQUzBrMWYySXIwSmJyTkE?oc=5",
+          "time": "2026-09-27 10:56:00",
+          "publisher": "Google News→ettoday.net",
+          "severity": null
+        },
+        {
+          "title": "澎湖民宿老闆酒後常爆粗口不滿妻提離婚帶孩子離家日狂Call50通電話| 法律前線| 社會",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xRk42SjlKZDhqRUVxeGJxeUdoVEpVNmhGNFozRFk3Tl9PNjRaa243NnJmeFdPUlU0UjMxQXdnbnBoVzVpU2diMTNXZWg5bTdj?oc=5",
+          "time": "2026-09-27 10:52:30",
+          "publisher": "Google News→UDN",
+          "severity": "yellow"
+        },
+        {
+          "title": "澎湖追風音樂燈光節 玖壹壹領軍嗨爆",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5587322",
+          "time": "2026-09-27 10:03:33",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "澎湖追風音樂燈光節玖壹壹領軍嗨爆- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tazIyeGtmRXVjdmtMUFNSZlNrYWlEMVN6UEZyVW1SaGpUcTcyZTFESWF2MHpzSVV6ajlaRkJKTnlrTjJqRzJsM3lJR005U3hPZ2J4RVpKVGlGUzZJWldiMXF0c28?oc=5",
+          "time": "2026-09-27 10:03:33",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "中秋年度大潮「西部、澎湖恐海水倒灌」！舒力基遠台 7縣市高溫警報",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E7%A7%8B%E5%B9%B4%E5%BA%A6%E5%A4%A7%E6%BD%AE-%E8%A5%BF%E9%83%A8-%E6%BE%8E%E6%B9%96%E6%81%90%E6%B5%B7%E6%B0%B4%E5%80%92%E7%81%8C-%E8%88%92%E5%8A%9B%E5%9F%BA%E9%81%A0%E5%8F%B0-7%E7%B8%A3%E5%B8%82%E9%AB%98%E6%BA%AB%E8%AD%A6%E5%A0%B1-234639794.html",
+          "time": "2026-09-27 07:46:39",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "洪棟霖馬公競選總部成立 強調服務澎湖唯一志願",
+          "url": "https://tw.news.yahoo.com/%E6%B4%AA%E6%A3%9F%E9%9C%96%E9%A6%AC%E5%85%AC%E7%AB%B6%E9%81%B8%E7%B8%BD%E9%83%A8%E6%88%90%E7%AB%8B-%E5%BC%B7%E8%AA%BF%E6%9C%8D%E5%8B%99%E6%BE%8E%E6%B9%96%E5%94%AF-%E5%BF%97%E9%A1%98-053714176.html",
+          "time": "2026-09-27 05:37:14",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "玖壹壹、高爾宣、PIZZALI跨團炸場！「2026澎湖追風音樂燈光節」音浪狂潮夜唱響多首經典神曲演唱會最終壓軸場將於10 月 3 日（六）「熱浪搖擺夜」盛大登場，由潮流天王周湯豪、性感女神安心亞，以及人氣樂團怕胖團PAPUN BAND 接力開唱，誠摯邀請全台旅客把握秋",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96QTdwYXlUTHlXUjRMWllOaldzcjdneU55eW1lOG85c2h0WWZ1c0pkV1lHSnE4T2dKV2xsZHNidXhzZ3NFSkdYcFVXUHBZb2tTRVBmX3lOYUVkSndiWHFkbTRZTG1GM1dGNTYw?oc=5",
+          "time": "2026-09-27 02:36:30",
+          "publisher": "Google News→台灣華報",
+          "severity": null
+        },
+        {
+          "title": "海委會串連地方文化 藝術走進澎湖小赤村 | 青年日報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSENMU3pscUg1VXNNYndOdmNlMzZTdWhjWGw3aWdWTjFvMzRMdER6SC03N2k1Y1ZvdWgtV0g1WEx0UG9FRWdzdXVFcGptZDRROHE2X2tB?oc=5",
+          "time": "2026-09-27 02:02:34",
+          "publisher": "Google News→LINE TODAY",
+          "severity": null
+        },
+        {
+          "title": "海委會串連地方文化 藝術走進澎湖小赤村",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQQWk5RGI5SllOY21LbUcxVWxidjRfZmVTU281RFNSRTZXVEdnSldjWEdNOFYzanZBRXN0MnlnRmo4MG5WSXBlVGdnT0VrTjdwS3g3MEE5RklCVE5Xd1BwRGRMSzJMSHZYUWh0SXNTVURXSEF1aUl2ZjRPUEY5YlA5c1Fhck9tZEtNSFI5OEw1TWVBMXV4Y0t4SjZIblJYRkdOWENTYXhXbHFscjJiTUNHQXR3cTNYN0lZdE5RY2RjQ3VjTVhXTVVab2U1S3J5NS1ZN1MyMzRubDhyMUlZRXVtSTVWUF91YlBqTTdhVHhSYlM3WDRaYS1GSVk5SzIxV3VCbm94dm5RcDU3VGpIaU41YWszbG04dUtiS2dlT2lOaHhMUG9EeGxsNmJxWXA?oc=5",
+          "time": "2026-09-27 01:33:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "澎湖西嶼新住民車禍截肢 民間接力濟助",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5587041",
+          "time": "2026-09-26 21:23:07",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "職籃前進澎湖！議長、副議長三對三熱身賽啦啦隊電豹女帶嗨- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DQWJyY0VEUVdNYlRHb2FVUTdJTlZxNlpBamxjMlYwOWNieDBORXIteTZJZkZjOEVpX0xfeGFlRU8zT3hObXFvZmY0a2luUXB2eE1VNEh3SU4?oc=5",
+          "time": "2026-09-26 20:26:30",
+          "publisher": "Google News→CMoney",
+          "severity": null
+        },
+        {
+          "title": "職籃前進澎湖！議長、副議長三對三熱身賽 啦啦隊電豹女帶嗨",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5587061",
+          "time": "2026-09-26 19:48:37",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "2026 Like澎湖・幸福慢旅-員貝一日漁島人活動 吸引遊客踴躍參加",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByR2xiY3FrbE1oU1hCX0NDSFozeFdvM2JidDVuV3ZzQXV1cl9wdU5tZGNLelFYUkQ4NXhrVmY5b2RvVnRxTFZlaFZnUVRCaWJZeXlXQkNQdnJZajg5azRFY01R?oc=5",
+          "time": "2026-09-26 19:27:46",
+          "publisher": "Google News→三星傳媒",
+          "severity": null
+        },
+        {
+          "title": "2026 Like澎湖・幸福慢旅-員貝一日漁島人活動吸引遊客踴躍參加- 旅遊新聞",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMWZkYXlZOHNNNFJvZ1Z6Rk8ycHp6bENXRVFMUGR3bERoR291bkoyWVFnNkpWOXZUWmpQRlZ4ck9iSHkxejNFWDB6cFRvVjExUUN5MWF4Zll5UG9ZZERtRUtMWkJmN21UV1h2R0RxWjVCVmM2azY3LXhYXzlJZGN1eHdzRUhFRTRGTnFhSi04blg?oc=5",
+          "time": "2026-09-26 19:24:40",
+          "publisher": "Google News→PChome Online 新聞",
+          "severity": null
+        },
+        {
+          "title": "澎湖創新書市庄頭書展 搭配文創美食",
+          "url": "https://newtalk.tw/news/view/2026-09-26/1062098",
+          "time": "2026-09-26 18:54:26",
+          "publisher": "新頭殼",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "基隆地方動態",
       "city": "基隆",
       "place": "基隆市政府",
@@ -1652,202 +1841,6 @@
       "comments": []
     },
     {
-      "title": "澎湖地方動態",
-      "city": "澎湖",
-      "place": "澎湖縣政府",
-      "level": "yellow",
-      "news_count": 26,
-      "comment_count": 0,
-      "negativity_pct": 12,
-      "is_urgent": false,
-      "urgency_score": 35,
-      "news_articles": [
-        {
-          "title": "澎湖中秋夜盛況曝！高爾宣合體玖壹壹開炸 周湯豪、安心亞接力壓軸",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5587709",
-          "time": "2026-09-27 16:07:06",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "國民黨馬公市長參選人洪棟霖今天成立競選總部表示，服務澎湖是他唯一的志願，未來將以民意為師，「營造馬公成為世界的馬公城」",
-          "url": "https://udn.com/news/story/124652/9780018?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-09-27 14:18:18",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "洪棟霖馬公競選總部成立強調服務澎湖唯一志願| 政治",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpbkNvYk03ZnVKZ2hvOTZIa1BpVGpfM0g0WDB6ZUkxMlpVRTFKaTBueDVZMkhNS1VhcTB0a0ZtYlh3ZldBU1dEMk00dlR0bHBCZ0RVYXQzbDRkNmNvYUFN?oc=5",
-          "time": "2026-09-27 13:37:00",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "澎湖縣紅十字會理監事會會議 關懷弱勢與送暖",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BLUpUTTZib043ZDFKZldIb1pZdmgwd3NMUG9VWlBmRHhRWXVsLUlBMG5VaVQzS3FyYVZRNzh4VGFfb2F1a1lOdC1GbHhfM0htOS1ZbDFVSUE1M210Sm9kQ0RCdW1adkZ4M1NV?oc=5",
-          "time": "2026-09-27 13:26:56",
-          "publisher": "Google News→澎湖日報",
-          "severity": null
-        },
-        {
-          "title": "2026台灣科普環島列車澎湖站創意實作親子營",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vM2pVai1FcjZsNUU4WEtmSV9MNzQ2aDJFWlpOaGRFcE1VQ0dMY2N5VTA4Y0JXTUpGbkx0V05TZWFFWHhiY2dzMXdoYVFkSFFrMTN2ODE5Vl9ZYmd3cS0taUlRS1h0ZXFGYUs4dDcxYw?oc=5",
-          "time": "2026-09-27 13:18:19",
-          "publisher": "Google News→澎湖日報",
-          "severity": null
-        },
-        {
-          "title": "7棵「40年」行道樹遭砍　澎湖開發環保平衡受關注",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-09-27/2478686.html",
-          "time": "2026-09-27 13:08:19",
-          "publisher": "壹電視",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖民宿老闆酒後常爆粗口 不滿妻提離婚帶孩子離家日狂Call50通電話",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xRk42SjlKZDhqRUVxeGJxeUdoVEpVNmhGNFozRFk3Tl9PNjRaa243NnJmeFdPUlU0UjMxQXdnbnBoVzVpU2diMTNXZWg5bTdj0gFWQVVfeXFMTlVPVWxHSGRDaEhqWTJRNkM0MmNKQm9GU3RKYUd5VEhPN0ZIV2p1UFZFbVk3T2pkOG50ak4td0lzVkloZU01bUE3aXYtQW1sUTVuZDlvYlE?oc=5",
-          "time": "2026-09-27 12:10:30",
-          "publisher": "Google News→udn.com",
-          "severity": "yellow"
-        },
-        {
-          "title": "啦啦隊》​電豹女跨海應援甜美空降澎湖 助陣台啤永豐雲豹首屆菊島籃球對抗賽",
-          "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxOMFVYVk1LRTh5SWU3QnJqU09lQjZKMGN0Mzc3NHl1dUZXN3hHcmpzakt0ZFB2M05XOTFOd2N2aDhVWW1PY1pNM3VmRm45VjFyQmgzN1lYc1VRekxfc2FoT1lNTzdhRnJvVWp5UHgtS2d6VUZYS1dSU3NqNkdCSXlrdnphODQzRGoxZ09vVEthSGR5bnEybVVPQ1YtXzFPN3Y3MENSTl94eE1hdDY4aVRaem8tUjBIMFY5cFJqUnhuUUtBN3pMQWhUNWFTZVRWRkNONElyRXdyN1Z6dURIaWlfQUZ3NG9MNS13aTM4WUV6Z19lVF9idTRmM0pSUDA2RHM0QW9tQkVJc0VSY3FsazhPMEhBZGJEZUl4X1JwNUVFU0dYNndGUVBSSC1pVFREaWlyMnYwbGVoMlktU0ZQMXJWUG1ieDhwcFZEQmdYdGcwdGZRVUozcjlqVFRGSjNjV29GRVBROXoyQ0dnTVdCLXBkN3dGZ1poT3dNanMydWNUd2JRNElfSzFKNDd2bHE1OWJIUVFrR25icnNuWWdoQWdRUmhzYmtYdUtnalhBYkp1QlpKc1NPQ2NoQTAtaEFiSGo0RUNhRTFQUzdXcTZxb2xLV1E1QUVwT0gtU2tOcmpIYmxaZVRVVHY0b2U4SQ?oc=5",
-          "time": "2026-09-27 11:19:07",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "玖壹壹、高爾宣、PIZZALI合體 澎湖追風「音浪狂潮夜」嗨翻中秋",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56TFNXZFdqaUR1ckxoaUlOdFJDTmFtVlQ2NEVNYTBlRlFBTVM2RmJRcTdoRGotSkctVHhnQ19YSE1tT1JoOGpaaXJNMWdpS3VSRGFQUW9XWmdBMmplSVlrM0JlQm9sQmpaSjNNeVhR?oc=5",
-          "time": "2026-09-27 11:17:25",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "啦啦隊》電豹女跨海應援甜美空降澎湖 助陣台啤永豐雲豹首屆菊島籃球對抗賽 | TSNA",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NZ3hDRTlTdDk0VnhySlpiQXYyd3B3cVd4T0I4QXlXNEcyY185YkJTdDJpckVvQzBjdzVTT3l2cm5nRnBzZ1BXUVpyOHZqVHo5SzJXdldn?oc=5",
-          "time": "2026-09-27 11:00:32",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "布袋港中秋湧近8千旅客赴澎湖 海巡跨機關嚴密清艙防逃",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjRTlsLS1fbjdWMXFJZmJ6VEprblJfX3d5SjBzZDhpaXRpQ3ktV0RUWk1uT2RmSWE1Y3JmVVgtMERaOE9MUjRnYk92V3pBSmxidEc4MlNFLTFqWDhCZlHSAUtBVV95cUxNRThWUnBlSTlKX3JEOWFIREQ4dlEyYWViVTJEZ3lXenctLWJmM3BHaGtyX29DQUN1TmY0TVdQUzBrMWYySXIwSmJyTkE?oc=5",
-          "time": "2026-09-27 10:56:00",
-          "publisher": "Google News→ettoday.net",
-          "severity": null
-        },
-        {
-          "title": "澎湖民宿老闆酒後常爆粗口不滿妻提離婚帶孩子離家日狂Call50通電話| 法律前線| 社會",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xRk42SjlKZDhqRUVxeGJxeUdoVEpVNmhGNFozRFk3Tl9PNjRaa243NnJmeFdPUlU0UjMxQXdnbnBoVzVpU2diMTNXZWg5bTdj?oc=5",
-          "time": "2026-09-27 10:52:30",
-          "publisher": "Google News→UDN",
-          "severity": "yellow"
-        },
-        {
-          "title": "澎湖追風音樂燈光節 玖壹壹領軍嗨爆",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5587322",
-          "time": "2026-09-27 10:03:33",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "澎湖追風音樂燈光節玖壹壹領軍嗨爆- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tazIyeGtmRXVjdmtMUFNSZlNrYWlEMVN6UEZyVW1SaGpUcTcyZTFESWF2MHpzSVV6ajlaRkJKTnlrTjJqRzJsM3lJR005U3hPZ2J4RVpKVGlGUzZJWldiMXF0c28?oc=5",
-          "time": "2026-09-27 10:03:33",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "中秋年度大潮「西部、澎湖恐海水倒灌」！舒力基遠台 7縣市高溫警報",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E7%A7%8B%E5%B9%B4%E5%BA%A6%E5%A4%A7%E6%BD%AE-%E8%A5%BF%E9%83%A8-%E6%BE%8E%E6%B9%96%E6%81%90%E6%B5%B7%E6%B0%B4%E5%80%92%E7%81%8C-%E8%88%92%E5%8A%9B%E5%9F%BA%E9%81%A0%E5%8F%B0-7%E7%B8%A3%E5%B8%82%E9%AB%98%E6%BA%AB%E8%AD%A6%E5%A0%B1-234639794.html",
-          "time": "2026-09-27 07:46:39",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "洪棟霖馬公競選總部成立 強調服務澎湖唯一志願",
-          "url": "https://tw.news.yahoo.com/%E6%B4%AA%E6%A3%9F%E9%9C%96%E9%A6%AC%E5%85%AC%E7%AB%B6%E9%81%B8%E7%B8%BD%E9%83%A8%E6%88%90%E7%AB%8B-%E5%BC%B7%E8%AA%BF%E6%9C%8D%E5%8B%99%E6%BE%8E%E6%B9%96%E5%94%AF-%E5%BF%97%E9%A1%98-053714176.html",
-          "time": "2026-09-27 05:37:14",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "玖壹壹、高爾宣、PIZZALI跨團炸場！「2026澎湖追風音樂燈光節」音浪狂潮夜唱響多首經典神曲演唱會最終壓軸場將於10 月 3 日（六）「熱浪搖擺夜」盛大登場，由潮流天王周湯豪、性感女神安心亞，以及人氣樂團怕胖團PAPUN BAND 接力開唱，誠摯邀請全台旅客把握秋",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96QTdwYXlUTHlXUjRMWllOaldzcjdneU55eW1lOG85c2h0WWZ1c0pkV1lHSnE4T2dKV2xsZHNidXhzZ3NFSkdYcFVXUHBZb2tTRVBmX3lOYUVkSndiWHFkbTRZTG1GM1dGNTYw?oc=5",
-          "time": "2026-09-27 02:36:30",
-          "publisher": "Google News→台灣華報",
-          "severity": null
-        },
-        {
-          "title": "海委會串連地方文化 藝術走進澎湖小赤村 | 青年日報",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSENMU3pscUg1VXNNYndOdmNlMzZTdWhjWGw3aWdWTjFvMzRMdER6SC03N2k1Y1ZvdWgtV0g1WEx0UG9FRWdzdXVFcGptZDRROHE2X2tB?oc=5",
-          "time": "2026-09-27 02:02:34",
-          "publisher": "Google News→LINE TODAY",
-          "severity": null
-        },
-        {
-          "title": "海委會串連地方文化 藝術走進澎湖小赤村",
-          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQQWk5RGI5SllOY21LbUcxVWxidjRfZmVTU281RFNSRTZXVEdnSldjWEdNOFYzanZBRXN0MnlnRmo4MG5WSXBlVGdnT0VrTjdwS3g3MEE5RklCVE5Xd1BwRGRMSzJMSHZYUWh0SXNTVURXSEF1aUl2ZjRPUEY5YlA5c1Fhck9tZEtNSFI5OEw1TWVBMXV4Y0t4SjZIblJYRkdOWENTYXhXbHFscjJiTUNHQXR3cTNYN0lZdE5RY2RjQ3VjTVhXTVVab2U1S3J5NS1ZN1MyMzRubDhyMUlZRXVtSTVWUF91YlBqTTdhVHhSYlM3WDRaYS1GSVk5SzIxV3VCbm94dm5RcDU3VGpIaU41YWszbG04dUtiS2dlT2lOaHhMUG9EeGxsNmJxWXA?oc=5",
-          "time": "2026-09-27 01:33:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "澎湖西嶼新住民車禍截肢 民間接力濟助",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5587041",
-          "time": "2026-09-26 21:23:07",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "職籃前進澎湖！議長、副議長三對三熱身賽啦啦隊電豹女帶嗨- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DQWJyY0VEUVdNYlRHb2FVUTdJTlZxNlpBamxjMlYwOWNieDBORXIteTZJZkZjOEVpX0xfeGFlRU8zT3hObXFvZmY0a2luUXB2eE1VNEh3SU4?oc=5",
-          "time": "2026-09-26 20:26:30",
-          "publisher": "Google News→CMoney",
-          "severity": null
-        },
-        {
-          "title": "職籃前進澎湖！議長、副議長三對三熱身賽 啦啦隊電豹女帶嗨",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5587061",
-          "time": "2026-09-26 19:48:37",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "2026 Like澎湖・幸福慢旅-員貝一日漁島人活動 吸引遊客踴躍參加",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByR2xiY3FrbE1oU1hCX0NDSFozeFdvM2JidDVuV3ZzQXV1cl9wdU5tZGNLelFYUkQ4NXhrVmY5b2RvVnRxTFZlaFZnUVRCaWJZeXlXQkNQdnJZajg5azRFY01R?oc=5",
-          "time": "2026-09-26 19:27:46",
-          "publisher": "Google News→三星傳媒",
-          "severity": null
-        },
-        {
-          "title": "2026 Like澎湖・幸福慢旅-員貝一日漁島人活動吸引遊客踴躍參加- 旅遊新聞",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMWZkYXlZOHNNNFJvZ1Z6Rk8ycHp6bENXRVFMUGR3bERoR291bkoyWVFnNkpWOXZUWmpQRlZ4ck9iSHkxejNFWDB6cFRvVjExUUN5MWF4Zll5UG9ZZERtRUtMWkJmN21UV1h2R0RxWjVCVmM2azY3LXhYXzlJZGN1eHdzRUhFRTRGTnFhSi04blg?oc=5",
-          "time": "2026-09-26 19:24:40",
-          "publisher": "Google News→PChome Online 新聞",
-          "severity": null
-        },
-        {
-          "title": "澎湖創新書市庄頭書展 搭配文創美食",
-          "url": "https://newtalk.tw/news/view/2026-09-26/1062098",
-          "time": "2026-09-26 18:54:26",
-          "publisher": "新頭殼",
-          "severity": null
-        },
-        {
-          "title": "澎湖縣湖西鄉縣議員候選人廖璟華向趙二呆長孫女趙頤請益",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94bzZIYkJPLWxLcC1xLVkwTXNPZ29BUTQtSk1sZ1NWdF94T3BXelUxZHdnV21nMmZYX3l2WDlKOERMcjhhejVpMl9JTGU0RGxFT0E?oc=5",
-          "time": "2026-09-26 18:20:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台中市政動態",
       "city": "台中",
       "place": "台中市烏日區",
@@ -1869,7 +1862,7 @@
           "title": "盧秀燕、黃敏惠聯手挺吳品叡 贈檸檬派倡「在野大聯盟」改變嘉義",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jeGtDeEQyYmthOUZhaEU2Ny1XT2gzS25FcVZHN2JRd29CZmxZQXNucWctR3RVSGJlUWtrcmxWbDZQNFFaNDhraFloQ2VkTmt6UEtmSG5ybw?oc=5",
           "time": "2026-09-27 11:46:44",
-          "publisher": "Google News→watchmedia01.com",
+          "publisher": "Google News→觀傳媒",
           "severity": null
         },
         {
@@ -1904,14 +1897,14 @@
           "title": "盧秀燕合體黃敏惠力挺吳品叡 送「檸檬派」倡在野大聯盟",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLaE1PZ3JKZUpZdXRFNkFYM01qNW9pWDlaVzlfWnZGYlRadWk5QXpMN09xVnVJREpiU3R0OURzRUlZUjRyaDFWcC1LaXVTVDJPeGI5b3JIQ0x6azN3LXfSAUtBVV95cUxQaWVjRlRsdkJrS2Q1Y053endJNUQ4TnpZVGZxdHZHY3FZRW5QZHV3Uk55T2hHbmlLSDkza0ZhSlFqRHVBTUhEQmZxZGs?oc=5",
           "time": "2026-09-27 09:50:00",
-          "publisher": "Google News→ettoday.net",
+          "publisher": "ETtoday",
           "severity": null
         },
         {
           "title": "嘉義輔選送「大檸檬」 盧秀燕喊「在野大聯盟」",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OVHNDTHpfYlI0VFNqRjZsQXdaUWl5YmN2ZFFUbVczb2hNeGlXRHRibmNVV3p2anRzNktGTkR1MlJ0bkFrWWpJbkVSa3AtQnN3V1Fwb0ZmSQ?oc=5",
           "time": "2026-09-26 23:20:00",
-          "publisher": "東森新聞",
+          "publisher": "Google News→news.ebc.net.tw",
           "severity": null
         },
         {
@@ -1925,7 +1918,7 @@
           "title": "盧秀燕啟動「大母雞」模式全台輔選！鎖定兩戰區 還出手穩藍白合",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZNzUtdHJ6Z1ZjeWpzOTNtcnBWVjZhY0V4UVlmZ2RNOUM3eEdUUnBkMU9Qci1sY21acjVic2tscm1sTFpSdlNTd2tzU1NvWnJJYV9zSGZqMkJaUkQzc0HSAUtBVV95cUxOXy1wTmtXd3cyZXlMX0VQOENnWUR1NEpaRG5fZWZjeTNlSGhJREJpRzBWSVIybkFDXy1tanFrSG1rN1JPVDRnRkFtVjA?oc=5",
           "time": "2026-09-26 19:00:00",
-          "publisher": "Google News→ettoday.net",
+          "publisher": "ETtoday",
           "severity": null
         }
       ],
@@ -3506,7 +3499,7 @@
           "title": "「銀」在即戰力 中市府銀髮據點多元課程 打造高齡友善城市",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaYkFERWM4UlpLcUJYZVFTbVJydWM1eU5UUEczOGpIXzFQb0hjZlhGWHkycXI5cG1aZG1QRDh0Yk9WWExlWWNHOTliVzB3MHZBZGxxZ3FPSQ?oc=5",
           "time": "2026-09-26 19:39:18",
-          "publisher": "Google News→watchmedia01.com",
+          "publisher": "Google News→觀傳媒",
           "severity": null
         },
         {
@@ -5561,11 +5554,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 91,
+      "news_count": 87,
       "comment_count": 0,
       "negativity_pct": 1,
       "is_urgent": false,
-      "urgency_score": 94,
+      "urgency_score": 90,
       "news_articles": [
         {
           "title": "民進黨未在花蓮縣長選舉推出人選，外界關注是否與無黨籍縣長參選人、花蓮縣議長張峻合作，副總統蕭美琴今天返花蓮輔選時，當眾向張峻喊話，盼未來能不分黨派共同為花蓮努力。國民黨花蓮縣黨部則批評，民進黨與張峻的關係「不演了」，強調將持續深耕基層爭取支持。",
@@ -6175,34 +6168,6 @@
           "time": "2026-09-26 18:29:40",
           "publisher": "自由時報",
           "severity": null
-        },
-        {
-          "title": "藍白合 花蓮縣第一場縣市長候選人同框藍白合在花蓮正式亮相",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5rUHlPb1VkcHNJRmJzMnBCZXloWVcwOWJuUFFJSm5yRWRjUF9KNTVMSU85cFhQbXlPai0zbEZZUUFRQ0QyYm5GVC1B?oc=5",
-          "time": "2026-09-26 18:23:17",
-          "publisher": "Google News→更生新聞網",
-          "severity": null
-        },
-        {
-          "title": "黃國昌赴花蓮輔選 游淑貞同框致意 (圖)",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNRGNjczFTVU5PUnNUTXBUbENKbDJpSkFYby1JMGxfdkY3bmZxcWJOdFkwSk9VYzBsS3BMWDNCVWN2OWJkbWt6MGhXLXRjV29FNTQtV0JONVExbEpyY1JzNHJqV010TlBmSXgyYzRTVWlXWWtSbi1EZGxHN0FLUnhLOFZobDBZSE53MVZmRGRFdXA4MWlCRkZpVGQ3aWthZlUxM3g5TDJnSE9IZGhLV25oQ29TZkVXNk1vNk8tMUlaZzdHSlBpcHBWZTM4UnpPdnpJV0E0NlI0Z1RTZlc3UUMtZDNRQnBaYU1nakNBN0lZRlNZWXZya3pFZFJMbnZEb3JnbWstWUV3czM0ZWNBV2lXUl9ZeXJqZw?oc=5",
-          "time": "2026-09-26 18:21:48",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "太平洋日出第一排、兒童主題設施！花蓮激推特色旅宿５家",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FcFk1RVk3Zm8zYWdhT2VLVHRjMF96R05uN1lPVzFjemxPLW5sMC1OY3I2N3Q5N25MRXlVVjBaVzhmd0ZPUmVHTC04OTNVRjFrYS1ZTnRRbXphRUdQcW43ZjdWT1p5SUNJYi1aT01GQ3ZiRjU3OFE?oc=5",
-          "time": "2026-09-26 18:21:15",
-          "publisher": "Google News→supertaste.tvbs.com.tw",
-          "severity": null
-        },
-        {
-          "title": "九合一縣市長藍白合黃國昌、游淑貞仁里市場同心加油》 游淑貞：只要對花蓮人民過的好，跨越黨派一起推動",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EdkhIMXBGV29KczQ0RHNTUURkd0xqT3B1YjZud3lJVEd6RWdhWkU4ZWpyZmxkS21QN3hpOThTTkUtS2dZWUpSZTY2aHFVc215aEE?oc=5",
-          "time": "2026-09-26 18:20:00",
-          "publisher": "Google News→蕃新聞",
-          "severity": "yellow"
         }
       ],
       "comments": []
@@ -7031,11 +6996,11 @@
       "city": "台北",
       "place": "台北市松山區",
       "level": "red",
-      "news_count": 208,
+      "news_count": 206,
       "comment_count": 0,
-      "negativity_pct": 12,
+      "negativity_pct": 13,
       "is_urgent": false,
-      "urgency_score": 286,
+      "urgency_score": 284,
       "news_articles": [
         {
           "title": "台北要演《狸貓換太子》影射蔣萬安？沈伯洋明確反對：不贊成就是不贊成 選戰應看市政能力",
@@ -7209,7 +7174,7 @@
           "title": "沈伯洋反對北市上演《狸貓換太子》 蔣萬安稱尊重：去問當事人",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83VkdBc3loZk5mX2xpUDByQjJ0RHVKWHJkNGFhd2VId0h3OU5XVjVZMHJsZDNyazlZRUgyVXlqd3hsd2tSQUVYTDh2WUN0MkFPcUNoOC1HblM5WlJhb1HSAUtBVV95cUxOb2hSSUxoV1Jsa2x3dnJYQU41ZmZpYmltR1hrMU41UUdTVUoxWUwyMWpOSHg1cmJrYnllWFB6elI5T3dsYUxKSVdfREE?oc=5",
           "time": "2026-09-27 16:32:00",
-          "publisher": "Google News→ettoday.net",
+          "publisher": "ETtoday",
           "severity": "yellow"
         },
         {
@@ -7230,7 +7195,7 @@
           "title": "台北要演「貍貓換太子」諷蔣萬安？ 沈伯洋：不贊成就是不贊成",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDbkpsUGRyNXpwaHhwWTNkR284VWwyUFAwdEh0cEVFWjVMNFlMd3VYRUZzZ1RERHN3VFBpVXdVQy1MMkp1S1pZb2VNa3J0Um8zWjJSSE9ZaTJQdUFxamfSAUtBVV95cUxPaWJxb0ZrNmVFcEF4bmQwMGtuVVNMUENmMzA2Mjd4dUhYRnoybkFISTZIVTdVdHJFdHR0aUtiSWg0NVk4Umx5Tjl2MEU?oc=5",
           "time": "2026-09-27 16:08:00",
-          "publisher": "Google News→ettoday.net",
+          "publisher": "ETtoday",
           "severity": "yellow"
         },
         {
@@ -7566,7 +7531,7 @@
           "title": "他解析「廟董當面酸蔣萬安」 「沈伯洋送北市府！要蔣去選總統」",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qTE44djY4UmFJcXptalB1cVFjaXpMYWNOV0NhamJrZnhQaEEwbW9QSGxCNDdJQ252YmE1MWNtRm9HbHhFRWtZSEtHZXRscWR6Z3R5Z1N2dmlMM05zZWfSAUtBVV95cUxOVUhTdm1ON1hURU9uZUJfRDZIRWtkMDFySm4zOFNpcUpURlU0LWEwOUJXSDlnX3h2amNjRVR0RGdqcFJVMEhTSmluMmc?oc=5",
           "time": "2026-09-27 12:10:00",
-          "publisher": "Google News→ettoday.net",
+          "publisher": "ETtoday",
           "severity": "yellow"
         },
         {
@@ -8478,20 +8443,6 @@
           "time": "2026-09-26 18:57:43",
           "publisher": "壹蘋新聞網",
           "severity": null
-        },
-        {
-          "title": "沈伯洋真能贏過蔣萬安？沈政男曝他翻轉北市關鍵：得票率至少要「這數字」",
-          "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQR0ZvOFJmUHU3aTNQcDdydG1KNFRlMVByOW14X1lRM3dJSzlMc3lWbVN4LVB4ZVhkcTBKdHYtQ1pqT0J4Q04wWktUNFBfS1hEcDRMb0pjVlQ0SFRpbTRvRzVfbFBINWs4ZURFV0pWdlZlM3B3dUc5RFM0NnZqanV2WVl6SXRlNmxMRjFicEJSUjMxT0RHa1VrbEJvY3ZaTHZFQUIzeThNc0dEQWJLVkdEMER5Rnk0M0VVWWJCdG56STdXOExMX2NaeUFKU0VWQjgzVkozdTBaOHBSaXBVUnB3SkJ1amJVa1h0M0M3SzRLakVuUEhpLUxlMTRwZUk4c0Y0VGpZRGtMdG1NVjU1WnJKVnFzNXFOaVd6ZEpjTDhUd1o1YlBhWG9QYXUxWWswcHFZNGZudWh2c0RIcnVLRHFXMFkwaW0wd05UNlZad2hYT3N3Yy1ZUmJKaU9QRWItVFVvLUpCNDJUQnAwZ1Fzd3N5YWUxY2JBSzlycFplNnc0OWlhY2lQZTZpZlRtVG1CU29HTG9qeUtBU21kTTJnbU53cVZha1F2VnUtX1hTTlZ2Z2tfSnNMRThNOTF0V3l4RlE?oc=5",
-          "time": "2026-09-26 18:20:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "英國《觀察家報》台北直擊！曾收殺妻女電郵威脅 沈伯洋：不會低頭",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5587007",
-          "time": "2026-09-26 18:19:35",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
