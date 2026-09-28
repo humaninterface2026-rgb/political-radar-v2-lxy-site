@@ -107720,7 +107720,7 @@
     },
     {
       "date": "2026-09-28",
-      "snapshot_at": "2026-09-28T10:17:26.864936+00:00",
+      "snapshot_at": "2026-09-28T10:25:20.751823+00:00",
       "hotspots": [
         {
           "title": "台北鼠患事件",
@@ -107885,22 +107885,6 @@
           ]
         },
         {
-          "title": "連江地方動態",
-          "city": "連江",
-          "place": "連江縣（馬祖）",
-          "level": "yellow",
-          "news_count": 11,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 11,
-          "sample_titles": [
-            "小三通入境》連江縣府提醒：勿攜帶含肉內餡月餅等違禁品以免挨罰",
-            "天氣／秋老虎發威「一天比一天熱」！台北、西半部高溫飆36度 秋老虎發威！氣象專家林得恩指出，由於環境轉為偏南風到西南風，",
-            "高雄奶茶節驚見「馬祖密語」！交旅局跨海出征 藍眼淚、戰地老酒、老酒麵線一次帶到高雄"
-          ]
-        },
-        {
           "title": "南投地方動態",
           "city": "南投",
           "place": "南投縣政府",
@@ -107914,6 +107898,22 @@
             "夢到與店員大吵中獎！南投婦頭洗一半又來靈感 花3百驗證真抱回810萬",
             "連假收假日！ 南投景點塞爆　武嶺到埔里開3小時",
             "台灣民眾黨南投市議員參選人吳淳祐今天下午在南投市成立競選總部，民眾黨主席黃國昌與南投縣長許淑華共同站台，許淑華公開替吳淳"
+          ]
+        },
+        {
+          "title": "連江地方動態",
+          "city": "連江",
+          "place": "連江縣（馬祖）",
+          "level": "yellow",
+          "news_count": 11,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 11,
+          "sample_titles": [
+            "小三通入境》連江縣府提醒：勿攜帶含肉內餡月餅等違禁品以免挨罰",
+            "天氣／秋老虎發威「一天比一天熱」！台北、西半部高溫飆36度 秋老虎發威！氣象專家林得恩指出，由於環境轉為偏南風到西南風，",
+            "高雄奶茶節驚見「馬祖密語」！交旅局跨海出征 藍眼淚、戰地老酒、老酒麵線一次帶到高雄"
           ]
         },
         {
@@ -108001,11 +108001,11 @@
           "city": "台中",
           "place": "台中市烏日區",
           "level": "yellow",
-          "news_count": 41,
+          "news_count": 42,
           "comment_count": 27,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 72,
+          "urgency_score": 73,
           "sample_titles": [
             "見盧秀燕低調進場 胡志強笑：我不是民進黨、講話時就大進場",
             "攜手拚臺中幸福再升級 盧秀燕、江啟臣力挺議會年輕世代",
@@ -108033,11 +108033,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "yellow",
-          "news_count": 80,
+          "news_count": 78,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 89,
+          "urgency_score": 87,
           "sample_titles": [
             "屏東接力東京旅展 加碼日航國際馬接松20名免費參賽",
             "高屏二快屏東端C1標動土 串聯大南方新矽谷發展",
@@ -108064,11 +108064,11 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "red",
-          "news_count": 30,
+          "news_count": 29,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 33,
+          "urgency_score": 32,
           "sample_titles": [
             "北返人潮擠爆！台鐵緊急加開「彰化=七堵」2列次疏運 中秋連假第四日北上旅客客流量大，高雄左營高鐵站幾乎快被人潮塞爆，台鐵",
             "台鐵疏運北返人潮 彰化＝七堵加開2列次自強號、區間快車",
@@ -108080,11 +108080,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 39,
+          "news_count": 38,
           "comment_count": 0,
-          "negativity_pct": 10,
+          "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 51,
+          "urgency_score": 50,
           "sample_titles": [
             "汗蒸幕、岩盤浴、烤箱！苗栗通霄鎮立游池翻新 10月免費入館",
             "一一五年苗栗客家藝文嘉年華-廣場舞比賽十二月五日、六尚順廣場登場獎金高達四十五萬元九月二十九日至三十日開放報名額滿為止!",
@@ -108108,6 +108108,22 @@
           ]
         },
         {
+          "title": "花蓮地方動態",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
+          "level": "red",
+          "news_count": 46,
+          "comment_count": 0,
+          "negativity_pct": 9,
+          "is_urgent": false,
+          "urgency_score": 58,
+          "sample_titles": [
+            "重磅觀選/花蓮四腳督大亂鬥！綠棄選挺張峻 鄉親炸鍋轟「政治亂倫」",
+            "一碗麵牽起十多年情誼 花蓮新城的武家乾麵",
+            "許淑華花蓮助選喊「學姐挺學妹」 與蕭美琴同台力挺林則葹、陳思伃"
+          ]
+        },
+        {
           "title": "台南地方動態",
           "city": "台南",
           "place": "台南市政府",
@@ -108121,22 +108137,6 @@
             "新加坡快閃推農產、凌晨台南祭孔！黃偉哲鐵人行程驚呆網：真沒複製人嗎",
             "台南火鍋店「供桌可樂」喝光光？ 店家查看監視器傻眼了",
             "民進黨台北市長參選人沈伯洋出席「台南之友挺沈伯洋後援會」成立大會，現場氣氛熱烈，台南市長黃偉哲、民進黨台南市長參選人陳亭"
-          ]
-        },
-        {
-          "title": "花蓮地方動態",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "red",
-          "news_count": 49,
-          "comment_count": 0,
-          "negativity_pct": 8,
-          "is_urgent": false,
-          "urgency_score": 61,
-          "sample_titles": [
-            "重磅觀選/花蓮四腳督大亂鬥！綠棄選挺張峻 鄉親炸鍋轟「政治亂倫」",
-            "一碗麵牽起十多年情誼 花蓮新城的武家乾麵",
-            "許淑華花蓮助選喊「學姐挺學妹」 與蕭美琴同台力挺林則葹、陳思伃"
           ]
         },
         {
@@ -108176,11 +108176,11 @@
           "city": "台中",
           "place": "台中市烏日區",
           "level": "red",
-          "news_count": 148,
+          "news_count": 147,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 175,
+          "urgency_score": 174,
           "sample_titles": [
             "中市府催生超巨蛋 地政局：帶動水湳經貿園區躍升新格局",
             "沈伯洋合體何欣純「拚翻轉台中」！黃守達酸江啟臣：玩隱形人戰術｜#頭家來開講｜民視讚夯.com",
@@ -108192,11 +108192,11 @@
           "city": "高雄",
           "place": "高雄市左營區",
           "level": "red",
-          "news_count": 153,
+          "news_count": 150,
           "comment_count": 0,
           "negativity_pct": 13,
           "is_urgent": false,
-          "urgency_score": 213,
+          "urgency_score": 210,
           "sample_titles": [
             "疑因這原因爆衝突！高雄SPA館凶殺案1死2傷警逮4嫌",
             "北返人潮擠爆！台鐵緊急加開「彰化=七堵」2列次疏運 中秋連假第四日北上旅客客流量大，高雄左營高鐵站幾乎快被人潮塞爆，台鐵",
@@ -108208,11 +108208,11 @@
           "city": "台北",
           "place": "台北市大安區",
           "level": "red",
-          "news_count": 232,
+          "news_count": 229,
           "comment_count": 0,
           "negativity_pct": 16,
           "is_urgent": false,
-          "urgency_score": 343,
+          "urgency_score": 337,
           "sample_titles": [
             "暗酸蔣萬安！沈伯洋：說台北像火鍋就不對了",
             "校長公開信道歉！民進黨嗆北市府「講清楚」：金華國中也變綠營側翼？",
