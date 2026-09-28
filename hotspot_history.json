@@ -107720,7 +107720,7 @@
     },
     {
       "date": "2026-09-28",
-      "snapshot_at": "2026-09-28T01:26:37.063167+00:00",
+      "snapshot_at": "2026-09-28T01:41:14.322658+00:00",
       "hotspots": [
         {
           "title": "台北鼠患事件",
@@ -107765,20 +107765,6 @@
           ]
         },
         {
-          "title": "台南車禍事件",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台南佳里驚傳車禍！2車對撞慘變鐵屑 釀5傷..童慘叫喊痛"
-          ]
-        },
-        {
           "title": "高雄車禍事件",
           "city": "高雄",
           "place": "高雄市苓雅區",
@@ -107804,6 +107790,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "西嶼新住民車禍截肢 民間接力6萬元急難救助"
+          ]
+        },
+        {
+          "title": "台南車禍事件",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "台南佳里驚傳車禍！2車對撞慘變鐵屑 釀5傷..童慘叫喊痛"
           ]
         },
         {
@@ -108020,15 +108020,15 @@
           "city": "基隆",
           "place": "基隆市政府",
           "level": "yellow",
-          "news_count": 25,
+          "news_count": 26,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 25,
+          "urgency_score": 26,
           "sample_titles": [
+            "蔣萬安站台謝國樑 基隆安樂市場掃街｜LIVE",
             "童子瑋陪童子賢遊基隆港 提「雙心」拚招商",
-            "藝渡基隆成果展 居民體驗21堂課",
-            "有2座火車站、國道客運…到台北上班仍好難 暖暖通勤族嘆盼不到解方"
+            "藝渡基隆成果展 居民體驗21堂課"
           ]
         },
         {
@@ -108116,15 +108116,15 @@
           "city": "台中",
           "place": "台中市豐原區",
           "level": "yellow",
-          "news_count": 157,
+          "news_count": 158,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 175,
+          "urgency_score": 176,
           "sample_titles": [
+            "[Gossiping] [新聞] 走讀台中竟沒看到阿薩斯！「洋流」人太多",
             "審計新村前一晚就有人排隊！沈伯洋、何欣純台中合體 元保宮凌晨4點半到場仍排第二",
-            "「欣潮洋流」台中合體！沈伯洋元保宮玩戰鬥陀螺 與何欣純走讀審計新村，沿途湧入支持者",
-            "沈伯洋在「雞蛋糕加東泉辣椒醬」 台中人何欣純、蔡其昌抗議- 股市爆料同學會"
+            "「欣潮洋流」台中合體！沈伯洋元保宮玩戰鬥陀螺 與何欣純走讀審計新村，沿途湧入支持者"
           ]
         },
         {
@@ -108226,11 +108226,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 74,
+          "news_count": 73,
           "comment_count": 0,
           "negativity_pct": 16,
           "is_urgent": false,
-          "urgency_score": 110,
+          "urgency_score": 109,
           "sample_titles": [
             "一圖看／「洋流」衝蔣萬安得票？藍2026熱區曝 新北、高雄關鍵對決",
             "緊急報案救不回女友！中秋連假「新北愛侶陰陽兩隔」",
@@ -108296,9 +108296,9 @@
           "is_urgent": false,
           "urgency_score": 313,
           "sample_titles": [
+            "蔣萬安站台謝國樑 基隆安樂市場掃街｜LIVE",
             "一圖看／「洋流」衝蔣萬安得票？藍2026熱區曝 新北、高雄關鍵對決",
-            "民調過後的台北選戰新階段：蔣萬安情緒轉強硬，沈伯洋反踩煞車| 政治",
-            "論沈伯洋陽光台北《當國家競爭力名列前茅，台北市準備好成為世界典範了嗎？》"
+            "民調過後的台北選戰新階段：蔣萬安情緒轉強硬，沈伯洋反踩煞車| 政治"
           ]
         }
       ]
