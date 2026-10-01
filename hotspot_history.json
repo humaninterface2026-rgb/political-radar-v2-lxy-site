@@ -109825,7 +109825,7 @@
     },
     {
       "date": "2026-10-01",
-      "snapshot_at": "2026-10-01T10:21:16.097691+00:00",
+      "snapshot_at": "2026-10-01T10:24:46.670216+00:00",
       "hotspots": [
         {
           "title": "台中狼師事件",
@@ -109856,20 +109856,6 @@
           ]
         },
         {
-          "title": "南投詐騙案",
-          "city": "南投",
-          "place": "南投縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "詐團主嫌藏山區自以為安全 警「陸空夾擊」秒破功遭壓制 警方追查假投資、假檢警詐騙集團，鎖定43歲鍾姓主嫌，他為躲避追緝開"
-          ]
-        },
-        {
           "title": "嘉義市詐騙案",
           "city": "嘉義市",
           "place": "嘉義市政府",
@@ -109881,6 +109867,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "嘉市員警落實巡邏勤務 一天破獲3起詐騙案查獲3名詐欺車手阻斷詐團犯罪鏈"
+          ]
+        },
+        {
+          "title": "南投詐騙案",
+          "city": "南投",
+          "place": "南投縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "詐團主嫌藏山區自以為安全 警「陸空夾擊」秒破功遭壓制 警方追查假投資、假檢警詐騙集團，鎖定43歲鍾姓主嫌，他為躲避追緝開"
           ]
         },
         {
@@ -109955,20 +109955,6 @@
           "sample_titles": []
         },
         {
-          "title": "台南火災事件",
-          "city": "台南",
-          "place": "台南市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "台南工廠火災 1員工疑觸電死亡 (圖)"
-          ]
-        },
-        {
           "title": "基隆火災事件",
           "city": "基隆",
           "place": "基隆市政府",
@@ -109980,6 +109966,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "童子瑋火災神隱卻「現身選舉場」？謝國樑競辦嗆：把現有位置坐好 | 要聞"
+          ]
+        },
+        {
+          "title": "台南火災事件",
+          "city": "台南",
+          "place": "台南市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "台南工廠火災 1員工疑觸電死亡 (圖)"
           ]
         },
         {
@@ -110217,22 +110217,6 @@
           ]
         },
         {
-          "title": "台東地方動態",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "red",
-          "news_count": 19,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 19,
-          "sample_titles": [
-            "確定了！首批F-16V Block70新機明飛抵空軍台東志航基地",
-            "我國向美國採購的F-16C/D Block70戰機，首批兩架F-16C單座機（機號6727、6728），台北時間8月21",
-            "台東公費流感、新冠疫苗開打 「左流右新」雙重防護護肺顧心"
-          ]
-        },
-        {
           "title": "南投地方動態",
           "city": "南投",
           "place": "南投縣政府",
@@ -110246,6 +110230,22 @@
             "南投13鄉鎮市幸福巴士試營運 這項規定挨批「看得到坐不到」",
             "南投13.9萬劑公費流感疫苗 籲長者儘早接種",
             "停休支援泳渡！南投消防員「逾10萬小時補休」 消化恐花7年"
+          ]
+        },
+        {
+          "title": "台東地方動態",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "red",
+          "news_count": 19,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 19,
+          "sample_titles": [
+            "確定了！首批F-16V Block70新機明飛抵空軍台東志航基地",
+            "我國向美國採購的F-16C/D Block70戰機，首批兩架F-16C單座機（機號6727、6728），台北時間8月21",
+            "台東公費流感、新冠疫苗開打 「左流右新」雙重防護護肺顧心"
           ]
         },
         {
@@ -110365,11 +110365,11 @@
           "city": "苗栗",
           "place": "苗栗縣政府",
           "level": "red",
-          "news_count": 65,
+          "news_count": 62,
           "comment_count": 0,
           "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 86,
+          "urgency_score": 83,
           "sample_titles": [
             "苗栗縣政府長期照護處獲「城市照顧典範獎」宜共老類標竿獎，副總統親自頒獎、展現山城共照、在地安老新成果",
             "2026選戰愈演愈烈，藍綠陣營近期紛紛推出「團體戰」，拉高選戰聲量。民進黨新北市長參選人蘇巧慧日前與台北市長參選人沈伯洋",
@@ -110413,11 +110413,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 118,
+          "news_count": 114,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 121,
+          "urgency_score": 117,
           "sample_titles": [
             "2026/10/01 15:39 南亞科擴廠確定落腳屏東科學園區 鄉親歡迎",
             "屏東縣議員第四選區參選人周芸均競選總部今天上午成立，由父親屏東縣議長周典論將棒子交到她手上，地方藍營大老都到場支持。特別",
@@ -110445,11 +110445,11 @@
           "city": "台中",
           "place": "台中市沙鹿區",
           "level": "red",
-          "news_count": 155,
+          "news_count": 153,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 161,
+          "urgency_score": 156,
           "sample_titles": [
             "瑞士西北大學連2年參訪中市府 聚焦無人機、AI及高階製造合作",
             "瑞士西北大學連2年拜會中市府 智慧台中促進國際交流",
@@ -110461,11 +110461,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 156,
+          "news_count": 155,
           "comment_count": 0,
           "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 201,
+          "urgency_score": 200,
           "sample_titles": [
             "無照還開註銷牌小黃 桃園「假運將」排班區露餡慘吞8.7萬罰單",
             "無照還開註銷牌小黃桃園「假運將」排班區露餡慘吞8.7萬罰單- 社會",
