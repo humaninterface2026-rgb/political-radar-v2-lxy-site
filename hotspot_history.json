@@ -110553,7 +110553,7 @@
     },
     {
       "date": "2026-10-02",
-      "snapshot_at": "2026-10-02T01:32:36.634960+00:00",
+      "snapshot_at": "2026-10-02T01:41:28.033025+00:00",
       "hotspots": [
         {
           "title": "台北軍購爭議",
@@ -110743,20 +110743,6 @@
           ]
         },
         {
-          "title": "台中弊案爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "也算閃兵！搬離戶籍地「未申報住處」徵兵通知無法送達 台中男大生判刑3月"
-          ]
-        },
-        {
           "title": "桃園弊案爭議",
           "city": "桃園",
           "place": "桃園市政府",
@@ -110771,6 +110757,20 @@
           ]
         },
         {
+          "title": "花蓮弊案爭議",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "涉現金賄選花蓮梁姓鄉代參選人和吳姓樁腳收押禁見| 法律前線| 社會"
+          ]
+        },
+        {
           "title": "嘉義市弊案爭議",
           "city": "嘉義市",
           "place": "嘉義市政府",
@@ -110782,6 +110782,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "嘉義市議員選舉爆現金買票！每票1000元…涉案樁腳去選民家發錢遭收押"
+          ]
+        },
+        {
+          "title": "台中弊案爭議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "也算閃兵！搬離戶籍地「未申報住處」徵兵通知無法送達 台中男大生判刑3月"
           ]
         },
         {
@@ -110821,11 +110835,11 @@
           "city": "新竹縣",
           "place": "新竹縣政府",
           "level": "yellow",
-          "news_count": 44,
+          "news_count": 43,
           "comment_count": 0,
-          "negativity_pct": 11,
+          "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 59,
+          "urgency_score": 58,
           "sample_titles": [
             "壽險布局版圖擴及高雄、竹北",
             "新竹縣敬老卡、愛心卡開放長照交通接送服務",
@@ -110837,11 +110851,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "yellow",
-          "news_count": 59,
+          "news_count": 58,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 65,
+          "urgency_score": 64,
           "sample_titles": [
             "東北季風增強北東降溫「變天」桃園以北、嘉義以南及花蓮宜蘭有雨| Newtalk",
             "東北季風增強北東降溫「變天」桃園以北、嘉義以南及花蓮宜蘭有雨",
@@ -110941,18 +110955,19 @@
           ]
         },
         {
-          "title": "花蓮弊案爭議",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
+          "title": "高雄弊案爭議",
+          "city": "高雄",
+          "place": "高雄市政府",
           "level": "red",
-          "news_count": 2,
+          "news_count": 3,
           "comment_count": 0,
           "negativity_pct": 100,
           "is_urgent": true,
-          "urgency_score": 8,
+          "urgency_score": 12,
           "sample_titles": [
-            "涉現金賄選花蓮梁姓鄉代參選人和吳姓樁腳收押禁見| 法律前線| 社會",
-            "涉現金賄選 花蓮梁姓鄉代參選人和吳姓樁腳收押禁見"
+            "丟臉到國外！高雄運匠狂摔韓女行李喊「我討厭韓國」 獲不起訴引爆韓網",
+            "涉外洩漢光演習軍機！「退役空軍」揪親戚刺蒐 3共諜遭起訴 空軍退役上士陳姓男子涉受中共情報組織資助，透過當時尚未退役的盧",
+            "空軍退官淪共諜拉妹夫偵搜演習機密 高雄高分檢起訴3人"
           ]
         },
         {
@@ -110969,22 +110984,6 @@
             "台南營養師淪「色」影師 躲教室、廁所偷拍小學4女同事、4女童遭起訴",
             "毒駕又衝撞員警！台南男掛偽造車牌上路遭判刑",
             "台南某國小營養師涉偷拍8人！廁所更衣室裝微型攝影機遭起訴"
-          ]
-        },
-        {
-          "title": "高雄弊案爭議",
-          "city": "高雄",
-          "place": "高雄市政府",
-          "level": "red",
-          "news_count": 3,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 12,
-          "sample_titles": [
-            "丟臉到國外！高雄運匠狂摔韓女行李喊「我討厭韓國」 獲不起訴引爆韓網",
-            "涉外洩漢光演習軍機！「退役空軍」揪親戚刺蒐 3共諜遭起訴 空軍退役上士陳姓男子涉受中共情報組織資助，透過當時尚未退役的盧",
-            "空軍退官淪共諜拉妹夫偵搜演習機密 高雄高分檢起訴3人"
           ]
         },
         {
@@ -111040,11 +111039,11 @@
           "city": "台東",
           "place": "台東縣政府",
           "level": "red",
-          "news_count": 26,
+          "news_count": 25,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 26,
+          "urgency_score": 25,
           "sample_titles": [
             "空軍以「鳳翔專案」向美國採購的66架F-16C/D Block70戰機，首批2架單座戰機在停留夏威夷超過一個月後，預計今",
             "終於來了！首批2架F-16V「最快今上午」抵台東志航基地",
@@ -111072,11 +111071,11 @@
           "city": "南投",
           "place": "南投縣政府",
           "level": "red",
-          "news_count": 32,
+          "news_count": 31,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 32,
+          "urgency_score": 31,
           "sample_titles": [
             "南投幸福GO全線啟航 13鄉鎮全到位打造偏鄉交通新網絡",
             "北市免費營養午餐造成上百學童拉肚子 許淑華要求蔣萬安專案報告",
@@ -111120,11 +111119,11 @@
           "city": "新竹市",
           "place": "新竹市政府",
           "level": "red",
-          "news_count": 54,
+          "news_count": 53,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 63,
+          "urgency_score": 62,
           "sample_titles": [
             "普發一萬最新進度！每人6000元加碼 最快2027第一季新竹市發放 | 生活消費 | 生活",
             "普發一萬最新進度！每人6000元加碼 最快2027第一季新竹市發放",
@@ -111180,6 +111179,22 @@
           ]
         },
         {
+          "title": "花蓮地方動態",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
+          "level": "red",
+          "news_count": 123,
+          "comment_count": 0,
+          "negativity_pct": 10,
+          "is_urgent": false,
+          "urgency_score": 159,
+          "sample_titles": [
+            "東北季風增強北東降溫「變天」桃園以北、嘉義以南及花蓮宜蘭有雨| Newtalk",
+            "東北季風增強北東降溫「變天」桃園以北、嘉義以南及花蓮宜蘭有雨",
+            "流感、新冠疫苗升級 花蓮縣府籲及早接種"
+          ]
+        },
+        {
           "title": "苗栗地方動態",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -111196,31 +111211,15 @@
           ]
         },
         {
-          "title": "花蓮地方動態",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "red",
-          "news_count": 125,
-          "comment_count": 0,
-          "negativity_pct": 10,
-          "is_urgent": false,
-          "urgency_score": 164,
-          "sample_titles": [
-            "東北季風增強北東降溫「變天」桃園以北、嘉義以南及花蓮宜蘭有雨| Newtalk",
-            "東北季風增強北東降溫「變天」桃園以北、嘉義以南及花蓮宜蘭有雨",
-            "流感、新冠疫苗升級 花蓮縣府籲及早接種"
-          ]
-        },
-        {
           "title": "新北地方動態",
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 135,
+          "news_count": 133,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 171,
+          "urgency_score": 169,
           "sample_titles": [
             "新北9月房市交易量回升 移轉棟數月增12.1%",
             "破130萬戶 新北污水接管全國第一",
@@ -111232,11 +111231,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 159,
+          "news_count": 157,
           "comment_count": 0,
-          "negativity_pct": 9,
+          "negativity_pct": 10,
           "is_urgent": false,
-          "urgency_score": 204,
+          "urgency_score": 202,
           "sample_titles": [
             "東北季風增強北東降溫「變天」桃園以北、嘉義以南及花蓮宜蘭有雨| Newtalk",
             "東北季風增強北東降溫「變天」桃園以北、嘉義以南及花蓮宜蘭有雨",
@@ -111264,11 +111263,11 @@
           "city": "台中",
           "place": "台中市北屯區",
           "level": "red",
-          "news_count": 196,
+          "news_count": 195,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 202,
+          "urgency_score": 201,
           "sample_titles": [
             "《集中市場》盛達重訊違規 挨罰3萬元",
             "串聯黃金走廊 台中捷運橘線動起來 29公里跨8區「中興＋林同棪」標下細部規劃",
@@ -111280,11 +111279,11 @@
           "city": "高雄",
           "place": "高雄市鳳山區",
           "level": "red",
-          "news_count": 204,
+          "news_count": 201,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 228,
+          "urgency_score": 225,
           "sample_titles": [
             "丟臉到國外！高雄運匠狂摔韓女行李喊「我討厭韓國」 獲不起訴引爆韓網",
             "重陽敬老禮金來了！今發放「最高1萬元」 59萬長輩領到 一早記得刷簿子，喜收生活小確幸！2026年重陽節（農曆九月初九）",
@@ -111296,11 +111295,11 @@
           "city": "台北",
           "place": "台北市大安區",
           "level": "red",
-          "news_count": 345,
+          "news_count": 344,
           "comment_count": 0,
           "negativity_pct": 9,
           "is_urgent": false,
-          "urgency_score": 438,
+          "urgency_score": 437,
           "sample_titles": [
             "蔣萬安以國際視野布局首都競爭力 從張忠謀產業遠見到黃仁勳AI 戰略臺北市長選戰檢驗市政願景與治理能力",
             "駕駛注意！北市1路口科技執法開抓 宣導期累計違規447件",
