@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "snapshot_at": "2026-10-02T10:37:47.149203+00:00",
+  "snapshot_at": "2026-10-02T10:38:15.955328+00:00",
   "hotspots": [
     {
       "title": "海線立委戰局",
@@ -2793,34 +2793,6 @@
       "comments": []
     },
     {
-      "title": "桃園弊案爭議",
-      "city": "桃園",
-      "place": "桃園市政府",
-      "level": "red",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "桃園交警放水3無照駕駛「少罰逾2萬」 圖利罪判刑2年、緩刑3年",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80aUotb25sVFlENlh0MGlLSmN4MHB4T2J5dENqM1Nfcnp0SmI3TVk4ajJ5dFh3TkZyQjJYWC1YSVJHQWt1WHFFVWJ4ekthcEU4OXlYdlJEZjhwRkJnb0HSAUtBVV95cUxQNkhaSmdaLVhuQ3ppSGF4bGwxZmV2RGxpZDFwa2ROREs5X2Jfdzd4YzRtMktUZTl2WHlHWFBhOXY2MC0wWFBXNXpCQ1E?oc=5",
-          "time": "2026-10-02 14:26:00",
-          "publisher": "ETtoday",
-          "severity": "red"
-        },
-        {
-          "title": "桃園警員包庇無照駕駛 圖利3駕駛人24600元被判刑2年",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5592962",
-          "time": "2026-10-02 12:08:57",
-          "publisher": "自由時報",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "雲林弊案爭議",
       "city": "雲林",
       "place": "雲林縣政府",
@@ -2849,35 +2821,28 @@
       "comments": []
     },
     {
-      "title": "屏東弊案爭議",
-      "city": "屏東",
-      "place": "屏東縣政府",
+      "title": "桃園弊案爭議",
+      "city": "桃園",
+      "place": "桃園市政府",
       "level": "red",
-      "news_count": 3,
+      "news_count": 2,
       "comment_count": 0,
       "negativity_pct": 100,
       "is_urgent": true,
-      "urgency_score": 12,
+      "urgency_score": 8,
       "news_articles": [
         {
-          "title": "屏東縣文資所夫妻檔涉貪！ 「借牌投標」獲利108萬元屏檢起訴",
-          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPbl9rUGZTS2Z3SmxUdlRNLUJNQ1U1TUowT1ZJYnJocS0zTFdRYmYtQ2xlNTFYR3RsSmZGMVRLbm5wY2h1MlpGMEhqU29VbG1lalU1YVZBckYxdWR4NUU4TXZ6RlhqRVF6N2NCcW5DbjJtOHVOY2hRa1hxSG93c3dVaGNIT1hpR2p0LVp5MjJHOFlIbGFEY1pDdDJGVVFFcnc0VTFLb0E2dnBaU2tkeGFUT1R0cFR5ZjRTOUxnSHVkVThOengycm5mTTJ6OV80cGNpMnRubHZlRW1Qa3kxNUd3WG51NUZUOTU1SzlvMnpLYjZETEZTWDhvejNLY1FCRG5PUWszOC1TWUFGOF9ZLXdrcGd0Ukd0OEpndW0wT1NiSkF1M2ZKX25HN29idzJKRy1NWHNGM05JeVA3S1EteDBmejdnTHdvbldzUkNTMDRXT3hOY1d3SGxONkdnQkdhVTQ?oc=5",
-          "time": "2026-10-02 11:06:14",
-          "publisher": "Google News→行銷人",
+          "title": "桃園交警放水3無照駕駛「少罰逾2萬」 圖利罪判刑2年、緩刑3年",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80aUotb25sVFlENlh0MGlLSmN4MHB4T2J5dENqM1Nfcnp0SmI3TVk4ajJ5dFh3TkZyQjJYWC1YSVJHQWt1WHFFVWJ4ekthcEU4OXlYdlJEZjhwRkJnb0HSAUtBVV95cUxQNkhaSmdaLVhuQ3ppSGF4bGwxZmV2RGxpZDFwa2ROREs5X2Jfdzd4YzRtMktUZTl2WHlHWFBhOXY2MC0wWFBXNXpCQ1E?oc=5",
+          "time": "2026-10-02 14:26:00",
+          "publisher": "ETtoday",
           "severity": "red"
         },
         {
-          "title": "7月剛落網又犯4案「什麼都偷」 屏東慣竊不法所得10萬遭收押",
-          "url": "https://www.chinatimes.com/realtimenews/20261002001780-260402",
-          "time": "2026-10-02 10:58:18",
-          "publisher": "中時新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "屏東縣文資所夫妻檔涉貪！ 「借牌投標」獲利108萬元屏檢起訴",
-          "url": "https://www.thehubnews.net/archives/670828",
-          "time": "2026-10-01 20:00:00",
-          "publisher": "新頭條",
+          "title": "桃園警員包庇無照駕駛 圖利3駕駛人24600元被判刑2年",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5592962",
+          "time": "2026-10-02 12:08:57",
+          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -2919,42 +2884,35 @@
       "comments": []
     },
     {
-      "title": "嘉義市弊案爭議",
-      "city": "嘉義市",
-      "place": "嘉義市政府",
+      "title": "屏東弊案爭議",
+      "city": "屏東",
+      "place": "屏東縣政府",
       "level": "red",
-      "news_count": 4,
+      "news_count": 3,
       "comment_count": 0,
       "negativity_pct": 100,
       "is_urgent": true,
-      "urgency_score": 16,
+      "urgency_score": 12,
       "news_articles": [
         {
-          "title": "婦涉每票千元為嘉市議員參選人買票 遭收押禁見",
-          "url": "https://newtalk.tw/news/view/2026-10-02/1063218",
-          "time": "2026-10-02 14:50:03",
-          "publisher": "新頭殼",
+          "title": "屏東縣文資所夫妻檔涉貪！ 「借牌投標」獲利108萬元屏檢起訴",
+          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPbl9rUGZTS2Z3SmxUdlRNLUJNQ1U1TUowT1ZJYnJocS0zTFdRYmYtQ2xlNTFYR3RsSmZGMVRLbm5wY2h1MlpGMEhqU29VbG1lalU1YVZBckYxdWR4NUU4TXZ6RlhqRVF6N2NCcW5DbjJtOHVOY2hRa1hxSG93c3dVaGNIT1hpR2p0LVp5MjJHOFlIbGFEY1pDdDJGVVFFcnc0VTFLb0E2dnBaU2tkeGFUT1R0cFR5ZjRTOUxnSHVkVThOengycm5mTTJ6OV80cGNpMnRubHZlRW1Qa3kxNUd3WG51NUZUOTU1SzlvMnpLYjZETEZTWDhvejNLY1FCRG5PUWszOC1TWUFGOF9ZLXdrcGd0Ukd0OEpndW0wT1NiSkF1M2ZKX25HN29idzJKRy1NWHNGM05JeVA3S1EteDBmejdnTHdvbldzUkNTMDRXT3hOY1d3SGxONkdnQkdhVTQ?oc=5",
+          "time": "2026-10-02 11:06:14",
+          "publisher": "Google News→行銷人",
           "severity": "red"
         },
         {
-          "title": "每票1千元幫嘉義市議員參選人買票 72歲樁腳遭收押禁見",
-          "url": "https://www.taisounds.com/news/content/97/291742",
+          "title": "7月剛落網又犯4案「什麼都偷」 屏東慣竊不法所得10萬遭收押",
+          "url": "https://www.chinatimes.com/realtimenews/20261002001780-260402",
           "time": "2026-10-02 10:58:18",
-          "publisher": "太報",
+          "publisher": "中時新聞網",
           "severity": "red"
         },
         {
-          "title": "嘉義市議員選舉爆現金買票！每票1000元…涉案樁腳去選民家發錢遭收押",
-          "url": "https://www.setn.com/news/1916054",
-          "time": "2026-10-02 08:38:18",
-          "publisher": "三立新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "嘉市傳首宗現金買票案 72歲樁腳涉每票千元買票遭收押",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5592720",
-          "time": "2026-10-02 08:37:21",
-          "publisher": "自由時報",
+          "title": "屏東縣文資所夫妻檔涉貪！ 「借牌投標」獲利108萬元屏檢起訴",
+          "url": "https://www.thehubnews.net/archives/670828",
+          "time": "2026-10-01 20:00:00",
+          "publisher": "新頭條",
           "severity": "red"
         }
       ],
@@ -2997,6 +2955,48 @@
           "url": "https://tw.news.yahoo.com/%E6%8D%B2%E5%85%A5%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%E5%BC%8A%E6%A1%88-%E6%95%99%E6%8E%88%E6%94%B9%E5%88%A4%E7%84%A1%E7%BD%AA-%E6%B5%81%E4%B8%8B%E7%94%B7%E5%85%92%E6%B7%9A-223220933.html",
           "time": "2026-10-02 06:32:20",
           "publisher": "Yahoo新聞",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "嘉義市弊案爭議",
+      "city": "嘉義市",
+      "place": "嘉義市政府",
+      "level": "red",
+      "news_count": 4,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 16,
+      "news_articles": [
+        {
+          "title": "婦涉每票千元為嘉市議員參選人買票 遭收押禁見",
+          "url": "https://newtalk.tw/news/view/2026-10-02/1063218",
+          "time": "2026-10-02 14:50:03",
+          "publisher": "新頭殼",
+          "severity": "red"
+        },
+        {
+          "title": "每票1千元幫嘉義市議員參選人買票 72歲樁腳遭收押禁見",
+          "url": "https://www.taisounds.com/news/content/97/291742",
+          "time": "2026-10-02 10:58:18",
+          "publisher": "太報",
+          "severity": "red"
+        },
+        {
+          "title": "嘉義市議員選舉爆現金買票！每票1000元…涉案樁腳去選民家發錢遭收押",
+          "url": "https://www.setn.com/news/1916054",
+          "time": "2026-10-02 08:38:18",
+          "publisher": "三立新聞網",
+          "severity": "red"
+        },
+        {
+          "title": "嘉市傳首宗現金買票案 72歲樁腳涉每票千元買票遭收押",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5592720",
+          "time": "2026-10-02 08:37:21",
+          "publisher": "自由時報",
           "severity": "red"
         }
       ],
