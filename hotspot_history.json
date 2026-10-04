@@ -112160,7 +112160,7 @@
     },
     {
       "date": "2026-10-04",
-      "snapshot_at": "2026-10-04T01:28:01.378952+00:00",
+      "snapshot_at": "2026-10-04T01:32:32.394401+00:00",
       "hotspots": [
         {
           "title": "捷運藍線爭議",
@@ -112261,21 +112261,6 @@
           ]
         },
         {
-          "title": "花蓮車禍事件",
-          "city": "花蓮",
-          "place": "花蓮縣政府",
-          "level": "green",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "花蓮車禍蝦子掉滿地！ 鳳林分局員警挽袖清理協助排除道路障礙",
-            "花蓮台11線疑疲勞駕駛釀「奪命」車禍 大量活蝦魂斷馬路"
-          ]
-        },
-        {
           "title": "台中車禍事件",
           "city": "台中",
           "place": "台中市政府",
@@ -112288,6 +112273,21 @@
           "sample_titles": [
             "雙雙闖燈對撞！台中38歲男車禍「四肢癱瘓」怒告 法官：只能判賠一半",
             "台中毒駕車禍撞3行人受傷 駕駛想逃遭熱心民眾壓制"
+          ]
+        },
+        {
+          "title": "花蓮車禍事件",
+          "city": "花蓮",
+          "place": "花蓮縣政府",
+          "level": "green",
+          "news_count": 2,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 8,
+          "sample_titles": [
+            "花蓮車禍蝦子掉滿地！ 鳳林分局員警挽袖清理協助排除道路障礙",
+            "花蓮台11線疑疲勞駕駛釀「奪命」車禍 大量活蝦魂斷馬路"
           ]
         },
         {
@@ -112760,11 +112760,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 70,
+          "news_count": 69,
           "comment_count": 0,
           "negativity_pct": 7,
           "is_urgent": false,
-          "urgency_score": 85,
+          "urgency_score": 84,
           "sample_titles": [
             "天氣／本週「下探16度」！雨勢擴大一片藍 國慶連假南北兩樣情 今天（4日）白天各地偏熱，高溫上看36度，僅基隆北海岸、東",
             "出席民眾屏東隊誓師大會 黃國昌 、柯文哲：讓第三勢力在國境之南站穩腳步！",
@@ -112808,11 +112808,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 106,
+          "news_count": 105,
           "comment_count": 0,
           "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 130,
+          "urgency_score": 129,
           "sample_titles": [
             "宜蘭惡火六口奪4命！屋主妻子、子女及老父被抬出火場…在醫院相繼離世",
             "宜蘭建材行惡火4死2傷慘劇 屋主妻最後通話：我們躲角落等救援",
@@ -112840,11 +112840,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 125,
+          "news_count": 124,
           "comment_count": 0,
           "negativity_pct": 1,
           "is_urgent": false,
-          "urgency_score": 128,
+          "urgency_score": 127,
           "sample_titles": [
             "金六結「翔龍部隊」新兵看完病竟溜了！ 桃園男成逃兵通緝犯下場曝",
             "黃世杰南桃園競總成立 總統、卓揆站台",
@@ -112856,11 +112856,11 @@
           "city": "高雄",
           "place": "高雄市前鎮區",
           "level": "red",
-          "news_count": 134,
+          "news_count": 132,
           "comment_count": 0,
-          "negativity_pct": 13,
+          "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 185,
+          "urgency_score": 180,
           "sample_titles": [
             "【影音】最強年曆AI療癒！2027學測衝刺《青春節奏》高市新興高中陳鏡絃｜「讀書、運動、夢想」年曆×原創歌曲",
             "投資醫院卻看不到帳？高雄律師：醫療社團法人董事也要負忠實義務",
