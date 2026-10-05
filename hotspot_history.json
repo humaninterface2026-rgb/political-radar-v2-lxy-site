@@ -112825,7 +112825,7 @@
     },
     {
       "date": "2026-10-05",
-      "snapshot_at": "2026-10-05T01:28:20.307989+00:00",
+      "snapshot_at": "2026-10-05T01:28:50.235552+00:00",
       "hotspots": [
         {
           "title": "高雄公廁議題",
@@ -112870,20 +112870,6 @@
           ]
         },
         {
-          "title": "高雄車禍事件",
-          "city": "高雄",
-          "place": "高雄市左營區",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "左營匝道車禍 轎車衝上引擎蓋險翻覆"
-          ]
-        },
-        {
           "title": "台中車禍事件",
           "city": "台中",
           "place": "台中市政府",
@@ -112895,6 +112881,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "台中白色轎車疑擋道鳴笛救護車 救護員指強行切出禮讓恐釀車禍"
+          ]
+        },
+        {
+          "title": "高雄車禍事件",
+          "city": "高雄",
+          "place": "高雄市左營區",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "左營匝道車禍 轎車衝上引擎蓋險翻覆"
           ]
         },
         {
@@ -112912,20 +112912,6 @@
           ]
         },
         {
-          "title": "高雄詐騙案",
-          "city": "高雄",
-          "place": "高雄市鼓山區",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "17歲車手騙45萬藏廟公廁！回頭找錢「自投羅網」 高雄鼓山區一間宮廟公廁日前驚現45萬元現金，經警方調查發現，一名17歲"
-          ]
-        },
-        {
           "title": "台北詐騙案",
           "city": "台北",
           "place": "台北市政府",
@@ -112937,6 +112923,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "民進黨台北市長參選人沈伯洋2014年發文稱效仿他國提供毒癮者毒品與針頭，儘管沈強調北市行早已實施美沙冬戒毒多年，仍引發爭"
+          ]
+        },
+        {
+          "title": "高雄詐騙案",
+          "city": "高雄",
+          "place": "高雄市鼓山區",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "17歲車手騙45萬藏廟公廁！回頭找錢「自投羅網」 高雄鼓山區一間宮廟公廁日前驚現45萬元現金，經警方調查發現，一名17歲"
           ]
         },
         {
@@ -113200,22 +113200,6 @@
           ]
         },
         {
-          "title": "雲林地方動態",
-          "city": "雲林",
-          "place": "雲林縣政府",
-          "level": "yellow",
-          "news_count": 26,
-          "comment_count": 0,
-          "negativity_pct": 4,
-          "is_urgent": false,
-          "urgency_score": 29,
-          "sample_titles": [
-            "蘇巧慧拚板橋商業廊帶 李四川成立雲林後援會",
-            "雲林建構智慧永續白金酪農產業 穩定產業保障酪農生計",
-            "培育數位傳播人才！雲林媒體素養暨自媒體課程31位學員圓滿結業"
-          ]
-        },
-        {
           "title": "南投地方動態",
           "city": "南投",
           "place": "南投縣政府",
@@ -113229,6 +113213,22 @@
             "大葉大學觀休系執行南投博物館運籌計畫 南投茶博宣傳行銷",
             "2026國慶連假中部去哪玩？后里樂器節、鹿港糕餅與南投茶博行程",
             "讓竹子會說話！南投竹藝競賽「魚悅‧愉悅」勇奪首獎"
+          ]
+        },
+        {
+          "title": "雲林地方動態",
+          "city": "雲林",
+          "place": "雲林縣政府",
+          "level": "yellow",
+          "news_count": 26,
+          "comment_count": 0,
+          "negativity_pct": 4,
+          "is_urgent": false,
+          "urgency_score": 29,
+          "sample_titles": [
+            "蘇巧慧拚板橋商業廊帶 李四川成立雲林後援會",
+            "雲林建構智慧永續白金酪農產業 穩定產業保障酪農生計",
+            "培育數位傳播人才！雲林媒體素養暨自媒體課程31位學員圓滿結業"
           ]
         },
         {
@@ -113474,11 +113474,11 @@
           "city": "台北",
           "place": "台北市內湖區",
           "level": "red",
-          "news_count": 300,
+          "news_count": 299,
           "comment_count": 0,
-          "negativity_pct": 17,
+          "negativity_pct": 16,
           "is_urgent": false,
-          "urgency_score": 450,
+          "urgency_score": 446,
           "sample_titles": [
             "壹氣象／東北季風增！ 北部轉涼　大台北、宜蘭局部大雨",
             "台北花園大酒店饗聚廚房「艋舺百味美食節」10／10開跑 街頭經典到異國創意料理吃到飽！",

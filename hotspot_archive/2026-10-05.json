@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "snapshot_at": "2026-10-05T01:28:20.307989+00:00",
+  "snapshot_at": "2026-10-05T01:28:50.235552+00:00",
   "hotspots": [
     {
       "title": "高雄公廁議題",
@@ -66,27 +66,6 @@
       "comments": []
     },
     {
-      "title": "高雄車禍事件",
-      "city": "高雄",
-      "place": "高雄市左營區",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "左營匝道車禍 轎車衝上引擎蓋險翻覆",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5594883",
-          "time": "2026-10-04 10:55:35",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台中車禍事件",
       "city": "台中",
       "place": "台中市政府",
@@ -102,6 +81,27 @@
           "url": "https://news.pts.org.tw/article/829856",
           "time": "2026-10-04 19:55:41",
           "publisher": "公視 即時",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄車禍事件",
+      "city": "高雄",
+      "place": "高雄市左營區",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "左營匝道車禍 轎車衝上引擎蓋險翻覆",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5594883",
+          "time": "2026-10-04 10:55:35",
+          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -129,27 +129,6 @@
       "comments": []
     },
     {
-      "title": "高雄詐騙案",
-      "city": "高雄",
-      "place": "高雄市鼓山區",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "17歲車手騙45萬藏廟公廁！回頭找錢「自投羅網」 高雄鼓山區一間宮廟公廁日前驚現45萬元現金，經警方調查發現，一名17歲少年涉嫌擔任詐騙車手，依集團指示將騙得的贓款藏匿於廁所內，等待下一名車手前來取款，未料現金遭廟公發現並報警，少年事後竟回到宮廟詢問是否有人撿到錢，當場遭警方逮捕送辦。 32 分鐘前 ｜ 社會 17歲車手騙45萬藏廟公廁！回頭找錢「自投羅網」 32 分鐘前 ｜ 社會",
-          "url": "https://news.tvbs.com.tw/local/4031344",
-          "time": "2026-10-04 11:58:16",
-          "publisher": "TVBS",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台北詐騙案",
       "city": "台北",
       "place": "台北市政府",
@@ -165,6 +144,27 @@
           "url": "https://udn.com/news/story/124652/9794112?from=udn-ch1_breaknews-1-cate1-news",
           "time": "2026-10-04 18:31:52",
           "publisher": "聯合新聞網",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "高雄詐騙案",
+      "city": "高雄",
+      "place": "高雄市鼓山區",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "17歲車手騙45萬藏廟公廁！回頭找錢「自投羅網」 高雄鼓山區一間宮廟公廁日前驚現45萬元現金，經警方調查發現，一名17歲少年涉嫌擔任詐騙車手，依集團指示將騙得的贓款藏匿於廁所內，等待下一名車手前來取款，未料現金遭廟公發現並報警，少年事後竟回到宮廟詢問是否有人撿到錢，當場遭警方逮捕送辦。 32 分鐘前 ｜ 社會 17歲車手騙45萬藏廟公廁！回頭找錢「自投羅網」 32 分鐘前 ｜ 社會",
+          "url": "https://news.tvbs.com.tw/local/4031344",
+          "time": "2026-10-04 11:58:16",
+          "publisher": "TVBS",
           "severity": "yellow"
         }
       ],
@@ -1511,202 +1511,6 @@
       "comments": []
     },
     {
-      "title": "雲林地方動態",
-      "city": "雲林",
-      "place": "雲林縣政府",
-      "level": "yellow",
-      "news_count": 26,
-      "comment_count": 0,
-      "negativity_pct": 4,
-      "is_urgent": false,
-      "urgency_score": 29,
-      "news_articles": [
-        {
-          "title": "蘇巧慧拚板橋商業廊帶 李四川成立雲林後援會",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1773354",
-          "time": "2026-10-05 05:30:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "雲林建構智慧永續白金酪農產業 穩定產業保障酪農生計",
-          "url": "https://tw.news.yahoo.com/%E9%9B%B2%E6%9E%97%E5%BB%BA%E6%A7%8B%E6%99%BA%E6%85%A7%E6%B0%B8%E7%BA%8C%E7%99%BD%E9%87%91%E9%85%AA%E8%BE%B2%E7%94%A2%E6%A5%AD-%E7%A9%A9%E5%AE%9A%E7%94%A2%E6%A5%AD%E4%BF%9D%E9%9A%9C%E9%85%AA%E8%BE%B2%E7%94%9F%E8%A8%88-193816406.html",
-          "time": "2026-10-05 03:38:16",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "培育數位傳播人才！雲林媒體素養暨自媒體課程31位學員圓滿結業",
-          "url": "https://tw.news.yahoo.com/%E5%9F%B9%E8%82%B2%E6%95%B8%E4%BD%8D%E5%82%B3%E6%92%AD%E4%BA%BA%E6%89%8D-%E9%9B%B2%E6%9E%97%E5%AA%92%E9%AB%94%E7%B4%A0%E9%A4%8A%E6%9A%A8%E8%87%AA%E5%AA%92%E9%AB%94%E8%AA%B2%E7%A8%8B31%E4%BD%8D%E5%AD%B8%E5%93%A1%E5%9C%93%E6%BB%BF%E7%B5%90%E6%A5%AD-185157818.html",
-          "time": "2026-10-05 02:51:57",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "海巡出手了！中國漁船入侵東沙「17分賴著不走」！雲林艦「水砲90秒」強勢驅離 網嗨喊：稅就要這樣用！｜【台灣ON AIR】",
-          "url": "https://www.youtube.com/watch?v=Bxpno1ePAIU",
-          "time": "2026-10-04 22:00:07",
-          "publisher": null,
-          "severity": null
-        },
-        {
-          "title": "金彩銀齡 閃耀雲林",
-          "url": "https://tw.news.yahoo.com/%E9%87%91%E5%BD%A9%E9%8A%80%E9%BD%A1-%E9%96%83%E8%80%80%E9%9B%B2%E6%9E%97-122631136.html",
-          "time": "2026-10-04 20:26:31",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "藉布袋戲推廣傳統文化及品德教育 雲林縣府率在地劇團跨縣市巡演",
-          "url": "https://news.ltn.com.tw/news/art/breakingnews/5595301",
-          "time": "2026-10-04 17:48:55",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "雲林縣台西鄉老人5040人，占全鄉人口達25%，目前僅有溪頂、台西社區及光華社區社區等3處長青食堂，尤其和市區相距較遠的崙豐等村落，尚無供餐，雲林縣府今天動工在崙豐活動中心建造中央廚房，方便台西北區村落長者用餐。",
-          "url": "https://udn.com/news/story/124652/9794060?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-10-04 17:28:14",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "韓國瑜啟動輔選想拜孫悟空 回雲林挺張嘉郡",
-          "url": "https://more-news.tw/734916/",
-          "time": "2026-10-04 17:28:03",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "雲林前主任檢察官朱啓仁卸袍開事務所 宣布為罕病友免費法律諮詢",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5595272",
-          "time": "2026-10-04 17:21:04",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "金彩銀齡·閃耀雲林 雲林縣115年度重陽敬老表揚溫馨登場",
-          "url": "https://more-news.tw/734882/",
-          "time": "2026-10-04 17:10:03",
-          "publisher": "墨新聞",
-          "severity": null
-        },
-        {
-          "title": "北港媽停駕宜蘭警局！宜蘭警長「鑽轎底」",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tOFVvZ1VhYl9DTVVHMFpQWi1OSno5TTI5REhOQ2drWnozNFZ1bjN1QUVNajdCV3FFVHV0NkwwcjlueHdRbFYtZmxuWHNCSTA4Nm96bWxjaXNIc2d10gFiQVVfeXFMTU1Gd29GbHhMWjBaQzJYM1hpOGpYckVTbi1zNkNWQlZJTFZwNm1UT3Fwa0VnVUkzN2ljUUpDcEo1OTJYc3VNRHoxbVF3WmljTy1pZ3ZUdFZiRlJVUXlpRWcyWFE?oc=5",
-          "time": "2026-10-04 16:40:00",
-          "publisher": "Google News→鏡週刊Mirror Media",
-          "severity": null
-        },
-        {
-          "title": "影射南亞科不選雲林？ 劉世芳批「第一關遇家族政治」 張麗善：不應羅織罪名",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5595208",
-          "time": "2026-10-04 16:33:52",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "年底選戰倒數，民進黨雲林縣長參選人劉建國今天成立四湖鄉聯合競選總部，邀請內政部長劉世芳到場站台，劉世芳稱讚劉建國是個「孝順的人」，更將這孝心延伸至雲林各年齡層民眾，將為雲林爭取更多就業機會，創造青銀共好，用同樣的心照顧雲林，籲請民眾支持，劉建國則訴求食安和老少照護政策，要雲林人再勇敢一次換人做。",
-          "url": "https://udn.com/news/story/124652/9793851?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-10-04 16:13:30",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "南亞科屏東擴廠拍板 張麗善：對區域發展不是很理想的決定",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTQTlYU0prczhnWEVOSlQyQTNhMWszRkI4TlA3WDBMdXZDdUpmcnZnMnE4LVlEc29tRjBCaUJZTFJOTWJWQk1VNHktVnJnYVhpZFpwdFY2QmY?oc=5",
-          "time": "2026-10-04 16:00:36",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "劉建國四湖聯合競總成立 劉世芳讚他將孝心延伸服務雲林",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5595046",
-          "time": "2026-10-04 14:08:46",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "李四川雲林同鄉後援會成立 張麗善站台、雲林鄉親高喊挺「南部囡仔」",
-          "url": "https://www.cdns.com.tw/articles/1469591",
-          "time": "2026-10-04 13:20:00",
-          "publisher": "中華日報",
-          "severity": null
-        },
-        {
-          "title": "第五屆雲林動漫影展 435件作品角逐15獎",
-          "url": "https://tw.news.yahoo.com/%E7%AC%AC%E4%BA%94%E5%B1%86%E9%9B%B2%E6%9E%97%E5%8B%95%E6%BC%AB%E5%BD%B1%E5%B1%95-435%E4%BB%B6%E4%BD%9C%E5%93%81%E8%A7%92%E9%80%9015%E7%8D%8E-045047946.html",
-          "time": "2026-10-04 12:50:47",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "張麗善北上力挺自嘲被抹黑反問「我們像黑道嗎」 李四川端政績牌搶攻雲林票",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594948",
-          "time": "2026-10-04 12:17:39",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "劉世芳稱「沒半個人要來雲林」 張麗善怒嗆：政治力介入選舉",
-          "url": "https://tw.news.yahoo.com/%E5%8A%89%E4%B8%96%E8%8A%B3%E7%A8%B1-%E6%B2%92%E5%8D%8A%E5%80%8B%E4%BA%BA%E8%A6%81%E4%BE%86%E9%9B%B2%E6%9E%97-%E5%BC%B5%E9%BA%97%E5%96%84%E6%80%92%E5%97%86-%E6%94%BF%E6%B2%BB%E5%8A%9B%E4%BB%8B%E5%85%A5%E9%81%B8%E8%88%89-120705082.html",
-          "time": "2026-10-04 12:07:05",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "雲林崙豐中央廚房動土 張嘉郡提政見：提高長青食堂餐費補助",
-          "url": "https://n.yam.com/Article/20261004782497",
-          "time": "2026-10-04 12:00:00",
-          "publisher": "蕃新聞→三星傳媒",
-          "severity": null
-        },
-        {
-          "title": "雲林縣長候選人劉建國褒忠競選總部暨斗南競選總部",
-          "url": "https://n.yam.com/Article/20261004210741",
-          "time": "2026-10-04 12:00:00",
-          "publisher": "蕃新聞→互傳媒",
-          "severity": null
-        },
-        {
-          "title": "國民黨新北市長參選人李四川今出席雲林同鄉後援會成立大會，談到接棒新北市長侯友宜坦言「壓力也很大」，還自曝兒子曾勸他別再參選，但他仍希望把40年公務經驗，在「最後一次公務生涯」貢獻給新北。雲林縣長張麗善也特別北上站台，兩人在台上輪番向雲林鄉親催票、固票，現場「凍蒜」聲不斷。",
-          "url": "https://udn.com/news/story/124652/9793608?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-10-04 11:58:16",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "國民黨新北市長參選人李四川今上午出席「我們都挺李四川」雲林同鄉後援會成立活動，雲林縣長張麗善特別北上力挺。張麗善細數李四川過往經歷，稱他「說話不浮誇、做事不推託，做人也不囂張」，更笑稱李四川過去在高雄支持「雲林女婿」韓國瑜，到台北又支持「雲林外孫」蔣萬安，與雲林淵源深厚，盼雲林鄉親團結支持李四川。",
-          "url": "https://udn.com/news/story/124652/9793515?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-10-04 11:58:16",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "李四川雲林同鄉後援會成立 張麗善：他做人實在又支持韓國瑜",
-          "url": "https://www.ettoday.net/news/20261004/3248749.htm",
-          "time": "2026-10-04 11:51:00",
-          "publisher": "ETtoday",
-          "severity": null
-        },
-        {
-          "title": "雲林地檢強化觀護服務！榮譽觀護人培訓聚焦反毒、戒癮與輔導技巧",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5594853",
-          "time": "2026-10-04 11:48:38",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "韓國瑜看好雲林發展如「武當派」 輔選正藍軍張嘉郡、黃尤美",
-          "url": "https://cnews.com.tw/247261004a01/",
-          "time": "2026-10-04 10:46:24",
-          "publisher": "匯流新聞網",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "南投地方動態",
       "city": "南投",
       "place": "南投縣政府",
@@ -1897,6 +1701,202 @@
           "url": "https://tw.news.yahoo.com/%E5%8D%97%E6%8A%95%E5%8D%83%E4%BA%BA%E8%8C%B6%E5%AE%B4-%E5%B8%AD%E8%8C%B6%E9%A6%99-%E5%8D%83%E4%BA%BA%E6%AD%B8%E9%84%89-%E7%86%B1%E9%AC%A7%E9%96%8B%E5%B8%AD-020043419.html",
           "time": "2026-10-04 10:00:43",
           "publisher": "Yahoo新聞",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "雲林地方動態",
+      "city": "雲林",
+      "place": "雲林縣政府",
+      "level": "yellow",
+      "news_count": 26,
+      "comment_count": 0,
+      "negativity_pct": 4,
+      "is_urgent": false,
+      "urgency_score": 29,
+      "news_articles": [
+        {
+          "title": "蘇巧慧拚板橋商業廊帶 李四川成立雲林後援會",
+          "url": "https://news.ltn.com.tw/news/politics/paper/1773354",
+          "time": "2026-10-05 05:30:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "雲林建構智慧永續白金酪農產業 穩定產業保障酪農生計",
+          "url": "https://tw.news.yahoo.com/%E9%9B%B2%E6%9E%97%E5%BB%BA%E6%A7%8B%E6%99%BA%E6%85%A7%E6%B0%B8%E7%BA%8C%E7%99%BD%E9%87%91%E9%85%AA%E8%BE%B2%E7%94%A2%E6%A5%AD-%E7%A9%A9%E5%AE%9A%E7%94%A2%E6%A5%AD%E4%BF%9D%E9%9A%9C%E9%85%AA%E8%BE%B2%E7%94%9F%E8%A8%88-193816406.html",
+          "time": "2026-10-05 03:38:16",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "培育數位傳播人才！雲林媒體素養暨自媒體課程31位學員圓滿結業",
+          "url": "https://tw.news.yahoo.com/%E5%9F%B9%E8%82%B2%E6%95%B8%E4%BD%8D%E5%82%B3%E6%92%AD%E4%BA%BA%E6%89%8D-%E9%9B%B2%E6%9E%97%E5%AA%92%E9%AB%94%E7%B4%A0%E9%A4%8A%E6%9A%A8%E8%87%AA%E5%AA%92%E9%AB%94%E8%AA%B2%E7%A8%8B31%E4%BD%8D%E5%AD%B8%E5%93%A1%E5%9C%93%E6%BB%BF%E7%B5%90%E6%A5%AD-185157818.html",
+          "time": "2026-10-05 02:51:57",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "海巡出手了！中國漁船入侵東沙「17分賴著不走」！雲林艦「水砲90秒」強勢驅離 網嗨喊：稅就要這樣用！｜【台灣ON AIR】",
+          "url": "https://www.youtube.com/watch?v=Bxpno1ePAIU",
+          "time": "2026-10-04 22:00:07",
+          "publisher": null,
+          "severity": null
+        },
+        {
+          "title": "金彩銀齡 閃耀雲林",
+          "url": "https://tw.news.yahoo.com/%E9%87%91%E5%BD%A9%E9%8A%80%E9%BD%A1-%E9%96%83%E8%80%80%E9%9B%B2%E6%9E%97-122631136.html",
+          "time": "2026-10-04 20:26:31",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "藉布袋戲推廣傳統文化及品德教育 雲林縣府率在地劇團跨縣市巡演",
+          "url": "https://news.ltn.com.tw/news/art/breakingnews/5595301",
+          "time": "2026-10-04 17:48:55",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "雲林縣台西鄉老人5040人，占全鄉人口達25%，目前僅有溪頂、台西社區及光華社區社區等3處長青食堂，尤其和市區相距較遠的崙豐等村落，尚無供餐，雲林縣府今天動工在崙豐活動中心建造中央廚房，方便台西北區村落長者用餐。",
+          "url": "https://udn.com/news/story/124652/9794060?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-10-04 17:28:14",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "韓國瑜啟動輔選想拜孫悟空 回雲林挺張嘉郡",
+          "url": "https://more-news.tw/734916/",
+          "time": "2026-10-04 17:28:03",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "雲林前主任檢察官朱啓仁卸袍開事務所 宣布為罕病友免費法律諮詢",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5595272",
+          "time": "2026-10-04 17:21:04",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "金彩銀齡·閃耀雲林 雲林縣115年度重陽敬老表揚溫馨登場",
+          "url": "https://more-news.tw/734882/",
+          "time": "2026-10-04 17:10:03",
+          "publisher": "墨新聞",
+          "severity": null
+        },
+        {
+          "title": "北港媽停駕宜蘭警局！宜蘭警長「鑽轎底」",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tOFVvZ1VhYl9DTVVHMFpQWi1OSno5TTI5REhOQ2drWnozNFZ1bjN1QUVNajdCV3FFVHV0NkwwcjlueHdRbFYtZmxuWHNCSTA4Nm96bWxjaXNIc2d10gFiQVVfeXFMTU1Gd29GbHhMWjBaQzJYM1hpOGpYckVTbi1zNkNWQlZJTFZwNm1UT3Fwa0VnVUkzN2ljUUpDcEo1OTJYc3VNRHoxbVF3WmljTy1pZ3ZUdFZiRlJVUXlpRWcyWFE?oc=5",
+          "time": "2026-10-04 16:40:00",
+          "publisher": "Google News→鏡週刊Mirror Media",
+          "severity": null
+        },
+        {
+          "title": "影射南亞科不選雲林？ 劉世芳批「第一關遇家族政治」 張麗善：不應羅織罪名",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5595208",
+          "time": "2026-10-04 16:33:52",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "年底選戰倒數，民進黨雲林縣長參選人劉建國今天成立四湖鄉聯合競選總部，邀請內政部長劉世芳到場站台，劉世芳稱讚劉建國是個「孝順的人」，更將這孝心延伸至雲林各年齡層民眾，將為雲林爭取更多就業機會，創造青銀共好，用同樣的心照顧雲林，籲請民眾支持，劉建國則訴求食安和老少照護政策，要雲林人再勇敢一次換人做。",
+          "url": "https://udn.com/news/story/124652/9793851?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-10-04 16:13:30",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "南亞科屏東擴廠拍板 張麗善：對區域發展不是很理想的決定",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTQTlYU0prczhnWEVOSlQyQTNhMWszRkI4TlA3WDBMdXZDdUpmcnZnMnE4LVlEc29tRjBCaUJZTFJOTWJWQk1VNHktVnJnYVhpZFpwdFY2QmY?oc=5",
+          "time": "2026-10-04 16:00:36",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "劉建國四湖聯合競總成立 劉世芳讚他將孝心延伸服務雲林",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5595046",
+          "time": "2026-10-04 14:08:46",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "李四川雲林同鄉後援會成立 張麗善站台、雲林鄉親高喊挺「南部囡仔」",
+          "url": "https://www.cdns.com.tw/articles/1469591",
+          "time": "2026-10-04 13:20:00",
+          "publisher": "中華日報",
+          "severity": null
+        },
+        {
+          "title": "第五屆雲林動漫影展 435件作品角逐15獎",
+          "url": "https://tw.news.yahoo.com/%E7%AC%AC%E4%BA%94%E5%B1%86%E9%9B%B2%E6%9E%97%E5%8B%95%E6%BC%AB%E5%BD%B1%E5%B1%95-435%E4%BB%B6%E4%BD%9C%E5%93%81%E8%A7%92%E9%80%9015%E7%8D%8E-045047946.html",
+          "time": "2026-10-04 12:50:47",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "張麗善北上力挺自嘲被抹黑反問「我們像黑道嗎」 李四川端政績牌搶攻雲林票",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594948",
+          "time": "2026-10-04 12:17:39",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "劉世芳稱「沒半個人要來雲林」 張麗善怒嗆：政治力介入選舉",
+          "url": "https://tw.news.yahoo.com/%E5%8A%89%E4%B8%96%E8%8A%B3%E7%A8%B1-%E6%B2%92%E5%8D%8A%E5%80%8B%E4%BA%BA%E8%A6%81%E4%BE%86%E9%9B%B2%E6%9E%97-%E5%BC%B5%E9%BA%97%E5%96%84%E6%80%92%E5%97%86-%E6%94%BF%E6%B2%BB%E5%8A%9B%E4%BB%8B%E5%85%A5%E9%81%B8%E8%88%89-120705082.html",
+          "time": "2026-10-04 12:07:05",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "雲林崙豐中央廚房動土 張嘉郡提政見：提高長青食堂餐費補助",
+          "url": "https://n.yam.com/Article/20261004782497",
+          "time": "2026-10-04 12:00:00",
+          "publisher": "蕃新聞→三星傳媒",
+          "severity": null
+        },
+        {
+          "title": "雲林縣長候選人劉建國褒忠競選總部暨斗南競選總部",
+          "url": "https://n.yam.com/Article/20261004210741",
+          "time": "2026-10-04 12:00:00",
+          "publisher": "蕃新聞→互傳媒",
+          "severity": null
+        },
+        {
+          "title": "國民黨新北市長參選人李四川今出席雲林同鄉後援會成立大會，談到接棒新北市長侯友宜坦言「壓力也很大」，還自曝兒子曾勸他別再參選，但他仍希望把40年公務經驗，在「最後一次公務生涯」貢獻給新北。雲林縣長張麗善也特別北上站台，兩人在台上輪番向雲林鄉親催票、固票，現場「凍蒜」聲不斷。",
+          "url": "https://udn.com/news/story/124652/9793608?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-10-04 11:58:16",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "國民黨新北市長參選人李四川今上午出席「我們都挺李四川」雲林同鄉後援會成立活動，雲林縣長張麗善特別北上力挺。張麗善細數李四川過往經歷，稱他「說話不浮誇、做事不推託，做人也不囂張」，更笑稱李四川過去在高雄支持「雲林女婿」韓國瑜，到台北又支持「雲林外孫」蔣萬安，與雲林淵源深厚，盼雲林鄉親團結支持李四川。",
+          "url": "https://udn.com/news/story/124652/9793515?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-10-04 11:58:16",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "李四川雲林同鄉後援會成立 張麗善：他做人實在又支持韓國瑜",
+          "url": "https://www.ettoday.net/news/20261004/3248749.htm",
+          "time": "2026-10-04 11:51:00",
+          "publisher": "ETtoday",
+          "severity": null
+        },
+        {
+          "title": "雲林地檢強化觀護服務！榮譽觀護人培訓聚焦反毒、戒癮與輔導技巧",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5594853",
+          "time": "2026-10-04 11:48:38",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "韓國瑜看好雲林發展如「武當派」 輔選正藍軍張嘉郡、黃尤美",
+          "url": "https://cnews.com.tw/247261004a01/",
+          "time": "2026-10-04 10:46:24",
+          "publisher": "匯流新聞網",
           "severity": null
         }
       ],
@@ -9534,11 +9534,11 @@
       "city": "台北",
       "place": "台北市內湖區",
       "level": "red",
-      "news_count": 300,
+      "news_count": 299,
       "comment_count": 0,
-      "negativity_pct": 17,
+      "negativity_pct": 16,
       "is_urgent": false,
-      "urgency_score": 450,
+      "urgency_score": 446,
       "news_articles": [
         {
           "title": "壹氣象／東北季風增！ 北部轉涼　大台北、宜蘭局部大雨",
@@ -11630,13 +11630,6 @@
           "title": "金句連發猛攻台北市政 卓榮泰：4年萬安演習結束！蔣萬安的圈破了",
           "url": "https://tw.news.yahoo.com/%E9%87%91%E5%8F%A5%E9%80%A3%E7%99%BC%E7%8C%9B%E6%94%BB%E5%8F%B0%E5%8C%97%E5%B8%82%E6%94%BF-%E5%8D%93%E6%A6%AE%E6%B3%B0-4%E5%B9%B4%E8%90%AC%E5%AE%89%E6%BC%94%E7%BF%92%E7%B5%90%E6%9D%9F-%E8%94%A3%E8%90%AC%E5%AE%89%E7%9A%84%E5%9C%88%E7%A0%B4%E4%BA%86-093500262.html",
           "time": "2026-10-04 09:35:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "北市警搜索同志酒吧爆爭議 萬華分局：員警言行不當已懲處",
-          "url": "https://tw.news.yahoo.com/%E5%8C%97%E5%B8%82%E8%AD%A6%E6%90%9C%E7%B4%A2%E5%90%8C%E5%BF%97%E9%85%92%E5%90%A7%E7%88%86%E7%88%AD%E8%AD%B0-%E8%90%AC%E8%8F%AF%E5%88%86%E5%B1%80-%E5%93%A1%E8%AD%A6%E8%A8%80%E8%A1%8C%E4%B8%8D%E7%95%B6%E5%B7%B2%E6%87%B2%E8%99%95-092816173.html",
-          "time": "2026-10-04 09:28:16",
           "publisher": "Yahoo新聞",
           "severity": "yellow"
         }
