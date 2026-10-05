@@ -112825,7 +112825,7 @@
     },
     {
       "date": "2026-10-05",
-      "snapshot_at": "2026-10-05T10:21:56.536164+00:00",
+      "snapshot_at": "2026-10-05T10:27:55.029435+00:00",
       "hotspots": [
         {
           "title": "高雄車禍事件",
@@ -113080,6 +113080,22 @@
           ]
         },
         {
+          "title": "台東地方動態",
+          "city": "台東",
+          "place": "台東縣政府",
+          "level": "yellow",
+          "news_count": 14,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 14,
+          "sample_titles": [
+            "乖乖罷工衝擊台東米乖乖庫存 紅烏龍茶口味供貨吃緊",
+            "國慶連假僅3天、台東煙火分流 花蓮住房率估較中秋降溫 | 聯合新聞網",
+            "台東選戰升溫！ 朱立倫、柯文哲現身力挺吳秀華"
+          ]
+        },
+        {
           "title": "雲林地方動態",
           "city": "雲林",
           "place": "雲林縣政府",
@@ -113093,22 +113109,6 @@
             "臺大雲林分院響應世界病人安全日 醫病攜手宣示守護健康",
             "艾杰旭雲林廠500人罷工首日爆衝突 勞資10/8再協商",
             "臺大雲林分院響應世界病人安全日 「病安神射手・慢病擊退戰」病安知識轉化日常行動"
-          ]
-        },
-        {
-          "title": "台東地方動態",
-          "city": "台東",
-          "place": "台東縣政府",
-          "level": "yellow",
-          "news_count": 15,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 15,
-          "sample_titles": [
-            "乖乖罷工衝擊台東米乖乖庫存 紅烏龍茶口味供貨吃緊",
-            "國慶連假僅3天、台東煙火分流 花蓮住房率估較中秋降溫 | 聯合新聞網",
-            "台東選戰升溫！ 朱立倫、柯文哲現身力挺吳秀華"
           ]
         },
         {
@@ -113324,11 +113324,11 @@
           "city": "宜蘭",
           "place": "宜蘭縣政府",
           "level": "red",
-          "news_count": 83,
+          "news_count": 81,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 98,
+          "urgency_score": 96,
           "sample_titles": [
             "智慧醫療扎根偏鄉 蘇澳員山分院打造宜蘭首座智慧病房",
             "林國漳發布首支競選形象影片《宜蘭的窗》 攜手在地商家與茶園宣示開啟宜蘭新篇章",
@@ -113420,11 +113420,11 @@
           "city": "台北",
           "place": "台北市萬華區",
           "level": "red",
-          "news_count": 308,
+          "news_count": 307,
           "comment_count": 0,
           "negativity_pct": 26,
           "is_urgent": false,
-          "urgency_score": 545,
+          "urgency_score": 544,
           "sample_titles": [
             "天色漸漸光！沈伯洋致詞「天空突冒一道光」 支持者驚呼：台北要變天了",
             "國民黨新北市長參選人李四川今天下午出席「同濟會後援會成立大會」，提出未來市政規劃。他表示，若能接棒新北市長侯友宜，將以過",
