@@ -113461,7 +113461,7 @@
     },
     {
       "date": "2026-10-06",
-      "snapshot_at": "2026-10-06T01:47:45.538528+00:00",
+      "snapshot_at": "2026-10-06T01:50:48.436484+00:00",
       "hotspots": [
         {
           "title": "藍營路線爭議",
@@ -113506,6 +113506,20 @@
           ]
         },
         {
+          "title": "台中車禍事件",
+          "city": "台中",
+          "place": "台中市豐原區",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "機車突偏移撞自小客！豐原中正路車禍　父女受傷送醫"
+          ]
+        },
+        {
           "title": "台北車禍事件",
           "city": "台北",
           "place": "台北市政府",
@@ -113534,20 +113548,6 @@
           ]
         },
         {
-          "title": "台北弊案爭議",
-          "city": "台北",
-          "place": "台北市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "國民黨立法院黨團今舉行記者會，指控民進黨新北市長參選人蘇巧慧成三大案幫兇，至今仍未道歉。其中一案是新北幼兒園餵藥案（餵毒"
-          ]
-        },
-        {
           "title": "新竹市弊案爭議",
           "city": "新竹市",
           "place": "新竹市政府",
@@ -113559,6 +113559,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "棒球場案不起訴！林智堅嗆「造謠一張嘴」 竹市府說話了"
+          ]
+        },
+        {
+          "title": "台北弊案爭議",
+          "city": "台北",
+          "place": "台北市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "國民黨立法院黨團今舉行記者會，指控民進黨新北市長參選人蘇巧慧成三大案幫兇，至今仍未道歉。其中一案是新北幼兒園餵藥案（餵毒"
           ]
         },
         {
@@ -113586,21 +113600,6 @@
           "is_urgent": false,
           "urgency_score": 6,
           "sample_titles": []
-        },
-        {
-          "title": "台中車禍事件",
-          "city": "台中",
-          "place": "台中市豐原區",
-          "level": "green",
-          "news_count": 2,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 8,
-          "sample_titles": [
-            "機車突偏移撞自小客！豐原中正路車禍　父女受傷送醫",
-            "豐原父女車禍！ 父倒地不起女兒直呼喊「爸爸」直擊民眾心疼"
-          ]
         },
         {
           "title": "廚餘山",
@@ -113658,22 +113657,6 @@
           ]
         },
         {
-          "title": "桃園陳情/抗議",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "yellow",
-          "news_count": 3,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": true,
-          "urgency_score": 12,
-          "sample_titles": [
-            "乖乖中壢廠罷工有轉機！資方讓步加發8個月 明天工會表決 乖乖中壢廠企業工會2日展開無限期罷工，今天還到勞動部前陳情。桃園",
-            "桃園市大園區13位里長連署陳情，要求市府盡速開座談會，說明市長張善政9月15日宣布要在航空城產專區規畫IC高階載板專區的",
-            "乖乖中壢廠罷工 工會赴勞動部陳情批資方欺瞞勞工"
-          ]
-        },
-        {
           "title": "台北陳情/抗議",
           "city": "台北",
           "place": "台北市政府",
@@ -113687,6 +113670,22 @@
             "警察搜同志酒吧歧視身障者！蔣萬安道歉要：求加強警紀宣導 北市同志酒吧遭突襲逮捕51人！百人怒上街抗議 外媒也關注｜李正皓",
             "汪浩酸蔣萬安「英文不太好」！FDA、DEA都用Drug 反諷：寫信向川普抗議「濫用毒品」",
             "西門同志酒吧爆執法爭議！民團北市府前抗議 要求蔣萬安公布調查結果"
+          ]
+        },
+        {
+          "title": "桃園陳情/抗議",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "yellow",
+          "news_count": 3,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": true,
+          "urgency_score": 12,
+          "sample_titles": [
+            "乖乖中壢廠罷工有轉機！資方讓步加發8個月 明天工會表決 乖乖中壢廠企業工會2日展開無限期罷工，今天還到勞動部前陳情。桃園",
+            "桃園市大園區13位里長連署陳情，要求市府盡速開座談會，說明市長張善政9月15日宣布要在航空城產專區規畫IC高階載板專區的",
+            "乖乖中壢廠罷工 工會赴勞動部陳情批資方欺瞞勞工"
           ]
         },
         {
@@ -113918,11 +113917,11 @@
           "city": "台南",
           "place": "台南市政府",
           "level": "red",
-          "news_count": 49,
+          "news_count": 48,
           "comment_count": 0,
           "negativity_pct": 4,
           "is_urgent": false,
-          "urgency_score": 55,
+          "urgency_score": 54,
           "sample_titles": [
             "跨局處攜手陪伴青少年探索未來 臺南市榮獲115年青少年生涯探索號計畫績優縣市 市長黃偉哲肯定團隊努力",
             "力拚台南第一女市長 聯合路口拜票首度登場",
@@ -113946,6 +113945,22 @@
           ]
         },
         {
+          "title": "台中市政動態",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "red",
+          "news_count": 50,
+          "comment_count": 9,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 61,
+          "sample_titles": [
+            "關注：炮打司令部！綠何欣純選市長批盧秀燕",
+            "關注：炮打司令部！綠何欣純選市長批盧秀燕",
+            "關注：炮打司令部！綠何欣純選市長批盧秀燕"
+          ]
+        },
+        {
           "title": "苗栗地方動態",
           "city": "苗栗",
           "place": "苗栗縣政府",
@@ -113962,31 +113977,15 @@
           ]
         },
         {
-          "title": "台中市政動態",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "red",
-          "news_count": 54,
-          "comment_count": 9,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 65,
-          "sample_titles": [
-            "關注：炮打司令部！綠何欣純選市長批盧秀燕",
-            "關注：炮打司令部！綠何欣純選市長批盧秀燕",
-            "關注：炮打司令部！綠何欣純選市長批盧秀燕"
-          ]
-        },
-        {
           "title": "花蓮地方動態",
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 78,
+          "news_count": 77,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 93,
+          "urgency_score": 92,
           "sample_titles": [
             "最強國旅月1／連假接力各地迎高住房率 花蓮報喜創高峰「信心回來了！」",
             "張峻推「花蓮改革治理聯盟」 廖了以任顧問",
@@ -114014,11 +114013,11 @@
           "city": "屏東",
           "place": "屏東縣政府",
           "level": "red",
-          "news_count": 104,
+          "news_count": 103,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 119,
+          "urgency_score": 118,
           "sample_titles": [
             "屏東縣里港鄉代爆賄選！父涉嫌為兒買票「1票1000」 20萬交保",
             "屏東鄉代候選人父「1票1千」幫兒賄選！被逮聲押",
@@ -114030,11 +114029,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 160,
+          "news_count": 159,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 184,
+          "urgency_score": 183,
           "sample_titles": [
             "桃園10機關歲出賸餘逾億元 議員要求提升預算執行效率",
             "10/6天氣預報》桃園以北注意陣雨！明跌破20度 國慶連假水氣再增 | 天氣預報 | 生活",
@@ -114046,11 +114045,11 @@
           "city": "台中",
           "place": "台中市霧峰區",
           "level": "red",
-          "news_count": 179,
+          "news_count": 178,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 212,
+          "urgency_score": 211,
           "sample_titles": [
             "幸福最終站在外埔！中市單身聯誼16對「一拍即合」　創91.43%高媒合率",
             "全台地方政府首例！ 中市建設局設公職律師職缺 徵才說明會廣邀法學菁英",
@@ -114078,11 +114077,11 @@
           "city": "台北",
           "place": "台北市南港區",
           "level": "red",
-          "news_count": 325,
+          "news_count": 324,
           "comment_count": 0,
-          "negativity_pct": 18,
+          "negativity_pct": 17,
           "is_urgent": false,
-          "urgency_score": 496,
+          "urgency_score": 492,
           "sample_titles": [
             "讓下水道建設更透明！北市衛工處獲第4屆透明晶質獎優選",
             "蔣萬安對決沈伯洋！他估「恐僅差10萬票」：史上差距最近的一次 2026年台北市長選舉進入白熱化階段，民進黨參選人沈伯洋競",
