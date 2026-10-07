@@ -114253,8 +114253,36 @@
     },
     {
       "date": "2026-10-07",
-      "snapshot_at": "2026-10-07T10:22:48.447675+00:00",
+      "snapshot_at": "2026-10-07T10:29:36.266173+00:00",
       "hotspots": [
+        {
+          "title": "金門車禍事件",
+          "city": "金門",
+          "place": "金門縣政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "金門大橋模擬重大車禍！遊覽車撞油罐車起火 跨機關實兵演練"
+          ]
+        },
+        {
+          "title": "桃園車禍事件",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "中壢區青埔發生嚴重車禍 兩車受損嚴重波及路邊電桿"
+          ]
+        },
         {
           "title": "高雄車禍事件",
           "city": "高雄",
@@ -114284,48 +114312,6 @@
           ]
         },
         {
-          "title": "桃園車禍事件",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "中壢區青埔發生嚴重車禍 兩車受損嚴重波及路邊電桿"
-          ]
-        },
-        {
-          "title": "金門車禍事件",
-          "city": "金門",
-          "place": "金門縣政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "金門大橋模擬重大車禍！遊覽車撞油罐車起火 跨機關實兵演練"
-          ]
-        },
-        {
-          "title": "桃園陳情/抗議",
-          "city": "桃園",
-          "place": "桃園市政府",
-          "level": "green",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "桃園美光工會取得罷工權 19日號召員工上凱道遊行抗議"
-          ]
-        },
-        {
           "title": "台中陳情/抗議",
           "city": "台中",
           "place": "台中市政府",
@@ -114351,6 +114337,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "汪浩酸蔣萬安「英文不太好」！FDA、DEA都用Drug 反諷：寫信向川普抗議「濫用毒品」"
+          ]
+        },
+        {
+          "title": "桃園陳情/抗議",
+          "city": "桃園",
+          "place": "桃園市政府",
+          "level": "green",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "桃園美光工會取得罷工權 19日號召員工上凱道遊行抗議"
           ]
         },
         {
@@ -114454,6 +114454,22 @@
           ]
         },
         {
+          "title": "捷運藍線爭議",
+          "city": "台中",
+          "place": "台中市政府",
+          "level": "green",
+          "news_count": 4,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "賴總統看過來！台中捷運藍線高架段「全數進入履約階段」 盧秀燕卸任前搞定藍線最長主線工程",
+            "賴總統看過來！台中捷運藍線高架段「全數進入履約階段」 盧秀燕卸任前搞定藍線最長主線工程",
+            "台中捷運藍線BC12標簽約 高架段全數進入履約階段"
+          ]
+        },
+        {
           "title": "廚餘山",
           "city": "台中",
           "place": "台中市政府",
@@ -114464,22 +114480,6 @@
           "is_urgent": false,
           "urgency_score": 9,
           "sample_titles": []
-        },
-        {
-          "title": "捷運藍線爭議",
-          "city": "台中",
-          "place": "台中市政府",
-          "level": "green",
-          "news_count": 5,
-          "comment_count": 0,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 5,
-          "sample_titles": [
-            "賴總統看過來！台中捷運藍線高架段「全數進入履約階段」 盧秀燕卸任前搞定藍線最長主線工程",
-            "賴總統看過來！台中捷運藍線高架段「全數進入履約階段」 盧秀燕卸任前搞定藍線最長主線工程",
-            "台中捷運藍線BC12標簽約 高架段全數進入履約階段"
-          ]
         },
         {
           "title": "嘉義縣地方動態",
@@ -114526,9 +114526,9 @@
           ]
         },
         {
-          "title": "苗栗弊案爭議",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
+          "title": "金門弊案爭議",
+          "city": "金門",
+          "place": "金門縣政府",
           "level": "yellow",
           "news_count": 1,
           "comment_count": 0,
@@ -114536,7 +114536,7 @@
           "is_urgent": false,
           "urgency_score": 4,
           "sample_titles": [
-            "毒藏好運香水盒 好運沒來 苗栗毒販遭起訴"
+            "金門男被持刀亂砍！6惡匪5人未成年...躲酒店被逮 包腳男收押"
           ]
         },
         {
@@ -114551,34 +114551,6 @@
           "urgency_score": 4,
           "sample_titles": [
             "男大生高鐵通訊系統入侵釀列車急煞 桃園檢方起訴求刑2年"
-          ]
-        },
-        {
-          "title": "連江弊案爭議",
-          "city": "連江",
-          "place": "連江縣（馬祖）",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "東引指揮部上兵當共諜 手機拍機密換黃金被訴貪污"
-          ]
-        },
-        {
-          "title": "金門弊案爭議",
-          "city": "金門",
-          "place": "金門縣政府",
-          "level": "yellow",
-          "news_count": 1,
-          "comment_count": 0,
-          "negativity_pct": 100,
-          "is_urgent": false,
-          "urgency_score": 4,
-          "sample_titles": [
-            "金門男被持刀亂砍！6惡匪5人未成年...躲酒店被逮 包腳男收押"
           ]
         },
         {
@@ -114610,6 +114582,20 @@
           ]
         },
         {
+          "title": "苗栗弊案爭議",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "毒藏好運香水盒 好運沒來 苗栗毒販遭起訴"
+          ]
+        },
+        {
           "title": "台南弊案爭議",
           "city": "台南",
           "place": "台南市政府",
@@ -114621,6 +114607,20 @@
           "urgency_score": 4,
           "sample_titles": [
             "【#獨家專訪】查弊案若查到國民黨會照辦？　謝龍介1句話超震撼 #少康戰情室 #趙少康 #shorts #謝龍介 #國民黨"
+          ]
+        },
+        {
+          "title": "連江弊案爭議",
+          "city": "連江",
+          "place": "連江縣（馬祖）",
+          "level": "yellow",
+          "news_count": 1,
+          "comment_count": 0,
+          "negativity_pct": 100,
+          "is_urgent": false,
+          "urgency_score": 4,
+          "sample_titles": [
+            "東引指揮部上兵當共諜 手機拍機密換黃金被訴貪污"
           ]
         },
         {
@@ -114893,11 +114893,11 @@
           "city": "雲林",
           "place": "雲林縣政府",
           "level": "red",
-          "news_count": 26,
+          "news_count": 25,
           "comment_count": 0,
-          "negativity_pct": 15,
+          "negativity_pct": 16,
           "is_urgent": false,
-          "urgency_score": 38,
+          "urgency_score": 37,
           "sample_titles": [
             "1日下午三時許，海巡雲林艦於距離東沙島東方27浬（限制水域內8浬）海域，對中國大陸籍漁船「粵惠東漁75066」及「金鯊」",
             "雲林200床長照教學大樓獲行政院核定 拚2033年啟用",
@@ -114957,31 +114957,15 @@
           "city": "彰化",
           "place": "彰化縣政府",
           "level": "red",
-          "news_count": 34,
+          "news_count": 33,
           "comment_count": 0,
           "negativity_pct": 6,
           "is_urgent": false,
-          "urgency_score": 40,
+          "urgency_score": 39,
           "sample_titles": [
             "​刻意撞人裝受傷索賠！ 彰化「碰瓷姊」2個月敲詐11次遭起訴",
             "彰化明晚9點送肉粽！從伸港經美港公路出海 完整路線、時間出爐 | 命理運勢 | 生活",
             "科技助攻！彰化縣運用空拍機 協助國慶連假交通疏導"
-          ]
-        },
-        {
-          "title": "台中市政動態",
-          "city": "台中",
-          "place": "台中市大里區",
-          "level": "red",
-          "news_count": 24,
-          "comment_count": 10,
-          "negativity_pct": 0,
-          "is_urgent": false,
-          "urgency_score": 36,
-          "sample_titles": [
-            "大雅廚具董事長張光男母親張陳碧珠100歲盧秀燕親贈重陽禮金| 中彰投| 地方",
-            "大雅廚具董事長張光男母親張陳碧珠100歲盧秀燕親贈重陽禮金| 中彰投| 地方",
-            "大里聯合行政中心預定地雜草叢生 何欣純:盧秀燕不做我來做"
           ]
         },
         {
@@ -114998,6 +114982,22 @@
             "(影)推競選新曲《基隆微笑》 童子瑋：市民的笑容是前進最大動力",
             "基隆高齡友善烹飪教室 營養師指導省力備餐營養加值",
             "國1基隆端起點小客車烏龜翻 30歲女駕駛一度受困"
+          ]
+        },
+        {
+          "title": "台中市政動態",
+          "city": "台中",
+          "place": "台中市大里區",
+          "level": "red",
+          "news_count": 25,
+          "comment_count": 10,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 37,
+          "sample_titles": [
+            "大雅廚具董事長張光男母親張陳碧珠100歲盧秀燕親贈重陽禮金| 中彰投| 地方",
+            "大雅廚具董事長張光男母親張陳碧珠100歲盧秀燕親贈重陽禮金| 中彰投| 地方",
+            "大里聯合行政中心預定地雜草叢生 何欣純:盧秀燕不做我來做"
           ]
         },
         {
@@ -115085,11 +115085,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 105,
+          "news_count": 102,
           "comment_count": 0,
           "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 114,
+          "urgency_score": 111,
           "sample_titles": [
             "花蓮縣府關注自然生態多樣性 盼建立可量測自然資本信用額度",
             "華信花蓮航線無再減班計畫 北高航線可評估",
@@ -115101,11 +115101,11 @@
           "city": "高雄",
           "place": "高雄市前金區",
           "level": "red",
-          "news_count": 159,
+          "news_count": 158,
           "comment_count": 0,
           "negativity_pct": 12,
           "is_urgent": false,
-          "urgency_score": 216,
+          "urgency_score": 215,
           "sample_titles": [
             "王金平遭傳「不看好高雄選情」 柯志恩競辦回應了",
             "高雄11歲童偷吃泡麵遭凌虐致死 表姊見死不救還傳男友「搥地大笑」貼圖",
@@ -115133,11 +115133,11 @@
           "city": "桃園",
           "place": "桃園市政府",
           "level": "red",
-          "news_count": 180,
+          "news_count": 177,
           "comment_count": 0,
           "negativity_pct": 5,
           "is_urgent": false,
-          "urgency_score": 207,
+          "urgency_score": 204,
           "sample_titles": [
             "從國門「發現桃園」 城市意象化身特色伴手禮",
             "桃園萬聖城10/24起連玩9天 張善政揪親子與Snoopy過萬聖節",
