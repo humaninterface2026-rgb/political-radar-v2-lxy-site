@@ -1,49 +1,7 @@
 {
   "date": "2026-10-07",
-  "snapshot_at": "2026-10-07T10:13:33.831841+00:00",
+  "snapshot_at": "2026-10-07T10:22:48.447675+00:00",
   "hotspots": [
-    {
-      "title": "桃園車禍事件",
-      "city": "桃園",
-      "place": "桃園市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "中壢區青埔發生嚴重車禍 兩車受損嚴重波及路邊電桿",
-          "url": "https://more-news.tw/736579/",
-          "time": "2026-10-06 18:59:47",
-          "publisher": "墨新聞",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "金門車禍事件",
-      "city": "金門",
-      "place": "金門縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "金門大橋模擬重大車禍！遊覽車撞油罐車起火 跨機關實兵演練",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJQkdvd2wtdDNzbE5FWXpyY0hXMTJ2TzdjUEI3eGphUmpWSjVXR0RmYV94V2ItemxZUVd3VnFfT0YxRDM1RnlVWXFFSkVSRXZkckpIS1pCdXluQy1kUHfSAUtBVV95cUxNLUszbTdiQVZRQVQzRGZGVEQyX3hsZU9EVUJ4TElEVDFvdTFYeFdJbE4xR2NZNXZjTG1CZEU2ZWd4WlBvZWEwdGs4VFU?oc=5",
-          "time": "2026-10-06 18:55:00",
-          "publisher": "ETtoday",
-          "severity": null
-        }
-      ],
-      "comments": []
-    },
     {
       "title": "高雄車禍事件",
       "city": "高雄",
@@ -87,6 +45,48 @@
       "comments": []
     },
     {
+      "title": "桃園車禍事件",
+      "city": "桃園",
+      "place": "桃園市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "中壢區青埔發生嚴重車禍 兩車受損嚴重波及路邊電桿",
+          "url": "https://more-news.tw/736579/",
+          "time": "2026-10-06 18:59:47",
+          "publisher": "墨新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "金門車禍事件",
+      "city": "金門",
+      "place": "金門縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "金門大橋模擬重大車禍！遊覽車撞油罐車起火 跨機關實兵演練",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJQkdvd2wtdDNzbE5FWXpyY0hXMTJ2TzdjUEI3eGphUmpWSjVXR0RmYV94V2ItemxZUVd3VnFfT0YxRDM1RnlVWXFFSkVSRXZkckpIS1pCdXluQy1kUHfSAUtBVV95cUxNLUszbTdiQVZRQVQzRGZGVEQyX3hsZU9EVUJ4TElEVDFvdTFYeFdJbE4xR2NZNXZjTG1CZEU2ZWd4WlBvZWEwdGs4VFU?oc=5",
+          "time": "2026-10-06 18:55:00",
+          "publisher": "ETtoday",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "桃園陳情/抗議",
       "city": "桃園",
       "place": "桃園市政府",
@@ -108,27 +108,6 @@
       "comments": []
     },
     {
-      "title": "台北陳情/抗議",
-      "city": "台北",
-      "place": "台北市政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "汪浩酸蔣萬安「英文不太好」！FDA、DEA都用Drug 反諷：寫信向川普抗議「濫用毒品」",
-          "url": "https://www.fountmedia.io/article/431350",
-          "time": "2026-10-07 01:13:19",
-          "publisher": "放言Fount Media",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "台中陳情/抗議",
       "city": "台中",
       "place": "台中市政府",
@@ -144,6 +123,27 @@
           "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5598612",
           "time": "2026-10-07 16:40:47",
           "publisher": "自由時報",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台北陳情/抗議",
+      "city": "台北",
+      "place": "台北市政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "汪浩酸蔣萬安「英文不太好」！FDA、DEA都用Drug 反諷：寫信向川普抗議「濫用毒品」",
+          "url": "https://www.fountmedia.io/article/431350",
+          "time": "2026-10-07 01:13:19",
+          "publisher": "放言Fount Media",
           "severity": "yellow"
         }
       ],
@@ -536,27 +536,6 @@
       "comments": []
     },
     {
-      "title": "台中狼師事件",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "[Gossiping] [新聞] 台中受刑男性侵室友！下手12次噁炫耀　壞",
-          "url": "https://www.ptt.cc/bbs/Gossiping/M.1791285441.A.508.html",
-          "time": "2026-10-06 19:17:21",
-          "publisher": null,
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "高雄狼師事件",
       "city": "高雄",
       "place": "高雄市政府",
@@ -578,9 +557,9 @@
       "comments": []
     },
     {
-      "title": "金門弊案爭議",
-      "city": "金門",
-      "place": "金門縣政府",
+      "title": "台中狼師事件",
+      "city": "台中",
+      "place": "台中市政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -589,10 +568,31 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "金門男被持刀亂砍！6惡匪5人未成年...躲酒店被逮 包腳男收押",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTdmFZa0tvalJlLXhVWnc1cHdaSE1Zb01vOW1OTGpJQkdCcEdlNFRBdVZtVDAwdGdMdHJCdl84RzhKTk1DZFVyd2JqXzVzNWtqQUNxdGFJRWNZcVlSV2fSAUtBVV95cUxPMlNoM0U5SHYzR3IyTXlPU1dJY09LVnJfRXA2b2dka1E1bGFWbU1rb3hlV2loMGpDQi0wQnpLZHdGVXVMcHVBZnIyLVE?oc=5",
-          "time": "2026-10-07 17:20:00",
-          "publisher": "ETtoday",
+          "title": "[Gossiping] [新聞] 台中受刑男性侵室友！下手12次噁炫耀　壞",
+          "url": "https://www.ptt.cc/bbs/Gossiping/M.1791285441.A.508.html",
+          "time": "2026-10-06 19:17:21",
+          "publisher": null,
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "苗栗弊案爭議",
+      "city": "苗栗",
+      "place": "苗栗縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "毒藏好運香水盒 好運沒來 苗栗毒販遭起訴",
+          "url": "https://news.ltn.com.tw/news/society/paper/1773543",
+          "time": "2026-10-07 05:30:00",
+          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -620,27 +620,6 @@
       "comments": []
     },
     {
-      "title": "花蓮弊案爭議",
-      "city": "花蓮",
-      "place": "花蓮縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "國中少女控父熟睡侵犯！高分院揪「關鍵證據」依舊無罪 東部一名少女指控其父親於國中時期，趁其服藥熟睡時多次性侵，檢方因此以乘機性交等罪名起訴。台東地方法院一審判父親無罪，檢察官不服上訴至花蓮高分院。高分院審理後，認定少女證詞存重大瑕疵且疑受外部誘導，日前駁回上訴並維持無罪判決。可上訴。 9 分鐘前 ｜ 社會 國中少女控父熟睡侵犯！高分院揪「關鍵證據」依舊無罪 9 分鐘前 ｜ 社會",
-          "url": "https://news.tvbs.com.tw/local/4032872",
-          "time": "2026-10-07 15:48:17",
-          "publisher": "TVBS",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "連江弊案爭議",
       "city": "連江",
       "place": "連江縣（馬祖）",
@@ -662,9 +641,9 @@
       "comments": []
     },
     {
-      "title": "苗栗弊案爭議",
-      "city": "苗栗",
-      "place": "苗栗縣政府",
+      "title": "金門弊案爭議",
+      "city": "金門",
+      "place": "金門縣政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -673,10 +652,31 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "毒藏好運香水盒 好運沒來 苗栗毒販遭起訴",
-          "url": "https://news.ltn.com.tw/news/society/paper/1773543",
-          "time": "2026-10-07 05:30:00",
-          "publisher": "自由時報",
+          "title": "金門男被持刀亂砍！6惡匪5人未成年...躲酒店被逮 包腳男收押",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTdmFZa0tvalJlLXhVWnc1cHdaSE1Zb01vOW1OTGpJQkdCcEdlNFRBdVZtVDAwdGdMdHJCdl84RzhKTk1DZFVyd2JqXzVzNWtqQUNxdGFJRWNZcVlSV2fSAUtBVV95cUxPMlNoM0U5SHYzR3IyTXlPU1dJY09LVnJfRXA2b2dka1E1bGFWbU1rb3hlV2loMGpDQi0wQnpLZHdGVXVMcHVBZnIyLVE?oc=5",
+          "time": "2026-10-07 17:20:00",
+          "publisher": "ETtoday",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "花蓮弊案爭議",
+      "city": "花蓮",
+      "place": "花蓮縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "國中少女控父熟睡侵犯！高分院揪「關鍵證據」依舊無罪 東部一名少女指控其父親於國中時期，趁其服藥熟睡時多次性侵，檢方因此以乘機性交等罪名起訴。台東地方法院一審判父親無罪，檢察官不服上訴至花蓮高分院。高分院審理後，認定少女證詞存重大瑕疵且疑受外部誘導，日前駁回上訴並維持無罪判決。可上訴。 9 分鐘前 ｜ 社會 國中少女控父熟睡侵犯！高分院揪「關鍵證據」依舊無罪 9 分鐘前 ｜ 社會",
+          "url": "https://news.tvbs.com.tw/local/4032872",
+          "time": "2026-10-07 15:48:17",
+          "publisher": "TVBS",
           "severity": "red"
         }
       ],
@@ -1250,34 +1250,6 @@
       "comments": []
     },
     {
-      "title": "雲林弊案爭議",
-      "city": "雲林",
-      "place": "雲林縣政府",
-      "level": "red",
-      "news_count": 2,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 8,
-      "news_articles": [
-        {
-          "title": "賴清德雲林大將涉賄選收押 鄭朝方弟恐嚇吳子嘉到陰間？【#新聞大白話】#謝寒冰 #凌濤 #何景榮",
-          "url": "https://www.youtube.com/watch?v=8mEttrwM5fs",
-          "time": "2026-10-07 13:45:35",
-          "publisher": null,
-          "severity": "red"
-        },
-        {
-          "title": "賴清德雲林大將涉賄選收押 鄭朝方弟恐嚇吳子嘉到陰間？【#新聞大白話】20261006 #謝寒冰 #凌濤 #何景榮",
-          "url": "https://www.youtube.com/watch?v=gyO2sC1n7UU",
-          "time": "2026-10-07 11:30:32",
-          "publisher": null,
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "基隆弊案爭議",
       "city": "基隆",
       "place": "基隆市政府",
@@ -1306,6 +1278,34 @@
       "comments": []
     },
     {
+      "title": "雲林弊案爭議",
+      "city": "雲林",
+      "place": "雲林縣政府",
+      "level": "red",
+      "news_count": 2,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 8,
+      "news_articles": [
+        {
+          "title": "賴清德雲林大將涉賄選收押 鄭朝方弟恐嚇吳子嘉到陰間？【#新聞大白話】#謝寒冰 #凌濤 #何景榮",
+          "url": "https://www.youtube.com/watch?v=8mEttrwM5fs",
+          "time": "2026-10-07 13:45:35",
+          "publisher": null,
+          "severity": "red"
+        },
+        {
+          "title": "賴清德雲林大將涉賄選收押 鄭朝方弟恐嚇吳子嘉到陰間？【#新聞大白話】20261006 #謝寒冰 #凌濤 #何景榮",
+          "url": "https://www.youtube.com/watch?v=gyO2sC1n7UU",
+          "time": "2026-10-07 11:30:32",
+          "publisher": null,
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "彰化弊案爭議",
       "city": "彰化",
       "place": "彰化縣政府",
@@ -1328,41 +1328,6 @@
           "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E7%A2%B0%E7%93%B7%E5%A5%B3%E6%83%A1%E9%9C%B8-2%E5%80%8B%E6%9C%88%E7%8B%82%E6%95%B2%E8%A9%9011%E6%AC%A1-%E5%81%87%E6%91%94%E7%B4%A2%E8%B3%A040%E8%90%AC-%E8%A9%90%E6%AC%BA%E8%AA%A3%E5%91%8A%E8%B5%B7%E8%A8%B4-015900576.html",
           "time": "2026-10-07 09:59:00",
           "publisher": "Yahoo新聞",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
-      "title": "台中弊案爭議",
-      "city": "台中",
-      "place": "台中市政府",
-      "level": "red",
-      "news_count": 3,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": true,
-      "urgency_score": 12,
-      "news_articles": [
-        {
-          "title": "台中男積欠房租被迫搬家 竟縱火燒毀1車2廟遭收押",
-          "url": "https://news.nextapple.com/local/20261007/4512B6030AF49923115A4D55338CA606",
-          "time": "2026-10-07 17:22:21",
-          "publisher": "壹蘋新聞網",
-          "severity": "red"
-        },
-        {
-          "title": "妹子夜店醉倒醒來「聞到臭味」下體痛痛的 控台中噁男撿屍「DNA不同仍遭判刑」",
-          "url": "https://www.mirrormedia.mg/story/20261007edi063",
-          "time": "2026-10-07 17:15:00",
-          "publisher": "鏡週刊",
-          "severity": "red"
-        },
-        {
-          "title": "2案接連起訴！矢板明夫遭毆傷、沈伯洋被監控 議員轟盧秀燕「跨境威脅」已逼近眼前",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiM2Y4M1IxblVtd1hqQ1hiT3RCak1pbGZZSFdMNjZXdWF5QmRoengyNWsydE93bUhGNWI4R1lXX0tDWTBERDlDSWJYcldWMzlDZGc?oc=5",
-          "time": "2026-10-07 13:29:00",
-          "publisher": "Google News→鏡報",
           "severity": "red"
         }
       ],
@@ -1398,6 +1363,41 @@
           "url": "https://newtalk.tw/news/view/2026-10-07/1064140",
           "time": "2026-10-07 10:10:03",
           "publisher": "新頭殼",
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "台中弊案爭議",
+      "city": "台中",
+      "place": "台中市政府",
+      "level": "red",
+      "news_count": 3,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": true,
+      "urgency_score": 12,
+      "news_articles": [
+        {
+          "title": "台中男積欠房租被迫搬家 竟縱火燒毀1車2廟遭收押",
+          "url": "https://news.nextapple.com/local/20261007/4512B6030AF49923115A4D55338CA606",
+          "time": "2026-10-07 17:22:21",
+          "publisher": "壹蘋新聞網",
+          "severity": "red"
+        },
+        {
+          "title": "妹子夜店醉倒醒來「聞到臭味」下體痛痛的 控台中噁男撿屍「DNA不同仍遭判刑」",
+          "url": "https://www.mirrormedia.mg/story/20261007edi063",
+          "time": "2026-10-07 17:15:00",
+          "publisher": "鏡週刊",
+          "severity": "red"
+        },
+        {
+          "title": "2案接連起訴！矢板明夫遭毆傷、沈伯洋被監控 議員轟盧秀燕「跨境威脅」已逼近眼前",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiM2Y4M1IxblVtd1hqQ1hiT3RCak1pbGZZSFdMNjZXdWF5QmRoengyNWsydE93bUhGNWI4R1lXX0tDWTBERDlDSWJYcldWMzlDZGc?oc=5",
+          "time": "2026-10-07 13:29:00",
+          "publisher": "Google News→鏡報",
           "severity": "red"
         }
       ],
@@ -2783,6 +2783,258 @@
       "comments": []
     },
     {
+      "title": "彰化地方動態",
+      "city": "彰化",
+      "place": "彰化縣政府",
+      "level": "red",
+      "news_count": 34,
+      "comment_count": 0,
+      "negativity_pct": 6,
+      "is_urgent": false,
+      "urgency_score": 40,
+      "news_articles": [
+        {
+          "title": "​刻意撞人裝受傷索賠！ 彰化「碰瓷姊」2個月敲詐11次遭起訴",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-10-07/2488948.html",
+          "time": "2026-10-07 17:33:20",
+          "publisher": "壹電視",
+          "severity": "red"
+        },
+        {
+          "title": "彰化明晚9點送肉粽！從伸港經美港公路出海 完整路線、時間出爐 | 命理運勢 | 生活",
+          "url": "https://www.nownews.com/news/6881472",
+          "time": "2026-10-07 17:33:19",
+          "publisher": "NOWnews今日新聞",
+          "severity": null
+        },
+        {
+          "title": "科技助攻！彰化縣運用空拍機 協助國慶連假交通疏導",
+          "url": "https://www.cdns.com.tw/articles/1471363",
+          "time": "2026-10-07 17:13:48",
+          "publisher": "中華日報",
+          "severity": null
+        },
+        {
+          "title": "彰化地檢署修復式司法團隊 榮獲法務部馨生守護獎",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E5%9C%B0%E6%AA%A2%E7%BD%B2%E4%BF%AE%E5%BE%A9%E5%BC%8F%E5%8F%B8%E6%B3%95%E5%9C%98%E9%9A%8A-%E6%A6%AE%E7%8D%B2%E6%B3%95%E5%8B%99%E9%83%A8%E9%A6%A8%E7%94%9F%E5%AE%88%E8%AD%B7%E7%8D%8E-090844753.html",
+          "time": "2026-10-07 17:08:44",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "驚悚畫面曝光！彰化轎車衝撞機車 父載10歲女兒被撞飛重摔倒地",
+          "url": "https://news.nextapple.com/local/20261007/8EC2704F4EF41B86ED3568FC20472C21",
+          "time": "2026-10-07 16:11:31",
+          "publisher": "壹蘋新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "彰化大火吞噬3命！房東沒裝住警器還甩鍋「房客吸毒」法官打臉判1年6月不予緩刑",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E5%A4%A7%E7%81%AB%E5%90%9E%E5%99%AC3%E5%91%BD-%E6%88%BF%E6%9D%B1%E6%B2%92%E8%A3%9D%E4%BD%8F%E8%AD%A6%E5%99%A8%E9%82%84%E7%94%A9%E9%8D%8B-%E6%88%BF%E5%AE%A2%E5%90%B8%E6%AF%92-%E6%B3%95%E5%AE%98%E6%89%93%E8%87%89%E5%88%A41%E5%B9%B46%E6%9C%88%E4%B8%8D%E4%BA%88%E7%B7%A9%E5%88%91-072900809.html",
+          "time": "2026-10-07 15:29:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "彰化大村綜合行政大樓動土 整合消防打造全齡服務據點",
+          "url": "https://www.cna.com.tw/news/aloc/202610070160.aspx",
+          "time": "2026-10-07 14:20:06",
+          "publisher": "中央社",
+          "severity": null
+        },
+        {
+          "title": "國門淪「通訊孤島」桃園埔心里最後基地台將拆 里長會勘求助",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OOERHR05kOHo0Y09ZTU0yMjBOdFhtWDBJbUFQOWNpNUdZR3ZLTnZ3T3ZLTUdjX1dicmFzQ2UwVHZ0aTFKcWE0QUp2TVdWbFFodFNVLUdBM0k1MWhkTkZ6MGczYUhrT0k1NVF1ZjJ3?oc=5",
+          "time": "2026-10-07 14:16:38",
+          "publisher": "中時新聞網",
+          "severity": "yellow"
+        },
+        {
+          "title": "彰化縣議員陳重嘉登記參選年底彰化縣長，外界評估，目前四名縣長參選人最終仍將走向藍綠政黨提名人的對決。彰化縣議會今日召開定期會，陳重嘉於質詢時特別指出，這是他最後一次在議會質詢；被問及未來規畫時，他表示希望能留在彰化，投入 AI 農業與工業機器的研發。",
+          "url": "https://udn.com/news/story/124652/9800235?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-10-07 13:28:18",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "驚悚畫面曝！彰化路口轎車猛撞 機車父女噴飛10米送醫",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5598351",
+          "time": "2026-10-07 13:21:28",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "彰化北斗出租房大火釀3死 屋主一審判1年6月",
+          "url": "https://www.cna.com.tw/news/asoc/202610070088.aspx",
+          "time": "2026-10-07 12:00:30",
+          "publisher": "中央社",
+          "severity": "red"
+        },
+        {
+          "title": "影／邱建富募款餐會近40桌 提「八大富」勾勒彰化縣政藍圖",
+          "url": "https://n.yam.com/Article/20261007630093",
+          "time": "2026-10-07 12:00:00",
+          "publisher": "蕃新聞→互傳媒",
+          "severity": null
+        },
+        {
+          "title": "​鄭麗文彰化助選魏平政　怒批「新潮流、洋流」是毒瘤",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-10-07/2488422.html",
+          "time": "2026-10-07 11:43:18",
+          "publisher": "壹電視",
+          "severity": "yellow"
+        },
+        {
+          "title": "涉花300元向志工買票　彰化1里長參選人被聲押禁見",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-10-07/2488354.html",
+          "time": "2026-10-07 10:33:19",
+          "publisher": "壹電視",
+          "severity": "red"
+        },
+        {
+          "title": "政面交鋒3-2》第七都戰火延燒！陳素月批魏平政空談：彰化要先大進步",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5597956",
+          "time": "2026-10-07 10:20:00",
+          "publisher": "自由時報",
+          "severity": "yellow"
+        },
+        {
+          "title": "祭「青年三箭」人口止跌回升！陳素月誓讓彰化煥然一新【政面交鋒】",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5597829",
+          "time": "2026-10-07 10:00:00",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "彰化碰瓷女惡霸！2個月狂敲詐11次「假摔索賠40萬」詐欺誣告起訴",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E7%A2%B0%E7%93%B7%E5%A5%B3%E6%83%A1%E9%9C%B8-2%E5%80%8B%E6%9C%88%E7%8B%82%E6%95%B2%E8%A9%9011%E6%AC%A1-%E5%81%87%E6%91%94%E7%B4%A2%E8%B3%A040%E8%90%AC-%E8%A9%90%E6%AC%BA%E8%AA%A3%E5%91%8A%E8%B5%B7%E8%A8%B4-015900576.html",
+          "time": "2026-10-07 09:59:00",
+          "publisher": "Yahoo新聞",
+          "severity": "red"
+        },
+        {
+          "title": "空拍機來了 彰化雙十連假「高空抓塞車」",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5597955",
+          "time": "2026-10-07 09:15:13",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "國慶連假車潮來襲 彰化警運用「空拍機」空陸聯合交通疏導",
+          "url": "https://tw.news.yahoo.com/%E5%9C%8B%E6%85%B6%E9%80%A3%E5%81%87%E8%BB%8A%E6%BD%AE%E4%BE%86%E8%A5%B2-%E5%BD%B0%E5%8C%96%E8%AD%A6%E9%81%8B%E7%94%A8-%E7%A9%BA%E6%8B%8D%E6%A9%9F-%E7%A9%BA%E9%99%B8%E8%81%AF%E5%90%88%E4%BA%A4%E9%80%9A%E7%96%8F%E5%B0%8E-004702541.html",
+          "time": "2026-10-07 08:47:02",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "2026 百業金牌｜把「我」拿掉，讓彰化物產一起被看見：風灣的船的共同品牌實驗",
+          "url": "https://www.storm.mg/article/11170373",
+          "time": "2026-10-07 08:35:00",
+          "publisher": "風傳媒",
+          "severity": null
+        },
+        {
+          "title": "愛車典當沒過戶留145張罰單 淪詐團工具才知出事 彰化男認背34萬債",
+          "url": "https://tw.news.yahoo.com/%E6%84%9B%E8%BB%8A%E5%85%B8%E7%95%B6%E6%B2%92%E9%81%8E%E6%88%B6%E7%95%99145%E5%BC%B5%E7%BD%B0%E5%96%AE-%E6%B7%AA%E8%A9%90%E5%9C%98%E5%B7%A5%E5%85%B7%E6%89%8D%E7%9F%A5%E5%87%BA%E4%BA%8B-%E5%BD%B0%E5%8C%96%E7%94%B7%E8%AA%8D%E8%83%8C34%E8%90%AC%E5%82%B5-043800105.html",
+          "time": "2026-10-07 04:38:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "國慶連假防塞車 彰化警首度大規模出動無人機空陸聯防",
+          "url": "https://www.chinatimes.com/realtimenews/20261007001955-260405",
+          "time": "2026-10-07 00:19:55",
+          "publisher": "中時新聞網",
+          "severity": null
+        },
+        {
+          "title": "影／彰化醫院內科巡迴門診擴及社頭鄉 湳底村民眾就近看診免奔波",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B1-%E5%BD%B0%E5%8C%96%E9%86%AB%E9%99%A2%E5%85%A7%E7%A7%91%E5%B7%A1%E8%BF%B4%E9%96%80%E8%A8%BA%E6%93%B4%E5%8F%8A%E7%A4%BE%E9%A0%AD%E9%84%89-%E6%B9%B3%E5%BA%95%E6%9D%91%E6%B0%91%E7%9C%BE%E5%B0%B1%E8%BF%91%E7%9C%8B%E8%A8%BA%E5%85%8D%E5%A5%94%E6%B3%A2-140548203.html",
+          "time": "2026-10-06 22:05:48",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "售屋布條一夕消失！彰化埔心「蓮花柱」別墅賣掉了？屋主揭真相…",
+          "url": "https://news.ltn.com.tw/news/Changhua/breakingnews/5597757",
+          "time": "2026-10-06 21:38:22",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "彰化埔心「蓮花柱」別墅賣掉了？售屋布條一夕消失 屋主揭真相",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5597757",
+          "time": "2026-10-06 21:38:22",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "魏平政婦女軍團成軍 鄭麗文：彰化30年發展關鍵一戰",
+          "url": "https://tw.news.yahoo.com/%E9%AD%8F%E5%B9%B3%E6%94%BF%E5%A9%A6%E5%A5%B3%E8%BB%8D%E5%9C%98%E6%88%90%E8%BB%8D-%E9%84%AD%E9%BA%97%E6%96%87-%E5%BD%B0%E5%8C%9630%E5%B9%B4%E7%99%BC%E5%B1%95%E9%97%9C%E9%8D%B5-%E6%88%B0-132502971.html",
+          "time": "2026-10-06 21:25:02",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "彰化醫院偏鄉門診擴及社頭鄉第一社福大樓 讓民眾有更便利就醫環境",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E9%86%AB%E9%99%A2%E5%81%8F%E9%84%89%E9%96%80%E8%A8%BA%E6%93%B4%E5%8F%8A%E7%A4%BE%E9%A0%AD%E9%84%89%E7%AC%AC-%E7%A4%BE%E7%A6%8F%E5%A4%A7%E6%A8%93-%E8%AE%93%E6%B0%91%E7%9C%BE%E6%9C%89%E6%9B%B4%E4%BE%BF%E5%88%A9%E5%B0%B1%E9%86%AB%E7%92%B0%E5%A2%83-131300758.html",
+          "time": "2026-10-06 21:13:00",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "彰化輔選 鄭麗文批新潮流、洋流",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E8%BC%94%E9%81%B8-%E9%84%AD%E9%BA%97%E6%96%87%E6%89%B9%E6%96%B0%E6%BD%AE%E6%B5%81-%E6%B4%8B%E6%B5%81-201000738.html",
+          "time": "2026-10-06 20:10:00",
+          "publisher": "Yahoo新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "「女神」鄭麗文笑喊快成彰化人 再轟新潮流、洋流是「民主毒流」 | 政治快訊 | 要聞",
+          "url": "https://www.nownews.com/news/6881161",
+          "time": "2026-10-06 19:23:19",
+          "publisher": "NOWnews今日新聞",
+          "severity": "yellow"
+        },
+        {
+          "title": "國民黨彰化縣長參選人魏平政今天出席彰化婦女後援會成立大會，針對彰化縣未來的交通建設、產業發展及社會福利提出全面規劃。他強調，交通是地方發展的基石，未來將全力推動鐵路高架化等交通工程，讓彰化的整體發展不可同日而語。",
+          "url": "https://udn.com/news/story/124652/9798543?from=udn-ch1_breaknews-1-cate1-news",
+          "time": "2026-10-06 19:23:18",
+          "publisher": "聯合新聞網",
+          "severity": null
+        },
+        {
+          "title": "將閒置空間變身行政服務聚落 彰化員林地政、戶政辦公廳舍新建動土",
+          "url": "https://www.storm.mg/article/11170315",
+          "time": "2026-10-06 19:03:00",
+          "publisher": "風傳媒",
+          "severity": null
+        },
+        {
+          "title": "國慶3天連假垃圾別亂丟 彰化縣垃圾清運資訊一次掌握",
+          "url": "https://tw.news.yahoo.com/%E5%9C%8B%E6%85%B63%E5%A4%A9%E9%80%A3%E5%81%87%E5%9E%83%E5%9C%BE%E5%88%A5%E4%BA%82%E4%B8%9F-%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%9E%83%E5%9C%BE%E6%B8%85%E9%81%8B%E8%B3%87%E8%A8%8A-%E6%AC%A1%E6%8E%8C%E6%8F%A1-105212967.html",
+          "time": "2026-10-06 18:52:12",
+          "publisher": "Yahoo新聞",
+          "severity": null
+        },
+        {
+          "title": "國慶連假垃圾怎麼丟？彰化縣有1天全面停收 僅這裡照常收運",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5597597",
+          "time": "2026-10-06 18:32:31",
+          "publisher": "自由時報",
+          "severity": null
+        },
+        {
+          "title": "國慶3天連假將至 彰化縣垃圾清運資訊一次掌握",
+          "url": "https://www.thehubnews.net/archives/672585",
+          "time": "2026-10-06 18:27:45",
+          "publisher": "新頭條",
+          "severity": null
+        }
+      ],
+      "comments": []
+    },
+    {
       "title": "台中市政動態",
       "city": "台中",
       "place": "台中市大里區",
@@ -3044,265 +3296,6 @@
           "signal": "yellow"
         }
       ]
-    },
-    {
-      "title": "彰化地方動態",
-      "city": "彰化",
-      "place": "彰化縣政府",
-      "level": "red",
-      "news_count": 35,
-      "comment_count": 0,
-      "negativity_pct": 6,
-      "is_urgent": false,
-      "urgency_score": 41,
-      "news_articles": [
-        {
-          "title": "​刻意撞人裝受傷索賠！ 彰化「碰瓷姊」2個月敲詐11次遭起訴",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-10-07/2488948.html",
-          "time": "2026-10-07 17:33:20",
-          "publisher": "壹電視",
-          "severity": "red"
-        },
-        {
-          "title": "彰化明晚9點送肉粽！從伸港經美港公路出海 完整路線、時間出爐 | 命理運勢 | 生活",
-          "url": "https://www.nownews.com/news/6881472",
-          "time": "2026-10-07 17:33:19",
-          "publisher": "NOWnews今日新聞",
-          "severity": null
-        },
-        {
-          "title": "科技助攻！彰化縣運用空拍機 協助國慶連假交通疏導",
-          "url": "https://www.cdns.com.tw/articles/1471363",
-          "time": "2026-10-07 17:13:48",
-          "publisher": "中華日報",
-          "severity": null
-        },
-        {
-          "title": "彰化地檢署修復式司法團隊 榮獲法務部馨生守護獎",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E5%9C%B0%E6%AA%A2%E7%BD%B2%E4%BF%AE%E5%BE%A9%E5%BC%8F%E5%8F%B8%E6%B3%95%E5%9C%98%E9%9A%8A-%E6%A6%AE%E7%8D%B2%E6%B3%95%E5%8B%99%E9%83%A8%E9%A6%A8%E7%94%9F%E5%AE%88%E8%AD%B7%E7%8D%8E-090844753.html",
-          "time": "2026-10-07 17:08:44",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "驚悚畫面曝光！彰化轎車衝撞機車 父載10歲女兒被撞飛重摔倒地",
-          "url": "https://news.nextapple.com/local/20261007/8EC2704F4EF41B86ED3568FC20472C21",
-          "time": "2026-10-07 16:11:31",
-          "publisher": "壹蘋新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "彰化大火吞噬3命！房東沒裝住警器還甩鍋「房客吸毒」法官打臉判1年6月不予緩刑",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E5%A4%A7%E7%81%AB%E5%90%9E%E5%99%AC3%E5%91%BD-%E6%88%BF%E6%9D%B1%E6%B2%92%E8%A3%9D%E4%BD%8F%E8%AD%A6%E5%99%A8%E9%82%84%E7%94%A9%E9%8D%8B-%E6%88%BF%E5%AE%A2%E5%90%B8%E6%AF%92-%E6%B3%95%E5%AE%98%E6%89%93%E8%87%89%E5%88%A41%E5%B9%B46%E6%9C%88%E4%B8%8D%E4%BA%88%E7%B7%A9%E5%88%91-072900809.html",
-          "time": "2026-10-07 15:29:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "彰化大村綜合行政大樓動土 整合消防打造全齡服務據點",
-          "url": "https://www.cna.com.tw/news/aloc/202610070160.aspx",
-          "time": "2026-10-07 14:20:06",
-          "publisher": "中央社",
-          "severity": null
-        },
-        {
-          "title": "國門淪「通訊孤島」桃園埔心里最後基地台將拆 里長會勘求助",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OOERHR05kOHo0Y09ZTU0yMjBOdFhtWDBJbUFQOWNpNUdZR3ZLTnZ3T3ZLTUdjX1dicmFzQ2UwVHZ0aTFKcWE0QUp2TVdWbFFodFNVLUdBM0k1MWhkTkZ6MGczYUhrT0k1NVF1ZjJ3?oc=5",
-          "time": "2026-10-07 14:16:38",
-          "publisher": "中時新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "彰化縣議員陳重嘉登記參選年底彰化縣長，外界評估，目前四名縣長參選人最終仍將走向藍綠政黨提名人的對決。彰化縣議會今日召開定期會，陳重嘉於質詢時特別指出，這是他最後一次在議會質詢；被問及未來規畫時，他表示希望能留在彰化，投入 AI 農業與工業機器的研發。",
-          "url": "https://udn.com/news/story/124652/9800235?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-10-07 13:28:18",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "驚悚畫面曝！彰化路口轎車猛撞 機車父女噴飛10米送醫",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5598351",
-          "time": "2026-10-07 13:21:28",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "彰化北斗出租房大火釀3死 屋主一審判1年6月",
-          "url": "https://www.cna.com.tw/news/asoc/202610070088.aspx",
-          "time": "2026-10-07 12:00:30",
-          "publisher": "中央社",
-          "severity": "red"
-        },
-        {
-          "title": "影／邱建富募款餐會近40桌 提「八大富」勾勒彰化縣政藍圖",
-          "url": "https://n.yam.com/Article/20261007630093",
-          "time": "2026-10-07 12:00:00",
-          "publisher": "蕃新聞→互傳媒",
-          "severity": null
-        },
-        {
-          "title": "​鄭麗文彰化助選魏平政　怒批「新潮流、洋流」是毒瘤",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-10-07/2488422.html",
-          "time": "2026-10-07 11:43:18",
-          "publisher": "壹電視",
-          "severity": "yellow"
-        },
-        {
-          "title": "涉花300元向志工買票　彰化1里長參選人被聲押禁見",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-10-07/2488354.html",
-          "time": "2026-10-07 10:33:19",
-          "publisher": "壹電視",
-          "severity": "red"
-        },
-        {
-          "title": "政面交鋒3-2》第七都戰火延燒！陳素月批魏平政空談：彰化要先大進步",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5597956",
-          "time": "2026-10-07 10:20:00",
-          "publisher": "自由時報",
-          "severity": "yellow"
-        },
-        {
-          "title": "祭「青年三箭」人口止跌回升！陳素月誓讓彰化煥然一新【政面交鋒】",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5597829",
-          "time": "2026-10-07 10:00:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "彰化碰瓷女惡霸！2個月狂敲詐11次「假摔索賠40萬」詐欺誣告起訴",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E7%A2%B0%E7%93%B7%E5%A5%B3%E6%83%A1%E9%9C%B8-2%E5%80%8B%E6%9C%88%E7%8B%82%E6%95%B2%E8%A9%9011%E6%AC%A1-%E5%81%87%E6%91%94%E7%B4%A2%E8%B3%A040%E8%90%AC-%E8%A9%90%E6%AC%BA%E8%AA%A3%E5%91%8A%E8%B5%B7%E8%A8%B4-015900576.html",
-          "time": "2026-10-07 09:59:00",
-          "publisher": "Yahoo新聞",
-          "severity": "red"
-        },
-        {
-          "title": "空拍機來了 彰化雙十連假「高空抓塞車」",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5597955",
-          "time": "2026-10-07 09:15:13",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "國慶連假車潮來襲 彰化警運用「空拍機」空陸聯合交通疏導",
-          "url": "https://tw.news.yahoo.com/%E5%9C%8B%E6%85%B6%E9%80%A3%E5%81%87%E8%BB%8A%E6%BD%AE%E4%BE%86%E8%A5%B2-%E5%BD%B0%E5%8C%96%E8%AD%A6%E9%81%8B%E7%94%A8-%E7%A9%BA%E6%8B%8D%E6%A9%9F-%E7%A9%BA%E9%99%B8%E8%81%AF%E5%90%88%E4%BA%A4%E9%80%9A%E7%96%8F%E5%B0%8E-004702541.html",
-          "time": "2026-10-07 08:47:02",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "2026 百業金牌｜把「我」拿掉，讓彰化物產一起被看見：風灣的船的共同品牌實驗",
-          "url": "https://www.storm.mg/article/11170373",
-          "time": "2026-10-07 08:35:00",
-          "publisher": "風傳媒",
-          "severity": null
-        },
-        {
-          "title": "愛車典當沒過戶留145張罰單 淪詐團工具才知出事 彰化男認背34萬債",
-          "url": "https://tw.news.yahoo.com/%E6%84%9B%E8%BB%8A%E5%85%B8%E7%95%B6%E6%B2%92%E9%81%8E%E6%88%B6%E7%95%99145%E5%BC%B5%E7%BD%B0%E5%96%AE-%E6%B7%AA%E8%A9%90%E5%9C%98%E5%B7%A5%E5%85%B7%E6%89%8D%E7%9F%A5%E5%87%BA%E4%BA%8B-%E5%BD%B0%E5%8C%96%E7%94%B7%E8%AA%8D%E8%83%8C34%E8%90%AC%E5%82%B5-043800105.html",
-          "time": "2026-10-07 04:38:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "國慶連假防塞車 彰化警首度大規模出動無人機空陸聯防",
-          "url": "https://www.chinatimes.com/realtimenews/20261007001955-260405",
-          "time": "2026-10-07 00:19:55",
-          "publisher": "中時新聞網",
-          "severity": null
-        },
-        {
-          "title": "影／彰化醫院內科巡迴門診擴及社頭鄉 湳底村民眾就近看診免奔波",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B1-%E5%BD%B0%E5%8C%96%E9%86%AB%E9%99%A2%E5%85%A7%E7%A7%91%E5%B7%A1%E8%BF%B4%E9%96%80%E8%A8%BA%E6%93%B4%E5%8F%8A%E7%A4%BE%E9%A0%AD%E9%84%89-%E6%B9%B3%E5%BA%95%E6%9D%91%E6%B0%91%E7%9C%BE%E5%B0%B1%E8%BF%91%E7%9C%8B%E8%A8%BA%E5%85%8D%E5%A5%94%E6%B3%A2-140548203.html",
-          "time": "2026-10-06 22:05:48",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "售屋布條一夕消失！彰化埔心「蓮花柱」別墅賣掉了？屋主揭真相…",
-          "url": "https://news.ltn.com.tw/news/Changhua/breakingnews/5597757",
-          "time": "2026-10-06 21:38:22",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "彰化埔心「蓮花柱」別墅賣掉了？售屋布條一夕消失 屋主揭真相",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5597757",
-          "time": "2026-10-06 21:38:22",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "魏平政婦女軍團成軍 鄭麗文：彰化30年發展關鍵一戰",
-          "url": "https://tw.news.yahoo.com/%E9%AD%8F%E5%B9%B3%E6%94%BF%E5%A9%A6%E5%A5%B3%E8%BB%8D%E5%9C%98%E6%88%90%E8%BB%8D-%E9%84%AD%E9%BA%97%E6%96%87-%E5%BD%B0%E5%8C%9630%E5%B9%B4%E7%99%BC%E5%B1%95%E9%97%9C%E9%8D%B5-%E6%88%B0-132502971.html",
-          "time": "2026-10-06 21:25:02",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "彰化醫院偏鄉門診擴及社頭鄉第一社福大樓 讓民眾有更便利就醫環境",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E9%86%AB%E9%99%A2%E5%81%8F%E9%84%89%E9%96%80%E8%A8%BA%E6%93%B4%E5%8F%8A%E7%A4%BE%E9%A0%AD%E9%84%89%E7%AC%AC-%E7%A4%BE%E7%A6%8F%E5%A4%A7%E6%A8%93-%E8%AE%93%E6%B0%91%E7%9C%BE%E6%9C%89%E6%9B%B4%E4%BE%BF%E5%88%A9%E5%B0%B1%E9%86%AB%E7%92%B0%E5%A2%83-131300758.html",
-          "time": "2026-10-06 21:13:00",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "彰化輔選 鄭麗文批新潮流、洋流",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E8%BC%94%E9%81%B8-%E9%84%AD%E9%BA%97%E6%96%87%E6%89%B9%E6%96%B0%E6%BD%AE%E6%B5%81-%E6%B4%8B%E6%B5%81-201000738.html",
-          "time": "2026-10-06 20:10:00",
-          "publisher": "Yahoo新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "「女神」鄭麗文笑喊快成彰化人 再轟新潮流、洋流是「民主毒流」 | 政治快訊 | 要聞",
-          "url": "https://www.nownews.com/news/6881161",
-          "time": "2026-10-06 19:23:19",
-          "publisher": "NOWnews今日新聞",
-          "severity": "yellow"
-        },
-        {
-          "title": "國民黨彰化縣長參選人魏平政今天出席彰化婦女後援會成立大會，針對彰化縣未來的交通建設、產業發展及社會福利提出全面規劃。他強調，交通是地方發展的基石，未來將全力推動鐵路高架化等交通工程，讓彰化的整體發展不可同日而語。",
-          "url": "https://udn.com/news/story/124652/9798543?from=udn-ch1_breaknews-1-cate1-news",
-          "time": "2026-10-06 19:23:18",
-          "publisher": "聯合新聞網",
-          "severity": null
-        },
-        {
-          "title": "將閒置空間變身行政服務聚落 彰化員林地政、戶政辦公廳舍新建動土",
-          "url": "https://www.storm.mg/article/11170315",
-          "time": "2026-10-06 19:03:00",
-          "publisher": "風傳媒",
-          "severity": null
-        },
-        {
-          "title": "國慶3天連假垃圾別亂丟 彰化縣垃圾清運資訊一次掌握",
-          "url": "https://tw.news.yahoo.com/%E5%9C%8B%E6%85%B63%E5%A4%A9%E9%80%A3%E5%81%87%E5%9E%83%E5%9C%BE%E5%88%A5%E4%BA%82%E4%B8%9F-%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%9E%83%E5%9C%BE%E6%B8%85%E9%81%8B%E8%B3%87%E8%A8%8A-%E6%AC%A1%E6%8E%8C%E6%8F%A1-105212967.html",
-          "time": "2026-10-06 18:52:12",
-          "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "國慶連假垃圾怎麼丟？彰化縣有1天全面停收 僅這裡照常收運",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5597597",
-          "time": "2026-10-06 18:32:31",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "國慶3天連假將至 彰化縣垃圾清運資訊一次掌握",
-          "url": "https://www.thehubnews.net/archives/672585",
-          "time": "2026-10-06 18:27:45",
-          "publisher": "新頭條",
-          "severity": null
-        },
-        {
-          "title": "彰化醫院偏鄉門診擴及社頭鄉第一社福大樓 讓民眾有更便利的就醫環境",
-          "url": "https://www.thehubnews.net/archives/672567",
-          "time": "2026-10-06 18:16:19",
-          "publisher": "新頭條",
-          "severity": null
-        }
-      ],
-      "comments": []
     },
     {
       "title": "基隆地方動態",
@@ -6207,11 +6200,11 @@
       "city": "花蓮",
       "place": "花蓮縣政府",
       "level": "red",
-      "news_count": 106,
+      "news_count": 105,
       "comment_count": 0,
       "negativity_pct": 3,
       "is_urgent": false,
-      "urgency_score": 115,
+      "urgency_score": 114,
       "news_articles": [
         {
           "title": "花蓮縣府關注自然生態多樣性 盼建立可量測自然資本信用額度",
@@ -6947,13 +6940,6 @@
           "time": "2026-10-06 18:23:00",
           "publisher": "Yahoo新聞",
           "severity": null
-        },
-        {
-          "title": "無人機AI助青年留鄉！張峻與「鷹爸」交流花蓮產業構想 聚焦防災與農業",
-          "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQaExuZVpnX1YxMzVOUXRpaE5fUUt3ZENTeDhOVmhuajVHcXp4YnJwLVY5UV8zcHNldnZtazdtanBkSmhuU0VNMGk3ZER1eW82WVNUMWZOaFdGUkU1TEZFeHUxRk5uUVFGeElENEZpak1TWkhkSWtiemdxMHBVRnJVYUFkYXV0VGllMVI0cEdkZW5iSnhoZzczeExoY2JwenVYTVg5eXBXVTVDaE1SNzhpM0l0QlpLVlJ3bXgtRGxoOTJxT3VmdUFtdk9KTjZpQ1pHbGdkQm8xRUdnUEhCRk9lRjZtUEYtZmx0elhXM3ByUWllbkdoVjZoTy1SZEpZWExjWHFqRlZHTWNjX1Z2N1FDWllaSHBJUEdKNFpCaVQ0YVJHclR6Nk14U1FzSWxqOU9ublNDcThNQ0M1cE1SbGZKalFsdlpIZDNIT0V3eXoycloxS0JPUUFwRWloaHdnWjNnQnJ5VDRBMFUtNHdYYnJiU3JnakZoNUc4X2VHUTJTblRrWmZJazMwOFN0WXl0T1BKZnhVZjRkb0xxTWRheEpJUlpTVVBhb01DQ3Rz?oc=5",
-          "time": "2026-10-06 18:17:34",
-          "publisher": "Yahoo新聞",
-          "severity": null
         }
       ],
       "comments": []
@@ -6963,11 +6949,11 @@
       "city": "高雄",
       "place": "高雄市前金區",
       "level": "red",
-      "news_count": 160,
+      "news_count": 159,
       "comment_count": 0,
       "negativity_pct": 12,
       "is_urgent": false,
-      "urgency_score": 220,
+      "urgency_score": 216,
       "news_articles": [
         {
           "title": "王金平遭傳「不看好高雄選情」 柯志恩競辦回應了",
@@ -8081,13 +8067,6 @@
           "time": "2026-10-06 18:27:10",
           "publisher": "自由時報",
           "severity": null
-        },
-        {
-          "title": "高雄楠梓里長候選人涉送按摩器賄選！橋檢聲押候選人樁腳2人 裁定出爐",
-          "url": "https://news.nextapple.com/local/20261006/77ACFC335286EC9D3C0D14168134FB38",
-          "time": "2026-10-06 18:13:31",
-          "publisher": "壹蘋新聞網",
-          "severity": "red"
         }
       ],
       "comments": []
@@ -9280,11 +9259,11 @@
       "city": "桃園",
       "place": "桃園市政府",
       "level": "red",
-      "news_count": 182,
+      "news_count": 180,
       "comment_count": 0,
       "negativity_pct": 5,
       "is_urgent": false,
-      "urgency_score": 209,
+      "urgency_score": 207,
       "news_articles": [
         {
           "title": "從國門「發現桃園」 城市意象化身特色伴手禮",
@@ -10545,20 +10524,6 @@
           "time": "2026-10-06 18:26:23",
           "publisher": "壹蘋新聞網",
           "severity": null
-        },
-        {
-          "title": "運動部》台灣蝶王冠閎參戰水上救生！全民運動會桃園登場",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MYm5mN1M4Q0hyYzdkVDJIUk5hSzRTY3V1MklRN3A0U3FRdENTMXdrMTV0RWtRY04zM3dtdndMN2R6ZlgxWnVka21wZ0dJNEREUGkwd3ZHRkRsa0gxbUcyb9IBZkFVX3lxTE8zNmt0bmVSQ3Z2S2J4QXktVmhxT0taMUJrdUNDNnk2VG9xcUZJSHRoT1YzZk5ZM1lFeFF4enhvTkxCRkZZU01mSmJLb0l6TlVwaXA0Z1pkQ2ZydG9PSmVzMU9IcjF4Zw?oc=5",
-          "time": "2026-10-06 18:21:00",
-          "publisher": "自由時報",
-          "severity": null
-        },
-        {
-          "title": "產官學共探供應鏈韌性 中原大學與桃園市府聚焦半導體布局",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vVFJ5RnlmS1REbjFsbDdMWmQtWnA3N0w1MVdUYUs2WmkzVjJoVVotdFU4OGQxUDVQRE5ieWtsa045ZTFBUVVjUVdSS0pNcVRXcXhYY2tWelZYeHZGc0FjetIBZkFVX3lxTE9aS2c0UFVvSnBzYUZoVTg0ZW5acmhwMnpnd2tKSmtkV2ZvMDNTdWVvTWxsbzVsMnFyLWtXOFZsQkdHZGZENFVyd095SXNPVXJyNU44UldwSVZYcVlobXFoV2xPMmFhdw?oc=5",
-          "time": "2026-10-06 18:17:00",
-          "publisher": "Google News→大紀元",
-          "severity": null
         }
       ],
       "comments": []
@@ -10568,11 +10533,11 @@
       "city": "台中",
       "place": "台中市西屯區",
       "level": "red",
-      "news_count": 224,
+      "news_count": 223,
       "comment_count": 0,
       "negativity_pct": 17,
       "is_urgent": false,
-      "urgency_score": 335,
+      "urgency_score": 334,
       "news_articles": [
         {
           "title": "與世界對接! 中市府與全球台灣客家聯合總會簽合作備忘錄",
@@ -12134,13 +12099,6 @@
           "time": "2026-10-06 18:30:05",
           "publisher": "自由時報",
           "severity": "yellow"
-        },
-        {
-          "title": "中市662家用電大戶年創2.85億度綠電、節電效益 減碳逾13萬噸",
-          "url": "https://www.storm.mg/article/11170289",
-          "time": "2026-10-06 18:17:00",
-          "publisher": "風傳媒",
-          "severity": null
         }
       ],
       "comments": []
@@ -12150,11 +12108,11 @@
       "city": "台北",
       "place": "台北市士林區",
       "level": "red",
-      "news_count": 382,
+      "news_count": 381,
       "comment_count": 0,
       "negativity_pct": 15,
       "is_urgent": false,
-      "urgency_score": 553,
+      "urgency_score": 552,
       "news_articles": [
         {
           "title": "「生生喝鮮乳」加入北市國慶活動行列 他狠酸：想不到別招幫蔣萬安了？",
@@ -14821,13 +14779,6 @@
           "url": "https://cnews.com.tw/262171006a05/",
           "time": "2026-10-06 18:33:29",
           "publisher": "匯流新聞網",
-          "severity": "yellow"
-        },
-        {
-          "title": "「絕不接受沈伯洋社區中心供毒主張」 台北5藍委反毒聯合聲明",
-          "url": "https://news.nextapple.com/politics/20261006/963DFA9CA7BBB25DF97FC5EC058B063D",
-          "time": "2026-10-06 18:19:52",
-          "publisher": "壹蘋新聞網",
           "severity": "yellow"
         }
       ],
