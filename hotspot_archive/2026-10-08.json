@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "snapshot_at": "2026-10-08T01:24:54.663695+00:00",
+  "snapshot_at": "2026-10-08T01:27:37.018404+00:00",
   "hotspots": [
     {
       "title": "藍營路線爭議",
@@ -45,27 +45,6 @@
       "comments": []
     },
     {
-      "title": "彰化車禍事件",
-      "city": "彰化",
-      "place": "彰化縣政府",
-      "level": "green",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "彰化驚悚車禍！ 疑閃燈路口未減速釀禍　雙載父女慘遭轎車撞飛10米",
-          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-10-07/2489031.html",
-          "time": "2026-10-07 18:43:28",
-          "publisher": "壹電視",
-          "severity": "yellow"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "基隆車禍事件",
       "city": "基隆",
       "place": "基隆市政府",
@@ -87,9 +66,9 @@
       "comments": []
     },
     {
-      "title": "台中陳情/抗議",
-      "city": "台中",
-      "place": "台中市政府",
+      "title": "彰化車禍事件",
+      "city": "彰化",
+      "place": "彰化縣政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -98,10 +77,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "中市教育局接獲多筆性騷陳情 明道中學立案性平調查",
-          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5598612",
-          "time": "2026-10-07 16:40:47",
-          "publisher": "自由時報",
+          "title": "彰化驚悚車禍！ 疑閃燈路口未減速釀禍　雙載父女慘遭轎車撞飛10米",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-10-07/2489031.html",
+          "time": "2026-10-07 18:43:28",
+          "publisher": "壹電視",
           "severity": "yellow"
         }
       ],
@@ -129,9 +108,9 @@
       "comments": []
     },
     {
-      "title": "雲林陳情/抗議",
-      "city": "雲林",
-      "place": "雲林縣政府",
+      "title": "台中陳情/抗議",
+      "city": "台中",
+      "place": "台中市政府",
       "level": "green",
       "news_count": 1,
       "comment_count": 0,
@@ -140,9 +119,9 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "艾杰旭罷工第3天！上百人雲林縣府前抗議 不排除無限期罷工",
-          "url": "https://news.ltn.com.tw/news/Yunlin/breakingnews/5598415",
-          "time": "2026-10-07 13:50:38",
+          "title": "中市教育局接獲多筆性騷陳情 明道中學立案性平調查",
+          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5598612",
+          "time": "2026-10-07 16:40:47",
           "publisher": "自由時報",
           "severity": "yellow"
         }
@@ -165,6 +144,27 @@
           "url": "https://more-news.tw/737479/",
           "time": "2026-10-07 19:39:46",
           "publisher": "墨新聞",
+          "severity": "yellow"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "雲林陳情/抗議",
+      "city": "雲林",
+      "place": "雲林縣政府",
+      "level": "green",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "艾杰旭罷工第3天！上百人雲林縣府前抗議 不排除無限期罷工",
+          "url": "https://news.ltn.com.tw/news/Yunlin/breakingnews/5598415",
+          "time": "2026-10-07 13:50:38",
+          "publisher": "自由時報",
           "severity": "yellow"
         }
       ],
@@ -544,9 +544,9 @@
       "comments": []
     },
     {
-      "title": "台南弊案爭議",
-      "city": "台南",
-      "place": "台南市政府",
+      "title": "基隆弊案爭議",
+      "city": "基隆",
+      "place": "基隆市政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -555,10 +555,10 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "上任馬上處理台南光電弊案！若扯到國民黨手段一樣硬　謝龍介：包庇作奸犯科我就不叫謝龍介 #少康戰情室",
-          "url": "https://www.youtube.com/watch?v=7EHZrs8GXbw",
-          "time": "2026-10-07 19:00:11",
-          "publisher": null,
+          "title": "花12萬購買槍毒不到8小時落網 基隆男屢犯槍砲罪判刑7年",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5598022",
+          "time": "2026-10-07 10:03:40",
+          "publisher": "自由時報",
           "severity": "red"
         }
       ],
@@ -586,27 +586,6 @@
       "comments": []
     },
     {
-      "title": "花蓮弊案爭議",
-      "city": "花蓮",
-      "place": "花蓮縣政府",
-      "level": "yellow",
-      "news_count": 1,
-      "comment_count": 0,
-      "negativity_pct": 100,
-      "is_urgent": false,
-      "urgency_score": 4,
-      "news_articles": [
-        {
-          "title": "國中少女控父熟睡侵犯！高分院揪「關鍵證據」依舊無罪 東部一名少女指控其父親於國中時期，趁其服藥熟睡時多次性侵，檢方因此以乘機性交等罪名起訴。台東地方法院一審判父親無罪，檢察官不服上訴至花蓮高分院。高分院審理後，認定少女證詞存重大瑕疵且疑受外部誘導，日前駁回上訴並維持無罪判決。可上訴。 9 分鐘前 ｜ 社會 國中少女控父熟睡侵犯！高分院揪「關鍵證據」依舊無罪 9 分鐘前 ｜ 社會",
-          "url": "https://news.tvbs.com.tw/local/4032872",
-          "time": "2026-10-07 15:48:17",
-          "publisher": "TVBS",
-          "severity": "red"
-        }
-      ],
-      "comments": []
-    },
-    {
       "title": "連江弊案爭議",
       "city": "連江",
       "place": "連江縣（馬祖）",
@@ -628,9 +607,9 @@
       "comments": []
     },
     {
-      "title": "基隆弊案爭議",
-      "city": "基隆",
-      "place": "基隆市政府",
+      "title": "台南弊案爭議",
+      "city": "台南",
+      "place": "台南市政府",
       "level": "yellow",
       "news_count": 1,
       "comment_count": 0,
@@ -639,10 +618,31 @@
       "urgency_score": 4,
       "news_articles": [
         {
-          "title": "花12萬購買槍毒不到8小時落網 基隆男屢犯槍砲罪判刑7年",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5598022",
-          "time": "2026-10-07 10:03:40",
-          "publisher": "自由時報",
+          "title": "上任馬上處理台南光電弊案！若扯到國民黨手段一樣硬　謝龍介：包庇作奸犯科我就不叫謝龍介 #少康戰情室",
+          "url": "https://www.youtube.com/watch?v=7EHZrs8GXbw",
+          "time": "2026-10-07 19:00:11",
+          "publisher": null,
+          "severity": "red"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "title": "花蓮弊案爭議",
+      "city": "花蓮",
+      "place": "花蓮縣政府",
+      "level": "yellow",
+      "news_count": 1,
+      "comment_count": 0,
+      "negativity_pct": 100,
+      "is_urgent": false,
+      "urgency_score": 4,
+      "news_articles": [
+        {
+          "title": "國中少女控父熟睡侵犯！高分院揪「關鍵證據」依舊無罪 東部一名少女指控其父親於國中時期，趁其服藥熟睡時多次性侵，檢方因此以乘機性交等罪名起訴。台東地方法院一審判父親無罪，檢察官不服上訴至花蓮高分院。高分院審理後，認定少女證詞存重大瑕疵且疑受外部誘導，日前駁回上訴並維持無罪判決。可上訴。 9 分鐘前 ｜ 社會 國中少女控父熟睡侵犯！高分院揪「關鍵證據」依舊無罪 9 分鐘前 ｜ 社會",
+          "url": "https://news.tvbs.com.tw/local/4032872",
+          "time": "2026-10-07 15:48:17",
+          "publisher": "TVBS",
           "severity": "red"
         }
       ],
@@ -4227,11 +4227,11 @@
       "city": "新竹市",
       "place": "新竹市政府",
       "level": "red",
-      "news_count": 40,
+      "news_count": 39,
       "comment_count": 0,
       "negativity_pct": 28,
       "is_urgent": false,
-      "urgency_score": 73,
+      "urgency_score": 72,
       "news_articles": [
         {
           "title": "竹市富禮國中通學步道完工啟用 高虹安市長：打造安全友善通學環境",
@@ -4504,13 +4504,6 @@
           "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%B8%82%E9%9B%BB%E5%8B%95%E6%A9%9F%E8%BB%8A%E5%8A%A0%E7%A2%BC%E8%A3%9C%E5%8A%A9%E4%BB%8D%E6%9C%89%E5%90%8D%E9%A1%8D-%E9%AB%98%E8%99%B9%E5%AE%89-%E8%B5%B7%E5%8A%A0%E5%85%A5%E7%B6%A0%E8%89%B2%E9%81%8B%E5%85%B7%E8%A1%8C%E5%88%97-%E5%AE%88%E8%AD%B7%E6%B8%85%E6%96%B0%E5%A5%BD%E7%A9%BA%E6%B0%A3-015500612.html",
           "time": "2026-10-07 09:55:00",
           "publisher": "Yahoo新聞",
-          "severity": null
-        },
-        {
-          "title": "竹市深化廉潔教育 結合消防護照寓教於樂",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BZVhFR2NJVlZSVGU2QzNEanNNTl8tZGFPaV9wdFQzYW9oSUJQNW8xdVFZeXJZVUpVRllFWFk5SEdYZEZKX3V2cW5LNzRDa0NQcWdSTVUyVEhFNjB4WkkwcTROSFNEWkZvQlRNT25jbmNuZw?oc=5",
-          "time": "2026-10-07 09:25:59",
-          "publisher": "Google News→國語日報社",
           "severity": null
         }
       ],
@@ -7972,11 +7965,11 @@
       "city": "高雄",
       "place": "高雄市左營區",
       "level": "red",
-      "news_count": 191,
+      "news_count": 190,
       "comment_count": 0,
       "negativity_pct": 12,
       "is_urgent": false,
-      "urgency_score": 260,
+      "urgency_score": 259,
       "news_articles": [
         {
           "title": "高雄締盟第50座國際城市！陳其邁與北九州市長簽署友好城市協定 同步啟動景點互惠",
@@ -9307,13 +9300,6 @@
           "time": "2026-10-07 09:39:20",
           "publisher": "自由時報",
           "severity": "red"
-        },
-        {
-          "title": "高雄「三寶」日常！汽車一路逆向行駛警方將開罰",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5597989",
-          "time": "2026-10-07 09:25:29",
-          "publisher": "自由時報",
-          "severity": "yellow"
         }
       ],
       "comments": []
