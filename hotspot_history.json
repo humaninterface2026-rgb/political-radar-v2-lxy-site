@@ -116549,7 +116549,7 @@
     },
     {
       "date": "2026-10-10",
-      "snapshot_at": "2026-10-10T10:25:03.575158+00:00",
+      "snapshot_at": "2026-10-10T10:33:11.504462+00:00",
       "hotspots": [
         {
           "title": "垃圾山",
@@ -116663,11 +116663,11 @@
           "city": "嘉義縣",
           "place": "嘉義縣政府",
           "level": "green",
-          "news_count": 6,
+          "news_count": 4,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 6,
+          "urgency_score": 4,
           "sample_titles": [
             "嘉義縣「健康321」任務回顧 限時抽禮券好禮",
             "番路柿子節登場 嘉義縣長翁章梁邀民眾品嚐在地柿子",
@@ -116845,15 +116845,31 @@
           ]
         },
         {
+          "title": "苗栗地方動態",
+          "city": "苗栗",
+          "place": "苗栗縣政府",
+          "level": "yellow",
+          "news_count": 29,
+          "comment_count": 0,
+          "negativity_pct": 0,
+          "is_urgent": false,
+          "urgency_score": 29,
+          "sample_titles": [
+            "民進黨苗栗縣長參選人陳品安10月9日與無黨籍竹南鎮長參選人葉忠倫、民進黨縣議員參選人邱毓興共同舉辦在竹南的第首場問政說明",
+            "端政策牛肉！陳品安攜手葉忠倫、邱毓興 拚開創苗栗新局 | 自由電子報",
+            "端政策牛肉！陳品安攜手葉忠倫、邱毓興 拚開創苗栗新局"
+          ]
+        },
+        {
           "title": "桃園地方動態",
           "city": "桃園",
           "place": "桃園市政府",
           "level": "yellow",
-          "news_count": 64,
+          "news_count": 63,
           "comment_count": 0,
           "negativity_pct": 0,
           "is_urgent": false,
-          "urgency_score": 64,
+          "urgency_score": 63,
           "sample_titles": [
             "金檔獎名單出爐 桃園再傳捷報",
             "活化桃園核心 佀廣洋發表「桃園區觀光藝文發展白皮書」",
@@ -116924,22 +116940,6 @@
           ]
         },
         {
-          "title": "金門地方動態",
-          "city": "金門",
-          "place": "金門縣政府",
-          "level": "red",
-          "news_count": 30,
-          "comment_count": 0,
-          "negativity_pct": 3,
-          "is_urgent": false,
-          "urgency_score": 33,
-          "sample_titles": [
-            "越南車手飛金門收款「還先住民宿」 涉詐欺遭羈押禁見",
-            "金門老戲院如何重生？林務局長建議串聯縣府、旅行社 打造戰地文化體驗",
-            "慶雙十 防災士、金門合唱團領唱國歌 (圖)"
-          ]
-        },
-        {
           "title": "台南地方動態",
           "city": "台南",
           "place": "台南市政府",
@@ -116956,19 +116956,19 @@
           ]
         },
         {
-          "title": "苗栗地方動態",
-          "city": "苗栗",
-          "place": "苗栗縣政府",
+          "title": "金門地方動態",
+          "city": "金門",
+          "place": "金門縣政府",
           "level": "red",
-          "news_count": 31,
+          "news_count": 30,
           "comment_count": 0,
-          "negativity_pct": 0,
+          "negativity_pct": 3,
           "is_urgent": false,
-          "urgency_score": 31,
+          "urgency_score": 33,
           "sample_titles": [
-            "民進黨苗栗縣長參選人陳品安10月9日與無黨籍竹南鎮長參選人葉忠倫、民進黨縣議員參選人邱毓興共同舉辦在竹南的第首場問政說明",
-            "端政策牛肉！陳品安攜手葉忠倫、邱毓興 拚開創苗栗新局 | 自由電子報",
-            "端政策牛肉！陳品安攜手葉忠倫、邱毓興 拚開創苗栗新局"
+            "越南車手飛金門收款「還先住民宿」 涉詐欺遭羈押禁見",
+            "金門老戲院如何重生？林務局長建議串聯縣府、旅行社 打造戰地文化體驗",
+            "慶雙十 防災士、金門合唱團領唱國歌 (圖)"
           ]
         },
         {
@@ -117008,11 +117008,11 @@
           "city": "花蓮",
           "place": "花蓮縣政府",
           "level": "red",
-          "news_count": 45,
+          "news_count": 44,
           "comment_count": 0,
           "negativity_pct": 11,
           "is_urgent": false,
-          "urgency_score": 60,
+          "urgency_score": 59,
           "sample_titles": [
             "花蓮中興部落國慶創新 女蛙兵展愛國精神",
             "花蓮榮家舉辦國慶升旗典禮 幼兒遊行互動共融歡慶雙十",
@@ -117040,11 +117040,11 @@
           "city": "新北",
           "place": "新北市政府",
           "level": "red",
-          "news_count": 67,
+          "news_count": 66,
           "comment_count": 0,
-          "negativity_pct": 1,
+          "negativity_pct": 2,
           "is_urgent": false,
-          "urgency_score": 70,
+          "urgency_score": 69,
           "sample_titles": [
             "新北貢寮澳底海域「漁船翻覆」4人落海！仍1人失蹤",
             "新北蘆洲2車擦撞掃倒路邊4機車 釀2傷",
@@ -117088,11 +117088,11 @@
           "city": "台北",
           "place": "台北市松山區",
           "level": "red",
-          "news_count": 201,
+          "news_count": 200,
           "comment_count": 0,
-          "negativity_pct": 7,
+          "negativity_pct": 8,
           "is_urgent": false,
-          "urgency_score": 246,
+          "urgency_score": 245,
           "sample_titles": [
             "蔣萬安〈台北安可〉又翻車？旋律「撞1神曲」她看傻了",
             "不只台北市！雙姝對決爆內參民調「只差個位數」",
